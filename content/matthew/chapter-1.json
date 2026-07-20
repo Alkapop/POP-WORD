@@ -1,0 +1,326 @@
+{
+  "type": "chapterStudy",
+  "book": "Matthew",
+  "chapter": 1,
+  "chapterTitle": "The Genealogy of the King and the Birth of Immanuel",
+  "themeTitle": "“Every Promise Stands Up and Walks: The King Has Come”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.",
+      "understanding": "This single sentence is the hinge of the whole Bible. After four hundred silent years since Malachi, Matthew opens the New Testament by declaring that Jesus is the Christ (the anointed King), the son of David (heir to the throne) and the son of Abraham (the blessing to all nations). The phrase 'the book of the genealogy' (biblos geneseōs) deliberately echoes Genesis — a new beginning has come.",
+      "words": [
+        { "strongs": "G1078", "hebrew": "γένεσις", "translit": "génesis", "english": "genealogy / origin" },
+        { "strongs": "G5547", "hebrew": "Χριστός", "translit": "Christós", "english": "Christ / Anointed" }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers.",
+      "understanding": "The line runs through the patriarchs — Abraham, Isaac, Jacob — and then narrows to Judah, not the firstborn, because Jacob had prophesied that the scepter would never depart from Judah (Genesis 49:10). The words 'and his brothers' quietly gather all twelve tribes of Israel into the King's story.",
+      "words": [
+        { "strongs": "G1080", "hebrew": "γεννάω", "translit": "gennáō", "english": "became the father of" }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Judah became the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram.",
+      "understanding": "Here Matthew does the unthinkable for a Jewish royal pedigree — he names a woman, and a scandalous one. Tamar disguised herself to force Judah to keep his covenant (Genesis 38), and out of that broken, shameful episode came Perez, an ancestor of the Messiah. Grace was in the bloodline from the very start."
+    },
+    {
+      "v": 4,
+      "text": "Ram became the father of Amminadab. Amminadab became the father of Nahshon. Nahshon became the father of Salmon.",
+      "understanding": "The line moves through the wilderness generation. Nahshon was the prince of Judah who marched first out of Egypt (Numbers 2:3) — unremarkable names carrying an unbreakable promise across the centuries."
+    },
+    {
+      "v": 5,
+      "text": "Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse.",
+      "understanding": "Two more women, and both are Gentiles. Rahab was the Canaanite prostitute who hid Israel's spies and was spared when Jericho fell (Joshua 2), and Ruth was the Moabite widow whose loyalty made her David's great-grandmother. The King of the Jews carries Gentile blood — the gospel was always meant for the nations."
+    },
+    {
+      "v": 6,
+      "text": "Jesse became the father of King David. David became the father of Solomon by her who had been Uriah’s wife.",
+      "understanding": "The line reaches its royal peak: King David. But Matthew refuses to sanitize the crown — Solomon's mother is named only as 'her who had been Uriah's wife,' a deliberate reminder of David's adultery and murder (2 Samuel 11). The King comes from a line that desperately needed the salvation He would bring."
+    },
+    {
+      "v": 7,
+      "text": "Solomon became the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa.",
+      "understanding": "Solomon's glory fractures fast. Rehoboam split the kingdom in two; Abijah walked in his father's sins; but Asa turned and sought the LORD. The royal line is a mixture of the faithful and the faithless, and the promise runs through both."
+    },
+    {
+      "v": 8,
+      "text": "Asa became the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah.",
+      "understanding": "Good kings and the coming Messiah pass together down the generations. Between Joram and Uzziah, Matthew telescopes past three wicked descendants who came through Joram's marriage into Ahab's house (Ahaziah, Joash, and Amaziah) — arranging the list into memorable groups of fourteen without breaking the true line of descent."
+    },
+    {
+      "v": 9,
+      "text": "Uzziah became the father of Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah.",
+      "understanding": "Jotham, then Ahaz — one of Judah's most faithless kings. Remember his name: it was to this very Ahaz that Isaiah first spoke the sign of Immanuel (Isaiah 7:14). Then came Hezekiah, who trusted God and prayed when Assyria surrounded Jerusalem."
+    },
+    {
+      "v": 10,
+      "text": "Hezekiah became the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah.",
+      "understanding": "Hezekiah's son Manasseh was the most wicked king Judah ever knew, yet even he repented in the end (2 Chronicles 33). Amon returned to evil; Josiah became the last great reformer. The line staggers between darkness and light, and still the promise holds fast."
+    },
+    {
+      "v": 11,
+      "text": "Josiah became the father of Jechoniah and his brothers, at the time of the exile to Babylon.",
+      "understanding": "The word every Jewish reader dreaded appears inside the King's own genealogy: the exile. Josiah's line carries the nation down into Babylon, the covenant seemingly in ruins. Yet Matthew writes the catastrophe right into the record — not even exile could sever the thread God was weaving toward the Christ."
+    },
+    {
+      "v": 12,
+      "text": "After the exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel.",
+      "understanding": "Out of the ashes of exile, hope. Zerubbabel led the remnant home and rebuilt the temple (Ezra 3; Haggai 2). Notice too that Jechoniah, cursed in Jeremiah 22:30 to be written 'childless' so that none of his seed would prosper on David's throne, still fathers the royal line — a legal knot that only a virgin birth could untie."
+    },
+    {
+      "v": 13,
+      "text": "Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor.",
+      "understanding": "The names now grow unfamiliar — Abiud, Eliakim, Azor. These are the hidden generations of the four hundred silent years, men whose stories Scripture never tells, yet each one a link God would not allow to break."
+    },
+    {
+      "v": 14,
+      "text": "Azor became the father of Zadok. Zadok became the father of Achim. Achim became the father of Eliud.",
+      "understanding": "Zadok, Achim, Eliud — obscure names, faithful providence. God was working through the anonymous and the forgotten just as surely as He worked through David and Abraham."
+    },
+    {
+      "v": 15,
+      "text": "Eliud became the father of Eleazar. Eleazar became the father of Matthan. Matthan became the father of Jacob.",
+      "understanding": "Eliud to Eleazar to Matthan to Jacob — the last quiet steps before the dawn. Heaven had been silent for four centuries, but the genealogy kept marching, generation by generation, toward the appointed hour."
+    },
+    {
+      "v": 16,
+      "text": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ.",
+      "understanding": "The rhythm suddenly breaks. Fifteen times Matthew has written 'became the father of,' but here he stops — Jacob became the father of Joseph, and then, with great care, 'Joseph, the husband of Mary, from whom was born Jesus.' The 'whom' is grammatically feminine: Jesus was born of Mary, not begotten by Joseph. The human chain of fathers ends, and God Himself begins a new line.",
+      "words": [
+        { "strongs": "G1080", "hebrew": "γεννάω", "translit": "gennáō", "english": "father of / born" }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations.",
+      "understanding": "Matthew reveals his design — three sets of fourteen generations: Abraham to David, David to the exile, and the exile to the Christ. Fourteen is the numeric value of David's name in Hebrew (D-V-D, 4+6+4). The whole genealogy is a drumbeat spelling one word again and again: David, David, David — the King has come."
+    },
+    {
+      "v": 18,
+      "text": "Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit.",
+      "understanding": "Now the account turns from the line to the birth itself. Mary was betrothed to Joseph — a binding covenant far stronger than a modern engagement — and 'before they came together' she was found to be pregnant. Matthew states the cause immediately, before any scandal can even be imagined: 'by the Holy Spirit.'",
+      "words": [
+        { "strongs": "G4151", "hebrew": "πνεῦμα", "translit": "pneûma", "english": "Spirit" }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly.",
+      "understanding": "Joseph is called a 'righteous man' (dikaios) — and watch what real righteousness looks like. Rather than expose Mary to public disgrace or demand the full letter of the law, he resolved to divorce her quietly. True righteousness is merciful; it seeks to cover, not to shame.",
+      "words": [
+        { "strongs": "G1342", "hebrew": "δίκαιος", "translit": "díkaios", "english": "righteous" }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "But when he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary, your wife, for that which is conceived in her is of the Holy Spirit.",
+      "understanding": "Heaven interrupts Joseph's plan. The angel addresses him as 'son of David' — reminding him of the royal role he is about to play — and tells him not to fear, for the child is conceived by the Holy Spirit. Joseph's obedience will make him the legal father who grafts Jesus onto David's throne."
+    },
+    {
+      "v": 21,
+      "text": "She shall give birth to a son. You shall call his name Jesus, for it is he who shall save his people from their sins.”",
+      "understanding": "The name is the mission. 'You shall call his name Jesus' — Yeshua, 'Yahweh saves' — 'for it is he who shall save his people from their sins.' Not from Rome, not from poverty, but from sin itself. The King's crown and the Savior's cross are named in a single breath.",
+      "words": [
+        { "strongs": "G2424", "hebrew": "Ἰησοῦς", "translit": "Iēsoûs", "english": "Jesus" },
+        { "strongs": "G4982", "hebrew": "σώζω", "translit": "sṓzō", "english": "save" }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "Now all this has happened, that it might be fulfilled which was spoken by the Lord through the prophet, saying,",
+      "understanding": "Matthew introduces his signature formula for the first of roughly ten times across the Gospel: 'that it might be fulfilled which was spoken by the Lord through the prophet.' Every event in Jesus' life is the Old Testament standing up and walking."
+    },
+    {
+      "v": 23,
+      "text": "“Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel”; which is, being interpreted, “God with us.”",
+      "understanding": "The prophecy is Isaiah 7:14 — the virgin will conceive and bear a son called Immanuel. Matthew translates it so no one can miss the weight: 'God with us.' The Gospel that opens with God coming to dwell among His people will close with His promise, 'I am with you always' (28:20).",
+      "words": [
+        { "strongs": "G3933", "hebrew": "παρθένος", "translit": "parthénos", "english": "virgin" },
+        { "strongs": "G1694", "hebrew": "Ἐμμανουήλ", "translit": "Emmanouḗl", "english": "Immanuel / God with us" }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;",
+      "understanding": "Joseph's faith is measured not in words but in obedience. He 'arose from his sleep and did as the angel of the Lord commanded him' — immediately, fully — taking Mary as his wife and taking the shame upon himself."
+    },
+    {
+      "v": 25,
+      "text": "and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.",
+      "understanding": "Joseph honored the miracle by keeping Mary a virgin until the birth, and then he performed the father's act of naming — 'He named him Jesus' — legally claiming the child as his son and heir of David, exactly as the angel had commanded."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Broken Chain of 'Begat'",
+      "verseRef": "v. 16",
+      "image": "Picture a blacksmith's chain being forged link by identical link, the hammer falling in perfect rhythm for forty-two blows: Abraham begat, Isaac begat, Jacob begat, David begat, on and on down the centuries. Fifteen hundred years of fathers begetting sons, an unbroken metallic clang. Then, at the very last link, the hammer stops in midair. The pattern does not complete. Matthew does not write 'Joseph begat Jesus.' He writes instead, 'Joseph, the husband of Mary, from whom was born Jesus.'",
+      "meaning": "The deliberate break in the grammar is the whole point. No human father begets this child. The chain of fallen humanity, running from Adam through David through the exile, has reached its end, and God begins a brand-new humanity in the womb of a virgin. Jesus is the true heir of David through Joseph's legal fatherhood, yet He is the Son of God by the Holy Spirit. The rhythm breaks so a new song can begin."
+    },
+    {
+      "title": "Four Women in a King's Pedigree",
+      "verseRef": "v. 3, 5, 6",
+      "image": "Imagine an ancient royal scroll, meant to display only the noblest fathers, unfurled before a proud Jewish audience. And there, written boldly into the King's own lineage, are four names no one expected: Tamar, who played the harlot to trap Judah; Rahab, the Canaanite prostitute of Jericho; Ruth, the outsider from cursed Moab; and Bathsheba, named by her scandal as 'her who had been Uriah's wife.' Four women, three of them Gentiles, all of them touched by sin, sorrow, or shame.",
+      "meaning": "In a culture where genealogies ran through men and celebrated purity of blood, this was a scandal by design. Matthew is preaching before he ever describes a miracle: the Messiah's own bloodline is full of grace for sinners and open doors for the nations. If Tamar, Rahab, Ruth, and Bathsheba belong in the line of the King, then no past is too broken to be woven into His story."
+    },
+    {
+      "title": "The Three Measures of Fourteen",
+      "verseRef": "v. 17",
+      "image": "Hear the genealogy as music. Three great measures, each with fourteen beats. The first measure rises from Abraham up to the golden height of King David. The second measure falls from David's throne down into the darkness of the Babylonian exile. The third climbs back up out of the ruins, through obscure and silent generations, until it lands on one triumphant final note: the Christ.",
+      "meaning": "Fourteen is the numeric value of the name David in Hebrew (dalet-vav-dalet, 4+6+4). Matthew has arranged history itself into a song whose refrain is the King's name, sounded three times. Rise, fall, and rise again — the pattern of the cross and resurrection is already stamped into the shape of the family tree. The whole of Israel's story was always leading here."
+    },
+    {
+      "title": "The Carpenter Who Woke Up and Obeyed",
+      "verseRef": "v. 20, 24",
+      "image": "See a young carpenter lying awake, then finally asleep, his heart torn in two. He loves Mary but believes he has been betrayed. He has made his quiet, merciful decision to divorce her secretly. Into that troubled sleep an angel breaks like a shaft of light: 'Joseph, son of David, don't be afraid.' When Joseph opens his eyes, he does not argue, does not delay, does not protect his reputation. He rises, and he takes his wife.",
+      "meaning": "Joseph never speaks a single word in all of Scripture, yet he thunders through this chapter by his obedience. God asked him to marry a woman the whole town would assume he had wronged, to father a child that was not biologically his, and to name that child Savior. Righteous faith, Matthew shows us, is not loud — it simply rises in the morning and does what God said, whatever it costs."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      { "label": "The Genealogy of the King (v. 1-17)", "body": "Three sets of fourteen generations prove Jesus is the legal son of David and the son of Abraham, weaving sinners, Gentile women, and even the exile into the Messiah's line." },
+      { "label": "Joseph's Righteous Dilemma (v. 18-19)", "body": "Mary is found pregnant by the Holy Spirit, and her betrothed, a righteous man, resolves to divorce her quietly rather than shame her." },
+      { "label": "The Angel's Revelation and the Naming (v. 20-21)", "body": "An angel commands Joseph not to fear but to take Mary, and names the child Jesus — 'Yahweh saves' — because He will save His people from their sins." },
+      { "label": "The First Fulfillment: Immanuel (v. 22-23)", "body": "Matthew's fulfillment formula debuts, tying the virgin birth to Isaiah 7:14 and revealing the child's deepest name: God with us." },
+      { "label": "Joseph's Obedience (v. 24-25)", "body": "Joseph wakes, takes Mary as his wife, keeps her a virgin until the birth, and names the child Jesus, sealing His legal claim to David's throne." }
+    ],
+    "sections": [
+      {
+        "heading": "Grace in the Bloodline: Why the Genealogy Is Gospel",
+        "paragraphs": [
+          "A modern reader is tempted to skip the list of names and rush to the manger. That is a mistake, because the genealogy is not a dry preamble — it is Matthew's opening sermon. To a Jewish audience, a genealogy was a legal document establishing rights and inheritance. Matthew's first task is to prove that this Jesus of Nazareth has the legal pedigree to sit on David's throne, and he does it: son of David, son of Abraham, forty-two generations of documented descent. The King has papers. The promise made to Abraham in Genesis 12 and to David in 2 Samuel 7 has a named, datable, legal heir.",
+          "But Matthew does something no proud genealogist would ever do. He writes the scandals in. He names four women in an era when women were never listed, and he chooses the most controversial ones — Tamar, Rahab, Ruth, and the wife of Uriah. He records David's adultery, Solomon's split kingdom, Manasseh's idolatry, and the shame of the Babylonian exile. This is deliberate. The Messiah did not descend from a line of spotless saints; He descended from a line of sinners who needed exactly the salvation His name announces. Grace is not a New Testament afterthought; it is written into the DNA of the King.",
+          "There is also a hidden legal miracle buried in verse 12. Jechoniah (Coniah) had been placed under a curse in Jeremiah 22:30 — no descendant of his would prosper on David's throne. Joseph descends from this cursed royal line through Solomon, which is why he holds the legal throne-right and can pass it to Jesus by adoption. Yet because Jesus is conceived by the Holy Spirit and not physically fathered by Joseph, He inherits the legal claim without inheriting Jechoniah's cursed blood. The virgin birth is the only way both the promise to David and the curse on Jechoniah could stand at once. God is that precise."
+        ]
+      },
+      {
+        "heading": "The Virgin, the Spirit, and the Name That Is a Mission",
+        "paragraphs": [
+          "At verse 18 Matthew turns from the ancestry to the miracle. Mary is betrothed — which in that culture was a legally binding covenant that could only be dissolved by divorce — and 'before they came together' she is found pregnant. Matthew immediately supplies the cause so no reader can jump to the obvious human conclusion: 'by the Holy Spirit.' The conception is not the product of scandal but of creation; the same Spirit who hovered over the waters in Genesis 1 now brings forth the second Adam in a virgin's womb. This is why the word Matthew reaches for in verse 1, genesis, matters so much — he is announcing a new book of beginnings.",
+          "The angel names the child before He is born, and the name is the whole gospel in miniature. 'You shall call his name Jesus — Yeshua, Yahweh saves — for it is he who shall save his people from their sins.' Notice precisely what He saves from. A first-century Jew longed for a Messiah who would save them from Rome, from taxes, from occupation. But the angel reaches past every symptom to the disease itself: sin. The King's throne and the Savior's cross are joined in His very name. He is not merely a ruler to be admired; He is a rescuer of the guilty.",
+          "Then comes verse 23 and the deepest name of all: Immanuel, God with us. Matthew has already told us Jesus saves; now he tells us who Jesus is. The One in the manger is not a prophet God sent from a distance but God Himself come near. This is the great bracket of the entire Gospel of Matthew: it opens here with 'God with us,' and it closes in 28:20 with the risen King's own words, 'I am with you always, to the end of the age.' From the first chapter to the last, the message is presence — the God who was with us in a cradle is with us still."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Matthew 1 is itself the fulfillment of the Old Testament, but its threads are gathered up and interpreted across the rest of the New Testament in a way that seals its meaning. Paul draws the same line Matthew draws — from Abraham, to David, to a woman, to salvation — in Galatians 4:4-5: 'But when the fullness of the time came, God sent out his Son, born to a woman, born under the law, that he might redeem those who were under the law.' Everything in Matthew's genealogy was the clock ticking toward that 'fullness of time.' The four hundred silent years, the obscure post-exilic names, the whole three-times-fourteen march — all of it was God waiting for the exact hour to send His Son, born of a woman, to redeem sinners like the very ones listed in the King's own family tree.",
+        "The name given in verse 21 is vindicated in Acts 4:12, where Peter declares of Jesus, 'There is salvation in no one else, for there is no other name under heaven that is given among men, by which we must be saved.' The angel said He would 'save his people from their sins'; Peter announces to the Sanhedrin that this saving is found in that one name alone. And the promise of Immanuel in verse 23 is answered by the Lord's own final words in Matthew 28:20 — 'I am with you always, to the end of the age' — so that the whole Gospel is bracketed by the presence of God: cradle to commission, God is with us."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Genealogy / Origin",
+      "hebrew": "γένεσις",
+      "translit": "génesis",
+      "strongs": "G1078",
+      "verses": "v. 1, 18",
+      "insight": "The very first noun of the New Testament, meaning origin, birth, or beginning — the same word that titles the book of Genesis. Matthew's phrase 'biblos geneseōs' ('the book of the genesis') deliberately echoes 'these are the generations' of Genesis 2:4 and 5:1. He is signaling that this is a new creation, a new book of beginnings, and that Jesus is the second Adam launching a redeemed humanity."
+    },
+    {
+      "english": "Became the Father Of / Beget",
+      "hebrew": "γεννάω",
+      "translit": "gennáō",
+      "strongs": "G1080",
+      "verses": "v. 2-16, 20",
+      "insight": "To procreate, to beget, properly used of the father. Matthew hammers this verb like a drumbeat through the whole genealogy — begat, begat, begat — building an unbroken chain of human fathers. Then at verse 16 the drum stops: the active 'begat' is dropped and a passive is used of Mary, 'from whom was born Jesus.' The word that ran the whole list refuses to say Joseph fathered Jesus. The grammar itself preaches the virgin birth."
+    },
+    {
+      "english": "Jesus",
+      "hebrew": "Ἰησοῦς",
+      "translit": "Iēsoûs",
+      "strongs": "G2424",
+      "verses": "v. 1, 16, 21, 25",
+      "insight": "The Greek form of the Hebrew Yeshua / Yehoshua, meaning 'Yahweh saves' or 'Yahweh is salvation.' The dictionary itself notes its Hebrew origin (H3091, Joshua). This is not a name chosen for its sound; it is a job description declared by heaven. When the angel says 'call his name Jesus, for he will save,' the reason is folded inside the name. The King's mission is spoken every time His name is spoken."
+    },
+    {
+      "english": "Save",
+      "hebrew": "σώζω",
+      "translit": "sṓzō",
+      "strongs": "G4982",
+      "verses": "v. 21",
+      "insight": "To rescue, deliver, protect, heal, make whole. The word is broad enough to cover physical deliverance, but the angel narrows its target with surgical precision: He will save 'from their sins.' Not from Rome, not from poverty, not merely from circumstances — from the root disease of the human heart. This single verse defines the entire ministry to come: the Great Physician has come to cure the deepest sickness there is."
+    },
+    {
+      "english": "Immanuel / God With Us",
+      "hebrew": "Ἐμμανουήλ",
+      "translit": "Emmanouḗl",
+      "strongs": "G1694",
+      "verses": "v. 23",
+      "insight": "A transliteration of the Hebrew Immanu-El, literally 'with-us God' (from H6005). Matthew even stops to translate it for his readers — 'which is, being interpreted, God with us' — because it is the whole doctrine of the incarnation compressed into one name. It is the great bracket of his Gospel: 'God with us' in chapter 1, and 'I am with you always' in chapter 28. The King is not a distant deity; He is God who moved in."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: your sense of whether your past disqualifies you, the price of quiet obedience, and what you are really asking God to save you from.",
+    "items": [
+      {
+        "title": "You Belong in a Genealogy of Grace",
+        "body": "Look again at the names God chose to put in His own Son's family tree: a woman who played the harlot, a Gentile prostitute, an outsider from Moab, a wife stolen through adultery, a kingdom-splitting fool, an idol-worshiping king, and a nation dragged off into exile. This is the pedigree of the King of kings. If God wove Tamar, Rahab, Ruth, and Bathsheba into the line of the Messiah, then the enemy is lying to you when he whispers that your history has locked you out. What sin, what failure, what shame have you decided makes you unusable to God? Whose story does He include that you assumed He would exclude?"
+      },
+      {
+        "title": "The Righteousness of Joseph",
+        "body": "Matthew calls Joseph a 'righteous man,' and then shows you righteousness in motion — not loud, not self-protecting, but merciful and obedient. He was willing to cover Mary rather than expose her, and when God asked him to do the far harder thing, he rose from his sleep and did it, absorbing a lifetime of raised eyebrows and whispered suspicion. Righteousness cost Joseph his reputation. Is there an obedience God has asked of you that you are avoiding, not because it is wrong, but because of what people will think? Will you do what God said, or what protects your name?"
+      },
+      {
+        "title": "Saved From Your Sins, Not Just Your Storms",
+        "body": "The people of Jesus' day wanted a Messiah to save them from Rome. Many of us still pray that way — save me from this boss, this diagnosis, this shortage, this heartache. But the angel said He came to save His people 'from their sins.' God is far more committed to your holiness than to your comfort. When you cry 'save me,' are you asking Him to rearrange your circumstances, or to deliver you from the sin that is actually killing you? Would you let Him save you from the very thing you have been protecting?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Disqualification Lie",
+        "body": "What one thing in your past — a sin, a season, a scandal, a failure — have you quietly decided puts you outside of God's real usefulness? Now set it beside Tamar, Rahab, and Bathsheba in the King's own line. Is your story truly darker than the bloodline God chose for His Son?"
+      },
+      {
+        "title": "The Reputation Test",
+        "body": "Like Joseph, is there an act of obedience you are hesitating over — not because you doubt it is right, but because of how it will look to people around you? What are you protecting more: your name, or your obedience to God's voice?"
+      },
+      {
+        "title": "Save Me From What?",
+        "body": "Listen to your own prayers this past month. When you asked God to 'save' or 'help' you, were you mostly asking Him to change a circumstance, or to change you? Name the one sin you would least like Jesus to deal with — that is probably exactly what His name means to save you from."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Trace Your Own Genealogy of Grace",
+        "body": "Tonight, take a sheet of paper and write out the honest line that led you to Christ — the broken people, the wrong turns, the shameful chapters, the exiles and returns God used to bring you to Himself. Do not clean it up. Then across the top write, 'and from all of this, grace,' and thank God out loud that He writes real sinners into His story."
+      },
+      {
+        "title": "Speak the Name Over the Sin",
+        "body": "This week, name one specific sin you have been tolerating. Then pray the meaning of Jesus' name directly over it: 'Yeshua — Yahweh saves — You came to save Your people from their sins, so save me from this one. I do not want it managed; I want it defeated.' Repeat it every day this week until you mean it in your bones."
+      }
+    ]
+  },
+  "prayerReflection": "\"Father, I come to You in the name that means everything — Jesus, Yahweh saves. Thank You that the King came down a bloodline full of sinners like me, that You wrote Tamar and Rahab and Ruth and the exile itself into the story of the Christ, and that my past does not lock me out of Your purpose. Lord, You did not come to save me only from my storms; You came to save me from my sins, so I stop pretending and I ask You now — save me from the very thing I have been protecting. Make me like Joseph, a righteous heart that rises from sleep and simply does what You said, no matter the cost to my name. And thank You, Immanuel, that You are not a distant God. You are God with us. Be with me today, be with me in my exile and in my return, be with me always, to the very end of the age. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "Tamar and Judah: Grace in the Scandal",
+      "ref": "Genesis 38",
+      "relatedVerses": "v. 3",
+      "summary": "Judah left his widowed daughter-in-law Tamar without the husband the law owed her, so she disguised herself as a prostitute and conceived twins by Judah himself. When her pregnancy was discovered, Judah demanded she be burned — until she produced his own staff and seal and he confessed, 'She is more righteous than I.' From that tangled, shameful episode came Perez, and the messianic line ran straight through him. Matthew names Tamar in verse 3 precisely because her story shouts that God's grace was reaching into human brokenness from the very beginning."
+    },
+    {
+      "title": "Rahab at Jericho: A Gentile Harlot in the King's Line",
+      "ref": "Joshua 2; 6:22-25",
+      "relatedVerses": "v. 5",
+      "summary": "When Israel's spies entered Jericho, it was Rahab, a Canaanite prostitute, who hid them on her roof and confessed that the LORD their God is 'God in heaven above and on the earth beneath.' She tied the scarlet cord in her window and was spared when the walls fell, and she went on to marry into Israel and become the mother of Boaz. Matthew places her in verse 5 as living proof that faith, not bloodline, brings you into the family of the King — and that the gospel was always aimed at the nations. The book of Hebrews later honors her among the heroes of faith (Hebrews 11:31)."
+    },
+    {
+      "title": "Ahaz and the Sign of Immanuel",
+      "ref": "Isaiah 7:1-14",
+      "relatedVerses": "v. 9, 23",
+      "summary": "Two kings marched against Jerusalem, and faithless King Ahaz — who appears in the genealogy in verse 9 — trembled and looked to Assyria instead of to God. Through Isaiah, God offered Ahaz any sign he wanted, and when Ahaz piously refused, God gave the sign anyway: 'Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.' In its own day the prophecy promised deliverance within a generation, but its full weight waited more than seven hundred years, until a virgin in Nazareth conceived by the Holy Spirit. Matthew reaches back past the whole exile to grip that promise in verse 23: the ultimate Immanuel had finally come."
+    }
+  ]
+}

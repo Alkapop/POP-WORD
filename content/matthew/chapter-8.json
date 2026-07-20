@@ -1,0 +1,399 @@
+{
+  "type": "chapterStudy",
+  "book": "Matthew",
+  "chapter": 8,
+  "chapterTitle": "The Authority of the King on Display",
+  "themeTitle": "\"What Sort of Man Is This? — The King Whose Word Is Enough\"",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "When he came down from the mountain, great multitudes followed him.",
+      "understanding": "The King has just finished the Sermon on the Mount — the constitution of the Kingdom. Now He comes down from the mountain of words into the valley of need, where the teaching becomes touch. What He preached, He is about to prove."
+    },
+    {
+      "v": 2,
+      "text": "Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.”",
+      "understanding": "A leper — a man legally dead, banished from the camp, required by law to cry 'Unclean!' — breaks every rule to fall at Jesus' feet. Notice his theology: he never doubts the power ('you can make me clean'), only the willingness ('if you want to'). His faith is real but his picture of Jesus' heart is incomplete.",
+      "words": [
+        { "strongs": "G3015", "hebrew": "λεπρός", "translit": "leprós", "english": "leper" },
+        { "strongs": "G4352", "hebrew": "προσκυνέω", "translit": "proskynéō", "english": "worshiped" }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Jesus stretched out his hand, and touched him, saying, “I want to. Be made clean.” Immediately his leprosy was cleansed.",
+      "understanding": "The unthinkable: Jesus touches the untouchable. Under the Law that touch should have made Jesus unclean — instead, cleanness flows the other way. He answers the man's one doubt with two words, 'I want to,' before He ever heals him. Authority meets compassion, and the leprosy vanishes at once.",
+      "words": [
+        { "strongs": "G680", "hebrew": "ἅπτομαι", "translit": "háptomai", "english": "touched" },
+        { "strongs": "G2511", "hebrew": "καθαρίζω", "translit": "katharízō", "english": "made clean" }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Jesus said to him, “See that you tell nobody, but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”",
+      "understanding": "Jesus honors the Law of Moses (Leviticus 14) even as He transcends it. The healed leper becomes living evidence to the priests that One has come who can do what only God can do — cleanse leprosy. The 'testimony' is a summons to the religious establishment: the Messiah is here."
+    },
+    {
+      "v": 5,
+      "text": "When he came into Capernaum, a centurion came to him, asking him,",
+      "understanding": "The scene shifts from a Jewish outcast to a Gentile insider — a Roman officer commanding a hundred men, an agent of the occupying empire. That such a man would come pleading to a Jewish rabbi is itself a wonder."
+    },
+    {
+      "v": 6,
+      "text": "and saying, “Lord, my servant lies in the house paralyzed, grievously tormented.”",
+      "understanding": "The centurion pleads not for himself but for a servant — a slave, someone he was under no obligation to love. The word for 'tormented' pictures agony under torture; the man is suffering terribly. A hardened soldier is undone by compassion for the lowest member of his household.",
+      "words": [
+        { "strongs": "G928", "hebrew": "βασανίζω", "translit": "basanízō", "english": "grievously tormented" }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Jesus said to him, “I will come and heal him.”",
+      "understanding": "Jesus offers to enter a Gentile's house — a step that would render a scrupulous Jew ceremonially unclean. The King is willing to go wherever faith calls Him. But the centurion is about to reveal that he needs no house-call at all."
+    },
+    {
+      "v": 8,
+      "text": "The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed.",
+      "understanding": "Here is the hinge of the chapter. The centurion grasps what even Israel had missed: Jesus does not need proximity, contact, or ritual — He needs only to speak. His word is a sufficient cause. 'Just say the word' is faith reduced to its purest element: trust in the bare authority of Christ's speech.",
+      "words": [
+        { "strongs": "G3056", "hebrew": "λόγος", "translit": "lógos", "english": "word" }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”",
+      "understanding": "The soldier reasons from the chain of command he lives in every day. He himself is under authority, and because he is, his word carries the full weight of Rome behind it. He sees that Jesus stands over sickness, distance, and nature the way a general stands over his legions — one command, and reality obeys.",
+      "words": [
+        { "strongs": "G1849", "hebrew": "ἐξουσία", "translit": "exousía", "english": "authority" }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "When Jesus heard it, he marveled, and said to those who followed, “Most certainly I tell you, I haven’t found so great a faith, not even in Israel.",
+      "understanding": "Jesus marvels — one of only two things the Gospels record astonishing Him (the other is unbelief in Nazareth). The Son of God is amazed by a Gentile's faith. And He says the unthinkable to a Jewish crowd: this outsider believes better than the covenant nation.",
+      "words": [
+        { "strongs": "G2296", "hebrew": "θαυμάζω", "translit": "thaumázō", "english": "marveled" },
+        { "strongs": "G4102", "hebrew": "πίστις", "translit": "pístis", "english": "faith" }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven,",
+      "understanding": "One believing Gentile becomes a prophecy of the nations. Jesus sees a global feast — people streaming from every direction to recline at the messianic banquet with the patriarchs. The promise to Abraham, that all nations would be blessed in him, is being fulfilled before their eyes.",
+      "words": [
+        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "Kingdom" }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "but the children of the Kingdom will be thrown out into the outer darkness. There will be weeping and gnashing of teeth.”",
+      "understanding": "The warning is razor-sharp: birthright is not belief. Those who assumed a reserved seat by ancestry can be shut outside while foreigners feast inside. Access to the Kingdom is by faith, never by pedigree — a stunning reversal that must have silenced the crowd."
+    },
+    {
+      "v": 13,
+      "text": "Jesus said to the centurion, “Go your way. Let it be done for you as you have believed.” His servant was healed in that hour.",
+      "understanding": "The healing happens exactly as the centurion said it would — by a word, at a distance, with no touch. 'As you have believed' becomes the measure of the miracle. The servant is healed in that very hour, proving that Christ's authority is not bound by space."
+    },
+    {
+      "v": 14,
+      "text": "When Jesus came into Peter’s house, he saw his wife’s mother lying sick with a fever.",
+      "understanding": "The Kingdom comes home. Jesus enters the ordinary house of an ordinary disciple and finds a family member burning with fever. Note in passing: Peter, the man Rome would later call the first pope, was married — the text says so plainly."
+    },
+    {
+      "v": 15,
+      "text": "He touched her hand, and the fever left her. She got up and served him.",
+      "understanding": "Again the touch, again the instant reversal. There is no convalescence — the fever does not merely break, it 'left her,' and she rises immediately with the strength to serve. Restored people serve; the mark of a genuine healing is a life poured back out."
+    },
+    {
+      "v": 16,
+      "text": "When evening came, they brought to him many possessed with demons. He cast out the spirits with a word, and healed all who were sick;",
+      "understanding": "As the sun sets, the whole town's suffering is laid at His feet, and He turns none away — 'healed all.' Again it is by a word: the same authority the centurion trusted now empties a town of its demons. No case is too many, no disease too deep.",
+      "words": [
+        { "strongs": "G3056", "hebrew": "λόγος", "translit": "lógos", "english": "word" }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "that it might be fulfilled which was spoken through Isaiah the prophet, saying, “He took our infirmities, and bore our diseases.”",
+      "understanding": "Matthew reaches for his signature formula — this happened 'that it might be fulfilled.' He roots the healings in Isaiah 53, the Suffering Servant song. Jesus does not heal from a safe distance; He takes and bears our sicknesses onto Himself, the same shoulders that will carry our sins to the cross.",
+      "words": [
+        { "strongs": "G4137", "hebrew": "πληρόω", "translit": "plēróō", "english": "fulfilled" },
+        { "strongs": "G769", "hebrew": "ἀσθένεια", "translit": "asthéneia", "english": "infirmities" },
+        { "strongs": "G3554", "hebrew": "νόσος", "translit": "nósos", "english": "diseases" }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Now when Jesus saw great multitudes around him, he gave the order to depart to the other side.",
+      "understanding": "Crowds do not impress the King. At the height of His popularity He gives the order to leave, crossing to 'the other side' — the pagan, Gentile shore. Jesus is never managed by momentum; He moves by mission."
+    },
+    {
+      "v": 19,
+      "text": "A scribe came, and said to him, “Teacher, I will follow you wherever you go.”",
+      "understanding": "An educated religious professional volunteers with total confidence: 'wherever you go.' It sounds like the ideal disciple. But Jesus hears the word 'wherever' and knows this man has not counted where that road actually leads."
+    },
+    {
+      "v": 20,
+      "text": "Jesus said to him, “The foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.”",
+      "understanding": "Jesus does not recruit; He warns. Even animals have a place to belong, but the King of glory is homeless in His own world. To follow Him 'wherever' is to accept His homelessness — the cost is real, and He will not hide it to win a follower."
+    },
+    {
+      "v": 21,
+      "text": "Another of his disciples said to him, “Lord, allow me first to go and bury my father.”",
+      "understanding": "This request sounds utterly reasonable — burying a parent was a sacred duty in Israel. Most likely the father was not yet dead; the man is asking to postpone following until family obligations run their full course. It is the language of 'first, then You.'"
+    },
+    {
+      "v": 22,
+      "text": "But Jesus said to him, “Follow me, and leave the dead to bury their own dead.”",
+      "understanding": "A hard, deliberate word. The spiritually dead can tend to the physically dead; the living must follow the Author of life now. Jesus claims a loyalty that outranks the deepest family bond — no earthly tie may hold the higher place than the call of the King."
+    },
+    {
+      "v": 23,
+      "text": "When he got into a boat, his disciples followed him.",
+      "understanding": "They step off the shore of the familiar and follow Him onto the water — obedience that will be tested within minutes. Following Jesus does not steer you around the storm; sometimes it steers you straight into one."
+    },
+    {
+      "v": 24,
+      "text": "Behold, a violent storm came up on the sea, so much that the boat was covered with the waves, but he was asleep.",
+      "understanding": "The Greek calls it a seismos — a shaking, the word used for earthquakes — as if the sea itself convulsed. Waves swamp the boat while the King sleeps. His sleep is not neglect; it is the perfect rest of One who has nothing to fear, even as chaos breaks over Him.",
+      "words": [
+        { "strongs": "G4578", "hebrew": "σεισμός", "translit": "seismós", "english": "storm" }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "They came to him, and woke him up, saying, “Save us, Lord! We are dying!”",
+      "understanding": "Their prayer is raw and short — the honest cry of people at the end of themselves. They call Him 'Lord' and beg to be saved, which is exactly right; their only error is thinking a sleeping Christ means an indifferent one."
+    },
+    {
+      "v": 26,
+      "text": "He said to them, “Why are you fearful, O you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm.",
+      "understanding": "First He addresses their hearts, then the weather. He 'rebukes' the wind and sea — the same word used for silencing demons — as though the storm were a hostile power to be commanded. Instantly there is a great calm: not a gradual settling, but sudden, total obedience of creation to its Maker's voice.",
+      "words": [
+        { "strongs": "G2008", "hebrew": "ἐπιτιμάω", "translit": "epitimáō", "english": "rebuked" },
+        { "strongs": "G1055", "hebrew": "γαλήνη", "translit": "galḗnē", "english": "calm" },
+        { "strongs": "G4102", "hebrew": "πίστις", "translit": "pístis", "english": "faith" }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”",
+      "understanding": "This is the question the whole chapter has been driving toward. In the Old Testament only Yahweh commands the sea (Psalm 107:29). The men are staring at a man doing what only God does, and they do not yet have a category for Him. 'What kind of man is this?' — that is the confession forming in their fear."
+    },
+    {
+      "v": 28,
+      "text": "When he came to the other side, into the country of the Gergesenes, two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way.",
+      "understanding": "On the pagan shore, authority over nature becomes authority over hell. Two men so overrun by demons that they live among the dead, too violent for anyone to approach, block the road. Where fear had closed the way, the King deliberately walks in."
+    },
+    {
+      "v": 29,
+      "text": "Behold, they cried out, saying, “What do we have to do with you, Jesus, Son of God? Have you come here to torment us before the time?”",
+      "understanding": "The demons confess what the disciples were still asking: He is the Son of God. They know their doom is fixed and dated — 'before the time' — and they dread it. Hell's own agents have better Christology than the crowds; they simply refuse to bow.",
+      "words": [
+        { "strongs": "G928", "hebrew": "βασανίζω", "translit": "basanízō", "english": "torment" }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "Now there was a herd of many pigs feeding far away from them.",
+      "understanding": "A large herd of pigs — unclean animals — marks this as Gentile territory, far from any Jewish farm. The detail sets up the demons' desperate bargain and the town's revealing choice about what it truly values."
+    },
+    {
+      "v": 31,
+      "text": "The demons begged him, saying, “If you cast us out, permit us to go away into the herd of pigs.”",
+      "understanding": "The powers that terrorized a whole region are reduced to begging. They cannot touch even a pig without the King's permission. His authority is so absolute that the very demons must ask leave — every knee, even in hell, already bends to His command.",
+      "words": [
+        { "strongs": "G1140", "hebrew": "δαιμόνιον", "translit": "daimónion", "english": "demons" }
+      ]
+    },
+    {
+      "v": 32,
+      "text": "He said to them, “Go!” They came out, and went into the herd of pigs: and behold, the whole herd of pigs rushed down the cliff into the sea, and died in the water.",
+      "understanding": "One word — 'Go!' — and it is done, the same effortless authority that stilled the sea and healed the servant. The demons' true intent is exposed: they drive the herd to destruction. What lives under their power ends in the deep; deliverance costs the town its pigs but saves two men's souls."
+    },
+    {
+      "v": 33,
+      "text": "Those who fed them fled, and went away into the city, and told everything, including what happened to those who were possessed with demons.",
+      "understanding": "The herdsmen run, and the whole story spreads through the city — two of the region's most feared men are now free and clothed in their right minds. It is undeniable, public, and enormous news."
+    },
+    {
+      "v": 34,
+      "text": "Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders.",
+      "understanding": "The tragic ending. Faced with the very authority that could free them, the whole city begs Jesus to leave — they would rather keep their pigs and their comfort than keep the King. Sometimes people fear the disruption of Jesus more than they longed for His deliverance."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Touch That Ran Backward",
+      "verseRef": "v. 2-3",
+      "image": "See the crowd part like water before a shark. A leper is coming — skin white and rotting, fingers eaten to stumps, and by law his own mouth must announce his approach with the cry, 'Unclean! Unclean!' No one has felt a warm human hand on his skin in years. He falls at Jesus' feet. And then the impossible: Jesus does not step back. He reaches out and lays His bare hand on the diseased flesh.",
+      "meaning": "In every other encounter in Scripture, when the clean touches the unclean, the clean becomes defiled — contamination always flows downhill. Here it runs the other way. Jesus is so radically holy that His cleanness overpowers the man's corruption. This is the whole gospel in one gesture: God does not keep His distance from our rot; He touches it, and the rot is what surrenders."
+    },
+    {
+      "title": "The Chain of Command",
+      "verseRef": "v. 8-9",
+      "image": "A Roman officer stands in the road, sun glinting off his armor, a hundred killers under his single word. He points at a soldier — 'Go' — and the man is gone. Points at another — 'Come' — and he snaps to attention. He has spent his life inside an invisible architecture of authority, where a spoken order becomes an accomplished fact. And looking at Jesus, he suddenly sees the same architecture stretching over sickness, distance, and death itself.",
+      "meaning": "The centurion understood the spiritual world better than the theologians. He saw that reality itself is a chain of command, and that Jesus stands at a rank where a single word deploys the invisible legions of heaven. 'Just say the word.' He did not need Jesus in the room, because he understood that the King's voice is His arm."
+    },
+    {
+      "title": "The Sleeping King in the Shaking Sea",
+      "verseRef": "v. 24-26",
+      "image": "The Sea of Galilee has become a monster. A seismos — a quaking — heaves the water into walls, and the boat is already swamped, sinking under the weight of the waves. Grown fishermen who have sailed this lake their whole lives are screaming. And in the stern, on a cushion, the Maker of the sea is fast asleep. They shake Him awake; He opens His eyes; He looks at the raging deep and speaks to it the way a man silences a barking dog — and the sea goes flat as glass.",
+      "meaning": "His sleep and His command preach the same sermon: perfect authority is perfectly at rest. The storm that terrified the professionals could not disturb the nap of its Creator. When He stands and rebukes the wind, the disciples learn that the calm they were begging for was asleep in the boat with them the whole time."
+    },
+    {
+      "title": "The City That Chose Its Pigs",
+      "verseRef": "v. 32-34",
+      "image": "Two thousand pigs go thundering off a cliff and vanish into the sea. The herdsmen sprint into town white-faced. The whole city pours out to the shore — and there they find two men they had chained, avoided, and given up for lost, now sitting calm and sane at the feet of a stranger. The greatest miracle their region has ever seen is sitting right in front of them. And they look at the drowned herd, do the math, and beg the Miracle-Worker to leave.",
+      "meaning": "This is the sober warning at the chapter's close. The same authority that terrifies demons can be politely shown the door by comfortable people. The town weighed two liberated souls against a lost investment and decided Jesus was too expensive. Deliverance had come to their borders, and they asked it to move along."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      { "label": "Cleansing the Leper (v. 1-4)", "body": "The King touches the untouchable; His holiness overpowers defilement and He sends the man as a testimony to the priests." },
+      { "label": "The Centurion's Great Faith (v. 5-13)", "body": "A Gentile grasps the pure authority of Jesus' word, and Jesus declares that faith, not bloodline, opens the Kingdom." },
+      { "label": "Evening at Peter's House (v. 14-17)", "body": "He heals Peter's mother-in-law and a whole town at sunset, fulfilling Isaiah 53 by taking our infirmities onto Himself." },
+      { "label": "The Cost of Following (v. 18-22)", "body": "To an eager scribe and a hesitant disciple, Jesus reveals the homelessness and the absolute loyalty the Kingdom demands." },
+      { "label": "Stilling the Storm (v. 23-27)", "body": "The King commands the wind and sea and they obey, forcing the question, 'What sort of man is this?'" },
+      { "label": "The Gergesene Demoniacs (v. 28-34)", "body": "Authority over nature becomes authority over hell; the demons beg, obey, and the city begs Him to leave." }
+    ],
+    "sections": [
+      {
+        "heading": "One Theme, Nine Miracles: Exousia",
+        "paragraphs": [
+          "Matthew 5-7 gave us the King's words; Matthew 8-9 give us the King's works, and this chapter is the opening argument. If the Sermon on the Mount ended with the crowds 'astonished at his teaching, for he taught them with authority' (7:28-29), chapter 8 sets out to prove that the authority (exousía) behind the words is real. Watch the sphere of that authority widen with each scene: over disease (the leper), over distance (the centurion's servant, healed from across town), over the demonic and the whole burden of human sickness (evening at Peter's house), over the demands of discipleship itself (the scribe and the disciple), over nature (the storm), and finally over hell (the demoniacs). By the last verse, there is no realm left where His word does not rule.",
+          "Matthew has arranged this deliberately for his Jewish readers. The King does not merely claim a throne — He exercises it over every domain the Old Testament reserved for God alone. Only Yahweh cleanses leprosy (Numbers 12; 2 Kings 5), only Yahweh stills the raging sea (Psalm 107:29), only Yahweh commands the spirits. When Jesus does all three in a single chapter, Matthew is building an unanswerable case: this is Immanuel, God with us (1:23), walking the roads of Galilee."
+        ]
+      },
+      {
+        "heading": "Faith the King Marvels At",
+        "paragraphs": [
+          "The theological center of the chapter is the centurion, and it is a scandal on purpose. A Roman — a Gentile, an occupier, an outsider to the covenant — displays a faith that makes the Son of God stop and marvel, and Jesus says plainly that He has 'not found so great a faith, not even in Israel' (v. 10). Then He fires the warning shot that runs through all of Matthew: 'many will come from the east and the west' to feast with Abraham, while 'the children of the Kingdom will be thrown out into the outer darkness' (v. 11-12). Birthright is not belief. The Kingdom of Heaven has always been entered by faith, and a believing pagan is nearer the messianic table than an unbelieving heir.",
+          "What made the centurion's faith 'great' was not its intensity but its accuracy. He saw exactly who Jesus was — a King whose bare word is a sufficient cause — and asked for nothing more than a word. Compare that to the disciples in the same chapter, professionals who had Jesus physically in the boat and still cried 'we are dying' (v. 25). Great faith is not loud faith; it is faith that has correctly understood the authority of Christ and rests on His word alone."
+        ]
+      },
+      {
+        "heading": "He Took Our Infirmities: The Cost Beneath the Power",
+        "paragraphs": [
+          "Verse 17 keeps this chapter from becoming a mere parade of power. Matthew says the healings fulfilled Isaiah 53:4 — 'He took our infirmities, and bore our diseases' — quoting the Suffering Servant song. The words 'took' and 'bore' are not the language of a doctor treating patients from a distance; they are the language of substitution, of a weight lifted off one back and laid onto another. Every sickness Jesus healed, He absorbed. The compassion that made Him marvel and the authority that stilled the sea are the same love that will carry these infirmities all the way to a cross.",
+          "This is why the chapter refuses to let power float free of cost. In the middle of the miracles Jesus warns that 'the Son of Man has nowhere to lay his head' (v. 20) and demands a loyalty above burying one's own father (v. 22). The King who bears our diseases is a King who owns nothing and asks everything. Authority and self-emptying belong together in Him — He can command the storm precisely because He is the One willing to be broken by it."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The deepest connection runs straight through the man in whose house Jesus stood in verse 14 — Peter. Matthew tells us the evening healings 'fulfilled' Isaiah 53:4, 'He took our infirmities, and bore our diseases.' Decades later, that same Peter would take up the very same Servant song and press it all the way to Calvary: 'who his own self bore our sins in his body on the tree... by whose stripes you were healed' (1 Peter 2:24, quoting Isaiah 53:5). Peter watched Jesus 'take' sicknesses at his own doorstep in Matthew 8, and he came to understand that the same shoulders would 'bear' our sins on the cross. The bodily healings of Capernaum were a preview and a pledge of the atonement — the King who lifted diseases off the sick would lift sin itself off the world.",
+        "The centurion's inclusion carries its own New Testament fulfillment. Jesus' promise that 'many will come from the east and the west' to sit with Abraham (v. 11) is the seed of the mystery Paul would later unfold: that 'the Gentiles are fellow heirs and fellow members of the body' (Ephesians 3:6). The believing Roman of Matthew 8 is the firstfruits of the Great Commission that ends this very Gospel — 'make disciples of all nations' (Matthew 28:19). What Jesus marveled at in one soldier, He commissioned His church to gather from every nation on earth."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Authority",
+      "hebrew": "ἐξουσία",
+      "translit": "exousía",
+      "strongs": "G1849",
+      "verses": "v. 9 (and the theme of the whole chapter)",
+      "insight": "Exousía is delegated, rightful power — mastery, jurisdiction, the legal right to command. The centurion names it because he lives under it: his own word carries weight only because Rome's authority stands behind it. He recognizes in Jesus a supreme exousía over sickness, distance, wind, and demons. This is the word Matthew has been building toward since the crowds were amazed that Jesus taught 'as one having authority' (7:29). Chapter 8 is the demonstration of that claim, sphere by sphere, until nothing is left outside His command."
+    },
+    {
+      "english": "Word",
+      "hebrew": "λόγος",
+      "translit": "lógos",
+      "strongs": "G3056",
+      "verses": "v. 8, 16",
+      "insight": "Lógos is a spoken word, an utterance — but also the reasoning and thought behind it. The centurion asks Jesus to 'just say the word' (v. 8), and at evening Jesus casts out demons 'with a word' (v. 16). For Jesus, the word is the deed: to speak is to accomplish. This is the same lógos that John says was in the beginning, by whom all things were made — and here that creating Word is heard commanding creation to obey. The centurion's faith rests entirely on this: that the King's speech is His arm, and His command is the accomplished fact."
+    },
+    {
+      "english": "Faith",
+      "hebrew": "πίστις",
+      "translit": "pístis",
+      "strongs": "G4102",
+      "verses": "v. 10, 26",
+      "insight": "Pístis is trust, reliance, moral conviction resting on the trustworthiness of another. The chapter frames faith by its two extremes: the centurion's 'so great a faith' (v. 10) that stunned the Son of God, and the disciples' 'little faith' (v. 26) that panicked with Jesus in the boat. The difference is not the size of the storm but the accuracy of the trust. Great faith correctly sees the authority of Christ and rests on His word alone; little faith needs to feel the outcome before it will stop being afraid."
+    },
+    {
+      "english": "Rebuked",
+      "hebrew": "ἐπιτιμάω",
+      "translit": "epitimáō",
+      "strongs": "G2008",
+      "verses": "v. 26",
+      "insight": "Epitimáō means to censure sharply, to rebuke, to command with authority. It is striking that Matthew uses the same verb for Jesus silencing the storm that the Gospels use for Him silencing demons. He does not pray for the wind to die down or wait for the weather to shift; He rebukes it as a hostile power that must submit. The word reveals how Jesus sees the raging sea — not as impersonal chaos but as something under His direct command — and it explains why the calm that followed was instant and total (galḗne, G1055): creation obeying its Master's voice at once."
+    },
+    {
+      "english": "Cleanse",
+      "hebrew": "καθαρίζω",
+      "translit": "katharízō",
+      "strongs": "G2511",
+      "verses": "v. 2, 3",
+      "insight": "Katharízō means to make clean, to purge, to purify — carrying both physical and ceremonial-religious weight. Leprosy was never only a disease in Israel; it made a person ritually unclean, cut off from worship and community, a walking picture of sin's defilement. When Jesus makes the leper 'clean,' He is not merely curing skin — He is restoring a man to God, to worship, and to the camp. The word quietly announces the King's mission: He has come to cleanse what the Law could only quarantine."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the gap between believing that Jesus can and trusting that His bare word is enough — and with what His authority will cost you when it walks into your comfort zone.",
+    "items": [
+      {
+        "title": "The 'If You Want To' Wound",
+        "body": "The leper never doubted the power of Jesus — 'you can make me clean.' What he doubted was the willingness — 'if you want to.' And that is where most of us live. We believe God is able; we secretly wonder whether He is willing, whether He actually wants to move for someone like us. Hear the answer before you ever hear the healing: 'I want to.' Jesus reached out and touched the very thing everyone else recoiled from. Where have you been reduced to 'if you want to' — half-praying because you assume His heart is reluctant? What would change today if you truly believed He wants to?"
+      },
+      {
+        "title": "Only Say the Word",
+        "body": "The disciples had Jesus physically in the boat and still screamed that they were dying. The centurion never saw Jesus enter his house and his servant was healed in that hour. The difference was not proximity — it was trust in the authority of Christ's word. So much of our anxiety is a demand for evidence we can feel before we will stop being afraid. But great faith rests on the bare word of the King, not on the felt outcome. Is there a promise God has spoken over your life that you keep re-checking for proof, when He is asking you to simply stand on His word? Can you say, over the sickness, the debt, the child, the fear — 'Lord, just say the word'?"
+      },
+      {
+        "title": "The City That Sent Him Away",
+        "body": "This is the sobering one. A whole city met the greatest power ever to cross their border and asked it to leave — because deliverance had cost them their pigs. The authority of Jesus is disruptive; it drowns the herd, upends the economy, and refuses to fit neatly into your comfortable life. There are things He wants to free you from that you have quietly decided are too expensive to lose. Where are you politely asking Jesus to stay near your borders but not come too far inside? What 'pigs' are you protecting from His authority — and are you willing to let the herd go to keep the King?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Willingness Audit",
+        "body": "Be brutally honest: do you doubt God's power, or His willingness toward you specifically? Where in your prayer life have you slipped into 'if you want to' — asking with a built-in expectation of no, because you don't quite believe He wants good for someone like you? Name the exact area where you have stopped believing He is willing."
+      },
+      {
+        "title": "The 'Under Authority' Check",
+        "body": "The centurion trusted Jesus' word because he himself lived under authority and obeyed it. Are you actually under Christ's authority — genuinely doing what He says — or do you want the benefits of His power without submitting to His command? You cannot fully trust an authority you refuse to obey. Where are you asking Jesus to command your storm while ignoring His commands for your life?"
+      },
+      {
+        "title": "The 'Bury My Father' Test",
+        "body": "What is your 'first, let me...' — the reasonable, respectable thing you keep putting ahead of following Jesus fully right now? Jesus said 'follow me' to a man with a legitimate family duty, because the Kingdom will not sit in second place, even behind good things. Identify the one delayed obedience you have justified as 'reasonable for now.'"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Speaking His Word Over One Storm",
+        "body": "Pick the one situation this week that has you crying 'we are dying' — a diagnosis, a bill, a relationship, a fear. Tonight, name it out loud before God, and then declare His authority over it in the centurion's posture: 'Lord, I am not worthy, but I trust You. Only say the word.' Then stop re-checking it for proof. Leave it on His word the way the centurion walked home before he saw the healing."
+      },
+      {
+        "title": "Letting a Pig Go",
+        "body": "Identify one 'pig' — a comfort, habit, relationship, or investment — that you have been quietly protecting from Jesus' authority because it feels too expensive to lose. This week, deliberately hand it over. Say it plainly in prayer: 'Lord, I would rather have You in my borders than keep this. The herd is Yours; do not depart from me.' Then take one concrete step to release it."
+      }
+    ]
+  },
+  "prayerReflection": "\"Lord Jesus, King with all authority — I have seen You today. I have watched You touch the leper no one would touch, heal the servant with a word from across the town, still the shaking sea with a rebuke, and send the demons begging. So I bring You my honest heart. Forgive me for the times I have doubted not Your power but Your willingness, praying 'if You want to' as though Your heart toward me were reluctant. I hear You say, 'I want to,' and I receive Your touch on the very thing I have been ashamed to bring near You. Teach me the centurion's faith — to rest on Your bare word and stop demanding proof before I will stop being afraid. Over my storm this week I say it: I am not worthy, but only say the word, and it will be healed. And Lord, do not let me be the city that sent You away to keep its pigs. Come all the way in. Drive out whatever must drown so that I can be free. I would rather lose the whole herd than lose You. You took my infirmities and bore my diseases; now take my fear and bear my whole life. What sort of man are You? You are the Son of God, and You are with me in the boat. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "Naaman the Leper Cleansed",
+      "ref": "2 Kings 5:1-14",
+      "relatedVerses": "v. 2-4",
+      "summary": "Naaman was a mighty Syrian commander — a Gentile, like the centurion — struck with leprosy that no power of his own could touch. When the prophet Elisha simply sent word to wash seven times in the Jordan, Naaman was offended that there was no dramatic touch or ritual, until his servants persuaded him to obey the bare word. He dipped, and his flesh was restored 'like the flesh of a little child.' Both stories join in Matthew 8: leprosy that only God can cleanse, and a Gentile whose healing rebukes the unbelief of Israel — the very point Jesus makes when He marvels at the centurion's faith 'not even found in Israel.'"
+    },
+    {
+      "title": "Jonah Asleep in the Storm",
+      "ref": "Jonah 1:1-16",
+      "relatedVerses": "v. 23-27",
+      "summary": "Jonah, fleeing God, lay asleep below deck while a violent storm tore at the ship and terrified sailors cried out to their gods. To save the boat, the sailors had to throw Jonah into the sea, and only then did the raging water grow calm. Set that beside Matthew 8: another boat, another storm, another sleeping man. But where Jonah's sleep was rebellion and the sea was only stilled by casting the prophet into it, Jesus' sleep is the rest of perfect authority, and He stills the sea by a word — the greater-than-Jonah He later calls Himself (Matthew 12:41). Jonah was thrown into the deep to save the crew; Jesus commands the deep and saves them without being thrown."
+    },
+    {
+      "title": "The Cry from the Storm in Psalm 107",
+      "ref": "Psalm 107:23-30",
+      "relatedVerses": "v. 25-27",
+      "summary": "The psalmist describes sailors on the deep whom the LORD's storm lifted up to the heavens and cast down to the depths, until 'they reeled and staggered like a drunken man' and cried out to the LORD in their trouble. And then the line that Matthew 8 makes flesh: 'He makes the storm a calm, so that its waves are still... then they are glad because it is quiet.' In the Old Testament, stilling the sea is the signature act of Yahweh alone. When the disciples ask, 'What kind of man is this, that even the wind and the sea obey him?' Psalm 107 answers them: the One doing this is the LORD they have been singing to all along, now standing in their boat."
+    }
+  ]
+}

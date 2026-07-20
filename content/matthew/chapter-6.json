@@ -1,0 +1,431 @@
+{
+  "type": "chapterStudy",
+  "book": "Matthew",
+  "chapter": 6,
+  "chapterTitle": "The Audience of One — Secret Righteousness, the Model Prayer, and the Cure for Anxiety",
+  "themeTitle": "“Living for the Eyes That See in Secret”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "“Be careful that you don’t do your charitable giving before men, to be seen by them, or else you have no reward from your Father who is in heaven.",
+      "understanding": "Jesus opens the second half of the Sermon by moving from what you do to why you do it. Righteousness performed as theater — aimed at the eyes of men — quietly forfeits the only reward that counts, the Father’s. The word behind “charitable giving” is almsgiving, but the earliest manuscripts read the broader word righteousness, making this verse the banner over everything that follows.",
+      "words": [
+        { "strongs": "G1654", "hebrew": "ἐλεημοσύνη", "translit": "eleēmosynē", "english": "charitable giving / alms" },
+        { "strongs": "G3408", "hebrew": "μισθός", "translit": "misthos", "english": "reward" }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Therefore when you do merciful deeds, don’t sound a trumpet before yourself, as the hypocrites do in the synagogues and in the streets, that they may get glory from men. Most certainly I tell you, they have received their reward.",
+      "understanding": "The hypocrite hires a herald for his generosity, turning mercy into a performance for applause. Jesus’ verdict is chilling in its finality: the crowd’s admiration is the full payment — receipt stamped, account closed, nothing left owing from heaven.",
+      "words": [
+        { "strongs": "G5273", "hebrew": "ὑποκριτής", "translit": "hypokritēs", "english": "hypocrite / stage-actor" }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "But when you do merciful deeds, don’t let your left hand know what your right hand does,",
+      "understanding": "Giving should be so free of self-consciousness that even you barely register it — no mental ledger, no replaying it later for a private glow. The right hand gives; the left hand never gets the memo."
+    },
+    {
+      "v": 4,
+      "text": "so that your merciful deeds may be in secret, then your Father who sees in secret will reward you openly.",
+      "understanding": "What is hidden from every human eye is fully lit before God. The Father lives in the secret place, watches the secret gift, and repays it — the reward is not cancelled by secrecy, it is guaranteed by it.",
+      "words": [
+        { "strongs": "G2927", "hebrew": "κρυπτός", "translit": "kryptos", "english": "secret / hidden" }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "“When you pray, you shall not be as the hypocrites, for they love to stand and pray in the synagogues and in the corners of the streets, that they may be seen by men. Most certainly, I tell you, they have received their reward.",
+      "understanding": "Prayer curdles into performance the moment it is aimed at an audience. The hypocrite times his prayers for the busiest corner, speaking toward God but preaching to the crowd — and again, the applause is the entire wage.",
+      "words": [
+        { "strongs": "G5273", "hebrew": "ὑποκριτής", "translit": "hypokritēs", "english": "hypocrite / stage-actor" }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But you, when you pray, enter into your inner room, and having shut your door, pray to your Father who is in secret, and your Father who sees in secret will reward you openly.",
+      "understanding": "The cure is a shut door: go into the store-room, the one windowless chamber of the house, and pray to the Father who is already there in the dark. Prayer is intimacy with a Person, not a broadcast to a crowd.",
+      "words": [
+        { "strongs": "G5009", "hebrew": "ταμεῖον", "translit": "tameion", "english": "inner room / store-chamber" }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "In praying, don’t use vain repetitions, as the Gentiles do; for they think that they will be heard for their much speaking.",
+      "understanding": "Pagan prayer stacks up syllables like a magic incantation, as if God can be worn down or bribed by sheer word-count. Jesus dismantles the whole machinery: volume is not faith, and length is not access.",
+      "words": [
+        { "strongs": "G945", "hebrew": "βαττολογέω", "translit": "battologeō", "english": "to babble / use vain repetitions" }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Therefore don’t be like them, for your Father knows what things you need, before you ask him.",
+      "understanding": "You do not pray to inform God or to overcome His reluctance — He knows the need before the request forms on your lips. Prayer is not leverage over a distant deity; it is a child talking with a Father who already leans in."
+    },
+    {
+      "v": 9,
+      "text": "Pray like this: ‘Our Father in heaven, may your name be kept holy.",
+      "understanding": "The model prayer opens not with need but with worship, and not with “my” but with “our” — you approach the sovereign of heaven as a child, in a family. The first petition is that His name be set apart, hallowed, treated as the holy thing it is.",
+      "words": [
+        { "strongs": "G3962", "hebrew": "πατήρ", "translit": "patēr", "english": "Father" },
+        { "strongs": "G37", "hebrew": "ἁγιάζω", "translit": "hagiazō", "english": "to make holy / hallow" }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Let your Kingdom come. Let your will be done, as in heaven, so on earth.",
+      "understanding": "Before a single personal request, the pray-er surrenders his own agenda: let Your reign break in, let Your will run on earth with the same unresisted completeness it has in heaven. This is the heartbeat of Matthew’s whole Gospel — the kingdom invading the present age.",
+      "words": [
+        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileia", "english": "kingdom / reign" }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Give us today our daily bread.",
+      "understanding": "Only now does need enter — and it is startlingly modest: bread for today, not a stockpile for a decade. The rare Greek word translated “daily” means the ration sufficient for the coming day, teaching a faith renewed every single morning.",
+      "words": [
+        { "strongs": "G1967", "hebrew": "ἐπιούσιος", "translit": "epiousios", "english": "daily / needful for the day" },
+        { "strongs": "G740", "hebrew": "ἄρτος", "translit": "artos", "english": "bread" }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Forgive us our debts, as we also forgive our debtors.",
+      "understanding": "Sin is pictured as a debt owed to God, and the request for cancellation is fused to a confession: we forgive our debtors. The forgiven are, by nature, forgivers — the two cannot be pried apart.",
+      "words": [
+        { "strongs": "G3783", "hebrew": "ὀφείλημα", "translit": "opheilēma", "english": "debt / what is owed" }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Bring us not into temptation, but deliver us from the evil one. For yours is the Kingdom, the power, and the glory forever. Amen.’",
+      "understanding": "The prayer ends where it began — with God, not self: a plea to be kept from the crushing hour of testing and rescued from the evil one, sealed by a doxology that hands the kingdom, the power, and the glory back to their rightful Owner.",
+      "words": [
+        { "strongs": "G3986", "hebrew": "πειρασμός", "translit": "peirasmos", "english": "temptation / testing" }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "“For if you forgive men their trespasses, your heavenly Father will also forgive you.",
+      "understanding": "Of the whole prayer, Jesus circles back to one petition and will not let it pass — forgiveness. Horizontal forgiveness is the visible evidence that vertical forgiveness has actually landed in your heart."
+    },
+    {
+      "v": 15,
+      "text": "But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses.",
+      "understanding": "The refusal to forgive is not a small flaw; it dams the very channel through which the Father’s mercy would flow to you. Clutched unforgiveness is a self-inflicted wound that starves the soul of grace."
+    },
+    {
+      "v": 16,
+      "text": "“Moreover when you fast, don’t be like the hypocrites, with sad faces. For they disfigure their faces, that they may be seen by men to be fasting. Most certainly I tell you, they have received their reward.",
+      "understanding": "Even self-denial can be hijacked by the audience — the gloomy face and unwashed look are a costume worn so the crowd will notice the sacrifice. The pattern is now unmistakable: giving, praying, fasting, each one poisoned the instant it seeks a human witness.",
+      "words": [
+        { "strongs": "G5273", "hebrew": "ὑποκριτής", "translit": "hypokritēs", "english": "hypocrite / stage-actor" }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "But you, when you fast, anoint your head, and wash your face;",
+      "understanding": "Jesus’ counter-instruction is deliberately ordinary: groom yourself, look normal, carry on as though nothing costly is happening. Hide the fast the way you would hide a secret gift."
+    },
+    {
+      "v": 18,
+      "text": "so that you are not seen by men to be fasting, but by your Father who is in secret, and your Father, who sees in secret, will reward you.",
+      "understanding": "The whole point is to shrink the audience down to One. The Father who dwells in the secret place is the only witness the faster needs and the only reward-giver worth wanting.",
+      "words": [
+        { "strongs": "G2927", "hebrew": "κρυπτός", "translit": "kryptos", "english": "secret / hidden" }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "“Don’t lay up treasures for yourselves on the earth, where moth and rust consume, and where thieves break through and steal;",
+      "understanding": "Earthly treasure carries its own destruction inside it — moth eats the fine garment, rust devours the stored metal, thieves dig through the mud-brick wall. Everything you hoard here is already decaying in your hand.",
+      "words": [
+        { "strongs": "G2344", "hebrew": "θησαυρός", "translit": "thēsauros", "english": "treasure / stored wealth" }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "but lay up for yourselves treasures in heaven, where neither moth nor rust consume, and where thieves don’t break through and steal;",
+      "understanding": "There is a vault no insect, no corrosion, and no burglar can reach. Jesus does not forbid investing — He redirects it, urging you to send your wealth ahead to the one place it can never be lost.",
+      "words": [
+        { "strongs": "G2344", "hebrew": "θησαυρός", "translit": "thēsauros", "english": "treasure / stored wealth" }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "for where your treasure is, there your heart will be also.",
+      "understanding": "The heart does not lead the treasure — it follows it. Move your money and your affections migrate after it, which is why Jesus is far more interested in your bank statement than you think: it is a map of your heart.",
+      "words": [
+        { "strongs": "G2344", "hebrew": "θησαυρός", "translit": "thēsauros", "english": "treasure / stored wealth" }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "“The lamp of the body is the eye. If therefore your eye is sound, your whole body will be full of light.",
+      "understanding": "The eye is the window through which light enters the whole person. “Sound” translates a word meaning single or clear — in Jewish idiom, a generous, undivided eye — and such an eye floods the entire life with light.",
+      "words": [
+        { "strongs": "G3788", "hebrew": "ὀφθαλμός", "translit": "ophthalmos", "english": "eye" },
+        { "strongs": "G573", "hebrew": "ἁπλοῦς", "translit": "haplous", "english": "single / sound / generous" }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "But if your eye is evil, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is the darkness!",
+      "understanding": "An “evil eye” in that culture meant a stingy, grasping, envious outlook — and it plunges the whole person into blackness. The most terrifying darkness is the kind that masquerades as light: the greedy heart convinced it can see clearly."
+    },
+    {
+      "v": 24,
+      "text": "“No one can serve two masters, for either he will hate the one and love the other; or else he will be devoted to one and despise the other. You can’t serve both God and Mammon.",
+      "understanding": "This is not about two employers but two owners — the word means to be a bond-slave, and no slave belongs to two households. Money is unmasked as a rival deity, Mammon, and Jesus flatly denies the possibility of divided worship.",
+      "words": [
+        { "strongs": "G1398", "hebrew": "δουλεύω", "translit": "douleuō", "english": "to serve as a slave" },
+        { "strongs": "G3126", "hebrew": "μαμμωνᾶς", "translit": "mammōnas", "english": "mammon / wealth deified" }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Therefore I tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’t life more than food, and the body more than clothing?",
+      "understanding": "“Therefore” ties the cure for anxiety directly to the question of masters: because God is your Owner and Provider, worry over food and clothing is dethroned. Life is more than its fuel; the God who gave the greater will not withhold the lesser.",
+      "words": [
+        { "strongs": "G3309", "hebrew": "μεριμνάω", "translit": "merimnaō", "english": "to be anxious / divided by care" }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "See the birds of the sky, that they don’t sow, neither do they reap, nor gather into barns. Your heavenly Father feeds them. Aren’t you of much more value than they?",
+      "understanding": "Look up at the sparrows: no plowing, no harvest, no granary, yet the Father sets their table every day. If He feeds creatures that cannot pray to Him or bear His image, how much more will He feed the children who can and do?",
+      "words": [
+        { "strongs": "G4071", "hebrew": "πετεινόν", "translit": "peteinon", "english": "bird" }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "“Which of you, by being anxious, can add one moment to his lifespan?",
+      "understanding": "Anxiety is not only faithless, it is powerless — it cannot buy you a single extra hour of life. Worry drains today’s strength while adding nothing to tomorrow’s reserve."
+    },
+    {
+      "v": 28,
+      "text": "Why are you anxious about clothing? Consider the lilies of the field, how they grow. They don’t toil, neither do they spin,",
+      "understanding": "Turn from the birds overhead to the wildflowers underfoot: they neither labor in the field nor spin at the loom, yet look how they grow. Jesus commands not a glance but a study — consider them, let them preach.",
+      "words": [
+        { "strongs": "G2918", "hebrew": "κρίνον", "translit": "krinon", "english": "lily / wildflower" }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "yet I tell you that even Solomon in all his glory was not dressed like one of these.",
+      "understanding": "The richest king Israel ever knew, robed in the treasury of an empire, was still out-dressed by a single roadside flower that will be gone by evening. God’s casual handiwork outshines humanity’s crowning achievement."
+    },
+    {
+      "v": 30,
+      "text": "But if God so clothes the grass of the field, which today exists, and tomorrow is thrown into the oven, won’t he much more clothe you, you of little faith?",
+      "understanding": "God lavishes runway-worthy beauty on grass that is here today and burned as fuel tomorrow — disposable, short-lived stuff. The tender rebuke “you of little faith” names the real problem: not a shortage of resources in heaven but a shortage of trust on earth.",
+      "words": [
+        { "strongs": "G3640", "hebrew": "ὀλιγόπιστος", "translit": "oligopistos", "english": "of little faith" }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "“Therefore don’t be anxious, saying, ‘What will we eat?’, ‘What will we drink?’ or, ‘With what will we be clothed?’",
+      "understanding": "Jesus quotes the anxious script we all rehearse — the three frantic questions of food, drink, and clothing — and tells us to stop reciting it. The endless interior monologue of worry is itself the thing to renounce.",
+      "words": [
+        { "strongs": "G3309", "hebrew": "μεριμνάω", "translit": "merimnaō", "english": "to be anxious / divided by care" }
+      ]
+    },
+    {
+      "v": 32,
+      "text": "For the Gentiles seek after all these things; for your heavenly Father knows that you need all these things.",
+      "understanding": "The frantic chase after material security is the mark of the nations who have no Father — it is practical orphanhood. You, however, have a Father who already knows the full inventory of your needs.",
+      "words": [
+        { "strongs": "G1484", "hebrew": "ἔθνος", "translit": "ethnos", "english": "Gentiles / the nations" }
+      ]
+    },
+    {
+      "v": 33,
+      "text": "But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well.",
+      "understanding": "Here is the great reversal and the summit of the chapter: reorder your pursuits so the kingdom and righteousness of God sit in first place, and everything you were frantically chasing gets added on the side. Seek the King, and the King takes care of the servant.",
+      "words": [
+        { "strongs": "G2212", "hebrew": "ζητέω", "translit": "zēteō", "english": "to seek / pursue" },
+        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileia", "english": "kingdom / reign" },
+        { "strongs": "G1343", "hebrew": "δικαιοσύνη", "translit": "dikaiosynē", "english": "righteousness" }
+      ]
+    },
+    {
+      "v": 34,
+      "text": "Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.",
+      "understanding": "Live inside the ration of a single day: tomorrow’s troubles are tomorrow’s assignment, not today’s burden to carry in advance. Grace, like manna, is issued one day at a time.",
+      "words": [
+        { "strongs": "G3309", "hebrew": "μεριμνάω", "translit": "merimnaō", "english": "to be anxious / divided by care" }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Sounding Trumpet",
+      "verseRef": "v. 2",
+      "image": "Picture a wealthy man crossing the temple court on the way to drop his coins in the offering box — but he does not go quietly. He has arranged for a small blast of the trumpet, the same signal used to summon a crowd, so that heads turn and everyone stops to watch the generous benefactor give. He lingers at the box. He lets the coins ring loudly against the metal. He waits for the murmur of approval before he moves on.",
+      "meaning": "This is charity converted into a stage act. Jesus is exposing the machinery of the religious ego: the good deed is real, the money is real, but the whole thing has been rerouted toward the applause of men. And the tragedy is quiet — God does not strike him down; God simply steps back and lets the crowd pay him in full, because their glory is the only reward he actually wanted."
+    },
+    {
+      "title": "The Shut Door of the Store-Room",
+      "verseRef": "v. 6",
+      "image": "Now the camera moves off the street entirely and into the back of a simple house, to the one small windowless chamber — the tameion, the store-room where grain and valuables were kept. A man steps inside, pulls the door shut behind him, and in the dimness there is no audience, no corner, no crowd. Just a voice in the dark, and a Father who was already in the room before the door closed.",
+      "meaning": "The shut door is the death of performance. When no one can see you, the only reason left to pray is that God is real and you love Him. Jesus locates the Father precisely where the hypocrite would never look — not in the spotlight of the synagogue but in the secret dark of the closet — and promises that the God who sees in secret is the God who rewards in the open."
+    },
+    {
+      "title": "Moth, Rust, and the Digging Thief",
+      "verseRef": "v. 19–20",
+      "image": "See the storehouse of a prosperous man: chests of fine embroidered garments, bins of grain, jars of coins. But zoom in and the picture is already rotting. A moth larva is quietly chewing a hole through the costliest robe. A film of corrosion is eating the stored metal. And outside, under cover of night, a thief is literally digging through the sun-dried mud-brick wall of the house to reach it all.",
+      "meaning": "Every earthly treasure is besieged from three sides at once — by decay from within, by corrosion over time, and by theft from without. Jesus is not being poetic; He is being accurate. The security you feel when the vault is full is an illusion, because the moth is already at work. He is not condemning wealth; He is pleading with you to stop nailing your heart to things that are engineered to disappear."
+    },
+    {
+      "title": "The Birds and the Lilies",
+      "verseRef": "v. 26–30",
+      "image": "Jesus lifts His hand and points — first up, at the sparrows wheeling over the Galilean hills, birds with no plow, no scythe, no barn, and yet visibly, daily fed. Then He points down, to the anemones and wild lilies blazing scarlet across the spring fields, flowers that never spun a thread of cloth and yet are robed in a splendor that leaves Solomon’s imperial wardrobe looking drab. By evening the same flowers will be pulled up and shoved into the clay oven as kindling.",
+      "meaning": "This is a sermon preached by creation itself. The birds are a living argument against anxiety, and the flowers are a living argument against striving. If the Father lavishes provision on creatures that cannot know Him and beauty on grass that will be ash by nightfall, then the anxious disciple has misjudged not his circumstances but his Father. The lesson lands as a diagnosis: your worry is not a food problem or a clothing problem — it is a faith problem."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      { "label": "The Thesis (v. 1)", "body": "The governing principle over the whole chapter — do your righteousness for God’s eyes, not men’s — or lose the reward." },
+      { "label": "Three Acts in Secret (v. 2–4, 5–6, 16–18)", "body": "Giving, praying, and fasting each set against the hypocrite’s public version and redirected to the Father who sees in secret." },
+      { "label": "The Model Prayer (v. 7–15)", "body": "How not to pray (pagan babbling) and how to pray — the Lord’s Prayer — with forgiveness singled out and pressed home." },
+      { "label": "Two Treasures, Two Eyes, Two Masters (v. 19–24)", "body": "A trio of either/or images exposing the divided heart and naming money as a rival god." },
+      { "label": "The Cure for Anxiety (v. 25–34)", "body": "Because God is your Master and Father, worry is dethroned — consider the birds and the lilies, and seek first the Kingdom." }
+    ],
+    "sections": [
+      {
+        "heading": "The Divided Heart and the Question of the Audience",
+        "paragraphs": [
+          "Chapter 5 raised the standard of righteousness to an impossible height — anger is murder, lust is adultery, love your enemies, be perfect as your Father is perfect. Now, in chapter 6, Jesus turns from the content of righteousness to its motive, and He drills straight down to the one question that decides whether any spiritual act is worth anything at all: who is your audience? Every act of devotion has a direction. It is aimed at someone. And Jesus insists there are ultimately only two possible targets — the eyes of men or the eyes of the Father — and you cannot serve both at once.",
+          "This is why the chapter is built out of ruthless either/or contrasts. Reward from men or reward from God (v. 1–2). Treasure on earth or treasure in heaven (v. 19–20). A sound eye or an evil eye (v. 22–23). God or Mammon (v. 24). There is no third option, no comfortable middle. The whole Sermon assaults the fantasy of the divided heart — the notion that you can hoard here and lay up there, worship God on the surface and serve money underneath, pray for the kingdom while your treasure is buried in the field. Jesus says it cannot be done: 'You can’t serve both God and Mammon.'",
+          "The honest theological knot is the word reward. Some hear Jesus dangling a payout and recoil — isn’t serving God for a reward just another form of self-interest? But look closer at what the reward actually is. The hypocrite is paid in the currency he chose: the glance of the crowd, which evaporates the moment he leaves the room. The disciple’s reward is the Father Himself — His seeing, His pleasure, His open acknowledgment of what was done in the dark. Jesus is not bribing greed; He is retraining desire, teaching us to want the one reward that cannot rot, be stolen, or be forgotten by tomorrow. The cure for living before men is not to stop wanting reward, but to want a better one."
+        ]
+      },
+      {
+        "heading": "Anxiety as Practical Atheism",
+        "paragraphs": [
+          "The second half of the chapter treats worry not as a harmless personality trait but as a spiritual condition — the exact opposite of faith. Notice how Jesus diagnoses it. He does not say the anxious disciple lacks money; he says he lacks trust: 'you of little faith' (v. 30). He does not say the birds have a better food supply; he says they have a Father who feeds them (v. 26). Anxiety, in this passage, is what your theology looks like when it drops below the level of your conscious beliefs. You may confess that God is a good Father with your mouth, but if your stomach is in knots over tomorrow, your gut is confessing that you are functionally an orphan.",
+          "That is the sting of verse 32: 'the Gentiles seek after all these things.' The frantic pursuit of material security is the native religion of people who have no Father in heaven — it is the reasonable behavior of the fatherless. But Jesus says: you are not fatherless. 'Your heavenly Father knows that you need all these things.' The cure for anxiety, then, is not positive thinking or a fuller bank account; it is the recovery of the Father’s face. And it terminates in a command that reorders an entire life — 'seek first God’s Kingdom, and his righteousness' — with a staggering promise attached: everything you were chasing in fear will be added to you as a gift while your back is turned, busy with the King."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "When Jesus said 'don’t be anxious' (Greek merimnaō, v. 25, 31, 34), there was a fisherman named Peter sitting on that hillside listening. Decades later, an old man now, Peter picks up the very same root word and turns the command into a promise for a suffering, scattered church: 'casting all your worry on him, because he cares for you' (1 Peter 5:7). The noun he uses is merimna — the exact anxiety Jesus named on the mount. Peter heard the sermon, watched it proved true through a lifetime, and passed it down: the Father who feeds the birds is the Father who carries your care.",
+        "Paul draws from the same well. In Philippians 4:6–7 he writes, 'In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.' That is Matthew 6 turned into practice: the antidote to worry (merimnaō) is prayer to the Father who already knows what you need before you ask (Matthew 6:8). And Jesus’ climactic charge to 'seek first God’s Kingdom, and his righteousness' (v. 33) becomes the whole aim of the Christian life in Romans 14:17 — 'the Kingdom of God is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit.' The Sermon was not left on the hillside; the apostles carried it into every church."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Hypocrite / Stage-Actor",
+      "hebrew": "ὑποκριτής",
+      "translit": "hypokritēs",
+      "strongs": "G5273",
+      "verses": "v. 2, 5, 16",
+      "insight": "Literally an actor who performs behind a mask, speaking an assumed character on the stage. This is the master key to the whole first half of the chapter. The hypocrite’s giving, praying, and fasting are not fake in the sense that nothing happens — the coins are real, the words are real, the hunger is real — they are fake in the sense that a role is being played for an audience. He is wearing a mask of devotion over the face of a man who wants applause. Jesus’ cure is not to try harder at religion but to take off the mask, shut the door, and be seen by One."
+    },
+    {
+      "english": "Secret / Hidden",
+      "hebrew": "κρυπτός",
+      "translit": "kryptos",
+      "strongs": "G2927",
+      "verses": "v. 4, 6, 18",
+      "insight": "Concealed, private, out of sight — the same root that gives us 'crypt' and 'cryptic.' Jesus hammers this word three times, once for each act of devotion, and each time couples it with the astonishing claim that the Father Himself is 'in secret' and 'sees in secret.' The secret place is not where God is absent; it is exactly where He lives and watches. This reframes the entire spiritual life: the room where no human eye can follow you is not a place of loneliness but the throne room of your most intimate audience. What is done in the kryptos is not lost — it is filed in heaven and rewarded openly."
+    },
+    {
+      "english": "Daily / Needful for the Day",
+      "hebrew": "ἐπιούσιος",
+      "translit": "epiousios",
+      "strongs": "G1967",
+      "verses": "v. 11",
+      "insight": "A word so rare it appears virtually nowhere else in all of Greek literature outside the Lord’s Prayer — Jesus may have coined it. It most likely means 'the ration sufficient for the coming day,' the bread you need to get to tomorrow. This single word disciplines the whole of Christian desire. We are not taught to pray for a stockpile, a fortune, or a decade of security, but for today’s bread today — a request that must be brought fresh every morning. It is the deliberate architecture of dependence, the exact opposite of the barns and hoarded treasure Jesus warns against later in the chapter. Manna, not silos."
+    },
+    {
+      "english": "Mammon / Wealth Deified",
+      "hebrew": "μαμμωνᾶς",
+      "translit": "mammōnas",
+      "strongs": "G3126",
+      "verses": "v. 24",
+      "insight": "An Aramaic loan-word for wealth, riches, or property — but Jesus does something startling with it: He capitalizes it and personifies it, treating money not as a neutral tool but as a rival master with a will of its own, a god that demands worship. Paired with the verb 'serve' (douleuō, G1398, to be a bond-slave), the sentence becomes stark: money is not merely something you own, it is something that can own you. You will have a master; the only question is which one. Mammon promises security and delivers slavery; the Father asks for trust and delivers provision. Jesus forces the choice and forbids the compromise."
+    },
+    {
+      "english": "To Be Anxious / Divided by Care",
+      "hebrew": "μεριμνάω",
+      "translit": "merimnaō",
+      "strongs": "G3309",
+      "verses": "v. 25, 27, 28, 31, 34",
+      "insight": "Built on the idea of being pulled apart, drawn in different directions, distracted — to have a mind torn into fragments by care. This is the beating word of the chapter’s final movement, repeated five times like a hammer. It is the perfect counterpart to the divided heart Jesus has just exposed: the man who tries to serve two masters ends up with a soul split by worry. Anxiety, then, is not just an emotion — it is the internal experience of a heart that has not yet placed the Kingdom first. The cure is not to fragment your care across food, drink, and clothing, but to gather your whole self around one pursuit: 'seek first God’s Kingdom.' The undivided heart is the un-anxious heart."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the hidden question underneath all your religion and all your striving: who are you actually living for, and who do you really trust?",
+    "items": [
+      {
+        "title": "Take Off the Mask",
+        "body": "The Spirit walks you back through your giving, your praying, your fasting — and gently asks a piercing question: how much of it evaporates the moment no one is watching? If your generosity dries up when there is no one to notice, if your prayers get shorter and colder in the shut room than they were in the crowd, if your discipline only survives when it can be seen — then you have been an actor, not a worshiper. This is not condemnation; it is invitation. Jesus is not asking you to do less; He is asking you to be seen by One. Who is your audience today — the crowd, or the Father in secret? What would you still do this week if you knew for certain that no human being would ever find out?"
+      },
+      {
+        "title": "Follow the Money to Your Heart",
+        "body": "Jesus makes a claim that cuts straight through our self-image: 'where your treasure is, there your heart will be also.' You cannot always trust what your heart says it loves — but you can always trust your treasure to tell you the truth. Look at where your money goes, where your daydreams drift, where your best hours are spent. That trail is a map, and it leads to your real god. The Spirit is asking you to stop protesting that you love God with your lips while your treasure is buried in a field and your eye has gone dark with wanting. Is your eye 'sound' — single, generous, fixed on one Master — or has it gone 'evil,' greedy and grasping, so that even the light in you has become darkness? Which master are you actually serving, not in your theology, but in your calendar and your bank statement?"
+      },
+      {
+        "title": "Let Your Worry Preach to You",
+        "body": "Your anxiety is not random — it is a sermon your unbelief is preaching to you, and the Spirit wants you to actually listen to it. Every knot in your stomach over tomorrow is a confession that, at some level below your conscious faith, you are living as though you had no Father. But Jesus points to the birds you are more valuable than and the lilies dressed better than Solomon, and He calls your worry by its real name: 'little faith.' The problem was never a shortage in heaven; it was a shortage of trust in you. So the Spirit presses the challenge home: will you keep rehearsing the fatherless script of 'what will we eat, what will we wear,' or will you seek first the Kingdom and dare God to keep His promise to add the rest? What is the one anxiety you are carrying today that you have never once handed to your Father?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Trumpet Audit",
+        "body": "Replay your last few 'good deeds' — the gift, the volunteer hour, the long prayer, the mention of your fast. Was there a trumpet? Did you steer the conversation so someone would find out? Did you feel a quiet deflation when the good thing went unnoticed? Be brutally honest about how much of your righteousness is secretly aimed at an audience of men."
+      },
+      {
+        "title": "The Treasure Trace",
+        "body": "Open your bank statement and your calendar from the last month — they are the truest map of your heart you own. Where did the money actually go? Where did the free hours actually go? Jesus says your heart followed your treasure there. Look at the trail and answer plainly: what does it reveal about which kingdom you have really been building?"
+      },
+      {
+        "title": "The Anxiety Confession",
+        "body": "Name the specific worry that has been eating you — the bill, the health scare, the future, the provision. Now hold it up against verse 32: is this the pursuit of a child who has a Father, or the frantic seeking of a Gentile who has none? What is your anxiety actually confessing about how you see God right now?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Give One Secret Gift",
+        "body": "This week, do one genuinely good deed that no human being will ever be able to trace back to you — give money anonymously, meet a need in silence, bless someone who cannot thank you or repay you. Tell no one. Fight the urge to hint at it later. Let it be filed only in heaven, and let the Father who sees in secret be your entire reward."
+      },
+      {
+        "title": "The Seek-First Reset",
+        "body": "For the next seven mornings, before you touch your phone, check the news, or open your inbox, give the first waking minutes of the day to the Kingdom — pray the Lord’s Prayer slowly, line by line, meaning each petition, and then say out loud: 'Father, today I seek first Your Kingdom and Your righteousness. I trust You to add everything else.' Put God at the front of the day and watch your anxiety lose its grip."
+      }
+    ]
+  },
+  "prayerReflection": "“Father in heaven, may Your name be kept holy in my life today. I confess that I have too often sounded my own trumpet — doing my giving, my praying, even my fasting for the eyes of men, hungry for a reward that fades the moment the room empties. Forgive me. Teach me to shut the door and to want only You as my audience, the Father who sees in secret and rewards in the open. Search my treasure and expose my heart; wherever I have buried it in things that moth and rust destroy, pull my affections back to what can never be stolen. I cannot serve two masters, so I renounce Mammon’s slavery and I choose You as my one Lord. And Father, take my anxiety — all my ‘what will I eat, what will I wear, what about tomorrow.’ You feed the birds that never sow, You clothe the lilies that never spin, and You have called me worth far more than they. Forgive my little faith. This day I seek first Your Kingdom and Your righteousness, and I trust You to add everything else. Give me today my daily bread, and let today’s grace be enough for today. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Ananias and Sapphira — The Trumpet That Killed",
+      "ref": "Acts 5:1–11",
+      "relatedVerses": "v. 1–4",
+      "summary": "In the earliest church, a couple named Ananias and Sapphira sold a piece of property and laid part of the money at the apostles’ feet — while pretending it was the whole amount. Their sin was not that they gave too little; it was that they gave for the eyes of men, staging their generosity to buy a reputation for total devotion. They sounded the trumpet Jesus warned about, and the applause they craved cost them their lives when the Spirit exposed the lie. It is the terrifying photographic negative of Matthew 6: giving performed for human glory, unmasked by the God who sees in secret."
+    },
+    {
+      "title": "Solomon — The King Who Sought First, and Then Forgot",
+      "ref": "1 Kings 3:5–13; 10:23; 11:1–4",
+      "relatedVerses": "v. 29, 33",
+      "summary": "When God offered young Solomon anything he wanted, he did not ask for riches or long life — he sought first the wisdom to govern God’s people, and God was so pleased that He added the riches and honor Solomon had not asked for. That is Matthew 6:33 lived out centuries in advance: seek first the Kingdom, and all these things are added. Yet Solomon’s later life is the equal and opposite warning — the same king Jesus names as the glory that a wildflower outshines let his treasure multiply until his heart followed it straight into idolatry (v. 21). Solomon proves both halves of the chapter: the blessing of seeking first, and the ruin of a heart that chases its treasure."
+    },
+    {
+      "title": "Elijah and the Ravens — The Birds That Fed a Prophet",
+      "ref": "1 Kings 17:1–6",
+      "relatedVerses": "v. 26",
+      "summary": "When a famine gripped the land and Elijah had no field to sow and no barn to fill, God sent birds — ravens — to carry bread and meat to him morning and evening beside a hidden brook. The prophet who could not feed himself was fed by the sky. It is the living embodiment of Jesus’ argument: 'See the birds of the sky... your heavenly Father feeds them.' The same Father who commands the ravens to provision His servant is the Father who promises to feed you, and He asks only that you trust Him one day at a time."
+    }
+  ]
+}

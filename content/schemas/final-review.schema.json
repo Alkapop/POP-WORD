@@ -1,0 +1,39 @@
+{
+  "__instructions": "Template for a Final Masterclass Review document. Replace every <...> with real content. Every field is REQUIRED. 'roadAhead' MUST cover the NEXT TWO books in the canon so David always knows why he is where he is in the Bible.",
+  "type": "finalReview",
+  "book": "<Book name>",
+  "titleEmojis": "<two fitting emojis, e.g. 🌪️🔥>",
+  "bigPicture": {
+    "subtitle": "<e.g. The Comfort of Perfect Justice>",
+    "thesis": "<'If we had to summarize the Book of X in one overarching thought, it is this: ...'>",
+    "paragraphs": ["<unpack the thesis; include the meaning of the book's/prophet's name if significant>"]
+  },
+  "map": {
+    "intro": "<why this book sits where it sits in the canon>",
+    "sections": [
+      { "title": "<e.g. The 100-Year Sequel to Jonah>", "body": "<how it balances or completes what came before>" }
+    ],
+    "roadAhead": {
+      "intro": "<'The Road Ahead' — why the canon moves from here to the next two books>",
+      "books": [
+        { "book": "<next book>", "connection": "<how what David just finished flows into it>" },
+        { "book": "<book after that>", "connection": "<and into this one>" }
+      ]
+    }
+  },
+  "themesMastered": [
+    { "title": "<e.g. The Storm and the Sanctuary>", "anchorRef": "<e.g. Nahum 1:7>", "body": "<the takeaway now owned>" }
+  ],
+  "experientialLesson": {
+    "intro": "How do you walk out the Book of <X> practically moving forward? Here is your experiential blueprint:",
+    "steps": [
+      {
+        "step": 1,
+        "title": "<e.g. Relinquishing the Gavel>",
+        "lesson": "<The Lesson: anchored to a verse>",
+        "practice": "<The Practice: a concrete act this week — a declaration, an audit, a surrender>"
+      }
+    ]
+  },
+  "finalDeclaration": "<full first-person declaration-prayer gathering the whole book into spoken faith, ending 'In the mighty name of Jesus, Amen!'>"
+}

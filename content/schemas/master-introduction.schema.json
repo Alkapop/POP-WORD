@@ -1,0 +1,35 @@
+{
+  "__instructions": "Template for a Master Introduction document. Replace every <...> with real content. Every field shown is REQUIRED. Arrays show one example element — produce as many as the MASTER-FORMAT-PROMPT specifies.",
+  "type": "masterIntroduction",
+  "book": "<Book name, e.g. Zephaniah>",
+  "chapters": 3,
+  "bigPicture": {
+    "subtitle": "<e.g. The Prophet Who Wrestled with God>",
+    "paragraphs": ["<3-5 paragraphs, each a string>"]
+  },
+  "bridge": {
+    "fromBook": "<previous book in canon>",
+    "intro": "<one-line lead, e.g. 'The Holy Spirit perfectly positioned X right after Y to ...'>",
+    "points": [
+      { "title": "<e.g. The Shift in the Enemy>", "body": "<paragraph>" }
+    ]
+  },
+  "coreTheme": {
+    "title": "<the theme in quotes-worthy form, e.g. The Just Shall Live by Faith>",
+    "anchorRef": "<e.g. Zephaniah 3:17>",
+    "paragraphs": ["<trace the theme through Scripture and history>"]
+  },
+  "truths": {
+    "intro": "<'As we journey through these N chapters, the Holy Spirit wants to anchor these truths in your spirit:'>",
+    "items": [
+      { "title": "<truth title>", "body": "<paragraph>" }
+    ]
+  },
+  "preparation": {
+    "intro": "<'Before we step into Chapter 1, prepare your spirit with these reflections:'>",
+    "items": [
+      { "title": "<e.g. The Honest Question>", "body": "<reflection prompt interrogating real life>" }
+    ]
+  },
+  "prayerOfActivation": "<full first-person prayer in quotes-ready text, ending 'In Jesus' mighty name, Amen.'>"
+}

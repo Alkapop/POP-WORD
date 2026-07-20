@@ -1,0 +1,361 @@
+{
+  "type": "chapterStudy",
+  "book": "Matthew",
+  "chapter": 7,
+  "chapterTitle": "The Two Ways, the Two Trees, and the Two Builders",
+  "themeTitle": "Everyone Is Building Something — But Only One Foundation Survives the Storm",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "“Don’t judge, so that you won’t be judged.",
+      "understanding": "Jesus opens with a command that has been abused more than almost any other in Scripture. This is not a ban on discernment — verses 6 and 15-20 will demand sharp discernment — it is a ban on the condemning, superior, fault-finding spirit that seats itself on God's bench and hands down verdicts it has no right to pass.",
+      "words": [
+        { "strongs": "G2919", "hebrew": "κρίνω", "translit": "krínō", "english": "judge" }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.",
+      "understanding": "The standard you hold over others is the standard heaven will hold over you. A merciless critic is unknowingly filing a request for a merciless verdict. The measuring cup you hand out comes back full."
+    },
+    {
+      "v": 3,
+      "text": "Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye?",
+      "understanding": "The speck — a tiny splinter of chaff or sawdust — in your brother's eye is real. But you are trying to perform eye surgery with a roof-beam jutting out of your own socket. Notice the joke: the speck and the beam are the same material, wood; the critic simply has far more of it.",
+      "words": [
+        { "strongs": "G2595", "hebrew": "κάρφος", "translit": "kárphos", "english": "speck" },
+        { "strongs": "G1385", "hebrew": "δοκός", "translit": "dokós", "english": "beam" }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Or how will you tell your brother, ‘Let me remove the speck from your eye;’ and behold, the beam is in your own eye?",
+      "understanding": "You cannot heal what you refuse to see in yourself. The hypocrite volunteers as physician while stone blind, offering to steady another man's hand while his own is shaking with the same disease."
+    },
+    {
+      "v": 5,
+      "text": "You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.",
+      "understanding": "Jesus never says leave the speck alone forever. He says deal with your beam FIRST, and then you will see clearly enough to help your brother. Self-examination is not the enemy of helping people; it is the qualification for it. The Greek 'hypocrite' means a stage-actor wearing a mask — someone playing a righteous character he is not.",
+      "words": [
+        { "strongs": "G5273", "hebrew": "ὑποκριτής", "translit": "hypokritḗs", "english": "hypocrite" }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "“Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.",
+      "understanding": "This is the deliberate counterweight to 'don't judge.' Refusing to condemn does not mean refusing to discern. Some hearts trample holy things and then turn on you; wisdom knows when to offer the sacred word and when to hold it back from those set on savaging it."
+    },
+    {
+      "v": 7,
+      "text": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.",
+      "understanding": "Three escalating imperatives — ask, seek, knock — stand in the present tense: keep on asking, keep on seeking, keep on knocking. This is not nagging a reluctant God into submission; it is the settled posture of a child who knows the Father's heart and refuses to walk away from the door.",
+      "words": [
+        { "strongs": "G154", "hebrew": "αἰτέω", "translit": "aitéō", "english": "ask" }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.",
+      "understanding": "The promise is universal and certain: everyone — no exceptions listed — who asks receives. Heaven's door is not bolted against the one who keeps knocking; it is hung to open."
+    },
+    {
+      "v": 9,
+      "text": "Or who is there among you, who, if his son asks him for bread, will give him a stone?",
+      "understanding": "Jesus grounds the promise in ordinary fatherhood. No father hands his hungry son a smooth stone shaped like a loaf as a cruel prank. The argument moves from what any decent father would never do."
+    },
+    {
+      "v": 10,
+      "text": "Or if he asks for a fish, who will give him a serpent?",
+      "understanding": "No father answers a request for a fish by dropping a snake in the child's hand. God does not repay trust with treachery; He does not hide poison inside your prayers."
+    },
+    {
+      "v": 11,
+      "text": "If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!",
+      "understanding": "The argument from the lesser to the greater lands with force. If you — sinful as you are — still give good gifts, HOW MUCH MORE will your perfect Father in heaven give good things to those who ask Him. Your Father is not stingy, distracted, or reluctant; He is better than the best human father who ever lived."
+    },
+    {
+      "v": 12,
+      "text": "Therefore whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.",
+      "understanding": "The Golden Rule — the entire Law and Prophets compressed into a single sentence. Note that it is active, not merely restraining: not just 'don't harm others,' but actively DO for them what you wish were done for you. Kingdom love goes on offense."
+    },
+    {
+      "v": 13,
+      "text": "“Enter in by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and many are those who enter in by it.",
+      "understanding": "The sermon now turns from ethics to decision. Two gates stand open: the wide, easy, crowded gate onto a broad boulevard that ends in destruction, and a narrow one. Jesus commands: enter by the narrow gate. The Kingdom is a deliberate choice, never a drift with the crowd.",
+      "words": [
+        { "strongs": "G4439", "hebrew": "πύλη", "translit": "pýlē", "english": "gate" }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "How narrow is the gate, and restricted is the way that leads to life! Few are those who find it.",
+      "understanding": "The way to life is narrow and pressed-in, and few find it. Truth is not decided by headcount. The very popularity of the broad road is the warning, not the endorsement — the majority is on it, and it does not lead home."
+    },
+    {
+      "v": 15,
+      "text": "“Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves.",
+      "understanding": "Beware — because the narrow road has predators walking it. False prophets wear the wool of the flock while hiding the fangs of the wolf. The danger is not that they attack from outside the fence; the danger is the disguise that gets them inside it.",
+      "words": [
+        { "strongs": "G5578", "hebrew": "ψευδοπροφήτης", "translit": "pseudoprophḗtēs", "english": "false prophets" }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "By their fruits you will know them. Do you gather grapes from thorns, or figs from thistles?",
+      "understanding": "But disguise cannot fake fruit. You will know them by their fruits, not their costume. Thornbushes cannot produce grapes; thistles cannot produce figs. Given enough time, character always breaks the surface.",
+      "words": [
+        { "strongs": "G2590", "hebrew": "καρπός", "translit": "karpós", "english": "fruits" }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Even so, every good tree produces good fruit; but the corrupt tree produces evil fruit.",
+      "understanding": "Every good tree bears good fruit; every rotten tree bears rotten fruit. The fruit is not random — it reveals the root. What comes out of a life exposes what is inside it."
+    },
+    {
+      "v": 18,
+      "text": "A good tree can’t produce evil fruit, neither can a corrupt tree produce good fruit.",
+      "understanding": "This is not merely unlikely — it is impossible. A good tree CANNOT bear bad fruit, and a corrupt tree CANNOT bear good. Nature declares its source. No one keeps a diseased heart hidden behind a polished harvest forever."
+    },
+    {
+      "v": 19,
+      "text": "Every tree that doesn’t grow good fruit is cut down, and thrown into the fire.",
+      "understanding": "This is not gardening advice; it is judgment language. Every fruitless tree meets the axe and the fire — the same verdict John the Baptist thundered (Matthew 3:10), the same fate as the chaff and the tares. Fruitlessness is not neutral; it is fatal."
+    },
+    {
+      "v": 20,
+      "text": "Therefore by their fruits you will know them.",
+      "understanding": "Jesus repeats the test to seal it. By their fruits — not their claims, not their charisma, not their gifting, not their words — you will know them. The proof is in the produce."
+    },
+    {
+      "v": 21,
+      "text": "Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven; but he who does the will of my Father who is in heaven.",
+      "understanding": "Among the most sobering words Jesus ever spoke. Saying 'Lord, Lord' — even sincerely, even loudly, even twice — does not open the Kingdom of Heaven. Doing the will of the Father does. Confession without obedience is a counterfeit that will not clear the gate.",
+      "words": [
+        { "strongs": "G2307", "hebrew": "θέλημα", "translit": "thélēma", "english": "will" },
+        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "Kingdom" }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’",
+      "understanding": "On judgment day MANY — not a few — will present an impressive spiritual résumé: prophecy, exorcism, mighty works, all done 'in your name.' Jesus does not deny the works happened. He is warning that spiritual activity is not the same thing as knowing Him."
+    },
+    {
+      "v": 23,
+      "text": "Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’",
+      "understanding": "The verdict is the most terrifying sentence in the Bible. Not 'I once knew you and you fell away' — I NEVER knew you. Their works were real, but the relationship never existed. The word 'know' means intimate, covenantal acquaintance; the word 'iniquity' means lawlessness — a life that used His name while refusing His rule.",
+      "words": [
+        { "strongs": "G1097", "hebrew": "γινώσκω", "translit": "ginṓskō", "english": "knew" },
+        { "strongs": "G458", "hebrew": "ἀνομία", "translit": "anomía", "english": "iniquity" }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "“Everyone therefore who hears these words of mine, and does them, I will liken him to a wise man, who built his house on a rock.",
+      "understanding": "The whole sermon lands here. Everyone who hears these words AND does them is like a wise man who dug down and built on rock. Hearing plus doing equals a foundation that holds. The wisdom is not in the hearing — the crowd on the sand heard too — it is in the doing.",
+      "words": [
+        { "strongs": "G5429", "hebrew": "φρόνιμος", "translit": "phrónimos", "english": "wise" },
+        { "strongs": "G4073", "hebrew": "πέτρα", "translit": "pétra", "english": "rock" },
+        { "strongs": "G3618", "hebrew": "οἰκοδομέω", "translit": "oikodoméō", "english": "built" }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "The rain came down, the floods came, and the winds blew, and beat on that house; and it didn’t fall, for it was founded on the rock.",
+      "understanding": "The storm comes to every house — rain, flood, and wind all beat against it — yet this one does not fall, because it was founded on the rock. The obedient life is not storm-free; it is storm-proof. The rock does not stop the flood; it holds through it."
+    },
+    {
+      "v": 26,
+      "text": "Everyone who hears these words of mine, and doesn’t do them will be like a foolish man, who built his house on the sand.",
+      "understanding": "The one who hears these SAME words and does not do them is a fool who built on sand. Read it carefully: the fool also heard. Hearing the sermon and applauding it, but never obeying it, is not a neutral middle ground — it is building a home on sand."
+    },
+    {
+      "v": 27,
+      "text": "The rain came down, the floods came, and the winds blew, and beat on that house; and it fell—and great was its fall.”",
+      "understanding": "The identical storm strikes, and this house falls — and great was its fall. The collapse is total and public. The two houses looked the same in the dry season; the storm did not create the difference, it only revealed what the foundation had always been."
+    },
+    {
+      "v": 28,
+      "text": "When Jesus had finished saying these things, the multitudes were astonished at his teaching,",
+      "understanding": "Matthew's signature formula — 'when Jesus had finished' — closes the first of his five great discourses. The crowds were astonished; the word means struck out of themselves, overwhelmed. No one had ever heard teaching like this."
+    },
+    {
+      "v": 29,
+      "text": "for he taught them with authority, and not like the scribes.",
+      "understanding": "The reason for the astonishment: He taught with authority, not like the scribes. The scribes quoted other rabbis for backing; Jesus spoke as the Source — 'You have heard it said... but I say to you.' Only the Lawgiver Himself can talk like that, and the crowd felt the difference in their bones.",
+      "words": [
+        { "strongs": "G1849", "hebrew": "ἐξουσία", "translit": "exousía", "english": "authority" }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Beam and the Speck",
+      "verseRef": "v. 3-5",
+      "image": "Picture a man squinting hard, reaching two fingers toward his brother's face to tweeze out a fleck of sawdust — while a full-length roof timber juts straight out of his own eye socket. Every time he turns his head the beam swings around, knocking over lamps and cracking the doorframe, and he never notices. He is running an eye clinic with a rafter growing out of his face.",
+      "meaning": "Jesus, the carpenter's son, is using deliberate workshop humor. The speck and the beam are the same material — wood — just wildly different sizes. The point is savage and simple: the critic and the criticized share the same sinful nature; the self-appointed judge just carries more of it. Hypocrisy blinds a man before it ever equips him to help, and the loudest fault-finders are almost always hiding the largest logs."
+    },
+    {
+      "title": "The Narrow Gate and the Broad Road",
+      "verseRef": "v. 13-14",
+      "image": "See two gates set in a city wall. One is a great triumphal arch, thrown wide open, opening onto a paved boulevard packed with a laughing, easy crowd streaming through shoulder to shoulder, carrying all their baggage with them. The other is a low, narrow turnstile you must stoop and turn sideways to pass, opening onto a pressed-in footpath where only a scattered few are walking, single file.",
+      "meaning": "Every ancient hearer knew the city gate was the place where decisions were made and destinies were sealed. Jesus flips the crowd's instinct: the popular road is not the safe road — the sheer crowdedness of the wide gate is precisely the warning. The Kingdom is entered one person at a time, by a decision that costs you the old self you cannot drag through a narrow gate. Life is on the road few are willing to find."
+    },
+    {
+      "title": "The Wolf in Sheep's Clothing",
+      "verseRef": "v. 15",
+      "image": "A wolf has draped a sheep's fleece over its back and slipped in among the flock. It moves quietly, bleating softly, grazing where the sheep graze, indistinguishable in the crowd — until hunger takes over and the fangs come out. The most dangerous predator is not howling outside the fence; it is standing in the middle of the pen wearing wool.",
+      "meaning": "The deadliest enemy of the flock is the wolf that has learned to look like a sheep. False teachers do not announce themselves with horns and fire — they blend in, they use the right words, they wear the right smile. That is exactly why Jesus refuses to let us judge the costume and commands us to judge the harvest instead: you cannot see the fangs under the fleece, but you can eventually see the fruit."
+    },
+    {
+      "title": "The Two Builders and the Storm",
+      "verseRef": "v. 24-27",
+      "image": "Two houses stand side by side in the sun, identical from the street — same walls, same roof, same fresh paint. But one man dug down through the loose sand until he hit bedrock and set his footings deep in the stone; the other poured his floor straight onto the smooth, easy, level sand and saved himself the digging. Then the sky blackens, the dry wadi fills and roars, the wind screams down the valley — and one house stands as if it were part of the mountain while the other cracks, buckles, and drops in a single thunderclap of ruin.",
+      "meaning": "The storm is not optional; it comes to both houses without asking permission. The difference between the two men was completely invisible until the storm arrived — and by then it was far too late to change foundations. The foundation is laid in the dry season, in the unseen, unglamorous daily choice to actually DO what Jesus said. When the flood comes, it does not create your foundation; it only announces what you built on all along."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      { "label": "Judge Not — The Log and the Speck (v. 1-6)", "body": "A command against the condemning spirit that plays God, balanced by the call to real discernment (don't give the holy to dogs)." },
+      { "label": "Ask, Seek, Knock (v. 7-11)", "body": "The Father's open-handed, how-much-more generosity to the child who keeps on praying." },
+      { "label": "The Golden Rule (v. 12)", "body": "The whole Law and Prophets compressed into one active sentence: do for others what you want done for you." },
+      { "label": "The Two Gates and Two Ways (v. 13-14)", "body": "Enter by the narrow gate; the broad, crowded road ends in destruction." },
+      { "label": "The Two Trees — False Prophets (v. 15-20)", "body": "Discernment by fruit, not by disguise; every tree is known by what it produces." },
+      { "label": "The Two Claims — 'Lord, Lord' (v. 21-23)", "body": "Confession and even miracles without obedience, ending in the verdict 'I never knew you.'" },
+      { "label": "The Two Builders (v. 24-27)", "body": "Hearing and doing versus hearing only; the storm exposes the foundation." },
+      { "label": "The Astonished Crowds (v. 28-29)", "body": "Matthew's closing formula; the crowd stunned by a Teacher who spoke with authority, not citation." }
+    ],
+    "sections": [
+      {
+        "heading": "The Sermon Ends in a Sorting",
+        "paragraphs": [
+          "Chapter 7 is the landing strip of the greatest sermon ever preached, and it is built entirely out of pairs. Two gates. Two roads. Two trees. Two kinds of fruit. Two confessions. Two builders. Two houses. Two destinies. The Sermon on the Mount does not trail off into a gentle inspirational glow — it narrows to a fork in the road and forces a decision. Jesus has spent three chapters describing the greater righteousness of the Kingdom, the righteousness that exceeds the scribes and Pharisees and reaches all the way down into the heart. Now He turns to the crowd and says, in effect: everyone here is building something, everyone is walking toward one of two gates, and there is no third option.",
+          "Notice the sharp edge running through the whole chapter: hearing is not the same as doing, and it never will be. The fool on the sand HEARD the sermon (v. 26). The many crying 'Lord, Lord' were doing miracles in Jesus' name (v. 22). The bad tree was still a tree in the orchard (v. 19). The whole point is that admiration is not obedience, and religious activity is not relationship. This is the necessary counterweight to a shallow gospel that thinks a mumbled prayer or an emotional moment is the whole of salvation. Jesus insists that the will of the Father, actually done, is the fruit that proves the root is real — not the ground of your acceptance, but the unmistakable evidence of it."
+        ]
+      },
+      {
+        "heading": "'I Never Knew You' — The Most Terrifying Verse in the Bible",
+        "paragraphs": [
+          "Verses 21-23 should stop every reader cold. Here are people who called Jesus 'Lord' — and meant it enough to say it twice. Here are people who prophesied, cast out demons, and performed many mighty works, all 'in your name.' By every visible metric they were spiritual superstars. And Jesus, the Judge, looks at them and says the unthinkable: 'I never knew you. Depart from me.' Not 'you used to know me.' Not 'you drifted.' Never. The relationship was never there. This is the deadly danger of false assurance — a life that trades on Jesus' name, borrows His power, uses His vocabulary, and never actually submits to His rule.",
+          "We must handle this honestly, because it cuts in two directions at once. It destroys easy-believism — the notion that a decision once made, with no life to show for it, guarantees the Kingdom. And it also destroys works-righteousness — because these very people had the most impressive works of anyone, and their works saved no one. The dividing line is not the loudness of the confession or the size of the miracle. The dividing line is a single Greek word: ginōskō, to be known, to be in living covenant relationship with Christ. The saved are not defined by what they did FOR Jesus, but by whether Jesus KNOWS them — and the proof of being known is a life that actually does the will of the Father. The fruit does not earn the relationship; it reveals whether the relationship was ever alive."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "James, the half-brother of Jesus, sat under this sermon and took it into his bones — his whole letter reads like the Sermon on the Mount preached back to the church. He writes in James 1:22, 'But be doers of the word, and not only hearers, deluding your own selves,' and then paints the exact picture of Matthew 7: the man who hears the word and does nothing is like a man who glances at his face in a mirror and immediately forgets what he looks like (James 1:23-25). James's 'doer of the word' IS the wise man of Matthew 7:24 who built on the rock; James's self-deceived 'hearer only' is the fool on the sand. The two builders became the central nerve of an entire New Testament epistle.",
+        "The terror of 'I never knew you' is answered, and its logic confirmed, in 2 Timothy 2:19: 'However God's firm foundation stands, having this seal, \"The Lord knows those who are his,\" and, \"Let everyone who names the name of the Lord depart from unrighteousness.\"' There is the same firm foundation, the same being-known by the Lord, and the same demand to depart from lawlessness — the very charge Jesus laid on the false claimants. And Matthew brackets his whole Gospel around the authority the crowd marveled at here: the One who taught with authority in 7:29 stands on another mountain at the end of the book and declares, 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations' (Matthew 28:18-19). The authority the crowds only glimpsed in the sermon is proven total at the empty tomb."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Judge",
+      "hebrew": "κρίνω",
+      "translit": "krínō",
+      "strongs": "G2919",
+      "verses": "v. 1, 2",
+      "insight": "The root meaning is to separate, distinguish, and decide — and by implication to condemn, sentence, and punish. Jesus is not forbidding the God-given ability to distinguish right from wrong; He forbids the self-exalting act of pronouncing final condemnation on another soul, which is God's seat alone. The tragic irony is built into the word: the one who sets himself up to hand down verdicts is, by the same measure, requesting a verdict on himself."
+    },
+    {
+      "english": "Ask",
+      "hebrew": "αἰτέω",
+      "translit": "aitéō",
+      "strongs": "G154",
+      "verses": "v. 7, 8, 9, 10, 11",
+      "insight": "To ask, beg, crave, require — the word of one who has need and comes to one who has supply. In verse 7 it stands in the present tense imperative: keep on asking. The whole ask-seek-knock sequence is not a formula to unlock a reluctant vault; it is the posture of a child before a Father who is described as giving 'good things to those who ask him.' Prayer here is not persuading God to become generous; it is trusting that He already is."
+    },
+    {
+      "english": "Fruit",
+      "hebrew": "καρπός",
+      "translit": "karpós",
+      "strongs": "G2590",
+      "verses": "v. 16, 17, 18, 19, 20",
+      "insight": "Fruit — that which is plucked, the visible produce that reveals the invisible root. Jesus makes it the single test for false prophets: not their gifting, not their eloquence, not their crowd, but their fruit — the character and conduct that grows out of a life over time. You cannot inspect a man's heart directly, but you can watch his harvest, because a good tree cannot fake bad fruit and a corrupt tree cannot fake good. Given enough seasons, the root always shows up on the branch."
+    },
+    {
+      "english": "Know",
+      "hebrew": "γινώσκω",
+      "translit": "ginṓskō",
+      "strongs": "G1097",
+      "verses": "v. 23",
+      "insight": "To know — not know ABOUT, but know intimately, in living covenant relationship, the way a husband knows a wife. This is the hinge of the most frightening sentence in the sermon: 'I never knew you.' The false claimants knew a great deal about Jesus and did much in His name, but He never knew THEM — the relationship never existed. Salvation is finally not measured by what you accomplished for Christ, but by whether Christ knows you, and the fruit of your life is what reveals which is true."
+    },
+    {
+      "english": "Authority",
+      "hebrew": "ἐξουσία",
+      "translit": "exousía",
+      "strongs": "G1849",
+      "verses": "v. 29",
+      "insight": "Delegated force, mastery, the right and power to act and command. This is the word that explains the crowd's astonishment. The scribes taught by stacking up quotations from earlier rabbis, forever leaning on someone else's authority; Jesus taught as the Source — 'but I say to you.' The same word rings out at the end of Matthew when the risen Christ declares, 'All exousia in heaven and on earth has been given to me.' The authority the crowd felt on the mountain is the authority that now sends the church to the nations."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the distance between what you say you believe and what you are actually building — the gap between the sermons you love and the life you live when the storm comes.",
+    "items": [
+      {
+        "title": "The Mirror Before the Magnifying Glass",
+        "body": "You are quick with the magnifying glass on other people's specks and slow with the mirror on your own beam. The Spirit is asking you to reverse the order. Before you correct, examine. Before you criticize, confess. Jesus does not tell you to become blind to your brother's fault — He tells you to get the beam out first so you can actually see clearly to help him. Who is the person you most love to criticize right now, and what is God asking you to pull out of your own eye before you touch theirs?"
+      },
+      {
+        "title": "The Door That Opens to the One Who Keeps Knocking",
+        "body": "Somewhere in your life is a prayer you have almost given up on — a knock you've stopped throwing because the door stayed shut too long. Jesus stands in the middle of this chapter and says: keep asking, keep seeking, keep knocking. Your Father is not the reluctant judge; He is the good Father who would sooner die than hand His hungry child a stone. Have you quietly reclassified God as stingy because a good gift is taking longer than you wanted? Will you come back to the door as a trusting child, not a defeated beggar?"
+      },
+      {
+        "title": "The Foundation No One Sees Until the Storm",
+        "body": "Here is the question the whole sermon has been driving toward: are you a hearer or a doer? You have heard these words — you are hearing them right now. The fool on the sand heard them too. The only thing that separated the wise man from the fool was that one dug down and DID what he heard. Your foundation is being poured right now, in the dry season, in the unseen daily choices no one is applauding. When the flood comes — and it will come — will your house stand because you built it on the rock of obedience, or will it fall with a great crash because you only ever admired the blueprint?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Beam Check",
+        "body": "Name the one person whose faults you rehearse most often in your mind. Now be brutally honest: what is the beam in your own eye — the sin you have made peace with while zooming in on their speck? Are you a physician offering surgery while blind?"
+      },
+      {
+        "title": "The Fruit Test",
+        "body": "Look at the voices you actually trust and follow — teachers, preachers, influencers, leaders. Are you measuring them by their gifts, their charisma, and the size of their crowd, or by their fruit — their humility, their character, their obedience sustained over years? Have you handed your discernment to a wolf because you never looked past the wool?"
+      },
+      {
+        "title": "The Foundation Audit",
+        "body": "You have heard a great deal of the Word. The only question that decides everything is this: are you DOING it, or just admiring it? Point to one specific place where the gap between what you know and what you build is the widest — and ask why the storm has not exposed it yet."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Turn One Heard Word Into One Done Deed",
+        "body": "Pick a single teaching from the Sermon on the Mount you have been hearing but not doing — forgive the brother you've been avoiding, drop the grudge, give in secret, cut off the lustful look, bless the one who cursed you. Before you sleep tonight, actually DO it. Move one thing off the sand and set it on the rock. Do not wait to feel ready; obedience is how you build."
+      },
+      {
+        "title": "Keep Knocking in Writing",
+        "body": "Take the one prayer you have almost abandoned and write it at the top of a fresh page. Under it write three words: 'Ask. Seek. Knock.' Commit to bringing that request to your Father every single day for the next thirty days — not as a beggar wearing Him down, but as a child who knows the Father gives good things to those who ask Him. Date it, and watch the door."
+      }
+    ]
+  },
+  "prayerReflection": "\"Father in heaven, You are better than the best father I have ever known. I come to You as a child today — I ask, I seek, I knock — and I trust that You do not hand Your children stones or serpents, but good gifts from Your good hand. Forgive me, Lord, for the beam I have carried in my own eye while inspecting the specks in everyone else. Take it out. Give me the mirror before the magnifying glass, and the mercy I want measured back to me. Teach me to know the trees by their fruit, and keep me off the broad, crowded, easy road that ends in ruin — set my feet on the narrow way that leads to life, even when few walk it beside me. Lord, I never want to hear 'I never knew you.' I do not want to trade on Your name while refusing Your rule. Let me be known by You, and let the doing of Your will be the fruit that proves the root is alive. I refuse to be the fool who only heard. Make me the wise builder who hears these words and does them, who digs down through the sand to the Rock and builds there — so that when the rain falls, the floods rise, and the winds beat against my house, it will not fall, because it was founded on You. I bow under Your authority, the One who speaks and it stands. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "Saul's Sacrifice and the Sound of Sheep",
+      "ref": "1 Samuel 15",
+      "relatedVerses": "v. 21-23",
+      "summary": "King Saul was sent to destroy the Amalekites completely, but he spared the best of the livestock and the king, then built an altar and prepared to worship. When Samuel arrived, Saul greeted him with pious words — 'I have performed the commandment of the LORD' — even as the sheep he had disobediently kept were bleating in the background. Samuel's answer is the Old Testament echo of Matthew 7:21: 'to obey is better than sacrifice.' Saul said all the right religious words and offered all the right religious acts, but because he would not do the will of God, the kingdom was torn from him. Confession and sacrifice without obedience is a house on the sand."
+    },
+    {
+      "title": "The Rich Young Ruler Who Would Not Build",
+      "ref": "Matthew 19:16-22",
+      "relatedVerses": "v. 24-27",
+      "summary": "A wealthy young man ran to Jesus calling Him 'Good Teacher' and asking how to inherit eternal life. He heard the words of Jesus directly, from Jesus' own mouth — the highest privilege any hearer could have. But when Jesus told him to sell his possessions, give to the poor, and come follow, he went away sorrowful, because he had great wealth. He is the living portrait of Matthew 7:26: a man who heard these words of mine and did not do them. He stood at the narrow gate, looked through it, and chose the broad road with all his baggage. Hearing Jesus perfectly is not the same as obeying Him."
+    },
+    {
+      "title": "The Foolish Virgins at the Shut Door",
+      "ref": "Matthew 25:1-13",
+      "relatedVerses": "v. 21-23",
+      "summary": "Later in this same Gospel, Jesus tells of ten virgins waiting for the bridegroom; five were wise and kept oil ready, five were foolish and let their lamps go out. When the bridegroom came, the foolish ones arrived late, pounding on the door, crying the very words of Matthew 7:22 — 'Lord, Lord, open to us!' And the answer is the echo of 7:23: 'Most certainly I tell you, I don't know you.' Matthew deliberately brackets his Gospel with this terror, so the reader cannot mistake it: a lamp without oil, a confession without readiness, a 'Lord, Lord' without relationship, will stand outside a shut door. Be known by Him now, while the door is open."
+    }
+  ]
+}

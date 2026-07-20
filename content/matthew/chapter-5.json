@@ -1,0 +1,505 @@
+{
+  "type": "chapterStudy",
+  "book": "Matthew",
+  "chapter": 5,
+  "chapterTitle": "The Sermon on the Mount Begins — The Constitution of the Kingdom",
+  "themeTitle": "“The Upside-Down Blessedness of the King's Kingdom”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him.",
+      "understanding": "The King sees the crowds, ascends the mountain, and sits down — the fixed posture of a rabbi taking his authoritative seat to teach. Matthew is painting Jesus as a new and greater Moses, climbing a new Sinai to deliver the constitution of His Kingdom."
+    },
+    {
+      "v": 2,
+      "text": "He opened his mouth and taught them, saying,",
+      "understanding": "“He opened his mouth” is a Hebrew idiom for solemn, weighty, deliberate speech about to be delivered. This is no casual aside — it is the formal proclamation of the King."
+    },
+    {
+      "v": 3,
+      "text": "“Blessed are the poor in spirit, for theirs is the Kingdom of Heaven.",
+      "understanding": "The first Beatitude sets the doorway to the whole Kingdom. The “poor in spirit” are the spiritually bankrupt — those who know they own nothing before God — and it is to these beggars, not the self-sufficient, that the Kingdom is handed.",
+      "words": [
+        { "strongs": "G3107", "hebrew": "μακάριος", "translit": "makários", "english": "blessed" },
+        { "strongs": "G4434", "hebrew": "πτωχός", "translit": "ptōchós", "english": "poor" },
+        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "kingdom" }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Blessed are those who mourn, for they shall be comforted.",
+      "understanding": "Those who grieve — over their own sin and over a broken world — are the ones God comes alongside to comfort. Kingdom comfort is promised to the weeping, not the numb.",
+      "words": [
+        { "strongs": "G3996", "hebrew": "πενθέω", "translit": "penthéō", "english": "mourn" },
+        { "strongs": "G3870", "hebrew": "παρακαλέω", "translit": "parakaléō", "english": "be comforted" }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Blessed are the gentle, for they shall inherit the earth.",
+      "understanding": "The gentle (meek) are not the weak but the strong under control — power harnessed like a broken warhorse. The world says the aggressive seize the earth; the King says the meek inherit it.",
+      "words": [
+        { "strongs": "G4239", "hebrew": "πραΰς", "translit": "praÿs", "english": "gentle" },
+        { "strongs": "G2816", "hebrew": "κληρονομέω", "translit": "klēronoméō", "english": "inherit" },
+        { "strongs": "G1093", "hebrew": "γῆ", "translit": "gē", "english": "earth" }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Blessed are those who hunger and thirst after righteousness, for they shall be filled.",
+      "understanding": "This is not a mild preference but a starving, parched craving for right standing and right living. The King promises that such hunger is the one appetite that will be completely satisfied.",
+      "words": [
+        { "strongs": "G1343", "hebrew": "δικαιοσύνη", "translit": "dikaiosýnē", "english": "righteousness" }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Blessed are the merciful, for they shall obtain mercy.",
+      "understanding": "The merciful are actively compassionate — mercy that moves, not merely feels. The measure of mercy you extend is the measure you will receive.",
+      "words": [
+        { "strongs": "G1655", "hebrew": "ἐλεήμων", "translit": "eleḗmōn", "english": "merciful" }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Blessed are the pure in heart, for they shall see God.",
+      "understanding": "The “pure” heart is the unmixed, unalloyed heart — a single, undivided loyalty with no hidden agenda. Only the clean and single heart is granted the vision of God Himself.",
+      "words": [
+        { "strongs": "G2513", "hebrew": "καθαρός", "translit": "katharós", "english": "pure" }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Blessed are the peacemakers, for they shall be called children of God.",
+      "understanding": "Peacemakers do not merely avoid conflict; they actively build reconciliation between the estranged. In doing so they bear the family likeness of the God of peace and are named His children.",
+      "words": [
+        { "strongs": "G1518", "hebrew": "εἰρηνοποιός", "translit": "eirēnopoiós", "english": "peacemakers" }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Blessed are those who have been persecuted for righteousness’ sake, for theirs is the Kingdom of Heaven.",
+      "understanding": "The eighth Beatitude returns to the exact reward of the first — the Kingdom of Heaven — bracketing the whole list. Righteousness in a hostile world will draw persecution, and that persecution is itself a badge of belonging to the King.",
+      "words": [
+        { "strongs": "G1343", "hebrew": "δικαιοσύνη", "translit": "dikaiosýnē", "english": "righteousness" },
+        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "kingdom" }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "“Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake.",
+      "understanding": "Jesus turns from the third person to a direct “you.” The blessing now hinges on one thing — that the reproach and slander come “for my sake,” tying the whole reward to personal loyalty to Christ Himself.",
+      "words": [
+        { "strongs": "G3107", "hebrew": "μακάριος", "translit": "makários", "english": "blessed" },
+        { "strongs": "G5484", "hebrew": "χάριν", "translit": "chárin", "english": "for … sake" }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you.",
+      "understanding": "The command in persecution is not merely to endure but to leap for joy. Suffering for righteousness places you in the honored succession of the prophets and stores up great reward in heaven."
+    },
+    {
+      "v": 13,
+      "text": "“You are the salt of the earth, but if the salt has lost its flavor, with what will it be salted? It is then good for nothing, but to be cast out and trodden under the feet of men.",
+      "understanding": "You do not merely add salt — you ARE the salt, God's preservative and flavor against a decaying world. But a disciple who has lost his distinctiveness is as useless as savorless salt: fit only to be thrown out and trampled.",
+      "words": [
+        { "strongs": "G217", "hebrew": "ἅλας", "translit": "hálas", "english": "salt" }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "You are the light of the world. A city located on a hill can’t be hidden.",
+      "understanding": "You are the light of the world — the Kingdom is not a private hobby but a public reality. Like a city set on a hill, the disciple's life is inescapably visible.",
+      "words": [
+        { "strongs": "G5457", "hebrew": "φῶς", "translit": "phōs", "english": "light" }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Neither do you light a lamp, and put it under a measuring basket, but on a stand; and it shines to all who are in the house.",
+      "understanding": "No one lights a lamp only to smother it under a basket. Light exists to be lifted onto a stand where it floods the whole house — concealment defeats its very purpose."
+    },
+    {
+      "v": 16,
+      "text": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
+      "understanding": "The visible good works of a disciple have one intended destination: not applause for you, but glory redirected to your Father in heaven. Kingdom light is meant to be seen, but always so that God is praised.",
+      "words": [
+        { "strongs": "G5457", "hebrew": "φῶς", "translit": "phōs", "english": "light" }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "“Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill.",
+      "understanding": "Jesus flatly denies any intent to abolish the Law or the Prophets. He came to fulfill them — to fill them full of their intended meaning and bring the entire Old Testament to its goal in Himself.",
+      "words": [
+        { "strongs": "G4137", "hebrew": "πληρόω", "translit": "plēróō", "english": "fulfill" }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter or one tiny pen stroke shall in any way pass away from the law, until all things are accomplished.",
+      "understanding": "Down to the smallest letter and the tiniest pen-stroke, every detail of God's Law stands binding and unbreakable. Nothing of it will fall to the ground until its whole purpose is accomplished."
+    },
+    {
+      "v": 19,
+      "text": "Whoever, therefore, shall break one of these least commandments, and teach others to do so, shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven.",
+      "understanding": "How you handle even the “least” commandment determines your standing in the Kingdom. Those who loosen God's Word and teach others to do the same are counted least; those who obey and teach it are counted great.",
+      "words": [
+        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "kingdom" }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven.",
+      "understanding": "This is the thesis of everything that follows. A righteousness that merely matches the meticulous external code of the scribes and Pharisees is not enough — Kingdom entry requires a deeper, heart-level righteousness they never reached.",
+      "words": [
+        { "strongs": "G1343", "hebrew": "δικαιοσύνη", "translit": "dikaiosýnē", "english": "righteousness" },
+        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "kingdom" }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’",
+      "understanding": "The first of six antitheses opens by quoting the sixth commandment and its penalty. Jesus is not correcting Moses but the shallow way the tradition had reduced the command to the mere act of killing."
+    },
+    {
+      "v": 22,
+      "text": "But I tell you, that everyone who is angry with his brother without a cause will be in danger of the judgment; and whoever says to his brother, ‘Raca!’ will be in danger of the council; and whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.",
+      "understanding": "With the authority of “But I tell you,” Jesus drives the command to its root: unjust anger, the contemptuous “Raca” (empty-head), and the scornful “You fool!” already carry the guilt of murder. Killing begins in the heart, and unchecked contempt puts a person in danger of the fire of Gehenna.",
+      "words": [
+        { "strongs": "G3710", "hebrew": "ὀργίζω", "translit": "orgízō", "english": "angry" },
+        { "strongs": "G1067", "hebrew": "γέεννα", "translit": "géenna", "english": "Gehenna" }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "“If therefore you are offering your gift at the altar, and there remember that your brother has anything against you,",
+      "understanding": "Picture the moment of worship at the altar suddenly interrupted by memory: your brother holds a grievance against you. A broken relationship reaches all the way up to the altar and stalls your offering."
+    },
+    {
+      "v": 24,
+      "text": "leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.",
+      "understanding": "The stunning command: abandon the gift mid-worship, go, and be reconciled first. Reconciliation with people takes priority over ritual with God — God will not accept worship offered over an unaddressed wound.",
+      "words": [
+        { "strongs": "G1259", "hebrew": "διαλλάσσω", "translit": "diallássō", "english": "be reconciled" }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Agree with your adversary quickly, while you are with him on the way; lest perhaps the prosecutor deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.",
+      "understanding": "Settle your conflict fast, while there is still time on the road, before it escalates through prosecutor, judge, officer, and prison. Delayed reconciliation only hardens into worse consequences."
+    },
+    {
+      "v": 26,
+      "text": "Most certainly I tell you, you shall by no means get out of there, until you have paid the last penny.",
+      "understanding": "The warning's sharp edge: once the process runs its course, there is no release until the last penny is paid. Unresolved conflict can harden into a debt with no way out."
+    },
+    {
+      "v": 27,
+      "text": "“You have heard that it was said, ‘You shall not commit adultery;’",
+      "understanding": "The second antithesis begins by citing the seventh commandment. Again the traditional reading had shrunk the command to the physical act alone.",
+      "words": [
+        { "strongs": "G3431", "hebrew": "μοιχεύω", "translit": "moicheúō", "english": "commit adultery" }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart.",
+      "understanding": "Jesus locates adultery not first in the bed but in the eyes and the heart. The deliberate, lingering gaze that sets the heart on lust has already committed the sin — purity is a matter of inner desire, not just outward action.",
+      "words": [
+        { "strongs": "G1937", "hebrew": "ἐπιθυμέω", "translit": "epithyméō", "english": "lust after" },
+        { "strongs": "G3431", "hebrew": "μοιχεύω", "translit": "moicheúō", "english": "adultery" }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "If your right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.",
+      "understanding": "In violent hyperbole, Jesus demands radical, decisive war on whatever leads you into sin — even something as precious as the right eye. Better to lose a member than to let sin drag the whole body into Gehenna.",
+      "words": [
+        { "strongs": "G1067", "hebrew": "γέεννα", "translit": "géenna", "english": "Gehenna" }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "If your right hand causes you to stumble, cut it off, and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna.",
+      "understanding": "The same drastic surgery applies to the right hand — the strongest, most useful member. Nothing you own, no matter how valuable, is worth keeping if it costs you your soul in hell.",
+      "words": [
+        { "strongs": "G1067", "hebrew": "γέεννα", "translit": "géenna", "english": "Gehenna" }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "“It was also said, ‘Whoever shall put away his wife, let him give her a writing of divorce,’",
+      "understanding": "The third antithesis raises the Mosaic provision that permitted divorce by a written certificate. The rabbis had stretched this concession into an easy license to discard wives."
+    },
+    {
+      "v": 32,
+      "text": "but I tell you that whoever puts away his wife, except for the cause of sexual immorality, makes her an adulteress; and whoever marries her when she is put away commits adultery.",
+      "understanding": "Jesus tightens the bond of marriage back to God's design of covenant permanence. Divorce apart from sexual immorality entangles both parties in adultery — marriage is not a disposable arrangement but a one-flesh covenant."
+    },
+    {
+      "v": 33,
+      "text": "“Again you have heard that it was said to them of old time, ‘You shall not make false vows, but shall perform to the Lord your vows,’",
+      "understanding": "The fourth antithesis takes up the law of vows and oaths. Israel had built an elaborate system of graded oaths to decide which promises were binding and which could be evaded."
+    },
+    {
+      "v": 34,
+      "text": "but I tell you, don’t swear at all: neither by heaven, for it is the throne of God;",
+      "understanding": "Jesus sweeps the whole manipulative system away: do not swear at all. You cannot swear by heaven to dodge accountability, because heaven is God's own throne — He is a witness to every word."
+    },
+    {
+      "v": 35,
+      "text": "nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King.",
+      "understanding": "Every supposedly “lesser” object of an oath — earth, Jerusalem — still belongs to God. There is no corner of creation you can invoke that is not already His, so no oath can honestly leave Him out."
+    },
+    {
+      "v": 36,
+      "text": "Neither shall you swear by your head, for you can’t make one hair white or black.",
+      "understanding": "You cannot even swear by your own head, because you do not control it — you cannot turn a single hair white or black. Your very self is not yours to pledge as collateral."
+    },
+    {
+      "v": 37,
+      "text": "But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one.",
+      "understanding": "The Kingdom citizen needs no oath because his word is simply true — a plain Yes and a plain No that can be trusted absolutely. The elaborate scaffolding of oath-taking exists only because of deceit, and it springs from the evil one."
+    },
+    {
+      "v": 38,
+      "text": "“You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’",
+      "understanding": "The fifth antithesis cites the law of measured retribution. Originally a limit on courtroom vengeance, it had been twisted into a personal license to pay back every injury."
+    },
+    {
+      "v": 39,
+      "text": "But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also.",
+      "understanding": "Jesus forbids the reflex of personal revenge: do not retaliate against the one who wrongs you. A slap on the right cheek — a backhanded insult — is to be met not with a returned blow but with the astonishing offer of the other cheek."
+    },
+    {
+      "v": 40,
+      "text": "If anyone sues you to take away your coat, let him have your cloak also.",
+      "understanding": "If a lawsuit strips you of your inner tunic, hand over your outer cloak as well. Kingdom people meet grasping demands with a generosity that disarms the taker."
+    },
+    {
+      "v": 41,
+      "text": "Whoever compels you to go one mile, go with him two.",
+      "understanding": "A Roman soldier could legally force a civilian to carry his gear one mile. Jesus says: freely offer a second — turn resented coercion into voluntary, cheerful service."
+    },
+    {
+      "v": 42,
+      "text": "Give to him who asks you, and don’t turn away him who desires to borrow from you.",
+      "understanding": "The reflex of the Kingdom heart is the open hand — give to the one who asks, and do not slam the door on the one who wants to borrow. Generosity, not self-protection, marks the King's people."
+    },
+    {
+      "v": 43,
+      "text": "“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’",
+      "understanding": "The sixth and climactic antithesis quotes the genuine command to love your neighbor, but bolted onto it a man-made addition — “and hate your enemy” — that Scripture never actually said. This distortion drew the boundary of love around one's own tribe."
+    },
+    {
+      "v": 44,
+      "text": "But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you,",
+      "understanding": "Here is the summit of the whole Sermon: a deliberate, willed love (agapaō) aimed directly at your enemies. It is spelled out in concrete acts — bless the ones who curse you, do good to the ones who hate you, and pray for the ones who persecute you.",
+      "words": [
+        { "strongs": "G25", "hebrew": "ἀγαπάω", "translit": "agapáō", "english": "love" }
+      ]
+    },
+    {
+      "v": 45,
+      "text": "that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust.",
+      "understanding": "Loving enemies is how you show the family resemblance of your Father, who pours sun and rain on evil and good alike. His grace is gloriously indiscriminate, and His children are called to mirror it."
+    },
+    {
+      "v": 46,
+      "text": "For if you love those who love you, what reward do you have? Don’t even the tax collectors do the same?",
+      "understanding": "Loving only those who love you back earns no reward — even the despised tax collectors manage that much. Reciprocal love is merely natural; it does not distinguish a citizen of the Kingdom.",
+      "words": [
+        { "strongs": "G25", "hebrew": "ἀγαπάω", "translit": "agapáō", "english": "love" }
+      ]
+    },
+    {
+      "v": 47,
+      "text": "If you only greet your friends, what more do you do than others? Don’t even the tax collectors do the same?",
+      "understanding": "Greeting only your own circle is no more than the pagans do. The love of the Kingdom must go beyond the natural, or it is nothing remarkable at all."
+    },
+    {
+      "v": 48,
+      "text": "Therefore you shall be perfect, just as your Father in heaven is perfect.",
+      "understanding": "The chapter's summit and summary: be perfect (teleios) — whole, complete, mature — as your heavenly Father is perfect. This is not flawless sinlessness by willpower but an all-embracing, undivided love that reaches even enemies, reflecting the very completeness of God.",
+      "words": [
+        { "strongs": "G5046", "hebrew": "τέλειος", "translit": "téleios", "english": "perfect" }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The New Moses on the Mountain",
+      "verseRef": "v. 1-2",
+      "image": "A tide of ragged people flows out of the villages — the sick, the poor, the curious, the desperate. And the King does not shout over them from the plain; He climbs. He goes up onto the mountain, and He sits down, and the mountain becomes a throne of grass. His disciples gather at His feet. He opens His mouth — a deliberate, deep breath before the weightiest words the world will ever hear.",
+      "meaning": "Every Jewish listener would feel the tremor of memory: Moses climbing Sinai to bring down the Law in fire and smoke. But this time the Lawgiver does not come down trembling — He sits as the King on His mountain and speaks the Law of the Kingdom in His own voice. Where Moses said, “Thus says the LORD,” Jesus says, “But I tell you.” The greater Moses has come, and the new Sinai is His seated authority."
+    },
+    {
+      "title": "The City That Cannot Be Hidden",
+      "verseRef": "v. 14-16",
+      "image": "Night falls over Galilee, and the hills go black. But look up — there, on the ridge, a town blazes with the light of a hundred lamps, spilling gold into the dark, impossible to miss for miles. No traveler on the road below can pretend it isn't there. Then narrow the frame to a single house: a small clay lamp, and a fool who would light it only to jam a basket over the flame and choke it out.",
+      "meaning": "You are that ridge-top city. The moment you belong to the King, your life becomes public evidence of another Kingdom — visible whether you like it or not. To hide your faith is as absurd as lighting a lamp to smother it. And notice the aim: the light shines “that they may see your good works, and glorify your Father” — the point of your visibility is never your own applause, but that the watching world looks past you to God."
+    },
+    {
+      "title": "The Gift Left at the Altar",
+      "verseRef": "v. 23-24",
+      "image": "A worshiper stands in the temple courts, his offering in his hands, the smoke of sacrifice curling upward, the priest waiting. This is the holy moment — and then it hits him: a brother, somewhere out there, holds a wound with his name on it. And the King's command lands like a hand on his shoulder: set the gift down. Leave it right there in front of the altar. Walk out of the temple, cross the miles, find your brother, and make it right. Then come back and worship.",
+      "meaning": "Heaven refuses to accept vertical worship built over a horizontal fracture you refuse to mend. God would rather you interrupt your own worship than fake it. Reconciliation is not a lower, human errand you handle after church — it is so urgent to God that He sends you out of the sanctuary to do it first. The altar can wait; your estranged brother cannot."
+    },
+    {
+      "title": "Sun and Rain on the Just and the Unjust",
+      "verseRef": "v. 45",
+      "image": "Dawn breaks over a valley of farms. The same golden sun climbs over the honest farmer's field and over the thief's field next door. When the rain clouds gather, they do not swerve to water only the righteous man's crops — they pour on the cruel and the kind, the grateful and the blasphemer, without discrimination. God's generosity falls on the very people who curse His name.",
+      "meaning": "This is the engine of “love your enemies.” We are not asked to love our enemies because they deserve it, but because our Father already does — every sunrise a mercy to people who hate Him, every rainfall a gift to those who will never thank Him. To love only those who love you is to be a mirror of the tax collector. To love your enemy is to be a mirror of God, and to prove whose child you really are."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      { "label": "The King Ascends the Mountain (v. 1-2)", "body": "The greater Moses takes His seat on a new Sinai to proclaim the constitution of His Kingdom." },
+      { "label": "The Beatitudes (v. 3-12)", "body": "Eight portraits of the blessed citizen of the Kingdom — a blessedness the world would call weakness." },
+      { "label": "Salt and Light (v. 13-16)", "body": "The public identity and mission of the Kingdom's people: to preserve, to flavor, to shine so God is glorified." },
+      { "label": "Not to Abolish but to Fulfill (v. 17-20)", "body": "Jesus' relationship to the Law and the thesis of a righteousness that must exceed the Pharisees'." },
+      { "label": "The Six Antitheses (v. 21-48)", "body": "“You have heard… but I say to you” — Jesus drives murder, adultery, divorce, oaths, retaliation, and love down to the heart, ending at the summit: love your enemies and be perfect as your Father." }
+    ],
+    "sections": [
+      {
+        "heading": "A Greater Moses on a Greater Mountain",
+        "paragraphs": [
+          "Matthew has been building this scene since chapter 2, when the child Jesus was carried down into Egypt and called back out of it, walking Israel's own footsteps in reverse. Now the pattern completes: like Moses, He goes up the mountain; like Moses, He delivers the law of God's people; unlike Moses, He does not receive the words on stone from a God hidden in cloud — He speaks them as His own. This is the deliberate architecture of the whole Gospel. Matthew frames five great blocks of Jesus' teaching to echo the five books of Moses, and this Sermon on the Mount is the first and greatest.",
+          "But do not mistake the parallel for a repetition. Moses gave a law that could expose sin and hem it in; it could not change the heart underneath. Jesus climbs the mountain to give a righteousness that goes all the way down — past the hand that kills to the anger that wishes it, past the act of adultery to the eye that lingers, past the enemy you tolerate to the enemy you are commanded to love. The old covenant governed behavior. The King governs the heart."
+        ]
+      },
+      {
+        "heading": "The Beatitudes: Grace Before Command",
+        "paragraphs": [
+          "Read the Beatitudes carefully and you will notice they are not a to-do list. Jesus does not say, “Become poor in spirit and I will let you in.” He says, “Blessed ARE the poor in spirit — theirs IS the Kingdom.” These are not eight rungs to climb but eight photographs of the kind of person the King's grace has already gotten hold of. The doorway is spiritual bankruptcy: the man who knows he owns nothing before God is the man handed everything. This is the great reversal — the Kingdom does not begin with the strong, the confident, and the deserving, but with the beggar, the mourner, and the meek.",
+          "And the reversal is total. The world blesses the assertive, the comfortable, the thick-skinned, the winners. Jesus blesses the ones the world pities: those who grieve, those who refuse to grab, those starving for a righteousness they don't yet have, those getting slandered for His name. Every worldly value is turned upside down — which means the Kingdom is not this present age improved but this present age inverted. The last are first. The empty are filled. The persecuted own everything. This is not sentimental; it is a frontal assault on the way you instinctively measure a good life."
+        ]
+      },
+      {
+        "heading": "“You Have Heard… But I Say”: The Righteousness That Exceeds the Pharisees",
+        "paragraphs": [
+          "Verse 20 is the hinge of the entire Sermon: “unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven.” This must have sounded impossible — the Pharisees were the gold standard of religious performance, tithing their spices and washing their hands and counting their steps on the Sabbath. How could anyone out-righteous them? The answer is that Jesus is not asking for MORE of the same kind of righteousness; He is demanding a different kind entirely. Not a thicker external shell, but a transformed interior.",
+          "The six antitheses that follow are the proof. Notice what Jesus is and is not doing. He is not correcting Moses — He just swore that not one pen-stroke of the Law would fall (v. 18). He is correcting the shrunken, loophole-hunting tradition that had reduced God's commands to a checklist of external acts you could technically keep while your heart rotted. “You have heard it said, do not murder” — and men congratulated themselves on clean hands while nursing contempt. “But I say,” Jesus answers, the anger IS the murder. The lustful look IS the adultery. God was never only after your behavior; He was always after your heart.",
+          "This drives to the summit in verses 43-48: “Love your enemies… be perfect as your heavenly Father is perfect.” The word “perfect” (teleios) does not mean flawless by sheer willpower — it means whole, complete, undivided. A love that stops at the friend and excludes the enemy is a partial, fractured love, no better than the tax collector's. The perfection God requires is a love as complete and indiscriminate as His own sun and rain. And here is the honest tension the Sermon forces on every reader: no one can produce this by trying harder. The mountain that begins with “Blessed are the poor in spirit” ends with a standard so high it drives you back to your own spiritual poverty — and straight to the King who alone can fulfill the Law in you."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The hardest command in this chapter — “love your enemies, bless those who curse you” (v. 44) — is picked up almost word for word by Paul and pressed onto the everyday life of the church. In Romans 12:14 he writes, “Bless those who persecute you; bless, and don’t curse,” and he closes the passage with the same logic Jesus used about the sun and rain: “Don’t be overcome by evil, but overcome evil with good” (Romans 12:21). Peter does the same, forbidding retaliation — “not rendering evil for evil, or insult for insult” (1 Peter 3:9) — and calling the persecuted “blessed” in the very language of the eighth Beatitude: “But even if you should suffer for righteousness’ sake, you are blessed” (1 Peter 3:14). The Sermon on the Mount was never meant to hang in the air as beautiful poetry; the apostles carried it straight into the bloodstream of the early church.",
+        "This is what Jesus meant by “fulfill” (v. 17). The command He drives home in verse 43 — “love your neighbor” — is a direct quotation of Leviticus 19:18, and His climactic “be perfect, as your Father is perfect” echoes Leviticus 19:2, “You shall be holy, for I, the LORD your God, am holy.” Jesus did not scrap Leviticus; He excavated it to its heart-depth and then filled it full in Himself — the one Man who actually loved His enemies from the cross, praying, “Father, forgive them, for they don’t know what they are doing” (Luke 23:34). The Law pointed at a righteousness no one could reach; the King came to be that righteousness, and then to reproduce it in His people by the Spirit."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Blessed",
+      "hebrew": "μακάριος",
+      "translit": "makários",
+      "strongs": "G3107",
+      "verses": "v. 3-11",
+      "insight": "This is not the fragile “happy” of good circumstances — makários describes a settled, God-given state of flourishing that the world can neither give nor take away. It was even used of the gods and of the honored dead, those beyond the reach of trouble. Jesus scandalously pins this untouchable blessedness onto the poor, the mourning, and the persecuted — declaring that the deepest well-being in the universe belongs not to the winners but to those the world pities."
+    },
+    {
+      "english": "Gentle / Meek",
+      "hebrew": "πραΰς",
+      "translit": "praÿs",
+      "strongs": "G4239",
+      "verses": "v. 5",
+      "insight": "Praÿs is one of the most misread words in the Bible. It never means weakness. In classical Greek it described a wild horse that had been broken and brought under the bit — all its power intact, now fully under control. The meek are not the spineless; they are the strong who have surrendered their strength to God's hand. And it is precisely these, not the land-grabbers, whom the King promises will inherit the earth."
+    },
+    {
+      "english": "Righteousness",
+      "hebrew": "δικαιοσύνη",
+      "translit": "dikaiosýnē",
+      "strongs": "G1343",
+      "verses": "v. 6, 10, 20",
+      "insight": "Dikaiosýnē is the drumbeat of the chapter — the thing to be hungered for (v. 6), suffered for (v. 10), and possessed beyond the Pharisees' measure (v. 20). It means both right standing before God and right living before men, and Matthew refuses to let you split them. The whole Sermon exists to define this word: a righteousness that is not a polished exterior but a transformed heart, and one so far beyond human reach that it must finally be received as a gift and worked out from the inside."
+    },
+    {
+      "english": "Fulfill",
+      "hebrew": "πληρόω",
+      "translit": "plēróō",
+      "strongs": "G4137",
+      "verses": "v. 17",
+      "insight": "Plēróō means to fill something completely full — to cram a net to bursting, to bring a thing to its intended fullness and goal. Jesus did not come to erase the Law but to fill it full: to complete its meaning, to embody its every demand, and to carry it to the destination it was always pointing toward — Himself. This single word is the key to the whole book's fulfillment formula, threading every Old Testament promise straight into the life of the King."
+    },
+    {
+      "english": "Perfect",
+      "hebrew": "τέλειος",
+      "translit": "téleios",
+      "strongs": "G5046",
+      "verses": "v. 48",
+      "insight": "Téleios comes from télos, “goal” or “end,” and means complete, whole, mature — having reached the purpose for which it was made. The command in verse 48 is therefore not “be sinlessly flawless by sheer effort,” but “be whole and undivided in your love, as your Father is whole in His.” It exposes the fatal gap in a love that embraces friends and excludes enemies: such love is fractured, incomplete, un-téleios. The King calls His people to a love as complete and boundary-less as the God who sends sun on the evil and the good."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the distance between your outward record and your inward reality — the clean surface you show the world and the heart only God can see. This chapter refuses to let you hide behind good behavior.",
+    "items": [
+      {
+        "title": "The Blessing You Cannot Manufacture",
+        "body": "Everything in you wants to be blessed by being strong — competent, self-sufficient, on top of things. But the King opens with “Blessed are the poor in spirit.” The Spirit is asking you to stop performing spiritual strength and admit your bankruptcy. Where in your life are you still trying to earn God's approval by your performance instead of receiving His Kingdom as a beggar receives bread? Are you willing to mourn over what you cannot fix in yourself, or do you keep managing your image before God?"
+      },
+      {
+        "title": "The Anger You Have Excused",
+        "body": "You would never murder anyone. So you have quietly filed yourself among the innocent. But Jesus lifts the floorboards: the contempt, the “You fool!”, the cold grudge you have justified for years — He calls it the seed of murder, and He says it puts you in danger of Gehenna. The Spirit is naming a specific person right now, someone you have written off, someone whose name tightens your chest. Will you keep calling your bitterness “being reasonable,” or will you finally bring that anger to the cross before it calcifies your soul?"
+      },
+      {
+        "title": "The Enemy You Are Called to Love",
+        "body": "Here is the summit, and it is the hardest ground in Scripture: love your enemies, bless those who curse you, pray for those who persecute you. Not tolerate. Not avoid. Love — a chosen, active, sun-and-rain kind of love. The Spirit is pressing the question you have been dodging: who is your enemy? The one who betrayed you, slandered you, cut you off? You are commanded not merely to forgive them but to seek their good and pray blessing over them — because that, and only that, proves whose child you are. Can you do it? No. Not on your own. That is exactly why you need the King who did it from the cross."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Poverty Check",
+        "body": "Be honest: do you come to God as “poor in spirit,” empty-handed and dependent — or do you come with a résumé, quietly proud of your discipline, your knowledge, your track record? Where has your spiritual life become a performance you manage rather than a mercy you receive?"
+      },
+      {
+        "title": "The Heart-Murder Audit",
+        "body": "Name the person you are angry with right now — the one you secretly call a fool, the one whose success irritates you, the one you have coldly cut off. Jesus says that contempt is murder in seed form. Are you nursing an anger you have dressed up as “just being honest”?"
+      },
+      {
+        "title": "The Enemy List",
+        "body": "If you wrote down the names of the people you would find it hardest to pray a genuine blessing over, whose names would appear? Those names are your assignment. Are you loving only those who love you back — the very thing Jesus says even tax collectors do?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Leaving Your Gift at the Altar",
+        "body": "This week, obey verses 23-24 literally. Identify one relationship where you know someone has something against you — a fractured friendship, an unresolved offense, a family rift you have avoided. Before your next act of worship, go first: make the call, send the message, sit down face to face, and be reconciled as far as it depends on you. Do not offer God worship over a wound you are refusing to mend."
+      },
+      {
+        "title": "Praying for Your Enemy by Name",
+        "body": "Take the hardest name from your Enemy List and pray for that person out loud, by name, every day for the next seven days. Do not pray vaguely — ask God to genuinely bless them, prosper them, and draw them near. It will feel impossible and even dishonest at first; pray it anyway. This is how the Spirit dismantles hatred and grows the family likeness of the Father who sends His sun on the evil and the good."
+      }
+    ]
+  },
+  "prayerReflection": "“My King, You climbed the mountain and sat down to speak, and Your words have gone straight past my hands and into my heart. I come to You poor in spirit, empty-handed, owning nothing that could earn Your Kingdom — and I thank You that this is exactly where the blessing begins. Make me hunger and thirst for righteousness until it is the deepest appetite of my life. Lord, You have exposed me: I have kept clean hands while nursing anger, and I have looked with eyes that were not pure. Forgive me. Break the horse of my strength until I am truly gentle in Your hand. Where I have left a brother wounded, give me the courage to leave my gift at the altar and go make it right. And at the summit, where I am weakest of all — teach me to love my enemies, to bless those who curse me, to pray for those who have hurt me — so that I may be a true child of my Father, who sends His sun on the evil and the good. Let my life be salt that has not lost its savor and light that is not hidden, so that men would see and glorify You. Make me whole. Make me complete. Make me perfect, as You are perfect. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Moses on Sinai",
+      "ref": "Exodus 19-20",
+      "relatedVerses": "v. 1-2, 17",
+      "summary": "When God brought Israel out of Egypt, He gathered them at the foot of Sinai, and Moses went up the mountain into fire, cloud, and thunder to receive the Law on tablets of stone. The people trembled and begged that God would not speak to them directly. Centuries later, a greater Prophet climbs another mountain — but He does not go up to receive the Law from God; He sits as the Lawgiver and speaks it in His own authority. Where Moses relayed, “Thus says the LORD,” Jesus declares, “But I tell you.” Matthew wants you to see it unmistakably: the One who gave the Law at Sinai has come in the flesh to fulfill it on this mountain."
+    },
+    {
+      "title": "David Spares Saul in the Cave",
+      "ref": "1 Samuel 24",
+      "relatedVerses": "v. 38-44",
+      "summary": "King Saul, mad with jealousy, hunted David through the wilderness to kill him. Then Saul walked alone into the very cave where David and his men were hiding — utterly at David's mercy. His men whispered that God had handed the enemy over; one thrust would end the nightmare. But David refused to lift his hand, secretly cutting only a corner of Saul's robe, and even that pricked his conscience. He chose not to retaliate against the man who wanted him dead. Long before the Sermon on the Mount, David lived out “do not resist him who is evil” and “love your enemies,” refusing personal revenge and leaving justice to God."
+    },
+    {
+      "title": "Stephen Prays for His Killers",
+      "ref": "Acts 7:54-60",
+      "relatedVerses": "v. 10-12, 44",
+      "summary": "Stephen, the first Christian martyr, stood before a furious council and was dragged out to be stoned for his witness to Jesus. As the rocks crushed him, he did not curse his murderers — he knelt and cried out, “Lord, don’t hold this sin against them.” In his dying breath he perfectly embodied Matthew 5: blessed and rejoicing though persecuted for righteousness' sake, and loving his enemies enough to pray blessing over the very men killing him. Watching over the coats was a young Pharisee named Saul — who would himself be conquered by that enemy-love and become Paul, the apostle who wrote, “Bless those who persecute you.”"
+    }
+  ]
+}
