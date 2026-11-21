@@ -55,6 +55,7 @@ only marked ✅ when its checks actually ran and passed.
 | Master Introduction | 18KB | — | ✅ | ✅ (0 issues) | Bridge from Romans; core theme 1:23–24 |
 | Chapter 1 | 53KB | 31/31 | ✅ | ✅ (38) | Caught & fixed: “mending their nets” is Matthew 4:21, not Mark 1:19 |
 | Chapter 2 | 41KB | 16/16 | ✅ | ✅ (48 total) | Caught & fixed: Colossians 2:15 wording (“stripped”, not “disarmed”); 1 Peter 1:10 ref
+| Chapter 3 | 46KB | 23/23 | ✅ | ✅ (59 total) | Purgatory reading of 3:15 addressed honestly |
 
 ### CP-05 ⚠️ Data bug found: single-chapter books fetched as one verse
 - `sources/bible/{philemon,2john,3john,jude}-1.json` each hold only verse 1 (bible-api read
