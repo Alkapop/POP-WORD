@@ -101,3 +101,31 @@ only marked ✅ when its checks actually ran and passed.
 2. Re-fetch single-chapter books (CP-05) before Philemon / 2–3 John / Jude.
 3. Backlog: correct the ~25 NOT-IN-WEB quotations and 32 inflected-lemma tags in older books
    (`node build/verify-content.mjs` lists every one).
+
+---
+
+## 2026-11-21 — Philippians
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 18KB | — | ✅ | ✅ | Bridge from Ephesians (matches its Road Ahead) |
+| Chapter 1 | 50KB | 30/30 | ✅ | ✅ | |
+| Chapter 2 | 52KB | 30/30 | ✅ | ✅ | John 1:1 and 1:14 split into separate references |
+| Chapter 3 | 47KB | 21/21 | ✅ | ✅ | Four reference placements corrected |
+| Chapter 4 | 49KB | 23/23 | ✅ | ✅ | Caught & fixed: 1 Timothy 1:12 word order; 1 Peter 1:5 misquote |
+| Final Masterclass Review | 21KB | — | ✅ | ✅ (119 quotes) | Road Ahead → Colossians, 1 Thessalonians |
+
+- **G3** ✅ all 6 documents render; verse tap + lexicon panel work; no errors.
+  Whole site: 246 pages, 15 books, no errors, no doubled quotes.
+- **Verifier improved:** a quotation whose reference is written *before* it is now checked too
+  (the 1 Peter 1:5 slip had passed the old check). It also found two non-Scripture phrases in
+  quotation marks in 1 Corinthians (9:20 note, ch. 14 meditation), now in single quotes.
+- `build/render-check.cjs` now works for any book (the interaction step was tied to 1 Cor 13).
+- `FIXES-TODO.md` regenerated: 33 / 32 / 29 open items, all in older books.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 46 | 1 Corinthians | ✅ live |
+| 50 | Philippians | ✅ built & verified |
+| 51 | Colossians (4 ch.) | next — bridge from Philippians; Road Ahead → 1 & 2 Thessalonians |

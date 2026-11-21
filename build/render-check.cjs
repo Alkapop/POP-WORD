@@ -37,14 +37,17 @@ const [appDir, bookId, shotDir] = process.argv.slice(2);
     if (!ok) fails++;
     console.log(`${ok ? 'PASS' : 'FAIL'} ${k.padEnd(6)} secs=${r.secs}/${expectSecs(k)} verses=${r.verses} chips=${r.chips} chars=${r.textLen}  ${r.title.slice(0, 70)}`);
   }
-  // Interaction: open a verse, then a Greek word chip -> lexicon panel must show the Strong's entry
-  await page.goto(url + '#/read/' + bookId + '/13'); await page.waitForTimeout(500);
-  await page.click('button.verse[data-verse="4"]'); await page.waitForTimeout(300);
-  await page.click('[data-verse-x="4"] button.chip'); await page.waitForTimeout(500);
-  const panel = await page.evaluate(() => document.body.innerText.includes('G26') || document.body.innerText.includes('ἀγάπη'));
-  console.log(`${panel ? 'PASS' : 'FAIL'} interaction: verse tap + Greek lexicon chip`); if (!panel) fails++;
+  // Interaction: open the first tagged verse of chapter 1, then its first word chip ->
+  // the lexicon panel must show that word's Strong's entry.
+  await page.goto(url + '#/read/' + bookId + '/1'); await page.waitForTimeout(500);
+  const vnum = await page.evaluate(() => { const c = document.querySelector('.verse-x button.chip'); return c && c.closest('.verse-x').dataset.verseX; });
+  await page.click(`button.verse[data-verse="${vnum}"]`); await page.waitForTimeout(300);
+  const sid = await page.getAttribute(`[data-verse-x="${vnum}"] button.chip`, 'data-strongs');
+  await page.click(`[data-verse-x="${vnum}"] button.chip`); await page.waitForTimeout(500);
+  const panel = await page.evaluate(id => document.body.innerText.includes(id), sid);
+  console.log(`${panel ? 'PASS' : 'FAIL'} interaction: verse ${vnum} tap + lexicon chip ${sid}`); if (!panel) fails++;
   if (shotDir) {
-    await page.screenshot({ path: path.join(shotDir, `${bookId}-ch13.png`) });
+    await page.screenshot({ path: path.join(shotDir, `${bookId}-ch1.png`) });
     await page.goto(url + '#/book/' + bookId); await page.waitForTimeout(500);
     await page.screenshot({ path: path.join(shotDir, `${bookId}-journey.png`) });
   }
