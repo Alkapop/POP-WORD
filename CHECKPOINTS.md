@@ -54,3 +54,13 @@ only marked ✅ when its checks actually ran and passed.
 |-----|------|--------|----------|--------------------------|-------|
 | Master Introduction | 18KB | — | ✅ | ✅ (0 issues) | Bridge from Romans; core theme 1:23–24 |
 | Chapter 1 | 53KB | 31/31 | ✅ | ✅ (38) | Caught & fixed: “mending their nets” is Matthew 4:21, not Mark 1:19 |
+| Chapter 2 | 41KB | 16/16 | ✅ | ✅ (48 total) | Caught & fixed: Colossians 2:15 wording (“stripped”, not “disarmed”); 1 Peter 1:10 ref
+
+### CP-05 ⚠️ Data bug found: single-chapter books fetched as one verse
+- `sources/bible/{philemon,2john,3john,jude}-1.json` each hold only verse 1 (bible-api read
+  “jude 1” as Jude 1:1). Not yet affecting the site (none of these books is written), but the
+  build would have accepted a one-verse chapter.
+- Fixed `build/fetch-nt.mjs` to request the full verse range and to re-fetch these four files.
+- **Blocked here:** bible-api.com is not allowed by this cloud environment's network policy.
+  Run `node build/fetch-nt.mjs` on a machine with internet (or allow bible-api.com) before
+  writing Philemon, 2 John, 3 John or Jude.
