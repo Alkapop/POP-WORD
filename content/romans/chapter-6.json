@@ -1,0 +1,618 @@
+{
+  "type": "chapterStudy",
+  "book": "Romans",
+  "chapter": 6,
+  "chapterTitle": "Dead to Sin, Alive to God — Buried with Him, Raised to Walk New",
+  "themeTitle": "“Dead Men Take No Orders: Shall We Continue in Sin? May It Never Be!”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "What shall we say then? Shall we continue in sin, that grace may abound?",
+      "understanding": "Paul voices out loud the objection his own gospel invites. He has just declared that “where sin abounded, grace abounded more exceedingly” (5:20), so the twisted logic follows: more sin means more grace, so why stop? The verb behind “continue” (epimenō) means to stay on, to take up residence — this is not about stumbling, it is about making sin your permanent address. And notice this: if no one has ever accused your gospel of being too free, you may not yet be preaching Paul’s gospel.",
+      "words": [
+        {
+          "strongs": "G1961",
+          "hebrew": "ἐπιμένω",
+          "translit": "epimenō",
+          "english": "continue"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "charis",
+          "english": "grace"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "May it never be! We who died to sin, how could we live in it any longer?",
+      "understanding": "“May it never be!” — mē genoito, the most violent negation in Paul’s vocabulary, used ten times in Romans. But watch how he answers: not with a rule, with a fact. “We DIED to sin” is past tense, a finished event, not a target you are still shooting at. Paul does not argue that you shouldn’t sin — he argues that you cannot live there any longer without contradicting the very person you now are.",
+      "words": [
+        {
+          "strongs": "G1096",
+          "hebrew": "γίνομαι",
+          "translit": "ginomai",
+          "english": "may it be (mē genoito)"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartia",
+          "english": "sin"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Or don’t you know that all we who were baptized into Christ Jesus were baptized into his death?",
+      "understanding": "“Don’t you know” — Paul assumes this is beginner’s catechism, taught at the water’s edge to every convert in Rome. Baptism is not a membership ritual; it is a funeral. To be baptized into Christ Jesus is to be baptized into His death, so that His dying legally and really becomes your dying.",
+      "words": [
+        {
+          "strongs": "G907",
+          "hebrew": "βαπτίζω",
+          "translit": "baptizō",
+          "english": "baptized"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "We were buried therefore with him through baptism into death, that just as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life.",
+      "understanding": "Synthaptō — buried together with Him. Burial is the public proof of death; nobody buries a man they expect back for supper. And notice the destination: the same glory of the Father that ripped Christ out of the tomb is aimed at your daily walking. Kainotēs is not a repaired old life but a brand-new kind of life — God did not renovate the old man, He buried him.",
+      "words": [
+        {
+          "strongs": "G4916",
+          "hebrew": "συνθάπτω",
+          "translit": "synthaptō",
+          "english": "buried with"
+        },
+        {
+          "strongs": "G2538",
+          "hebrew": "καινότης",
+          "translit": "kainotēs",
+          "english": "newness"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For if we have become united with him in the likeness of his death, we will also be part of his resurrection;",
+      "understanding": "Symphytos means grown together — the word used of a graft that has fused into the trunk until both share one sap, or of the lips of a wound that have healed into a single piece of flesh. Your union with Christ is not a legal fiction filed away in heaven; it is organic. And the fusion runs both directions: joined to His death guarantees you are joined to His resurrection.",
+      "words": [
+        {
+          "strongs": "G4854",
+          "hebrew": "σύμφυτος",
+          "translit": "symphytos",
+          "english": "united with"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "knowing this, that our old man was crucified with him, that the body of sin might be done away with, so that we would no longer be in bondage to sin.",
+      "understanding": "“Knowing this” — the first of the chapter’s three verbs. Your “old man” (palaios anthrōpos: the entire person you were in Adam, not a part of you) was crucified with Him — past tense, already executed, not something you must arrange by effort. Katargeō does not mean the body is destroyed but rendered idle, unemployed, put out of commission: sin’s chain of command has been cut, so that you are no longer required to report for duty.",
+      "words": [
+        {
+          "strongs": "G3820",
+          "hebrew": "παλαιός",
+          "translit": "palaios",
+          "english": "old"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "anthrōpos",
+          "english": "man"
+        },
+        {
+          "strongs": "G4957",
+          "hebrew": "συσταυρόω",
+          "translit": "systauroō",
+          "english": "crucified with"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargeō",
+          "english": "done away with"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For he who has died has been freed from sin.",
+      "understanding": "The word behind “freed” is dedikaiōtai — the perfect passive of dikaioō, the courtroom verb for “justified” that has driven chapters 3 through 5. Death closes the case: a corpse cannot be sued, prosecuted, conscripted, or blackmailed. Sin’s claim on you was not negotiated down to a smaller payment — it was terminated at a funeral.",
+      "words": [
+        {
+          "strongs": "G1344",
+          "hebrew": "δικαιόω",
+          "translit": "dikaioō",
+          "english": "freed / justified"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But if we died with Christ, we believe that we will also live with him;",
+      "understanding": "In Paul, dying with Christ is never the end of a sentence — it is always the first half. The grave is a doorway, not a destination. And note the verb: “we BELIEVE that we will also live with him.” The new life is received the same way the righteousness of chapter 4 was received: by faith, not by feeling."
+    },
+    {
+      "v": 9,
+      "text": "knowing that Christ, being raised from the dead, dies no more. Death no more has dominion over him!",
+      "understanding": "The second “knowing.” Christ’s resurrection was not a resuscitation like Lazarus’s — Lazarus walked out of that tomb and later died again. Jesus made an irreversible exit from death’s jurisdiction. Kyrieuō is throne language: “to lord it over,” and death has been permanently removed from the throne over Him. Since you are fused to Him (v. 5), that authority no longer has an address for you either.",
+      "words": [
+        {
+          "strongs": "G2961",
+          "hebrew": "κυριεύω",
+          "translit": "kyrieuō",
+          "english": "has dominion"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For the death that he died, he died to sin one time; but the life that he lives, he lives to God.",
+      "understanding": "“One time” is ephapax — once for all, never to be repeated, no supplementary sacrifice ever required. Christ had no sin of His own to die to; He died to sin’s entire claim — ours — and settled it in a single transaction. Now every moment of His endless life is lived “to God,” and that is precisely the pattern being reproduced in you.",
+      "words": [
+        {
+          "strongs": "G2178",
+          "hebrew": "ἐφάπαξ",
+          "translit": "ephapax",
+          "english": "one time / once for all"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Thus consider yourselves also to be dead to sin, but alive to God in Christ Jesus our Lord.",
+      "understanding": "Logizomai is the accountant’s word: to enter into the ledger what is actually the case. This is verb number two — know, then RECKON. Paul is not telling you to pretend, to visualize, or to feel dead to sin; he is telling you to do the arithmetic on a fact God has already established and post it in your books. And mark the address on the whole transaction: “in Christ Jesus our Lord.” It is true nowhere else, and it is true there absolutely.",
+      "words": [
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logizomai",
+          "english": "consider / reckon"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekros",
+          "english": "dead"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Therefore don’t let sin reign in your mortal body, that you should obey it in its lusts.",
+      "understanding": "The chapter’s first command — and it arrives only after ten verses of fact. Basileuō is throne language again: sin’s kingship has been overthrown, but it still campaigns hard for reinstatement in your mortal body. Read Paul precisely: he does not say sin is dead in you; he says sin must not REIGN in you. A dethroned king can still shout orders through the palace window — your job is to stop obeying them.",
+      "words": [
+        {
+          "strongs": "G936",
+          "hebrew": "βασιλεύω",
+          "translit": "basileuō",
+          "english": "reign"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymia",
+          "english": "lusts"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Also, do not present your members to sin as instruments of unrighteousness, but present yourselves to God, as alive from the dead, and your members as instruments of righteousness to God.",
+      "understanding": "Verb number three: PRESENT (paristēmi) — to place at someone’s disposal, to hand over for use. And hopla are weapons: your eyes, hands, tongue, phone, appetite, and body are armaments, and every single day they are issued to one side of a war. The Greek tenses are surgical: stop the ongoing, habitual handing-over to sin, and make one decisive presentation of yourself to God — “as alive from the dead,” which is exactly what you are.",
+      "words": [
+        {
+          "strongs": "G3936",
+          "hebrew": "παρίστημι",
+          "translit": "paristēmi",
+          "english": "present"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "melos",
+          "english": "members"
+        },
+        {
+          "strongs": "G3696",
+          "hebrew": "ὅπλον",
+          "translit": "hoplon",
+          "english": "instruments / weapons"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For sin will not have dominion over you. For you are not under law, but under grace.",
+      "understanding": "This is a promise, not a pep talk: sin WILL not have dominion — the same verb (kyrieuō) used of death’s failed lordship over Christ in verse 9. And the stated reason is staggering: not because you are under stricter supervision, but because you are under grace. The law could define sin and condemn it with perfect accuracy, but it never had the power to dethrone it. Grace does what law never could.",
+      "words": [
+        {
+          "strongs": "G2961",
+          "hebrew": "κυριεύω",
+          "translit": "kyrieuō",
+          "english": "have dominion"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "charis",
+          "english": "grace"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "What then? Shall we sin, because we are not under law, but under grace? May it never be!",
+      "understanding": "The objection returns wearing a subtler suit. Verse 1 asked about continuing in sin as a settled way of life; verse 15 asks about the single act — “just this once; grace will cover it.” Paul answers with the identical thunderclap: may it never be. Then he changes the picture entirely: from the grave to the slave market, because a man who thinks one sin is free has not understood who he is handing the keys to."
+    },
+    {
+      "v": 16,
+      "text": "Don’t you know that when you present yourselves as servants and obey someone, you are the servants of whomever you obey; whether of sin to death, or of obedience to righteousness?",
+      "understanding": "Here is a law of the universe stated flatly: you become the slave of whatever you obey. There is no neutral, unowned human being anywhere — the only question is whose brand is burned into you. And obedience is the receipt: whatever you actually obey is your master, no matter what you say you believe or how loudly you sang on Sunday.",
+      "words": [
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doulos",
+          "english": "servants / slaves"
+        },
+        {
+          "strongs": "G5219",
+          "hebrew": "ὑπακούω",
+          "translit": "hypakouō",
+          "english": "obey"
+        },
+        {
+          "strongs": "G5218",
+          "hebrew": "ὑπακοή",
+          "translit": "hypakoē",
+          "english": "obedience"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "But thanks be to God, that, whereas you were bondservants of sin, you became obedient from the heart to that form of teaching to which you were delivered.",
+      "understanding": "Paul stops mid-argument to thank God for what these believers already ARE, not for what they should become. Two phrases carry the weight: “from the heart” — not squeezed-out compliance but the will’s real consent — and typos, a mould or a die that stamps its own shape into whatever is pressed into it. Read the picture exactly as Paul draws it: you were not merely handed a doctrine; you were handed OVER (paradidōmi) into a mould, and the truth is now reshaping you into its own image.",
+      "words": [
+        {
+          "strongs": "G5179",
+          "hebrew": "τύπος",
+          "translit": "typos",
+          "english": "form / pattern"
+        },
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradidōmi",
+          "english": "delivered"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Being made free from sin, you became bondservants of righteousness.",
+      "understanding": "Freedom in the Bible is never a vacuum; it is a transfer of ownership. You were not emancipated into autonomy — you were bought and re-enlisted. Anyone who claims they walked out on sin to belong to nobody has simply not looked down to see who is holding the other end of the chain.",
+      "words": [
+        {
+          "strongs": "G1659",
+          "hebrew": "ἐλευθερόω",
+          "translit": "eleutheroō",
+          "english": "made free"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "I speak in human terms because of the weakness of your flesh, for as you presented your members as servants to uncleanness and to wickedness upon wickedness, even so now present your members as servants to righteousness for sanctification.",
+      "understanding": "Paul half-apologizes for the slavery picture — it is a concession to human weakness, since sonship, not slavery, is the deeper truth he will reach in 8:15. Then he presses the parallel with brutal symmetry: you once presented these very same members to “wickedness upon wickedness” — sin escalates, it never holds still. So present the same members with the same energy to righteousness, and the escalation simply reverses direction: it runs toward hagiasmos, sanctification.",
+      "words": [
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmos",
+          "english": "sanctification"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "melos",
+          "english": "members"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "For when you were servants of sin, you were free in regard to righteousness.",
+      "understanding": "A devastating piece of irony. Yes, you did have a kind of freedom back then — the freedom of a man who owes righteousness nothing, answers to no holiness, and is entirely at liberty to rot. That is the only liberty sin has ever put on the table."
+    },
+    {
+      "v": 21,
+      "text": "What fruit then did you have at that time in the things of which you are now ashamed? For the end of those things is death.",
+      "understanding": "Paul asks the old life for its harvest report, and the answer is silence — no fruit, only shame. The verb “ashamed” (epaischynomai) is the very word Paul used in 1:16: “I am not ashamed of the Good News.” Every human being is ashamed of something; the gospel simply moves the shame off Christ and back onto the sin that earned it. And telos means destination, not merely stopping point: that road always arrives at death.",
+      "words": [
+        {
+          "strongs": "G1870",
+          "hebrew": "ἐπαισχύνομαι",
+          "translit": "epaischynomai",
+          "english": "ashamed"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "telos",
+          "english": "end"
+        },
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpos",
+          "english": "fruit"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "But now, being made free from sin, and having become servants of God, you have your fruit of sanctification, and the result of eternal life.",
+      "understanding": "“But now” — the two most beautiful words available to a rescued man. Same sentence structure as verse 21, opposite harvest: the old road produced nothing and ended in death; this road produces real fruit — holiness you can actually watch forming in you — and its telos, its destination, is eternal life. Sanctification is not the price of eternal life; it is the road that arrives there.",
+      "words": [
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpos",
+          "english": "fruit"
+        },
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmos",
+          "english": "sanctification"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "telos",
+          "english": "result"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+      "understanding": "Opsōnion is a soldier’s ration money, paid out at regular intervals — sin pays, and it pays on time, in instalments you can feel: numbness, shame, distance, ruin, and finally death. But eternal life is never once called wages; it is charisma, a gift out of sheer grace, because nobody in history has ever earned a payday from God. Two masters, two payroll systems — and the chapter ends exactly where every Christian’s confidence must end: “in Christ Jesus our Lord.”",
+      "words": [
+        {
+          "strongs": "G3800",
+          "hebrew": "ὀψώνιον",
+          "translit": "opsōnion",
+          "english": "wages"
+        },
+        {
+          "strongs": "G5486",
+          "hebrew": "χάρισμα",
+          "translit": "charisma",
+          "english": "free gift"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiōnios",
+          "english": "eternal"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōē",
+          "english": "life"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Funeral You Already Attended",
+      "verseRef": "v. 3-4",
+      "image": "Picture the water closing over your head. Not a sprinkle, not a symbol politely observed — a burial. Hands lower you backwards until the surface seals above your face and, for one held breath, the world goes silent and dark. That is a grave. And the man they laid down in it is the man you used to be: the one with your appetites, your reflexes, your record, your reputation. Then the hands lift, the water breaks, and the air hits your lungs like the first morning of creation — not the old man revived, but a man raised, dripping, alive, with the same glory that emptied Christ’s tomb standing behind him.",
+      "meaning": "Paul does not argue the point; he buries it. Burial is the public certificate that death actually happened, and the certificate has your name on it. Your baptism was not a church membership card — it was a funeral service for the old man and a resurrection service for the new. Which is why sin’s claim on you is not merely reduced; it is legally void. And the purpose is stated plainly: “that we also might walk in newness of life.” The point of the grave was never the grave. It was the walking."
+    },
+    {
+      "title": "The Foreman Who Was Fired but Still Shouts Orders",
+      "verseRef": "v. 6, 12, 14",
+      "image": "Imagine a brutal factory foreman who ran your life for years — who knew exactly which whistle made you jump. Then the owner changed. The foreman was dismissed, his authority revoked, his name struck from the payroll. But he did not move away. He still stands at the fence line every morning, and when you walk past he shouts your name and barks the old command in the old voice. He has no power to enforce a single word of it. He is counting on one thing only: that you will hear the old voice and, out of pure habit, do what you have always done.",
+      "meaning": "This is katargeō — not annihilated, but rendered idle, put out of work, stripped of authority. Paul never once promises that the shouting stops; what he forbids is the obeying (v. 12). The old man was crucified, the body of sin was unemployed, and dominion was broken — but the voice at the fence is still loud. Every temptation is a fired foreman bluffing about an authority he no longer holds. Do not argue with him. Check who signs your cheques."
+    },
+    {
+      "title": "The Armory at the Door",
+      "verseRef": "v. 13, 19",
+      "image": "See your body as a weapons rack standing in a hallway: eyes, hands, tongue, mind, feet, appetite, phone. Two officers come to that rack every single morning to draw arms. One wears the uniform of sin and asks for the tongue for an hour, the eyes for ten minutes, the imagination for a night. The other is God, and He asks for the same rack. The weapons themselves are neutral steel. The war is decided by one small, silent act repeated all day: whose hand you place them into.",
+      "meaning": "Hopla means weapons, not ornaments — Paul is describing a military supply line, not a hobby. This is the third verb of the chapter and the only one that touches your calendar: know, reckon, PRESENT. Verse 13 makes it two motions, not one — stop the drip of daily surrender to sin, and make one decisive handover of yourself to God “as alive from the dead.” You will present those members to somebody today. That is not in question. The only question is to whom."
+    },
+    {
+      "title": "Two Paymasters at the End of the Line",
+      "verseRef": "v. 21-23",
+      "image": "Two lines of men wait at the end of a long day. In the first line the paymaster is meticulous — sin never shortchanges anyone, never forgets, never runs late. He counts out the ration money into each open hand: a little numbness here, a portion of shame there, some distance from God, a ruined relationship, an instalment of death. Every man in that line earned every coin. In the second line there is no ledger at all. The Man at the table has scars in His hands and He is not paying anyone — He is giving. And the thing He puts in your hand is worth more than every wage ever earned in human history: eternal life.",
+      "meaning": "Opsōnion is a soldier’s pay, and the horror of it is its fairness — death is not sin’s accident, it is sin’s honest wage, and the sinner has earned every cent. But Paul refuses to let the sentence stay parallel. He does not say “the wages of righteousness is eternal life,” because nobody has ever earned a payday from God. He says charisma — free gift. One line is paid what it deserves. The other is given what it never could deserve. And you get to choose which line you are standing in today, by choosing whom you obey."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The First Objection: Shall We Continue in Sin? (v. 1-2)",
+        "body": "Paul states the abuse his gospel invites and demolishes it in one line — not with a rule, but with a fact: we died to sin."
+      },
+      {
+        "label": "Baptized into His Death, Raised into Newness (v. 3-5)",
+        "body": "Baptism is a funeral: buried with Him, fused to Him like a graft to a trunk, and therefore guaranteed a share in His resurrection life now."
+      },
+      {
+        "label": "KNOW: The Old Man Crucified, the Body of Sin Unemployed (v. 6-10)",
+        "body": "The person you were in Adam was executed with Christ; sin’s body was rendered powerless; the dead are legally discharged; and the risen Christ is permanently outside death’s jurisdiction."
+      },
+      {
+        "label": "RECKON: Post the Fact in Your Ledger (v. 11)",
+        "body": "The pivot of the chapter — logizomai. Not pretend, not feel: count as true what God has already made true, dead to sin and alive to God in Christ Jesus."
+      },
+      {
+        "label": "PRESENT: Do Not Let Sin Reign — Hand Over Your Weapons (v. 12-14)",
+        "body": "The first commands of the chapter: refuse sin the throne, stop issuing your members to it, present yourself to God, on the promise that grace, not law, breaks dominion."
+      },
+      {
+        "label": "The Second Objection: Shall We Sin Just Once? (v. 15-20)",
+        "body": "The slavery argument — you belong to whoever you obey; you were handed over into the mould of the teaching; freed from sin, you are now enslaved to righteousness."
+      },
+      {
+        "label": "Two Harvests, Two Paydays (v. 21-23)",
+        "body": "The old life’s fruit was shame and its destination was death; the new life’s fruit is sanctification and its destination is eternal life — wages earned versus gift given."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Cheap Grace Is Not a Misuse of the Gospel — It Is a Misunderstanding of Your Own Death",
+        "paragraphs": [
+          "Chapter 5 ended with a sentence so extravagant it practically dares to be abused: “where sin abounded, grace abounded more exceedingly.” Paul knows exactly what a certain kind of hearer will do with that, so he says it out loud before anyone else can: shall we continue in sin, that grace may abound? Then he answers with mē genoito — the strongest revulsion the Greek language has, closer to “God forbid, may such a thing never come into existence” than to a polite “no.” But here is what must be seen, because almost every sermon on this chapter gets it wrong. Paul does not answer the antinomian by adding rules. He does not say “yes, grace is free, but be careful.” He does not appeal to gratitude, or to consequences, or to the fear of losing your salvation. He asks an anatomical question: “We who died to sin, how could we live in it any longer?” The objection is not immoral first; it is absurd first. It is a corpse arguing about its dinner plans.",
+          "That means the honest question for this chapter is not “how do I try harder?” but “what exactly happened to me?” And Paul’s answer is union. Symphytos in verse 5 — grown together, fused, like a graft that has knit into the trunk until one sap runs through both. Because you are fused to Christ, what happened to Him is what happened to you: His cross was your execution, His tomb was your burial, His resurrection is your new life. This is why verse 7 uses a justification verb for freedom — dedikaiōtai, “has been justified from sin.” Death dissolves obligation. A dead slave has no master; a dead debtor has no creditor; a dead conscript receives no orders. Grace does not give you permission to sin. Grace kills the man who wanted to."
+        ]
+      },
+      {
+        "heading": "“You Died to Sin” and “Do Not Let Sin Reign” — Holding Both Without Cheating",
+        "paragraphs": [
+          "Read verse 2 and verse 12 side by side and you feel the strain: you DIED to sin — so why command a dead man not to let sin reign? Two dishonest escapes are on offer. The first is perfectionism: claim the sinful nature is now literally extinct, which every believer’s Tuesday afternoon disproves and which Paul himself refutes by bothering to issue commands at all. The second is defeatism: quietly treat verses 1-11 as poetry and go on living exactly as before. The strongest reading of the text refuses both. “Died to sin” describes a severed relationship of authority and legal claim, not the eradication of desire. Katargeō in verse 6 is precise — it does not mean destroyed, it means put out of operation, rendered idle, stripped of employment. Sin was not annihilated in you; sin was dethroned over you. It can still tempt. It cannot still command.",
+          "That is why Paul’s order of verbs is the practical genius of the chapter, and why it must never be rearranged. KNOW (v. 3, 6, 9) — information about a finished fact. RECKON (v. 11) — logizomai, the bookkeeper’s verb, entering into your own ledger what God has already entered into His. PRESENT (v. 13) — paristēmi, the physical handover of eyes, hands, and tongue. Notice that obedience comes third, and that it is grounded on the first two rather than substituting for them. Christianity does not say “behave until you feel dead to sin.” It says “you are dead to sin — now count it, and act like it.” And verse 14 gives the guarantee that makes the whole thing more than positive thinking: “sin will not have dominion over you” — not because you will be watched more strictly, but “because you are not under law, but under grace.” The law could describe your chains in perfect detail and never once unlock them. Only grace has keys."
+        ]
+      },
+      {
+        "heading": "Written to a Bruised Congregation, Not to a Seminar",
+        "paragraphs": [
+          "Do not read this chapter as abstract theology floating in the air. Paul is dictating to Tertius in Corinth around AD 57, writing to a mixed Jewish and Gentile church in Rome that had been torn in half — Claudius expelled the Jews around AD 49 (Acts 18:2), and when the edict lapsed, Jewish believers came home to congregations that had gone largely Gentile. “You are not under law, but under grace” (v. 14) landed in a room where that sentence had a temperature. To Jewish believers it sounded like the abandonment of Moses; to Gentile believers it could sound like a licence they were already quietly using. Paul writes verses 15 through 23 to shut down the second group without conceding anything to the first: no, being under grace is not a permit to sin, because grace does not leave you masterless — it changes your Master.",
+          "And the slave imagery would have hit that city like a slap. Rome ran on slaves; a Roman reader knew exactly what it meant that a slave has no fragment of life that is his own, that he obeys whoever holds the papers, that emancipation was not something a slave achieved but something done to him. Paul even pauses to say he is speaking “in human terms because of the weakness of your flesh” — he knows slavery is too small a word for sonship (8:15), but he uses it anyway because the human heart keeps believing the lie that there is a third option: belonging to nobody. There is not. Verse 16 closes that door forever: you are the servant of whomever you obey."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Track verse 6 through Paul’s own life and letters. The verb “crucified with him” is systauroō, and Paul had already turned it into personal testimony in Galatians 2:20: “I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself up for me.” Romans 6 is that sentence expanded into an argument for a whole congregation. Later, from prison, Paul writes the same doctrine to Colossae almost word for word: “having been buried with him in baptism, in which you were also raised with him through faith in the working of God, who raised him from the dead” (Colossians 2:12) — and then he draws out the exact know-reckon-present sequence: “For you died, and your life is hidden with Christ in God” (3:3), therefore “put to death your members which are on the earth” (3:5). Identical logic, identical order: a completed death, a reckoned reality, a commanded handover.",
+        "But the sharpest New Testament answer to this chapter’s objection is Titus 2:11-12, where Paul states the thing Romans 6:14 assumes: “For the grace of God has appeared, bringing salvation to all men, instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age.” That is the death blow to cheap grace. Grace is not merely the pardon that lets sin go unpunished; grace is a teacher that trains you to renounce it. Anyone whose “grace” has never taught them to say no to a single thing has not met the grace of the New Testament — they have met an excuse wearing its name. And Peter says it from the other side: Jesus “his own self bore our sins in his body on the tree, that we, having died to sins, might live to righteousness” (1 Peter 2:24). Two apostles, one verdict: the cross was never designed only to change your record. It was designed to change your master."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Baptized",
+      "hebrew": "βαπτίζω",
+      "translit": "baptizō",
+      "strongs": "G907",
+      "verses": "v. 3, 4",
+      "insight": "To immerse, to submerge, to plunge under until the thing is completely overwhelmed — classical writers use it of a ship going under and sinking, and it is formed from baptō (G911), the dyer’s word for plunging cloth into dye until the cloth takes the colour through and through. Paul is not describing a damp forehead; he is describing total submersion, which is why he can call it a burial in the very next verse. And notice what you were plunged into: not a denomination, not a doctrine — “into Christ Jesus,” “into his death.” That is why the chapter never has to plead with you. It only has to remind you. The cloth does not decide to be blue; it was left in the dye long enough to belong to the colour. One honest note: some read “baptized” here as the Spirit’s baptism that places a believer into Christ (1 Corinthians 12:13) rather than the water rite, and Paul does not draw the line we moderns draw. The argument is unharmed either way — in the New Testament the water enacts publicly what the Spirit did really, and both mean the same thing: you were put INTO Him."
+    },
+    {
+      "english": "Done away with / Rendered powerless",
+      "hebrew": "καταργέω",
+      "translit": "katargeō",
+      "strongs": "G2673",
+      "verses": "v. 6",
+      "insight": "Strong defines it exactly: “to be (render) entirely idle (useless), literally or figuratively.” It is built from kata (down) and argeō (to be idle, from argos, unemployed) — to put something out of work. This one word saves you from two errors. It does not say the body of sin was annihilated, so stop pretending you feel nothing; and it does not say sin was left in charge, so stop surrendering as though you must. Sin was made unemployed. It still has a voice and a memory and a set of habits it can appeal to — what it no longer has is a job, a wage, or the authority to require anything of you. Paul uses the same verb of death itself being brought to nothing in 2 Timothy 1:10. The tyrant is not dead; the tyrant is fired."
+    },
+    {
+      "english": "Consider / Reckon",
+      "hebrew": "λογίζομαι",
+      "translit": "logizomai",
+      "strongs": "G3049",
+      "verses": "v. 11",
+      "insight": "The bookkeeper’s verb: to take inventory, to compute, to credit an account. You have met it before — it is the word that ran through Romans 4 eleven times, where faith “was accounted to Abraham for righteousness” (4:9). That is the key to this chapter: God does not ask you to reckon yourself dead to sin in order to make it true; He asks you to reckon it because it is already true, exactly as He credited righteousness to a man who had none of his own. Reckoning is not visualization, positive confession, or self-hypnosis. It is accounting. An accountant does not create the balance by writing it down; he writes it down because it is the balance. So when your feelings insist you are still sin’s property, they are not reporting the accounts — they are disputing God’s."
+    },
+    {
+      "english": "Present / Yield",
+      "hebrew": "παρίστημι",
+      "translit": "paristēmi",
+      "strongs": "G3936",
+      "verses": "v. 13, 16, 19",
+      "insight": "Literally “to stand beside” — and from there, to place something at another’s disposal, to hand it over for use, to make it available on demand. It is the word for a servant standing ready at the master’s elbow, and for an offering placed on the altar; Paul will use it again at 12:1 for presenting your bodies as a living sacrifice. This is the only verb in the chapter that requires your hands. Verse 13 pairs it with hopla, weapons — so a Christian’s body is an armory, and presenting is the issuing of arms. Everything in Romans 6 that God alone can do is already finished; everything left for you is here, in this verb, and it is decided a hundred small times a day."
+    },
+    {
+      "english": "Wages / Soldier’s rations",
+      "hebrew": "ὀψώνιον",
+      "translit": "opsōnion",
+      "strongs": "G3800",
+      "verses": "v. 23",
+      "insight": "Strong nails it: “rations for a soldier, i.e. (by extension) his stipend or pay.” Originally it meant the food money issued to troops at intervals, not a lump sum at discharge. Feel the two edges of that. First, death is not sin’s accident or God’s overreaction — it is sin’s honest, contractual pay, and every sinner has genuinely earned it. Second, sin pays in instalments long before the final settlement: the numbness after the act, the shame that will not wash, the distance from God you can feel in prayer, the relationship that never recovered. That is not God punishing you — that is payday, arriving right on schedule. And then Paul breaks the parallel on purpose. He does not write “the wages of righteousness,” because nobody has ever earned anything from God. He writes charisma — gift. One column is earned. The other is given. That is the whole Bible in a single verse."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the sin you have already quietly pre-approved, the lie that it still owns you, and where your hands and eyes actually went today.",
+    "items": [
+      {
+        "title": "The Sin You Have Already Pre-Approved",
+        "body": "Paul asks the question twice for a reason — verse 1 for the habit and verse 15 for the single act — because both objections live in real believers. Be honest about the arrangement you have made in the back of your mind. There is probably one thing you have not decided to stop; you have only decided to feel bad about it afterwards. You have pre-authorized it. You know when it usually happens, roughly what triggers it, what you will tell yourself in the moment, and what you will pray afterwards — and somewhere underneath it all sits the sentence Paul is thundering against: it is covered anyway. Hear him: may it never be. That is not a scolding; it is horror at an absurdity. The blood that covers your sin is the blood that killed your old man. So name it out loud today — the actual thing, in plain words, no spiritual vocabulary to soften it. What sin have you stopped fighting and started managing? And if grace has never once taught you to say no, are you sure it is grace you have met?"
+      },
+      {
+        "title": "Reckon It — Because Feelings Cannot Overturn a Fact",
+        "body": "Here is the lie that keeps a free man serving: it still owns me. You have felt the pull, lost the fight before, and concluded from the evidence of your own weakness that nothing really changed at the cross for you. But verse 11 does not say feel dead to sin. It says logizomai — count it. Do the books. God has already made the entry; your job is to stop disputing it. And notice you cannot reckon what you do not know, which is why Paul spends ten verses on facts before he gives you one instruction. Your old man is not being weakened, disciplined, or rehabilitated — he was crucified (v. 6). The body of sin was not renegotiated — it was put out of work. So when the voice comes, do not argue with it about your track record; the fired foreman does not need to be argued with, he needs to be ignored. What has failure convinced you about yourself that God’s ledger flatly contradicts? Whose accounting have you been trusting — your feelings’, or His?"
+      },
+      {
+        "title": "Where Did You Send Your Members Today?",
+        "body": "Verses 12 and 13 move it out of your head and into your hands, and this is where the chapter refuses to let you stay theological. Sin does not need your consent to your whole life; it only needs your eyes for ten seconds, your tongue for one sentence, your thumb for one scroll. That is how a dethroned tyrant rebuilds an empire — not by seizing the throne back, but by borrowing the weapons. So run the ledger on today, not on your intentions: your eyes went where, your mouth said what, your money bought what, your hands did what in private. Verse 16 gives the verdict without pity — you are the servant of whomever you obey — and it does not accept your doctrine as evidence, only your obedience. Then let verse 21 finish the interrogation: what fruit did that thing actually produce? Not what it promised — what it paid. Because it always pays, and the coin is always shame first and death last. What will you present tomorrow morning, before the war even starts? And who will you hand your weapons to first — because whoever gets them first usually gets the day?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The ‘Just This Once’ Audit",
+        "body": "Name the one sin you have quietly stopped resisting and started managing — the one you plan around instead of repenting of. Write the actual word for it, not a soft substitute. Then finish this sentence honestly: “I keep doing it because I secretly believe that …” Whatever comes out is the lie Romans 6 exists to kill."
+      },
+      {
+        "title": "The Obedience Receipt",
+        "body": "Verse 16 says you are the servant of whomever you obey. So do not ask what you believe — ask what you obeyed this week. Go through the last seven days and list every place you actually did what was asked of you: by your appetite, your phone, your anger, your fear of what people think, and by God. The longest list is holding your papers."
+      },
+      {
+        "title": "The Fruit Question",
+        "body": "Verse 21 asks a merciless question: what fruit did you have in the things you are now ashamed of? Take the sin you named above and write down what it has actually paid you over the last year — not what it promised, what it delivered. Peace? Closeness to God? Strength? Or numbness, secrecy, distance, and shame. Opsōnion pays on time. Look at the coins in your hand and ask whether you still want that job."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Writing the Burial Certificate",
+        "body": "Tonight, take a sheet of paper and write across the top: ‘Certificate of Death — Romans 6:6, 11.’ Underneath, list the specific identities of the old man you have been carrying: the addict, the liar, the coward, the man who cannot be trusted alone, whatever is true. Then write beneath the list, in your own hand: ‘This man was crucified with Christ. I do not feel this; I reckon it, because God has already entered it in His books. I am dead to sin and alive to God in Christ Jesus my Lord.’ Date it and sign it. Keep it where you can find it, and the next time the accusation comes, read it out loud instead of arguing."
+      },
+      {
+        "title": "Presenting Your Members Before the War Starts",
+        "body": "Every morning this week, before you touch your phone, stand up and present your members out loud one by one — literally hold up each part as you name it: ‘Lord, these eyes are Yours today as weapons of righteousness. This tongue is Yours. These hands, this mind, this body — I present them to You as alive from the dead. I will not issue them to sin.’ Then take the sin you named in the audit and write one concrete counter-move for the first five seconds of temptation: the exact verse you will say aloud, the room you will leave, the person you will text. Sin wins in the first five seconds, so decide them now while your head is clear."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, thank You for a grace so free that it can be accused of being too free — and thank You that it never was a licence, because it killed the man who wanted the licence. Lord, I confess the question of verse one has lived in my own heart: shall I continue, since I am covered anyway? May it never be. I have pre-approved sin I never intended to give up, and today I name it before You instead of managing it. Jesus, I was buried with You through baptism into death — my old man was crucified with You, the body of sin was put out of work, and he who has died has been freed from sin. I do not feel this. I reckon it. I count it as true because You have already written it in Your books, and Your accounting outranks my feelings. Sin shall not reign in this mortal body; I refuse to obey a fired foreman shouting at me from outside the fence. So here are my members, Lord — my eyes, my tongue, my hands, my mind, my appetite, my hours: I present them to You as a man alive from the dead, as weapons of righteousness to God, and I will not issue them to sin today. Make me a bondservant of righteousness who obeys from the heart, and press me into the pattern of the teaching I was delivered into until it has stamped its shape all through me. I turn my back on wages I have earned and I take the gift I never could: for the wages of sin is death, but the free gift of God is eternal life in Christ Jesus my Lord. Let my fruit be sanctification, and let the end of this road be life. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Red Sea: Buried in the Water, Still Craving Egypt",
+      "ref": "Exodus 14:21-31; 16:3; Numbers 11:5; 14:4; 1 Corinthians 10:1-2",
+      "relatedVerses": "v. 3-4, 12-13",
+      "summary": "Israel walked between two standing walls of water and came up on the far shore free, while behind them the sea folded over the entire army of their masters — and Scripture says they “were all baptized into Moses in the cloud and in the sea” (1 Corinthians 10:2). The army that had held them in chains was on the sea floor by morning. And yet within weeks those same free people were sighing after the cooking pots of Egypt, where at least they had eaten bread until they were full (Exodus 16:3) — and a year later still, weeping for the fish, the cucumbers, the melons, the leeks, the onions, and the garlic (Numbers 11:5), and telling one another to appoint a leader and march back into Egypt (Numbers 14:4). Nobody in Egypt still had the authority to command them; the authority was drowned. What survived was the appetite. That is Romans 6 in one nation’s story: the masters really are dead, and the cravings really do still speak. Israel’s tragedy is the warning — you can be legally free and still keep presenting your members to a government that no longer exists."
+    },
+    {
+      "title": "Lazarus Alive in His Grave Clothes",
+      "ref": "John 11:38-44",
+      "relatedVerses": "v. 6, 11-13",
+      "summary": "Jesus stood at a stinking four-day tomb and shouted one name, and a dead man came out — alive, breathing, walking, and still bound hand and foot in his burial wrappings with a cloth around his face. He was not partly alive. Resurrection had already fully happened; what remained were the trappings of a corpse still hanging on a living man. So Jesus gave a second command — loose him and let him go — and the people around him did with their hands what only He could do with His word. That is exactly the shape of Romans 6: the life is entirely Christ’s doing, and the removal of the grave clothes is commanded work. Do not spend your life trying to raise yourself, and do not spend it walking around in the wrappings of a man Christ already made alive."
+    },
+    {
+      "title": "The Slave Who Chose the Doorpost",
+      "ref": "Exodus 21:2-6",
+      "relatedVerses": "v. 16-19, 22",
+      "summary": "The law of Moses said a Hebrew servant went free in the seventh year, owing nothing and taking his freedom outright. But it made room for one strange, beautiful exception: if the servant said plainly, ‘I love my master … I will not go out free,’ he was brought to the doorpost and his ear was pierced through with an awl, and he served that master for life. Two men in Romans 6 stand at that doorpost. One is the man of verse 16 who keeps obeying sin — legally free, offering his ear back to a master who pays him in death, which is the most tragic sight in Scripture. The other is the man of verses 18 and 22, freed from sin and enslaved to God by love, ear pierced at the door of a Master whose fruit is holiness and whose end is eternal life. Both men are volunteers. The only difference is which master they believed was worth belonging to."
+    }
+  ]
+}

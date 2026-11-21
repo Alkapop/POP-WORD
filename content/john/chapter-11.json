@@ -1,0 +1,632 @@
+{
+  "type": "chapterStudy",
+  "book": "John",
+  "chapter": 11,
+  "chapterTitle": "The Raising of Lazarus and the Sign That Sealed the Cross",
+  "themeTitle": "I Am the Resurrection and the Life",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha.",
+      "understanding": "John introduces Lazarus as sick in Bethany, the home of Mary and Martha — a household Jesus loved. The whole scene is framed domestically and personally: this is no stranger, but a beloved friend."
+    },
+    {
+      "v": 2,
+      "text": "It was that Mary who had anointed the Lord with ointment, and wiped his feet with her hair, whose brother, Lazarus, was sick.",
+      "understanding": "John identifies Mary by the act he will narrate in the next chapter — the anointing — assuming his readers already know her. It anchors this grieving family in extravagant, worshipful devotion."
+    },
+    {
+      "v": 3,
+      "text": "The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”",
+      "understanding": "The sisters send word with exquisite tact: they do not command Jesus to come; they simply state, 'the one you love is sick,' and leave the rest to his heart. They lean on his affection (philéō), not on their own worthiness.",
+      "words": [
+        {
+          "strongs": "G5368",
+          "hebrew": "φιλέω",
+          "translit": "philéō",
+          "english": "have great affection"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "But when Jesus heard it, he said, “This sickness is not to death, but for the glory of God, that God’s Son may be glorified by it.”",
+      "understanding": "Before anyone has died, Jesus reframes the sickness: its terminus is not death but the glory of God. He does not promise Lazarus will not die — he promises that death will not have the last word.",
+      "words": [
+        {
+          "strongs": "G1392",
+          "hebrew": "δοξάζω",
+          "translit": "doxázō",
+          "english": "may be glorified"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Now Jesus loved Martha, and her sister, and Lazarus.",
+      "understanding": "John halts the narrative to certify Jesus' love (agapáō) for the entire family — precisely so the reader will not misread the delay that immediately follows as coldness.",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "When therefore he heard that he was sick, he stayed two days in the place where he was.",
+      "understanding": "The hinge verse of the chapter: 'therefore' — because he loved them, he stayed two more days. Here divine delay flows out of divine love, not divine indifference."
+    },
+    {
+      "v": 7,
+      "text": "Then after this he said to the disciples, “Let’s go into Judea again.”",
+      "understanding": "Only after the deliberate delay does Jesus announce the return to Judea — the very region where the crowds had just tried to kill him."
+    },
+    {
+      "v": 8,
+      "text": "The disciples told him, “Rabbi, the Jews were just trying to stone you, and are you going there again?”",
+      "understanding": "The disciples are alarmed: going back to Judea is walking straight back toward the stones. They see only danger; Jesus sees an appointment."
+    },
+    {
+      "v": 9,
+      "text": "Jesus answered, “Aren’t there twelve hours of daylight? If a man walks in the day, he doesn’t stumble, because he sees the light of this world.",
+      "understanding": "Jesus answers with a parable of daylight: there is a fixed number of hours allotted for the Father's work, and while that 'day' lasts he cannot stumble. His hour is set by the Father, not by his enemies.",
+      "words": [
+        {
+          "strongs": "G5457",
+          "hebrew": "φῶς",
+          "translit": "phōs",
+          "english": "light"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "But if a man walks in the night, he stumbles, because the light isn’t in him.”",
+      "understanding": "To walk at night — outside the Father's will and timing — is to stumble, because the light is not within. Safety is not found in avoiding Judea, but in walking in the light."
+    },
+    {
+      "v": 11,
+      "text": "He said these things, and after that, he said to them, “Our friend, Lazarus, has fallen asleep, but I am going so that I may awake him out of sleep.”",
+      "understanding": "Jesus names death as 'sleep' — a word that already carries resurrection hope, for a sleeper is meant to be awakened. He is going not to mourn but to wake his friend.",
+      "words": [
+        {
+          "strongs": "G2837",
+          "hebrew": "κοιμάω",
+          "translit": "koimáō",
+          "english": "has fallen asleep"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "The disciples therefore said, “Lord, if he has fallen asleep, he will recover.”",
+      "understanding": "The disciples take 'sleep' literally and reason that rest will heal him — a convenient logic that spares them the dangerous journey."
+    },
+    {
+      "v": 13,
+      "text": "Now Jesus had spoken of his death, but they thought that he spoke of taking rest in sleep.",
+      "understanding": "John clarifies the misunderstanding: Jesus meant death; they heard ordinary slumber. The gap between his words and their hearing is the space where their fear was hiding."
+    },
+    {
+      "v": 14,
+      "text": "So Jesus said to them plainly then, “Lazarus is dead.",
+      "understanding": "So Jesus drops the metaphor and states it without cushioning: 'Lazarus is dead.' Sometimes love must speak the hard word plainly."
+    },
+    {
+      "v": 15,
+      "text": "I am glad for your sakes that I was not there, so that you may believe. Nevertheless, let’s go to him.”",
+      "understanding": "Astonishingly, Jesus is glad he was absent — because the raising to come will birth faith in the disciples. Their believing matters to him more than sparing them the grief.",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believe"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Thomas therefore, who is called Didymus, said to his fellow disciples, “Let’s go also, that we may die with him.”",
+      "understanding": "Thomas, later famous for doubt, here shows raw loyalty: if Jesus is walking into death, they will die with him. Courage and gloom mingle in the same breath."
+    },
+    {
+      "v": 17,
+      "text": "So when Jesus came, he found that he had been in the tomb four days already.",
+      "understanding": "Jesus arrives to find Lazarus already four days in the tomb — past the point popular belief allowed any hope of revival, and well past the point of decay. The delay was calculated to leave no room for a natural explanation."
+    },
+    {
+      "v": 18,
+      "text": "Now Bethany was near Jerusalem, about fifteen stadia away.",
+      "understanding": "John notes Bethany's nearness to Jerusalem, about two miles — which explains the crowd of mourners and sets this sign at the very doorstep of the city that will condemn him."
+    },
+    {
+      "v": 19,
+      "text": "Many of the Jews had joined the women around Martha and Mary, to console them concerning their brother.",
+      "understanding": "Many from Jerusalem have come to console the sisters — witnesses who will carry the report in two directions: some to faith, some to the Sanhedrin."
+    },
+    {
+      "v": 20,
+      "text": "Then when Martha heard that Jesus was coming, she went and met him, but Mary stayed in the house.",
+      "understanding": "The sisters react true to character: Martha runs out to meet him; Mary sits motionless in her grief. The same Jesus meets each of them where they are."
+    },
+    {
+      "v": 21,
+      "text": "Therefore Martha said to Jesus, “Lord, if you would have been here, my brother wouldn’t have died.",
+      "understanding": "Martha's words are faith and lament braided together: 'if you had been here, my brother wouldn't have died.' She believes in his power yet aches over his absence."
+    },
+    {
+      "v": 22,
+      "text": "Even now I know that, whatever you ask of God, God will give you.”",
+      "understanding": "Yet her faith reaches further than her wound: even now, whatever he asks of God, God will give him — a flickering hope she barely dares to name aloud."
+    },
+    {
+      "v": 23,
+      "text": "Jesus said to her, “Your brother will rise again.”",
+      "understanding": "Jesus answers with a promise deliberately open-ended: 'Your brother will rise again.' It could mean the last day or this very hour — and he lets the ambiguity draw her out."
+    },
+    {
+      "v": 24,
+      "text": "Martha said to him, “I know that he will rise again in the resurrection at the last day.”",
+      "understanding": "Martha retreats into sound doctrine — resurrection at the last day. She believes the truth, but she has filed it far off, on the distant horizon of the future.",
+      "words": [
+        {
+          "strongs": "G386",
+          "hebrew": "ἀνάστασις",
+          "translit": "anástasis",
+          "english": "resurrection"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies.",
+      "understanding": "Jesus lifts resurrection out of the calendar and into his own Person: 'I AM the resurrection and the life.' Resurrection is not merely a coming event — it is a Man standing in front of her.",
+      "words": [
+        {
+          "strongs": "G386",
+          "hebrew": "ἀνάστασις",
+          "translit": "anástasis",
+          "english": "resurrection"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "Whoever lives and believes in me will never die. Do you believe this?”",
+      "understanding": "Whoever lives and believes in him will never die — the believer's 'death' is redefined out of existence into mere sleep. Then the piercing personal thrust: 'Do you believe this?'",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believe"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "She said to him, “Yes, Lord. I have come to believe that you are the Christ, God’s Son, he who comes into the world.”",
+      "understanding": "Martha confesses the full Johannine creed: he is the Christ, the Son of God, the One coming into the world. She grasps the Person before she has seen the miracle — faith reaching Jesus himself, not just his power."
+    },
+    {
+      "v": 28,
+      "text": "When she had said this, she went away, and called Mary, her sister, secretly, saying, “The Teacher is here, and is calling you.”",
+      "understanding": "Martha calls Mary aside secretly: the Teacher is asking for her personally. Grief is met not by a crowd's platitude but by a personal summons."
+    },
+    {
+      "v": 29,
+      "text": "When she heard this, she arose quickly, and went to him.",
+      "understanding": "Mary, who had been sitting frozen, rises quickly the moment she hears he is calling — the same urgency with which faith always answers the voice of Christ."
+    },
+    {
+      "v": 30,
+      "text": "Now Jesus had not yet come into the village, but was in the place where Martha met him.",
+      "understanding": "John notes that Jesus is still at the edge of the village, at the meeting-place. The encounter with sorrow happens outside, on the open road."
+    },
+    {
+      "v": 31,
+      "text": "Then the Jews who were with her in the house, and were consoling her, when they saw Mary, that she rose up quickly and went out, followed her, saying, “She is going to the tomb to weep there.”",
+      "understanding": "The mourners follow Mary, assuming she is going to wail at the tomb — and in doing so they unwittingly gather the whole crowd of witnesses to the grave for what is about to happen."
+    },
+    {
+      "v": 32,
+      "text": "Therefore when Mary came to where Jesus was, and saw him, she fell down at his feet, saying to him, “Lord, if you would have been here, my brother wouldn’t have died.”",
+      "understanding": "Mary falls at his feet with the very same words as Martha — 'if you had been here' — but from a posture of worship rather than debate. Her grief lands at his feet."
+    },
+    {
+      "v": 33,
+      "text": "When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit, and was troubled,",
+      "understanding": "Confronted by her weeping and the crowd's wailing, Jesus is convulsed: he 'groaned in the spirit' — a word of fierce, even angry agitation — and was troubled. He does not stand aloof above human grief; he is shaken to his depths by it.",
+      "words": [
+        {
+          "strongs": "G1690",
+          "hebrew": "ἐμβριμάομαι",
+          "translit": "embrimáomai",
+          "english": "groaned"
+        },
+        {
+          "strongs": "G5015",
+          "hebrew": "ταράσσω",
+          "translit": "tarássō",
+          "english": "was troubled"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "text": "and said, “Where have you laid him?” They told him, “Lord, come and see.”",
+      "understanding": "He asks where they laid the body — the omniscient Son entering fully into the human motions of mourning. 'Come and see,' they answer, the same invitation he had once given seekers."
+    },
+    {
+      "v": 35,
+      "text": "Jesus wept.",
+      "understanding": "The shortest verse in the Bible, and one of the deepest windows into the heart of God: 'Jesus wept.' The Lord of life, who knows he is about to raise Lazarus, still sheds real tears at the grave of a friend.",
+      "words": [
+        {
+          "strongs": "G1145",
+          "hebrew": "δακρύω",
+          "translit": "dakrýō",
+          "english": "wept"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "text": "The Jews therefore said, “See how much affection he had for him!”",
+      "understanding": "The onlookers read the tears rightly as love: 'See how much affection he had for him!' His grief is the visible face of his friendship (philéō).",
+      "words": [
+        {
+          "strongs": "G5368",
+          "hebrew": "φιλέω",
+          "translit": "philéō",
+          "english": "affection"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "text": "Some of them said, “Couldn’t this man, who opened the eyes of him who was blind, have also kept this man from dying?”",
+      "understanding": "But others twist the tears into accusation: if he opened the blind man's eyes, why did he let this friend die? The same works that spark faith in some spark cynicism in others."
+    },
+    {
+      "v": 38,
+      "text": "Jesus therefore, again groaning in himself, came to the tomb. Now it was a cave, and a stone lay against it.",
+      "understanding": "Again groaning within himself, Jesus comes to the tomb — a cave sealed with a stone, the very image of death's cold finality. His indignation at the grave has not cooled.",
+      "words": [
+        {
+          "strongs": "G1690",
+          "hebrew": "ἐμβριμάομαι",
+          "translit": "embrimáomai",
+          "english": "groaning"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "text": "Jesus said, “Take away the stone.” Martha, the sister of him who was dead, said to him, “Lord, by this time there is a stench, for he has been dead four days.”",
+      "understanding": "'Take away the stone.' Martha protests with the brutal fact of decay — four days, a stench. Faith is being asked to act before the evidence has changed."
+    },
+    {
+      "v": 40,
+      "text": "Jesus said to her, “Didn’t I tell you that if you believed, you would see God’s glory?”",
+      "understanding": "Jesus recalls his promise: believing comes first, then the seeing of God's glory. He reverses the world's order — you do not believe because you see; you see because you believe.",
+      "words": [
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "text": "So they took away the stone from the place where the dead man was lying. Jesus lifted up his eyes, and said, “Father, I thank you that you listened to me.",
+      "understanding": "With the stone gone, Jesus lifts his eyes and thanks the Father before anything visible has occurred — praying in the settled certainty of an answer already granted."
+    },
+    {
+      "v": 42,
+      "text": "I know that you always listen to me, but because of the multitude standing around I said this, that they may believe that you sent me.”",
+      "understanding": "He explains that he prayed aloud for the crowd's sake — so they would know he is the Sent One of the Father. Even his thanksgiving is aimed at their believing."
+    },
+    {
+      "v": 43,
+      "text": "When he had said this, he cried with a loud voice, “Lazarus, come out!”",
+      "understanding": "Then the loud cry: 'Lazarus, come out!' The voice that once spoke creation into being now summons a decomposing man out of the grave — and calls him by name."
+    },
+    {
+      "v": 44,
+      "text": "He who was dead came out, bound hand and foot with wrappings, and his face was wrapped around with a cloth. Jesus said to them, “Free him, and let him go.”",
+      "understanding": "The dead man emerges, still bound head to foot in grave-clothes, and Jesus commands the crowd to loose him. Christ alone gives the life; the community is handed the task of removing the wrappings.",
+      "words": [
+        {
+          "strongs": "G3089",
+          "hebrew": "λύω",
+          "translit": "lýō",
+          "english": "free / loose"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "text": "Therefore many of the Jews, who came to Mary and saw what Jesus did, believed in him.",
+      "understanding": "Many of the Jewish witnesses, seeing the sign, believe in him — the very purpose for which the sign was given now fulfilled.",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believed"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "text": "But some of them went away to the Pharisees, and told them the things which Jesus had done.",
+      "understanding": "But some go straight to the Pharisees as informers — the same undeniable evidence that melted some hearts hardens others into betrayal."
+    },
+    {
+      "v": 47,
+      "text": "The chief priests therefore and the Pharisees gathered a council, and said, “What are we doing? For this man does many signs.",
+      "understanding": "The chief priests and Pharisees convene a formal council, openly admitting the miracles are real: 'this man does many signs.' They cannot deny the signs; they only fear them.",
+      "words": [
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeîon",
+          "english": "signs"
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "text": "If we leave him alone like this, everyone will believe in him, and the Romans will come and take away both our place and our nation.”",
+      "understanding": "Their fear is political and self-preserving: if everyone believes, Rome will crush them and strip away their place and power. They would rather kill the Life-giver than lose their positions."
+    },
+    {
+      "v": 49,
+      "text": "But a certain one of them, Caiaphas, being high priest that year, said to them, “You know nothing at all,",
+      "understanding": "Caiaphas, the high priest, cuts off their hand-wringing with contempt: 'You know nothing at all.' The chief religious officer of Israel speaks with the cold pragmatism of a politician."
+    },
+    {
+      "v": 50,
+      "text": "nor do you consider that it is advantageous for us that one man should die for the people, and that the whole nation not perish.”",
+      "understanding": "He proposes cold expediency: better that one man die for the people than the whole nation perish. He means calculated murder — yet the words he speaks are, without his knowing it, the very heart of the gospel."
+    },
+    {
+      "v": 51,
+      "text": "Now he didn’t say this of himself, but being high priest that year, he prophesied that Jesus would die for the nation,",
+      "understanding": "John unveils the irony: Caiaphas, by virtue of his high-priestly office, unwittingly prophesied — Jesus would indeed die 'for the nation.' God can speak truth even through the mouth that is plotting the crime."
+    },
+    {
+      "v": 52,
+      "text": "and not for the nation only, but that he might also gather together into one the children of God who are scattered abroad.",
+      "understanding": "And not for the nation only, but to gather into one the scattered children of God — the death of Christ reaching far beyond Israel to draw the whole family of God home."
+    },
+    {
+      "v": 53,
+      "text": "So from that day forward they took counsel that they might put him to death.",
+      "understanding": "From that day the council is settled: they will put Jesus to death. The greatest sign of life has directly triggered the plot to take his own."
+    },
+    {
+      "v": 54,
+      "text": "Jesus therefore walked no more openly among the Jews, but departed from there into the country near the wilderness, to a city called Ephraim. He stayed there with his disciples.",
+      "understanding": "Jesus withdraws from open movement to Ephraim near the wilderness — not out of fear, but to keep the Father's timetable until his appointed hour arrives."
+    },
+    {
+      "v": 55,
+      "text": "Now the Passover of the Jews was at hand. Many went up from the country to Jerusalem before the Passover, to purify themselves.",
+      "understanding": "The Passover draws near, and pilgrims stream up to Jerusalem to purify themselves — the feast at which the true Passover Lamb will soon be slain."
+    },
+    {
+      "v": 56,
+      "text": "Then they sought for Jesus and spoke one with another, as they stood in the temple, “What do you think—that he isn’t coming to the feast at all?”",
+      "understanding": "In the temple the crowds buzz with speculation, wondering whether Jesus will dare to come to the feast at all. The whole nation is watching for him."
+    },
+    {
+      "v": 57,
+      "text": "Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him.",
+      "understanding": "The authorities have issued a public warrant: anyone who knows his whereabouts must report it. The net is set, and the stage for the Passion is now fully arranged."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Deliberate Delay",
+      "verseRef": "v. 6",
+      "image": "The breathless messenger finally reaches Jesus with the news: 'the one you love is sick.' Everyone expects him to drop everything and rush the two miles to Bethany. Instead, Jesus stays exactly where he is — one day, then a second day — the sun rising and setting twice over a dying man while the Healer, on purpose, does not move.",
+      "meaning": "This is the most agonizing kind of divine silence: the delay of a God who could act and chooses to wait. Yet John has already told us why (v. 5) — Jesus loved them. The waiting was not the absence of love; it was love aiming at a greater glory than a mere recovery. Sometimes the delay is the miracle's runway."
+    },
+    {
+      "title": "The Stench of the Fourth Day",
+      "verseRef": "v. 39",
+      "image": "A limestone cave in the hillside, its mouth sealed by a heavy stone. Inside, a body four days in the tomb, wrapped in spice-soaked linen, now unmistakably decomposing. When Jesus says 'Take away the stone,' Martha recoils — 'Lord, by this time there is a stench.' She can already smell what everyone is thinking: it is too late, far too late.",
+      "meaning": "The four days are deliberate. In that culture it was believed the soul lingered near the body for three days; by the fourth, hope was gone and decay was undeniable. Jesus waited past the boundary of every human possibility so that no one could whisper 'he only fainted.' God specializes in the situation that has already begun to rot."
+    },
+    {
+      "title": "The Man Who Walked Out of His Own Funeral",
+      "verseRef": "v. 43-44",
+      "image": "A loud voice splits the graveyard silence: 'Lazarus, come out!' Then a horror turned to wonder — a shape moves in the dark mouth of the tomb. Bound hand and foot, his face still wrapped in cloth, a dead man shuffles into the daylight, alive, blinking under the linen. The crowd stands frozen between terror and joy until Jesus says, calmly, 'Free him, and let him go.'",
+      "meaning": "Note the mercy of the specific name: had Jesus simply cried 'Come out,' the whole cemetery might have emptied. He raised one man by name. And He left the unwrapping to the people — Christ gives resurrection life, and then hands the community the towels: 'loose him.' The raised still need to be freed from the grave-clothes of their old death."
+    },
+    {
+      "title": "The Council in the Lamplight",
+      "verseRef": "v. 47-50",
+      "image": "The chief priests and Pharisees gathered around a table, faces lit by oil lamps, wringing their hands. 'What are we doing? This man does many signs.' They do not dispute a single miracle — they concede them all. Then Caiaphas leans forward with the cold clarity of a politician and says the quiet part aloud: better one man die than the whole nation lose its place.",
+      "meaning": "Here is the darkest irony in the Gospel: the very evidence of resurrection life pushes the leaders to plot a murder. And in Caiaphas' cynical calculation, God hides the gospel in plain sight — 'one man should die for the people.' He meant it as expedient political killing; the Holy Spirit meant it as substitutionary atonement. Men plot the cross; God preaches it through their own mouths."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Message and the Deliberate Delay (v. 1-16)",
+        "body": "Word of Lazarus' sickness reaches Jesus, who stays two days on purpose, then turns back toward hostile Judea to 'wake' his friend."
+      },
+      {
+        "label": "Martha on the Road: 'I Am the Resurrection' (v. 17-27)",
+        "body": "Jesus meets Martha's future-tense doctrine with a present-tense Person, and draws from her the full confession of who He is."
+      },
+      {
+        "label": "Mary, the Weeping, and the Wept (v. 28-37)",
+        "body": "Mary falls at His feet; confronted with the crowd's wailing, Jesus is convulsed with grief and indignation, and weeps."
+      },
+      {
+        "label": "The Stone, the Shout, and the Grave-clothes (v. 38-44)",
+        "body": "At the sealed cave Jesus commands faith to act, thanks the Father, and calls Lazarus out alive by name."
+      },
+      {
+        "label": "The Council and Caiaphas' Prophecy (v. 45-57)",
+        "body": "The sign divides the witnesses; the Sanhedrin resolves to kill Jesus, and Caiaphas unwittingly prophesies the meaning of His death."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Why Love Delays",
+        "paragraphs": [
+          "The scandal of this chapter sits in verse 6: 'When therefore he heard that he was sick, he stayed two days in the place where he was.' The word 'therefore' hangs on the sentence before it — 'Now Jesus loved Martha, and her sister, and Lazarus.' Read them together and the logic is almost unbearable: because He loved them, He waited while their brother died. This is the opposite of how we define love. We measure love by speed, by rescue, by the immediate 'yes.' John forces us to hold love and delay in the same hand.",
+          "Jesus tells us plainly what the delay is for: 'This sickness is not to death, but for the glory of God' (v. 4), and later, 'I am glad for your sakes that I was not there, so that you may believe' (v. 15). Had Jesus arrived in time, Lazarus would have been healed and the sisters would have had their brother back — a real mercy, but a smaller one. By waiting until the fourth day, past the point of decay and past every human possibility, Jesus turned a healing into a resurrection, and a private comfort into the seventh and greatest sign. The delay was not the withholding of the gift; it was the enlarging of it.",
+          "Do not soften this into sentiment. There were two days in Bethany when heaven was silent and a man died — real days, real grief, a real tomb. God's silence is not always His absence; sometimes it is His aim. The truth of the truth is this: a delay authored by love is still love, even while it feels like abandonment. Martha and Mary both said the same accusing sentence — 'Lord, if you had been here' — and Jesus never once rebuked them for it. He simply out-loved their timeline."
+        ]
+      },
+      {
+        "heading": "Was Jesus Weeping Out of Grief, or Rage?",
+        "paragraphs": [
+          "Twice John says Jesus 'groaned' (v. 33, 38), and the Greek word (embrimáomai) is far stronger than sorrow. It is the sound of a warhorse snorting; it means to be indignant, to be moved with anger, to shudder with fury. Then, in verse 35, the Bible's shortest sentence: 'Jesus wept.' Put the two together and you see something we usually miss. Jesus is not only sad at the tomb — He is angry. Angry at death. Angry at the wreckage sin has made of the world His Father created. Angry at the tyranny of the grave that has these people wailing.",
+          "This matters enormously, because it means God is not neutral about your grief. He does not stand at the cemetery with the detached calm of fate. The Author of life comes to the tomb and both weeps human tears and snorts with divine indignation at the enemy. And His tears are real — verse 35 is not a performance; the crowd read it correctly: 'See how much affection he had for him!' The One who was about to raise Lazarus in sixty seconds still stopped to cry. Your Savior is not embarrassed by tears, and He is not resigned to death.",
+          "So when Jesus shouts 'Lazarus, come out!' it is not a magician's flourish; it is a war-cry. It is the resurrection and the life striking the first public blow against the last enemy. Bethany is a skirmish; the empty tomb of Christ Himself will be the decisive battle; and the general resurrection will be the final rout of the grave."
+        ]
+      },
+      {
+        "heading": "The Sign That Killed the Sign-Worker",
+        "paragraphs": [
+          "John structures his whole Gospel around seven signs meant to produce faith (20:30-31). The raising of Lazarus is the seventh and greatest — a man four days dead walking out of his tomb — and it produces exactly the division John says every sign produces. 'Many of the Jews... believed in him' (v. 45). But others ran to the Pharisees (v. 46), and the Sanhedrin convened. Notice what they did not do: they never once disputed the miracle. 'This man does many signs' (v. 47), they admitted. Their problem was never the evidence; it was what the evidence would cost them — 'our place and our nation' (v. 48).",
+          "Then Caiaphas speaks, and the irony is almost violent. 'It is advantageous for us that one man should die for the people' (v. 50). He meant it as ruthless political arithmetic: sacrifice one troublemaker to protect the institution. But John pulls back the curtain (v. 51-52): the high priest, in his very office, was prophesying without knowing it. Jesus would indeed die 'for the people' — and not for the nation only, but to gather into one the scattered children of God. The gospel of substitutionary atonement was preached from the mouth of the man plotting the murder. This is the deepest truth of the chapter: the sign that gave Lazarus his life is the very sign that sealed the death of Jesus — and that was the plan all along. He raised His friend from the tomb knowing it would cost Him His own."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The raising of Lazarus is a rehearsal for something far larger. Jesus deliberately called death 'sleep' (v. 11, koimáō), and the apostle Paul takes up that exact vocabulary for every believer who dies in Christ: He calls the risen Jesus the first fruits 'of those who are asleep' (1 Corinthians 15:20). There is the difference between the two graves — Lazarus came out still bound in grave-clothes and would one day die again; Christ rose leaving the linen folded behind, alive forevermore. Lazarus is the preview; Christ is the guarantee. And the loud voice that cried 'Lazarus, come out!' is itself a preview of a greater shout: 'For the Lord himself will descend from heaven with a shout... The dead in Christ will rise first' (1 Thessalonians 4:16). The same voice that emptied one tomb in Bethany will one day empty every grave on earth.",
+        "The risen Christ says it in the first person to John himself on Patmos: 'I am alive forever and ever... I have the keys of Death and of Hades' (Revelation 1:18). The One who holds those keys proved He had them at the mouth of Lazarus' cave. And Caiaphas' cold sentence — 'one man should die for the people' (v. 50) — is caught up and transfigured by the Spirit into the center of the gospel: 'one died for all, therefore all died' (2 Corinthians 5:14). The high priest plotted a substitution he did not understand; God accomplished the substitution he unwittingly announced. 'I am the resurrection and the life' is not a comforting slogan — it is a claim the empty tomb of Jesus Christ has already validated."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Resurrection",
+      "hebrew": "ἀνάστασις",
+      "translit": "anástasis",
+      "strongs": "G386",
+      "verses": "v. 24, 25",
+      "insight": "Literally 'a standing up again' — from aná (up) and hístēmi (to stand). Martha used the word as a doctrine filed away for 'the last day' (v. 24), a truth safely on the horizon. Jesus seizes the same word and refuses to let it stay a future event: 'I AM the resurrection' (v. 25). He collapses the distance between a doctrine Martha believed and a Person standing in front of her. Resurrection is not first a date on God's calendar; it is the identity of the Man at your tomb."
+    },
+    {
+      "english": "Life",
+      "hebrew": "ζωή",
+      "translit": "zōḗ",
+      "strongs": "G2222",
+      "verses": "v. 25",
+      "insight": "John's word for life is not bíos (biological span, from which we get 'biology') but zōḗ — the very life of God, indestructible and eternal. This is the life the whole Gospel was written to give (20:31). When Jesus says 'I am the resurrection and the LIFE,' He is claiming to be the source of a life that death cannot terminate. That is why He can say the believer 'will never die' (v. 26) even while standing beside a corpse — physical death has been demoted to sleep because zōḗ has entered the believer."
+    },
+    {
+      "english": "Believe",
+      "hebrew": "πιστεύω",
+      "translit": "pisteúō",
+      "strongs": "G4100",
+      "verses": "v. 15, 25-27, 40, 42, 45, 48",
+      "insight": "This is John's signature verb, and it saturates the chapter. Notice it is always a verb, never a static noun — to believe is to actively entrust yourself to a Person, to lean your whole weight on Him. The entire logic of the sign runs on it: Jesus stayed away 'so that you may believe' (v. 15), promised Martha that 'if you believed, you would see God's glory' (v. 40), and John records that many 'believed in him' (v. 45). Believing is the hinge of the whole scene — and the order is reversed from ours: you do not believe because you have seen; you see because you have believed."
+    },
+    {
+      "english": "Groaned / Indignant",
+      "hebrew": "ἐμβριμάομαι",
+      "translit": "embrimáomai",
+      "strongs": "G1690",
+      "verses": "v. 33, 38",
+      "insight": "A startling, physical word: to snort like a warhorse, to shudder with anger, to be moved with deep indignation. Most English versions soften it to 'deeply moved,' but the edge is fury. At the tomb Jesus is not merely mournful — He is angry at death itself, at the ruin sin has made, at the tyranny of the grave. This is the truth of the truth: your God is not calm about your loss. The same Jesus who wept real tears (v. 35) also snorted with holy rage against the enemy He was about to defeat."
+    },
+    {
+      "english": "Affection",
+      "hebrew": "φιλέω",
+      "translit": "philéō",
+      "strongs": "G5368",
+      "verses": "v. 3, 36",
+      "insight": "The warm love of friendship and personal fondness — the love of a companion, distinct from the wider, deliberate agapáō John uses in verse 5. It is striking that the sisters (v. 3) and the crowd (v. 36) both describe Jesus' love for Lazarus with this intimate, tender word. The Son of God does not merely love the world in the abstract; He has personal friends, He weeps at their graves, and He is described as their friend. The eternal Word who raises the dead also misses His companion."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the situation in your life that is already four days dead — the thing you have stopped praying about because you can already smell the stench of 'too late.'",
+    "items": [
+      {
+        "title": "Your Four-Days-Dead Situation",
+        "body": "There is a Lazarus in your life — a dream, a marriage, a prodigal, a calling, a body — that did not just get sick; it died, and it has been in the tomb long enough that you have rolled the stone across it and walked away. Martha's protest is your protest: 'Lord, by this time there is a stench.' But hear the timing of this sign. Jesus did not come on the first day of hope; He came on the fourth day of decay, on purpose, so that no one could credit anything but resurrection. The question the Spirit presses: have you sealed the tomb on something God is still calling by name? What if your 'too late' is exactly the runway His glory was waiting for?"
+      },
+      {
+        "title": "Do You Believe THIS?",
+        "body": "Jesus did not ask Martha to believe in resurrection as a concept — she already did, 'at the last day.' He looked her in the eyes and made it personal: 'I am the resurrection and the life... Do you believe THIS?' There is a world of difference between believing that God can and believing that God is — right here, right now, in your specific grave. It is easy to sign off on the doctrine of resurrection for the last day; it is faith to stake your grief on the living Person in front of you today. He is asking you the same question He asked her, by name. Not 'do you believe in resurrection someday,' but 'do you believe this — that I am your resurrection, now?'"
+      },
+      {
+        "title": "Come Out, and Be Unbound",
+        "body": "Lazarus walked out alive but still wrapped head to foot in grave-clothes — raised, but not yet free. And Jesus turned to the community and said, 'Free him, and let him go.' Some of us have been made alive by Christ and yet still shuffle around in the linen of our old death — old shame, old identities, old bondages we were never meant to wear once we were raised. Hear both commands. To you, the dead one, Christ says: 'Come out.' To those around you, He says: 'Loose him.' Will you walk out of the tomb at His voice — and will you help unbind the ones He has already raised beside you?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Delay Audit",
+        "body": "Where has God's silence made you conclude He does not love you? Look at verse 6 again — the delay flowed out of the love, not against it. What if the prayer He seems to be ignoring is actually the one He loves you too much to answer small?"
+      },
+      {
+        "title": "The 'If You Had Been Here' Wound",
+        "body": "Both sisters carried the same quiet accusation: 'Lord, if you had been here...' Is there a specific loss for which you secretly blame God's timing — a death, a failure, a door that closed while He 'stayed two days'? Name it honestly, and notice that Jesus never once rebuked them for saying it."
+      },
+      {
+        "title": "The Stone You Won't Roll Away",
+        "body": "Before the miracle, Jesus gave a command that made no sense over a rotting body: 'Take away the stone.' What act of obedience is God asking of you before you see any evidence it will work? What is the stone you keep refusing to move because you can already smell why it's pointless?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Name Your Lazarus",
+        "body": "Tonight, write down by name the one situation you have declared dead and buried. Then, over it, pray it back into Jesus' own words out loud: 'You are the resurrection and the life. I believe this — not just for the last day, but for this.' Refuse to leave it sealed in the tomb of your resignation."
+      },
+      {
+        "title": "Roll One Stone This Week",
+        "body": "Identify the single act of obedience you have been withholding until you get proof it will pay off — the hard conversation, the resumed prayer, the first payment, the apology, the step of faith. This week, roll that stone away before you see the glory, in the order Jesus commanded: believe first, then see (v. 40)."
+      }
+    ]
+  },
+  "prayerReflection": "Lord Jesus, You are the resurrection and the life — not a doctrine I file away for the last day, but the living Person standing at every tomb in my life. I confess the graves I have sealed and walked away from, the situations I have decided are four days dead and beyond the reach of hope. Forgive me for reading Your delays as Your absence, and Your silence as Your indifference. You loved Martha and Mary, and therefore You waited — teach me to trust the love hidden inside the waiting. Thank You that You do not stand aloof from my grief; You groan with holy anger at death and You weep real tears at the graveside. So I bring You my Lazarus by name today, and I dare to believe THIS — that You are my resurrection now. Speak my name into the darkness, call me out of every tomb, and command the grave-clothes off of me: unbind me, and let me go free. And as You once turned Caiaphas' cruel words into the gospel, turn even the things meant to bury me into the stage for Your glory. I believe; help my unbelief. In Jesus' name, Amen.",
+  "storyConnections": [
+    {
+      "title": "The Widow of Zarephath's Son and the Shunammite's Son",
+      "ref": "1 Kings 17:17-24; 2 Kings 4:32-37",
+      "relatedVerses": "v. 23, 43-44",
+      "summary": "Twice in the Old Testament God raised the dead through His prophets: Elijah stretched himself over the widow's dead boy until his life returned, and Elisha raised the Shunammite woman's son. In both stories the prophet had to plead and labor and cry out to God to borrow the power of resurrection. But at Bethany there is no straining and no borrowing — Jesus simply speaks: 'Lazarus, come out.' The prophets were channels who begged for the gift; Jesus is the Source who commands it, because He does not petition the resurrection — He is the resurrection (v. 25)."
+    },
+    {
+      "title": "The Valley of Dry Bones",
+      "ref": "Ezekiel 37:1-14",
+      "relatedVerses": "v. 43-44",
+      "summary": "Ezekiel is set down in a valley full of dry, hopeless bones and told to prophesy to them: 'Dry bones, hear the LORD's word.' As he speaks, there is a rattling, sinews and flesh come upon them, breath enters, and an exceedingly great army stands to its feet. God's diagnosis was the exile's despair — 'Our bones are dried up, and our hope is lost.' Bethany is that prophecy in miniature and in flesh: the word of the Lord spoken over a dead man, and death obeying the voice. What Ezekiel saw for the whole house of Israel, Jesus performed for one man as a sign of the resurrection He guarantees for all His people."
+    },
+    {
+      "title": "The Widow of Nain's Only Son",
+      "ref": "Luke 7:11-17",
+      "relatedVerses": "v. 33-35, 43",
+      "summary": "Approaching the town of Nain, Jesus met a funeral procession carrying out the only son of a widow, and 'he had compassion on her.' Uninvited and unasked, He touched the open coffin and said, 'Young man, I tell you, arise' — and the dead man sat up and began to speak. As at Bethany, it is the compassion of Jesus that moves first and the authoritative word that raises the dead. Both scenes reveal the same heart and the same power: a Savior undone by human grief who nonetheless holds the authority to command the dead back to life."
+    }
+  ]
+}

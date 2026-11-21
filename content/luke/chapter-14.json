@@ -1,0 +1,465 @@
+{
+  "type": "chapterStudy",
+  "book": "Luke",
+  "chapter": 14,
+  "chapterTitle": "The Great Banquet and the Cost of the Cross",
+  "themeTitle": "The Way Up Is Down, and the Way In Is Surrender",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "When he went into the house of one of the rulers of the Pharisees on a Sabbath to eat bread, they were watching him.",
+      "understanding": "Jesus accepts a dinner invitation from a leading Pharisee on the Sabbath, but this is no ordinary meal. The phrase 'they were watching him' means the table is an ambush, every move under hostile surveillance. He walks in knowing it.",
+      "words": [
+        {
+          "strongs": "G4521",
+          "hebrew": "σάββατον",
+          "translit": "sábbaton",
+          "english": "Sabbath"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Behold, a certain man who had dropsy was in front of him.",
+      "understanding": "A man swollen with dropsy (edema) stands conspicuously 'in front of him,' almost certainly planted as bait. Will Jesus heal on the Sabbath and hand His enemies the charge they crave?",
+      "words": [
+        {
+          "strongs": "G5203",
+          "hebrew": "ὑδρωπικός",
+          "translit": "hydrōpikós",
+          "english": "having dropsy"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Jesus, answering, spoke to the lawyers and Pharisees, saying,\n“Is it lawful to heal on the Sabbath?”",
+      "understanding": "Before they can spring the trap, Jesus springs it first. He puts the very question they were hoping to catch Him on directly to the experts in the Law, forcing them to declare their hand."
+    },
+    {
+      "v": 4,
+      "text": "But they were silent.\nHe took him, and healed him, and let him go.",
+      "understanding": "Their silence is an admission: they cannot say 'no' without being cruel, nor 'yes' without losing their case. Jesus takes the man, heals him, and quietly sends him away whole."
+    },
+    {
+      "v": 5,
+      "text": "He answered them,\n“Which of you, if your son\nor an ox fell into a well, wouldn’t immediately pull him out on a Sabbath day?”",
+      "understanding": "Jesus dismantles their hypocrisy with their own logic. Any of them would rescue a son or even an ox from a pit on the Sabbath without a second thought. Is a suffering human being worth less than livestock?"
+    },
+    {
+      "v": 6,
+      "text": "They couldn’t answer him regarding these things.",
+      "understanding": "Again, silence. Their theology has no reply to mercy; they are cornered by compassion itself."
+    },
+    {
+      "v": 7,
+      "text": "He spoke a parable to those who were invited, when he noticed how they chose the best seats, and said to them,",
+      "understanding": "Watching the guests jockey for the places of honor, Jesus tells a parable. It is not table etiquette, it is a diagnosis of the human heart's craving to be seen.",
+      "words": [
+        {
+          "strongs": "G4411",
+          "hebrew": "πρωτοκλισία",
+          "translit": "prōtoklisía",
+          "english": "best seats"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "“When you are invited by anyone to a marriage feast, don’t sit in the best seat, since perhaps someone more honorable than you might be invited by him,",
+      "understanding": "Seize the best couch and you gamble on your own status, betting no one greater will arrive. It is a bet the proud always eventually lose."
+    },
+    {
+      "v": 9,
+      "text": "and he who invited both of you would come and tell you, ‘Make room for this person.’ Then you would begin, with shame, to take the lowest place.",
+      "understanding": "The tap on the shoulder comes, and the demotion is public. Self-promotion ends in the long, humiliating walk down to the last seat while everyone watches."
+    },
+    {
+      "v": 10,
+      "text": "But when you are invited, go and sit in the lowest place, so that when he who invited you comes, he may tell you, ‘Friend, move up higher.’ Then you will be honored in the presence of all who sit at the table with you.",
+      "understanding": "Choose the lowest place first, and the only direction left is up. Honor then comes as a gift the host bestows, not a prize you grabbed."
+    },
+    {
+      "v": 11,
+      "text": "For everyone who exalts himself will be humbled, and whoever humbles himself will be exalted.”",
+      "understanding": "Here is the kingdom's iron law, stated flat. Self-exaltation ends in humbling; self-humbling ends in exaltation. This single sentence is the axis the whole chapter turns on.",
+      "words": [
+        {
+          "strongs": "G5312",
+          "hebrew": "ὑψόω",
+          "translit": "hypsóō",
+          "english": "exalts"
+        },
+        {
+          "strongs": "G5013",
+          "hebrew": "ταπεινόω",
+          "translit": "tapeinóō",
+          "english": "will be humbled"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "He also said to the one who had invited him,\n“When you make a dinner or a supper, don’t call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or perhaps they might also return the favor, and pay you back.",
+      "understanding": "Jesus turns from the guests to His host. Stop building your guest list around people who can repay you. When the whole point is the return favor, the favor is your only reward."
+    },
+    {
+      "v": 13,
+      "text": "But when you make a feast, ask the poor, the maimed, the lame, or the blind;",
+      "understanding": "Instead, invite the ones with empty hands: the poor, the maimed, the lame, the blind. These are exactly the people honor-culture is designed to keep away from the table.",
+      "words": [
+        {
+          "strongs": "G4434",
+          "hebrew": "πτωχός",
+          "translit": "ptōchós",
+          "english": "the poor"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "and you will be blessed, because they don’t have the resources to repay you. For you will be repaid in the resurrection of the righteous.”",
+      "understanding": "Precisely because they cannot pay you back, God will. Heaven keeps the account that earth cannot settle, and the reckoning comes 'at the resurrection of the righteous.'"
+    },
+    {
+      "v": 15,
+      "text": "When one of those who sat at the table with him heard these things, he said to him, “Blessed is he who will feast in God’s Kingdom!”",
+      "understanding": "A guest, feeling the weight of it, blurts a pious beatitude about feasting in God's Kingdom, comfortably assuming he himself will be seated there. Jesus is about to test that assumption."
+    },
+    {
+      "v": 16,
+      "text": "But he said to him,\n“A certain man made a great supper, and he invited many people.",
+      "understanding": "Jesus answers with a parable. A man throws a great banquet and sends invitations out to many, a standard first-invitation that expected a second summons when the meal was ready."
+    },
+    {
+      "v": 17,
+      "text": "He sent out his servant at supper time to tell those who were invited, ‘Come, for everything is ready now.’",
+      "understanding": "The second summons arrives: 'Come, for everything is ready now.' Nothing is lacking, nothing is owed. The only thing required of the guests is to show up."
+    },
+    {
+      "v": 18,
+      "text": "They all as one began to make excuses.\n“The first said to him, ‘I have bought a field, and I must go and see it. Please have me excused.’",
+      "understanding": "'They all as one began to make excuses' — a unified, almost rehearsed refusal. The first pleads a field he has already bought, as if property could not wait a single evening.",
+      "words": [
+        {
+          "strongs": "G3868",
+          "hebrew": "παραιτέομαι",
+          "translit": "paraitéomai",
+          "english": "make excuses"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "“Another said, ‘I have bought five yoke of oxen, and I must go try them out. Please have me excused.’",
+      "understanding": "The second pleads five yoke of oxen he must go inspect. Business, again, is placed above the banquet, as though commerce could not survive one shared meal."
+    },
+    {
+      "v": 20,
+      "text": "“Another said, ‘I have married a wife, and therefore I can’t come.’",
+      "understanding": "The third pleads a new wife, the most human excuse of all, and no less an excuse for being human. Notice he does not even ask to be excused; he simply announces he 'can't come.'"
+    },
+    {
+      "v": 21,
+      "text": "“That servant came, and told his lord these things. Then the master of the house, being angry, said to his servant, ‘Go out quickly into the streets and lanes of the city, and bring in the poor, maimed, blind, and lame.’",
+      "understanding": "The master's response to the snub is holy anger, followed by a stunning reversal. He calls in from the city streets the poor, maimed, blind, and lame, the exact list Jesus gave His host in verse 13."
+    },
+    {
+      "v": 22,
+      "text": "“The servant said, ‘Lord, it is done as you commanded, and there is still room.’",
+      "understanding": "The outcasts are gathered, 'and there is still room.' Grace has far more capacity than the respectable ever imagined; the table is bigger than their guest list."
+    },
+    {
+      "v": 23,
+      "text": "“The lord said to the servant, ‘Go out into the highways and hedges, and compel them to come in, that my house may be filled.",
+      "understanding": "Now the search widens past the city to the roads and hedgerows where outsiders and vagrants shelter. 'Compel them to come in' is not force but urgent, insistent love that will not take a shrug for an answer until the house is full.",
+      "words": [
+        {
+          "strongs": "G315",
+          "hebrew": "ἀναγκάζω",
+          "translit": "anankázō",
+          "english": "compel"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "For I tell you that none of those men who were invited will taste of my supper.’”",
+      "understanding": "The verdict falls on those first invited: not one of them will so much as taste the supper. The polite excuse became the final exclusion; the door they declined to enter closed."
+    },
+    {
+      "v": 25,
+      "text": "Now great multitudes were going with him. He turned and said to them,",
+      "understanding": "The scene shifts from the table to the road. Great crowds are traveling with Jesus toward Jerusalem, and He turns to thin the crowd with the truth rather than swell it with a discount."
+    },
+    {
+      "v": 26,
+      "text": "“If anyone comes to me, and doesn’t disregard\nhis own father, mother, wife, children, brothers, and sisters, yes, and his own life also, he can’t be my disciple.",
+      "understanding": "To follow Jesus, every other love must become 'hate' by comparison, even the love of your own life. This is not literal hatred but such supremacy of allegiance to Christ that all other bonds look like nothing beside Him.",
+      "words": [
+        {
+          "strongs": "G3404",
+          "hebrew": "μισέω",
+          "translit": "miséō",
+          "english": "disregard (hate)"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "Whoever doesn’t bear his own cross, and come after me, can’t be my disciple.",
+      "understanding": "Discipleship means carrying your own cross, the instrument of your execution, down the road behind a Lord who is walking to His. There is no other kind of disciple.",
+      "words": [
+        {
+          "strongs": "G4716",
+          "hebrew": "σταυρός",
+          "translit": "staurós",
+          "english": "cross"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "For which of you, desiring to build a tower, doesn’t first sit down and count the cost, to see if he has enough to complete it?",
+      "understanding": "Jesus calls for eyes-open commitment. A man who wants to build a tower first sits down and calculates whether he can finish it. Following Christ is meant to be entered soberly, not on a wave of emotion.",
+      "words": [
+        {
+          "strongs": "G5585",
+          "hebrew": "ψηφίζω",
+          "translit": "psēphízō",
+          "english": "count the cost"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "Or perhaps, when he has laid a foundation, and is not able to finish, everyone who sees begins to mock him,",
+      "understanding": "The unfinished foundation becomes a public monument to presumption. The man who started what he could not complete is mocked by everyone who passes by."
+    },
+    {
+      "v": 30,
+      "text": "saying, ‘This man began to build, and wasn’t able to finish.’",
+      "understanding": "The mockers name the failure exactly: he began but could not finish. A half-built discipleship that collapses under cost dishonors the very Name it claimed."
+    },
+    {
+      "v": 31,
+      "text": "Or what king, as he goes to encounter another king in war, will not sit down first and consider whether he is able with ten thousand to meet him who comes against him with twenty thousand?",
+      "understanding": "The second illustration raises the stakes from money to survival. A king outnumbered two-to-one sits down and weighs whether he can win before he marches. Following Jesus is a matter of that seriousness."
+    },
+    {
+      "v": 32,
+      "text": "Or else, while the other is yet a great way off, he sends an envoy, and asks for conditions of peace.",
+      "understanding": "If he cannot win, the wise king sues for peace while there is still distance. The point is not retreat from Christ but honest reckoning with what allegiance to Him will demand."
+    },
+    {
+      "v": 33,
+      "text": "So therefore whoever of you who doesn’t renounce all that he has, he can’t be my disciple.",
+      "understanding": "Here is the bottom line of both illustrations: whoever does not renounce all that he has cannot be Jesus' disciple. Everything is laid on the altar, or nothing truly is.",
+      "words": [
+        {
+          "strongs": "G657",
+          "hebrew": "ἀποτάσσομαι",
+          "translit": "apotássomai",
+          "english": "renounce"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "text": "Salt is good, but if the salt becomes flat and tasteless, with what do you season it?",
+      "understanding": "Salt is only good while it is salty. A disciple who has surrendered nothing and lost his distinctiveness is like salt gone flat, retaining the name but none of the effect.",
+      "words": [
+        {
+          "strongs": "G217",
+          "hebrew": "ἅλας",
+          "translit": "hálas",
+          "english": "salt"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "text": "It is fit neither for the soil nor for the manure pile. It is thrown out. He who has ears to hear, let him hear.”",
+      "understanding": "Flavorless salt is useless for anything, not even good as fertilizer; it is simply thrown out onto the road and trampled. Jesus seals the whole chapter with a summons to actually listen: 'He who has ears to hear, let him hear.'"
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Man Swollen With Water He Cannot Drink",
+      "verseRef": "v. 2",
+      "image": "Picture him standing at the front of the room where everyone can see: a body bloated and heavy with dropsy, limbs stretched tight with fluid that will not drain, skin taut and shining. He is drowning on dry land, retaining water yet dying of thirst, every step a labor under his own swollen weight. And he has been positioned here, on purpose, in the exact line of Jesus' sight, like a baited hook in the middle of the Sabbath dinner.",
+      "meaning": "The dropsical man is, without knowing it, a mirror of the men who set the trap. They too are swollen, bloated with self-importance, retaining the honor they keep drinking in yet never satisfied by it, heavier and thirstier with every seat of prestige. Jesus heals the outward swelling in a moment; the harder disease is the one seated at the table watching Him, swollen with a religion that has lost the power to feel mercy."
+    },
+    {
+      "title": "The Long Walk to the Lowest Place",
+      "verseRef": "v. 8-10",
+      "image": "See the banquet hall, couches arranged in a U around the low tables, the seats nearest the host glowing with prestige. The guests arrive and the quiet scramble begins, each drifting toward the higher couches, angling for the place that says 'I matter.' Then the door opens, someone greater walks in, and the host crosses the room to a man reclining too high: 'Make room for this person.' Now watch the walk. Cheeks burning, eyes down, the whole hall silent, he rises and takes the long, exposed march to the very last seat by the door.",
+      "meaning": "In that culture honor was the true currency, and this humiliation was a social wound that could last for years. Jesus takes an everyday scene of status-anxiety and turns it into a map of the soul before God. Grab for exaltation and you set yourself up for the descent; choose the lowest seat and the only voice that can lift you, the Host's own voice, says, 'Friend, move up higher.' Honor in the Kingdom is never seized. It is always given."
+    },
+    {
+      "title": "Supper Is Ready and Nobody Comes",
+      "verseRef": "v. 16-20",
+      "image": "The great house blazes with light. The tables groan with food, the meat is carved, the wine is poured, everything steams and glistens, ready this instant. The servant runs from door to door with the best news in the city: 'Come, for everything is ready now.' And door after door, the answer is the same shrug. A field. Some oxen. A wedding. One by one the lamps of those houses turn away from the feast, and the servant walks back alone through streets full of people who were simply too busy to eat.",
+      "meaning": "None of these excuses is a sin on its face; a field, livestock, a marriage are all good gifts. That is the terror of the parable. It is not scandalous evil that keeps people from God's table but respectable good things allowed to arrive one hour too late. The invitation had no cost and no catch, only a summons to come. What damned the guests was not that they hated the master but that they had something better to do than feast with him."
+    },
+    {
+      "title": "Salt Trampled on the Road",
+      "verseRef": "v. 34-35",
+      "image": "A handful of salt that has gone flat, leached of its savor, sitting useless in the palm. You cannot re-salt salt; there is nothing left to restore it with. It is no good in the field, where it would only poison the ground, and no good even on the manure pile. So it is flung out the door onto the footpath, where it lies white and worthless, ground into the dirt under the heels of everyone who walks by.",
+      "meaning": "Jesus caps the discipleship teaching with this because a disciple who has surrendered nothing is exactly this salt. He still carries the name, still sits near the Kingdom, but has lost the one property that made him useful, his sharp, preserving, distinct saltiness. Uncounted cost produces flavorless faith. And flavorless faith is not merely weak; Jesus says it is thrown out to be trampled, fit for nothing."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Sabbath Healing and the Silent Trap (v. 1-6)",
+        "body": "At a Pharisee's table Jesus heals a man with dropsy and silences His watchers with their own logic about rescuing an ox on the Sabbath."
+      },
+      {
+        "label": "The Parable of the Lowest Seat (v. 7-11)",
+        "body": "Watching guests grab for honor, Jesus teaches that the way up in the Kingdom is deliberately down."
+      },
+      {
+        "label": "The Guest List of Grace (v. 12-14)",
+        "body": "Jesus tells His host to invite the poor who cannot repay, because God repays at the resurrection of the righteous."
+      },
+      {
+        "label": "The Parable of the Great Banquet (v. 15-24)",
+        "body": "The invited make excuses, so the master fills his house with the poor and the outsiders and shuts out those who declined."
+      },
+      {
+        "label": "The Cost of Discipleship (v. 25-33)",
+        "body": "To the crowds Jesus lays out the terms: love Him above all, bear your cross, and, like a builder or a king, count the cost and renounce everything."
+      },
+      {
+        "label": "Salt That Has Lost Its Savor (v. 34-35)",
+        "body": "A disciple who surrenders nothing is flavorless salt, useless and thrown out; he who has ears, let him hear."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Table as Battlefield and Sanctuary",
+        "paragraphs": [
+          "Luke loves a table. More than any other Gospel he seats Jesus at meals, and here the whole chapter unfolds around a single Sabbath dinner and the banquet parable it provokes. But notice what a table exposes. It is where honor is negotiated (who reclines where), where obligation is traded (who invites whom), and where the heart's real hungers surface. Jesus walks into a meal that is really an ambush, verse 1 tells us plainly that 'they were watching him,' and He turns the ambush into a classroom on the Kingdom of God.",
+          "What He teaches at that table is a single, unbroken logic of reversal. The way up is down (v. 7-11). The way to be repaid is to give where no repayment is possible (v. 12-14). The way into the feast is to have empty enough hands to actually come (v. 15-24). Every movement of the chapter is the same divine gravity: God resists the swollen and lifts the low. The dropsical man swollen with water and the Pharisees swollen with status are the same picture; only one of them knows he needs healing."
+        ]
+      },
+      {
+        "heading": "The Free Feast and the Total Cost — How Both Are True",
+        "paragraphs": [
+          "This is the chapter's hard hinge, and it must not be softened. In the first half the banquet is utterly free: the guests are the poor, the maimed, the blind, and the lame, chosen precisely 'because they don't have the resources to repay you' (v. 14), and the outsiders on the highways must be compelled in because they cannot believe such a table is really for them. Nothing is bought. Nothing is owed. Then, in the same chapter, Jesus turns to the crowds and says that unless you disregard father and mother, carry your own cross, and 'renounce all that he has,' you cannot be His disciple (v. 26, 27, 33). Free feast, total cost, side by side. How?",
+          "Because they are answering two different questions. The banquet answers, 'What does it cost to be invited?' Nothing. You cannot earn a seat you were too poor to buy; grace drags you in off the road. The cross answers, 'What does it cost to follow the One who invited you?' Everything. The gift is free, but the Giver is Lord, and you cannot receive Him with one hand while keeping your old life in the other. The poor man who comes to the feast comes with empty hands precisely because he has let go of everything else to get there. Cheap grace hears only the first half and produces flavorless salt. The truth of the truth holds both: the door is free, and the road is a cross."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The beatitude that triggers the banquet parable, 'Blessed is he who will feast in God's Kingdom!' (v. 15), is not left as sentiment; it is fulfilled and answered at the very end of the Bible. In Revelation 19:9 an angel commands John: 'Write, \"Blessed are those who are invited to the marriage supper of the Lamb.\"' The great supper of Luke 14 is a preview of that final wedding feast, and the terrifying warning stands the same at both ends of Scripture, that many who assumed they were invited will find they excused themselves away. The guest at the Pharisee's table pronounced the blessing over himself; Jesus' parable asked whether he would actually answer the summons when it came.",
+        "And the chapter's axis-verse, 'everyone who exalts himself will be humbled, and whoever humbles himself will be exalted' (v. 11), is embodied in Jesus Himself. Philippians 2:8-9 traces the exact arc: 'he humbled himself, becoming obedient to death, yes, the death of the cross. Therefore God also highly exalted him.' The One who told the disciples to take the lowest seat and bear their cross walked that road first, down to the lowest place of a Roman execution, and was lifted by the Father to the highest seat in the universe. The law of the lowest seat is not merely an ethic Jesus taught; it is the story Jesus lived."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Humble / Exalt",
+      "hebrew": "ταπεινόω",
+      "translit": "tapeinóō",
+      "strongs": "G5013 (paired with ὑψόω, G5312)",
+      "verses": "v. 11",
+      "insight": "Tapeinóō means literally to press down, to make low, to bring low in condition or in heart; its opposite in the same verse is hypsóō (G5312), to lift up or elevate. The stunning thing is the passive voice: 'will be humbled... will be exalted.' These are things done to you, not by you. Grab the high seat and God's hand brings you down; take the low seat and God's hand lifts you up. The verb quietly names the Actor behind every reversal in the chapter — it is God who resists the swollen and raises the lowly."
+    },
+    {
+      "english": "The Poor",
+      "hebrew": "πτωχός",
+      "translit": "ptōchós",
+      "strongs": "G4434",
+      "verses": "v. 13, 21",
+      "insight": "This is one of Luke's signature words, and it is fierce. Ptōchós does not mean merely a man of modest means (that is pénēs); it comes from a root meaning to crouch or cringe, and it denotes the beggar in absolute, destitute poverty, the one who has nothing and can produce nothing. This is who God commands onto the guest list, and who the master hauls in from the streets. The Kingdom's table is set for people who cannot pretend to pay, which is a mirror held up to every proud heart: before God, that beggar is you."
+    },
+    {
+      "english": "Compel",
+      "hebrew": "ἀναγκάζω",
+      "translit": "anankázō",
+      "strongs": "G315",
+      "verses": "v. 23",
+      "insight": "From anankē, necessity or constraint, anankázō means to necessitate, to press with strong urgency. It is the word that has been abused to justify forced conversion, but in the parable it is aimed at the outsiders on the highways and hedges, the ones so far outside the social circle they cannot believe the invitation is real. You do not force such a person with a sword; you overcome their disbelief with insistent, urgent love that will not let them shrug the feast away. It is the constraint of a servant grabbing a startled beggar by the arm and saying, 'No, he really means you.'"
+    },
+    {
+      "english": "Disregard (Hate)",
+      "hebrew": "μισέω",
+      "translit": "miséō",
+      "strongs": "G3404",
+      "verses": "v. 26",
+      "insight": "The word Jesus uses of one's father, mother, wife, children, and even one's own life is miséō, to detest, to hate. This is Semitic idiom for radical comparison, not literal malice, as Scripture elsewhere makes plain when it says God 'loved Jacob and hated Esau,' meaning He chose one over the other. Jesus is demanding not cruelty toward family but such supreme allegiance to Himself that every rival love looks, by comparison, like hatred. The deliberate harshness of the word is the point: He will not be one priority among many. He is either first past all comparison, or He is not truly followed at all."
+    },
+    {
+      "english": "Count the Cost",
+      "hebrew": "ψηφίζω",
+      "translit": "psēphízō",
+      "strongs": "G5585",
+      "verses": "v. 28",
+      "insight": "Psēphízō comes from psēphos, a small pebble, and it means literally to reckon with pebbles, the way an ancient person did arithmetic by laying out stones on a counting board. It is deliberate, physical, unhurried calculation, one stone at a time. Jesus is not recruiting on impulse or emotional high; He wants disciples who have sat down and laid out the stones of what following will cost — reputation, relationships, comfort, the old self — and decided to build anyway. Faith that has never counted its pebbles is the half-built tower the whole town mocks."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the hidden pride of the religious heart and with the reasonable excuses that keep you out of the very feast you say you want.",
+    "items": [
+      {
+        "title": "The Seat You Choose When You Think No One Sees",
+        "body": "The scramble in verse 7 is not just an ancient dinner problem; it is your résumé, your feed, the way you steer conversations back toward your own accomplishments, the quiet ache to be recognized. Jesus is not asking you to fake false modesty. He is asking you to actually take the low seat and leave your exaltation entirely in the hands of the Host. Here is the challenge: is there a place in your life right now where you are jockeying for a seat, promoting yourself, angling for honor that you are afraid God will not give you unless you grab it? What would it look like this week to sit down lower on purpose and wait for Him to say, 'Friend, move up higher'?"
+      },
+      {
+        "title": "The Excuse That Sounds Completely Reasonable",
+        "body": "Look hard at the excuses in verses 18 to 20: a field, some oxen, a wife. Not one of them is a sin. That is precisely why this parable should make you tremble, because the things most likely to keep you from God's table are not your vices but your legitimate goods, allowed to arrive one hour too late. What is the 'field' you keep going to inspect instead of coming to the feast? The 'oxen' of work you must attend to first? The relationship you have quietly let outrank Him? The Spirit is asking: when God says 'Come, everything is ready now,' what is the good and reasonable thing you keep answering Him with?"
+      },
+      {
+        "title": "Have You Actually Counted the Cost?",
+        "body": "Jesus does the opposite of what every recruiter and marketer does. With great crowds thronging Him, He turns and tries to thin them out with the raw price: cross, renunciation, everything. He would rather have you sober than swept up. So sit down with the pebbles. Have you ever really reckoned what it costs to follow Him, or are you a foundation with no tower, a faith that got excited but never surrendered, salt with the name but not the savor? The challenge is not to walk away discouraged; it is to count honestly and then, eyes open, build anyway. What is the one thing you still have not laid on the altar?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Lowest-Seat Check",
+        "body": "Where are you currently seating yourself higher than you ought — steering credit toward yourself, competing for status, quietly resenting when someone else is honored? Would you dare to take the low place and trust God alone to lift you, or does that feel like a risk you cannot afford?"
+      },
+      {
+        "title": "The Repayment Check",
+        "body": "Look honestly at who you invite, help, and pour into. Is your generosity secretly a transaction, aimed at people who can advance you, repay you, or make you look good? When did you last spend yourself on someone who could give you absolutely nothing back?"
+      },
+      {
+        "title": "The Uncounted-Cost Check",
+        "body": "Is there a part of your life you have quietly walled off from Christ's lordship — a relationship, an ambition, a possession, a fear — that you have never actually renounced? Are you a full tower or a mocked, half-built foundation, salt with savor or salt gone flat?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Set a Table for Someone Who Cannot Repay You",
+        "body": "This week, do verse 13 literally. Choose one person who can give you nothing back — someone poor, lonely, overlooked, or outside your usual circle — and deliberately spend on them: a meal you cook and share, money given with no one watching, an afternoon of your time. As you do it, refuse every impulse to be seen or thanked, and say quietly, 'Lord, this one is for the resurrection of the righteous, not for repayment now.'"
+      },
+      {
+        "title": "Count Your Cost on Paper",
+        "body": "Tonight, take ten minutes, sit down, and lay out the pebbles like the tower-builder. On one side write what following Jesus fully will cost you specifically — name the relationship, the habit, the ambition, the comfort. On the other side write the feast: the free table, the seat He gives, the honor from His own hand. Then, over the list of costs, write and pray aloud a sentence of renunciation: 'I renounce my claim on all of this, and I follow You.'"
+      }
+    ]
+  },
+  "prayerReflection": "\"Father, I come to Your table as a beggar with empty hands, because that is exactly what I am. I confess how often I have scrambled for the best seat, promoting myself, aching to be seen, grabbing at honor I was afraid You would never give me. Teach me to take the lowest place and to trust You, and You alone, to say, 'Friend, move up higher.' Forgive me for the reasonable excuses — the field, the oxen, the good things I keep answering You with when You say, 'Come, everything is ready now.' I do not want to be one who was invited and never tasted the supper. So today I count the cost with open eyes: I lay down every rival love, every possession, every ambition, and I take up my cross to come after You. Make me salt that has not lost its savor, a disciple who has actually surrendered and not merely admired You from the table. Thank You that the door is free even though the road is a cross, and that You walked the road first, humbling Yourself to the lowest place so that I could be lifted. Fill Your house with me among the poor You compelled in. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "Mephibosheth at the King's Table",
+      "ref": "2 Samuel 9",
+      "relatedVerses": "v. 13-14, 21",
+      "summary": "Mephibosheth was the crippled grandson of Saul, lame in both feet, living in exile in a place called Lo-debar, which means 'no pasture' — a nobody in a nowhere, with nothing to offer. Then King David, for the sake of his covenant with Jonathan, sent and brought this lame outsider to the palace and set him at the royal table to eat 'as one of the king's sons' continually. He could never repay the king; that was the whole point. It is Luke 14 in the flesh: the lame and the poor, who have no resources to repay, seated by sheer covenant grace at the table of the King, an emblem of every sinner dragged in off the road to feast where he could never have bought a seat."
+    },
+    {
+      "title": "The Elder Brother Who Would Not Come In",
+      "ref": "Luke 15:25-32",
+      "relatedVerses": "v. 15-24",
+      "summary": "One chapter later Luke shows us the excuse-makers again, this time as the elder son. When the father throws a great feast for the returned prodigal, the elder brother stands outside in his self-righteous anger and refuses to enter, so the father comes out and pleads with him — echoing the master who sends his servant out to plead and compel. Both stories end at a full feast with someone deliberately standing outside it, offended, arms folded, missing the joy over a technicality of merit. The prodigal, penniless and undeserving, feasts; the respectable brother, who never counted himself poor, will not come in. It is the same warning Jesus pressed at the Pharisee's table: it is not the sinners but the self-satisfied who are in gravest danger of excusing themselves out of the Kingdom."
+    }
+  ]
+}

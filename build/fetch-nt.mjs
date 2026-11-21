@@ -1,7 +1,7 @@
 /* Fetch the World English Bible text for every New Testament chapter into
    sources/bible/<book>-<n>.json. Polite, rate-limit-aware, resumable
    (skips chapters already on disk). Run: node build/fetch-nt.mjs */
-import { writeFileSync, existsSync, mkdirSync } from 'node:fs';
+import { writeFileSync, existsSync, mkdirSync, readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -28,8 +28,12 @@ const API = {
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
+// Single-chapter books: bible-api reads "jude 1" as Jude 1:1 (one verse), so ask for the full range.
+const SINGLE = { philemon: 25, '2john': 13, '3john': 15, jude: 25 };
+
 async function fetchChapter(id, ch) {
-  const q = encodeURIComponent((API[id] || id) + ' ' + ch);
+  const ref = SINGLE[id] ? `${ch}:1-${SINGLE[id]}` : String(ch);
+  const q = encodeURIComponent((API[id] || id) + ' ' + ref);
   const url = `https://bible-api.com/${q}?translation=web`;
   for (let attempt = 1; attempt <= 6; attempt++) {
     try {
@@ -50,7 +54,11 @@ let done = 0, skipped = 0, failed = [];
 for (const [id, chapters] of BOOKS) {
   for (let ch = 1; ch <= chapters; ch++) {
     const path = join(OUT, `${id}-${ch}.json`);
-    if (existsSync(path)) { skipped++; continue; }
+    if (existsSync(path)) {
+      // Re-fetch single-chapter books saved by the old one-verse bug.
+      const have = JSON.parse(readFileSync(path, 'utf8')).verses?.length ?? 0;
+      if (!(SINGLE[id] && have < SINGLE[id])) { skipped++; continue; }
+    }
     try {
       const data = await fetchChapter(id, ch);
       writeFileSync(path, JSON.stringify(data, null, 2), 'utf8');

@@ -1,0 +1,911 @@
+{
+  "type": "chapterStudy",
+  "book": "Ephesians",
+  "chapter": 1,
+  "chapterTitle": "Every Spiritual Blessing — The Sentence That Would Not Stop and the Prayer That Never Asked for Release",
+  "themeTitle": "“One Long Sentence With Your Name In It — And Not One Verb Is Yours”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Paul, an apostle of Christ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus:",
+      "understanding": "Paul names himself apostolos — a delegate sent carrying the authority of the sender — and in the same breath removes himself from the appointment: it came “through the will of God” (thélēma), the word that governs this entire chapter (v. 5, 9, 11). He writes it with iron on his wrist. And here is a textual fact that helps rather than unsettles: the words “at Ephesus” are absent from the earliest and best manuscripts, which is a large part of why this letter names no individual and corrects no local crisis — it was almost certainly a circular letter carried round the churches of Asia by Tychicus (6:21-22), with a blank left where the reader’s own city belonged. Put your city in the blank.",
+      "words": [
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostle"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+      "understanding": "Not filler. In every letter Paul ever wrote, grace comes first and peace comes second, and never once the other way round — because peace is not the root, it is the fruit. Charis is the favour that was never owed; eirēnē is what arrives in a man once that favour has settled the question of where he stands. And both flow from a single source named in one breath: “God our Father and the Lord Jesus Christ.”",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ;",
+      "understanding": "In Greek this verse opens a single sentence that does not stop until verse 14 — over two hundred words, one of the longest sentences in the New Testament, a prisoner who starts blessing God and cannot find anywhere to put a full stop. Three words from one root stack up in a line: Blessed be (eulogētós) the God who has blessed (eulogéō) us with every blessing (eulogía). Then read the tense and the quantity: has blessed, past, finished — and EVERY spiritual blessing, not a starter package. And note the address: not “on earth once your circumstances improve” but “in the heavenly places,” the first of five uses of a phrase found nowhere in the New Testament outside this letter.",
+      "words": [
+        {
+          "strongs": "G2128",
+          "hebrew": "εὐλογητός",
+          "translit": "eulogētós",
+          "english": "Blessed be"
+        },
+        {
+          "strongs": "G2127",
+          "hebrew": "εὐλογέω",
+          "translit": "eulogéō",
+          "english": "has blessed"
+        },
+        {
+          "strongs": "G2129",
+          "hebrew": "εὐλογία",
+          "translit": "eulogía",
+          "english": "blessing"
+        },
+        {
+          "strongs": "G4152",
+          "hebrew": "πνευματικός",
+          "translit": "pneumatikós",
+          "english": "spiritual"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly places"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love;",
+      "understanding": "Now the sentence runs backwards — past your birth, past Abraham, past Adam — to “before the foundation of the world.” Katabolḗ is the laying down of a foundation: before there was a world to be saved, a decision had already been made about you. Eklégomai is middle voice — He chose for Himself. And do not skip the purpose clause that Paul attaches: He chose you “that we would be holy and without defect before him” — ámōmos, the Greek Old Testament’s word for a sacrificial animal with no blemish. Election is not a licence. It is a destination.",
+      "words": [
+        {
+          "strongs": "G1586",
+          "hebrew": "ἐκλέγομαι",
+          "translit": "eklégomai",
+          "english": "chose"
+        },
+        {
+          "strongs": "G2602",
+          "hebrew": "καταβολή",
+          "translit": "katabolḗ",
+          "english": "foundation"
+        },
+        {
+          "strongs": "G299",
+          "hebrew": "ἄμωμος",
+          "translit": "ámōmos",
+          "english": "without defect"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire,",
+      "understanding": "Proorízō is pro (before) plus horízō — to set a boundary in advance. The decision about you was not merely early; it was bounded, surveyed, definite, made before there was any ground to drive a peg into. And read what the boundary encloses: not merely rescue but huiothesía, “the placing as a son” — in Roman law an irreversible act that cancelled old debts, conferred a new name, and granted inheritance rights that later disappointment could not revoke. Then the motive, and it is the most healing clause in the chapter: “according to the good pleasure of his desire.” Eudokía is delight. He did not adopt you reluctantly, under pressure, or as damage control. It pleased Him.",
+      "words": [
+        {
+          "strongs": "G4309",
+          "hebrew": "προορίζω",
+          "translit": "proorízō",
+          "english": "having predestined"
+        },
+        {
+          "strongs": "G5206",
+          "hebrew": "υἱοθεσία",
+          "translit": "huiothesía",
+          "english": "adoption"
+        },
+        {
+          "strongs": "G2107",
+          "hebrew": "εὐδοκία",
+          "translit": "eudokía",
+          "english": "good pleasure"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "desire"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "to the praise of the glory of his grace, by which he freely gave us favor in the Beloved,",
+      "understanding": "The first of three refrains lands here, closing the Father’s movement: “to the praise of the glory of his grace.” The ultimate purpose of your salvation is not your comfort — it is God’s praise, and that is better news than it sounds, because it means your standing rests on something that cannot fluctuate. “Freely gave us favor” is one verb, charitóō, built straight out of cháris: to grace someone, to surround them with favour. It occurs only twice in the whole New Testament — here, and in Luke 1:28, where an angel speaks it over Mary. What was said over her is said over you “in the Beloved.”",
+      "words": [
+        {
+          "strongs": "G1868",
+          "hebrew": "ἔπαινος",
+          "translit": "épainos",
+          "english": "praise"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G5487",
+          "hebrew": "χαριτόω",
+          "translit": "charitóō",
+          "english": "freely gave us favor"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,",
+      "understanding": "The Son’s movement opens with a price tag. Apolýtrōsis is the ransom paid to release a slave or a prisoner of war — Strong’s renders it “ransom in full” — and Paul immediately names the currency: “through his blood.” Then áphesis, release, the letting-go of a debt, over paráptōma, a side-slip, a falling where you should have stood. And weigh the last phrase precisely: not out of the riches of His grace but ACCORDING TO them. A wealthy man’s gift measured out of his pocket is small change; measured according to his wealth it is enormous.",
+      "words": [
+        {
+          "strongs": "G629",
+          "hebrew": "ἀπολύτρωσις",
+          "translit": "apolýtrōsis",
+          "english": "redemption"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G859",
+          "hebrew": "ἄφεσις",
+          "translit": "áphesis",
+          "english": "forgiveness"
+        },
+        {
+          "strongs": "G3900",
+          "hebrew": "παράπτωμα",
+          "translit": "paráptōma",
+          "english": "trespasses"
+        },
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "riches"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "which he made to abound toward us in all wisdom and prudence,",
+      "understanding": "Grace does not merely arrive; it overflows — and what it overflows into is intelligence. Sophía is wisdom, the grasp of things as they actually are; phrónēsis is that wisdom brought down into decisions, practical insight in the traffic of an ordinary week. God’s answer to a confused life is not more information. It is grace made to abound in both directions at once — seeing truly, and then knowing what to do on Tuesday.",
+      "words": [
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G5428",
+          "hebrew": "φρόνησις",
+          "translit": "phrónēsis",
+          "english": "prudence"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "making known to us the mystery of his will, according to his good pleasure which he purposed in him",
+      "understanding": "Mystḗrion in the New Testament never means a riddle nobody can crack. It means a secret that was hidden and has now been told. God has not left His purpose for history locked in a drawer marked private — He has “made known” His will, and the people He told were not emperors or angels but a scattered congregation of ex-idolaters in Asia Minor. And once again the ground of it all is His own good pleasure, purposed in Christ before it was announced to anyone.",
+      "words": [
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mystery"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G2107",
+          "hebrew": "εὐδοκία",
+          "translit": "eudokía",
+          "english": "good pleasure"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "to an administration of the fullness of the times, to sum up all things in Christ, the things in the heavens, and the things on the earth, in him;",
+      "understanding": "Oikonomía is house-management, the running of a great estate: God is administering history like a steward working to a schedule, toward a “fullness of the times” already fixed. Then comes the word that holds the universe together — anakephalaíomai, to sum up, to bring under one head. Read the scope before you shrink it: “the things in the heavens, and the things on the earth.” Both halves, the seen world and the unseen one. Whatever else is true of history, it is not drifting and it is not going round in circles — it is being gathered. And the point it is being gathered to is not a principle or a programme but a Person.",
+      "words": [
+        {
+          "strongs": "G3622",
+          "hebrew": "οἰκονομία",
+          "translit": "oikonomía",
+          "english": "administration"
+        },
+        {
+          "strongs": "G4138",
+          "hebrew": "πλήρωμα",
+          "translit": "plḗrōma",
+          "english": "fullness"
+        },
+        {
+          "strongs": "G346",
+          "hebrew": "ἀνακεφαλαίομαι",
+          "translit": "anakephalaíomai",
+          "english": "to sum up"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "in whom also we were assigned an inheritance, having been foreordained according to the purpose of him who does all things after the counsel of his will;",
+      "understanding": "Klēróō is to allot by lot, to assign a portion — the vocabulary of Israel receiving the land parcel by parcel. You have been handed a share in an estate you did not earn and cannot forfeit. And then the widest clause in the chapter is laid underneath it as a guarantee: God “does all things after the counsel of his will.” Boulḗ is deliberate counsel — a decision weighed and settled, never a reaction. Nothing in your life has caught Him off guard, and nothing in it is running outside His counsel.",
+      "words": [
+        {
+          "strongs": "G2820",
+          "hebrew": "κληρόω",
+          "translit": "klēróō",
+          "english": "were assigned an inheritance"
+        },
+        {
+          "strongs": "G4309",
+          "hebrew": "προορίζω",
+          "translit": "proorízō",
+          "english": "foreordained"
+        },
+        {
+          "strongs": "G4286",
+          "hebrew": "πρόθεσις",
+          "translit": "próthesis",
+          "english": "purpose"
+        },
+        {
+          "strongs": "G1012",
+          "hebrew": "βουλή",
+          "translit": "boulḗ",
+          "english": "counsel"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "to the end that we should be to the praise of his glory, we who had before hoped in Christ.",
+      "understanding": "The second refrain closes the Son’s movement exactly where the Father’s closed — “to the praise of his glory.” And watch the pronoun turn: “WE who had before hoped in Christ.” Proelpízō means to hope in advance, and it most naturally names Paul and his fellow Jewish believers, who had hoped in Messiah before Messiah came. Verse 13 will then swing round and say “In him YOU also” to Gentiles who had no such history. The middle wall of chapter 2 is already cracking here, two verses before you notice it.",
+      "words": [
+        {
+          "strongs": "G1868",
+          "hebrew": "ἔπαινος",
+          "translit": "épainos",
+          "english": "praise"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G4276",
+          "hebrew": "προελπίζω",
+          "translit": "proelpízō",
+          "english": "had before hoped"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,",
+      "understanding": "The Spirit’s movement opens — and it opens with your own biography in three steps: you heard, you believed, you were sealed. Note the order and refuse to rearrange it: the word of truth comes first, faith comes at the sound of it, the seal follows. Sphragízō is what a merchant did to a crate and a king to a document — a mark saying three things at once: this is mine, this is genuine, and whoever breaks this answers to me. And the seal was not a feeling, a certificate, or a second-stage experience to chase. The seal is a Person: “you were sealed with the promised Holy Spirit.” You did not stamp yourself, which is precisely why you cannot un-stamp yourself.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "having heard"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        },
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "salvation"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "having also believed"
+        },
+        {
+          "strongs": "G4972",
+          "hebrew": "σφραγίζω",
+          "translit": "sphragízō",
+          "english": "you were sealed"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promised"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory.",
+      "understanding": "Arrhabṓn is a commercial word Paul borrows off the docks: the first instalment of a purchase price, handed over in front of witnesses as legal security that the rest is coming. Two things follow and both are pastoral. First, a deposit is the same substance as the full payment — so the Holy Spirit in you is not a token of glory, He is the first part of it, and glory will simply be more of Him. Second, a deposit binds the buyer, not the goods. It commits God. And what He is buying back in full is “God’s own possession” — peripoíēsis, an acquisition. Then the third refrain falls and the great sentence finally stops: “to the praise of his glory.”",
+      "words": [
+        {
+          "strongs": "G728",
+          "hebrew": "ἀῤῥαβών",
+          "translit": "arrhabṓn",
+          "english": "pledge"
+        },
+        {
+          "strongs": "G2817",
+          "hebrew": "κληρονομία",
+          "translit": "klēronomía",
+          "english": "inheritance"
+        },
+        {
+          "strongs": "G629",
+          "hebrew": "ἀπολύτρωσις",
+          "translit": "apolýtrōsis",
+          "english": "redemption"
+        },
+        {
+          "strongs": "G4047",
+          "hebrew": "περιποίησις",
+          "translit": "peripoíēsis",
+          "english": "possession"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which you have toward all the saints,",
+      "understanding": "The sentence ends and the prayer begins. Paul has heard two things about them, and they are the only two things he ever asks about a church: faith toward the Lord Jesus, and love toward the saints. Vertical and horizontal, and neither one is optional. Do not slide past the word “all” — not the saints you find agreeable, not the ones from your background or your wing of the church. All. In a congregation of Jews and ex-pagans, that word cost something.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "don’t cease to give thanks for you, making mention of you in my prayers,",
+      "understanding": "A man under Roman guard says he does not stop giving thanks. Not “I’ll pray for you sometime” — mneía is deliberate recollection, the naming of specific people before God. If you want to know what Paul did with his chains, this verse is the answer: he prayed by name, continually, for churches that were free and for people he might never see again.",
+      "words": [
+        {
+          "strongs": "G2168",
+          "hebrew": "εὐχαριστέω",
+          "translit": "eucharistéō",
+          "english": "give thanks"
+        },
+        {
+          "strongs": "G3417",
+          "hebrew": "μνεία",
+          "translit": "mneía",
+          "english": "making mention"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "that the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the knowledge of him;",
+      "understanding": "The first request of a prisoner is not protection, provision, or release. It is a spirit of wisdom and apokálypsis — an uncovering, the pulling back of a veil from something that was always there. And the destination of the revelation is not information about God but epígnōsis of Him — full, recognising, experiential knowledge, the difference between knowing about a man and knowing him. Paul prays that people who already own every blessing of verse 3 would come to know the One who gave them.",
+      "words": [
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G602",
+          "hebrew": "ἀποκάλυψις",
+          "translit": "apokálypsis",
+          "english": "revelation"
+        },
+        {
+          "strongs": "G1922",
+          "hebrew": "ἐπίγνωσις",
+          "translit": "epígnōsis",
+          "english": "knowledge"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "having the eyes of your hearts enlightened, that you may know what is the hope of his calling, and what are the riches of the glory of his inheritance in the saints,",
+      "understanding": "The most startling anatomy in the New Testament: the eyes of your heart. Phōtízō is to flood with light, and the participle is perfect passive: eyes that have been opened and stay open. Then he names three things he wants them to see, and not one of them is a new possession — every one is already theirs and simply not yet felt: the hope of His calling, the riches of His inheritance, and (v. 19) the greatness of His power. He does not pray for more to be given. He prays for eyes.",
+      "words": [
+        {
+          "strongs": "G5461",
+          "hebrew": "φωτίζω",
+          "translit": "phōtízō",
+          "english": "enlightened"
+        },
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eyes"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G2821",
+          "hebrew": "κλῆσις",
+          "translit": "klēsis",
+          "english": "calling"
+        },
+        {
+          "strongs": "G2817",
+          "hebrew": "κληρονομία",
+          "translit": "klēronomía",
+          "english": "inheritance"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "and what is the exceeding greatness of his power toward us who believe, according to that working of the strength of his might",
+      "understanding": "Paul runs out of adequate vocabulary and starts stacking it. Hyperbállō is to throw beyond the usual mark, to overshoot — an exceeding mégethos, magnitude. Then four words for strength in a single line because one will not carry the weight: dýnamis (raw capacity), enérgeia (power actually being expended, the root of our word energy), krátos (dominion-strength), ischýs (inherent might). And read the direction it is pointing: “toward us who believe.” This power is not on display in a museum. It is aimed at you.",
+      "words": [
+        {
+          "strongs": "G5235",
+          "hebrew": "ὑπερβάλλω",
+          "translit": "hyperbállō",
+          "english": "exceeding"
+        },
+        {
+          "strongs": "G3174",
+          "hebrew": "μέγεθος",
+          "translit": "mégethos",
+          "english": "greatness"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G1753",
+          "hebrew": "ἐνέργεια",
+          "translit": "enérgeia",
+          "english": "working"
+        },
+        {
+          "strongs": "G2904",
+          "hebrew": "κράτος",
+          "translit": "krátos",
+          "english": "strength"
+        },
+        {
+          "strongs": "G2479",
+          "hebrew": "ἰσχύς",
+          "translit": "ischýs",
+          "english": "might"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "which he worked in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly places,",
+      "understanding": "Here is the answer to “how much power?” — and notice where Paul refuses to look for it. Not the stars, not the flood, not Sinai. A grave and a throne. “Which he worked in Christ” ties this straight back to verse 19: the strength aimed at you is not a different strength, it is this one, already spent once in public and on record. Egeírō, He raised Him; kathízō, He seated Him. Resurrection and enthronement are one act with two halves, and the seat is “in the heavenly places” — the second of the five occurrences, and the reason 2:6 can dare to say that He “raised us up with him, and made us to sit with him in the heavenly places in Christ Jesus.”",
+      "words": [
+        {
+          "strongs": "G1453",
+          "hebrew": "ἐγείρω",
+          "translit": "egeírō",
+          "english": "raised"
+        },
+        {
+          "strongs": "G2523",
+          "hebrew": "καθίζω",
+          "translit": "kathízō",
+          "english": "made him to sit"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly places"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "far above all rule, and authority, and power, and dominion, and every name that is named, not only in this age, but also in that which is to come.",
+      "understanding": "Paul lists the ranks of the unseen world the way a Roman would list the ranks of an army: archḗ (rulers, first-ones), exousía (delegated authority), dýnamis (power), kyriótēs (lordships, dominions). These are the same powers he will name again in 6:12 as the enemy in the heavenly places — so this is not decoration, it is a battlefield map. Then he closes every loophole: “and every name that is named” — including the name of the thing you are afraid of — “not only in this age, but also in that which is to come.” Christ is not slightly above them. He is far above.",
+      "words": [
+        {
+          "strongs": "G746",
+          "hebrew": "ἀρχή",
+          "translit": "archḗ",
+          "english": "rule"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        },
+        {
+          "strongs": "G2963",
+          "hebrew": "κυριότης",
+          "translit": "kyriótēs",
+          "english": "dominion"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "age"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "He put all things in subjection under his feet, and gave him to be head over all things for the assembly,",
+      "understanding": "Paul stops speaking in his own words and starts quoting. “He put all things in subjection under his feet” is Psalm 8:6 — a psalm about man, not about angels. Hypotássō is a military word: to rank under. The whole created order, seen and unseen, is ranked beneath one pair of human feet. And then a phrase to read slowly, because it is easy to miss and impossible to exhaust — God gave Him to be head over all things FOR the assembly. The universal Lordship is a gift to the church. He does not run the cosmos apart from His people; He runs it on their behalf.",
+      "words": [
+        {
+          "strongs": "G5293",
+          "hebrew": "ὑποτάσσω",
+          "translit": "hypotássō",
+          "english": "put in subjection"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "head"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "which is his body, the fullness of him who fills all in all.",
+      "understanding": "The chapter ends with the most extravagant thing ever said about the church. A head is not complete without a body — and the church is called “the fullness (plḗrōma) of him who fills (plēróō) all in all.” He fills everything everywhere, and He calls His people His fullness. That is not flattery, and it is not about your congregation on a good Sunday. It is your identity on the morning you sit in a half-empty room wondering whether any of this matters.",
+      "words": [
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G4138",
+          "hebrew": "πλήρωμα",
+          "translit": "plḗrōma",
+          "english": "fullness"
+        },
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "fills"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Sentence That Could Not Find a Full Stop",
+      "verseRef": "v. 3-14",
+      "image": "A rented room in Rome. A chain runs from Paul’s wrist to the wrist of a soldier who did not ask to be there. A secretary sits with a reed pen and waits. Paul begins — “Blessed be the God and Father of our Lord Jesus Christ” — and then he does not stop. Not when he finishes with the Father. Not when he reaches the blood. Not when he reaches the Spirit. Over two hundred words in the Greek without a full stop, clause piling onto clause like a man emptying a treasury onto a table and discovering another room behind it. Three times the pen almost rests — “to the praise of the glory of his grace,” “to the praise of his glory,” “to the praise of his glory” — and twice he carries straight on.",
+      "meaning": "The shape is the message. Three movements, one for each Person of the Godhead: the Father who chose and predestined (v. 3-6), the Son in whose blood we are redeemed and in whom all things are summed up (v. 7-12), the Spirit who seals and guarantees (v. 13-14) — and each closes in the same place, because the final purpose of your salvation is God’s praise, not your comfort. Now notice what is missing: in twelve verses there is not one command. Nothing here for you to do, nothing to qualify for, nothing to maintain. A man with iron on his wrist ran out of breath before he ran out of blessings, and every blessing he named was already yours before he named it."
+    },
+    {
+      "title": "The Column of Figures With Christ Written at the Top",
+      "verseRef": "v. 10",
+      "image": "A counting-house table. A long column of figures runs down the page — hundreds of entries, some enormous, some trivial, some written in anger and some through tears. Empires and their wars. A garden and a piece of fruit. A slave ship. Your father’s silence. Your own worst week. The clerk works to the bottom, rules a line under the final entry, and then does what his trade requires: he carries the whole column up and writes the total at the head of the page. Paul’s word for that is anakephalaíomai — to sum up, to bring under one head. And the total written at the top of all history is a Person.",
+      "meaning": "History is not a random pile of entries and it is not an endless circle. It is a column being added up, and God is administering it (oikonomía — estate management) toward a scheduled fullness of the times. Nothing is left off the page: “the things in the heavens, and the things on the earth.” Which means the entries in your life that never made sense are not excluded from the sum — they are being carried up into a total that is Christ Himself. You may never get the itemised explanation you have asked for. You are promised the total."
+    },
+    {
+      "title": "The Seal and the Deposit",
+      "verseRef": "v. 13-14",
+      "image": "The harbour at Ephesus. A merchant stands over a crate bound for Rome, warms a stick of wax, and presses his signet ring into it. That mark says three things at once and every man on the dock knows them: this is mine, this is genuine, and if you break this seal you answer to me. A few steps away a buyer counts out the arrhabṓn — the first coins of a purchase price, laid down in front of witnesses so the sale cannot be undone. The rest is coming. The money already in the seller’s hand is the proof.",
+      "meaning": "When you believed, God did both. Sphragízō — He stamped you, and the stamp was not a feeling or a certificate but a Person: “you were sealed with the promised Holy Spirit.” And note who holds the ring. Wax never seals itself and the crate gets no say in the matter; the mark is pressed by the owner and can be broken only by him — which is why the morning you feel least sealed changes nothing at all. You did not stamp yourself, so the wax is not yours to melt. Arrhabṓn — then He put money down on you, and the deposit was the same Person. And the word outlived the empire: in modern Greek arravónas is still the word for an engagement. God has not given you a promise about a ring. He has put the ring on you."
+    },
+    {
+      "title": "Measuring the Power From a Tomb to a Throne",
+      "verseRef": "v. 19-21",
+      "image": "Paul is trying to tell you how much power is aimed at you and the vocabulary keeps giving out. He piles on an exceeding, overshooting greatness, then dýnamis, then enérgeia, then krátos, then ischýs — four words for strength in one line because no single word will hold it. Then he stops describing and starts measuring. Put one end of the tape on a corpse: cold, wrapped, sealed in a borrowed tomb under guard, everything He promised apparently finished. Run the tape to the other end: the right hand of God, above all rule, and authority, and power, and dominion, and every name that is named, in this age and in the one coming. That distance is the working of His might — and verse 19 says the direction it is pointed is “toward us who believe.”",
+      "meaning": "Paul does not define God’s power by storms or stars or the size of the sky. He defines it by a resurrection and an enthronement — one act with two halves — and then hands you the tape measure. This is not power in a museum and it is not power spent in the past; enérgeia is strength currently being expended, and its published rating is raising the dead and seating them in the highest place in the universe. So take the thing you have already labelled finished and lay it beside an empty tomb. Ask the only honest question there is: is it deader than He was?"
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Greetings From a Prisoner Who Never Mentions His Chains (v. 1-2)",
+        "body": "Paul writes as an apostle by God’s will and not his own ambition, and hands out grace and peace from a Roman cell to a church he may never see again."
+      },
+      {
+        "label": "The Father’s Movement: Chosen, Marked Out, Accepted (v. 3-6)",
+        "body": "Before the world was founded God chose us and predestined us for adoption according to the good pleasure of His desire — closing in the first refrain, “to the praise of the glory of his grace.”"
+      },
+      {
+        "label": "The Son’s Movement: Redeemed by Blood, All Things Summed Up (v. 7-12)",
+        "body": "Ransom and forgiveness through His blood, the mystery of God’s will disclosed, and a fractured universe being gathered under one head — closing in the second refrain, “to the praise of his glory.”"
+      },
+      {
+        "label": "The Spirit’s Movement: Sealed and Guaranteed (v. 13-14)",
+        "body": "Having heard and believed, you were stamped with the Holy Spirit Himself, the down payment on an inheritance God fully intends to collect — closing in the third refrain, and only there does the sentence stop."
+      },
+      {
+        "label": "The First Prayer: Not for Release but for Revelation (v. 15-19)",
+        "body": "A man in chains asks God to open the eyes of free people’s hearts to three things they already own and cannot feel: the hope, the riches, and the power."
+      },
+      {
+        "label": "The Measurement: Raised, Seated, Supreme — and Given to the Church (v. 20-23)",
+        "body": "The power at work toward believers is measured from a tomb to a throne, and the One enthroned over every rank of the unseen world is given as head to His own body."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "One Sentence, Three Movements, and Not One Verb Is Yours",
+        "paragraphs": [
+          "In your English Bible verses 3-14 are broken into readable pieces. In Greek they are one sentence — over two hundred words with no full stop, one of the longest in the New Testament. Commentators have called it everything from a rhetorical masterpiece to a snowball rolling downhill, and both are fair, because the man dictating it is not building an argument. He is worshipping, and worship does not punctuate carefully. Yet the structure holds even while the grammar runs: three movements, each closing on the same refrain — “to the praise of the glory of his grace” (v. 6), “to the praise of his glory” (v. 12), “to the praise of his glory” (v. 14). Father, Son, Spirit. Chosen, redeemed, sealed. Past eternity, present history, guaranteed future.",
+          "Now do the one thing that will change how you read this chapter for the rest of your life: find the verbs and ask who is doing them. He blessed. He chose. He predestined. He freely gave. He made to abound. He made known. He purposed — seven active verbs in a row with God as the subject, and nearly every one already past tense. Then watch the few places where you finally turn up as the grammatical subject, because they are the sharpest evidence of all: “we were assigned an inheritance,” “having been foreordained,” “you were sealed.” Every one of them is passive. Someone else did the assigning. Someone else pressed the seal. The only verbs in the twelve verses that describe you doing anything at all are in verse 13 — you heard, and you believed — and both are the verbs of a man receiving something, not achieving it. You appear in this passage as the one being acted upon: chosen, adopted, favoured, redeemed, forgiven, assigned, sealed. There is not a single imperative in the twelve verses, not one condition to satisfy, not one blessing held back pending review. That is exactly why the letter can turn at 4:1 and say, “I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called.” The walk of chapters 4-6 is never the price of chapters 1-3; it is the response to them. Nothing is commanded in the second half of this letter that has not first been given in the first half. Read it the other way round and you will spend your life trying to buy what has already been signed over to you.",
+          "And notice the address of your blessings: “in the heavenly places” — en tois epouraniois. The phrase occurs five times in the New Testament and all five are in this letter, so trace it now and keep it in your hand for the next five chapters. 1:3 — every spiritual blessing is there. 1:20 — Christ is seated there. 2:6 — “and raised us up with him, and made us to sit with him in the heavenly places in Christ Jesus.” 3:10 — “to the intent that now through the assembly the manifold wisdom of God might be made known to the principalities and the powers in the heavenly places.” 6:12 — “our wrestling is not against flesh and blood, but against the principalities... and against the spiritual forces of wickedness in the heavenly places.” Put those five side by side and something uncomfortable and magnificent appears: your blessings, your Christ, your seat, your public display, and your war are all at the same address. The heavenly places are not a hammock. Ephesians is not a soothing letter about serenity — it is a war dispatch that opens by telling you where the supply line is stored: above the fighting, in Christ, out of the enemy’s reach."
+        ]
+      },
+      {
+        "heading": "Predestination as Doxology, Not as a Debating Position",
+        "paragraphs": [
+          "Say plainly what the text says. He “chose us in him before the foundation of the world” (v. 4). He “predestined us for adoption” (v. 5) — proorízō, to mark out a boundary in advance. We were “foreordained according to the purpose of him who does all things after the counsel of his will” (v. 11). And every time Paul names a reason, the reason is located in God and never in us: “according to the good pleasure of his desire” (v. 5); “according to the purpose of him who does all things after the counsel of his will” (v. 11). There is no clause anywhere in this passage that grounds the choice in something God foresaw in you. Do not sand that down to make it easier to carry. The grammar and the context say the same thing: the initiative in your salvation was entirely God’s, and it was taken before you existed.",
+          "The honest dispute, in one sentence: godly readers have divided for centuries over whether this choosing is God selecting particular individuals to salvation or God’s choice of a people “in Christ” into which individuals come by faith — and Paul never stops to arbitrate, because he is not writing a treatise, he is singing. That is what most arguments about this chapter miss. Predestination appears here inside a doxology, with no imperative attached, no objection anticipated, and no defence mounted. Paul does not argue about it. He blesses God for it. When a truth that was handed to you as a hymn becomes mainly a position you defend, something has gone wrong in the handling — whichever side of the fence you are standing on.",
+          "And ask who received this letter, because it decides the tone completely. Ephesus was the city of Artemis, and a city so soaked in sorcery that when the gospel came, converts dragged their spell books into the open and burned them in public — fifty thousand pieces of silver going up in smoke in front of the neighbours (Acts 19:19). These were people with no pedigree, no covenant history, no religious résumé — many of them slaves, and a great many of them out of the very crowds whose custom had kept the idol trade profitable until Paul arrived (Acts 19:26). And the first thing Paul tells them is that before the world had a shape God had them in mind, and that when He decided it, it pleased Him. That is what this doctrine is for. It is not a filter for working out who is in. It is bedrock under people who have every reason to suspect they were an afterthought.",
+          "Two guardrails, because Paul builds both into the text himself. First, verse 4 attaches a purpose to the choosing: “that we would be holy and without defect before him in love.” Ámōmos is the sacrificial word for an animal with no blemish — election has a destination, and the destination is holiness, so a man who uses this doctrine as a licence has taken hold of the wrong end of it. Second, verse 13 puts a real human hearing and a real human believing right in the middle of the same sentence: “having heard the word of the truth... having also believed, you were sealed.” Paul sees no embarrassment in holding both, and neither should you. Hold them the way he does — hands open, head down, mouth full of praise."
+        ]
+      },
+      {
+        "heading": "What the Man in Chains Did Not Pray For",
+        "paragraphs": [
+          "Paul prays twice in this letter (1:15-23 and 3:14-21), and both prayers ask for the same two things: revelation and inner strength. He never once asks for release. Read that against where he is sitting: 3:1 — “For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles”; 4:1 — “I therefore, the prisoner in the Lord”; 6:20 — “for which I am an ambassador in chains.” An ambassador in chains. A diplomat of heaven under guard, and the single request he makes for himself in the whole letter is not that the door would open but that he would speak boldly as he ought to speak. Meanwhile the free people get prayed for like this: that God would give them “a spirit of wisdom and revelation in the knowledge of him; having the eyes of your hearts enlightened.”",
+          "Look at what he asks them to see, because all three are things they already possess and cannot feel. “The hope of his calling” — where all of this is finally going. “The riches of the glory of his inheritance in the saints” — and read that honestly: the phrase most naturally means God’s own inheritance, that the saints are what He gets, and the treasure at the end of the story includes you. “The exceeding greatness of his power toward us who believe” — resurrection strength currently pointed in your direction. Not one of the three is a new possession. Every one is an existing possession that needs opening. That is the definition of apostolic prayer, and it is a quiet rebuke to most of ours: he does not ask God to send what is missing, he asks God to reveal what has already been given.",
+          "And notice the anatomy, because Paul chose it deliberately: the eyes of your HEART, not of your intellect. He is writing to people who are holding his letter while he prays for them — the information is already in their hands. So what he asks God for is not a fuller explanation, a better translation, or a stronger memory. You can be doctrinally correct about verse 3 and functionally destitute in the same week; a man can know he has every spiritual blessing and live all month as if he had none. That gap is not closed by more information, more notes, or another sermon, and it is not closed by trying harder to feel something. It is closed by God turning a light on inside a man — which is a thing only God can do, and precisely why Paul asks Him to do it rather than telling them to do it themselves. Which is also why the first thing to do with this chapter is not to memorise it but to pray it back."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Verses 20-22 are not Paul’s invention — they are two psalms fused, and every Jewish believer in the room would have heard the seams. When Paul says God “made him to sit at his right hand,” he is standing on Psalm 110:1, the LORD’s word to David’s Lord to sit at His right hand until His enemies are made His footstool — the most frequently quoted Old Testament verse in the entire New Testament. When he says “He put all things in subjection under his feet,” he is quoting Psalm 8:6, which was written about man: the creature crowned with glory and honour and given dominion over the works of God’s hands. Put them together and the claim is enormous. What Adam forfeited, the Man Christ Jesus has taken back — and He has taken it back at the right hand of God.",
+        "Paul makes exactly the same fusion again in 1 Corinthians 15:25-27, and the two passages must be read side by side: “For he must reign until he has put all his enemies under his feet. The last enemy that will be abolished is death. For, ‘He put all things in subjection under his feet.’” Ephesians says the subjection is accomplished — He put all things under His feet, He is head over all things now. First Corinthians says the enemies are still being put down and the last of them, death, has not yet been abolished. Both are true, and the tension between them is the whole Christian life: the victory is legally complete and experientially unfinished. That is why this chapter can seat you in the heavenly places and chapter 6 can still hand you armour and tell you to stand.",
+        "Then follow the seal forward through Paul’s own hand and watch it hold. 2 Corinthians 1:21-22 — “Now he who establishes us with you in Christ, and anointed us, is God; who also sealed us, and gave us the down payment of the Spirit in our hearts.” 2 Corinthians 5:5 — “Now he who made us for this very thing is God, who also gave to us the down payment of the Spirit.” And back inside this letter, Ephesians 4:30 — “Don’t grieve the Holy Spirit of God, in whom you were sealed for the day of redemption.” Three times the same commercial word, and the third time an ethic is welded to it: the deposit is a Person, and a Person can be grieved. One more thread closes the circle — Galatians 4:4-5, written years earlier by the same man: “But when the fullness of the time came, God sent out his Son, born to a woman, born under the law, that he might redeem those who were under the law, that we might receive the adoption of children.” Fullness of time, redemption, adoption, and then the Spirit sent into hearts. Ephesians 1 in miniature, long before Paul had a Roman chain to write it from."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Blessing",
+      "hebrew": "εὐλογία",
+      "translit": "eulogía",
+      "strongs": "G2129",
+      "verses": "v. 3 (with eulogētós G2128 and eulogéō G2127 in the same verse)",
+      "insight": "From eu (“well”) and lógos (“word”) — literally good speaking. Strong’s gives the range: fine speaking, commendation, benediction, and by implication a benefit or bounty. Watch verse 3 stack the whole family in one line: Blessed be (eulogētós) the God and Father of our Lord Jesus Christ, who has blessed (eulogéō) us with every spiritual blessing (eulogía). When we bless God we can only speak well of Him — we add nothing. When God blesses us, His speaking creates what it says, because this is the God who said let there be light and there was light. Then weigh the word “every.” Not some. Not a starter package with more available at higher levels of commitment. Every spiritual blessing, past tense, already banked in the heavenly places in Christ. Your Christian life is not a campaign to acquire. It is an education in what you already own."
+    },
+    {
+      "english": "Predestine / mark out beforehand",
+      "hebrew": "προορίζω",
+      "translit": "proorízō",
+      "strongs": "G4309",
+      "verses": "v. 5; and again in v. 11 (“foreordained”)",
+      "insight": "Strong’s: “to limit in advance, i.e. predetermine.” It is pro (before) plus horízō, to mark out a boundary — the root behind our word horizon. This is a surveyor’s word: God drove the boundary pegs of your destiny into the ground before there was any ground. And Paul never uses it without naming what the boundary encloses. Here it encloses adoption — huiothesía, sonship. In Romans 8:29 it encloses being “conformed to the image of his Son.” God did not merely predestine that you would be saved; He predestined what you would become and whose house you would live in. Note also what is never appealed to: not one clause in this chapter grounds the choice in foreseen merit, foreseen effort, or foreseen anything. The only grounds given are “the good pleasure of his desire” (v. 5) and “the counsel of his will” (v. 11). That is either terrifying or it is the safest news you will ever hear — and which one it is depends entirely on what you believe about His character."
+    },
+    {
+      "english": "Sum up / gather under one head",
+      "hebrew": "ἀνακεφαλαίομαι",
+      "translit": "anakephalaíomai",
+      "strongs": "G346",
+      "verses": "v. 10",
+      "insight": "Strong’s is refreshingly blunt: “to sum up.” The parts are ana (up) plus kephálaion — a total, a main point — which is itself built on kephalḗ, head. Both senses are live, and Paul cashes in both inside this one chapter: the column is carried up to its total here in verse 10, and the Head it is carried up to is named in verse 22. In Greek accounting and rhetoric it meant to take a long column of figures and carry it up to a single total written at the head of the page, or to gather a sprawling argument into one summarising statement. Paul takes that word and applies it to the plan of God for the universe: “to sum up all things in Christ, the things in the heavens, and the things on the earth.” Everything since Eden has been fragmentation — man torn from God, man from man, heaven from earth, a creation groaning in pieces. The mystery now made known is that God is running history toward a re-gathering, and the total at the top of the column is a Person. The only other place the word appears in the New Testament is Romans 13:9, where the commandments “are all summed up in this saying, namely, ‘You shall love your neighbor as yourself.’” God gathers everything under a head — and nothing in your column gets deleted on the way up."
+    },
+    {
+      "english": "Pledge / down payment",
+      "hebrew": "ἀῤῥαβών",
+      "translit": "arrhabṓn",
+      "strongs": "G728",
+      "verses": "v. 14",
+      "insight": "Not originally a Greek word at all. Strong’s marks it “of Hebrew origin” — a Semitic trade term (the pledge Judah left with Tamar in Genesis 38 is its Hebrew cousin) that travelled the Mediterranean in merchants’ mouths until it settled into Greek. Strong’s defines it exactly: “a pledge, i.e. part of the purchase-money or property given in advance as security for the rest.” Now read the direction the obligation runs, because this is where assurance is actually anchored: a deposit is laid down by the buyer, in front of witnesses, and it therefore binds the buyer and never the goods. A man who walks away from an arrhabṓn forfeits it. This is God’s deposit, and God does not forfeit. Then count the occurrences, because they preach on their own: the word appears three times in the entire New Testament — 2 Corinthians 1:22, 2 Corinthians 5:5, and here — always from Paul’s pen, and every single time the deposit is the Holy Spirit. God has never put anything down on you but Himself."
+    },
+    {
+      "english": "Enlighten / flood with light",
+      "hebrew": "φωτίζω",
+      "translit": "phōtízō",
+      "strongs": "G5461",
+      "verses": "v. 18",
+      "insight": "Strong’s: “to shed rays, i.e. to shine or (transitively) to brighten up,” from phōs, light. Paul asks God to do this to “the eyes of your hearts” — an anatomy that appears in this exact form nowhere else in the New Testament, and it is chosen with care. He is asking that the organ of perception in the inner man be switched on, and the grammar says two things about how. Pephōtisménous is a perfect participle — eyes that have been enlightened and remain enlightened, a lamp left burning rather than a flash in the dark. And it is passive: somebody else does the switching. This is the gap the whole chapter exists to close — the distance between what you factually possess (v. 3-14) and what you actually perceive (v. 18-19). You do not close that distance by trying harder or reading faster. You close it by asking, exactly as Paul asked, for a spirit of wisdom and apokálypsis — an unveiling of what was always there."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with four things in this chapter: the blessings you keep begging God for that He says He has already given, the suspicion that you were tolerated rather than wanted, the prayer Paul prayed that you have never prayed, and the situation you have quietly filed as dead.",
+    "items": [
+      {
+        "title": "Stop Asking for What Is Already in Your Name",
+        "body": "Verse 3 is past tense and it is total: God “has blessed us with every spiritual blessing in the heavenly places in Christ.” Not will bless. Not may bless, once you have strung together a consistent season. Has blessed — and every. So look honestly at what you have been asking God for this year. If it is a circumstance, ask freely; Paul asks for circumstances elsewhere and so should you. But if it is acceptance, sonship, forgiveness, access, standing, or the Spirit Himself, then you are begging God to give you what He signed over to you before the world had a shape — and that begging is not humility, it is unbelief wearing humility’s coat. What would actually change in your prayer life this week if you stopped pleading for the blessings and started thanking God for them by name?"
+      },
+      {
+        "title": "You Were Not an Afterthought",
+        "body": "There is an ache no amount of achievement touches: the suspicion that you are tolerated rather than wanted — that God took you on out of pity, or under obligation, or because someone prayed Him into it. You may even have theological cover for it: God saved you because He is merciful, not because you were desirable. True. Now read verse 5 again and see the motive God gives for adopting you — “according to the good pleasure of his desire.” Eudokía is delight, satisfaction, what pleased Him. And verse 6 says He “freely gave us favor in the Beloved” — charitóō, a verb used only twice in the whole New Testament, the other time by an angel speaking over a teenage girl in Nazareth. So who told you that you are barely allowed in the room? Name him. And ask yourself how long you have been believing him over the text in front of you."
+      },
+      {
+        "title": "The Prayer You Have Never Prayed",
+        "body": "Take an honest inventory of your last month with God. How much of it was about a job, a body, a bank balance, a person, a door you want opened? Now read what a man with iron on his wrist asked on behalf of people who were free — not release, not comfort, not vindication: “a spirit of wisdom and revelation in the knowledge of him; having the eyes of your hearts enlightened.” Paul was not indifferent to circumstances. He was convinced that revelation changes a man faster than relief does, and he had tested that in enough cells to know. So here is the challenge: could you pray for seven days without asking God to change one circumstance? Would you know what to say after the first two minutes? And what does your answer tell you about which of the two you actually believe you need most?"
+      },
+      {
+        "title": "Measure It Against the Tomb",
+        "body": "Everyone has a file marked closed. The marriage, the sibling, the addiction, the calling you buried after the second failure, the future you stopped mentioning to God because saying it out loud has begun to feel foolish. Verse 19 says there is power aimed at you — enérgeia, power actually being expended, not stored — and verse 20 publishes its rating: it is the identical working God “worked in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly places.” Not similar power. The same working, toward you, because you believe. So say the name of the thing you have written off, out loud, and then answer the only question that matters: is it deader than He was? If God can move a body from a sealed tomb to the throne of the universe, your file is not closed. It is simply not open yet."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The ‘Every’ Audit",
+        "body": "Write down the three things you most want from God right now. Beside each, write E or C — eternal (something verses 3-14 say is already yours in Christ) or circumstantial (something not yet given). Then look at the E column and ask the hard question: why am I still asking for what has already been signed over to me? Then look at the C column and ask the second one, which is harder: if God granted every item on this list and nothing changed inside me, would I be one inch closer to knowing Him?"
+      },
+      {
+        "title": "The Address Check",
+        "body": "Verse 3 says your blessings are stored “in the heavenly places” — the same address where Christ is seated (v. 20), where you are seated with Him (2:6), and where the war is fought (6:12). So where do you actually live between Sundays? When something goes wrong at 9 a.m., where does your mind go first for security — to the seat you have been given in Christ, or to your bank app, your reputation, your performance, your plan B? Name the earthly address you keep defaulting to. You cannot leave a place you will not name."
+      },
+      {
+        "title": "The Prayer List Test",
+        "body": "Read back over your last month of prayers — in a journal, in your notes app, or honestly in memory. Count roughly what portion asked God to change your situation and what portion asked Him to open your eyes. Paul, in prison, prayed the second kind almost exclusively and never once asked to be let out. What does the ratio in your own praying say about what you believe your real problem is — and about what you believe would fix it?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Writing Out the Sentence",
+        "body": "This week, with pen and paper rather than a screen, copy Ephesians 1:3-14 out by hand as the single sentence it is in Greek — no full stops until you reach “to the praise of his glory” at the end of verse 14. As you write, underline every verb whose subject is God, and circle every place you appear as the object: chosen, predestined, favoured, redeemed, forgiven, assigned, sealed. When you finish, count the commands given to you in those twelve verses. The number is zero — write that number at the bottom of the page. Then, at the top, write your own name and your own city into the blank of verse 1, because the earliest manuscripts leave that blank, and read the whole thing aloud as a letter addressed to you."
+      },
+      {
+        "title": "Praying Paul’s Prayer, By Name, For Seven Days",
+        "body": "For the next seven mornings pray 1:17-19 and nothing else — over yourself and over three people you name out loud. Put it in your own words: “Father of glory, give me a spirit of wisdom and revelation in the knowledge of You. Open the eyes of my heart. Let me know the hope of Your calling, the riches of the glory of Your inheritance in the saints, and the exceeding greatness of Your power toward me, because I believe.” One rule, and it will be harder than it sounds: in that prayer slot, for those seven days, do not ask God to change a single circumstance. Take your requests to Him at another hour if you must. On day seven, write one paragraph on what you saw that you had not seen before — and if you saw nothing, write that honestly too, and keep going."
+      }
+    ]
+  },
+  "prayerReflection": "“Blessed be the God and Father of my Lord Jesus Christ! Father, before the foundation of the world — before there was a world, before there was a me — You chose me in Him, and You marked out the boundary of my life for adoption, and You did it according to the good pleasure of Your desire. Not reluctantly. Not as a repair job. It pleased You. So today I stop living like an afterthought. Lord Jesus, in You I have redemption through Your blood and the forgiveness of my trespasses — not out of the riches of Your grace but according to them, measured by Your wealth and not by my need. Thank You that You have made known to me the mystery of Your will, and that every scattered piece of my life is being carried up into one total that is summed up in You. Holy Spirit, You are my seal and my down payment. I did not stamp myself and I cannot un-stamp myself; You are God’s own guarantee that He fully intends to collect what He has already purchased. Keep me from grieving You. Father of glory, do in me now what Paul asked for others: give me a spirit of wisdom and revelation in the knowledge of You. Open the eyes of my heart. Let me know the hope of Your calling, the riches of the glory of Your inheritance in the saints, and the exceeding greatness of Your power toward me because I believe — that same working of Your mighty strength which You worked in Christ when You raised Him from the dead and seated Him at Your right hand in the heavenly places, far above all rule, and authority, and power, and dominion, and every name that is named, not only in this age but also in the age to come. Lord, I bring You the thing I have written off, the file I marked closed, and I lay it down beside an empty tomb. Nothing is dead that You have decided to raise. Teach me to stop begging for what You have already given, and to live from the seat You have already bought — to the praise of Your glory. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Riot in the Theatre of Artemis",
+      "ref": "Acts 19:23-41",
+      "relatedVerses": "v. 3, 21",
+      "summary": "Paul spent about three years in Ephesus — longer than in any other city — and the city did not take it quietly. When the gospel began emptying the market for silver shrines, a craftsman named Demetrius gathered the guild, and the whole town poured into the great theatre and chanted the greatness of Artemis of the Ephesians for two solid hours. Her temple was one of the seven wonders of the ancient world; in that city hers was the name above every name. Now read Ephesians 1:21 to those same converts: Christ is seated “far above all rule, and authority, and power, and dominion, and every name that is named, not only in this age, but also in that which is to come.” Paul is not writing theory in a study. He is telling ex-idolaters, in the shadow of the biggest name in Asia, that the One they belong to sits above it — and that their blessings are stored at an address Artemis cannot reach."
+    },
+    {
+      "title": "The Farewell at Miletus",
+      "ref": "Acts 20:17-38",
+      "relatedVerses": "v. 11, 14, 18",
+      "summary": "On his way to Jerusalem, Paul sends for the elders of the Ephesian church and meets them at Miletus. He reminds them of three years of warning them night and day with tears, tells them plainly they will not see his face again, and then commends them to God and to the word of His grace — the word, he says, that is able to build them up and to give them the inheritance among all those who are sanctified. Then he kneels down and prays with them all, and they weep openly and fall on his neck — and Luke records that what hurt most was the sentence about never seeing him again, and that they walked him the whole way down to the ship. Now hold that scene against Ephesians 1: the same apostle, now in chains, writing to the same region about an inheritance assigned (v. 11), guaranteed by a deposit (v. 14), and so glorious that he has to pray for their eyes to be opened to it (v. 18). He wept over that word at a harbour. He wrote it from a cell. Some truths are never academic to the man who taught them to you."
+    },
+    {
+      "title": "The Only Other Time That Word Was Spoken",
+      "ref": "Luke 1:26-38",
+      "relatedVerses": "v. 6",
+      "summary": "The verb behind “freely gave us favor” in verse 6 is charitóō, and it appears exactly twice in the entire New Testament. The other time, an angel walks into a room in an obscure Galilean village and speaks it over a young woman named Mary — graced, favoured, surrounded with grace — and Luke says the greeting so unsettled her that she turned it over trying to work out what kind of greeting it could possibly be. She had done nothing to earn it; the announcement came before the obedience, not after it. Paul now takes that same rare verb and lays it over every believer: God has graced us in the Beloved. Whatever you have always assumed was reserved for her is said over you — not because you are her, but because you are in Him."
+    }
+  ]
+}

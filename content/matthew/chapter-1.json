@@ -10,8 +10,18 @@
       "text": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.",
       "understanding": "This single sentence is the hinge of the whole Bible. After four hundred silent years since Malachi, Matthew opens the New Testament by declaring that Jesus is the Christ (the anointed King), the son of David (heir to the throne) and the son of Abraham (the blessing to all nations). The phrase 'the book of the genealogy' (biblos geneseōs) deliberately echoes Genesis — a new beginning has come.",
       "words": [
-        { "strongs": "G1078", "hebrew": "γένεσις", "translit": "génesis", "english": "genealogy / origin" },
-        { "strongs": "G5547", "hebrew": "Χριστός", "translit": "Christós", "english": "Christ / Anointed" }
+        {
+          "strongs": "G1078",
+          "hebrew": "γένεσις",
+          "translit": "génesis",
+          "english": "genealogy / origin"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ / Anointed"
+        }
       ]
     },
     {
@@ -19,7 +29,12 @@
       "text": "Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers.",
       "understanding": "The line runs through the patriarchs — Abraham, Isaac, Jacob — and then narrows to Judah, not the firstborn, because Jacob had prophesied that the scepter would never depart from Judah (Genesis 49:10). The words 'and his brothers' quietly gather all twelve tribes of Israel into the King's story.",
       "words": [
-        { "strongs": "G1080", "hebrew": "γεννάω", "translit": "gennáō", "english": "became the father of" }
+        {
+          "strongs": "G1080",
+          "hebrew": "γεννάω",
+          "translit": "gennáō",
+          "english": "became the father of"
+        }
       ]
     },
     {
@@ -92,7 +107,12 @@
       "text": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ.",
       "understanding": "The rhythm suddenly breaks. Fifteen times Matthew has written 'became the father of,' but here he stops — Jacob became the father of Joseph, and then, with great care, 'Joseph, the husband of Mary, from whom was born Jesus.' The 'whom' is grammatically feminine: Jesus was born of Mary, not begotten by Joseph. The human chain of fathers ends, and God Himself begins a new line.",
       "words": [
-        { "strongs": "G1080", "hebrew": "γεννάω", "translit": "gennáō", "english": "father of / born" }
+        {
+          "strongs": "G1080",
+          "hebrew": "γεννάω",
+          "translit": "gennáō",
+          "english": "father of / born"
+        }
       ]
     },
     {
@@ -105,7 +125,12 @@
       "text": "Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit.",
       "understanding": "Now the account turns from the line to the birth itself. Mary was betrothed to Joseph — a binding covenant far stronger than a modern engagement — and 'before they came together' she was found to be pregnant. Matthew states the cause immediately, before any scandal can even be imagined: 'by the Holy Spirit.'",
       "words": [
-        { "strongs": "G4151", "hebrew": "πνεῦμα", "translit": "pneûma", "english": "Spirit" }
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
       ]
     },
     {
@@ -113,7 +138,12 @@
       "text": "Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly.",
       "understanding": "Joseph is called a 'righteous man' (dikaios) — and watch what real righteousness looks like. Rather than expose Mary to public disgrace or demand the full letter of the law, he resolved to divorce her quietly. True righteousness is merciful; it seeks to cover, not to shame.",
       "words": [
-        { "strongs": "G1342", "hebrew": "δίκαιος", "translit": "díkaios", "english": "righteous" }
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous"
+        }
       ]
     },
     {
@@ -126,8 +156,18 @@
       "text": "She shall give birth to a son. You shall call his name Jesus, for it is he who shall save his people from their sins.”",
       "understanding": "The name is the mission. 'You shall call his name Jesus' — Yeshua, 'Yahweh saves' — 'for it is he who shall save his people from their sins.' Not from Rome, not from poverty, but from sin itself. The King's crown and the Savior's cross are named in a single breath.",
       "words": [
-        { "strongs": "G2424", "hebrew": "Ἰησοῦς", "translit": "Iēsoûs", "english": "Jesus" },
-        { "strongs": "G4982", "hebrew": "σώζω", "translit": "sṓzō", "english": "save" }
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "save"
+        }
       ]
     },
     {
@@ -140,8 +180,18 @@
       "text": "“Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel”; which is, being interpreted, “God with us.”",
       "understanding": "The prophecy is Isaiah 7:14 — the virgin will conceive and bear a son called Immanuel. Matthew translates it so no one can miss the weight: 'God with us.' The Gospel that opens with God coming to dwell among His people will close with His promise, 'I am with you always' (28:20).",
       "words": [
-        { "strongs": "G3933", "hebrew": "παρθένος", "translit": "parthénos", "english": "virgin" },
-        { "strongs": "G1694", "hebrew": "Ἐμμανουήλ", "translit": "Emmanouḗl", "english": "Immanuel / God with us" }
+        {
+          "strongs": "G3933",
+          "hebrew": "παρθένος",
+          "translit": "parthénos",
+          "english": "virgin"
+        },
+        {
+          "strongs": "G1694",
+          "hebrew": "Ἐμμανουήλ",
+          "translit": "Emmanouḗl",
+          "english": "Immanuel / God with us"
+        }
       ]
     },
     {
@@ -159,7 +209,7 @@
     {
       "title": "The Broken Chain of 'Begat'",
       "verseRef": "v. 16",
-      "image": "Picture a blacksmith's chain being forged link by identical link, the hammer falling in perfect rhythm for forty-two blows: Abraham begat, Isaac begat, Jacob begat, David begat, on and on down the centuries. Fifteen hundred years of fathers begetting sons, an unbroken metallic clang. Then, at the very last link, the hammer stops in midair. The pattern does not complete. Matthew does not write 'Joseph begat Jesus.' He writes instead, 'Joseph, the husband of Mary, from whom was born Jesus.'",
+      "image": "Picture a blacksmith's chain being forged link by identical link, the hammer falling in perfect rhythm for forty-two blows: Abraham begat, Isaac begat, Jacob begat, David begat, on and on down the centuries. Two thousand years of fathers begetting sons, an unbroken metallic clang. Then, at the very last link, the hammer stops in midair. The pattern does not complete. Matthew does not write 'Joseph begat Jesus.' He writes instead, 'Joseph, the husband of Mary, from whom was born Jesus.'",
       "meaning": "The deliberate break in the grammar is the whole point. No human father begets this child. The chain of fallen humanity, running from Adam through David through the exile, has reached its end, and God begins a brand-new humanity in the womb of a virgin. Jesus is the true heir of David through Joseph's legal fatherhood, yet He is the Son of God by the Holy Spirit. The rhythm breaks so a new song can begin."
     },
     {
@@ -183,11 +233,26 @@
   ],
   "commentary": {
     "structure": [
-      { "label": "The Genealogy of the King (v. 1-17)", "body": "Three sets of fourteen generations prove Jesus is the legal son of David and the son of Abraham, weaving sinners, Gentile women, and even the exile into the Messiah's line." },
-      { "label": "Joseph's Righteous Dilemma (v. 18-19)", "body": "Mary is found pregnant by the Holy Spirit, and her betrothed, a righteous man, resolves to divorce her quietly rather than shame her." },
-      { "label": "The Angel's Revelation and the Naming (v. 20-21)", "body": "An angel commands Joseph not to fear but to take Mary, and names the child Jesus — 'Yahweh saves' — because He will save His people from their sins." },
-      { "label": "The First Fulfillment: Immanuel (v. 22-23)", "body": "Matthew's fulfillment formula debuts, tying the virgin birth to Isaiah 7:14 and revealing the child's deepest name: God with us." },
-      { "label": "Joseph's Obedience (v. 24-25)", "body": "Joseph wakes, takes Mary as his wife, keeps her a virgin until the birth, and names the child Jesus, sealing His legal claim to David's throne." }
+      {
+        "label": "The Genealogy of the King (v. 1-17)",
+        "body": "Three sets of fourteen generations prove Jesus is the legal son of David and the son of Abraham, weaving sinners, Gentile women, and even the exile into the Messiah's line."
+      },
+      {
+        "label": "Joseph's Righteous Dilemma (v. 18-19)",
+        "body": "Mary is found pregnant by the Holy Spirit, and her betrothed, a righteous man, resolves to divorce her quietly rather than shame her."
+      },
+      {
+        "label": "The Angel's Revelation and the Naming (v. 20-21)",
+        "body": "An angel commands Joseph not to fear but to take Mary, and names the child Jesus — 'Yahweh saves' — because He will save His people from their sins."
+      },
+      {
+        "label": "The First Fulfillment: Immanuel (v. 22-23)",
+        "body": "Matthew's fulfillment formula debuts, tying the virgin birth to Isaiah 7:14 and revealing the child's deepest name: God with us."
+      },
+      {
+        "label": "Joseph's Obedience (v. 24-25)",
+        "body": "Joseph wakes, takes Mary as his wife, keeps her a virgin until the birth, and names the child Jesus, sealing His legal claim to David's throne."
+      }
     ],
     "sections": [
       {
@@ -211,7 +276,7 @@
       "heading": "New Testament Connection",
       "paragraphs": [
         "Matthew 1 is itself the fulfillment of the Old Testament, but its threads are gathered up and interpreted across the rest of the New Testament in a way that seals its meaning. Paul draws the same line Matthew draws — from Abraham, to David, to a woman, to salvation — in Galatians 4:4-5: 'But when the fullness of the time came, God sent out his Son, born to a woman, born under the law, that he might redeem those who were under the law.' Everything in Matthew's genealogy was the clock ticking toward that 'fullness of time.' The four hundred silent years, the obscure post-exilic names, the whole three-times-fourteen march — all of it was God waiting for the exact hour to send His Son, born of a woman, to redeem sinners like the very ones listed in the King's own family tree.",
-        "The name given in verse 21 is vindicated in Acts 4:12, where Peter declares of Jesus, 'There is salvation in no one else, for there is no other name under heaven that is given among men, by which we must be saved.' The angel said He would 'save his people from their sins'; Peter announces to the Sanhedrin that this saving is found in that one name alone. And the promise of Immanuel in verse 23 is answered by the Lord's own final words in Matthew 28:20 — 'I am with you always, to the end of the age' — so that the whole Gospel is bracketed by the presence of God: cradle to commission, God is with us."
+        "The name given in verse 21 is vindicated in Acts 4:12, where Peter declares of Jesus, 'There is salvation in none other, for neither is there any other name under heaven, that is given among men, by which we must be saved!' The angel said He would 'save his people from their sins'; Peter announces to the Sanhedrin that this saving is found in that one name alone. And the promise of Immanuel in verse 23 is answered by the Lord's own final words in Matthew 28:20 — 'I am with you always, to the end of the age' — so that the whole Gospel is bracketed by the presence of God: cradle to commission, God is with us."
       ]
     }
   },

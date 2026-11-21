@@ -1,0 +1,1215 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Corinthians",
+  "chapter": 11,
+  "chapterTitle": "The Fool's Speech — A Jealous Father, a Luminous Counterfeit, and a Man Lowered Out of a Window in a Basket",
+  "themeTitle": "“If I Must Boast, I Will Boast of the Things That Concern My Weakness”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I wish that you would bear with me in a little foolishness, but indeed you do bear with me.",
+      "understanding": "Paul opens the strangest passage he ever wrote with an apology for it. Aphrosynē is not playful silliness; it is senselessness, the speech of a man with no sense. He is about to do the one thing he has spent two chapters condemning — boast — and he wants it on record before he starts that he knows exactly what he is doing. The second clause is either a plea or a jab: but indeed you do bear with me. Read it either way; both cut.",
+      "words": [
+        {
+          "strongs": "G877",
+          "hebrew": "ἀφροσύνη",
+          "translit": "aphrosýnē",
+          "english": "foolishness"
+        },
+        {
+          "strongs": "G430",
+          "hebrew": "ἀνέχομαι",
+          "translit": "anéchomai",
+          "english": "bear with"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For I am jealous over you with a godly jealousy. For I married you to one husband, that I might present you as a pure virgin to Christ.",
+      "understanding": "Here is the emotional engine of the whole chapter. Paul is not a hurt professional defending his reputation; he is the father of the bride standing at the door. Harmozō is the betrothal word — he arranged the match, he handed her over, and in Jewish practice the interval between betrothal and wedding was exactly the season in which the bride's purity was guarded. His jealousy is “a godly jealousy,” literally a jealousy of God: the same fierce, possessive love God claims for Himself throughout the prophets. Zeal that does not care what happens to the beloved is not love at all.",
+      "words": [
+        {
+          "strongs": "G2205",
+          "hebrew": "ζῆλος",
+          "translit": "zēlos",
+          "english": "jealousy"
+        },
+        {
+          "strongs": "G2206",
+          "hebrew": "ζηλόω",
+          "translit": "zēlóō",
+          "english": "I am jealous"
+        },
+        {
+          "strongs": "G718",
+          "hebrew": "ἁρμόζω",
+          "translit": "harmózō",
+          "english": "I married you (betrothed)"
+        },
+        {
+          "strongs": "G3933",
+          "hebrew": "παρθένος",
+          "translit": "parthénos",
+          "english": "virgin"
+        },
+        {
+          "strongs": "G53",
+          "hebrew": "ἁγνός",
+          "translit": "hagnós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G3936",
+          "hebrew": "παρίστημι",
+          "translit": "parístēmi",
+          "english": "present"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Christ.",
+      "understanding": "Paul reaches past every argument about apostolic credentials and names the real assailant: the serpent, and the method is not force but panourgia — craftiness, the readiness to do absolutely anything to win. Notice what the serpent attacked in Eve and what Paul fears for Corinth: not their morals first, but their minds (noēma, the thought-life, the way perception itself is shaped). And notice the thing being lost — haplotēs, singleness, a devotion with only one fold in it. Deception rarely begins by replacing Christ. It begins by adding a second loyalty beside Him.",
+      "words": [
+        {
+          "strongs": "G3789",
+          "hebrew": "ὄφις",
+          "translit": "óphis",
+          "english": "serpent"
+        },
+        {
+          "strongs": "G2096",
+          "hebrew": "Εὖα",
+          "translit": "Eûa",
+          "english": "Eve"
+        },
+        {
+          "strongs": "G1818",
+          "hebrew": "ἐξαπατάω",
+          "translit": "exapatáō",
+          "english": "deceived"
+        },
+        {
+          "strongs": "G3834",
+          "hebrew": "πανουργία",
+          "translit": "panourgía",
+          "english": "craftiness"
+        },
+        {
+          "strongs": "G5351",
+          "hebrew": "φθείρω",
+          "translit": "phtheírō",
+          "english": "corrupted"
+        },
+        {
+          "strongs": "G3540",
+          "hebrew": "νόημα",
+          "translit": "nóēma",
+          "english": "minds"
+        },
+        {
+          "strongs": "G572",
+          "hebrew": "ἁπλότης",
+          "translit": "haplótēs",
+          "english": "simplicity"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For if he who comes preaches another Jesus, whom we did not preach, or if you receive a different spirit, which you did not receive, or a different “good news”, which you did not accept, you put up with that well enough.",
+      "understanding": "This is the sharpest diagnostic in the letter, and the Greek sharpens it further: another (allos) Jesus, but a different (heteros) spirit and a different (heteros) good news — not a second copy of the same thing but a thing of another kind altogether. Then the sarcasm lands like a slap: you put up with that well enough. The same church that could not tolerate a letter from the man who fathered them could sit patiently under a counterfeit gospel for months. Note what Paul does not test — the messenger's polish, gifting, or crowd. He tests the Jesus, the spirit, and the news.",
+      "words": [
+        {
+          "strongs": "G243",
+          "hebrew": "ἄλλος",
+          "translit": "állos",
+          "english": "another"
+        },
+        {
+          "strongs": "G2087",
+          "hebrew": "ἕτερος",
+          "translit": "héteros",
+          "english": "different"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "good news"
+        },
+        {
+          "strongs": "G430",
+          "hebrew": "ἀνέχομαι",
+          "translit": "anéchomai",
+          "english": "put up with"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For I reckon that I am not at all behind the very best apostles.",
+      "understanding": "The phrase behind “the very best apostles” is hyperlian apostolōn — the hyper-exceedingly apostles, the super-apostles. It drips. Paul is quoting the room's own estimate of these men back at them with a straight face. And even here his claim is minimal and negative: not that he is greater, only that he has not fallen short. He never once argues that he is more impressive than they say he is.",
+      "words": [
+        {
+          "strongs": "G5302",
+          "hebrew": "ὑστερέω",
+          "translit": "hysteréō",
+          "english": "behind / fall short"
+        },
+        {
+          "strongs": "G5228",
+          "hebrew": "ὑπέρ",
+          "translit": "hypér",
+          "english": "over, beyond (hyper-)"
+        },
+        {
+          "strongs": "G3029",
+          "hebrew": "λίαν",
+          "translit": "lían",
+          "english": "exceedingly"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostles"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things.",
+      "understanding": "He concedes the charge without a fight. Idiōtēs means a private citizen, an unregistered amateur, a man with no professional standing — the English word “idiot” comes down from it. In a city that graded men by oratory, Paul agrees he is a non-professional at the microphone, and then quietly refuses to concede the only thing that matters: not in knowledge. And his defence is not a speech but a track record — in every way we have been revealed to you in all things. They had watched him for eighteen months.",
+      "words": [
+        {
+          "strongs": "G2399",
+          "hebrew": "ἰδιώτης",
+          "translit": "idiṓtēs",
+          "english": "unskilled"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "speech"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "revealed"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Or did I commit a sin in humbling myself that you might be exalted, because I preached to you God’s Good News free of charge?",
+      "understanding": "Read the question again, because it is one of the most bitter sentences in the New Testament: did I commit a sin — hamartia, the full word for sin — by preaching to you for nothing? He lowered himself (tapeinoō, the verb of pressing a thing down) so that they could be lifted up, and the very act of self-lowering was filed as evidence against him. That is what happens when a culture prices worth by fee. Free looked cheap.",
+      "words": [
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        },
+        {
+          "strongs": "G5013",
+          "hebrew": "ταπεινόω",
+          "translit": "tapeinóō",
+          "english": "humbling myself"
+        },
+        {
+          "strongs": "G5312",
+          "hebrew": "ὑψόω",
+          "translit": "hypsóō",
+          "english": "exalted"
+        },
+        {
+          "strongs": "G1432",
+          "hebrew": "δωρεάν",
+          "translit": "dōreán",
+          "english": "free of charge"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "I robbed other assemblies, taking wages from them that I might serve you.",
+      "understanding": "Sylaō is a violent word — to plunder, to strip a defeated enemy or loot a temple — and opsōnion is a soldier's ration money. Paul deliberately picks the ugliest verb available and turns it on himself: I looted other churches and drew soldier's pay from them so that you could have me for free. It is not confession; it is scorching irony aimed at people who thought money proved value.",
+      "words": [
+        {
+          "strongs": "G4813",
+          "hebrew": "συλάω",
+          "translit": "syláō",
+          "english": "robbed"
+        },
+        {
+          "strongs": "G3800",
+          "hebrew": "ὀψώνιον",
+          "translit": "opsṓnion",
+          "english": "wages"
+        },
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "serve"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "When I was present with you and was in need, I wasn’t a burden on anyone, for the brothers, when they came from Macedonia, supplied the measure of my need. In everything I kept myself from being burdensome to you, and I will continue to do so.",
+      "understanding": "Katanarkaō is a medical picture — to go numb, to deaden — from the same root as our word narcotic. Paul says: I never became a numbness on you, a dead weight you had to carry. When his own hands at the tent-bench could not cover it, brothers arrived from Macedonia and made up the shortfall; the poorest churches he planted funded the ministry to the richest. And he closes the door on the future in advance: and I will continue to do so.",
+      "words": [
+        {
+          "strongs": "G2655",
+          "hebrew": "καταναρκάω",
+          "translit": "katanarkáō",
+          "english": "burden / grow numb upon"
+        },
+        {
+          "strongs": "G5303",
+          "hebrew": "ὑστέρημα",
+          "translit": "hystérēma",
+          "english": "need / deficit"
+        },
+        {
+          "strongs": "G4322",
+          "hebrew": "προσαναπληρόω",
+          "translit": "prosanaplēróō",
+          "english": "supplied"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "As the truth of Christ is in me, no one will stop me from this boasting in the regions of Achaia.",
+      "understanding": "He puts the truth of Christ behind it like an oath. Phrassō means to fence off, block up, stop a mouth — the same verb used of stopping the mouths of lions. Nobody is going to wall this boast up in Achaia. He will not be paid in Corinth, and he will not be argued out of the refusal.",
+      "words": [
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G2746",
+          "hebrew": "καύχησις",
+          "translit": "kaúchēsis",
+          "english": "boasting"
+        },
+        {
+          "strongs": "G5420",
+          "hebrew": "φράσσω",
+          "translit": "phrássō",
+          "english": "stop / block up"
+        },
+        {
+          "strongs": "G882",
+          "hebrew": "Ἀχαΐα",
+          "translit": "Achaḯa",
+          "english": "Achaia"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Why? Because I don’t love you? God knows.",
+      "understanding": "Eight words in English and the whole wound is visible. He has heard what they are saying behind the refusal — that a man who will not take your money will not take you either. Why? Because I don't love you? God knows. He does not offer proof. He appeals to the only Witness who cannot be spun, and moves on.",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "love"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "knows"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "But what I do, that I will do, that I may cut off occasion from them that desire an occasion, that in which they boast, they may be found even as we.",
+      "understanding": "Aphormē is a military word for a base of operations, the launching point of an expedition. The rivals wanted a platform from which they could claim to be on the same footing as Paul — and his fee-free preaching is the one ground they cannot stand on. So he will keep doing exactly what he is doing, precisely in order to deny them the launch pad. He is not being stubborn; he is defending the church's future.",
+      "words": [
+        {
+          "strongs": "G874",
+          "hebrew": "ἀφορμή",
+          "translit": "aphormḗ",
+          "english": "occasion / base of operations"
+        },
+        {
+          "strongs": "G1581",
+          "hebrew": "ἐκκόπτω",
+          "translit": "ekkóptō",
+          "english": "cut off"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "For such men are false apostles, deceitful workers, masquerading as Christ’s apostles.",
+      "understanding": "The gloves come off and the naming begins. Pseudapostolos — false apostle — appears nowhere else in the New Testament; Paul builds the word on the spot because the thing itself needed a name. Then the devastating middle phrase: deceitful workers. They work. They are not lazy men; they are labouring hard at the wrong thing. And metaschēmatizō means to change the outward figure, to costume oneself — the fraud is in the appearance, not the effort.",
+      "words": [
+        {
+          "strongs": "G5570",
+          "hebrew": "ψευδαπόστολος",
+          "translit": "pseudapóstolos",
+          "english": "false apostles"
+        },
+        {
+          "strongs": "G1386",
+          "hebrew": "δόλιος",
+          "translit": "dólios",
+          "english": "deceitful"
+        },
+        {
+          "strongs": "G2040",
+          "hebrew": "ἐργάτης",
+          "translit": "ergátēs",
+          "english": "workers"
+        },
+        {
+          "strongs": "G3345",
+          "hebrew": "μετασχηματίζω",
+          "translit": "metaschēmatízō",
+          "english": "masquerading"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "And no wonder, for even Satan masquerades as an angel of light.",
+      "understanding": "And no wonder — Paul says the counterfeit should not even surprise them, because it is a family trait. Satan does not appear in a costume of darkness; he takes the outward figure of an angel of light. Do not blunt this. The most dangerous counterfeit in your life will not feel evil. It will feel illuminating, elevating, more spiritual than what you had. That is the entire point of the sentence.",
+      "words": [
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        },
+        {
+          "strongs": "G3345",
+          "hebrew": "μετασχηματίζω",
+          "translit": "metaschēmatízō",
+          "english": "masquerades"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G5457",
+          "hebrew": "φῶς",
+          "translit": "phōs",
+          "english": "light"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "It is no great thing therefore if his servants also masquerade as servants of righteousness, whose end will be according to their works.",
+      "understanding": "The logic closes: if the master dresses as light, his staff will dress as righteousness. Not as sin — as righteousness. They will be moral, disciplined, biblical-sounding, and impressive at close range. Then Paul drops the one sentence that stops all of it: whose end will be according to their works. He does not tell the Corinthians to hunt these men down. He tells them where the story finishes and leaves the accounting to God.",
+      "words": [
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "télos",
+          "english": "end"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "I say again, let no one think me foolish. But if so, yet receive me as foolish, that I also may boast a little.",
+      "understanding": "He circles back to verse 1 and asks permission again, because he genuinely hates what he is about to do. Aphrōn is the adjective behind the foolishness of verse 1 — mindless, senseless. Receive me as foolish, then, if that is the only category you have left for a man who will not perform for you. He is asking to be heard in the costume they have already fitted him with.",
+      "words": [
+        {
+          "strongs": "G878",
+          "hebrew": "ἄφρων",
+          "translit": "áphrōn",
+          "english": "foolish"
+        },
+        {
+          "strongs": "G1380",
+          "hebrew": "δοκέω",
+          "translit": "dokéō",
+          "english": "think"
+        },
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boast"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "That which I speak, I don’t speak according to the Lord, but as in foolishness, in this confidence of boasting.",
+      "understanding": "One of the most startlingly honest sentences Paul ever wrote: what I am about to say, I am not saying according to the Lord. He is not claiming a fresh word from heaven for the boast-list; he is telling you plainly that self-promotion is not the Lord's manner, and that he is stepping into it under protest because nothing else has worked. Hypostasis is the word for something set underneath — a foundation, a substructure. In this confidence, this scaffolding of boasting, he says: I am standing on ground I do not respect.",
+      "words": [
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "speak"
+        },
+        {
+          "strongs": "G877",
+          "hebrew": "ἀφροσύνη",
+          "translit": "aphrosýnē",
+          "english": "foolishness"
+        },
+        {
+          "strongs": "G5287",
+          "hebrew": "ὑπόστασις",
+          "translit": "hypóstasis",
+          "english": "confidence / substructure"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Seeing that many boast after the flesh, I will also boast.",
+      "understanding": "Kata sarka — according to the flesh, by the standards of the visible man: pedigree, platform, presence, numbers. Paul names the game exactly and then says he will play one round of it. Remember he had just written that the man who boasts must boast in the Lord (10:17). He knows he is breaking his own rule, and he says so out loud rather than dressing it up.",
+      "words": [
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boast"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "For you bear with the foolish gladly, being wise.",
+      "understanding": "The Greek is a pun with a blade in it: you gladly bear with the mindless ones (aphronōn), being so very sensible yourselves (phronimoi). It is the same word with and without its negative prefix. Their tolerance of fools is being offered as proof of their wisdom, and everyone can hear that it is not a compliment.",
+      "words": [
+        {
+          "strongs": "G878",
+          "hebrew": "ἄφρων",
+          "translit": "áphrōn",
+          "english": "foolish"
+        },
+        {
+          "strongs": "G5429",
+          "hebrew": "φρόνιμος",
+          "translit": "phrónimos",
+          "english": "wise"
+        },
+        {
+          "strongs": "G430",
+          "hebrew": "ἀνέχομαι",
+          "translit": "anéchomai",
+          "english": "bear with"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "For you bear with a man, if he brings you into bondage, if he devours you, if he takes you captive, if he exalts himself, if he strikes you on the face.",
+      "understanding": "Five escalating clauses, and every one of them describes something the Corinthians were actually absorbing without complaint. Katadouloō is to enslave utterly; katesthiō is to eat down, devour, the word for a predator finishing a carcass — and here it means eating their money. Then: takes you captive, exalts himself, and finally strikes you on the face. They would take a slap from a con man and would not take a letter from the father who gave them Christ.",
+      "words": [
+        {
+          "strongs": "G2615",
+          "hebrew": "καταδουλόω",
+          "translit": "katadoulóō",
+          "english": "brings into bondage"
+        },
+        {
+          "strongs": "G2719",
+          "hebrew": "κατεσθίω",
+          "translit": "katesthíō",
+          "english": "devours"
+        },
+        {
+          "strongs": "G1869",
+          "hebrew": "ἐπαίρω",
+          "translit": "epaírō",
+          "english": "exalts himself"
+        },
+        {
+          "strongs": "G1194",
+          "hebrew": "δέρω",
+          "translit": "dérō",
+          "english": "strikes"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "I speak by way of disparagement, as though we had been weak. Yet in whatever way anyone is bold (I speak in foolishness), I am bold also.",
+      "understanding": "Atimia is dishonour, disgrace — I say this to my own shame. Then the most loaded sarcasm in the chapter: as though we had been weak. He is repeating their charge in their own tone, and he will spend the next nine verses agreeing with it in a way they never expected. Yes: weak. Let me tell you how weak.",
+      "words": [
+        {
+          "strongs": "G819",
+          "hebrew": "ἀτιμία",
+          "translit": "atimía",
+          "english": "disparagement / dishonour"
+        },
+        {
+          "strongs": "G770",
+          "hebrew": "ἀσθενέω",
+          "translit": "asthenéō",
+          "english": "weak"
+        },
+        {
+          "strongs": "G5111",
+          "hebrew": "τολμάω",
+          "translit": "tolmáō",
+          "english": "bold"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they the offspring of Abraham? So am I.",
+      "understanding": "Three questions, three identical answers, delivered like a man laying cards down one at a time. The rivals were Jewish teachers trading on pedigree — Hebrew (rooted in the language and homeland), Israelite (covenant citizen), seed of Abraham (heir of the promise). Paul matches every card without raising his voice, because pedigree is exactly the currency he intends to prove worthless.",
+      "words": [
+        {
+          "strongs": "G1445",
+          "hebrew": "Ἑβραῖος",
+          "translit": "Hebraîos",
+          "english": "Hebrews"
+        },
+        {
+          "strongs": "G2475",
+          "hebrew": "Ἰσραηλίτης",
+          "translit": "Israēlítēs",
+          "english": "Israelites"
+        },
+        {
+          "strongs": "G4690",
+          "hebrew": "σπέρμα",
+          "translit": "spérma",
+          "english": "offspring / seed"
+        },
+        {
+          "strongs": "G11",
+          "hebrew": "Ἀβραάμ",
+          "translit": "Abraám",
+          "english": "Abraham"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "Are they servants of Christ? (I speak as one beside himself) I am more so; in labors more abundantly, in prisons more abundantly, in stripes above measure, in deaths often.",
+      "understanding": "The fourth question breaks the pattern, and Paul stops to warn you that he has left his mind behind: paraphroneō, to be out of one's senses, deranged. Then watch the evidence he produces for being a better servant of Christ. Not converts, not miracles, not cities taken — labours, prisons, floggings, and repeated brushes with death. He answers a status question with a scar count.",
+      "words": [
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G3912",
+          "hebrew": "παραφρονέω",
+          "translit": "paraphronéō",
+          "english": "beside himself"
+        },
+        {
+          "strongs": "G2873",
+          "hebrew": "κόπος",
+          "translit": "kópos",
+          "english": "labors"
+        },
+        {
+          "strongs": "G5438",
+          "hebrew": "φυλακή",
+          "translit": "phylakḗ",
+          "english": "prisons"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "stripes"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "deaths"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "Five times from the Jews I received forty stripes minus one.",
+      "understanding": "The Law capped a flogging at forty strokes (Deuteronomy 25:3), and Jewish practice fixed the count at thirty-nine so a miscount could never break the Law. Five times means one hundred and ninety-five strokes laid across the same back. And here is the detail that should stop you: synagogue discipline could only fall on a man who kept presenting himself to the synagogue. He could have avoided every one of these by staying away. He went back.",
+      "words": [
+        {
+          "strongs": "G2453",
+          "hebrew": "Ἰουδαῖος",
+          "translit": "Ioudaîos",
+          "english": "Jews"
+        },
+        {
+          "strongs": "G3999",
+          "hebrew": "πεντάκις",
+          "translit": "pentákis",
+          "english": "five times"
+        },
+        {
+          "strongs": "G5062",
+          "hebrew": "τεσσαράκοντα",
+          "translit": "tessarákonta",
+          "english": "forty"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Three times I was beaten with rods. Once I was stoned. Three times I suffered shipwreck. I have been a night and a day in the deep.",
+      "understanding": "Rods were Roman, swung by the lictors of a magistrate — the punishment inflicted at Philippi, and illegal against a Roman citizen. Stoned once is Lystra, where they dragged him out of the city assuming he was dead. Three shipwrecks, and none of them is the famous one; the wreck off Malta had not happened yet. Nychthēmeron means a full twenty-four-hour cycle — a day and a night alone in open water, and he gives it one line.",
+      "words": [
+        {
+          "strongs": "G4463",
+          "hebrew": "ῥαβδίζω",
+          "translit": "rhabdízō",
+          "english": "beaten with rods"
+        },
+        {
+          "strongs": "G3034",
+          "hebrew": "λιθάζω",
+          "translit": "litházō",
+          "english": "stoned"
+        },
+        {
+          "strongs": "G3489",
+          "hebrew": "ναυαγέω",
+          "translit": "nauagéō",
+          "english": "suffered shipwreck"
+        },
+        {
+          "strongs": "G3574",
+          "hebrew": "νυχθήμερον",
+          "translit": "nychthḗmeron",
+          "english": "a night and a day"
+        },
+        {
+          "strongs": "G1037",
+          "hebrew": "βυθός",
+          "translit": "bythós",
+          "english": "the deep"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "I have been in travels often, perils of rivers, perils of robbers, perils from my countrymen, perils from the Gentiles, perils in the city, perils in the wilderness, perils in the sea, perils among false brothers;",
+      "understanding": "Eight perils, and the pattern is the whole map of his world closing in: nature (rivers, sea), crime (robbers), his own blood, the Gentiles, the city, the wilderness. There is nowhere on the list that is safe. And read where the sequence ends — not with the sea but with false brothers. The last and worst danger in the catalogue is inside the church.",
+      "words": [
+        {
+          "strongs": "G2794",
+          "hebrew": "κίνδυνος",
+          "translit": "kíndynos",
+          "english": "perils"
+        },
+        {
+          "strongs": "G3597",
+          "hebrew": "ὁδοιπορία",
+          "translit": "hodoiporía",
+          "english": "travels"
+        },
+        {
+          "strongs": "G3027",
+          "hebrew": "λῃστής",
+          "translit": "lēistḗs",
+          "english": "robbers"
+        },
+        {
+          "strongs": "G2047",
+          "hebrew": "ἐρημία",
+          "translit": "erēmía",
+          "english": "wilderness"
+        },
+        {
+          "strongs": "G5569",
+          "hebrew": "ψευδάδελφος",
+          "translit": "pseudádelphos",
+          "english": "false brothers"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "in labor and travail, in watchings often, in hunger and thirst, in fastings often, and in cold and nakedness.",
+      "understanding": "Now the unglamorous half — not the dramatic beatings but the grinding daily cost. Kopos is labour that wears the strength out of a man; mochthos is toil that carries sadness in it. Agrypnia is sleeplessness, nights of lying awake. Hunger, thirst, cold, and gymnotēs — without adequate clothing, exposed. This is the part of ministry no one applauds and no one puts on a poster.",
+      "words": [
+        {
+          "strongs": "G2873",
+          "hebrew": "κόπος",
+          "translit": "kópos",
+          "english": "labor"
+        },
+        {
+          "strongs": "G3449",
+          "hebrew": "μόχθος",
+          "translit": "móchthos",
+          "english": "travail"
+        },
+        {
+          "strongs": "G70",
+          "hebrew": "ἀγρυπνία",
+          "translit": "agrypnía",
+          "english": "watchings"
+        },
+        {
+          "strongs": "G3042",
+          "hebrew": "λιμός",
+          "translit": "limós",
+          "english": "hunger"
+        },
+        {
+          "strongs": "G1373",
+          "hebrew": "δίψος",
+          "translit": "dípsos",
+          "english": "thirst"
+        },
+        {
+          "strongs": "G3521",
+          "hebrew": "νηστεία",
+          "translit": "nēsteía",
+          "english": "fastings"
+        },
+        {
+          "strongs": "G5592",
+          "hebrew": "ψύχος",
+          "translit": "psýchos",
+          "english": "cold"
+        },
+        {
+          "strongs": "G1132",
+          "hebrew": "γυμνότης",
+          "translit": "gymnótēs",
+          "english": "nakedness"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "Besides those things that are outside, there is that which presses on me daily: anxiety for all the assemblies.",
+      "understanding": "Besides those things that are outside — as if the beatings were the easy part. Episystasis is a crowd pressing in, a mob gathering against a man, and it comes at him every single day. Then he names the mob: merimna, anxiety, from a root meaning to divide — a mind torn into as many pieces as there are churches. The strongest man in the New Testament tells you plainly that he carried daily anxiety, and does not apologise for it.",
+      "words": [
+        {
+          "strongs": "G1999",
+          "hebrew": "ἐπισύστασις",
+          "translit": "episýstasis",
+          "english": "that which presses on me"
+        },
+        {
+          "strongs": "G3308",
+          "hebrew": "μέριμνα",
+          "translit": "mérimna",
+          "english": "anxiety"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assemblies"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "Who is weak, and I am not weak? Who is caused to stumble, and I don’t burn with indignation?",
+      "understanding": "Two questions with no distance in them. He does not say he helps the weak; he says he goes weak with them. And pyroō means to be set on fire — when someone is tripped into sin, something in Paul combusts. This is the opposite of the professional detachment his rivals were selling. He had no protective layer left, and he counts that as the qualification.",
+      "words": [
+        {
+          "strongs": "G770",
+          "hebrew": "ἀσθενέω",
+          "translit": "asthenéō",
+          "english": "is weak"
+        },
+        {
+          "strongs": "G4624",
+          "hebrew": "σκανδαλίζω",
+          "translit": "skandalízō",
+          "english": "caused to stumble"
+        },
+        {
+          "strongs": "G4448",
+          "hebrew": "πυρόω",
+          "translit": "pyróō",
+          "english": "burn with indignation"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "If I must boast, I will boast of the things that concern my weakness.",
+      "understanding": "Here is the sentence the whole fool's speech was built to deliver, and it inverts every résumé ever written. If boasting is unavoidable, he will boast in the things that concern his weakness — astheneia, feebleness, the state of having no strength. Not his triumphs edited to look humble. His weakness itself, as the credential. Two verses later he will illustrate it with the least dignified moment of his life.",
+      "words": [
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boast"
+        },
+        {
+          "strongs": "G769",
+          "hebrew": "ἀσθένεια",
+          "translit": "asthéneia",
+          "english": "weakness"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "The God and Father of the Lord Jesus Christ, he who is blessed forever more, knows that I don’t lie.",
+      "understanding": "He stops the speech to swear an oath, which tells you how far past belief the list must have sounded. He invokes not merely God but the God and Father of the Lord Jesus Christ, the One who is blessed forever more, as witness that he is not exaggerating. A man who was inventing wounds would not summon that Name.",
+      "words": [
+        {
+          "strongs": "G2128",
+          "hebrew": "εὐλογητός",
+          "translit": "eulogētós",
+          "english": "blessed"
+        },
+        {
+          "strongs": "G5574",
+          "hebrew": "ψεύδομαι",
+          "translit": "pseúdomai",
+          "english": "lie"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "text": "In Damascus the governor under King Aretas guarded the Damascenes’ city, desiring to arrest me.",
+      "understanding": "The oath is followed not by a miracle but by a humiliation, and Paul dates it from the very beginning of his ministry. Aretas IV ruled Nabatea, and his ethnarch — a district officer, not a king — had the city gates of Damascus watched to arrest one man. Acts tells the same night from the other side, with the local opposition watching the gates day and night; the honest reading is that both were involved, and Paul was worth a citywide manhunt roughly twenty years before he wrote this.",
+      "words": [
+        {
+          "strongs": "G1481",
+          "hebrew": "ἐθνάρχης",
+          "translit": "ethnárchēs",
+          "english": "governor"
+        },
+        {
+          "strongs": "G702",
+          "hebrew": "Ἀρέτας",
+          "translit": "Arétas",
+          "english": "Aretas"
+        },
+        {
+          "strongs": "G5432",
+          "hebrew": "φρουρέω",
+          "translit": "phrouréō",
+          "english": "guarded"
+        },
+        {
+          "strongs": "G4084",
+          "hebrew": "πιάζω",
+          "translit": "piázō",
+          "english": "arrest"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "text": "Through a window I was let down in a basket by the wall, and escaped his hands.",
+      "understanding": "And this is how the greatest apostle in history chooses to end his boast. Not a chariot, not a pulpit — a window, a wicker basket, and a rope. Chalaō means to lower into a void. Sarganē is the woven hamper you would use for fish or laundry. Rome awarded a special crown to the first soldier over the wall of a besieged city; Paul went over the wall in the other direction, hanging in a basket in the dark, and he puts that on his résumé on purpose.",
+      "words": [
+        {
+          "strongs": "G2376",
+          "hebrew": "θυρίς",
+          "translit": "thyrís",
+          "english": "window"
+        },
+        {
+          "strongs": "G4553",
+          "hebrew": "σαργάνη",
+          "translit": "sargánē",
+          "english": "basket"
+        },
+        {
+          "strongs": "G5465",
+          "hebrew": "χαλάω",
+          "translit": "chaláō",
+          "english": "let down"
+        },
+        {
+          "strongs": "G5038",
+          "hebrew": "τεῖχος",
+          "translit": "teîchos",
+          "english": "wall"
+        },
+        {
+          "strongs": "G1628",
+          "hebrew": "ἐκφεύγω",
+          "translit": "ekpheúgō",
+          "english": "escaped"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Father Standing in the Doorway of the Betrothal",
+      "verseRef": "v. 2",
+      "image": "A first-century betrothal. The contract is signed, the bride price is paid, and the girl is legally bound to one man though the wedding is still months away. In that gap her family guards her, because a betrothal broken by unfaithfulness is not a break-up — it is adultery. Now put Paul in that doorway. He did the matchmaking. He walked her down the road and handed her over. And he is still standing at the door of the interval, watching who comes up the path, checking the hands of every visitor who arrives with a smile and a letter of recommendation.",
+      "meaning": "This is why chapters 10-13 sound the way they do. Paul is not a bruised professional protecting a brand; he is a father with somebody else's honour in his hands. Zēlos comes from zeō, to boil — and he calls it a jealousy of God, the same fierce, possessive claim God makes over His people through every prophet. A love that would not boil at the thought of losing you is not love; it is indifference with good manners. And notice the timing built into the picture: the wedding has not happened yet. Your whole Christian life is being lived inside the engagement, and the interval is exactly where the guarding is needed."
+    },
+    {
+      "title": "The Question That Did Not Sound Like an Attack",
+      "verseRef": "v. 3",
+      "image": "Eden. No roar, no weapon, no smell of sulphur. A conversation. A question about a tree, asked in a reasonable voice by something that had every appearance of belonging there. Panourgia is the readiness to do literally anything to win — and the anything it selected was courtesy. Eve was not overpowered, wrestled down, or threatened. She was persuaded, in daylight, by a creature that let her do most of the talking.",
+      "meaning": "Paul fears precisely this at Corinth, and watch what he says is at risk: the minds — noēma, the perception, the way things look to you — before ever the behaviour. And watch what is lost: haplotēs, singleness, a devotion with only one fold in it. Deception almost never begins by deleting Christ. It begins by adding: a second authority, a second standard, a second gospel laid quietly beside the first until you can no longer tell which one you are actually obeying. So ask the uncomfortable question. What has been added beside your Christ in the last two years — not instead of Him, beside Him — and when did you stop noticing it was there?"
+    },
+    {
+      "title": "The Angel Made of Light",
+      "verseRef": "v. 13-15",
+      "image": "Nobody in Corinth was ever going to be deceived by something that arrived hissing. What arrived carried letters of recommendation, spoke beautifully, drew a crowd, and looked considerably more spiritual than the short man with the tent-maker's calluses and the scars nobody wanted to hear about. Now widen the shot until you can see the whole stage: Paul says the figure who costumed himself in Eden is still changing outfits, and the costume he wears is not black. It is light — the brightest thing in the room.",
+      "meaning": "Metaschēmatizō is a change of schēma, of outward figure: a costume change, not a change of nature. The counterfeit does not present as sin. It presents as illumination, as a higher spirituality, as a better-tailored righteousness — verse 15 says his servants come dressed as servants of righteousness. That is the single most useful sentence in this chapter for a modern believer, because we have been trained to watch for darkness and have almost no defence against the luminous. And notice what Paul does not do: he does not deputise the church as a militia. He names the danger, gives the test, and hands the verdict to God — whose end will be according to their works."
+    },
+    {
+      "title": "The Basket",
+      "verseRef": "v. 32-33",
+      "image": "A city wall at night. A rope, a window, and a wicker fish-hamper with a grown man folded into it, swinging and scraping against stone while friends above brace their arms and try not to make noise. No crowd. No anointing service. No pillar of fire. Just the creak of rope, the cold, and the whole future of the Gentile mission hanging over a drop in a basket you would otherwise use to carry laundry.",
+      "meaning": "Rome awarded a crown of gold, shaped like a battlement, to the first soldier over the wall of a besieged city. Paul went over the wall in the opposite direction, in the dark, in a basket. He could have ended the boast anywhere — he is holding the third heaven back for the next chapter, and even then he will talk about it in the third person. He ends it here on purpose. Chalaō means to lower into a void; sarganē is woven wicker. This is a man selecting the least dignified memory of his life as the flagship of his apostolic résumé, because everything in chapters 10-13 is driving toward one sentence: “My grace is sufficient for you, for my power is made perfect in weakness” (12:9). The basket is that sentence with a rope tied to it."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Jealous Father and the Serpent's Craft (v. 1-4)",
+        "body": "Paul asks leave to speak foolishly, names his motive as a betrothal father's jealousy, and says out loud what he is really afraid of — that Corinth is being un-folded from a single-hearted devotion by another Jesus, a different spirit and a different good news, which they are tolerating beautifully."
+      },
+      {
+        "label": "Unskilled in Speech, Not in Knowledge (v. 5-6)",
+        "body": "He concedes the oratory charge without a fight, refuses the knowledge charge outright, and offers as evidence not a speech but eighteen months of an open life lived in front of them."
+      },
+      {
+        "label": "The Charge That He Preached for Free (v. 7-12)",
+        "body": "In a city where a teacher's fee was his price tag, refusing pay read as an admission of worthlessness — so Paul answers with scorching irony, an oath on the truth of Christ, and a refusal to hand his rivals the one platform they want."
+      },
+      {
+        "label": "False Apostles and the Luminous Counterfeit (v. 13-15)",
+        "body": "The naming: spurious apostles, deceitful workers, costumed as Christ's apostles — following a master who costumes himself as an angel of light, and ending according to their works."
+      },
+      {
+        "label": "The Fool's Speech: A Résumé of Wounds (v. 16-27)",
+        "body": "Under protest and with the parody clearly labelled, Paul matches pedigree card for card, then answers a status contest with one hundred and ninety-five lashes, rods, a stoning, three shipwrecks, hunger, sleeplessness and cold."
+      },
+      {
+        "label": "The Daily Weight, and the Basket (v. 28-33)",
+        "body": "Beneath the visible wounds sits the invisible one — a daily crowd of anxiety for all the assemblies — and the boast ends not with a triumph but with a man swearing an oath and then describing his own escape in a laundry basket."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Another Jesus, a Different Spirit, a Different Good News — and the Tolerance That Proves the Problem",
+        "paragraphs": [
+          "Verse 4 is the sharpest diagnostic tool in the entire letter, and the Greek makes it sharper still. Paul writes of another (allos) Jesus, but a different (heteros) spirit and a different (heteros) good news. Allos ordinarily means another of the same kind; heteros means another of a different kind altogether. Koine does not always press that distinction hard, so do not build a doctrine on the particle alone — but the switch happens inside a single sentence, and Paul makes exactly the same move in reverse to the Galatians, marvelling that they are so quickly deserting him who called them in the grace of Christ to a different “good news” — and adding at once that there isn’t another “good news.” The man knows what he is doing with those two words. And notice what his test does not include: not the preacher's polish, not his crowd, not his letters, not his results. Three questions only. Which Jesus. Which spirit. Which news.",
+          "Then comes the line that must not be softened: “you put up with that well enough.” It is bitter, and it is accurate. What a church tolerates is its real doctrinal statement, whatever is printed on the wall. Verses 19-20 spell out just how much this one could absorb — a man who enslaves them, devours them, takes them, exalts himself over them, even strikes them in the face — and they bore it gladly, being so very wise. The same congregation could not bear a tearful letter from the father who gave them Christ. Read that pairing until it stings, because it explains most of church history and quite a lot of your own listening habits: a counterfeit that flatters you is far easier to sit under than a father who corrects you.",
+          "Notice how the chapter is built, because the architecture is the argument. One verb, anechomai — to hold yourself up under a thing, to bear with it — runs through it five times in four verses: “bear with me in a little foolishness, but indeed you do bear with me” (v.1); “you put up with that well enough” (v.4); “you bear with the foolish gladly” (v.19); “you bear with a man, if he brings you into bondage” (v.20). The fool's speech is organised around a single question, and it is not “what do you believe?” It is “what will you bear with?” Those are not the same question, and the second is the honest one — because a man's real creed is not the thing he would defend in an argument, it is the thing he will sit under, week after week, without flinching.",
+          "Which is also why the chapter opens with jealousy rather than with doctrine. Discernment here is not a technique; it is an affection. Paul tests these teachers because he loves the bride — verse 2 is the reason verse 4 exists — and verse 11 shows you what the testing cost him: “Why? Because I don't love you? God knows.” Tolerance of a counterfeit is never proof of a large heart. It is proof that the thing being counterfeited was not precious enough to guard. Nobody checks the hallmark on jewellery they do not care about. The father standing in the betrothal doorway inspects every visitor precisely because the bride is not his — she was promised to Somebody else, and he intends to deliver her whole."
+        ]
+      },
+      {
+        "heading": "The Sin of Preaching Free — Why Money Was the Deepest Wound",
+        "paragraphs": [
+          "To feel verse 7 you have to feel Corinth. Travelling teachers charged, and the fee was the price tag; a man who worked for nothing was either worth nothing or was insulting you, because in a patronage culture a gift creates a bond and refusing to be paid is refusing to be held. Worse, Paul supported himself with his hands at a leather bench, and manual labour carried real social stigma among the people whose good opinion Corinth cared about. So the charge assembled itself: he knows he is not worth a fee, and he will not let us own him. Hear the question again with that in the room: “Or did I commit a sin in humbling myself that you might be exalted, because I preached to you God’s Good News free of charge?” He uses hamartia — the full, weighty word for sin. Was my self-lowering a crime?",
+          "He had already explained himself to this same church years earlier. The right to be supported was real and the Lord Himself had ordained it, and Paul refused to use it: “Nevertheless we did not use this right, but we bear all things, that we may cause no hindrance to the Good News of Christ” (1 Corinthians 9:12), and his reward was “that, when I preach the Good News, I may present the Good News of Christ without charge” (9:18). That is also the answer to the obvious objection about verses 8-9. He took money from Macedonian churches while serving Corinth, and he says so in the ugliest verb available — sylaō, to plunder a beaten enemy — and then twists the knife by calling it opsōnion, a soldier's rations. He would receive from churches he was not currently serving; he would not receive from the church he was currently serving. The moment Corinth paid him, the gospel in Corinth would have a price attached and a patron attached, and both would have to be answered to.",
+          "And underneath the economics is a wound you can hear breathing. “Why? Because I don’t love you? God knows.” He offers no evidence, mounts no defence, produces no testimonial. He appeals to the only Witness who cannot be lobbied and moves on. One chapter later the thought finishes itself: “I seek not your possessions, but you… I will most gladly spend and be spent for your souls” (12:14-15). This is the costliest form of love there is, because it deliberately removes every possible explanation for itself except love. If he took nothing, nobody could ever say he came for the money — and that is exactly why they said he came without love. Some people will read your refusal to take from them as proof you do not want them. Let God know, and keep going."
+        ]
+      },
+      {
+        "heading": "The Counterfeit Is Luminous, Not Dark — and How You Are Meant to Tell",
+        "paragraphs": [
+          "Three times in three verses Paul uses metaschēmatizō: the false apostles masquerade as apostles of Christ, Satan masquerades as an angel of light, his servants masquerade as servants of righteousness. Schēma is the outward figure, the changeable appearance — the shape a thing presents, not the nature it possesses. So the disguise is total at the level of appearance and non-existent at the level of being. And do not blunt verse 14 with familiarity: the enemy's most effective form is not the horror-film silhouette. It is radiance. It is the ministry that feels like an upgrade, the teaching that makes you feel more spiritual than you were last year, the leader whose presence makes ordinary faithfulness look small. It is worth noticing that a Jewish retelling of the Eden story circulating in that century has the adversary taking on the brightness of an angel in order to reach Eve — which is very likely why the serpent of verse 3 and the shining angel of verse 14 stand in the same chapter, ten verses apart.",
+          "So how are you supposed to tell? Not by brightness, and not by industry either — Paul calls them “deceitful workers,” which means they work hard. He gives three usable markers, and they are all in this chapter. First, the content test of verse 4: which Jesus, which spirit, which good news. Second, the conduct test of verse 20: does this ministry enslave you, devour your resources, take you over, exalt itself, and treat contempt for you as normal? Read that verse as a checklist and a great many well-lit ministries fail it in the first clause. Third, the weakness test of verse 30: watch what a man boasts in when he is cornered. The counterfeit under pressure will always reach for what makes him look strong. Paul under pressure reaches for a basket.",
+          "Then the sentence that keeps this from turning ugly: “whose end will be according to their works.” Paul names them, warns the church, and hands the verdict to God. He does not organise a hunt, he does not tell Corinth to become a discernment militia, and he never once suggests they answer polish with better polish. He gives them a test they can apply themselves, an end they can leave with God, and a father's jealousy as the reason he bothered at all."
+        ]
+      },
+      {
+        "heading": "Boasting He Knows Is Wrong — Reading Verse 17 Without Flinching",
+        "paragraphs": [
+          "Verse 17 is one of the most startlingly honest lines Paul ever dictated: “That which I speak, I don’t speak according to the Lord, but as in foolishness, in this confidence of boasting.” One chapter earlier he had laid down the rule — the man who boasts must boast in the Lord — and here he breaks it in public and tells you he is breaking it. Say clearly what he means and what he does not. He is not saying this paragraph is less than Scripture; he is saying that self-commendation is not the manner of the Lord, and that he is stepping into it under duress, as parody, because nothing gentler has broken the spell. The Holy Spirit inspired the record of a great man doing under protest the one thing he despised — and had him label it three separate times (v.1, v.16, v.21) so nobody could ever mistake the parody for a pattern.",
+          "And the content of the boast is the punchline. A man parodying a status contest would normally counter with better statistics. Paul counters with one hundred and ninety-five lashes, three beatings with Roman rods, a stoning, three shipwrecks, a day and a night adrift in open sea, hunger, thirst, sleeplessness, cold and exposure — and then, as the crowning item, a night-time escape in a basket. He enters their game and empties it from the inside. By verse 30 the parody has quietly become the doctrine: “If I must boast, I will boast of the things that concern my weakness.” Every résumé ever written is inverted in eleven words, and the next chapter will tell you why it works — “My grace is sufficient for you, for my power is made perfect in weakness” (12:9).",
+          "One honest note and then move on: because chapters 10-13 run at a visibly different temperature from chapters 1-9, some read them as a separate letter later stitched in. No manuscript shows a seam, and a man writing about a wound he is still bleeding from has never needed an editorial theory to explain a change of tone."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Set this chapter beside Galatians 1 and watch the same apostle run the same test with the same result. To Corinth: if he who comes preaches another Jesus, whom we did not preach, or if you receive a different spirit… or a different “good news”… you put up with that well enough. To Galatia: I marvel that you are so quickly deserting him who called you in the grace of Christ to a different “good news”; and there isn’t another “good news.” The heteros and the allos change places, and the point is identical — what has arrived is not a variant of the message, it is a different species. Then Galatians 1:8 presses the knife exactly where 2 Corinthians 11:14 presses it: even though we, or an angel from heaven, should preach to you any “good news” other than that which we preached to you, let him be cursed. An angel from heaven in Galatians; an angel of light in Corinth. Paul's rule in both letters is the same and it is brutally simple: the messenger's rank never decides. The message decides. If the rank of the speaker could settle it, an angel would settle it — and Paul says an angel would not.",
+        "The betrothal of verse 2 gets its answer in Ephesians, and the link is a verb. Paul says he betrothed Corinth to one husband “that I might present you as a pure virgin to Christ” — paristēmi, to stand a thing forward, to present. Ephesians uses that same verb of the Bridegroom Himself: Christ loved the assembly and gave Himself up for it, having cleansed it by the washing of water with the word, “that he might present the assembly to himself gloriously, not having spot or wrinkle or any such thing; but that it should be holy and without defect” (Ephesians 5:25-27). Read the two together and the pastoral relief is enormous. Paul's fear in 11:2-3 is real — a betrothed church really can be seduced, and he does not pretend otherwise. But the final presentation of the bride is not carried out by the anxious apostle at the door. It is carried out by the Husband, who does His own cleansing and His own presenting, and does not lose her.",
+        "And the wound-list of verses 23-27 surfaces once more, about a year later, in a letter Paul wrote from Corinth itself: “Who shall separate us from the love of Christ? Could oppression, or anguish, or persecution, or famine, or nakedness, or peril, or sword?” (Romans 8:35). That is not an abstract catalogue, and it is not even a fresh one — three of its words are lifted straight out of the fool's speech. Limos (famine/hunger), gymnotēs (nakedness) and kindynos (peril) are the very nouns of 2 Corinthians 11:26-27. Nearly every item on that Romans list had already happened to the man writing it, and he had just finished listing them to this very church; only the sword was still ahead of him, and it was coming. His verdict there is the verdict chapter 11 is reaching for: “No, in all these things, we are more than conquerors through him who loved us” (Romans 8:37). Not out of them — in them. The fool's speech is the raw data; Romans 8 is the conclusion; and 2 Corinthians 12:9 is the reason both are true."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Jealousy / to be jealous",
+      "hebrew": "ζῆλος",
+      "translit": "zēlos",
+      "strongs": "G2205 (with the verb zēloō, G2206)",
+      "verses": "v. 2",
+      "insight": "Strong's traces it to zeō, to boil, and defines it as “properly, heat, i.e. (figuratively) zeal… (in an unfavorable one, jealousy, as of a husband (figuratively, of God), or an enemy).” The dictionary entry itself names the husband. This is not the petty possessiveness of an insecure man; it is the boiling point of covenant love, the thing God claims for Himself all through the prophets. And Paul qualifies it precisely — a jealousy of God, God's own kind. Which means the whole savage tone of chapters 10-13 has a source you can respect: not wounded ego but a father at the door of a betrothal, watching who comes up the path. Test your own zeal by its object. Jealousy that is fighting for your reputation is flesh. Jealousy that is fighting for someone else's purity is the love of God running hot."
+    },
+    {
+      "english": "Craftiness / readiness to do anything",
+      "hebrew": "πανουργία",
+      "translit": "panourgía",
+      "strongs": "G3834",
+      "verses": "v. 3",
+      "insight": "Built from pan (all) and ergon (work) — literally all-workingness, the capacity and willingness to do absolutely anything to achieve the end. Strong's renders it “adroitness, i.e. (in a bad sense) trickery or sophistry.” The word tells you the enemy has no method he will not use and no tone he will not adopt; in Eden the anything he selected was a polite question. Notice that Paul names craftiness rather than force as the danger to the church. Nothing in Corinth was being attacked. Something was being offered. And the counter-quality Paul names is not cleverness but haplotēs — you do not out-manoeuvre panourgia, you refuse it by staying single-hearted."
+    },
+    {
+      "english": "Simplicity / singleness of heart",
+      "hebrew": "ἁπλότης",
+      "translit": "haplótēs",
+      "strongs": "G572",
+      "verses": "v. 3",
+      "insight": "Strong's: “singleness, i.e. (subjectively) sincerity (without dissimulation or self-seeking), or (objectively) generosity.” The root idea is unfolded — a cloth of one thickness, with no hidden second layer. Paul's fear is not that Corinth will renounce Christ but that their minds will be corrupted away from the singleness that is in Christ, which is a very different thing. Deception in a believer's life almost never works by subtraction; it works by addition, quietly laying a second loyalty, a second standard, a second gospel beside the first until you cannot tell which one you are obeying. The same word turns up in this letter as generosity in giving (chapters 8-9) — because a single heart and an open hand are the same organ. Ask what has been folded in beside your Christ, and unfold it."
+    },
+    {
+      "english": "To masquerade / change the outward figure",
+      "hebrew": "μετασχηματίζω",
+      "translit": "metaschēmatízō",
+      "strongs": "G3345",
+      "verses": "v. 13, 14, 15",
+      "insight": "Strong's: “to transfigure or disguise.” It is built on schēma — the outward figure, the changeable appearance a thing presents — not on morphē, the essential form. That distinction is the whole warning. Nothing about these men had changed inwardly; only the costume had. Three times in three verses Paul rings the same bell: the false apostles wear the outward figure of Christ's apostles, Satan wears the outward figure of an angel of light, and his servants wear the outward figure of servants of righteousness. Read the sequence and take the lesson: the most dangerous counterfeit you will ever meet will not present as darkness, sin, or error. It will present as light, as maturity, as a higher spirituality than the one you currently have — because a costume is chosen to be attractive, not to be honest."
+    },
+    {
+      "english": "Anxiety / care that divides",
+      "hebrew": "μέριμνα",
+      "translit": "mérimna",
+      "strongs": "G3308",
+      "verses": "v. 28",
+      "insight": "Strong's defines it as “solicitude,” and traces it to merizō, to divide — the anxiety word in Greek is built out of the idea of a mind pulled into pieces. Paul sets it under episystasis (G1999), a word for a crowd or a mob pressing in on a man, and says this mob arrives every single day. Put those two together and you have the most honest sentence about ministry in the New Testament: after the whips, the rods, the stones and the shipwrecks, the heaviest thing he carries is a daily crowd of divided concern for people he cannot control. The strongest man in the New Testament names his anxiety out loud, in a boast, in a letter that became Scripture — and does not apologise for it. Now be honest about the tension instead of pretending it is not there, because it is the same word family Paul uses when he tells the Philippians to be anxious for nothing (Philippians 4:6, the verb merimnaō) and the same noun Peter uses when he says to cast all your merimna on Him because He cares for you (1 Peter 5:7). Scripture is not contradicting itself; it is distinguishing the weight from the way you hold it. Paul is not commending merimna as a settled state — he is confessing it as a daily arriving mob. The command is never “feel nothing for the churches.” It is “do not stand under that crowd by yourself.” So the verse does not license worry, and it does not shame you for feeling the weight either. It tells you the load is real, it comes back every morning, and there is a place to throw it."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with five things in this chapter: what you are willing to put up with, what has been quietly added beside your Christ, the résumé you would actually hand God if He asked for one, the weight you carry daily that nobody has ever thanked you for, and the humiliation you have spent years editing out of your story.",
+    "items": [
+      {
+        "title": "Check What You Are Willing to Put Up With",
+        "body": "Paul's charge against Corinth is not that they were rebellious. It is that they were patient — patient with everything except the truth. They could sit for months under a different Jesus and a different gospel, they could take being enslaved, devoured, taken over, looked down on, and slapped in the face (v.20), and they could not take one tearful letter from the man who gave them Christ. Now bring it home, because you do the same arithmetic. What are you consuming daily without ever once flinching? Who is the last person who told you something you did not want to hear, and what did you do with them? A voice you never disagree with is not teaching you — it is confirming you. And here is the test that exposes it: the thing you defend fastest is usually the thing that flatters you most."
+      },
+      {
+        "title": "It Will Not Arrive Looking Dark",
+        "body": "Stop scanning for the obvious. Verse 14 is in your Bible precisely because you have been trained to watch for the wrong thing. The serpent came as a question, the false apostles came with references, and the adversary comes as light — as insight, as a deeper teaching, as a ministry that makes your current walk feel embarrassingly ordinary. Ask yourself honestly: what have you added beside Christ in the last two years? Not instead of Him — beside Him. A teacher whose word you weigh more heavily than the text. A standard of success you have started measuring your obedience by. A version of the gospel that requires something extra before God will move. It rarely announces itself, because haplotēs is not lost in one decision. It is folded over, quietly, one layer at a time."
+      },
+      {
+        "title": "The Résumé You Would Never Submit",
+        "body": "When Paul is finally forced to prove he is a servant of Christ, he does not list conversions, cities, miracles or letters. He lists one hundred and ninety-five lashes, three beatings with rods, a stoning, three shipwrecks, a day and a night adrift, sleeplessness, hunger and cold. Every single one of those is a page you would leave out. So answer it: if God asked you tonight for the CV that actually qualifies you, which sheet would you hand Him? You already have both. One has the achievements, the positions, the things you say when someone asks what you do. The other has the redundancy, the failed business, the diagnosis, the marriage that did not survive, the years you would take back, the room where you were humiliated and said nothing. Paul says the second sheet is the ministry credential. Which one have you been building your identity on — and which one has God actually been using?"
+      },
+      {
+        "title": "The Weight Nobody Has Ever Thanked You For",
+        "body": "Verse 28 is for the tired. Besides everything visible, Paul says, there is a thing that presses on him daily — episystasis, a mob crowding a man — and it turns out to be merimna, anxiety for all the assemblies. Then verse 29 removes the last shred of professional distance: “Who is weak, and I am not weak? Who is caused to stumble, and I don’t burn with indignation?” He does not minister to the weak from a safe height. He goes weak with them, and he catches fire when they are tripped. Say the two things that follow. First: the heaviest part of your service to God will be invisible, unpaid, and unacknowledged, and it will still be the realest part. Second: the anxiety you carry for people you love is not automatically unbelief — the apostle carried it daily and put it in Scripture. The question is not whether you feel the weight. It is whether you carry it to God every day or try to carry it alone."
+      },
+      {
+        "title": "Publish the Basket",
+        "body": "Paul had the third heaven available and he did not use it here. He ended his boast with a window, a rope, and a wicker hamper. Rome gave a golden crown to the first man over an enemy wall; Paul went over the wall the other way, in the dark, in the basket you would carry fish in — and he wrote it down and sent it to the church that thought he was unimpressive. That is the moment you have spent years deleting from your testimony. The time you were let go. The time you had to be rescued. The time you were smuggled out of a situation with no dignity left at all. He publishes it, because the one sentence this whole chapter is running toward is “My grace is sufficient for you, for my power is made perfect in weakness” (12:9), and grace has nothing to rest on until the weakness is admitted out loud. So which memory are you still editing out? And what would change in you if you stopped hiding the basket and started counting it as the credential?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Tolerance Audit",
+        "body": "Write down the three voices you actually listen to most — a teacher, a channel, a friend whose opinion settles arguments inside your head. Now answer for each one: when did this voice last tell me something I did not want to hear? Corinth's fault was not rebellion but patience with the wrong thing (v.4, 19-20). If none of your three has corrected you in a year, you are not being taught; you are being agreed with, and that is exactly the condition the false apostles walked into."
+      },
+      {
+        "title": "The Single-Fold Check",
+        "body": "Verse 3 says the danger is being corrupted from the simplicity that is in Christ. So name what has been added beside Him in the last two years — a second authority, a second measure of success, a condition you now believe you must satisfy before God will move. Do not ask what has replaced Christ; nothing has. Ask what is lying beside Him, and how long it has been there without you noticing."
+      },
+      {
+        "title": "The Résumé Audit",
+        "body": "If God asked for the CV that actually qualifies you, which sheet would you hand Him — the achievements or the scars? Be specific: name the one experience you always leave out of your testimony because it makes you look weak, foolish, or rescued. Verse 30 says that is the page Paul would have led with. What does it cost you, right now, that you cannot say it out loud?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Writing the Other Résumé",
+        "body": "Tonight, one sheet of paper, two columns. On the left write everything you would put on a CV — roles, achievements, the answer you give when someone asks what you do. On the right write Paul's kind of list: the failures, the losses, the humiliations, the sicknesses, the times you were carried, the moment you were let down out of a window in a basket. Be specific and put dates on them. Then read the right-hand column out loud, and after each line say: “This is where the power of Christ rests on me” (12:9). Do not throw the sheet away. Keep it in your Bible at 2 Corinthians 11, and read the right-hand column the next time you catch yourself measuring your life against somebody more impressive."
+      },
+      {
+        "title": "Running the Three-Question Filter for Seven Days",
+        "body": "For one week, put everything you take in through verse 4 before you swallow it — one teacher, one sermon or podcast, one book or feed. Ask in writing: (1) Which Jesus is this? The crucified and risen Lord who owns me, or a version edited to be more useful to me? (2) Which spirit is this producing in me? The fear of God and love for other believers, or ambition, superiority and quiet contempt? (3) Which news is this? What Christ has done, or what I must do to unlock God? Write one honest line per question per source. Where two of the three fail, stop feeding on it this week — not forever if you are unsure, but this week, and see what your appetite does when it is denied."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I come to You as one who was betrothed to Christ, and I want to be presented to Him pure. Thank You that Your jealousy over me is not petty — it is the boiling love of a Father who will not lose His child, and I would rather be loved that fiercely than left alone. Lord, I am afraid of the thing Paul was afraid of. Search my mind, because the serpent never comes with force; he comes with a reasonable question, in his craftiness, and I am not as hard to persuade as I like to think. Show me what has been folded in beside You — the second authority, the second standard, the thing I have added to Your gospel without ever deciding to. Bring me back to the simplicity that is in Christ, single-hearted, one thickness, nothing hidden underneath. Jesus, teach me to test what I swallow. Guard me from another Jesus, a different spirit, a different good news — and forgive me for the things I have put up with well enough while resisting the truth that would have healed me. I know the counterfeit will not arrive looking dark; even Satan masquerades as an angel of light, and his servants come dressed as servants of righteousness. Give me eyes that judge the message and not the polish. And Lord, here is my weakness. I have spent years editing out the parts of my story where I looked foolish, where I was rescued, where I had nothing to show. Today I stop. If I must boast, I will boast of the things that concern my weakness. I bring You the labour nobody saw, the nights I could not sleep, the anxiety I carry daily for people I love and cannot control — and instead of despising it, I lay it in Your hands, because Your apostle carried the same weight and called it his credential. Make me a man who goes weak with the weak and burns when they are tripped, not one who watches from a safe height. And Father, I hand You the basket. The night I went out of the window with no dignity left. The season I had to be carried. I stop hiding it, and I put it on the record, because Your grace is sufficient for me and Your power is made perfect in weakness. Be glorified in the parts of my life I would never have chosen to show anyone. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Question in the Garden",
+      "ref": "Genesis 3:1-13",
+      "relatedVerses": "v. 2-3, 14",
+      "summary": "Paul reaches past every argument about credentials and points at Eden, because the oldest deception in the world is the template for the newest one. The serpent did not overpower Eve; he opened a conversation, raised a question about what God had actually said, and offered a second way of seeing the same garden. Nothing was forced. Something was offered, and the offer sounded like an upgrade — knowledge, open eyes, a higher grade of existence. That is panourgia: not violence, but a readiness to use any tone at all, and the tone it chose was reasonable. Paul's fear for Corinth is exactly this, and it is why he ends the same chapter saying the adversary still masquerades as an angel of light — the mouth changes, the method never does."
+    },
+    {
+      "title": "Four Hundred Prophets and One Dissenter",
+      "ref": "1 Kings 22:1-38",
+      "relatedVerses": "v. 13-15, 20",
+      "summary": "Ahab wants Ramoth Gilead back, and four hundred prophets tell him to go up and prosper. They are not pagans; they prophesy in the name of the LORD, and one of them, Zedekiah son of Chenaanah, even makes iron horns as a prophetic sign — a man with a visual aid, total confidence, and unanimous colleagues. Then Micaiah son of Imlah is fetched under protest, and he alone says the king will not come back, and describes a lying spirit put in the mouth of all those prophets. For his trouble Micaiah is struck across the face and marched off to prison on bread and water, exactly the treatment verse 20 says the Corinthians were absorbing without complaint. Ahab goes anyway, disguised, and is killed by an arrow shot at random. Four hundred confident voices in the name of the LORD were wrong, and the one man who was right got slapped — so measure the message, never the majority, and never the polish."
+    },
+    {
+      "title": "The Basket at Damascus",
+      "ref": "Acts 9:19-25; Galatians 1:17-18",
+      "relatedVerses": "v. 32-33",
+      "summary": "Saul rode toward Damascus with letters of authority in his bag, planning to drag Christians back to Jerusalem in chains. He entered the city blind, led by the hand. Almost at once he was preaching Christ in the synagogues of the very city he had come to purge, and after a long stretch — three years, counting the Arabia he mentions in Galatians 1:17-18 — the plot turned on him: the gates watched day and night, and, as Paul adds here, the ethnarch of King Aretas holding the city against one man. So the disciples took the great apostle by night, put him in a wicker basket, and lowered him down the outside of the wall like freight. He entered Damascus with warrants and left it in a laundry hamper. Twenty years later, at the height of his authority, that is the story he chooses to end his boast with — because the man who came in strong and went out in a basket is the same man who would write that God's power is made perfect in weakness."
+    }
+  ]
+}

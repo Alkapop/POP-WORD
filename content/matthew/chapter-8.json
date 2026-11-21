@@ -15,8 +15,18 @@
       "text": "Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.”",
       "understanding": "A leper — a man legally dead, banished from the camp, required by law to cry 'Unclean!' — breaks every rule to fall at Jesus' feet. Notice his theology: he never doubts the power ('you can make me clean'), only the willingness ('if you want to'). His faith is real but his picture of Jesus' heart is incomplete.",
       "words": [
-        { "strongs": "G3015", "hebrew": "λεπρός", "translit": "leprós", "english": "leper" },
-        { "strongs": "G4352", "hebrew": "προσκυνέω", "translit": "proskynéō", "english": "worshiped" }
+        {
+          "strongs": "G3015",
+          "hebrew": "λεπρός",
+          "translit": "leprós",
+          "english": "leper"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worshiped"
+        }
       ]
     },
     {
@@ -24,8 +34,18 @@
       "text": "Jesus stretched out his hand, and touched him, saying, “I want to. Be made clean.” Immediately his leprosy was cleansed.",
       "understanding": "The unthinkable: Jesus touches the untouchable. Under the Law that touch should have made Jesus unclean — instead, cleanness flows the other way. He answers the man's one doubt with two words, 'I want to,' before He ever heals him. Authority meets compassion, and the leprosy vanishes at once.",
       "words": [
-        { "strongs": "G680", "hebrew": "ἅπτομαι", "translit": "háptomai", "english": "touched" },
-        { "strongs": "G2511", "hebrew": "καθαρίζω", "translit": "katharízō", "english": "made clean" }
+        {
+          "strongs": "G680",
+          "hebrew": "ἅπτομαι",
+          "translit": "háptomai",
+          "english": "touched"
+        },
+        {
+          "strongs": "G2511",
+          "hebrew": "καθαρίζω",
+          "translit": "katharízō",
+          "english": "made clean"
+        }
       ]
     },
     {
@@ -43,7 +63,12 @@
       "text": "and saying, “Lord, my servant lies in the house paralyzed, grievously tormented.”",
       "understanding": "The centurion pleads not for himself but for a servant — a slave, someone he was under no obligation to love. The word for 'tormented' pictures agony under torture; the man is suffering terribly. A hardened soldier is undone by compassion for the lowest member of his household.",
       "words": [
-        { "strongs": "G928", "hebrew": "βασανίζω", "translit": "basanízō", "english": "grievously tormented" }
+        {
+          "strongs": "G928",
+          "hebrew": "βασανίζω",
+          "translit": "basanízō",
+          "english": "grievously tormented"
+        }
       ]
     },
     {
@@ -56,7 +81,12 @@
       "text": "The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed.",
       "understanding": "Here is the hinge of the chapter. The centurion grasps what even Israel had missed: Jesus does not need proximity, contact, or ritual — He needs only to speak. His word is a sufficient cause. 'Just say the word' is faith reduced to its purest element: trust in the bare authority of Christ's speech.",
       "words": [
-        { "strongs": "G3056", "hebrew": "λόγος", "translit": "lógos", "english": "word" }
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        }
       ]
     },
     {
@@ -64,7 +94,12 @@
       "text": "For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”",
       "understanding": "The soldier reasons from the chain of command he lives in every day. He himself is under authority, and because he is, his word carries the full weight of Rome behind it. He sees that Jesus stands over sickness, distance, and nature the way a general stands over his legions — one command, and reality obeys.",
       "words": [
-        { "strongs": "G1849", "hebrew": "ἐξουσία", "translit": "exousía", "english": "authority" }
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        }
       ]
     },
     {
@@ -72,8 +107,18 @@
       "text": "When Jesus heard it, he marveled, and said to those who followed, “Most certainly I tell you, I haven’t found so great a faith, not even in Israel.",
       "understanding": "Jesus marvels — one of only two things the Gospels record astonishing Him (the other is unbelief in Nazareth). The Son of God is amazed by a Gentile's faith. And He says the unthinkable to a Jewish crowd: this outsider believes better than the covenant nation.",
       "words": [
-        { "strongs": "G2296", "hebrew": "θαυμάζω", "translit": "thaumázō", "english": "marveled" },
-        { "strongs": "G4102", "hebrew": "πίστις", "translit": "pístis", "english": "faith" }
+        {
+          "strongs": "G2296",
+          "hebrew": "θαυμάζω",
+          "translit": "thaumázō",
+          "english": "marveled"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
       ]
     },
     {
@@ -81,7 +126,12 @@
       "text": "I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven,",
       "understanding": "One believing Gentile becomes a prophecy of the nations. Jesus sees a global feast — people streaming from every direction to recline at the messianic banquet with the patriarchs. The promise to Abraham, that all nations would be blessed in him, is being fulfilled before their eyes.",
       "words": [
-        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "Kingdom" }
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        }
       ]
     },
     {
@@ -109,7 +159,12 @@
       "text": "When evening came, they brought to him many possessed with demons. He cast out the spirits with a word, and healed all who were sick;",
       "understanding": "As the sun sets, the whole town's suffering is laid at His feet, and He turns none away — 'healed all.' Again it is by a word: the same authority the centurion trusted now empties a town of its demons. No case is too many, no disease too deep.",
       "words": [
-        { "strongs": "G3056", "hebrew": "λόγος", "translit": "lógos", "english": "word" }
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        }
       ]
     },
     {
@@ -117,9 +172,24 @@
       "text": "that it might be fulfilled which was spoken through Isaiah the prophet, saying, “He took our infirmities, and bore our diseases.”",
       "understanding": "Matthew reaches for his signature formula — this happened 'that it might be fulfilled.' He roots the healings in Isaiah 53, the Suffering Servant song. Jesus does not heal from a safe distance; He takes and bears our sicknesses onto Himself, the same shoulders that will carry our sins to the cross.",
       "words": [
-        { "strongs": "G4137", "hebrew": "πληρόω", "translit": "plēróō", "english": "fulfilled" },
-        { "strongs": "G769", "hebrew": "ἀσθένεια", "translit": "asthéneia", "english": "infirmities" },
-        { "strongs": "G3554", "hebrew": "νόσος", "translit": "nósos", "english": "diseases" }
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "fulfilled"
+        },
+        {
+          "strongs": "G769",
+          "hebrew": "ἀσθένεια",
+          "translit": "asthéneia",
+          "english": "infirmities"
+        },
+        {
+          "strongs": "G3554",
+          "hebrew": "νόσος",
+          "translit": "nósos",
+          "english": "diseases"
+        }
       ]
     },
     {
@@ -157,7 +227,12 @@
       "text": "Behold, a violent storm came up on the sea, so much that the boat was covered with the waves, but he was asleep.",
       "understanding": "The Greek calls it a seismos — a shaking, the word used for earthquakes — as if the sea itself convulsed. Waves swamp the boat while the King sleeps. His sleep is not neglect; it is the perfect rest of One who has nothing to fear, even as chaos breaks over Him.",
       "words": [
-        { "strongs": "G4578", "hebrew": "σεισμός", "translit": "seismós", "english": "storm" }
+        {
+          "strongs": "G4578",
+          "hebrew": "σεισμός",
+          "translit": "seismós",
+          "english": "storm"
+        }
       ]
     },
     {
@@ -170,9 +245,24 @@
       "text": "He said to them, “Why are you fearful, O you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm.",
       "understanding": "First He addresses their hearts, then the weather. He 'rebukes' the wind and sea — the same word used for silencing demons — as though the storm were a hostile power to be commanded. Instantly there is a great calm: not a gradual settling, but sudden, total obedience of creation to its Maker's voice.",
       "words": [
-        { "strongs": "G2008", "hebrew": "ἐπιτιμάω", "translit": "epitimáō", "english": "rebuked" },
-        { "strongs": "G1055", "hebrew": "γαλήνη", "translit": "galḗnē", "english": "calm" },
-        { "strongs": "G4102", "hebrew": "πίστις", "translit": "pístis", "english": "faith" }
+        {
+          "strongs": "G2008",
+          "hebrew": "ἐπιτιμάω",
+          "translit": "epitimáō",
+          "english": "rebuked"
+        },
+        {
+          "strongs": "G1055",
+          "hebrew": "γαλήνη",
+          "translit": "galḗnē",
+          "english": "calm"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
       ]
     },
     {
@@ -190,7 +280,12 @@
       "text": "Behold, they cried out, saying, “What do we have to do with you, Jesus, Son of God? Have you come here to torment us before the time?”",
       "understanding": "The demons confess what the disciples were still asking: He is the Son of God. They know their doom is fixed and dated — 'before the time' — and they dread it. Hell's own agents have better Christology than the crowds; they simply refuse to bow.",
       "words": [
-        { "strongs": "G928", "hebrew": "βασανίζω", "translit": "basanízō", "english": "torment" }
+        {
+          "strongs": "G928",
+          "hebrew": "βασανίζω",
+          "translit": "basanízō",
+          "english": "torment"
+        }
       ]
     },
     {
@@ -203,7 +298,12 @@
       "text": "The demons begged him, saying, “If you cast us out, permit us to go away into the herd of pigs.”",
       "understanding": "The powers that terrorized a whole region are reduced to begging. They cannot touch even a pig without the King's permission. His authority is so absolute that the very demons must ask leave — every knee, even in hell, already bends to His command.",
       "words": [
-        { "strongs": "G1140", "hebrew": "δαιμόνιον", "translit": "daimónion", "english": "demons" }
+        {
+          "strongs": "G1140",
+          "hebrew": "δαιμόνιον",
+          "translit": "daimónion",
+          "english": "demons"
+        }
       ]
     },
     {
@@ -250,12 +350,30 @@
   ],
   "commentary": {
     "structure": [
-      { "label": "Cleansing the Leper (v. 1-4)", "body": "The King touches the untouchable; His holiness overpowers defilement and He sends the man as a testimony to the priests." },
-      { "label": "The Centurion's Great Faith (v. 5-13)", "body": "A Gentile grasps the pure authority of Jesus' word, and Jesus declares that faith, not bloodline, opens the Kingdom." },
-      { "label": "Evening at Peter's House (v. 14-17)", "body": "He heals Peter's mother-in-law and a whole town at sunset, fulfilling Isaiah 53 by taking our infirmities onto Himself." },
-      { "label": "The Cost of Following (v. 18-22)", "body": "To an eager scribe and a hesitant disciple, Jesus reveals the homelessness and the absolute loyalty the Kingdom demands." },
-      { "label": "Stilling the Storm (v. 23-27)", "body": "The King commands the wind and sea and they obey, forcing the question, 'What sort of man is this?'" },
-      { "label": "The Gergesene Demoniacs (v. 28-34)", "body": "Authority over nature becomes authority over hell; the demons beg, obey, and the city begs Him to leave." }
+      {
+        "label": "Cleansing the Leper (v. 1-4)",
+        "body": "The King touches the untouchable; His holiness overpowers defilement and He sends the man as a testimony to the priests."
+      },
+      {
+        "label": "The Centurion's Great Faith (v. 5-13)",
+        "body": "A Gentile grasps the pure authority of Jesus' word, and Jesus declares that faith, not bloodline, opens the Kingdom."
+      },
+      {
+        "label": "Evening at Peter's House (v. 14-17)",
+        "body": "He heals Peter's mother-in-law and a whole town at sunset, fulfilling Isaiah 53 by taking our infirmities onto Himself."
+      },
+      {
+        "label": "The Cost of Following (v. 18-22)",
+        "body": "To an eager scribe and a hesitant disciple, Jesus reveals the homelessness and the absolute loyalty the Kingdom demands."
+      },
+      {
+        "label": "Stilling the Storm (v. 23-27)",
+        "body": "The King commands the wind and sea and they obey, forcing the question, 'What sort of man is this?'"
+      },
+      {
+        "label": "The Gergesene Demoniacs (v. 28-34)",
+        "body": "Authority over nature becomes authority over hell; the demons beg, obey, and the city begs Him to leave."
+      }
     ],
     "sections": [
       {
@@ -319,7 +437,7 @@
       "translit": "epitimáō",
       "strongs": "G2008",
       "verses": "v. 26",
-      "insight": "Epitimáō means to censure sharply, to rebuke, to command with authority. It is striking that Matthew uses the same verb for Jesus silencing the storm that the Gospels use for Him silencing demons. He does not pray for the wind to die down or wait for the weather to shift; He rebukes it as a hostile power that must submit. The word reveals how Jesus sees the raging sea — not as impersonal chaos but as something under His direct command — and it explains why the calm that followed was instant and total (galḗne, G1055): creation obeying its Master's voice at once."
+      "insight": "Epitimáō means to censure sharply, to rebuke, to command with authority. It is striking that Matthew uses the same verb for Jesus silencing the storm that the Gospels use for Him silencing demons. He does not pray for the wind to die down or wait for the weather to shift; He rebukes it as a hostile power that must submit. The word reveals how Jesus sees the raging sea — not as impersonal chaos but as something under His direct command — and it explains why the calm that followed was instant and total (galḗnē, G1055): creation obeying its Master's voice at once."
     },
     {
       "english": "Cleanse",

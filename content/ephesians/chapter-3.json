@@ -1,0 +1,857 @@
+{
+  "type": "chapterStudy",
+  "book": "Ephesians",
+  "chapter": 3,
+  "chapterTitle": "The Mystery, and the Prayer That Runs Out of Words",
+  "themeTitle": "“The Sentence He Could Not Finish, and the Love He Could Not Measure”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles,",
+      "understanding": "Paul starts a sentence here and never finishes it. He says “For this cause” (toutou charin), gets as far as naming himself and his chains — and then breaks off for twelve verses, not picking the thread back up until verse 14, where he repeats the identical phrase and finally supplies the verb. And read what he calls himself: not Rome's prisoner, not Nero's, not Caesar's. Desmios Christou Iēsou — the prisoner OF Christ Jesus, as though Christ were the one holding the chain. The Roman guard was a subcontractor. And the reason for the chain is stated without a trace of blame: “on behalf of you Gentiles.” He is in custody because he insisted that people like you belonged.",
+      "words": [
+        {
+          "strongs": "G1198",
+          "hebrew": "δέσμιος",
+          "translit": "désmios",
+          "english": "prisoner"
+        },
+        {
+          "strongs": "G5484",
+          "hebrew": "χάριν",
+          "translit": "chárin",
+          "english": "for this cause"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "Gentiles"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "if it is so that you have heard of the administration of that grace of God which was given me toward you;",
+      "understanding": "“Administration” is oikonomia — house-management, the job of the steward who runs an estate that is not his own. Grace was not handed to Paul as a private comfort; it was handed to him as a stewardship, “toward you.” Grace given to one man was rations for a whole province. And notice the “if it is so that you have heard” — the polite distance of a circular letter passing through congregations Paul had not personally planted, which is exactly what Ephesians is.",
+      "words": [
+        {
+          "strongs": "G3622",
+          "hebrew": "οἰκονομία",
+          "translit": "oikonomía",
+          "english": "administration"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "how that by revelation the mystery was made known to me, as I wrote before in few words,",
+      "understanding": "Apokalypsis — an unveiling, the pulling of a cover off something that was already there. Paul did not deduce this, research it, or inherit it from the Jerusalem apostles; it was uncovered to him. A mystērion in the Bible is never a riddle to be solved by clever people. It is a sealed thing that stays sealed until God breaks the seal Himself. “As I wrote before in few words” points back over chapters 1 and 2 — he has just told them, briefly, in 1:9-10 and 2:11-22.",
+      "words": [
+        {
+          "strongs": "G602",
+          "hebrew": "ἀποκάλυψις",
+          "translit": "apokálypsis",
+          "english": "revelation"
+        },
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mystery"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "by which, when you read, you can perceive my understanding in the mystery of Christ;",
+      "understanding": "“When you read” — Paul assumes this letter is being read aloud to a room full of people, most of whom cannot read it for themselves, and he expects the reading itself to transfer insight. He is not showing off; he is offering his own comprehension as something they can enter. And he names the mystery precisely: it is “the mystery of Christ.” Not a doctrine about Christ. Christ Himself, and what God has done in Him.",
+      "words": [
+        {
+          "strongs": "G314",
+          "hebrew": "ἀναγινώσκω",
+          "translit": "anaginṓskō",
+          "english": "read"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "which in other generations was not made known to the children of men, as it has now been revealed to his holy apostles and prophets in the Spirit;",
+      "understanding": "Read the small word “as” and the whole verse becomes honest. Paul does not say the Old Testament was silent about the nations — Genesis 12:3 promised that in Abraham all the families of the earth would be blessed, and Isaiah 49:6 called the Servant a light to the Gentiles. He says it was not made known AS it is now revealed. The prophets saw the destination through fog; they did not see the terms. What was hidden was not that Gentiles would be blessed, but how — and on what footing.",
+      "words": [
+        {
+          "strongs": "G1074",
+          "hebrew": "γενεά",
+          "translit": "geneá",
+          "english": "generations"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "children (lit. sons)"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostles"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "that the Gentiles are fellow heirs, and fellow members of the body, and fellow partakers of his promise in Christ Jesus through the Good News,",
+      "understanding": "Here it is — and in Greek it lands as three hammer blows on the same nail, because all three words begin with syn-, “together with”: synklēronoma, syssōma, symmetocha. Fellow heirs. Fellow body. Fellow partakers. Not guests of the heirs, not attached to the body, not permitted near the promise — fellow, fellow, fellow. The middle word, syssōmos, appears nowhere else in the Greek New Testament; Paul seems to have built it because no existing word said what he needed. The mystery is not charity extended to outsiders. It is the abolition of the category “outsider.”",
+      "words": [
+        {
+          "strongs": "G4789",
+          "hebrew": "συγκληρονόμος",
+          "translit": "synklēronómos",
+          "english": "fellow heirs"
+        },
+        {
+          "strongs": "G4954",
+          "hebrew": "σύσσωμος",
+          "translit": "sýssōmos",
+          "english": "fellow members of the body"
+        },
+        {
+          "strongs": "G4830",
+          "hebrew": "συμμέτοχος",
+          "translit": "symmétochos",
+          "english": "fellow partakers"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promise"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "of which I was made a servant, according to the gift of that grace of God which was given me according to the working of his power.",
+      "understanding": "Diakonos — not a dignitary, a table-waiter. The man entrusted with the greatest revelation of the age describes his office as serving. And look at the two “according to” clauses stacked on each other: he became this by the GIFT of grace, and by the WORKING of God's power. Energeia is operative, in-motion power; dynamis is capacity. Paul's ministry is not the overflow of Paul's talent. It is God's energy running through a borrowed man.",
+      "words": [
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servant"
+        },
+        {
+          "strongs": "G1431",
+          "hebrew": "δωρεά",
+          "translit": "dōreá",
+          "english": "gift"
+        },
+        {
+          "strongs": "G1753",
+          "hebrew": "ἐνέργεια",
+          "translit": "enérgeia",
+          "english": "working"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "To me, the very least of all saints, was this grace given, to preach to the Gentiles the unsearchable riches of Christ,",
+      "understanding": "“The very least” is elachistoteros — and it is not proper Greek. Elachistos already means “least”; Paul puts a comparative ending on a superlative and invents a word that means something like “leaster,” less than the least. Watch the direction his life travels: around AD 55 he called himself the least of the apostles (1 Corinthians 15:9); here, the least of all saints; near the end, the chief of sinners (1 Timothy 1:15). The closer he got to Christ, the smaller he got — and the bigger the riches got. Anexichniastos: riches that cannot be tracked to their end, no matter how far you follow the trail.",
+      "words": [
+        {
+          "strongs": "G1647",
+          "hebrew": "ἐλαχιστότερος",
+          "translit": "elachistóteros",
+          "english": "the very least"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G421",
+          "hebrew": "ἀνεξιχνίαστος",
+          "translit": "anexichníastos",
+          "english": "unsearchable"
+        },
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "riches"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "and to make all men see what is the administration of the mystery which for ages has been hidden in God, who created all things through Jesus Christ;",
+      "understanding": "“To make all men see” is phōtisai — to floodlight, to bring into the light so it can be looked at. It is the same verb Paul used in 1:18 for the eyes of your heart being enlightened; his job is to switch the lights on in a dark room. And note where the mystery was hidden for ages: not in a vault, not in a text — “hidden in God.” It was never lost. It was kept, in Him, by a Creator who made the universe through the very Christ the plan was about.",
+      "words": [
+        {
+          "strongs": "G5461",
+          "hebrew": "φωτίζω",
+          "translit": "phōtízō",
+          "english": "make see / enlighten"
+        },
+        {
+          "strongs": "G613",
+          "hebrew": "ἀποκρύπτω",
+          "translit": "apokrýptō",
+          "english": "hidden"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "ages"
+        },
+        {
+          "strongs": "G2936",
+          "hebrew": "κτίζω",
+          "translit": "ktízō",
+          "english": "created"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "to the intent that now through the assembly the manifold wisdom of God might be made known to the principalities and the powers in the heavenly places,",
+      "understanding": "Stop here, because this is one of the most staggering purpose clauses in the Bible. Why does the church exist? “To the intent that NOW” — present tense, this week — “through the assembly” — that congregation with the broken sound system and the people you find difficult — “the manifold wisdom of God might be made known” — to whom? Not to the neighbourhood. To the principalities and the powers in the heavenly places. Polypoikilos means many-coloured, richly embroidered, the word for variegated needlework. God is holding up a woven cloth of formerly hostile peoples made one, and the gallery is angelic.",
+      "words": [
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G4182",
+          "hebrew": "πολυποίκιλος",
+          "translit": "polypoíkilos",
+          "english": "manifold"
+        },
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G746",
+          "hebrew": "ἀρχή",
+          "translit": "archḗ",
+          "english": "principalities"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "powers"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly places"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "according to the eternal purpose which he purposed in Christ Jesus our Lord;",
+      "understanding": "Literally, “according to the purpose of the ages” — prothesis, a setting-forth, a plan laid out in advance. And the verb translated “purposed” is poieō, to make or to do: He did not merely intend it, He carried it out, in Christ Jesus. So the multi-ethnic church is not God's contingency arrangement after Israel disappointed Him. It is the plan the ages were built around, executed on schedule.",
+      "words": [
+        {
+          "strongs": "G4286",
+          "hebrew": "πρόθεσις",
+          "translit": "próthesis",
+          "english": "purpose"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "eternal (lit. of the ages)"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "purposed (lit. made, carried out)"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "in whom we have boldness and access in confidence through our faith in him.",
+      "understanding": "Three words, and every one of them is a door. Parrēsia is freedom of speech — the right of a citizen to say everything, holding nothing back. Prosagōgē is admission, being brought into a presence; in the ancient world someone had to introduce you to the king. Pepoithēsis is settled reliance. Put them together: you may speak freely, you have been brought in, and you need not be nervous. And it is “we”: prosagōgē is the same word he used in 2:18, where Jew and Gentile both have their access in one Spirit to the Father.",
+      "words": [
+        {
+          "strongs": "G3954",
+          "hebrew": "παῤῥησία",
+          "translit": "parrhēsía",
+          "english": "boldness"
+        },
+        {
+          "strongs": "G4318",
+          "hebrew": "προσαγωγή",
+          "translit": "prosagōgḗ",
+          "english": "access"
+        },
+        {
+          "strongs": "G4006",
+          "hebrew": "πεποίθησις",
+          "translit": "pepoíthēsis",
+          "english": "confidence"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Therefore I ask that you may not lose heart at my troubles for you, which are your glory.",
+      "understanding": "Ekkakeō is built straight on kakos, bad — to go bad on the inside, to lose your nerve, to fail in heart. Paul knows his chains are a problem for them — if God is so pleased with this mission, why is the apostle in custody? So he reframes it in five words: my troubles are your glory. Thlipsis is pressure, the squeezing of a weight. The pressure crushing him is the price of the standing they now enjoy, and he will not let them read his imprisonment as evidence that the plan failed. He is not asking for sympathy. He is asking them not to draw the wrong conclusion.",
+      "words": [
+        {
+          "strongs": "G1573",
+          "hebrew": "ἐκκακέω",
+          "translit": "ekkakéō",
+          "english": "lose heart"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "troubles"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For this cause, I bow my knees to the Father of our Lord Jesus Christ,",
+      "understanding": "Twelve verses of digression later, he picks the broken sentence back up with the exact phrase he abandoned in verse 1 — “For this cause” — and finally gives it a verb: I bow my knees. Standing was the ordinary posture for Jewish prayer; kneeling signalled something extraordinary — Solomon at the temple dedication, Daniel three times a day with the death sentence hanging over him, Jesus in Gethsemane, Stephen under the stones. And when Paul said goodbye to the Ephesian elders at Miletus, the last thing he did before they walked him to the ship was kneel down and pray with them all (Acts 20:36). A chained man is on the floor. (The earliest manuscripts read simply “to the Father,” which only sharpens the wordplay coming in the next verse.)",
+      "words": [
+        {
+          "strongs": "G2578",
+          "hebrew": "κάμπτω",
+          "translit": "kámptō",
+          "english": "bow"
+        },
+        {
+          "strongs": "G1119",
+          "hebrew": "γόνυ",
+          "translit": "góny",
+          "english": "knees"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "from whom every family in heaven and on earth is named,",
+      "understanding": "There is a pun here that English cannot carry: patēr (Father) and patria (family, a father-line, a clan). Every patria in existence gets its name from the Patēr. He is not called Father because we borrowed the word from human households; human households are called families because they are dim copies of Him. And notice the sweep — “in heaven and on earth.” Whatever ranks and orders exist among the angels, they too take their name from this Father. There is one Fatherhood, and everything that has ever been called a family is downstream of it.",
+      "words": [
+        {
+          "strongs": "G3965",
+          "hebrew": "πατριά",
+          "translit": "patriá",
+          "english": "family"
+        },
+        {
+          "strongs": "G3687",
+          "hebrew": "ὀνομάζω",
+          "translit": "onomázō",
+          "english": "is named"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "that he would grant you, according to the riches of his glory, that you may be strengthened with power through his Spirit in the inward man;",
+      "understanding": "Watch the preposition: “ACCORDING TO the riches of his glory,” not out of them. A billionaire who gives out of his wealth may hand you a coin; a billionaire who gives according to his wealth gives on a scale that matches what he has. And the first request is not for circumstances but for interior reinforcement — krataioō, to be made mighty, made strong-gripped. Where? “In the inward man,” the part of you nobody photographs, the part 2 Corinthians 4:16 says is being renewed day by day while the outward man decays.",
+      "words": [
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "riches"
+        },
+        {
+          "strongs": "G2901",
+          "hebrew": "κραταιόω",
+          "translit": "krataióō",
+          "english": "strengthened"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G2080",
+          "hebrew": "ἔσω",
+          "translit": "ésō",
+          "english": "inward"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "that Christ may dwell in your hearts through faith; to the end that you, being rooted and grounded in love,",
+      "understanding": "Katoikeō is the strong word: kata (down) plus oikeō (to house) — to settle down and take up permanent residence. Its opposite, paroikeō, is what you do in a hotel. Paul is praying for believers, people in whom Christ already lives, that Christ would stop camping in the entrance hall and move into the whole house. Then two metaphors clamp together: rooted, like a tree whose root system has gone down past the topsoil, and grounded, like a building whose foundation has been dug and poured. Agriculture and architecture, both in the perfect tense, both in the same soil — love.",
+      "words": [
+        {
+          "strongs": "G2730",
+          "hebrew": "κατοικέω",
+          "translit": "katoikéō",
+          "english": "dwell"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G4492",
+          "hebrew": "ῥιζόω",
+          "translit": "rhizóō",
+          "english": "rooted"
+        },
+        {
+          "strongs": "G2311",
+          "hebrew": "θεμελιόω",
+          "translit": "themelióō",
+          "english": "grounded"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "may be strengthened to comprehend with all the saints what is the width and length and height and depth,",
+      "understanding": "Exischyō — to have full strength, to be entirely competent for a thing — and it appears nowhere else in the New Testament. Paul has to invent room in the language, because this comprehension takes power you do not naturally possess. Katalambanō is not “understand”; it is to seize, to lay hold of, to take something down and hold it. And it is done “with all the saints” — nobody measures these dimensions alone. Paul names four directions and deliberately names no object; verse 19 will supply it. The width, length, height and depth of what? Of the love you are standing in.",
+      "words": [
+        {
+          "strongs": "G1840",
+          "hebrew": "ἐξισχύω",
+          "translit": "exischýō",
+          "english": "may be strengthened"
+        },
+        {
+          "strongs": "G2638",
+          "hebrew": "καταλαμβάνω",
+          "translit": "katalambánō",
+          "english": "comprehend"
+        },
+        {
+          "strongs": "G4114",
+          "hebrew": "πλάτος",
+          "translit": "plátos",
+          "english": "width"
+        },
+        {
+          "strongs": "G3372",
+          "hebrew": "μῆκος",
+          "translit": "mēkos",
+          "english": "length"
+        },
+        {
+          "strongs": "G5311",
+          "hebrew": "ὕψος",
+          "translit": "hýpsos",
+          "english": "height"
+        },
+        {
+          "strongs": "G899",
+          "hebrew": "βάθος",
+          "translit": "báthos",
+          "english": "depth"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "and to know Christ’s love which surpasses knowledge, that you may be filled with all the fullness of God.",
+      "understanding": "Paul writes a contradiction on purpose and refuses to fix it: know the love that outruns knowing. Ginōskō is knowledge by contact and experience, not by information; hyperballō means to throw beyond the mark, to overshoot every measurement. You are being asked to experience what you will never finish comprehending — like a man who genuinely knows the sea because he swims in it daily, and could not tell you where it ends. And the destination is not a warm feeling: plērōma, fullness, filled up to all the fullness of God Himself. He asked for nothing smaller.",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G5235",
+          "hebrew": "ὑπερβάλλω",
+          "translit": "hyperbállō",
+          "english": "surpasses"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "filled"
+        },
+        {
+          "strongs": "G4138",
+          "hebrew": "πλήρωμα",
+          "translit": "plḗrōma",
+          "english": "fullness"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Now to him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us,",
+      "understanding": "Paul has just prayed for the fullness of God to fill human beings, and even he can hear that he has asked for too much — so he turns to the One who is able and piles preposition on preposition: hyper-ek-perissou, over-out-of-beyond-abundance. And that is not the only hyper in the sentence — the same preposition is already standing in front of the verb in hyper panta, “above all things,” so the finished line runs: able to do above all, over-out-of-beyond-abundantly beyond what we ask or think. He exhausts the Greek language and still comes up short. Then he tells you the measuring stick, and it is not God's power in the abstract: “according to the power that WORKS IN US.” The same energy that raised Christ from the dead (1:19-20) is already operating inside you, and that is the scale on which God answers.",
+      "words": [
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "is able"
+        },
+        {
+          "strongs": "G5228",
+          "hebrew": "ὑπέρ",
+          "translit": "hypér",
+          "english": "exceedingly / above"
+        },
+        {
+          "strongs": "G4053",
+          "hebrew": "περισσός",
+          "translit": "perissós",
+          "english": "abundantly"
+        },
+        {
+          "strongs": "G154",
+          "hebrew": "αἰτέω",
+          "translit": "aitéō",
+          "english": "ask"
+        },
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "to him be the glory in the assembly and in Christ Jesus to all generations forever and ever. Amen.",
+      "understanding": "Look at what stands next to Christ in this doxology: the assembly. Nowhere else in the New Testament does a doxology name the church as an arena of God's glory alongside Christ Jesus — but this letter has just said the church is God's exhibit before the powers, so of course it belongs here. And the time-phrase is deliberately extravagant: literally “unto all the generations of the age of the ages.” Paul stacks eternity on eternity the way he stacked prepositions in verse 20. Then one word closes the doctrinal half of the letter — Amen — and the next verse begins, “I therefore... beg you to walk worthily.”",
+      "words": [
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G1074",
+          "hebrew": "γενεά",
+          "translit": "geneá",
+          "english": "generations"
+        },
+        {
+          "strongs": "G281",
+          "hebrew": "ἀμήν",
+          "translit": "amḗn",
+          "english": "Amen"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Sentence That Falls Off a Cliff",
+      "verseRef": "v. 1, 14",
+      "image": "A man in a rented room in Rome, a soldier's chain running from his wrist to the soldier's, dictating a letter. “For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles —” and then he stops. The scribe waits, pen up. Nothing comes, because something has caught him: the sheer scale of what he is a prisoner FOR. He starts talking about the mystery instead, and he talks for twelve verses. Only then does he come back, take a breath, and start the same sentence again — “For this cause” — and this time he finishes it by getting down on the floor.",
+      "meaning": "Grammarians call this an anacoluthon: a sentence abandoned mid-construction. It is not sloppiness; it is a man interrupted by his own subject matter. And notice what interrupted him — not his chains, not his trial, not his health. The thought that Gentiles are fellow heirs was so large it derailed his grammar. Ask yourself what has that effect on you. Most of us can recite our doctrine without ever losing our train of thought over it. Paul could not get through one sentence about your inclusion without breaking down into worship of it."
+    },
+    {
+      "title": "The Sign on the Temple Wall",
+      "verseRef": "v. 1, 6, 13",
+      "image": "Herod's temple, and a low stone barrier running around the inner courts. Set into it at intervals are stone slabs carved in Greek and Latin, and archaeologists have actually dug two of them up — one found in 1871, another fragment in 1935. The wording is not a suggestion. No foreigner may pass beyond this barrier; whoever is caught doing so has only himself to blame for the death that follows. Now picture a Gentile convert who loves the God of Israel, standing at that line on a feast day, close enough to hear the singing, and knowing that one more step is a capital offence. That is where the world's most religious people had drawn the boundary of belonging.",
+      "meaning": "Paul is in chains precisely because of that wall. In Acts 21 a crowd from Asia saw him in Jerusalem with Trophimus — an Ephesian — and assumed he had taken him past the barrier. They were wrong about the facts and right about the man: he had spent his life demolishing what that stone said. Ephesians 2:14 says Christ “broke down the middle wall of partition,” and 3:6 spells out what stands in its place: fellow heirs, fellow body, fellow partakers. So when Paul says “my troubles for you, which are your glory” (v. 13), he means it literally. The chains on his wrist are the receipt for your seat at the table."
+    },
+    {
+      "title": "The Many-Coloured Cloth Held Up Before Thrones",
+      "verseRef": "v. 10",
+      "image": "A vast unseen amphitheatre. Ranks of created intelligences — principalities, powers, thrones that watched the world being made and watched it fall — and God steps forward holding something up for them to examine. It is not a galaxy. It is a congregation: a Jewish shopkeeper and a Greek dockworker who a decade ago would not have eaten in the same room, sitting side by side and calling the same God “Father.” The cloth is polypoikilos — many-coloured, embroidered, shot through with threads that should never have been woven together. And the angels lean in.",
+      "meaning": "Poikilos is the word the Greek Old Testament uses for embroidered work — Joseph's many-coloured coat, the needle-worked hangings of the tabernacle. God's wisdom is not a plain white sheet; it is stitched from clashing colours into one fabric. And read verse 10 slowly: this is stated as a reason the church exists. Not primarily to grow, not to be comfortable, not even to evangelise — but that “NOW through the assembly” God's manifold wisdom “might be made known to the principalities and the powers in the heavenly places.” Then read 6:12: those same categories are the enemy you wrestle. Some of the audience is hostile. Every act of real unity in a church is an argument being won in front of beings who said it could not be done."
+    },
+    {
+      "title": "The Knees of a Chained Man, and the Ocean He Tried to Measure",
+      "verseRef": "v. 14-19",
+      "image": "He shifts the chain aside and lowers himself to the floor. Jews prayed standing; men went to their knees when something in them could not stay upright. Then listen to what the man with no freedom asks for: not release, not a fair judge, not the removal of the chain. He asks that free people, hundreds of miles away, would be strong on the inside. That Christ would stop visiting and move in. That they would be able to measure a love that has no edges — width, length, height, depth — and then, in the same breath, that they would know what cannot be known.",
+      "meaning": "Paul prays twice in this letter (1:15-23 and here), and neither prayer asks God to change a circumstance. Both ask for revelation and interior strength. That is the mark of a man who has stopped believing his situation is his real problem. And verse 19 is his deliberate contradiction: “to know Christ's love which surpasses knowledge.” He is not being clever. He means that this love is known the way the sea is known by a swimmer, not by a surveyor — you can be soaked in it every day of your life and never reach the far shore. The four dimensions are given without an object precisely because there is no container big enough to name."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Sentence That Breaks Off (v. 1)",
+        "body": "Paul names himself the prisoner of Christ Jesus for the sake of the Gentiles — and abandons the sentence for thirteen verses."
+      },
+      {
+        "label": "The Stewardship and the Mystery Revealed (v. 2-6)",
+        "body": "Grace was given to Paul as a stewardship for others; the mystery unveiled to him is that Gentiles are fellow heirs, fellow body, fellow partakers — three syn- words in a row."
+      },
+      {
+        "label": "The Least of All Saints and the Untrackable Riches (v. 7-9)",
+        "body": "A self-styled 'leaster' is made a table-servant of a message he did not invent, sent to floodlight a plan hidden in God since before the ages."
+      },
+      {
+        "label": "God's Exhibit and Its Angelic Audience (v. 10-12)",
+        "body": "The church exists so that God's many-coloured wisdom is displayed now to the principalities and powers — the execution of a purpose laid down across the ages, which gives us free speech and admission at the throne."
+      },
+      {
+        "label": "Don't Lose Heart — My Chains Are Your Glory (v. 13)",
+        "body": "Paul forbids them to read his imprisonment as a failed mission; the pressure on him is the price of the standing they enjoy."
+      },
+      {
+        "label": "The Sentence Resumed: A Prisoner on His Knees (v. 14-15)",
+        "body": "'For this cause' returns, and the verb finally arrives — he kneels to the Father from whom every family in heaven and earth takes its name."
+      },
+      {
+        "label": "Four Requests That Climb Into Each Other (v. 16-19)",
+        "body": "Inner strength by the Spirit, Christ settling in permanently, power to seize the immeasurable dimensions of love, and the fullness of God — each request the ground of the next."
+      },
+      {
+        "label": "The Doxology That Closes the Doctrinal Half (v. 20-21)",
+        "body": "To the One able to do hyper-beyond-abundantly above all we ask or think, glory in the church and in Christ Jesus to all the generations of the age of the ages — and then, at 4:1, the imperatives begin."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "What the Mystery Actually Is — and What It Is Not",
+        "paragraphs": [
+          "The word mystērion has been badly served by English. It does not mean a puzzle awaiting a clever solution; in Scripture it means something God kept sealed and then opened Himself. That is why verse 3 pairs it with apokalypsis — revelation, an unveiling — and verse 9 says it was “hidden in God,” not lost in the archives. Nobody was going to reason their way to this. It had to be uncovered.",
+          "So be precise about the content, because most readers get this half-right and the half they miss is the whole point. The mystery is NOT that God would one day bless the nations — Genesis 12:3 promised that every family of the earth would be blessed through Abraham, and Isaiah 49:6 called the Servant a light to the nations. Any synagogue could have told you Gentiles were coming. Verse 5 says it was not made known “AS it has now been revealed,” and verse 6 supplies the difference in three words that all begin with syn-: synklēronoma, syssōma, symmetocha. Fellow heirs. Fellow body. Fellow partakers. The expectation was that the nations would be blessed by attaching themselves to Israel — proselytes, God-fearers, guests at somebody else's table, stopped at somebody else's wall. What was hidden was equal standing. One body, one inheritance, no second tier.",
+          "Do not domesticate how violent that was. Chapter 2 has just described the two parties as separated by a “middle wall of partition” and a mutual “hostility” that had to be killed at the cross (2:14-16). This was not a diversity initiative; it was the end of a boundary that men were prepared to lynch a man for crossing — and did. Paul writes verse 1 wearing the consequences on his wrist. And notice how personally he takes his own smallness in verse 8: elachistoteros, a comparative stacked onto a superlative, a word that does not properly exist. The man carrying the most explosive revelation of the age describes himself in broken grammar as less than the least, and his office (v. 7) as diakonos — a waiter. Revelation this size does not inflate the man who receives it. It shrinks him."
+        ]
+      },
+      {
+        "heading": "God's Exhibit: Why the Church Exists in Front of Angels",
+        "paragraphs": [
+          "Verse 10 is the sentence that should permanently change how you walk into a church building. It is a purpose clause — “to the intent that” — attached to everything Paul has just said, and it answers the question of why God assembled this particular body out of these particular people. The answer is not evangelism, growth, or personal fulfilment. It is display: “that NOW through the assembly the manifold wisdom of God might be made known to the principalities and the powers in the heavenly places.” The church is God's exhibit, the demonstration piece, and the audience named is not human.",
+          "Two words carry the weight. Polypoikilos occurs only here in the New Testament and means many-coloured, richly variegated — the vocabulary of embroidery, of threads no one would have put together. God's wisdom is not displayed by a room of identical people; it is displayed by a fabric of clashing colours that holds. And gnōrizō, “made known,” is the verb of information being delivered to someone who did not have it. Created beings older than the human race are learning something from watching your congregation.",
+          "Track the phrase that binds this letter together and the picture sharpens: “in the heavenly places” occurs five times, only in Ephesians. Every spiritual blessing is there (1:3). Christ is seated there (1:20). You are seated there with Him (2:6). The church's exhibition happens there (3:10). And the war is fought there (6:12) — “against the principalities, against the powers... the spiritual forces of wickedness in the heavenly places.” The same categories that watch the exhibit in 3:10 are the enemy you wrestle in 6:12. Some of the audience is not applauding. Which means that unity in a local church is never merely social housekeeping; it is a verdict announced in a courtroom you cannot see. When a congregation absorbs an offence instead of splitting, when people who would never have chosen each other keep breaking bread, the wisdom of God is being read aloud to rulers who bet against it.",
+          "And read verse 11 before you make this romantic. This display runs “according to the eternal purpose which he purposed” — literally the purpose of the ages, and the verb is poieō, He made it, He executed it, in Christ Jesus. The church is not God's improvisation after Israel stumbled. It is what the ages were arranged around. Which is also why verse 13 is not sentimental: if the exhibit cost Paul his freedom, do not conclude the exhibit is failing. Chains are what it costs to hang the cloth."
+        ]
+      },
+      {
+        "heading": "A Prisoner Praying for the Interior of Free People",
+        "paragraphs": [
+          "Paul prays twice in this letter, and the two prayers together are an indictment of most of our praying. In 1:15-23 he asks for a spirit of wisdom and revelation, enlightened eyes, and a measurement of God's power. Here in 3:16-19 he asks for interior strength, indwelling, rootedness, comprehension, and fullness. Not once — in either prayer — does the man in custody ask God to alter a circumstance. He does not ask for release. He does not ask for a favourable verdict, a kinder guard, or better health. In 6:19-20 he finally does ask them to pray for him, and what he wants is that his mouth would be opened boldly — a request to be a better prisoner, not a freer man.",
+          "The four requests are not a list; they are a staircase, each step standing on the one under it. First, be strengthened with power by His Spirit in the inward man (v. 16) — krataioō is not gentle vocabulary; it means to be made mighty, and the same root reappears at 6:10, “be strong in the Lord, and in the strength of his might,” where the armour is issued. This is combat-grade strengthening, applied to the part of you no one can see. Second, that Christ may dwell — katoikeō, settle down permanently, unpack, take the whole house — in hearts where He already lives. Third, that being rooted and grounded in love (a tree's root system and a building's foundation, in the same clause) you would have full strength — exischyō, a word found nowhere else in the New Testament — to seize the width, length, height and depth. Fourth, that you would be filled to all the fullness of God.",
+          "Verse 19 is a deliberate contradiction and Paul leaves it standing: “to know Christ's love which surpasses knowledge.” Ginōskō is knowledge by experience and contact; hyperballō means to throw past the mark. He is asking that you would experience what you will never finish comprehending. And note the phrase “with all the saints” in verse 18 — the dimensions of this love are not measurable by a solitary Christian. You will get one side of it; the brother you find difficult has hold of another. This is knowledge that requires other people, which is exactly the point of a chapter about one body.",
+          "Then the doxology, and it exists because Paul knows what he has just asked. Human beings, filled with all the fullness of God. So he turns to “him who is able to do exceedingly abundantly above all that we ask or think” — hyper-ek-perissou, three intensifiers welded together, and then “above all that we ask or think” piled on top. He runs out of Greek. But the ceiling is not vague: it is “according to the power that works in us,” energeō, the same power he measured in 1:19-20 by raising Christ from the dead and seating Him in the heavenly places. That is the scale on which God intends to answer this prayer. And then — this matters — the very next sentence is 4:1: “I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called.” The imperatives of chapters 4 to 6 do not begin until the doxology has closed. Nothing is commanded in the second half of this letter that has not first been given in the first half. Walk worthily of what you already are; you are not walking in order to become it."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The commission behind this chapter is quoted verbatim by Paul himself, under oath, in a courtroom. Standing before King Agrippa in Caesarea, he reports what the risen Christ said to him on the Damascus road: “But arise, and stand on your feet, for I have appeared to you for this purpose: to appoint you a servant and a witness both of the things which you have seen, and of the things which I will reveal to you; delivering you from the people, and from the Gentiles, to whom I send you, to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive remission of sins and an inheritance among those who are sanctified by faith in me” (Acts 26:16-18). Every strand of Ephesians 3 is already in that sentence. “The things which I will reveal to you” is the mystery of verses 3 and 5. “To open their eyes, that they may turn from darkness to light” is the job Paul compresses in verse 9 into one verb — phōtisai, built on phōs, light: to floodlight a dark room until people can see what is in it. “From the power of Satan to God” is the war of verse 10 and chapter 6. And “an inheritance among those who are sanctified” is verse 6 in embryo — synklēronomos, fellow heirs. The chained man of 3:1 is standing in chains again in Acts 26, telling a king why he is chained: because he obeyed that vision.",
+        "The theology of verse 6 was not built in a study; it was hammered out in Peter's experience first. In Acts 10 God gives Peter a rooftop vision to overturn a lifetime of food laws, and while Peter is still preaching in the house of a Roman centurion, the Holy Spirit falls on Gentiles exactly as He had fallen at Pentecost — and the Jewish believers present are astonished. When Peter is hauled up to explain himself in Jerusalem, the church's conclusion is that God has granted the Gentiles repentance to life (Acts 11:18). That is the mystery arriving in real time, in a real house, before Paul ever wrote a word of it down.",
+        "Follow one rare word forward and the New Testament answers itself. Anexichniastos — “unsearchable” in Ephesians 3:8 — is built from a negative, ek, and ichnos, a footprint: riches you cannot track to their source no matter how far you follow the trail. It occurs only twice in the Greek New Testament, and the other occurrence is Romans 11:33, where the World English Bible keeps the footprint image intact in the phrase “past tracing out”: “Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments, and his ways past tracing out!” Look at what surrounds it there — depth, riches, wisdom, knowledge, and a doxology — the identical cluster Paul uses in Ephesians 3:8-21, and both passages sit at the end of an argument about God bringing Jew and Gentile into one mercy. Romans 11 ends: “For of him, and through him, and to him, are all things. To him be the glory for ever! Amen.” Ephesians 3 ends: “to him be the glory in the assembly and in Christ Jesus to all generations forever and ever. Amen.” The same apostle, tracking the same untrackable riches, arrives twice at the same knee-bent silence.",
+        "And the angelic audience of verse 10 is not a lone eccentric claim. Peter, writing about the salvation the prophets searched for and did not receive in their own time, ends the thought with the same startling detail: these are things angels desire to look into (1 Peter 1:12). Two apostles, independently, tell you that unfallen intelligences are studying what happened to you. Colossians — written in the same imprisonment and carried by the same messenger — states the mystery's content in one line: the secret hidden for ages and generations is now revealed among the Gentiles, and it is Christ in you, the hope of glory (Colossians 1:26-27). Christ IN you. That is Ephesians 3:17 under another name."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Mystery",
+      "hebrew": "μυστήριον",
+      "translit": "mystḗrion",
+      "strongs": "G3466",
+      "verses": "v. 3, 4, 9 (cf. 1:9; 5:32; 6:19)",
+      "insight": "Strong's traces it to “the idea of silence imposed by initiation into religious rites” — a secret. But the biblical use is sharper than the pagan one: a mystērion is not a truth reserved for an inner circle who paid for the initiation; it is a truth God kept sealed in Himself (v. 9, “hidden in God”) until He chose to unveil it, and then had it shouted at the whole world by a table-servant (v. 7-8). That is why verse 3 pairs it with apokalypsis, unveiling. You do not solve a mystery in Scripture; you receive one. Which means the correct posture toward the deepest things of God is not cleverness but attention — and the correct response to having received it is not superiority but the smallest word Paul could find for himself in verse 8."
+    },
+    {
+      "english": "Fellow heirs (and the two words chained to it)",
+      "hebrew": "συγκληρονόμος",
+      "translit": "synklēronómos",
+      "strongs": "G4789",
+      "verses": "v. 6",
+      "insight": "Strong's: “a co-heir, i.e. (by analogy) participant in common” — syn (together with) welded onto klēronomos (heir). And Paul does not use it alone; verse 6 fires three syn- compounds in a row like blows on the same nail: synklēronoma (fellow heirs), syssōma (fellow members of the body, from G4954 σύσσωμος, “of a joint body” — a word that appears nowhere else in the Greek New Testament and which Paul may simply have built because none existed), and symmetocha (fellow partakers, from G4830 συμμέτοχος, “a co-participant”). Three times the prefix “with.” Not beneficiaries of the heirs, not attached to the body, not permitted to observe the promise — fellow, fellow, fellow. This is the entire content of the mystery, and it is why a wall in Jerusalem had to come down (2:14) and why Paul is in chains (3:1). It also settles the question you keep re-asking in the dark: whether you are really in, or only tolerated near. The Greek does not leave room for a second tier."
+    },
+    {
+      "english": "Manifold / many-coloured",
+      "hebrew": "πολυποίκιλος",
+      "translit": "polypoíkilos",
+      "strongs": "G4182",
+      "verses": "v. 10",
+      "insight": "Strong's defines it “much variegated, i.e. multifarious,” from polys (much, many) and poikilos (motley, various in character). It occurs only here in the New Testament. The root belongs to the world of dyed thread and needlework — poikilos is the Greek Old Testament's word for embroidered work, used of the many-coloured coat given to Joseph and of the richly worked hangings of the tabernacle. So the wisdom being displayed to the principalities in verse 10 is not a plain, single-colour proposition; it is embroidery — clashing threads deliberately worked into one fabric. God's answer to the powers is not an argument. It is a textile: Jew and Gentile, slave and free, the respectable and the wrecked, woven so tightly that pulling one thread moves the whole cloth. Which tells you what a monochrome church costs — not merely fellowship, but the very display God assembled it to make."
+    },
+    {
+      "english": "Dwell / settle down permanently",
+      "hebrew": "κατοικέω",
+      "translit": "katoikéō",
+      "strongs": "G2730",
+      "verses": "v. 17",
+      "insight": "Strong's is unusually vivid here: “to house permanently, i.e. reside.” It is kata (down) plus oikeō (to inhabit) — to come down, put your things away, and live there. Greek had a perfectly good word for the alternative: paroikeō (G3939), “to dwell near, i.e. reside as a foreigner” — the word for a guest, a lodger, a man passing through. Paul is praying for people who are already Christians, in whom Christ already lives, that Christ would katoikeō in their hearts. The prayer is not for entry. It is for occupancy: that He would move past the room you keep tidy for visitors and take the whole house, including the rooms you would rather He did not open. And note the same root closes chapter 2 — you are built together for a katoikētērion, a dwelling-place, of God in the Spirit (2:22). God has never been looking for somewhere to visit."
+    },
+    {
+      "english": "Exceedingly abundantly (over-out-of-beyond)",
+      "hebrew": "ὑπερεκπερισσοῦ",
+      "translit": "hyperekperissoû",
+      "strongs": "G5228 (ὑπέρ) + G1537 (ἐκ) + G4053 (περισσός)",
+      "verses": "v. 20",
+      "insight": "Paul has just prayed that human beings would be filled with all the fullness of God, and he can hear how impossible that sounds — so he reaches for the biggest thing in the language and finds it too small. He takes perissos, which already means superabundant, more-than-enough, and bolts ek (“out of”) and hyper (“over, beyond”) onto the front of it: over-out-of-beyond-abundantly. There is no single Strong's entry for the adverb he ends up with; it has to be numbered as three stacked words. And that is not even the only hyper in the sentence — the same preposition is already standing in front of the verb in hyper panta, “above all things.” Four intensifiers welded to one verb. This is a man exhausting his vocabulary in public. And then he does something that keeps it from being mere enthusiasm — he supplies the measuring rod: “according to the power that works in us” (energeō, G1754), the same power he had already measured in 1:19-20 by raising Christ from the dead and seating Him in the heavenly places. So the limit on this promise is not God's ability and it is not your imagination. It is resurrection power, already resident, already at work in you."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with five things in this chapter: the quiet suspicion that you are a guest rather than a son, the ordinary week you assume nobody is watching, the hardship you cannot interpret, the rooms in you Christ has never been given, and the smallness of what you have been willing to ask for.",
+    "items": [
+      {
+        "title": "You Are Not a Guest in This House",
+        "body": "There is a version of Christian life lived just outside the barrier — close enough to hear the singing, never sure you are actually inside. You serve, you give, you show up; and underneath it runs the assumption that you are here on sufferance, that the real family are the ones who were raised in it, who never did what you did, who have the pedigree you lack. Verse 6 was written to kill that. Fellow heirs. Fellow body. Fellow partakers. Three times the Greek says “together with,” and Paul had to coin a word to say it strongly enough. There is no visitors' section in the body of Christ. So answer honestly: where do you still behave like someone who has been let in rather than someone who belongs — in prayer, in worship, in how you receive love from God's people? And who told you the wall was still standing, when Christ tore it down and went to prison in Paul to prove it?"
+      },
+      {
+        "title": "Your Ordinary Tuesday Is the Exhibit",
+        "body": "You think nobody sees. The forgiveness you extended and told no one about. The relationship in the church you keep repairing when it would be easier to let it die. The person from the other tribe, the other class, the other side of the argument, whom you deliberately sit beside. Verse 10 says that “now, through the assembly,” God's many-coloured wisdom is being made known to the principalities and the powers in the heavenly places — and 6:12 tells you some of those powers are hostile. You are not maintaining a social club. You are exhibit evidence in a case being tried in front of beings older than the human race. So look at your actual conduct in your actual congregation this month: what has it been proving? And if the answer is uncomfortable, understand what is at stake — you cannot display a many-coloured wisdom with people who all look, think, and sound exactly like you."
+      },
+      {
+        "title": "Someone Else's Inheritance May Be Costing You Something",
+        "body": "Paul is chained, and he tells them plainly not to lose heart over it, because “my troubles for you... are your glory.” He could not have preached the Gentile mystery without the arrest that followed it; the freedom of a hundred congregations was paid for out of one man's calendar and one man's wrists. Now hold your own hard season up against that. You have been asking what your suffering is FOR, and you have been assuming the answer must be about you — your character, your lesson, your refining. What if part of it is not about you at all? What if the pressure you are under is the price of something someone else will inherit — a child's faith, a friend's rescue, a door someone walks through years from now that only opened because you stayed. Ask the Spirit directly: is there a glory being purchased here that I am not the beneficiary of? And can I keep standing if the answer is yes?"
+      },
+      {
+        "title": "Let Him Unpack His Bags",
+        "body": "Paul prays that Christ may katoikeō — settle down and permanently reside — in the hearts of people He already indwells. That is not a contradiction; it is the most searching prayer in the chapter. There is a difference between a Lord who has been admitted and a Lord who has been given the keys. Most of us have a room we keep presentable for Him and a corridor we hope He never walks down: the finances, the private appetite, the grudge with the specific name attached, the ambition you have never surrendered because you are afraid He will say no. Christ is not a lodger and He did not come to rent. So name the room. What is the one area of your life where Jesus is a visitor with restricted access? Say it out loud today, and hand Him the key to that door specifically — not to the house in general."
+      },
+      {
+        "title": "Ask For Something Too Big",
+        "body": "Read your last month of prayer honestly. Almost all of it was about circumstances — money, health, a job, a decision, a person's behaviour. Now read Paul's list: inner strength, indwelling, rootedness, comprehension of an immeasurable love, the fullness of God. A man in chains prayed for none of the things you pray for, and asked for things you have never once requested. Then he wrote verse 20 because even he felt the size of it: God is able to do over-out-of-beyond-abundantly above all that we ask or think — measured by the resurrection power already working in you. Here is the uncomfortable implication: the ceiling in your life is not God's ability, and it may not even be His will. It may be the smallness of your asking. So what would you pray for this week if you genuinely believed verse 20? Write it down, and then pray it."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The “Fellow” Audit",
+        "body": "Write down the three syn- words of verse 6 — fellow heir, fellow member of the body, fellow partaker — and then write beside each one the specific reason you still secretly believe it might not fully apply to you. Your past. Your family. Your failure. Your lateness to the faith. Now look at what you have written and ask: is any of it a wall Christ did not break down? If the answer is no, then what you are carrying is not humility. It is the old barrier, rebuilt inside your own head."
+      },
+      {
+        "title": "The Exhibit Check",
+        "body": "Verse 10 says the church is God's display before the powers. So take your congregation, or your small group, and answer plainly: if unseen intelligences studied it this month, what would they conclude about God's wisdom? Would they see clashing colours held together — or one comfortable colour, and everyone else quietly filtered out? Then get specific and personal: name one person in your church you have written off, avoided, or dismissed. That relationship is not a preference. It is a thread in the cloth."
+      },
+      {
+        "title": "The Prayer-List Audit",
+        "body": "Go back through your prayers from the last month — your notes, your voice memos, your memory. Sort every request into two columns: “change my circumstances” and “change my interior.” Be brutally accurate. Paul prayed twice in this letter from a prison cell and never once asked for the first column. What does the shape of your list say about where you actually believe your problem lies?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Praying Paul's Prayer By Name for Seven Days",
+        "body": "Write out verses 16-19 on one page. Choose three people — one you love easily, one you find hard, and yourself — and each morning this week pray the whole prayer through with a name inserted at every “you.” Out loud. It takes ninety seconds: “Father, according to the riches of Your glory, strengthen [name] with power through Your Spirit in the inward man; let Christ dwell in [name]'s heart through faith; root and ground [name] in love; give [name] strength to comprehend with all the saints the width and length and height and depth, and to know Christ's love which surpasses knowledge, that [name] may be filled with all the fullness of God.” On day seven, write down what has changed in how you see the person you find hard. Praying Paul's requests over someone for a week makes it very difficult to keep them at arm's length."
+      },
+      {
+        "title": "Taking One Wall Down This Week",
+        "body": "Identify one category of person you keep outside your circle — a different tribe, a different tax bracket, a different theology, a different generation, or one specific individual whose name you already know. Then do something physical about it before Sunday ends: invite them to your table, sit beside them deliberately, call and ask a real question and listen without correcting, or make the apology you have been rehearsing for a year. Do not announce it. Verse 10 says the audience that matters is not human anyway. One meal, one seat, one phone call — that is what a many-coloured cloth is actually made of."
+      }
+    ]
+  },
+  "prayerReflection": "“Father — the Father from whom every family in heaven and on earth is named — I bow my knees. Not casually, not out of habit, but the way a man kneels when something is too big to stay upright under. Thank You for the mystery You did not have to unveil: that I am a fellow heir, a fellow member of the body, a fellow partaker of Your promise in Christ Jesus through the Good News. Not a guest. Not tolerated near the wall. Fellow. Lord, forgive me for rebuilding inside my own heart the barrier Christ tore down — for living like a visitor in a house I have been given. Today I take my seat. Now, according to the riches of Your glory, strengthen me with power through Your Spirit in the inward man, where nobody sees and where everything is decided. Lord Jesus, do not visit me — dwell in me. Come down into the rooms I have kept shut, unpack, and take the whole house; I hand You the key to the specific door I have been guarding. Root me and ground me in love, so that when the weather comes I do not move. Give me strength, with all the saints, to lay hold of the width and the length and the height and the depth, and to know the love of Christ that surpasses knowledge — let me swim in an ocean I will never finish measuring — that I may be filled with all the fullness of God. Father, let my ordinary week be Your exhibit: let the manifold, many-coloured wisdom of God be made known through Your assembly to the principalities and the powers in the heavenly places, and let my part in it be unity, mercy, and a table with room at it. And when the pressure comes, do not let me lose heart at troubles — mine or anyone else's — for I believe You are able to do exceedingly abundantly above all that I ask or think, according to the power that already works in me, the same power that raised Christ from the dead. To You be the glory in the assembly and in Christ Jesus, to all generations forever and ever. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Rooftop, the Sheet, and the House of Cornelius",
+      "ref": "Acts 10:1 - 11:18",
+      "relatedVerses": "v. 3-6",
+      "summary": "A Roman centurion in Caesarea — a career officer of the occupying army — is told by an angel to send for a fisherman in Joppa. Meanwhile Peter, hungry on a rooftop, sees a sheet lowered full of animals no observant Jew would touch, and hears a voice telling him to kill and eat; three times he refuses, and three times he is told not to call unclean what God has cleansed. He is still turning it over when the centurion's men knock at the gate. Peter goes, steps into a Gentile house — itself a scandal — and while he is still preaching, the Holy Spirit falls on that room exactly as He had fallen at Pentecost, and the Jewish believers who came with Peter are astonished. Hauled before the Jerusalem church to explain himself, Peter tells the story and the room falls silent, then concludes that God has granted the Gentiles repentance to life (Acts 11:18). That is Ephesians 3:6 happening in a living room before Paul ever wrote the word mystērion. And notice the order: God did not persuade the church and then act. He acted, and the church caught up."
+    },
+    {
+      "title": "Trophimus the Ephesian and the Sign on the Temple Wall",
+      "ref": "Acts 21:27-36; Ephesians 2:14",
+      "relatedVerses": "v. 1, 6, 13",
+      "summary": "Herod's temple had a low stone barrier around its inner courts, and set into it were slabs inscribed in Greek and Latin warning that any foreigner who passed beyond it had only himself to blame for his death — two of those stones have actually been recovered by archaeologists. In Acts 21, Jews from Asia spot Paul in Jerusalem, remember having seen him around the city with Trophimus, an Ephesian, and assume he has taken the man past the barrier. He had not. It did not matter. The city convulses, Paul is dragged out of the temple and beaten, and Roman soldiers have to carry him through the mob — and that arrest is the beginning of the custody he is still in when he dictates Ephesians 3:1, “the prisoner of Christ Jesus on behalf of you Gentiles.” Read the irony and do not look away from it: a man is chained for years over a Gentile from Ephesus he never actually brought inside, and from that chain he writes to Ephesus that the wall itself has already been demolished (2:14). When he says in verse 13 that his troubles are your glory, he is not being poetic. He is telling you what your seat cost somebody."
+    },
+    {
+      "title": "Solomon on His Knees Before a House That Could Not Contain God",
+      "ref": "1 Kings 8:22-30, 54; 2 Chronicles 6:12-13",
+      "relatedVerses": "v. 14-19",
+      "summary": "At the dedication of the temple Solomon spreads out his hands before the whole assembly of Israel, and by the end of the prayer he is described as rising from his knees — the posture reserved in Israel for the moments when standing will not do. And in the middle of it he says the thing nobody expected the builder of the house to say: heaven, and the heaven of heavens, cannot contain You; how much less this house that I have built. That question hangs unanswered for a thousand years. Then a chained apostle in Rome gets down on the same knees and prays that Christ would katoikeō — settle down and permanently reside — in human hearts, and that those hearts would be filled with all the fullness of God. The God whom the universe could not house has chosen an address: not a building of stone, but people built together as a dwelling place of God in the Spirit (2:22). Solomon's impossible question is Paul's ordinary request."
+    }
+  ]
+}

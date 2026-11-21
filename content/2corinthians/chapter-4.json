@@ -1,0 +1,807 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Corinthians",
+  "chapter": 4,
+  "chapterTitle": "Treasure in Clay Jars — The Light That Made the World, Carried in Cheap Pottery",
+  "themeTitle": "“God Put the Most Valuable Thing in the Universe Inside the Cheapest Container He Could Find — On Purpose”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Therefore seeing we have this ministry, even as we obtained mercy, we don’t faint.",
+      "understanding": "“Therefore” reaches back over the whole of chapter 3 — the ministry that has more glory than Moses’ face, the veil that lifts in Christ, the mirror that changes the man looking into it. On that ground Paul says: we don’t faint. And notice the two things holding him up, neither of them his own resilience. First, the ministry was handed to him — “we HAVE this ministry,” received, not achieved. Second, “even as we obtained mercy” — ēleēthēmen, a passive verb: mercy was done to him. This is the man who held the coats while Stephen was stoned. He does not quit, because the job was a gift and he was a pardon.",
+      "words": [
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "ministry"
+        },
+        {
+          "strongs": "G1653",
+          "hebrew": "ἐλεέω",
+          "translit": "eleéō",
+          "english": "obtained mercy"
+        },
+        {
+          "strongs": "G1573",
+          "hebrew": "ἐκκακέω",
+          "translit": "ekkakéō",
+          "english": "faint"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "But we have renounced the hidden things of shame, not walking in craftiness, nor handling the word of God deceitfully; but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God.",
+      "understanding": "Apeipametha is decisive and once-for-all: we said it off, we disowned it — the hidden things of shame, the private compartment every public man is tempted to keep. Then two ministry sins by name. Panourgia is literally “ready for anything,” the willingness to use whatever works. Doloō was the merchant’s word for adulterating — watering the wine, cutting the grain. Paul will not water the word down to make it drink easier. His alternative is phanerōsis: setting the truth out in the open where anyone may inspect it, aimed not at applause but at “every man’s conscience,” and done “in the sight of God.” He has no technique. He has an open Bible and a clear conscience.",
+      "words": [
+        {
+          "strongs": "G550",
+          "hebrew": "ἀπειπόμην",
+          "translit": "apeipómēn",
+          "english": "renounced"
+        },
+        {
+          "strongs": "G152",
+          "hebrew": "αἰσχύνη",
+          "translit": "aischýnē",
+          "english": "shame"
+        },
+        {
+          "strongs": "G3834",
+          "hebrew": "πανουργία",
+          "translit": "panourgía",
+          "english": "craftiness"
+        },
+        {
+          "strongs": "G1389",
+          "hebrew": "δολόω",
+          "translit": "dolóō",
+          "english": "handling deceitfully"
+        },
+        {
+          "strongs": "G5321",
+          "hebrew": "φανέρωσις",
+          "translit": "phanérōsis",
+          "english": "manifestation"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Even if our Good News is veiled, it is veiled in those who are dying;",
+      "understanding": "Here is the charge behind the sentence: if you are a real apostle, why isn’t everybody convinced? Paul concedes the fact and relocates the problem. The Good News is not obscure and the preacher is not the obstacle — the covering is in the hearers. And read the word: kalyptō is the veil (kalymma) of chapter 3 come off Moses’ face and onto a human mind. “Those who are dying” is a present participle, people currently in the process of perishing; Paul is describing a direction of travel, not pronouncing a final sentence.",
+      "words": [
+        {
+          "strongs": "G2572",
+          "hebrew": "καλύπτω",
+          "translit": "kalýptō",
+          "english": "veiled"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        },
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "those who are dying"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "in whom the god of this world has blinded the minds of the unbelieving, that the light of the Good News of the glory of Christ, who is the image of God, should not dawn on them.",
+      "understanding": "The most chilling sentence in the chapter. “The god of this world” is ho theos tou aiōnos toutou — the god of this age. That is Satan: not a rival deity but a usurper operating on borrowed, permitted ground, the one Jesus called “the prince of this world” (John 12:31). Watch his method — he blinds noēmata, the thinking and perceiving faculty itself, the same word Paul used of Satan’s schemes in 2:11. He does not usually argue people out of the gospel; he arranges for the light never to dawn. Augazai is the verb of daybreak. And notice what unbelief costs a man: not merely information, but sight of “the glory of Christ, who is the image of God.”",
+      "words": [
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "world (lit. age)"
+        },
+        {
+          "strongs": "G5186",
+          "hebrew": "τυφλόω",
+          "translit": "typhlóō",
+          "english": "blinded"
+        },
+        {
+          "strongs": "G3540",
+          "hebrew": "νόημα",
+          "translit": "nóēma",
+          "english": "minds"
+        },
+        {
+          "strongs": "G826",
+          "hebrew": "αὐγάζω",
+          "translit": "augázō",
+          "english": "dawn"
+        },
+        {
+          "strongs": "G5462",
+          "hebrew": "φωτισμός",
+          "translit": "phōtismós",
+          "english": "light"
+        },
+        {
+          "strongs": "G1504",
+          "hebrew": "εἰκών",
+          "translit": "eikṓn",
+          "english": "image"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For we don’t preach ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus’ sake;",
+      "understanding": "This is the direct answer to teachers who arrived with letters of recommendation and a superior manner. Kēryssō means to herald — the town crier has no message of his own and is not the news. Two contents only: Christ Jesus as Lord (kyrios, in a Roman colony where that title had a Caesar attached to it), and ourselves as your slaves. The word is doulous, slaves, not the polite word for helpers. And then the clause that makes it survivable — “for Jesus’ sake.” That is how a man serves a congregation that is currently running him down.",
+      "words": [
+        {
+          "strongs": "G2784",
+          "hebrew": "κηρύσσω",
+          "translit": "kērýssō",
+          "english": "preach"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servants (lit. slaves)"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "seeing it is God who said, “Light will shine out of darkness,” who has shone in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+      "understanding": "Paul reaches past every religious argument to the first morning of the universe. Honestly: this is not a word-for-word quotation of the Greek Old Testament; Paul freely summarises Genesis 1:3 — “God said, ‘Let there be light,’ and there was light” — with Isaiah 9:2 in the air. His point is the mechanism. What happened in you was not the end of an argument; it was the beginning of a creation. The same voice that spoke into formless dark and got light spoke into your chest. “Has shone” is aorist: there was a day. And what the light illuminates is not a doctrine but a face — the glory of God located in the face of Jesus Christ. (Phōtismos, “light,” occurs only twice in the whole New Testament: verse 4 and verse 6. Satan blocks it; God speaks it.)",
+      "words": [
+        {
+          "strongs": "G2989",
+          "hebrew": "λάμπω",
+          "translit": "lámpō",
+          "english": "shine"
+        },
+        {
+          "strongs": "G4655",
+          "hebrew": "σκότος",
+          "translit": "skótos",
+          "english": "darkness"
+        },
+        {
+          "strongs": "G5457",
+          "hebrew": "φῶς",
+          "translit": "phōs",
+          "english": "light"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "But we have this treasure in clay vessels, that the exceeding greatness of the power may be of God, and not from ourselves.",
+      "understanding": "The centre of the letter, and the sentence the whole book runs on. Thēsauros is treasure — a hoard, wealth. Ostrakinos means made of baked clay: the cheap, disposable packaging of the ancient world, thrown out the moment it chipped. Then read the purpose clause, because it is not an apology for weakness but the reason for it: “THAT the exceeding greatness of the power may be of God, and not from ourselves.” Hyperbolē is a throwing-beyond, power in excess of the container. God did not put the treasure in clay in spite of the clay. He did it so that nobody would ever confuse the shine with the pot.",
+      "words": [
+        {
+          "strongs": "G2344",
+          "hebrew": "θησαυρός",
+          "translit": "thēsaurós",
+          "english": "treasure"
+        },
+        {
+          "strongs": "G3749",
+          "hebrew": "ὀστράκινος",
+          "translit": "ostrákinos",
+          "english": "clay"
+        },
+        {
+          "strongs": "G4632",
+          "hebrew": "σκεῦος",
+          "translit": "skeûos",
+          "english": "vessels"
+        },
+        {
+          "strongs": "G5236",
+          "hebrew": "ὑπερβολή",
+          "translit": "hyperbolḗ",
+          "english": "exceeding greatness"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "We are pressed on every side, yet not crushed; perplexed, yet not to despair;",
+      "understanding": "Four antitheses begin, and each one is a comma away from ruin. Thlibomenoi is to be squeezed, crowded, pressed in a narrowing place; stenochōroumenoi is to be hemmed in with no room left at all — pressed, but not cornered. Then a wordplay no English can carry: aporoumenoi all’ ouk exaporoumenoi, at a loss but not utterly at a loss. And do not read that as bravado: Paul used that very second word of himself in 1:8, when he “despaired even of life.” He is not claiming he never reached the edge. He is telling you where the edge was.",
+      "words": [
+        {
+          "strongs": "G2346",
+          "hebrew": "θλίβω",
+          "translit": "thlíbō",
+          "english": "pressed"
+        },
+        {
+          "strongs": "G4729",
+          "hebrew": "στενοχωρέω",
+          "translit": "stenochōréō",
+          "english": "crushed"
+        },
+        {
+          "strongs": "G639",
+          "hebrew": "ἀπορέω",
+          "translit": "aporéō",
+          "english": "perplexed"
+        },
+        {
+          "strongs": "G1820",
+          "hebrew": "ἐξαπορέομαι",
+          "translit": "exaporéomai",
+          "english": "despair"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "pursued, yet not forsaken; struck down, yet not destroyed;",
+      "understanding": "Diōkomenoi is the hunted man — chased, pursued, run down. Enkataleipō is the word of Psalm 22:1 on the lips of the crucified Christ, “why have you forsaken me?” — abandoned, left behind in the place of trouble. Paul says: hunted, yes; abandoned, never. Kataballomenoi is knocked flat, the word for a man put on the ground in a fight; apollymenoi is the verb of verse 3, destroyed, finished. He had been literally stoned and dragged out of Lystra for dead. Down is not out. Floored is not finished.",
+      "words": [
+        {
+          "strongs": "G1377",
+          "hebrew": "διώκω",
+          "translit": "diṓkō",
+          "english": "pursued"
+        },
+        {
+          "strongs": "G1459",
+          "hebrew": "ἐγκαταλείπω",
+          "translit": "enkataleípō",
+          "english": "forsaken"
+        },
+        {
+          "strongs": "G2598",
+          "hebrew": "καταβάλλω",
+          "translit": "katabállō",
+          "english": "struck down"
+        },
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "destroyed"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "always carrying in the body the putting to death of the Lord Jesus, that the life of Jesus may also be revealed in our body.",
+      "understanding": "Nekrōsis is not death as an event but dying as a condition — a deadening, a putting-to-death carried in the body. Peripherontes means carrying it around, hauling it everywhere he goes, into every city and every synagogue. And then the purpose again: so that the life of Jesus may be revealed — phanerōthē, made visible — in the same body that is carrying the dying. Your body is not the obstacle to the display. It is the display case.",
+      "words": [
+        {
+          "strongs": "G3500",
+          "hebrew": "νέκρωσις",
+          "translit": "nékrōsis",
+          "english": "putting to death"
+        },
+        {
+          "strongs": "G4064",
+          "hebrew": "περιφέρω",
+          "translit": "periphérō",
+          "english": "carrying"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "revealed"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For we who live are always delivered to death for Jesus’ sake, that the life also of Jesus may be revealed in our mortal flesh.",
+      "understanding": "Verse 10 restated so it cannot be spiritualised away. “We who live are always delivered to death” — paradidomi is the handing-over word, used of Judas handing Jesus over and of God delivering up His own Son. This is not an accident of Paul’s career; it is the arrangement. And the arena is named exactly: “our mortal flesh” — thnētē sarx, the perishable, ageing, ordinary body. That is where the life of Jesus is meant to become visible, not somewhere more spiritual.",
+      "words": [
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "delivered"
+        },
+        {
+          "strongs": "G2349",
+          "hebrew": "θνητός",
+          "translit": "thnētós",
+          "english": "mortal"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "So then death works in us, but life in you.",
+      "understanding": "The blunt accounting of ministry. Energeitai — death is at work, active, doing something. Paul does not say his suffering is meaningless and he does not say it is pleasant; he says it is productive, and the produce lands on someone else. The cost falls on him; the life falls on them. Every person who has been fed by someone who was quietly bleeding knows this verse from the receiving end.",
+      "words": [
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "works"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But having the same spirit of faith, according to that which is written, “I believed, and therefore I spoke.” We also believe, and therefore also we speak;",
+      "understanding": "“The same spirit of faith” — the same as whose? The psalmist’s. Paul quotes the Greek Old Testament of Psalm 116:10, and the psalm matters: it is the song of a man tangled in the cords of death, brought low and saved, who says he believed and therefore he spoke. He did not speak because circumstances improved. He spoke because he believed while he was afflicted. That is the logic Paul claims for himself here — faith is the thing that makes a crushed man open his mouth anyway.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believed"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoke"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "knowing that he who raised the Lord Jesus will raise us also with Jesus, and will present us with you.",
+      "understanding": "Here is the engine under the speaking. He can be handed over to death daily because he knows the end of the story: the God who raised the Lord Jesus will raise him too. And catch the last clause — “will present us with you.” Paristēmi is the word for presenting someone formally before a king. Paul expects to stand in that presentation shoulder to shoulder with the very church that has been questioning whether he is worth listening to.",
+      "words": [
+        {
+          "strongs": "G1453",
+          "hebrew": "ἐγείρω",
+          "translit": "egeírō",
+          "english": "raised"
+        },
+        {
+          "strongs": "G3936",
+          "hebrew": "παρίστημι",
+          "translit": "parístēmi",
+          "english": "present"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For all things are for your sakes, that the grace, being multiplied through the many, may cause the thanksgiving to abound to the glory of God.",
+      "understanding": "The pastor’s arithmetic, and it explains everything above. “All things are for your sakes” — the beatings, the pressure, the hunted years. Grace multiplied (pleonazō) through more and more people produces thanksgiving overflowing (perisseuō), and the whole flood terminates in one place: “the glory of God.” Paul is not enduring in order to survive. He is enduring in order to increase the number of voices saying thank You.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G4121",
+          "hebrew": "πλεονάζω",
+          "translit": "pleonázō",
+          "english": "being multiplied"
+        },
+        {
+          "strongs": "G2169",
+          "hebrew": "εὐχαριστία",
+          "translit": "eucharistía",
+          "english": "thanksgiving"
+        },
+        {
+          "strongs": "G4052",
+          "hebrew": "περισσεύω",
+          "translit": "perisseúō",
+          "english": "abound"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Therefore we don’t faint, but though our outward man is decaying, yet our inward man is renewed day by day.",
+      "understanding": "“Therefore we don’t faint” — the identical verb as verse 1, closing the bracket around the whole argument. And then the most honest sentence a tired believer will read this year: the outward man IS decaying. Diaphtheiretai is present tense and it means rotting through. Paul does not deny ageing, exhaustion, or the failing body. He says there are two men in one skin travelling in opposite directions, and the inner one is being renewed — anakainoutai, passive, done to you, not achieved by you — “day by day,” hēmera kai hēmera, literally day and day. Renewal is not an event you wait for. It is a daily issue.",
+      "words": [
+        {
+          "strongs": "G1573",
+          "hebrew": "ἐκκακέω",
+          "translit": "ekkakéō",
+          "english": "faint"
+        },
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outward"
+        },
+        {
+          "strongs": "G1311",
+          "hebrew": "διαφθείρω",
+          "translit": "diaphtheírō",
+          "english": "decaying"
+        },
+        {
+          "strongs": "G2080",
+          "hebrew": "ἔσω",
+          "translit": "ésō",
+          "english": "inward"
+        },
+        {
+          "strongs": "G341",
+          "hebrew": "ἀνακαινόω",
+          "translit": "anakainóō",
+          "english": "renewed"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "For our light affliction, which is for the moment, works for us more and more exceedingly an eternal weight of glory;",
+      "understanding": "Now the scales. On one side: elaphron, light, and parautika, at-the-instant, momentary. On the other: baros, weight, and aiōnion, eternal — and it is worth knowing that the Hebrew word for glory, kabod, literally means heaviness. But read the verb, because it is the whole point: katergazetai, is producing, manufacturing, working out. The affliction is not merely followed by the glory; under God’s hand it is making it. And the measure defeats language — kath’ hyperbolēn eis hyperbolēn, beyond-measure to beyond-measure. Remember who is writing. The catalogue of scars he reads out in chapter 11 is longer than anything in your file — and he is still the one calling it light.",
+      "words": [
+        {
+          "strongs": "G3910",
+          "hebrew": "παραυτίκα",
+          "translit": "parautíka",
+          "english": "for the moment"
+        },
+        {
+          "strongs": "G1645",
+          "hebrew": "ἐλαφρός",
+          "translit": "elaphrós",
+          "english": "light"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "affliction"
+        },
+        {
+          "strongs": "G5236",
+          "hebrew": "ὑπερβολή",
+          "translit": "hyperbolḗ",
+          "english": "more and more exceedingly"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiṓnios",
+          "english": "eternal"
+        },
+        {
+          "strongs": "G922",
+          "hebrew": "βάρος",
+          "translit": "báros",
+          "english": "weight"
+        },
+        {
+          "strongs": "G2716",
+          "hebrew": "κατεργάζομαι",
+          "translit": "katergázomai",
+          "english": "works for us"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "while we don’t look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal.",
+      "understanding": "The condition attached to the whole promise, and it is a discipline, not a mood. Skopountōn is not glancing — it is taking aim, sighting down a scope, fixing attention on a target. Paul does not say the seen things are unreal; he says they are proskairos, for the occasion only. Everything you can currently see carries an expiry date. Everything that lasts forever is at this moment invisible. Which means the most realistic man in the room is the one looking at what is not there yet.",
+      "words": [
+        {
+          "strongs": "G4648",
+          "hebrew": "σκοπέω",
+          "translit": "skopéō",
+          "english": "look at"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "are seen"
+        },
+        {
+          "strongs": "G4340",
+          "hebrew": "πρόσκαιρος",
+          "translit": "próskairos",
+          "english": "temporal"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiṓnios",
+          "english": "eternal"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Face in the Dark",
+      "verseRef": "v. 6",
+      "image": "Go back before there was anything to look at. No sun, no stars, no horizon — dark on the face of the deep, and nobody to be afraid of it. Then a voice. Not a struggle, not a spark struck from flint, not a slow dawn: a sentence. “Let there be light,” and there was light, and the universe had a first morning. Now come forward several thousand years to a room you can remember. You were not searching well. You were not persuaded by an argument. Something opened, and where there had been religious dark there was suddenly a face — not a doctrine, not a set of principles, a face — and it was the face of Jesus Christ, and you knew you were looking at the glory of God.",
+      "meaning": "Paul is telling you what happened to you, and he is telling you why you cannot manufacture it in anyone else. Conversion in this chapter is not persuasion; it is creation. The same God who said light out of darkness “has shone in our hearts,” and the verb is aorist — a definite event, a day. That is why verse 4 is not a reason to despair over your unbelieving friend: the enemy blinds minds, but blindness has never been an obstacle to the God who speaks light out of nothing. It also settles the question of what you are actually pointing people at. Not your church, not your testimony, not your argument. A face."
+    },
+    {
+      "title": "The Cheapest Container in the House",
+      "verseRef": "v. 7",
+      "image": "Picture a Corinthian kitchen. On the shelf there are vessels of bronze and silver, polished, inherited, brought out when guests come. And on the floor by the door there is a fired clay pot — grey, unglazed, made in an afternoon, worth almost nothing. It gets used for water and lamp oil and scraps, and when it chips it is thrown into the yard, where the broken pieces become the scrap paper of the ancient world: shopping lists, receipts, tax notes scratched onto potsherds. Now watch a man come in from the road, carrying a fortune in gold. He looks along the shelf at the silver, at the bronze — and he pours the gold into the clay pot by the door.",
+      "meaning": "This is the sentence Paul’s critics could not answer. They said his bodily presence was weak and his speech despised (10:10), and Paul does not deny one word of it. He says: correct, and that is the design. Ostrakinos means made of baked clay — cheap, breakable, disposable. Read the purpose clause slowly: the treasure was put there SO THAT the hyperbolē, the excess of the power, would obviously belong to God “and not from ourselves.” If God had used impressive containers, the glory would be permanently ambiguous — people would never be sure whether they were watching God or watching talent. Your unimpressiveness is not a delay in your usefulness. It is the condition of it."
+    },
+    {
+      "title": "A Comma Wide Enough to Live In",
+      "verseRef": "v. 8-9",
+      "image": "Four times Paul takes you to the edge of the cliff and four times he stops you with a comma. Pressed on every side — you can feel the walls narrowing, the space for manoeuvre closing — comma — yet not crushed. Perplexed, no way out, nothing making sense — comma — yet not to despair. Hunted, footsteps behind you, the whole apparatus of a city set against you — comma — yet not forsaken. And then the last one, where he is not standing at all: struck down, face in the dirt, the fight apparently over — comma — yet not destroyed. Four times the sentence goes right to the drop, and four times a single mark of punctuation holds a man’s whole life.",
+      "meaning": "Notice what Paul does not claim. He does not say he was never pressed, never bewildered, never hunted, never floored. Every first half of every pair is admitted without embarrassment — and the man writing had told them three chapters earlier that in Asia he “despaired even of life” (1:8), using the very word he denies here. So this is not denial and it is not positive thinking. It is the reporting of a limit that is set and kept by Someone else. The pressure is real and it is bounded. Christian survival is rarely the absence of the crushing weight; it is the discovery that the weight has a boundary you did not install."
+    },
+    {
+      "title": "Two Men in One Skin",
+      "verseRef": "v. 16",
+      "image": "Stand a man in front of a mirror at forty-five, at sixty, at eighty. The mirror is not lying. The hairline, the joints that complain on the stairs, the eyes that need more light than they used to, the scars from things that did not go the way he prayed. Paul’s word is diaphtheiretai — rotting through, present tense, happening while you read this. And in the same skin, invisible in that mirror, another man is going the other way — being renewed, quietly, without ceremony, day and day, so gradually that on most mornings you would swear nothing was happening at all.",
+      "meaning": "This is the most honest verse in the chapter and the reason it can be trusted. Paul does not offer a healing formula for ageing or pretend that faith freezes the body. He grants the decay in full and then insists it is only half the report. And the renewal is passive — anakainoutai, you are being renewed; it is done to you, not squeezed out of you. Which means the man who feels he has nothing left to give today is not disqualified from being renewed today. The mirror gives you an accurate reading of the container. It gives you no information at all about the treasure."
+    },
+    {
+      "title": "The Scales in the Marketplace",
+      "verseRef": "v. 17-18",
+      "image": "A merchant’s balance in a Corinthian market, two brass pans hanging from a beam. Onto the left pan Paul loads his life: five floggings of thirty-nine lashes, three beatings with rods, a stoning that left him for dead, three shipwrecks, a night and a day in open sea, hunger, cold, betrayal, and a church he loved calling him unimpressive. The pan drops. Then he puts one thing on the right — the glory that is coming — and the left pan flies up so fast it rattles. He looks at the beam, and calls the enormous pile on the left “light,” and “for the moment.”",
+      "meaning": "Watch what Paul does not do: he never empties the left pan to win the argument. Every item on it happened to him, and he counts all of it. What tips the beam is not that his suffering turned out to be small — it is that the other pan holds something with a density nothing in this world can match. And the traffic runs one way across that beam: he does not say the affliction is followed by glory, he says it is producing it, katergazetai, the way a workshop turns raw material into finished weight. So this is not denial, and it is not a brave face. It is measurement. Verse 18 then names the one condition attached to the sum — it only works while your eyes are aimed at what you cannot see. And notice who is holding the scales: a man whose back carries the marks. He is not asking you to call your pain light. He is showing you what he weighed his against."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Why We Do Not Quit (v. 1-2)",
+        "body": "A ministry received by mercy, and a refusal of the two shortcuts available to every preacher — manipulation and dilution."
+      },
+      {
+        "label": "The Veil Is Not on the Message (v. 3-4)",
+        "body": "If the Good News is hidden it is hidden in the perishing, whose minds the god of this age has blinded so that the light never dawns."
+      },
+      {
+        "label": "Not Ourselves, But Christ as Lord (v. 5-6)",
+        "body": "The herald has no message of his own; and the God of Genesis 1 speaks light into human hearts, where it lands on a face."
+      },
+      {
+        "label": "The Treasure and the Pot (v. 7)",
+        "body": "The centre of the letter: the fortune is in disposable clay so that the excess of the power is unmistakably God’s and not ours."
+      },
+      {
+        "label": "Four Antitheses and the Dying We Carry (v. 8-12)",
+        "body": "Pressed, perplexed, pursued, struck down — and never past the comma; the death at work in the apostle is life at work in the church."
+      },
+      {
+        "label": "The Same Spirit of Faith (v. 13-15)",
+        "body": "Belief makes an afflicted man speak; resurrection guarantees the presentation; and the whole cost is aimed at multiplied thanksgiving to the glory of God."
+      },
+      {
+        "label": "Two Men and Two Scales (v. 16-18)",
+        "body": "The outer man decays while the inner man is renewed daily, and a momentary light affliction manufactures an eternal weight of glory for eyes trained on the unseen."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Cracks Are the Credential",
+        "paragraphs": [
+          "You have to hear the accusation to feel the answer. Teachers had arrived in Corinth carrying letters of recommendation and a manner to match, and the verdict circulating about Paul was blunt: “his letters are weighty and strong, but his bodily presence is weak, and his speech is despised” (10:10). He was not impressive in a room. He refused payment, which in a city that measured a teacher by his fee looked like an admission that he was not worth one. He kept changing travel plans. He kept getting beaten. Every visible metric said: not a first-rank man.",
+          "Paul’s reply is the strangest defence in the New Testament, because he never once argues that the assessment is wrong. He argues that it is the point. Ostrakinos is not a modest word for “ordinary”; it is the word for baked clay, the material of cheap lamps, cooking pots and storage jars — vessels made in an afternoon, thrown out when chipped, their broken shards used as the scrap paper of the ancient world. That is what God chose as the container for the knowledge of His own glory. And Paul supplies the reason in a purpose clause, not an apology: hina — in order that — the hyperbolē of the power might be seen to be “of God, and not from ourselves.” Put treasure in gold and nobody can tell where the shine stops and the container starts. Put it in clay, and the first time light comes out of the cracks, every witness knows exactly what they are looking at.",
+          "Say the hard half of this plainly, because the chapter does. Verse 7 is not a promise that God will protect the jar. Verses 8 to 12 say the opposite: the pressing is real, the bewilderment is real, the being knocked to the ground is real, and death is genuinely “at work in us.” This is preservation, not exemption. What God guarantees is not that you will be spared the pressure but that the pressure will not have the last word, and that what leaks out of you under it will be recognisably Jesus and not you. Which means the honest question for a tired believer is not “why am I so easily broken?” but “what has been coming out of me lately when I get squeezed?” The jar was never the point. The jar was the packaging."
+        ]
+      },
+      {
+        "heading": "Who Blinded Them? — Reading “the God of This World” Honestly",
+        "paragraphs": [
+          "The phrase is startling enough that a handful of early writers, uneasy about anything that sounded like two gods, read verse 4 as “God has blinded the minds of the unbelieving of this world” — making the blinding a judicial act of the Lord Himself. Give the strongest reading: the Greek word order and Paul’s ordinary usage point to Satan. He is “the god of this age” in the sense that fallen humanity actually obeys him, and the New Testament says it repeatedly. Jesus names him three times in the last week of His life: “now the prince of this world will be cast out” (John 12:31), “the prince of the world comes, and he has nothing in me” (14:30), “the prince of this world has been judged” (16:11). Paul calls him “the prince of the power of the air” in Ephesians 2:2. He is a usurper on borrowed ground, and his tenure has an expiry date stamped on it in verse 18.",
+          "But read his method, because it is not what most believers imagine. He is not pictured here debating anybody. He blinds noēmata — the thought-faculty, the perceiving apparatus, the same word Paul used in 2:11 for his schemes and in 3:14 for hardened minds. He works by preventing dawn. The light of the Good News does not get argued down; it simply never comes up over the horizon of a man’s inner life, and the man himself experiences this as boredom, or as reasonableness, or as having heard all that before. Which explains the specific frustration you have felt: you have watched someone you love hear the clearest presentation of Christ imaginable and register absolutely nothing, and you concluded you must have said it badly.",
+          "Now put verse 4 and verse 6 side by side, because Paul set them there deliberately, and the word “light” in both verses is the same rare noun, phōtismos — a word that appears nowhere else in the New Testament. Verse 4: the enemy stops the light dawning. Verse 6: God says light out of darkness and it shines in human hearts. So the answer to a blinded mind is not a better technique, a cleverer apologetic, or a more attractive personality — those are the very things Paul renounced in verse 2. The answer is the Creator opening His mouth again. That is why Paul can keep preaching to hostile cities without either despairing or manipulating: the outcome was never in his hands, and neither was the light."
+        ]
+      },
+      {
+        "heading": "“Light Affliction” — and the Only Man Who May Say It",
+        "paragraphs": [
+          "Verse 17 is offensive in the wrong mouth. Say “your light affliction” to a grieving woman and you have committed pastoral assault. So notice who is saying it and what he has already survived: five times thirty-nine lashes, three beatings with rods, a stoning, three shipwrecks, a night and a day adrift, and — by his own telling in this same letter — a crushing in Asia so total that he “despaired even of life” (1:8) and carried “the sentence of death” inside himself (1:9). Paul is not minimising anybody’s pain; he is placing his own on a scale, and the scale is what makes the verdict credible. Elaphron means light in weight; parautika means at-the-instant, momentary. Against baros, weight — and behind the Greek stands the Hebrew kabod, glory, a word that literally means heaviness. Lightness weighed against heaviness. Momentary weighed against eternal.",
+          "But the verb is where the theology lives. Katergazetai means to work fully, to accomplish, to manufacture. Paul does not say the affliction is followed by glory as a reward for good behaviour; he says it is producing it. That is a harder and better claim. It means the pressure you are currently under is not an interruption of God’s work in you — it is a factory floor. And the output is measured in a phrase that breaks the language: kath’ hyperbolēn eis hyperbolēn, excess piled on excess, beyond-measure unto beyond-measure. The same word Paul used in verse 7 for the power in the pot. The excess that makes the jar irrelevant is the same excess that makes the affliction light.",
+          "Then verse 18 attaches the condition, and it is not a feeling — it is a practice. Skopeō is where we get “scope”: to take aim, to fix your sight on a target and hold it there. Paul is not asking you to pretend the visible things are not real; he is telling you their category. Proskairos, says Strong’s, means “for the occasion only” — temporary. The diagnosis, the debt, the humiliating conversation, the decaying body of verse 16: all real, all dated. The unseen things carry no expiry at all. And this is precisely the discipline he will state in one line a few sentences later: “we walk by faith, not by sight” (5:7). Everything in this chapter finally rests on where a man aims his eyes when he is under load."
+        ]
+      },
+      {
+        "heading": "One More Honest Note About This Letter",
+        "paragraphs": [
+          "Chapter 4 belongs to the warmest movement of 2 Corinthians — chapters 1 to 7, the ministry of the new covenant — and readers are sometimes startled when the tone turns sharp and sarcastic in chapters 10 to 13. Some scholars therefore argue that those final chapters were originally a separate letter later joined to this one. There is no manuscript evidence that 2 Corinthians ever circulated in pieces, and a man defending both his tears and his authority to the same congregation may well sound like two men. Note it honestly and read the book as it stands."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Verses 4 to 6 are not theory for Paul; they are autobiography, and Luke recorded the moment. In Acts 26, standing before Agrippa, Paul tells it: “at noon, O king, I saw on the way a light from the sky, brighter than the sun, shining around me and those who traveled with me.” The persecutor is knocked to the ground by light — the man who will later write that God “has shone in our hearts” had it happen to him on a road at midday, and it left him physically blind for three days so that he could learn what he had been all along. Then listen to the commission Jesus gives him in that same speech, because it is 2 Corinthians 4 in a single sentence: “to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive remission of sins and an inheritance among those who are sanctified by faith in me” (Acts 26:18). Blinded eyes. Darkness to light. The power of Satan. That is verse 4 and verse 6 in substance, spoken to Paul by the risen Christ more than twenty years before he wrote them to Corinth.",
+        "Trace the chapter backwards as well. “Light will shine out of darkness” sends you to the first page of the Bible — “God said, ‘Let there be light,’ and there was light” — and Paul’s point is the mechanism, not the wording. He does not quote the Greek Old Testament exactly here; he compresses Genesis 1:3, and the echo of Isaiah 9:2, into the claim that the conversion of a human being is an act of creation and not of persuasion. And where does the light land? “In the face of Jesus Christ.” Chapter 3 had Moses’ face fading behind a veil; chapter 4 has a face that does not fade at all, and John says the same thing from the other side: “We saw his glory, such glory as of the one and only Son of the Father, full of grace and truth” (John 1:14).",
+        "Finally, follow the chapter forward into the rest of Paul’s writing and you will find him saying it again in his calmest book and his most wounded one. Romans 8:18: “the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us” — the same scales, the same verdict, this time with the accountant’s verb, “I consider.” And eight chapters later, at the end of a story about a thorn he begged three times to have removed, he records the sentence the whole letter has been walking toward: “My grace is sufficient for you, for my power is made perfect in weakness” (12:9). That is verse 7 stated as a promise instead of a picture. The clay is not an embarrassment God is tolerating. The clay is where the power is perfected."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "To faint / lose heart / go bad from the inside",
+      "hebrew": "ἐκκακέω",
+      "translit": "ekkakéō",
+      "strongs": "G1573",
+      "verses": "v. 1, 16",
+      "insight": "Strong’s defines it with beautiful bluntness: “to be (bad or) weak, i.e. (by implication) to fail (in heart),” built from ek (out of) and kakos (bad). It is not tiredness. It is the moment weariness curdles into surrender — the inner giving-way that comes before a man formally quits. (A note for accuracy: this is the form Strong’s lists; most critical Greek texts read the closely related ἐγκακέω, enkakeō, at both verses, with no difference in sense.) Paul uses it twice on purpose, and the two uses are brackets around the whole chapter: verse 1 “we don’t faint,” verse 16 “therefore we don’t faint.” Everything in between is the reason. And measure the claim against the man: this is the same apostle who two pages earlier admitted he despaired even of life. Not fainting does not mean not exhausted. It means not quitting."
+    },
+    {
+      "english": "Earthen / made of baked clay",
+      "hebrew": "ὀστράκινος",
+      "translit": "ostrákinos",
+      "strongs": "G3749",
+      "verses": "v. 7",
+      "insight": "Strong’s: “earthen-ware, i.e. clayey; by implication, frail.” The root is ostrakon, a potsherd — and that single word carries the whole argument. Fired clay was the disposable packaging of the ancient world: lamps, cooking pots, storage jars, cheap enough to be replaced without a thought and thrown out the moment they chipped. The broken pieces were so worthless they became the scrap paper of the Mediterranean, scratched with receipts and shopping lists; at Athens, votes to banish a man were cast on them, which is why we still say ostracise. Now hold that against thēsauros, treasure. God did not put the knowledge of His glory into silver or bronze. He put it in the pot by the door. And Paul says the choice was deliberate, so that when the power shows, no one on earth will credit the container."
+    },
+    {
+      "english": "Exceeding greatness / a throwing beyond",
+      "hebrew": "ὑπερβολή",
+      "translit": "hyperbolḗ",
+      "strongs": "G5236",
+      "verses": "v. 7, 17 (twice)",
+      "insight": "Literally a throwing-beyond — hyper (over) plus ballō (to throw) — the word we get “hyperbole” from; Strong’s renders it “supereminence… pre-eminently.” It is the word for something that overshoots the container it came in. Watch Paul use it at both ends of the chapter and the architecture appears. In verse 7 it is the excess of the POWER, which is why the pot cannot take the credit. In verse 17 it is doubled into a phrase that breaks Greek as badly as it breaks English — kath’ hyperbolēn eis hyperbolēn, beyond-measure unto beyond-measure — describing the GLORY your affliction is manufacturing. Same word, both times. The overflow that makes your weakness irrelevant is the same overflow that makes your suffering light."
+    },
+    {
+      "english": "Weight (set against elaphrós, light)",
+      "hebrew": "βάρος",
+      "translit": "báros",
+      "strongs": "G922 (set against ἐλαφρός, elaphrós, G1645)",
+      "verses": "v. 17",
+      "insight": "Paul builds verse 17 as a pair of scales and puts one word in each pan. Elaphros (G1645) is Strong’s “light, i.e. easy” — the same word Jesus uses of His burden in Matthew 11:30. Baros is weight, a load, and the New Testament uses it figuratively of burden and of authority. The choice is not decorative: the Hebrew word behind “glory,” kabod, literally means heaviness, so Paul is weighing lightness against heaviness with full knowledge of what he is doing. But the sentence does not merely compare the two pans; the verb katergazetai (G2716, “to work fully, i.e. accomplish”) says the light pan is manufacturing the heavy one. Your affliction is not being tolerated until glory arrives. It is being converted."
+    },
+    {
+      "english": "Temporary — for the occasion only (set against Eternal)",
+      "hebrew": "πρόσκαιρος",
+      "translit": "próskairos",
+      "strongs": "G4340 (set against αἰώνιος, aiṓnios, G166)",
+      "verses": "v. 18 (aiōnios also in v. 17)",
+      "insight": "Strong’s could not be more useful here: proskairos means “for the occasion only, i.e. temporary” — pros (for) plus kairos (a season). Not fake. Not unimportant. Dated. Everything you can currently see — the bank balance, the scan result, the person who humiliated you, the decaying body of verse 16 — is genuinely real and comes with an expiry stamped on it. Against that Paul sets aiōnios (G166), “perpetual,” the adjective he has just attached to the weight of glory in verse 17. So the chapter ends by reversing every instinct you have: the things that feel most solid are the ones with a season attached, and the things that feel least substantial are the only ones that will still be standing. That is why verse 18 makes looking a discipline — skopeō, to take aim — and not a mood."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with four things in this chapter: the comparison you keep making between yourself and more impressive people, the exact place where you stop reading the sentence about your own life, the mirror that tells you the truth and not the whole truth, and the person you have prayed for who still cannot see.",
+    "items": [
+      {
+        "title": "You Were Never the Treasure",
+        "body": "There is a name in your head — someone more articulate, more gifted, more visibly anointed, better at this than you — and the comparison has been quietly convincing you that God will use them and manage with you. Now read verse 7 as if you had never heard it preached: God chose the cheap pot ON PURPOSE, hina, in order that no witness could ever mistake whose power was on show — “of God, and not from ourselves.” If He had chosen impressive people, His glory would be permanently confused with their talent. So God is not waiting for you to become worth using. He already picked the cheap pot, and the cheapness is doing work. So answer honestly: when you refuse to open your mouth, or step back from the thing God nudged you toward, is that humility — or is it embarrassment that the packaging is not silver? And who told you the container was supposed to be the attraction?"
+      },
+      {
+        "title": "Learn to Live in the Comma",
+        "body": "Read verses 8 and 9 slowly and notice where you personally stop. Most people who are hurting read “pressed on every side” and stop, read “perplexed” and stop, read “struck down” and stop — and then live the rest of the week in the first half of a sentence God never ended there. Paul admits every single one of those words about himself. He is not telling you that you will not be squeezed, bewildered, hunted or floored. He is telling you where the boundary sits, and the boundary is not your strength. So ask it plainly: which half of the sentence have you been living in? Say the whole thing out loud about your actual situation — name the pressure, then say the comma, then say the “yet not.” And if you cannot yet say the second half with conviction, say it anyway; Paul says faith is exactly what makes an afflicted man speak (v. 13)."
+      },
+      {
+        "title": "The Mirror Gives You Half the Report",
+        "body": "Verse 16 will not let you lie in either direction. It does not say the outward man is fine; it says he is decaying — present tense, rotting through, right now. The energy that was there at twenty is not there. The failures have left marks. Some doors have closed and will not reopen. Paul grants all of it and then says it is half the data, because in the same skin another man is being renewed day and day — and the verb is passive, done to you, on the days you contribute nothing at all. So here is the challenge: what have you concluded about your usefulness to God based entirely on evidence from the mirror? Where have you accepted a verdict about your future from a source that can only see the container? And what would change this week if you started reading your fatigue as clay behaving like clay, rather than as God withdrawing?"
+      },
+      {
+        "title": "You Cannot Argue a Blind Man Into Seeing",
+        "body": "There is someone you have explained the gospel to a dozen times, and they hear it the way a man hears traffic. You have blamed yourself for saying it badly, or blamed them for hardness, and both conclusions have made you tired. Verse 4 tells you what is actually happening: the god of this age blinds minds so that the light does not dawn. And verse 6 tells you the only remedy — the God of Genesis 1 opening His mouth over a human heart. That should do two things in you at once. It should end the manipulation for good; verse 2 has already renounced craftiness and doctoring the message to get a result. And it should end the despair, because blindness has never been a problem for the God who spoke light out of nothing. So how much of your witnessing lately has been technique, and how much has been asking the Creator to say “let there be light” over one specific name?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Comparison Audit",
+        "body": "Write down the actual name of the person you keep measuring yourself against — the more gifted, more confident, more visibly successful believer whose existence makes yours feel redundant. Now write beside it, in your own handwriting, the purpose clause of verse 7: “that the exceeding greatness of the power may be of God, and not from ourselves.” Then answer in writing: if God only ever used impressive people, whose glory would the world actually be looking at? And what exactly have you been refusing to do while you waited to become a better container?"
+      },
+      {
+        "title": "The Comma Check",
+        "body": "Take the hardest thing in your life right now and write it as one of Paul’s four pairs — “pressed on every side, yet not crushed.” Then be brutally honest about where you have been living: in the first half or in the second? If you cannot honestly say the second half yet, do not fake it — instead identify what you are believing about God that makes the second half sound untrue. That belief, not the circumstance, is the thing the Spirit is after this week."
+      },
+      {
+        "title": "The Scale Test",
+        "body": "Verse 18 says the discipline is where you aim your eyes. So track it: over the last seven days, what has actually held your attention longest — the seen things (the balance, the message you keep re-reading, the health report, the person who dismissed you) or the unseen? Do not answer with what you believe. Answer with your screen time, your conversations, and what you think about at 2 a.m. Everything on the seen list is proskairos, dated. Which of those dated things has been running your inner life as though it were eternal?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "The Clay Jar Confession",
+        "body": "Today, out loud and alone, do this in three moves. First, name the weakness you are most ashamed of — the thing you assume disqualifies you: the failure, the temperament, the lack of education, the body that will not cooperate, the scar people can see. Say it plainly with no religious softening. Second, say the whole of verse 7 over it: “But we have this treasure in clay vessels, that the exceeding greatness of the power may be of God, and not from ourselves.” Third — and this is the part that changes you — thank God for the specific weakness you just named, out loud, on the ground that it makes the source of the power unmistakable. Do this every morning for one week. You are not pretending the crack is not there. You are agreeing with God about what the crack is for."
+      },
+      {
+        "title": "Ten Minutes on the Unseen",
+        "body": "Set aside ten minutes tonight with paper and no phone. Draw two columns: SEEN and UNSEEN. In the left column write every pressing thing you can currently see — the amounts, the names, the diagnosis, the deadline. In the right column write what Scripture says is true and invisible right now: you are being renewed day by day (v. 16); an eternal weight of glory is being manufactured (v. 17); the God who said light out of darkness has shone in your heart (v. 6); the life of Jesus is being made visible in your mortal flesh (v. 11). Now read the left column aloud and after each item say, “for the occasion only.” Then read the right column aloud and after each item say, “eternal.” Keep the paper. On the day the left column screams loudest, read the right column first."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I come to You as a clay jar, and I am going to stop apologising for it. You know exactly what I am made of — I am cheap pottery, easily chipped, unimpressive on the shelf, and I have spent too long comparing myself to vessels that look like silver. But You said You put the treasure in clay ON PURPOSE, that the exceeding greatness of the power may be of God, and not from myself. So today I thank You for the weakness I have been hiding. Let the light come out of the cracks. Lord, I confess where I have been living in the first half of the sentence. I am pressed on every side — but I am not crushed. I am perplexed — but You have not let me be driven to despair. I feel hunted — but I am not forsaken. I have been struck down — but I am not destroyed. Thank You that the boundary is not my strength; the boundary is You. God who said, ‘Light will shine out of darkness,’ shine in my heart again today. Give me the light of the knowledge of Your glory in the face of Jesus Christ, and I ask You now for the ones I love who still cannot see — the god of this age has blinded their minds, but You are the God who speaks light out of nothing. Say it over them. Say it over the names I keep bringing You. And Father, when I look in the mirror and see the outward man decaying, remind me that I am only reading half the report; renew my inward man today, day by day, even on the days I have nothing to bring. Teach me to fix my eyes — not on the things which are seen, because they are for the occasion only, but on the things which are not seen, because they are eternal. Take this affliction, which is light and for the moment, and work it into an eternal weight of glory. I don’t preach myself. I preach Christ Jesus as Lord, and myself as a servant for Jesus’ sake. Therefore I will not faint. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Torches Inside the Clay Pitchers",
+      "ref": "Judges 7:1-22",
+      "relatedVerses": "v. 6-7",
+      "summary": "God kept sending Gideon’s army home — thirty-two thousand down to ten thousand, ten thousand down to three hundred — and told him exactly why: so Israel could never say, “My own hand has saved me.” Then He armed the three hundred with no swords in their hands at all: a trumpet in one hand, and in the other a burning torch hidden inside an empty clay pitcher. At the signal, in the dark on the edge of the Midianite camp, three hundred men smashed the jars, and the light that had been buried inside cheap pottery blazed out all at once while they shouted, “The sword of Yahweh and of Gideon!” The camp panicked and turned on itself. Paul does not cite Gideon, but the picture is identical and the logic is the same one he states in verse 7: the light was real the whole time, the jars were nothing, and the light only got out when the jars were broken."
+    },
+    {
+      "title": "Stoned at Lystra and Back on His Feet",
+      "ref": "Acts 14:8-20; 2 Corinthians 11:25",
+      "relatedVerses": "v. 9-10",
+      "summary": "In Lystra Paul healed a man crippled from birth, and the crowd tried to sacrifice to him as a god. Days later, after hostile voices arrived from Antioch and Iconium, the same crowd stoned him, dragged him outside the city and left him lying there, supposing that he was dead. Then the disciples gathered around him, he got up, walked back into the city that had just tried to kill him, and left for Derbe the next morning. Years later, listing his credentials to Corinth, he gives it four words and moves on: “Once I was stoned” (11:25). When he writes “struck down, yet not destroyed,” he is not composing a slogan — he is describing an afternoon he survived, face down in the dust outside a city gate, carrying in his body the dying of the Lord Jesus so that the life of Jesus could be seen in it."
+    },
+    {
+      "title": "The Light That Was Brighter Than the Sun",
+      "ref": "Acts 9:1-19; Acts 26:12-18",
+      "relatedVerses": "v. 4-6",
+      "summary": "Saul was on the road to Damascus with warrants from the high priest in his bag, certain he was serving God while hunting His people — a mind as blinded as any Paul describes in verse 4. At midday a light out of the sky, “brighter than the sun,” put him on the ground, and a voice asked why he was persecuting a Man he thought was dead. He got up physically blind and was led into the city by the hand, and for three days the great persecutor sat in the dark he had been living in all along. Then the risen Christ sent him out to do to other men exactly what had just been done to him — the commission of Acts 26:18 is about opening eyes and moving people out of the power of Satan into light. Everything Paul writes in verses 4 to 6 he first received as a personal biography — and it is why he never once believed that anyone’s blindness was final."
+    }
+  ]
+}

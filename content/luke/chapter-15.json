@@ -1,0 +1,430 @@
+{
+  "type": "chapterStudy",
+  "book": "Luke",
+  "chapter": 15,
+  "chapterTitle": "The Lost Sheep, the Lost Coin, and the Running Father",
+  "themeTitle": "He Was Lost, and Is Found",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now all the tax collectors and sinners were coming close to him to hear him.",
+      "understanding": "The outsiders — the very people respectable religion had written off — are drawn to Jesus. Notice who is missing and who is drawing near: grace is magnetic to those who know they need it.",
+      "words": [
+        {
+          "strongs": "G268",
+          "hebrew": "ἁμαρτωλός",
+          "translit": "hamartōlós",
+          "english": "sinners"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "The Pharisees and the scribes murmured, saying, “This man welcomes sinners, and eats with them.”",
+      "understanding": "This one murmured sentence is the seed of all three parables. In that culture, to share a table was to share covenant intimacy; that Jesus would eat with the unclean was scandal. The accusation is exactly true — and Jesus will answer it not with a defense but with joy.",
+      "words": [
+        {
+          "strongs": "G4327",
+          "hebrew": "προσδέχομαι",
+          "translit": "prosdéchomai",
+          "english": "welcomes"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "He told them this parable.",
+      "understanding": "One parable — singular — though three stories follow. They are one message told three times, each telling louder and more personal than the last."
+    },
+    {
+      "v": 4,
+      "text": "“Which of you men, if you had one hundred sheep, and lost one of them, wouldn’t leave the ninety-nine in the wilderness, and go after the one that was lost, until he found it?",
+      "understanding": "The shepherd does not wait at the fold for the sheep to find its way back. He leaves the ninety-nine and goes after the one 'until he found it.' This is relentless pursuit, not passive availability.",
+      "words": [
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "lost"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "When he has found it, he carries it on his shoulders, rejoicing.",
+      "understanding": "No scolding, no driving the exhausted animal home with a rod — he hoists the full dead weight of it onto his own shoulders and carries it, 'rejoicing.' Recovery is the shepherd's joy, never his burden."
+    },
+    {
+      "v": 6,
+      "text": "When he comes home, he calls together his friends and his neighbors, saying to them, ‘Rejoice with me, for I have found my sheep which was lost!’",
+      "understanding": "Found joy cannot be kept private. He summons the whole village to celebrate over one recovered sheep — the joy is too big to hold alone.",
+      "words": [
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "I tell you that even so there will be more joy in heaven over one sinner who repents, than over ninety-nine righteous people who need no repentance.",
+      "understanding": "The punchline lands on the murmurers: heaven throws a bigger party over one repentant sinner than over ninety-nine who imagine they need no repentance. The 'righteous' here are the self-satisfied who never came close in the first place.",
+      "words": [
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        },
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoéō",
+          "english": "repents"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Or what woman, if she had ten drachma coins, if she lost one drachma coin, wouldn’t light a lamp, sweep the house, and seek diligently until she found it?",
+      "understanding": "The second parable raises the stakes of value: one coin is a tenth of her savings. She lights a lamp, sweeps, and 'seeks diligently' — because the coin cannot seek itself. She turns the whole house upside down until it is found.",
+      "words": [
+        {
+          "strongs": "G2212",
+          "hebrew": "ζητέω",
+          "translit": "zētéō",
+          "english": "seek"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "When she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the drachma which I had lost.’",
+      "understanding": "Again the found joy overflows into a called-together celebration. The repeated pattern is deliberate: recovery always ends in a party."
+    },
+    {
+      "v": 10,
+      "text": "Even so, I tell you, there is joy in the presence of the angels of God over one sinner repenting.”",
+      "understanding": "The seeking is God's own, and so is the joy — 'in the presence of the angels of God' means God Himself rejoicing, witnessed by all heaven, over one sinner turning back."
+    },
+    {
+      "v": 11,
+      "text": "He said, “A certain man had two sons.",
+      "understanding": "The third and greatest parable opens plainly: a father and two sons. By the end, both sons will prove to be lost — one in a far country, one standing in his own father's field."
+    },
+    {
+      "v": 12,
+      "text": "The younger of them said to his father, ‘Father, give me my share of your property.’ He divided his livelihood between them.",
+      "understanding": "To demand the inheritance while the father still lives is to say, in effect, 'I wish you were dead.' It is a staggering insult — and yet the father grants the freedom. This is love that will not coerce."
+    },
+    {
+      "v": 13,
+      "text": "Not many days after, the younger son gathered all of this together and traveled into a far country. There he wasted his property with riotous living.",
+      "understanding": "He liquidates relationship into cash and burns through it in reckless, wasteful living. 'Far country' is the geography of a heart that only wants distance from the father."
+    },
+    {
+      "v": 14,
+      "text": "When he had spent all of it, there arose a severe famine in that country, and he began to be in need.",
+      "understanding": "The money runs out exactly as the famine hits. The far country cannot sustain him; his inner emptiness is now matched by an emptiness all around him."
+    },
+    {
+      "v": 15,
+      "text": "He went and joined himself to one of the citizens of that country, and he sent him into his fields to feed pigs.",
+      "understanding": "A Jewish son feeding pigs is the lowest degradation imaginable — unclean animals tended by a child of the covenant. Sin always ends in servitude to something filthy."
+    },
+    {
+      "v": 16,
+      "text": "He wanted to fill his belly with the husks that the pigs ate, but no one gave him any.",
+      "understanding": "He now envies the pigs their food, and 'no one gave him any' — the far country's friends evaporated with the money. This is rock bottom, the silence at the end of self-rule."
+    },
+    {
+      "v": 17,
+      "text": "But when he came to himself he said, ‘How many hired servants of my father’s have bread enough to spare, and I’m dying with hunger!",
+      "understanding": "The hinge phrase: 'he came to himself.' Sin is a kind of madness, a not-being-yourself; repentance is the return to sanity. And it begins the moment he remembers his father's house."
+    },
+    {
+      "v": 18,
+      "text": "I will get up and go to my father, and will tell him, “Father, I have sinned against heaven, and in your sight.",
+      "understanding": "Real repentance rehearses honest words. He names it precisely as sin — first against heaven, then against the father. No excuses, no blame."
+    },
+    {
+      "v": 19,
+      "text": "I am no more worthy to be called your son. Make me as one of your hired servants.”’",
+      "understanding": "He renounces any claim on sonship and will settle for a hired man's wages. This is genuine contrition — but it still underestimates the father's heart. He is planning to negotiate a demotion he will never be allowed to finish."
+    },
+    {
+      "v": 20,
+      "text": "“He arose, and came to his father. But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+      "understanding": "This verse is the beating heart of the chapter. 'While he was still far off' — before one word of the rehearsed speech — the father sees, is moved with compassion, and runs. A dignified Eastern patriarch hikes up his robes and sprints to a disgraced son. Grace outruns the confession.",
+      "words": [
+        {
+          "strongs": "G4697",
+          "hebrew": "σπλαγχνίζομαι",
+          "translit": "splanchnízomai",
+          "english": "moved with compassion"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "The son said to him, ‘Father, I have sinned against heaven, and in your sight. I am no longer worthy to be called your son.’",
+      "understanding": "He gets his confession out — but the embrace of verse 20 has already interrupted him. He never reaches 'make me a servant.' The father's love has cut off the demotion before it can be spoken."
+    },
+    {
+      "v": 22,
+      "text": "“But the father said to his servants, ‘Bring out the best robe, and put it on him. Put a ring on his hand, and shoes on his feet.",
+      "understanding": "The father's answer is not probation but full restoration: the best robe (honor), the ring (authority and sonship), shoes (a free man, for slaves went barefoot). Everything the son threw away is given back before he can earn a thing."
+    },
+    {
+      "v": 23,
+      "text": "Bring the fattened calf, kill it, and let us eat, and celebrate;",
+      "understanding": "The fattened calf, reserved for the highest occasions, is killed. This is a feast for the whole household — the returned sinner welcomed straight back to the table, which is exactly the thing the Pharisees despised in verse 2."
+    },
+    {
+      "v": 24,
+      "text": "for this, my son, was dead, and is alive again. He was lost, and is found.’ They began to celebrate.",
+      "understanding": "Here is the theme sentence of the whole chapter, and it is resurrection language: 'was dead, and is alive again. He was lost, and is found.' The celebration begins — and heaven's joy of verses 7 and 10 becomes a house full of music.",
+      "words": [
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "lost"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "“Now his elder son was in the field. As he came near to the house, he heard music and dancing.",
+      "understanding": "Now the second lost son. The elder brother is out in the field being dutiful — but the sound of joy stops him cold at the threshold of his own home."
+    },
+    {
+      "v": 26,
+      "text": "He called one of the servants to him, and asked what was going on.",
+      "understanding": "He has to ask a servant what the music means. Though he never physically left, he is a stranger to his father's joy — outside the celebration in every sense that matters."
+    },
+    {
+      "v": 27,
+      "text": "He said to him, ‘Your brother has come, and your father has killed the fattened calf, because he has received him back safe and healthy.’",
+      "understanding": "The servant's report is pure grace: 'received him back safe and healthy.' There is no accusation in the household's account of it — only relief and welcome."
+    },
+    {
+      "v": 28,
+      "text": "But he was angry, and would not go in. Therefore his father came out, and begged him.",
+      "understanding": "This is the anger of the dutiful. He 'would not go in' — and astonishingly, the father comes out a second time. The same running grace that met the younger son now goes out and begs the elder. God pursues both kinds of lost."
+    },
+    {
+      "v": 29,
+      "text": "But he answered his father, ‘Behold, these many years I have served you, and I never disobeyed a commandment of yours, but you never gave me a goat, that I might celebrate with my friends.",
+      "understanding": "The elder brother's heart is finally exposed. Years of service felt like slavery ('I have served you'), obedience without joy, all bookkept in bitterness. He kept every rule and never once knew his father as a father."
+    },
+    {
+      "v": 30,
+      "text": "But when this your son came, who has devoured your living with prostitutes, you killed the fattened calf for him.’",
+      "understanding": "'This your son' — he refuses to say 'my brother.' He recites the younger's sins with relish, inventing the detail about prostitutes. Self-righteousness always itemizes other people's failures to justify its own coldness."
+    },
+    {
+      "v": 31,
+      "text": "“He said to him, ‘Son, you are always with me, and all that is mine is yours.",
+      "understanding": "The father's tenderness toward the elder is every bit as real as toward the younger: 'you are always with me, and all that is mine is yours.' The elder brother owned the whole estate the entire time and never enjoyed a day of it, because he saw himself as a slave rather than a son."
+    },
+    {
+      "v": 32,
+      "text": "But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.’”",
+      "understanding": "The parable closes on the refrain it must — 'was dead, and is alive again... was lost, and is found' — and the father gently corrects the elder's language: 'this, your brother.' Then Jesus stops. The story is deliberately unfinished, leaving the elder brother (and the murmuring Pharisees) standing outside, invited but not yet in."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Sheep on the Shoulders",
+      "verseRef": "v. 4-5",
+      "image": "Picture the shepherd out in the wilderness at dusk, ninety-nine sheep safe behind him and one still missing. He does not go home. He climbs the ravines and searches the thorn-choked gullies until he hears the weak bleat of the exhausted animal. And when he finds it, he does not scold it or beat it home — he stoops, lifts all its dead weight across his own neck and shoulders, and carries it the whole way back, singing as he walks.",
+      "meaning": "This is how God recovers the wanderer. The sheep contributes nothing to its own rescue but the willingness to be carried. Salvation is not the lost finding their own way home; it is the Shepherd laying the full burden of the search — and the sinner — on His own shoulders, and calling it joy."
+    },
+    {
+      "title": "The Woman Sweeping by Lamplight",
+      "verseRef": "v. 8",
+      "image": "A poor woman's house, one small window, a dirt floor half in shadow. One of her ten silver coins is gone — a full tenth of everything she has. She strikes a lamp, gets down on her knees, and sweeps every corner, listening for the tiny chime of metal on stone, refusing to stop, refusing to sleep, until the lamplight catches a glint in the dust and she snatches it up.",
+      "meaning": "The coin did not wander like the sheep; it was simply lost, silent and helpless, somewhere in the house. Some people are not lost in a far country of rebellion — they are lost in the church house, in the dust of religious routine, unable even to cry out. God still lights the lamp and searches the floor for them, and heaven still throws the party when they are found."
+    },
+    {
+      "title": "The Father Who Ran",
+      "verseRef": "v. 20",
+      "image": "A wealthy old man scans the horizon every day — he has scanned it for months. Then one afternoon a broken silhouette appears far down the road, thin, ragged, walking slow. Before the boy can get close, the father is already moving — a grown patriarch, robes hitched up around his knees, sandals slapping the dust, running down the road in front of the whole village to a son who wished him dead. He reaches him, throws his arms around the filthy neck, and kisses him again and again before the boy can even finish saying he is sorry.",
+      "meaning": "In that world, an elder ran for no one; to run was to lose all dignity. God loses His dignity to reach you. This is the entire gospel compressed into one sprinting figure: the Father does not wait at the door with folded arms for you to grovel your way back — He sees you 'while you are still a long way off,' and He comes running. Compassion, not condemnation, gets to you first."
+    },
+    {
+      "title": "The Music Outside, the Anger Inside",
+      "verseRef": "v. 25-28",
+      "image": "Torchlight and music spill out of the house; inside, dancing and the smell of roasting calf. But at the edge of the light stands the elder son, arms folded, jaw set, refusing to cross his own doorway. And out into the dark comes the father again — the same man who ran down the road — now pleading with the son who never left, standing between him and the party, begging him to come in.",
+      "meaning": "Here is the sin the Pharisees could not see in themselves: a lostness with clean hands. The elder brother is estranged not by his failures but by his record-keeping, so bitter at grace given to the undeserving that he cannot enjoy his own father's house. The parable ends here on purpose — with the door open, the feast ready, and the dutiful man still refusing to go in. Jesus leaves the ending in the murmurers' hands, and in ours."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Setting: Grumbling at the Table (v. 1-2)",
+        "body": "The tax collectors and sinners draw near; the Pharisees murmur that Jesus receives and eats with them. This complaint provokes everything that follows."
+      },
+      {
+        "label": "The Lost Sheep (v. 3-7)",
+        "body": "One in a hundred wanders off; the shepherd leaves the ninety-nine, seeks until he finds, carries it home rejoicing, and calls a celebration — a picture of heaven's joy over one repentant sinner."
+      },
+      {
+        "label": "The Lost Coin (v. 8-10)",
+        "body": "One in ten is lost inside the house; the woman lights a lamp and sweeps diligently until she finds it, then calls the neighbors — joy in the presence of the angels of God over one sinner repenting."
+      },
+      {
+        "label": "The Lost Son: The Far Country (v. 11-19)",
+        "body": "The younger son demands his inheritance, squanders it, hits bottom feeding pigs, 'comes to himself,' and rehearses a repentance that will settle for servanthood."
+      },
+      {
+        "label": "The Running Father (v. 20-24)",
+        "body": "While the son is still far off the father runs, embraces him, and restores him fully — robe, ring, shoes, and the fattened calf — because 'he was dead, and is alive again.'"
+      },
+      {
+        "label": "The Elder Brother Outside (v. 25-32)",
+        "body": "The dutiful older son is furious at the grace shown to his brother and refuses to go in; the father comes out and pleads with him too. The story ends unresolved, aimed straight at the murmurers of verse 2."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Why Three Parables for One Complaint",
+        "paragraphs": [
+          "Jesus answers a single accusation — 'This man receives sinners' — with one parable told in three escalating movements. The escalation is deliberate. First a sheep: one lost out of a hundred, wandered off through its own foolishness, but still an animal with some instinct to follow. Then a coin: one lost out of ten, higher in proportion, and utterly helpless — a coin cannot wander back, cannot even cry out; it is simply lost in the dust of the house. Finally a son: one out of two, the highest stakes of all, and this one is lost not by accident but by willful, insulting rebellion. The value of the lost thing rises, and so does the depth of the lostness — from wandering, to helplessness, to open defiance.",
+          "But watch the turn at the end. The first two parables resolve completely: lost, sought, found, celebrated. The third refuses to resolve. There is a second lost son, and Jesus leaves him standing outside in the dark while the music plays. Why? Because the first two parables are about the tax collectors and sinners of verse 1 — and the unfinished third parable is about the Pharisees and scribes of verse 2. Jesus hands them the pen and asks: will the elder brother go in? The story has no ending because its ending is being written by everyone who hears it."
+        ]
+      },
+      {
+        "heading": "The Scandal the Pharisees Missed",
+        "paragraphs": [
+          "The murmur of verse 2 assumed that holiness means distance — that a righteous man keeps the sinner at arm's length so as not to be defiled. Jesus explodes that assumption by revealing a God who does the opposite of keeping distance: a God who leaves the ninety-nine, sweeps the floor, and runs down the road. The initiative is always His. The sheep does not organize a search party; the coin cannot seek itself; and even the son, whose repentance is real, finds that the father was already running before the confession could be delivered. Grace seeks first. That is the truth the Pharisees could not stomach, because it meant their careful record of never leaving home earned them nothing that the prodigal did not receive for free.",
+          "And here is the sting the elder brother never felt coming: he is just as lost as his brother, only closer to home. His lostness wears the uniform of obedience. He served for years, kept every commandment, and never knew the father — 'these many years I have served you' is the language of a slave, not a son. He stood in the middle of an estate that was entirely his ('all that is mine is yours') and lived like a starving hired hand, too resentful to enjoy it. This is the more dangerous condition, because the younger son at least knew he was lost. The elder brother thinks he is the only one who was ever found. Do not miss it: both sons need the same father to come out and get them, and the whole Gospel of Luke is Jesus going out into the dark for the religious and the ruined alike."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The elder brother did not vanish with the Pharisees of Luke 15 — he shows up again, converted, in the pages of Paul. Saul of Tarsus was the elder brother incarnate: 'concerning the righteousness which is in the law, found blameless' (Philippians 3:6), a Pharisee who kept every commandment and burned with rage at the grace God was pouring out on undeserving 'sinners.' Then the Father came running to him on the Damascus road. And when the man who had been the elder brother wrote it down, this is what he said: 'The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners; of whom I am chief' (1 Timothy 1:15).",
+        "That single verse is Luke 15 answered and fulfilled. The complaint of the Pharisees — 'this man receives sinners' (verse 2) — becomes the boast of the redeemed: Christ came for sinners, of whom I am chief. The elder brother finally went in. And the fattened-calf feast, the celebration over the one who was dead and is alive again, is revealed in the New Testament to be no mere village party but the marriage supper of the Lamb (Revelation 19:9) — the eternal table where every recovered sheep, every found coin, and every returned son sits down with the Father who ran to fetch them home."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Sinners",
+      "hebrew": "ἁμαρτωλός",
+      "translit": "hamartōlós",
+      "strongs": "G268",
+      "verses": "v. 1, 2, 7, 10",
+      "insight": "From hamartanō, 'to miss the mark' — the word for an archer's arrow falling short of the target. It was the Pharisees' contemptuous label for the tax collectors and the immoral. The entire chapter is Jesus' answer to the charge that He 'receives' these mark-missers: heaven's joy is calibrated precisely to their return. The word that was meant as an insult becomes the very reason for the party."
+    },
+    {
+      "english": "Lost",
+      "hebrew": "ἀπόλλυμι",
+      "translit": "apóllymi",
+      "strongs": "G622",
+      "verses": "v. 4, 6, 8, 9, 24, 32",
+      "insight": "This is not a mild word for 'misplaced.' Apollymi means to destroy fully, to perish, to be ruined. The sheep, the coin, and the son are not merely absent — they are perishing. That is why the seeking is so urgent and the finding so joyful. It is the same verb behind the theme verse of the whole Gospel, Luke 19:10: 'The Son of Man came to seek and to save that which was lost.' To be lost is to be on the road to destruction; to be found is to be pulled back from the edge."
+    },
+    {
+      "english": "Found",
+      "hebrew": "εὑρίσκω",
+      "translit": "heurískō",
+      "strongs": "G2147",
+      "verses": "v. 5, 6, 8, 9, 24, 32",
+      "insight": "The triumphant answering word, the drumbeat of the chapter. Every parable climaxes on heuriskō — 'I have found my sheep,' 'I have found the drachma,' 'he was lost, and is found.' It is the sound of the search ending. Notice it is always the seeker who finds; the lost thing never announces itself. Recovery is God's achievement, and the word carries the shout of the one who has been searching in the dark and finally holds the treasure in his hand."
+    },
+    {
+      "english": "Moved with compassion",
+      "hebrew": "σπλαγχνίζομαι",
+      "translit": "splanchnízomai",
+      "strongs": "G4697",
+      "verses": "v. 20",
+      "insight": "This is the strongest word for pity in the Greek language. It comes from splanchna, the inward organs — the guts, the bowels — the place the ancients located the deepest emotions. It does not describe a polite sympathy but a physical, visceral churning of the insides. When the father sees his ruined son, something turns over in his gut, and it launches him down the road at a run. In the Gospels this verb is used almost exclusively of Jesus and, in His parables, of the figure who represents God. The Father's love for you is not a calm decision; it is a gut-level, running compassion."
+    },
+    {
+      "english": "Repentance",
+      "hebrew": "μετάνοια",
+      "translit": "metánoia",
+      "strongs": "G3341",
+      "verses": "v. 7, 10 (verb metanoéō, G3340)",
+      "insight": "From meta ('change') and nous ('mind') — literally a change of mind that reverses the whole direction of a life. This is not merely feeling sorry; it is the prodigal's 'coming to himself' (v. 17), turning on the road, and walking home. Heaven's joy in verses 7 and 10 is joy over metanoia — over one mind changed, one heart turned around. It is the human half of the story: God seeks, and the sinner turns. The two meet on the road, and there is a party in the presence of the angels of God."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with two things at once: the way we run from the Father, and the way we resent the Father's grace to others. This chapter puts every one of us somewhere in the story — and the question is whether we will let ourselves be found.",
+    "items": [
+      {
+        "title": "Which Kind of Lost Are You?",
+        "body": "Jesus gives three portraits of lostness on purpose. The sheep wandered off through simple foolishness — one bad step led to another until it was miles from the fold. The coin was lost in the house, helpless, unable even to know it was lost — some people are lost in the middle of church, buried under religious dust, unable to cry out. And the son ran away with both eyes open, in deliberate rebellion. Do not soften the question: are you the wanderer who drifted a little at a time, the coin lost in plain sight inside the household of faith, or the runner who wanted distance from the Father on purpose? Whichever you are — the Shepherd is climbing the ravine, the woman has lit the lamp, and the Father is watching the road for you tonight."
+      },
+      {
+        "title": "The Father Is Already Running",
+        "body": "Look hard at verse 20. The son had a speech prepared — a good, humble, well-rehearsed speech. He never got to finish it, because the Father was already running before the first word. Here is the revelation the enemy fights to keep from you: you do not have to grovel your way back into God's favor. You do not have to clean yourself up in the far country first. God is not standing at the door with folded arms waiting for you to prove your sincerity. While you are still a long way off — filthy, ashamed, mid-sentence in your apology — He is already moving toward you at a dead run. What is the speech you have been too ashamed to come home and give? Get up. He is already on His way to meet you."
+      },
+      {
+        "title": "The Elder Brother in the Mirror",
+        "body": "This is the hardest movement, and it is aimed at the faithful. The elder brother never left home, never broke a rule, never wasted a cent — and he is furious, cold, and outside the party. If you have served God for years, if you have kept the commandments, if you have been the responsible one, hear this carefully: you can do everything right and still not know the Father. The elder brother's sin is that he cannot rejoice when grace lands on someone he thinks does not deserve it. Do the celebrations of heaven over 'those people' make you glad, or do they make you bitter? When God blesses the latecomer, the ex-addict, the returned prodigal, is there a party in your heart — or are you standing in the dark, keeping score, refusing to go in?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Murmur Check",
+        "body": "Whose salvation would secretly annoy you? Is there a person, or a kind of person, whose sudden repentance and welcome into God's family would make you murmur like the Pharisees — 'after everything they did?' That murmur is the exact sound of the elder brother, and it reveals a heart that has not yet grasped its own grace."
+      },
+      {
+        "title": "The 'Far Country' Audit",
+        "body": "Is there an area of your life right now that has quietly traveled into a far country — a place where you wanted distance from the Father? What have you been spending there that was meant to be kept in His house: your time, your purity, your money, your affection? And have you 'come to yourself' yet, or are you still telling yourself the husks are enough?"
+      },
+      {
+        "title": "The Slave-or-Son Test",
+        "body": "When you obey God, does it feel like a son delighting in a father, or like a slave grinding out a duty and quietly keeping a ledger of what you are owed? The elder brother owned the whole estate and lived like a starving hired hand. Are you living out of the abundance of 'all that is mine is yours,' or out of resentment that God has not paid you what you think your obedience has earned?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Come Home Out Loud",
+        "body": "Take the one area of your life that has drifted into the far country, and tonight do what the prodigal did — get up and speak it to the Father directly. Out loud, say: 'Father, I have sinned against heaven and in Your sight.' Name the specific thing. Then stop and let verse 20 answer you: before you finish, He is already running. Do not stay in the pigpen rehearsing your unworthiness. Repentance in this chapter always ends at a feast, never in the field."
+      },
+      {
+        "title": "Throw a Party in Your Heart",
+        "body": "This week, deliberately celebrate a grace that is not yours. Think of someone God has recently rescued — a returned prodigal in your own family, church, or circle — and instead of scanning them for whether they really deserve it, rejoice out loud. Send the message. Say the encouraging word. Attend the celebration you were tempted to skip. Practice the joy of heaven over one sinner who repents, and let it burn the elder brother out of your chest."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, before I say anything else — thank You for running. I have been the wanderer, drifting one careless step at a time until I looked up and the fold was miles away. I have been the coin, lost in the dust of my own religion, too numb even to cry out. And I have been the son who wanted distance from You on purpose, who took Your good gifts into a far country and wasted them. But today I come to myself. I get up. I turn toward home. I confess: I have sinned against heaven and in Your sight, and I am not worthy — yet You do not wait for me to finish. While I am still a long way off You see me, and something turns over in Your heart, and You come running. You throw the robe over my rags, the ring on my hand, the shoes on my feet. You kill the fattened calf and You call it joy. Lord, forgive me too for the elder brother in me — for the years I have served You while quietly keeping score, for the coldness that resents Your grace to people I thought did not deserve it. Bring me in from the dark and seat me at the table. Teach me to rejoice the way heaven rejoices over one sinner who repents. For I was dead, and I am alive again; I was lost, and I am found. In the mighty name of Jesus, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Zacchaeus: The Parable Made Flesh",
+      "ref": "Luke 19:1-10",
+      "relatedVerses": "v. 1-2",
+      "summary": "Just a few chapters later, Luke shows the parables of chapter 15 acted out in real life. Zacchaeus is a chief tax collector — the exact kind of 'sinner' the Pharisees murmured about — and Jesus deliberately invites Himself to eat at his house. The crowd murmurs the very complaint of Luke 15:2: 'He has gone in to lodge with a man who is a sinner.' But Zacchaeus repents, restores fourfold, and Jesus declares the theme of the whole Gospel over him: 'the Son of Man came to seek and to save that which was lost.' The lost sheep has a name, and it is Zacchaeus."
+    },
+    {
+      "title": "Jonah Outside the City",
+      "ref": "Jonah 4:1-11",
+      "relatedVerses": "v. 25-32",
+      "summary": "The elder brother has a prophet-shaped ancestor. When God shows mercy to the repentant sinners of Nineveh, Jonah is furious — 'it displeased Jonah exceedingly, and he was angry' — and he stalks off to sit outside the city, sulking, hoping to watch it burn. Like the elder brother who 'would not go in,' Jonah cannot bear that grace is being spent on people he despises. And the book of Jonah, like Luke 15, ends unresolved, on God's pleading question — leaving the angry, self-righteous servant standing outside the mercy, invited to come in and rejoice."
+    },
+    {
+      "title": "Esau Runs to Embrace Jacob",
+      "ref": "Genesis 33:1-4",
+      "relatedVerses": "v. 20",
+      "summary": "Years earlier, Jacob had cheated his brother Esau and fled for his life, certain Esau meant to kill him. When at last they meet again, Jacob bows to the ground in terror — but the Scripture says 'Esau ran to meet him, embraced him, fell on his neck, kissed him, and they wept.' The very same words describe the prodigal's father: he 'ran, and fell on his neck, and kissed him.' The wronged one runs to the offender. It is a foreshadowing, buried deep in Genesis, of the God who does not wait to be groveled to, but sprints down the road and falls on the neck of the child who wronged Him."
+    }
+  ]
+}

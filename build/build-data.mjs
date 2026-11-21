@@ -83,6 +83,8 @@ function validateChapter(d, file, bookId) {
     const gotVerses = new Map((d.scripture ?? []).map(v => [v.v, norm(v.text)]));
     for (const [vn, txt] of srcVerses) {
       if (!gotVerses.has(vn)) errors.push(`${file}: verse ${vn} missing from scripture array`);
+      // A verse the WEB omits (empty in the source) may carry an editorial note instead.
+      else if (txt === '') warnings.push(`${file}: verse ${vn} omitted by WEB — editorial note shown`);
       else if (gotVerses.get(vn) !== txt) errors.push(`${file}: verse ${vn} text differs from WEB source`);
     }
     for (const vn of gotVerses.keys()) {
@@ -129,7 +131,11 @@ for (const bookId of bookDirs) {
   for (let n = 1; existsSync(join(dir, `chapter-${n}.json`)); n++) chapters.push(read(`chapter-${n}.json`));
 
   if (!intro || !review || chapters.length === 0 || chapters.some(c => !c)) {
-    warnings.push(`${bookId}: incomplete (intro:${!!intro} chapters:${chapters.length} review:${!!review}) — skipped`);
+    // Still validate whatever has been written, so a book can be checked chapter by chapter.
+    if (intro) validateIntro(intro, `${bookId}/master-introduction.json`);
+    chapters.forEach((c, i) => c && validateChapter(c, `${bookId}/chapter-${i + 1}.json`, bookId));
+    if (review) validateReview(review, `${bookId}/final-review.json`);
+    warnings.push(`${bookId}: in progress (intro:${!!intro} chapters:${chapters.length} review:${!!review}) — validated, not compiled`);
     continue;
   }
 

@@ -1,0 +1,804 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "chapterTitle": "Stewards, Spectacles and a Father's Rod — The Apostles at the Back of the Parade",
+  "themeTitle": "“What Do You Have That You Didn’t Receive?”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "So let a man think of us as Christ’s servants, and stewards of God’s mysteries.",
+      "understanding": "Two words for what a minister actually is. Ὑπηρέτης — an assistant, an attendant; Strong's traces it to an “under-oarsman,” and whether or not the old etymology was in anyone's mind, the meaning is plain: a subordinate who does what he is told. And οἰκονόμος — a household manager, usually a trusted slave put in charge of his master's goods. The steward owned nothing. He distributed what belonged to someone else. Paul says that is how to think of preachers: they are servants handing out the “mysteries of God,” not celebrities to be ranked.",
+      "words": [
+        {
+          "strongs": "G5257",
+          "hebrew": "ὑπηρέτης",
+          "translit": "hypērétēs",
+          "english": "servants"
+        },
+        {
+          "strongs": "G3623",
+          "hebrew": "οἰκονόμος",
+          "translit": "oikonómos",
+          "english": "stewards"
+        },
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mysteries"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Here, moreover, it is required of stewards, that they be found faithful.",
+      "understanding": "The only qualification required of a steward is that he be found πιστός — faithful, trustworthy. Not brilliant, not eloquent, not successful, not popular. Faithful. The verb is εὑρίσκω, “found”: it is discovered by inspection. Someone will audit the household, and the only question will be whether the steward did with the master's goods what the master wanted.",
+      "words": [
+        {
+          "strongs": "G3623",
+          "hebrew": "οἰκονόμος",
+          "translit": "oikonómos",
+          "english": "stewards"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "But with me it is a very small thing that I should be judged by you, or by man’s judgment. Yes, I don’t judge my own self.",
+      "understanding": "Ἐλάχιστος — the smallest thing, a superlative of littleness. Paul tells the Corinthians that their verdict on him barely registers. Then he says something even more striking: “I don’t judge my own self.” The verb ἀνακρίνω is a courtroom word for a preliminary hearing, the examination of a case. And the phrase translated “man’s judgment” is literally “a human day” — set against “the Day” of the Lord in 3:13. Human courts sit on human days. Paul is waiting for the real one.",
+      "words": [
+        {
+          "strongs": "G1646",
+          "hebrew": "ἐλάχιστος",
+          "translit": "eláchistos",
+          "english": "very small thing"
+        },
+        {
+          "strongs": "G350",
+          "hebrew": "ἀνακρίνω",
+          "translit": "anakrínō",
+          "english": "judged"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "judgment (day)"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For I know nothing against myself. Yet I am not justified by this, but he who judges me is the Lord.",
+      "understanding": "Paul's conscience is clear — “I know nothing against myself” — but he refuses to treat a clear conscience as a verdict of innocence. Δικαιόω, justified, declared righteous: not by this. A clean conscience can be a poorly informed conscience. Only one Judge has the full facts: “he who judges me is the Lord.” This is the healthiest possible relationship to self-examination: honest, but not final.",
+      "words": [
+        {
+          "strongs": "G4894",
+          "hebrew": "συνείδω",
+          "translit": "syneídō",
+          "english": "know against"
+        },
+        {
+          "strongs": "G1344",
+          "hebrew": "δικαιόω",
+          "translit": "dikaióō",
+          "english": "justified"
+        },
+        {
+          "strongs": "G350",
+          "hebrew": "ἀνακρίνω",
+          "translit": "anakrínō",
+          "english": "judges"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness, and reveal the counsels of the hearts. Then each man will get his praise from God.",
+      "understanding": "“Judge nothing before the καιρός” — before the appointed time. The Lord will φωτίζω, shine a light on, the κρυπτά of σκότος — the hidden things of darkness — and reveal the βουλαί, the intentions, the plans of the heart. Then — and this is the beautiful ending — “each man will get his praise from God.” Not exposure, but ἔπαινος, commendation. The Lord's examination is not a hunt for faults. It ends in praise for those who were faithful in hidden places.",
+      "words": [
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        },
+        {
+          "strongs": "G5461",
+          "hebrew": "φωτίζω",
+          "translit": "phōtízō",
+          "english": "bring to light"
+        },
+        {
+          "strongs": "G2927",
+          "hebrew": "κρυπτός",
+          "translit": "kryptós",
+          "english": "hidden"
+        },
+        {
+          "strongs": "G4655",
+          "hebrew": "σκότος",
+          "translit": "skótos",
+          "english": "darkness"
+        },
+        {
+          "strongs": "G1012",
+          "hebrew": "βουλή",
+          "translit": "boulḗ",
+          "english": "counsels"
+        },
+        {
+          "strongs": "G1868",
+          "hebrew": "ἔπαινος",
+          "translit": "épainos",
+          "english": "praise"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Now these things, brothers, I have in a figure transferred to myself and Apollos for your sakes, that in us you might learn not to think beyond the things which are written, that none of you be puffed up against one another.",
+      "understanding": "Μετασχηματίζω — to change the form of something, to apply a figure. Paul has used himself and Apollos as the example so that nobody would be offended by naming the actual Corinthian party leaders. Then a famously obscure phrase: “not to think beyond the things which are written.” It most likely means: do not go beyond Scripture — the Old Testament texts he has just quoted about God humbling the wise. The purpose is clear even if the phrase is compressed: so that no one is φυσιόω, puffed up, inflated like a bellows, for one teacher against another.",
+      "words": [
+        {
+          "strongs": "G3345",
+          "hebrew": "μετασχηματίζω",
+          "translit": "metaschēmatízō",
+          "english": "transferred in a figure"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "written"
+        },
+        {
+          "strongs": "G5448",
+          "hebrew": "φυσιόω",
+          "translit": "physióō",
+          "english": "puffed up"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For who makes you different? And what do you have that you didn’t receive? But if you did receive it, why do you boast as if you had not received it?",
+      "understanding": "Three questions that demolish pride in one verse. Διακρίνω — who makes you different, who sets you apart from anyone else? Answer: nobody but God. What do you have that you did not receive? Answer: nothing. And if you received it, why do you boast as if you produced it? Every gift, every talent, every opportunity, every spiritual experience, every insight was given. Boasting is the sin of a man who has forgotten where his things came from.",
+      "words": [
+        {
+          "strongs": "G1252",
+          "hebrew": "διακρίνω",
+          "translit": "diakrínō",
+          "english": "makes different"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "receive"
+        },
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boast"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "You are already filled. You have already become rich. You have come to reign without us. Yes, and I wish that you did reign, that we also might reign with you.",
+      "understanding": "Biting irony, three times over. “You are already filled” — κορέννυμι, stuffed, gorged like a man who has eaten too much. “You have already become rich.” “You have come to reign without us.” The Corinthians behaved as if the kingdom had fully arrived and they were already enthroned — no more suffering, no more waiting, only glory. Paul's reply carries an ache: “I wish that you did reign, that we also might reign with you.” If the kingdom had fully come, he would not be bleeding.",
+      "words": [
+        {
+          "strongs": "G2880",
+          "hebrew": "κορέννυμι",
+          "translit": "korénnymi",
+          "english": "filled"
+        },
+        {
+          "strongs": "G4147",
+          "hebrew": "πλουτέω",
+          "translit": "ploutéō",
+          "english": "become rich"
+        },
+        {
+          "strongs": "G936",
+          "hebrew": "βασιλεύω",
+          "translit": "basileúō",
+          "english": "reign"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "For, I think that God has displayed us, the apostles, last of all, like men sentenced to death. For we are made a spectacle to the world, both to angels and men.",
+      "understanding": "The image is drawn from a Roman triumph. A victorious general paraded through the city with his army and his captured treasure, and at the very end of the procession came the prisoners condemned to die in the arena. God, Paul says, has ἀποδείκνυμι — exhibited, put on display — the apostles “last of all,” ἐπιθανάτιοι, men sentenced to death. We have become a θέατρον — a theatre, a spectacle — to the world, to angels and to men. The whole universe is watching the apostles walk to their deaths.",
+      "words": [
+        {
+          "strongs": "G584",
+          "hebrew": "ἀποδείκνυμι",
+          "translit": "apodeíknymi",
+          "english": "displayed"
+        },
+        {
+          "strongs": "G2078",
+          "hebrew": "ἔσχατος",
+          "translit": "éschatos",
+          "english": "last"
+        },
+        {
+          "strongs": "G1935",
+          "hebrew": "ἐπιθανάτιος",
+          "translit": "epithanátios",
+          "english": "sentenced to death"
+        },
+        {
+          "strongs": "G2302",
+          "hebrew": "θέατρον",
+          "translit": "théatron",
+          "english": "spectacle"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "We are fools for Christ’s sake, but you are wise in Christ. We are weak, but you are strong. You have honor, but we have dishonor.",
+      "understanding": "Three contrasts, dripping with sarcasm and grief. We are μωροί, fools, for Christ's sake; you are φρόνιμοι, sensible, wise, in Christ. We are weak; you are strong. You are ἔνδοξοι, glorious, held in honour; we are ἄτιμοι, without honour. The Corinthians had taken the gospel of the cross and turned it into a ladder of status. Paul shows them the men who brought it to them, standing at the bottom.",
+      "words": [
+        {
+          "strongs": "G3474",
+          "hebrew": "μωρός",
+          "translit": "mōrós",
+          "english": "fools"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weak"
+        },
+        {
+          "strongs": "G1741",
+          "hebrew": "ἔνδοξος",
+          "translit": "éndoxos",
+          "english": "honor"
+        },
+        {
+          "strongs": "G820",
+          "hebrew": "ἄτιμος",
+          "translit": "átimos",
+          "english": "dishonor"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Even to this present hour we hunger, thirst, are naked, are beaten, and have no certain dwelling place.",
+      "understanding": "“Even to this present hour.” Not a story from the past — this is Paul's life while he writes. Πεινάω, hungry. Διψάω, thirsty. Γυμνητεύω, poorly clothed, in rags. Κολαφίζω, struck with fists — the same verb used of the soldiers beating Jesus (Matthew 26:67). Ἀστατέω, homeless, without a settled place. The apostle to the nations lives like a vagrant.",
+      "words": [
+        {
+          "strongs": "G3983",
+          "hebrew": "πεινάω",
+          "translit": "peináō",
+          "english": "hunger"
+        },
+        {
+          "strongs": "G1372",
+          "hebrew": "διψάω",
+          "translit": "dipsáō",
+          "english": "thirst"
+        },
+        {
+          "strongs": "G1130",
+          "hebrew": "γυμνητεύω",
+          "translit": "gymnēteúō",
+          "english": "are naked"
+        },
+        {
+          "strongs": "G2852",
+          "hebrew": "κολαφίζω",
+          "translit": "kolaphízō",
+          "english": "beaten"
+        },
+        {
+          "strongs": "G790",
+          "hebrew": "ἀστατέω",
+          "translit": "astatéō",
+          "english": "have no certain dwelling place"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "We toil, working with our own hands. When people curse us, we bless. Being persecuted, we endure.",
+      "understanding": "Κοπιάω — to work to exhaustion — “with our own hands.” Greek culture regarded manual labour as beneath a philosopher or teacher; a real teacher was supported by patrons and fees. Paul made tents. Then three responses that are pure Sermon on the Mount: reviled, we bless; persecuted, we endure; slandered (next verse), we appeal kindly. He is not reporting a technique. He is describing the cross reproduced in a man.",
+      "words": [
+        {
+          "strongs": "G2872",
+          "hebrew": "κοπιάω",
+          "translit": "kopiáō",
+          "english": "toil"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "working"
+        },
+        {
+          "strongs": "G3058",
+          "hebrew": "λοιδορέω",
+          "translit": "loidoréō",
+          "english": "curse"
+        },
+        {
+          "strongs": "G2127",
+          "hebrew": "εὐλογέω",
+          "translit": "eulogéō",
+          "english": "bless"
+        },
+        {
+          "strongs": "G1377",
+          "hebrew": "διώκω",
+          "translit": "diṓkō",
+          "english": "persecuted"
+        },
+        {
+          "strongs": "G430",
+          "hebrew": "ἀνέχομαι",
+          "translit": "anéchomai",
+          "english": "endure"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Being defamed, we entreat. We are made as the filth of the world, the dirt wiped off by all, even until now.",
+      "understanding": "Two of the most shocking words Paul ever applied to himself. Περικάθαρμα — what is cleaned off all around, the filth swept out of a house. Περίψημα — what is scraped off, the grime wiped from a dish. In some Greek cities the related word was also used of human scapegoats, outcasts expelled or sacrificed to carry away a city's pollution. Whether or not Paul intends that echo, the plain sense is enough: we are the scum of the world, the dirt everyone wipes off. “Even until now.”",
+      "words": [
+        {
+          "strongs": "G987",
+          "hebrew": "βλασφημέω",
+          "translit": "blasphēméō",
+          "english": "defamed"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "entreat"
+        },
+        {
+          "strongs": "G4027",
+          "hebrew": "περικάθαρμα",
+          "translit": "perikátharma",
+          "english": "filth"
+        },
+        {
+          "strongs": "G4067",
+          "hebrew": "περίψωμα",
+          "translit": "perípsōma",
+          "english": "dirt wiped off"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "I don’t write these things to shame you, but to admonish you as my beloved children.",
+      "understanding": "The tone changes in a moment from irony to tenderness. Paul is not writing to ἐντρέπω — to shame them, make them hang their heads. He is writing to νουθετέω — to admonish, warn, literally “put sense into the mind.” And they are his τέκνα ἀγαπητά, beloved children. Sharp words from a father are not the same as contempt. A man who does not care whether you destroy yourself does not bother to warn you.",
+      "words": [
+        {
+          "strongs": "G1788",
+          "hebrew": "ἐντρέπω",
+          "translit": "entrépō",
+          "english": "shame"
+        },
+        {
+          "strongs": "G3560",
+          "hebrew": "νουθετέω",
+          "translit": "nouthetéō",
+          "english": "admonish"
+        },
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For though you have ten thousand tutors in Christ, you don’t have many fathers. For in Christ Jesus, I became your father through the Good News.",
+      "understanding": "A παιδαγωγός was not a teacher but a household slave who took a boy to school, carried his books, kept an eye on his behaviour and sometimes disciplined him. You might have ten thousand of them — the number is deliberately exaggerated, the largest number in Greek. But you have only one father. And Paul says: in Christ Jesus, through the gospel, I ἐγέννησα you — I begot you. He was present at their spiritual birth. That gives him a claim no later guardian could have.",
+      "words": [
+        {
+          "strongs": "G3807",
+          "hebrew": "παιδαγωγός",
+          "translit": "paidagōgós",
+          "english": "tutors"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "fathers"
+        },
+        {
+          "strongs": "G1080",
+          "hebrew": "γεννάω",
+          "translit": "gennáō",
+          "english": "became your father"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "I beg you therefore, be imitators of me.",
+      "understanding": "Μιμέομαι — to imitate, from which comes our word mimic. In the ancient world, a son learned a trade by watching his father and copying him. Paul does not say “do what I say.” He says “be imitators of me” — copy my life. That is a terrifying thing to say, and he says it only because he is copying someone else (11:1, “Be imitators of me, even as I also am of Christ”).",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "beg"
+        },
+        {
+          "strongs": "G3402",
+          "hebrew": "μιμητής",
+          "translit": "mimētḗs",
+          "english": "imitators"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Because of this I have sent Timothy to you, who is my beloved and faithful child in the Lord, who will remind you of my ways which are in Christ, even as I teach everywhere in every assembly.",
+      "understanding": "Timothy is sent as Paul's living reminder. Paul calls him “my beloved and faithful child in the Lord” — the same πιστός of verse 2: Timothy is a steward who has been found faithful. His job is to ἀναμιμνήσκω, remind them, of Paul's “ways” — ὁδοί, roads, a pattern of life — “which are in Christ.” And these ways are not special rules for Corinth; Paul teaches them “everywhere in every assembly.” Christianity is not reinvented by each church.",
+      "words": [
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G363",
+          "hebrew": "ἀναμιμνήσκω",
+          "translit": "anamimnḗskō",
+          "english": "remind"
+        },
+        {
+          "strongs": "G3598",
+          "hebrew": "ὁδός",
+          "translit": "hodós",
+          "english": "ways"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Now some are puffed up, as though I were not coming to you.",
+      "understanding": "Some in Corinth had become puffed up — the same verb as verse 6 — on the assumption that Paul was never coming back. Distance had made them bold. It is easy to be arrogant toward an authority you think you will never have to face.",
+      "words": [
+        {
+          "strongs": "G5448",
+          "hebrew": "φυσιόω",
+          "translit": "physióō",
+          "english": "puffed up"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "But I will come to you shortly, if the Lord is willing. And I will know, not the word of those who are puffed up, but the power.",
+      "understanding": "Paul's reply: I am coming, ταχέως, soon — “if the Lord is willing.” Even his threat is surrendered to God's will. And when he comes he will test not their λόγος, their talk, but their δύναμις, their power. Corinth had plenty of words. Paul wants to know whether anything real is behind them.",
+      "words": [
+        {
+          "strongs": "G5035",
+          "hebrew": "ταχύ",
+          "translit": "tachý",
+          "english": "shortly"
+        },
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "willing"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "For God’s Kingdom is not in word, but in power.",
+      "understanding": "The principle in nine words. The kingdom of God does not consist in λόγος, talk, but in δύναμις, power. A church can have eloquent sermons, sophisticated theology and impressive speech and still have no power — no changed lives, no holiness, no love, no presence of God. The kingdom is known by what it does, not by what it says about itself.",
+      "words": [
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "What do you want? Shall I come to you with a rod, or in love and a spirit of gentleness?",
+      "understanding": "A father's choice, put to the children: “What do you want?” Shall I come with a ῥάβδος — a rod, the stick used by a father or a paidagōgos to discipline a child — or in love and a spirit of πραΰτης, gentleness, meekness? Notice that love is set against the rod only in its form, not its substance. The rod would also be love. But Paul longs to come gently, and the choice of which father arrives is theirs.",
+      "words": [
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "want"
+        },
+        {
+          "strongs": "G4464",
+          "hebrew": "ῥάβδος",
+          "translit": "rhábdos",
+          "english": "rod"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G4240",
+          "hebrew": "πραΰτης",
+          "translit": "praÿtēs",
+          "english": "gentleness"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Steward With the Keys",
+      "verseRef": "v. 1-2",
+      "image": "Picture a great house in Corinth — courtyards, storerooms, slaves, a family that owns ships at Lechaeum. The master travels for months at a time. Before he leaves, he hands a heavy ring of keys to one trusted slave: the οἰκονόμος, the steward. The steward unlocks the grain stores each morning and measures out food for the household. He pays the workers. He keeps the accounts. Everything passes through his hands, and nothing belongs to him. One day the master's ship docks, and the steward hears his footsteps in the courtyard. The master asks for the books.",
+      "meaning": "That is what Paul says every preacher, and indeed every believer, is: a steward of God's mysteries, distributing what belongs to Someone else. And the only qualification for a steward is that he be “found faithful.” Not impressive. Not popular. Not successful by the standards of the household gossip. Faithful. Jesus told the same story: “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times? Blessed is that servant whom his lord will find doing so when he comes” (Luke 12:42–43). The Corinthians were ranking the stewards by style. Paul says: the Master is coming back, and He will only ask one question."
+    },
+    {
+      "title": "The Prisoners at the End of the Triumph",
+      "verseRef": "v. 9-13",
+      "image": "A Roman triumph was the greatest spectacle the ancient world knew. The victorious general rode in a gilded chariot through streets packed with cheering crowds. In front of him marched his legions, then wagons piled with treasure, then captured kings in chains. And at the very end, last of all, came the condemned — the prisoners who would die in the arena when the parade was over. The crowd jeered them, threw things at them, and turned to watch the next spectacle. Paul says: that is where God has put the apostles. Not at the front, beside the chariot. At the back, with the men who are going to die.",
+      "meaning": "The Corinthians had taken the gospel and turned it into a status climb, and Paul holds up the men who brought them that gospel: hungry, thirsty, in rags, punched, homeless, working with their hands, cursed, persecuted, slandered, treated as the scum of the earth. “Even to this present hour.” This is not failure; it is the shape of the cross reproduced in the lives of those who carry it. And the whole universe is watching — “a spectacle to the world, both to angels and men.” When the world sees a believer bless those who curse him, endure persecution without bitterness and answer slander with kindness, it is watching the strangest show on earth. That is the theatre God has called you to."
+    },
+    {
+      "title": "Ten Thousand Babysitters and One Father",
+      "verseRef": "v. 14-17",
+      "image": "Picture a wealthy Corinthian boy walking to school in the morning. Behind him walks the παιδαγωγός — an old slave carrying his writing tablets, making sure he does not wander off, cuffing him if he misbehaves. There might be a different one every few years. They come and go. But at home there is one man whose face the boy resembles, whose voice he hears in his own, whose trade he will one day carry on. Paul says: you have had many guardians since I left — Apollos, Cephas, other teachers. Count them in the thousands if you like. But you were born through me.",
+      "meaning": "This is why Paul's tone shifts so suddenly in verse 14, from searing irony to tenderness: “I don’t write these things to shame you, but to admonish you as my beloved children.” A father's correction comes from a different place than a critic's. And notice what a spiritual father asks for: “be imitators of me.” Not loyalty to a party, not admiration, not obedience to a list of rules, but a life worth copying. That is why he sends Timothy — not with a new set of instructions but to remind them of Paul's “ways which are in Christ.” Christianity spreads like a family trade, from one life to another. Who is copying you? And who are you copying?"
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Servants and Stewards (v. 1-5)",
+        "body": "Ministers are servants of Christ and stewards of God's mysteries, and stewards must be faithful; Paul does not live by human verdicts — not even his own — but waits for the Lord, who will reveal the heart and give each one his praise."
+      },
+      {
+        "label": "What Do You Have That You Didn't Receive? (v. 6-7)",
+        "body": "Paul has used himself and Apollos as an example so that no one will be puffed up for one teacher against another; every distinction and every gift is received, so boasting is absurd."
+      },
+      {
+        "label": "The Corinthian Kings and the Condemned Apostles (v. 8-13)",
+        "body": "With searing irony Paul contrasts the Corinthians' imagined reign with the apostles' reality: displayed last, like men condemned to death — hungry, beaten, homeless, labouring, blessing when cursed, the scum of the world."
+      },
+      {
+        "label": "A Father's Appeal (v. 14-17)",
+        "body": "Not to shame but to warn: Paul is their only father in the gospel; they should imitate him, and he is sending Timothy to remind them of his ways in Christ."
+      },
+      {
+        "label": "A Rod or Gentleness? (v. 18-21)",
+        "body": "Some are arrogant as though Paul will not come; he will come soon, if the Lord wills, and test their power rather than their talk, for the kingdom of God is not in word but in power. The manner of his coming is their choice."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Freed From the Courtroom of Opinion",
+        "paragraphs": [
+          "Verses 3 to 5 contain one of the most liberating statements about human judgment in the Bible. The Corinthians were evaluating their preachers like judges at a competition — comparing styles, ranking eloquence, choosing favourites. And Paul says, almost dismissively, “with me it is a very small thing that I should be judged by you, or by man’s judgment.” The word ἐλάχιστος is a superlative: the very least thing. He is not being arrogant. He is simply refusing to let the court of human opinion sit as the final judge of his life. And the phrase “man’s judgment” is literally “a human day” — a deliberate contrast with “the Day” of 3:13. Human courts hold human days. The verdict that matters will be given on another day.",
+          "Then he goes further, and this is where most of us have never been: “Yes, I don’t judge my own self. For I know nothing against myself. Yet I am not justified by this” (vv. 3–4). Paul refuses to be ruled by his own self-assessment as well. He has examined his conscience and found nothing — and he will not treat that as acquittal. A clear conscience can be an uninformed conscience. People have done terrible things with a clear conscience, Paul himself among them — he persecuted the church in good conscience (Acts 23:1; 26:9). So he hands the final verdict to the only Judge who has all the facts: “he who judges me is the Lord.” This is the healthy middle between two diseases. One is the person crushed by others' opinions. The other is the person who acquits himself because he feels fine. Paul is free from both.",
+          "And notice how verse 5 ends. The Lord will come, bring the hidden things to light and reveal the purposes of the heart — and “then each man will get his praise from God.” Paul does not end with exposure but with ἔπαινος, commendation. For the faithful steward, the Day of the Lord is not a day of dread; it is the day when hidden faithfulness is finally recognised. Every unseen act of obedience, every prayer no one heard, every service no one thanked you for will be brought into the light — and praised. That is why you do not need to win the court of opinion now. You are waiting for a better Judge, who sees what others miss and who intends to commend."
+        ]
+      },
+      {
+        "heading": "Kings Without a Cross: The Danger of Thinking You Have Arrived",
+        "paragraphs": [
+          "Verse 8 is irony as sharp as anything in the New Testament: “You are already filled. You have already become rich. You have come to reign without us.” To understand it you need to see what had gone wrong in Corinth theologically. The Corinthians apparently believed that because they had received the Spirit and His gifts, they had already entered the fullness of the kingdom. They were spiritually rich, already reigning, already above suffering, weakness and the need to wait. Scholars sometimes call this an over-realised eschatology — the belief that the blessings of the age to come have fully arrived now. It explains much of the letter: their arrogance (they had arrived), their contempt for the body (the spiritual had replaced the physical), their confusion about the resurrection (some said it had already happened or was unnecessary, 15:12).",
+          "Paul answers with the reality of the apostles' lives. Verse 9 uses the image of a Roman triumph, where the condemned prisoners came “last of all,” and the word θέατρον — a public spectacle. Then verses 11 to 13 give a list that should be read slowly: hungry, thirsty, poorly clothed, beaten with fists, homeless, labouring with their own hands. In Greek culture, a teacher who worked with his hands was despised; real philosophers were supported by patrons. Paul made tents (Acts 18:3; 20:34). And when reviled, he blessed; when persecuted, he endured; when slandered, he answered kindly. He is describing Jesus' instructions — “bless those who curse you, and pray for those who mistreat you” (Luke 6:28) — reproduced in a human life. Peter describes Jesus the same way: “Who, when he was cursed, didn’t curse back” (1 Peter 2:23).",
+          "And verse 13 contains two words that shock every reader: περικάθαρμα and περίψημα, the filth swept out of a house and the grime scraped off a dish. In some Greek cities, words from this family were used for human scapegoats — outcasts driven out or killed in times of plague to carry away the city's pollution. Whether Paul intends that echo is debated, but the effect is overwhelming either way: the men who carried the gospel to Corinth were treated as human garbage. The lesson for every age is that the kingdom has come, but it has not yet fully come. Believers already have the Spirit, already belong to Christ, already possess all things (3:21) — and they still hunger, suffer, wait and die. Any version of Christianity that promises the crown without the cross is not the gospel Paul preached. It is Corinth's error."
+        ]
+      },
+      {
+        "heading": "Not in Word but in Power: A Father's Warning",
+        "paragraphs": [
+          "From verse 14 the tone shifts, and the shift itself teaches something. Paul has just used the most cutting irony he could find, and now he says, “I don’t write these things to shame you, but to admonish you as my beloved children.” The word νουθετέω means to put sense into someone's mind — to warn, to confront, to correct. It is a family word. And Paul grounds his right to use it in his fatherhood: “though you have ten thousand tutors in Christ, you don’t have many fathers. For in Christ Jesus, I became your father through the Good News” (v. 15). A παιδαγωγός was a guardian, not a parent. He came and went. The father remained. Corinth had had many teachers since Paul left, but only one man had been present at their birth.",
+          "What does a spiritual father ask for? Not admiration, not loyalty to his party, not even primarily obedience to instructions. He asks to be copied: “be imitators of me” (v. 16). That is the ancient pattern of education in a trade — the son watches the father and does what he does. It is also a terrifying thing to say, and Paul only says it because he is himself copying Christ (11:1). He then sends Timothy, “my beloved and faithful child in the Lord,” to remind them of “my ways which are in Christ, even as I teach everywhere in every assembly” (v. 17). Two things are worth noticing. Timothy is called “faithful,” the very quality required of stewards in verse 2; he has been tested and found trustworthy. And the ways Paul teaches are the same everywhere. Corinth was not special. There was no Corinthian version of Christianity.",
+          "Then the warning. Some in Corinth have become arrogant on the assumption that Paul is not coming back (v. 18). He will come soon, “if the Lord is willing,” and he will test not their talk but their power, because “God’s Kingdom is not in word, but in power” (v. 20). This is one of the great diagnostic sentences of the New Testament. A church — or a believer — can be full of words: correct doctrine, eloquent preaching, spiritual vocabulary, confident claims. And it can be empty of power: no transformed lives, no holiness, no love, no real presence of God. Paul's final question gives the Corinthians the choice: “Shall I come to you with a rod, or in love and a spirit of gentleness?” The rod and gentleness are both forms of love; the difference is in what the children do before the father arrives."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Paul's language of stewardship in verses 1 and 2 comes straight from the parables of Jesus. “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times? Blessed is that servant whom his lord will find doing so when he comes” (Luke 12:42–43). The same word, οἰκονόμος. The same quality, faithful. The same moment of inspection, when the master comes. And the same reward: in the parable of the talents, the master says, “Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord” (Matthew 25:21). That is the “praise from God” of verse 5. Peter later applies the steward image to every believer, not only to preachers: “As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms” (1 Peter 4:10). Every gift you have is a key on the steward's ring.",
+        "Verse 5's promise — “then each man will get his praise from God” — becomes, at the end of Paul's life, his own confident hope. Writing his last letter from a Roman prison, he says: “From now on, there is stored up for me the crown of righteousness, which the Lord, the righteous judge, will give to me on that day; and not to me only, but also to all those who have loved his appearing” (2 Timothy 4:8). Notice the phrases — “the righteous judge,” “on that day.” The man who refused to be judged by Corinth or even by himself spent his life waiting for one Judge, and died expecting His praise.",
+        "And the catalogue of suffering in verses 9 to 13 grows into a fuller list in Paul's next letter to this same church, when rivals had arrived claiming to be superior apostles: “in labors more abundantly, in prisons more abundantly, in stripes above measure, in deaths often. Five times from the Jews I received forty stripes minus one. Three times I was beaten with rods. Once I was stoned. Three times I suffered shipwreck. I have been a night and a day in the deep” (2 Corinthians 11:23–25). In both letters, the argument is the same and it is the opposite of the world's. The proof of an apostle is not his status, his eloquence or his comfort. It is his conformity to the crucified Christ. Jesus had said it first: “Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake. Rejoice, and be exceedingly glad, for great is your reward in heaven” (Matthew 5:11–12)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Steward / household manager",
+      "hebrew": "οἰκονόμος",
+      "translit": "oikonómos",
+      "strongs": "G3623",
+      "verses": "v. 1, 2",
+      "insight": "Strong's: “a house-distributor (i.e. manager), or overseer, i.e. an employee in that capacity; by extension, a fiscal agent (treasurer).” The word combines οἶκος, house, and a root meaning to distribute or manage — it is where English gets “economy.” In a Roman household the steward was often a slave, yet he held enormous responsibility: the keys, the accounts, the food supply, the authority over other servants. Erastus in Romans 16:23 is called the οἰκονόμος of the city, its treasurer. The genius of the image is the combination of authority and ownership: the steward has great authority over goods he does not own at all. That is exactly the position of every preacher and every believer before God."
+    },
+    {
+      "english": "Faithful / trustworthy",
+      "hebrew": "πιστός",
+      "translit": "pistós",
+      "strongs": "G4103",
+      "verses": "v. 2, 17",
+      "insight": "Strong's: “objectively, trustworthy; subjectively, trustful.” It is the adjective from the same root as πίστις, faith. A faithful steward is a full-of-faith steward, but in this context the stress is on reliability: someone who can be trusted with what is not his. Note that Paul uses it twice in this chapter: stewards must be found faithful (v. 2), and Timothy is “my beloved and faithful child” (v. 17). The test of verse 2 has a passing example in verse 17. And 1:9 has already told you where faithfulness comes from: “God is faithful.” The faithful steward reflects the faithful Master."
+    },
+    {
+      "english": "Puffed up / inflated",
+      "hebrew": "φυσιόω",
+      "translit": "physióō",
+      "strongs": "G5448",
+      "verses": "v. 6, 18, 19 (and 5:2; 8:1; 13:4)",
+      "insight": "Strong's: “to inflate, i.e. (figuratively) make proud (haughty).” The word is built on φῦσα, a pair of bellows. Picture a blacksmith's bellows filled with air: big, swollen, and empty. Of its seven occurrences in the New Testament, six are in 1 Corinthians (the seventh is Colossians 2:18). That statistic is a diagnosis of the church. They were puffed up over teachers (4:6), puffed up against Paul (4:18), puffed up while tolerating sexual sin (5:2), puffed up with knowledge (8:1). And the cure appears in 13:4: love “is not proud” — the same verb. The opposite of being inflated is not being deflated. It is love."
+    },
+    {
+      "english": "Dirt wiped off / scum",
+      "hebrew": "περίψωμα",
+      "translit": "perípsōma",
+      "strongs": "G4067 (paired with περικάθαρμα, perikátharma, G4027)",
+      "verses": "v. 13",
+      "insight": "Strong's defines περίψημα as “something brushed all around, i.e. off-scrapings (figuratively, scum),” and its partner περικάθαρμα as “something cleaned off all around, i.e. refuse (figuratively).” Both appear only here in the New Testament. Both describe what is thrown away after cleaning. In wider Greek usage, words of this family could also describe human beings used as scapegoats — outcasts expelled from a city in times of disaster to carry away its guilt. Paul may or may not intend that echo. But consider what it would mean: the apostles treated as the world's refuse, driven out to carry its curse, reproduce in their lives the pattern of the One who became a curse for us. The scum of the earth was bringing the earth its salvation."
+    },
+    {
+      "english": "Power",
+      "hebrew": "δύναμις",
+      "translit": "dýnamis",
+      "strongs": "G1411",
+      "verses": "v. 19, 20 (and 1:18, 24; 2:4, 5)",
+      "insight": "Strong's: “force (literally or figuratively); specially, miraculous power (usually by implication, a miracle itself).” Δύναμις is the root of our words dynamite and dynamic. It has been running through the whole letter: the word of the cross is the power of God (1:18); Christ is the power of God (1:24); Paul's preaching was in demonstration of the Spirit and of power (2:4); their faith should rest on the power of God (2:5). Now in 4:20 it becomes a test: the kingdom of God does not consist in talk but in power. Not necessarily spectacular miracles, though it includes them — but the real, transforming action of God that changes people. Words describe the kingdom. Power is the kingdom present."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the opinions you have allowed to sit as your judge, the ingratitude hidden inside your pride, and the gap between your spiritual words and your spiritual power.",
+    "items": [
+      {
+        "title": "Who Is Sitting on Your Judgment Seat?",
+        "body": "Someone's opinion of you has been running your life. A parent, a pastor, a spouse, a critic, a group of peers, the comments section, or the voice in your own head that is either too harsh or too lenient. You have been waiting for their verdict. Paul says: with me it is a very small thing to be judged by you, and I do not even judge myself. The Lord is my Judge. The Spirit wants to set you free from the courtroom of opinion — not by making you careless about what people think, but by moving the real verdict to the Day of the Lord. What would you do differently this week if you genuinely believed that only one Judge's opinion mattered, and that He intends to commend the faithful?"
+      },
+      {
+        "title": "What Do You Have That You Didn’t Receive?",
+        "body": "Your intelligence, your health, your gifts, your opportunities, your upbringing, your spiritual experiences, your salvation itself — the Spirit wants you to see every one of them as received. Pride is not, at root, thinking too highly of yourself. It is forgetting where your things came from. Every time you compare yourself favourably with another believer, you are boasting as if you had not received. Ask yourself today: where have I been quietly proud? The talent I think others lack? The discipline I think others should have? The understanding I think makes me superior? Hand each one back to the Giver, and watch the pride drain out."
+      },
+      {
+        "title": "Words or Power?",
+        "body": "You can talk about God fluently. You know the vocabulary, the songs, the theology, the phrases. But Paul's test is uncomfortable: the kingdom of God is not in word but in power. Where is the power in your life? Is anything happening that cannot be explained by your own effort — a sin that has actually been broken, a relationship that has actually been healed, a person who has actually come to Christ, a love you could not have produced by yourself? The Spirit is not condemning you for the words. He is inviting you past them. Ask Him for the power behind the words, and be ready for Him to start with the area where your words are loudest and your life is weakest."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Steward Check",
+        "body": "List the main things God has entrusted to you right now — money, time, gifts, people, a ministry, a job, a family. Beside each one, write: if the Master returned today and asked for the account, would He find me faithful with this? Do not ask whether you have been successful. Ask whether you have been faithful."
+      },
+      {
+        "title": "The Received Check",
+        "body": "Write down the one thing about yourself you are proudest of. Then write, as specifically as you can, how you received it — who gave it, what opportunities made it possible, what grace was involved. If you cannot trace it back to a gift, look harder. Then ask whether you have been using it to set yourself above others (v. 7)."
+      },
+      {
+        "title": "The Imitation Check",
+        "body": "Paul said, “be imitators of me.” Could you say that to a younger believer, honestly, about your life this week? In which areas would you be glad for them to copy you, and in which would you be ashamed? Write down one area of each."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Moving the Verdict",
+        "body": "Write on a card: “He who judges me is the Lord” (v. 4). Every time this week you notice yourself replaying someone's criticism, rehearsing a defence, or fishing for approval, take out the card, read it aloud, and say: “Lord, You are my Judge. I hand this verdict to You.” At the end of the week, write down what changed in how you felt and acted."
+      },
+      {
+        "title": "Blessing When Cursed",
+        "body": "Verses 12 and 13 describe a response to mistreatment that is impossible without the Spirit: “When people curse us, we bless. Being persecuted, we endure. Being defamed, we entreat.” Think of one person who has spoken against you or treated you unfairly. This week, pray for them by name every day — not that God will correct them, but that He will bless them. Then, if it is wise and possible, do one kind thing for them or speak one gracious word to them. You will be part of the spectacle the angels are watching."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, I am Your servant and a steward of what belongs to You. Nothing I hold is mine. Make me faithful with it — not impressive, not admired, but faithful. Free me from the courtroom of human opinion. I have let other people's verdicts rule my heart, and I have let my own self-assessment rule it too, sometimes condemning myself and sometimes acquitting myself too easily. Today I hand the verdict to You. You are my Judge. Bring to light what is hidden in me, reveal the purposes of my heart, and let me be found faithful on that Day. Father, I confess my pride. I have boasted as if I had not received. Everything I have came from You — my life, my gifts, my salvation. Forgive me for comparing myself with others and setting myself above them. And forgive me for wanting the crown without the cross, for living as if I had already arrived. Thank You for the apostles who walked at the back of the parade, hungry and despised, blessing those who cursed them. Make me willing to be counted with them. When I am reviled, let me bless; when I am persecuted, let me endure; when I am slandered, let me answer kindly. Holy Spirit, I do not want a kingdom of words. I want a kingdom of power. Do in me and through me what I cannot do myself. And thank You that whatever correction You bring, You bring as a Father. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Joseph, the Steward Found Faithful",
+      "ref": "Genesis 39:1-23",
+      "relatedVerses": "v. 1-5",
+      "summary": "Sold into slavery by his brothers, Joseph ends up in the house of Potiphar, an Egyptian officer. The LORD is with him, and Potiphar puts him in charge of everything he owns — the whole household passes through Joseph's hands, and Potiphar does not concern himself with anything except the food he eats. Joseph is the model οἰκονόμος. Then Potiphar's wife tries day after day to seduce him, and Joseph refuses, saying he will not betray his master's trust or sin against God. Falsely accused, he is thrown into prison, and even there he is put in charge. For years no one sees his faithfulness except God. But the hidden things are eventually brought to light, and Joseph is lifted to rule Egypt. Joseph's story is 1 Corinthians 4:2 and 4:5 together: stewards must be found faithful, and the Lord brings the hidden things to light in His own time."
+    },
+    {
+      "title": "David Cuts Saul's Robe and Waits for God",
+      "ref": "1 Samuel 24:1-22",
+      "relatedVerses": "v. 3-5",
+      "summary": "King Saul is hunting David in the wilderness of En Gedi and goes alone into a cave to relieve himself — the very cave where David and his men are hiding. David's men tell him that God has delivered his enemy into his hand. David creeps forward and cuts off a corner of Saul's robe, and then even that troubles his conscience. He refuses to kill the LORD's anointed and lets Saul walk away. Then he calls out after him and says that the LORD will judge between them. David had every human reason to act as judge. He refused, because the judgment belonged to God and its time had not come. That is the spirit of verse 5: “judge nothing before the time, until the Lord comes.” David's restraint did not make him weak. It made him the kind of man God could trust with a throne."
+    },
+    {
+      "title": "My Father, My Father",
+      "ref": "2 Kings 2:1-15",
+      "relatedVerses": "v. 14-17",
+      "summary": "Elijah knows his time is ending, and three times he tells Elisha to stay behind, and three times Elisha refuses to leave him. At the Jordan, Elijah asks what he can do for him, and Elisha asks for a double portion of his spirit — the inheritance of a firstborn son. As the chariot of fire takes Elijah away, Elisha cries out, “My father, my father!” Then he picks up Elijah's fallen cloak, strikes the water, and it parts, and the prophets watching say that the spirit of Elijah rests on Elisha. This is spiritual fatherhood at its best: not a guardian who instructs for a while and then leaves, but a father whose life is copied and whose mantle is carried on. Paul wanted the same for Corinth — not admirers, but sons who would imitate him as he imitated Christ, and carry the same ways into every place."
+    }
+  ]
+}

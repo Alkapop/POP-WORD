@@ -1,0 +1,678 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 13,
+  "chapterTitle": "The Most Excellent Way — Love That Never Fails",
+  "themeTitle": "“Not a Wedding Poem but a Scalpel: Everything Without Love Is Noise”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "If I speak with the languages of men and of angels, but don’t have love, I have become sounding brass, or a clanging cymbal.",
+      "understanding": "This chapter was not written for weddings. It was written as a rebuke to gifted people who were using their gifts to compete, and it sits between two chapters about spiritual gifts like a scalpel in the middle of an operation. “If I speak with the γλῶσσαι — the tongues, the languages — of men and of angels” — the very gift Corinth prized most, perhaps believing it was the speech of heaven — “but don’t have ἀγάπη, I have become” noise. Χαλκὸς ἠχῶν — echoing bronze; Corinthian bronze was famous across the empire. Κύμβαλον ἀλαλάζον — a clanging, shrieking cymbal, the kind used in the frenzied worship of pagan cults. Without love, the most spiritual-sounding speech is just a gong.",
+      "words": [
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "languages"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G5475",
+          "hebrew": "χαλκός",
+          "translit": "chalkós",
+          "english": "brass"
+        },
+        {
+          "strongs": "G2278",
+          "hebrew": "ἠχέω",
+          "translit": "ēchéō",
+          "english": "sounding"
+        },
+        {
+          "strongs": "G2950",
+          "hebrew": "κύμβαλον",
+          "translit": "kýmbalon",
+          "english": "cymbal"
+        },
+        {
+          "strongs": "G214",
+          "hebrew": "ἀλαλάζω",
+          "translit": "alalázō",
+          "english": "clanging"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "If I have the gift of prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but don’t have love, I am nothing.",
+      "understanding": "Now the gifts of revelation and power, stacked to their maximum. All prophecy. All μυστήρια, mysteries. All γνῶσις, knowledge. All πίστις, faith, “so as to remove mountains” — almost certainly an echo of Jesus' own words (Matthew 17:20). Every gift Corinth admired, at its highest possible level. “But don’t have love, I am οὐδέν — nothing.” Not “I have nothing.” I am nothing. A man can be spectacularly gifted and spiritually zero.",
+      "words": [
+        {
+          "strongs": "G4394",
+          "hebrew": "προφητεία",
+          "translit": "prophēteía",
+          "english": "prophecy"
+        },
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mysteries"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G3735",
+          "hebrew": "ὄρος",
+          "translit": "óros",
+          "english": "mountains"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G3762",
+          "hebrew": "οὐδείς",
+          "translit": "oudeís",
+          "english": "nothing"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "If I give away all my goods to feed the poor, and if I give my body to be burned, but don’t have love, it profits me nothing.",
+      "understanding": "Now the gifts of sacrifice, also at their maximum. If I ψωμίζω — dole out, feed out in morsels — all my ὑπάρχοντα, my possessions, to the poor. If I hand over my body to be burned — the earliest manuscripts read “that I may boast,” a single letter's difference in Greek; either way, the ultimate act of self-sacrifice. “But don’t have love, it ὠφελέω — profits — me nothing.” It is possible to give everything away and die a martyr's death for the wrong reason. Generosity and martyrdom without love are just impressive ways of serving yourself.",
+      "words": [
+        {
+          "strongs": "G5595",
+          "hebrew": "ψωμίζω",
+          "translit": "psōmízō",
+          "english": "give away (feed)"
+        },
+        {
+          "strongs": "G5224",
+          "hebrew": "ὑπάρχοντα",
+          "translit": "hypárchonta",
+          "english": "goods"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G2545",
+          "hebrew": "καίω",
+          "translit": "kaíō",
+          "english": "burned"
+        },
+        {
+          "strongs": "G5623",
+          "hebrew": "ὠφελέω",
+          "translit": "ōpheléō",
+          "english": "profits"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Love is patient and is kind; love doesn’t envy. Love doesn’t brag, is not proud,",
+      "understanding": "Now love is described — not by abstract definition but by fifteen verbs. Love is something you do. Μακροθυμεῖ — love is long-tempered, slow to boil; it endures wrong for a long time without retaliating. Χρηστεύεται — love is kind, actively useful, looking for ways to do good. Then the negatives begin, and each one is a portrait of Corinth: love οὐ ζηλοῖ — does not envy, does not burn with jealousy; οὐ περπερεύεται — does not brag, does not show off, does not play the windbag; οὐ φυσιοῦται — is not puffed up, the bellows-word Paul has used five times already against them.",
+      "words": [
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G3114",
+          "hebrew": "μακροθυμέω",
+          "translit": "makrothyméō",
+          "english": "is patient"
+        },
+        {
+          "strongs": "G5541",
+          "hebrew": "χρηστεύομαι",
+          "translit": "chrēsteúomai",
+          "english": "is kind"
+        },
+        {
+          "strongs": "G2206",
+          "hebrew": "ζηλόω",
+          "translit": "zēlóō",
+          "english": "envy"
+        },
+        {
+          "strongs": "G4068",
+          "hebrew": "περπερεύομαι",
+          "translit": "perpereúomai",
+          "english": "brag"
+        },
+        {
+          "strongs": "G5448",
+          "hebrew": "φυσιόω",
+          "translit": "physióō",
+          "english": "proud"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil;",
+      "understanding": "Οὐκ ἀσχημονεῖ — love does not behave disgracefully, rudely, shamefully; the word of 7:36. Οὐ ζητεῖ τὰ ἑαυτῆς — does not seek its own, the principle of 10:24 and 10:33. Οὐ παροξύνεται — is not provoked, not exasperated, not easily irritated; the word gives us paroxysm. Οὐ λογίζεται τὸ κακόν — does not keep a ledger of wrongs. Λογίζομαι is an accounting word, the word Paul uses in Romans 4 for God crediting righteousness. Love does not keep a running account of how it has been wronged.",
+      "words": [
+        {
+          "strongs": "G807",
+          "hebrew": "ἀσχημονέω",
+          "translit": "aschēmonéō",
+          "english": "behave inappropriately"
+        },
+        {
+          "strongs": "G2212",
+          "hebrew": "ζητέω",
+          "translit": "zētéō",
+          "english": "seek"
+        },
+        {
+          "strongs": "G3947",
+          "hebrew": "παροξύνω",
+          "translit": "paroxýnō",
+          "english": "provoked"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logízomai",
+          "english": "takes account"
+        },
+        {
+          "strongs": "G2556",
+          "hebrew": "κακός",
+          "translit": "kakós",
+          "english": "evil"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "doesn’t rejoice in unrighteousness, but rejoices with the truth;",
+      "understanding": "Love does not χαίρω — rejoice — at ἀδικία, wrongdoing, injustice; the Corinthians had been puffed up over a man's sexual sin (5:2). Instead love συγχαίρω — rejoices together with — the truth. Love and truth are partners. Love that celebrates sin or ignores it is not biblical love; it is sentimentality.",
+      "words": [
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoice"
+        },
+        {
+          "strongs": "G93",
+          "hebrew": "ἀδικία",
+          "translit": "adikía",
+          "english": "unrighteousness"
+        },
+        {
+          "strongs": "G4796",
+          "hebrew": "συγχαίρω",
+          "translit": "synchaírō",
+          "english": "rejoices with"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "bears all things, believes all things, hopes all things, endures all things.",
+      "understanding": "Four times πάντα — all things. Love στέγει — covers, roofs over, bears — all things; the word of 9:12, a roof that protects, or a vessel that holds without leaking. Πιστεύει — believes all things: not gullibility, but a refusal to give up faith in what God can do in a person. Ἐλπίζει — hopes all things: refuses to write anyone off. Ὑπομένει — endures all things: stays under the load and does not run. This is not a description of a doormat. It is a description of Jesus.",
+      "words": [
+        {
+          "strongs": "G4722",
+          "hebrew": "στέγω",
+          "translit": "stégō",
+          "english": "bears"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believes"
+        },
+        {
+          "strongs": "G1679",
+          "hebrew": "ἐλπίζω",
+          "translit": "elpízō",
+          "english": "hopes"
+        },
+        {
+          "strongs": "G5278",
+          "hebrew": "ὑπομένω",
+          "translit": "hypoménō",
+          "english": "endures"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with.",
+      "understanding": "Ἡ ἀγάπη οὐδέποτε πίπτει — love never falls, never collapses, never fails. Then the contrast: prophecies will καταργέω — be rendered inoperative, done away with; tongues will παύω — cease, stop; knowledge will be done away with. The gifts Corinth was proud of are temporary tools for this age. Love is the one thing that will survive into eternity unchanged.",
+      "words": [
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fails"
+        },
+        {
+          "strongs": "G4394",
+          "hebrew": "προφητεία",
+          "translit": "prophēteía",
+          "english": "prophecies"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "done away with"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "languages"
+        },
+        {
+          "strongs": "G3973",
+          "hebrew": "παύω",
+          "translit": "paúō",
+          "english": "cease"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "For we know in part, and we prophesy in part;",
+      "understanding": "Ἐκ μέρους — in part. All our knowledge and all our prophesying are partial, fragmentary, incomplete. Even the most gifted Christian sees only a portion of the truth. This should humble every theologian and every prophet.",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G3313",
+          "hebrew": "μέρος",
+          "translit": "méros",
+          "english": "in part"
+        },
+        {
+          "strongs": "G4395",
+          "hebrew": "προφητεύω",
+          "translit": "prophēteúō",
+          "english": "prophesy"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "but when that which is complete has come, then that which is partial will be done away with.",
+      "understanding": "“When τὸ τέλειον — that which is complete, perfect, mature — has come,” the partial will be done away with. What is “the perfect”? Some have argued it is the completed New Testament. But verse 12 defines it: “then face to face… then I will know fully, even as I was also fully known.” That describes the return of Christ and the face-to-face knowledge of God in the age to come, not the closing of the canon. This is the strongest reading of the text.",
+      "words": [
+        {
+          "strongs": "G5046",
+          "hebrew": "τέλειος",
+          "translit": "téleios",
+          "english": "complete"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "come"
+        },
+        {
+          "strongs": "G3313",
+          "hebrew": "μέρος",
+          "translit": "méros",
+          "english": "partial"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "done away with"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a man, I have put away childish things.",
+      "understanding": "An illustration from growing up. When I was a νήπιος — an infant, the word of 3:1 — I spoke, thought and reasoned like an infant. When I became a man, I καταργέω — did away with, put out of operation — the things of childhood. Childish things were right for a child. The point is not that the gifts are childish, but that the present age compared with the coming one is like childhood compared with adulthood. And there may be a sting: Corinth, so proud of its spiritual maturity, was being told it was still in the nursery (3:1).",
+      "words": [
+        {
+          "strongs": "G3516",
+          "hebrew": "νήπιος",
+          "translit": "nḗpios",
+          "english": "child"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoke"
+        },
+        {
+          "strongs": "G5426",
+          "hebrew": "φρονέω",
+          "translit": "phronéō",
+          "english": "felt"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logízomai",
+          "english": "thought"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "put away"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known.",
+      "understanding": "Ἔσοπτρον — a mirror. Ancient mirrors were made of polished bronze, the kind of goods Corinth's famous bronze industry produced, and even the best gave a dim, distorted image. Ἐν αἰνίγματι — in a riddle, an enigma. Numbers 12:8 says God spoke to Moses “mouth to mouth, even plainly, and not in riddles” — Paul may be echoing it. Now we see God as in a dim bronze mirror; then πρόσωπον πρὸς πρόσωπον — face to face. Now I know in part; then I will ἐπιγινώσκω — know fully — even as I have been fully known. God already knows you completely. One day you will know Him without the mirror.",
+      "words": [
+        {
+          "strongs": "G2072",
+          "hebrew": "ἔσοπτρον",
+          "translit": "ésoptron",
+          "english": "mirror"
+        },
+        {
+          "strongs": "G135",
+          "hebrew": "αἴνιγμα",
+          "translit": "aínigma",
+          "english": "dimly (in a riddle)"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face"
+        },
+        {
+          "strongs": "G1921",
+          "hebrew": "ἐπιγινώσκω",
+          "translit": "epiginṓskō",
+          "english": "know fully"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But now faith, hope, and love remain—these three. The greatest of these is love.",
+      "understanding": "Νυνὶ δὲ μένει — but now remains — faith, hope, love, these three. They abide; they are the permanent things beneath the passing gifts. And “the greatest of these is love.” Why greatest? Because faith will become sight, and hope will become possession, but love will simply go on, because God is love (1 John 4:8). In heaven you will no longer need to believe or hope. You will never stop loving.",
+      "words": [
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remain"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G3187",
+          "hebrew": "μείζων",
+          "translit": "meízōn",
+          "english": "greatest"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Bronze Gong in the Temple Courtyard",
+      "verseRef": "v. 1-3",
+      "image": "Walk into the courtyard of a pagan temple in Corinth during a festival. The noise hits you first: clashing cymbals, booming bronze gongs, shrieking pipes and the ecstatic cries of worshippers in a frenzy. In the cults of Dionysus and Cybele, cymbals and drums were used to whip worshippers into a trance. The sound is enormous, impressive, overwhelming — and when the festival is over, it fades into silence and leaves nothing behind. Now walk into a Christian house church on Sunday evening. Someone is speaking in tongues, loudly, eloquently. Someone else is prophesying. Someone is explaining deep mysteries. And in the courtyard, a poor slave who arrived late sits hungry and ignored.",
+      "meaning": "Paul says: if I speak with the tongues of men and angels, but have not love, I am just like that bronze gong in the temple courtyard. The comparison would have been devastating to the Corinthians: their most prized spiritual gift, exercised without love, was no different from the noise of idol worship. Then he raises the stakes. Prophecy, knowledge of all mysteries, mountain-moving faith — without love, I am nothing. Giving away everything, even martyrdom — without love, I gain nothing. The gifts are real. But love is not one gift among many; it is the medium in which every gift must operate. Without it, the most impressive spirituality in the world is just noise."
+    },
+    {
+      "title": "Love With a Face",
+      "verseRef": "v. 4-7",
+      "image": "Read verses 4 to 7 again, but this time replace the word “love” with the name “Jesus.” Jesus is patient and is kind; Jesus doesn't envy. Jesus doesn't brag, is not proud, doesn't behave inappropriately, doesn't seek His own way, is not provoked, takes no account of evil; doesn't rejoice in unrighteousness, but rejoices with the truth; bears all things, believes all things, hopes all things, endures all things. Every line fits perfectly. Now picture Him at the foot-washing in John 13, kneeling with a towel. At the cross, praying for those who drove the nails. On the beach with Peter after the denial, cooking breakfast. Now try reading it with your own name.",
+      "meaning": "Paul does not define love with an abstract statement. He describes it with fifteen verbs — love is something it does. And every one of the negatives is a mirror held up to Corinth: they envied, they bragged, they were puffed up, they behaved disgracefully at the Lord's Supper, they sought their own advantage, they were easily provoked into factions, they kept a ledger of grievances, they rejoiced in sin. The chapter is not sentimental. It is surgical. And it is the portrait of Christ. When you put your own name in place of “love,” you discover how far you have to go — and you also discover exactly what the Spirit is forming in you. This is not a standard you reach by trying harder. It is the fruit of the Spirit (Galatians 5:22)."
+    },
+    {
+      "title": "The Bronze Mirror and the Face",
+      "verseRef": "v. 12",
+      "image": "Picture a Corinthian woman in the morning, holding up a polished bronze mirror — the finest kind available, perhaps from one of the city's bronze workshops. She can see her face, but only dimly: the colours are wrong, the edges blur, and any scratch or tarnish on the metal distorts the image. She knows roughly what she looks like. She does not see herself clearly. Now picture someone she loves, who has been away for years, walking through the door. She drops the mirror. She does not need it anymore. She is looking into a face.",
+      "meaning": "“For now we see in a mirror, dimly, but then face to face.” Everything we know of God in this age — through Scripture, through the Spirit, through prophecy, through knowledge, through experience — is true but partial, like an image in a bronze mirror. Even the greatest prophet and the most learned theologian sees in part. That should make us humble about our knowledge and patient with others whose knowledge is partial too. But it also gives an extraordinary hope: one day the mirror will be dropped. We will see Him face to face. And the most astonishing line comes last: “I will know fully, even as I was also fully known.” God already knows you completely — every thought, every failure — and loves you. One day you will know Him the same way."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Gifts Without Love Are Worthless (v. 1-3)",
+        "body": "Tongues of men and angels, prophecy, all knowledge, mountain-moving faith, total generosity and even martyrdom amount to noise, nothing and no gain if love is absent."
+      },
+      {
+        "label": "What Love Does and Does Not Do (v. 4-7)",
+        "body": "Fifteen verbs describe love: patient and kind; not envious, boastful, proud, rude, self-seeking, easily provoked or resentful; not rejoicing in wrong but in truth; bearing, believing, hoping and enduring all things."
+      },
+      {
+        "label": "Love Never Fails; the Gifts Are Temporary (v. 8-12)",
+        "body": "Prophecy, tongues and knowledge will pass away when the complete comes, because they are partial; now we see dimly as in a mirror, but then face to face and will know fully as we are fully known."
+      },
+      {
+        "label": "The Three That Remain (v. 13)",
+        "body": "Faith, hope and love remain, and the greatest of these is love."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "A Scalpel, Not a Valentine",
+        "paragraphs": [
+          "First Corinthians 13 is probably the most famous chapter Paul ever wrote, and it is read at countless weddings. That is not wrong — it is a description of love that every marriage needs. But it is important to see that Paul did not write it for a wedding. He wrote it in the middle of a sharp correction of a church that was using its spiritual gifts to compete, to show off and to look down on one another. Chapter 12 ended with the call to “earnestly desire the best gifts” and the promise, “I show a most excellent way to you” (12:31). Chapter 14 will return to tongues and prophecy and give practical instructions for worship. Chapter 13 stands between them as the key to both. Love is not a gift alongside the others. It is the way all the gifts must be used.",
+          "The first three verses build a staircase of spiritual achievement — and then knock it down. Tongues of men and angels: the most prized gift in Corinth, which some may have believed was the very language of heaven. Without love, it is “sounding brass, or a clanging cymbal” (v. 1). The image would have been sharp in Corinth: cymbals and bronze instruments were associated with the noisy, ecstatic worship of pagan cults. Prophecy, all mysteries, all knowledge, mountain-moving faith: without love, “I am nothing” (v. 2). Notice — not “I have nothing,” but “I am nothing.” Giving away everything I own, handing over my body to be burned (or, as the earliest manuscripts read, “that I may boast”): without love, “it profits me nothing” (v. 3).",
+          "This is one of the most searching passages in all of Scripture. It means that it is possible to be gifted, knowledgeable, generous, theologically correct and even willing to die for the faith — and still be spiritually empty. Jesus warned of the same thing: “Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’ Then I will tell them, ‘I never knew you’” (Matthew 7:22–23). Gifts are not proof of godliness. The Corinthians had confused spiritual power with spiritual maturity. Paul tells them that the measure of a Christian is not how much power flows through him, but how much love."
+        ]
+      },
+      {
+        "heading": "Fifteen Verbs: The Portrait of Love — and of Corinth",
+        "paragraphs": [
+          "Verses 4 to 7 are written almost entirely with verbs. Paul does not define love; he shows it in action. And each phrase, especially the negatives, is aimed directly at Corinth. Love is patient — μακροθυμεῖ, slow to anger, long-suffering — while the Corinthians were quick to divide and quick to sue. Love is kind — χρηστεύεται, actively good to others — while they left the poor hungry at the Lord's Supper. Love does not envy — but they were full of ζῆλος (3:3). Love does not brag — περπερεύεται, a rare word for being a windbag, showing off — while they paraded their gifts. Love is not puffed up — φυσιοῦται, the bellows word used five times already in the letter (4:6, 18, 19; 5:2; 8:1). Love does not behave inappropriately — while they disgraced the Lord's Table. Love does not seek its own — while they insisted on their rights.",
+          "Love is not provoked — οὐ παροξύνεται, not easily exasperated or irritated — while they were provoked into factions. Love takes no account of evil — οὐ λογίζεται τὸ κακόν — an accounting term: love does not keep a ledger of wrongs to be settled later. That is exactly what you do when you take your brother to court. Love does not rejoice in unrighteousness — while they were proud of tolerating sexual sin (5:2) — but rejoices with the truth. And then four great affirmations: love bears all things — στέγει, covers like a roof, protects, or holds like a watertight vessel; believes all things — refuses to give up on what God can do in a person; hopes all things — refuses to write anyone off; endures all things — stays under the weight and does not run away.",
+          "Two misunderstandings need to be avoided. First, “believes all things” and “bears all things” do not mean naivety or tolerance of abuse. Love “rejoices with the truth” (v. 6); it does not pretend evil is good, and it does not enable harm. The same letter commands the removal of an unrepentant sinner from the church (5:13) — an act of love aimed at his salvation. Biblical love can say no, confront and set boundaries. What it cannot do is stop caring, stop hoping or stop seeking the other person's good. Second, this is not a standard you reach by gritting your teeth. Read the fifteen verbs with “Jesus” in place of “love,” and they fit perfectly. That is because this is the portrait of Christ, and it is formed in believers by His Spirit: “the fruit of the Spirit is love, joy, peace, patience, kindness” (Galatians 5:22). You cannot manufacture it. You can surrender to the One who produces it."
+        ]
+      },
+      {
+        "heading": "When the Mirror Is Dropped: Why Love Outlasts Everything",
+        "paragraphs": [
+          "Verse 8 turns from what love does to how long it lasts. “Love never fails.” The verb πίπτει means to fall, to collapse. Love never falls down. By contrast, the gifts the Corinthians were proud of are temporary. Prophecies will be done away with. Tongues will cease. Knowledge will be done away with. Why? “For we know in part, and we prophesy in part; but when that which is complete has come, then that which is partial will be done away with” (vv. 9–10). The gifts are tools for this age, for a church that sees only partially and needs help to grow. When the complete comes, the tools will be put away, just as a man puts away childish things when he grows up (v. 11).",
+          "What is “that which is complete”? Some interpreters have argued that it refers to the completion of the New Testament canon, and that therefore gifts like prophecy and tongues ceased once Scripture was finished. But the text itself defines “the complete” in verse 12: “For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known.” Face-to-face sight of God and full knowledge equal to God's knowledge of us do not describe the situation of Christians reading a completed Bible; they describe the return of Christ and the age to come. That is the strongest reading of the text. Whatever one concludes from other evidence about the continuation of particular gifts today, this passage places their ending at the coming of the perfect — when Jesus returns.",
+          "And then the mirror. Ancient mirrors were polished metal, usually bronze, and even the best gave a dim, imperfect image. Corinth was famous for its bronze, so the picture would have been vivid. “Now we see in a mirror, dimly” — literally ἐν αἰνίγματι, in a riddle. The phrase may echo Numbers 12:8, where God says He speaks with Moses “mouth to mouth, even plainly, and not in riddles.” In this age even our best knowledge of God is like a reflection in bronze: real, but blurred. But a day is coming when we will see Him face to face, and will know Him as fully as He already knows us. That is why love is the greatest. “But now faith, hope, and love remain — these three. The greatest of these is love” (v. 13). In that day faith will become sight, and hope will become possession. But love will not be replaced by anything. It will simply be perfected. Love is the one thing you do now that you will go on doing forever, because God is love."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The supremacy of love in 1 Corinthians 13 goes back to the teaching of Jesus Himself. Asked which commandment was greatest, Jesus answered: “‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’ This is the first and great commandment. A second likewise is this, ‘You shall love your neighbor as yourself.’ The whole law and the prophets depend on these two commandments” (Matthew 22:37–40). And on the night before He died, He gave His disciples a new commandment: “A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another. By this everyone will know that you are my disciples, if you have love for one another” (John 13:34–35). Notice the test: not gifts, not knowledge, but love. That is exactly Paul's point to Corinth.",
+        "Paul repeats the principle in Romans, written from Corinth: “Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law... Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law” (Romans 13:8, 10). And to the Colossians: “Above all these things, walk in love, which is the bond of perfection” (Colossians 3:14). Peter: “above all things be earnest in your love among yourselves, for love covers a multitude of sins” (1 Peter 4:8) — a close parallel to “bears all things.” And the source of this love is God Himself: “God’s love has been poured out into our hearts through the Holy Spirit who was given to us” (Romans 5:5), and “God commends his own love toward us, in that while we were yet sinners, Christ died for us” (Romans 5:8).",
+        "John gives the deepest foundation of all: “Beloved, let us love one another, for love is of God; and everyone who loves has been born of God, and knows God. He who doesn’t love doesn’t know God, for God is love” (1 John 4:7–8). That is why love is greater than faith and hope: faith and hope are our response to God, but love is God's own nature. And John also completes the hope of verse 12: “Beloved, now we are children of God, and it is not yet revealed what we will be. But we know that, when he is revealed, we will be like him; for we will see him just as he is” (1 John 3:2). Paul's “face to face” and John's “we will see him just as he is” describe the same day. On that day the gifts will fall silent, the mirror will be laid aside, and love — which never fails — will be all in all."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Love",
+      "hebrew": "ἀγάπη",
+      "translit": "agápē",
+      "strongs": "G26",
+      "verses": "v. 1, 2, 3, 4 (×3), 8, 13 (×2)",
+      "insight": "Strong's: “love, i.e. affection or benevolence; specially (plural) a love-feast.” Ἀγάπη was a relatively uncommon word in classical Greek; the New Testament writers took it up and filled it with new meaning. Greek had other words for love: ἔρως for desire, φιλία for friendship, στοργή for family affection. Ἀγάπη became the word for the self-giving love that seeks the good of the other regardless of their worthiness — the love God showed in sending His Son (John 3:16; 1 John 4:10). It is not primarily a feeling but a commitment expressed in action, which is why Paul describes it with verbs. Strong's note that the plural could mean a “love-feast” is telling: the early church's fellowship meal was called the ἀγάπη — exactly the meal Corinth had turned into a display of division (11:20–22)."
+    },
+    {
+      "english": "Is patient / long-suffering",
+      "hebrew": "μακροθυμέω",
+      "translit": "makrothyméō",
+      "strongs": "G3114",
+      "verses": "v. 4",
+      "insight": "Strong's: “to be long-spirited, i.e. (objectively) forbearing or (subjectively) patient.” The word combines μακρός, long, and θυμός, passion or anger: love has a long fuse. It is used of God's patience with sinners (Romans 2:4; 2 Peter 3:9, “The Lord... is patient with us”) and of the farmer waiting for his crop (James 5:7). It is the first quality Paul lists, and it is specifically patience with people, not with circumstances. Love absorbs wrong for a long time without striking back. In a church that rushed to lawsuits and factions, this was the first lesson they needed."
+    },
+    {
+      "english": "Takes account of / reckons",
+      "hebrew": "λογίζομαι",
+      "translit": "logízomai",
+      "strongs": "G3049",
+      "verses": "v. 5 (“takes no account of evil”), 11 (“thought”)",
+      "insight": "Strong's: “to take an inventory, i.e. estimate (literally or figuratively).” It is a bookkeeping word, used for entering items into a ledger. Paul uses it eleven times in Romans 4 for God “crediting” righteousness to Abraham and “not counting” sin against the forgiven: “Blessed is the man whom the Lord will by no means charge with sin” (Romans 4:8). In 2 Corinthians 5:19 God was “not reckoning” the world's trespasses against them. So when Paul says love “takes no account of evil,” he is saying that love does to others what God has done for us in Christ: it refuses to keep a ledger of wrongs to be settled later. Forgiveness is love closing the account book."
+    },
+    {
+      "english": "Bears / covers",
+      "hebrew": "στέγω",
+      "translit": "stégō",
+      "strongs": "G4722",
+      "verses": "v. 7 (and 9:12)",
+      "insight": "Strong's: “to roof over, i.e. (figuratively) to cover with silence (endure patiently).” The noun στέγη means a roof. Love “roofs over” all things — it protects others, covers their weaknesses rather than exposing them, shelters them from the storm. The word was also used of a vessel that holds water without leaking: love contains what is poured into it without spilling it out in gossip or complaint. Paul used the same verb in 9:12: “we bear all things, that we may cause no hindrance to the Good News.” This is not covering up wrongdoing — love “rejoices with the truth” (v. 6) — but refusing to broadcast others' failures and choosing to protect rather than to expose."
+    },
+    {
+      "english": "Mirror",
+      "hebrew": "ἔσοπτρον",
+      "translit": "ésoptron",
+      "strongs": "G2072 (paired with, riddle αἴνιγμα, aínigma, G135)",
+      "verses": "v. 12",
+      "insight": "Strong's defines ἔσοπτρον as “a mirror (for looking into),” and αἴνιγμα as “an obscure saying (‘enigma’), i.e. (abstractly) obscureness.” Ancient mirrors were usually polished bronze, and even a good one gave a dim and slightly distorted image. James uses the same word for a man who looks at his face in a mirror and forgets what he looks like (James 1:23). Paul's point is not that what we see now is false, but that it is indirect and incomplete — like trying to make out a face in tarnished metal, or to understand a riddle. Our knowledge of God in this age is real but partial. One day the mirror will be set aside, and we will see face to face."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the gifts you have been relying on as proof of your spirituality, the specific ways you are failing to love, and the eternal perspective that puts every present thing in its place.",
+    "items": [
+      {
+        "title": "Gifted and Empty?",
+        "body": "You may be gifted. You may know a great deal, serve faithfully, give generously and even suffer for Christ. And the Spirit wants to ask you the question this chapter asks: is it love? Is your knowledge used to build others up or to win? Is your service done for the people or for the applause? Is your giving an act of love or a way of feeling good about yourself? It is possible to do everything right and be nothing. Do not hear this as condemnation. Hear it as an invitation. The Spirit wants to take everything you do and fill it with the one thing that makes it count forever. Ask Him today: “Lord, where am I a clanging cymbal?”"
+      },
+      {
+        "title": "Put Your Name in the Verses",
+        "body": "Read verses 4 to 7 aloud with your own name in place of the word “love.” Slowly. Where do you stumble? Where do you know it is not true? “I am patient.” “I don't envy.” “I don't keep a record of wrongs.” “I bear all things.” The places where your voice catches are the places the Spirit is putting His finger on. Do not be discouraged; this is the portrait of Jesus, and no one reads it about themselves without wincing. But each wince is a door. Ask the Spirit to produce in you the specific fruit you lack. He does not ask you to manufacture love. He asks you to let Him grow it in you."
+      },
+      {
+        "title": "What Will Last?",
+        "body": "Prophecies will be done away with. Tongues will cease. Knowledge will pass away. The things you are most proud of in your spiritual life may be among the things that will one day be put away like childhood toys. But love never fails. The Spirit is inviting you to reorder your priorities by what will last. How much of your energy goes into things that will be done away with — your reputation, your achievements, your knowledge, your platform — and how much into love, the only thing you will take into eternity unchanged? The mirror will be dropped. You will see Him face to face. What will you wish you had spent your life on?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Cymbal Check",
+        "body": "List your spiritual gifts, strengths or areas of service. Beside each one, write honestly: am I doing this in love — for the good of others — or for my own satisfaction, reputation or sense of importance? Circle any that are noise without love."
+      },
+      {
+        "title": "The Fifteen-Verb Check",
+        "body": "Write out the fifteen verbs of verses 4 to 7. Beside each one, give yourself an honest rating from 1 to 5. Then pick the lowest two. For each, write down one specific relationship or situation where you are failing to love in that way."
+      },
+      {
+        "title": "The Ledger Check",
+        "body": "Love “takes no account of evil.” Is there a ledger in your heart? A list of wrongs someone has done to you that you are keeping for later? Write the person's name. Then ask: am I willing to close the account, as God closed mine in Christ?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Closing the Account",
+        "body": "Take the name from your Ledger Check. Tonight, on a sheet of paper, write down the wrongs you have been holding against them. Then read 2 Corinthians 5:19 and Romans 4:8 aloud — God is not counting your sins against you. Pray, specifically: “Lord, as You have closed my account, I close theirs. I release them from this debt.” Then tear up or burn the paper. This does not mean pretending the wrongs did not happen or that trust is instantly restored. It means you will no longer keep the ledger. If appropriate, take one step this week to show kindness to that person."
+      },
+      {
+        "title": "A Week of Love in Action",
+        "body": "Choose three of the fifteen verbs that you most need to grow in. For the next seven days, each morning, pray: “Holy Spirit, make me patient (or kind, or not easily provoked) today, and show me one person to love in this way.” Then look for that person and that opportunity during the day. Each evening, write down what happened — where you loved and where you failed. At the end of the week, read 1 Corinthians 13 again and thank God for what He has begun to grow in you."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, You are love. And everything You have given me — every gift, every ability, every piece of knowledge, every opportunity to serve — is meant to be soaked in love. Forgive me for the times I have been a clanging cymbal: loud, impressive and empty. Forgive me for using my gifts to be seen, my knowledge to win, my service to feel important. Without love, I am nothing. Lord Jesus, You are the face of this chapter. You are patient and kind. You do not envy or boast. You were never proud, never rude, never self-seeking. You were not easily provoked, and You kept no record of wrongs — You went to the cross to close my account. You bear all things, believe all things, hope all things, endure all things. Make me like You. Holy Spirit, pour the love of God into my heart. Grow in me the fruit I cannot produce. Where I am impatient, make me patient. Where I am harsh, make me kind. Where I keep a ledger, help me tear it up. Where I give up on people, teach me to hope. And Lord, lift my eyes. Now I see in a mirror dimly, but one day I will see You face to face. Let me spend my life on what will last. Faith, hope and love remain — and the greatest is love. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Jonathan Gives David His Robe",
+      "ref": "1 Samuel 18:1-4; 20:1-42; 23:16-18",
+      "relatedVerses": "v. 4-5",
+      "summary": "Jonathan was the son of King Saul and the natural heir to Israel's throne. Then David killed Goliath, and Jonathan's soul was knit to David's, and he loved him as his own soul. He took off his robe, his armour, his sword, his bow and his belt and gave them to David — symbols of his royal position. When Saul tried to kill David, Jonathan protected him at the risk of his own life. And later, in the wilderness, Jonathan found David and strengthened his hand in God, telling him that he would be king over Israel and that Jonathan would be second to him. Jonathan had every reason to envy David. Instead he rejoiced in God's choice of his friend over himself. That is love that does not envy, does not seek its own, and rejoices with the truth."
+    },
+    {
+      "title": "Joseph Weeps Over His Brothers",
+      "ref": "Genesis 45:1-15; 50:15-21",
+      "relatedVerses": "v. 5, 7",
+      "summary": "Joseph's brothers had hated him, thrown him into a pit and sold him into slavery. Years later, when they came to Egypt to buy grain, he was the second most powerful man in the land, and they did not recognise him. He could have kept a ledger and settled every account. Instead he wept so loudly that the Egyptians heard it, revealed himself, embraced his brothers, and told them not to be distressed, because God had sent him ahead to preserve life. After their father died, the brothers feared he would finally take revenge. Joseph wept again, told them that they had meant evil against him but God had meant it for good, and promised to provide for them and their children. That is love that takes no account of evil, bears all things and hopes all things."
+    },
+    {
+      "title": "The Father Who Ran",
+      "ref": "Luke 15:11-32",
+      "relatedVerses": "v. 4, 7",
+      "summary": "A younger son demanded his inheritance, left home and wasted everything in reckless living. When famine came he ended up feeding pigs, starving, and he decided to go back and ask to be a hired servant. But while he was still far off, his father saw him, was moved with compassion, ran, fell on his neck and kissed him. Before the son could finish his speech, the father called for the best robe, a ring and sandals, and a feast. He had never stopped watching the road. He believed all things and hoped all things. Then the older brother refused to come in, angry and keeping score: these many years I served you. The father went out to him too and pleaded with him. Love was patient with both sons — the one who had run away and the one who stayed home keeping a ledger."
+    }
+  ]
+}

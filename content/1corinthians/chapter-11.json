@@ -1,0 +1,1159 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 11,
+  "chapterTitle": "Order in Worship and the Lord's Supper — Proclaiming His Death Until He Comes",
+  "themeTitle": "“You Cannot Honour the Body on the Cross While Humiliating the Body at the Table”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Be imitators of me, even as I also am of Christ.",
+      "understanding": "This verse belongs with chapter 10 — the chapter division here is unfortunate. Having described how he sets aside his own advantage for the salvation of others (10:33), Paul says: μιμηταί μου γίνεσθε — become imitators of me — “even as I also am of Christ.” His authority to be copied is derived. He is worth imitating only insofar as he is imitating Christ.",
+      "words": [
+        {
+          "strongs": "G3402",
+          "hebrew": "μιμητής",
+          "translit": "mimētḗs",
+          "english": "imitators"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Now I praise you, brothers, that you remember me in all things, and hold firm the traditions, even as I delivered them to you.",
+      "understanding": "A rare word of praise before correction. They remember Paul and hold firm the παραδόσεις — the traditions, the teachings handed over — “even as I παραδίδωμι, delivered, them to you.” Christian truth is a deposit handed from person to person, not invented fresh by each congregation. The same verb appears in verse 23 for the Lord's Supper and in 15:3 for the gospel itself.",
+      "words": [
+        {
+          "strongs": "G1867",
+          "hebrew": "ἐπαινέω",
+          "translit": "epainéō",
+          "english": "praise"
+        },
+        {
+          "strongs": "G3415",
+          "hebrew": "μνάομαι",
+          "translit": "mnáomai",
+          "english": "remember"
+        },
+        {
+          "strongs": "G2722",
+          "hebrew": "κατέχω",
+          "translit": "katéchō",
+          "english": "hold firm"
+        },
+        {
+          "strongs": "G3862",
+          "hebrew": "παράδοσις",
+          "translit": "parádosis",
+          "english": "traditions"
+        },
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "delivered"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "But I would have you know that the head of every man is Christ, and the head of the woman is man, and the head of Christ is God.",
+      "understanding": "Κεφαλή — head. What does Paul mean by it? Interpreters debate whether the primary sense is authority (the one who leads) or source (the one from whom another comes). Verses 8 and 9 show that source is in Paul's mind, and the wider usage of Scripture shows that leadership is too (Ephesians 5:23). The strongest reading holds both. And notice the third clause, which governs the other two: “the head of Christ is God.” The Son is fully equal with the Father, and yet He willingly honours the Father's headship. Headship and equality are not opposites.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "head"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Every man praying or prophesying, having his head covered, dishonors his head.",
+      "understanding": "A man who prays or prophesies with something hanging down over his head (the Greek is literally “having down the head”) dishonours his head — both his physical head and, Paul implies, Christ his head. In Roman religious practice, men often covered their heads with their togas when offering sacrifice. Paul may be telling Christian men not to adopt that pagan practice in worship.",
+      "words": [
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "praying"
+        },
+        {
+          "strongs": "G4395",
+          "hebrew": "προφητεύω",
+          "translit": "prophēteúō",
+          "english": "prophesying"
+        },
+        {
+          "strongs": "G2617",
+          "hebrew": "καταισχύνω",
+          "translit": "kataischýnō",
+          "english": "dishonors"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "head"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "But every woman praying or prophesying with her head uncovered dishonors her head. For it is one and the same thing as if she were shaved.",
+      "understanding": "Notice the assumption first: women pray and prophesy in the assembly. Paul does not forbid it; he regulates how it is done. A woman doing so ἀκατακάλυπτος — unveiled — dishonours her head. In first-century Greek and Roman society, a respectable married woman typically covered her head in public; to appear uncovered could signal immodesty or rejection of her husband. Paul says it is the same as having her head ξυράω — shaved — a mark of public disgrace.",
+      "words": [
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "praying"
+        },
+        {
+          "strongs": "G4395",
+          "hebrew": "προφητεύω",
+          "translit": "prophēteúō",
+          "english": "prophesying"
+        },
+        {
+          "strongs": "G177",
+          "hebrew": "ἀκατακάλυπτος",
+          "translit": "akatakályptos",
+          "english": "uncovered"
+        },
+        {
+          "strongs": "G2617",
+          "hebrew": "καταισχύνω",
+          "translit": "kataischýnō",
+          "english": "dishonors"
+        },
+        {
+          "strongs": "G3587",
+          "hebrew": "ξυράω",
+          "translit": "xyráō",
+          "english": "shaved"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "For if a woman is not covered, let her hair also be cut off. But if it is shameful for a woman to have her hair cut off or be shaved, let her be covered.",
+      "understanding": "A logical argument from shame. If a woman refuses to κατακαλύπτω — cover — herself, she might as well have her hair κείρω — cut short. But if that is αἰσχρόν, shameful, as everyone in Corinth agreed it was, then let her be covered. Paul is appealing to a standard of decency they already shared.",
+      "words": [
+        {
+          "strongs": "G2619",
+          "hebrew": "κατακαλύπτω",
+          "translit": "katakalýptō",
+          "english": "covered"
+        },
+        {
+          "strongs": "G2751",
+          "hebrew": "κείρω",
+          "translit": "keírō",
+          "english": "cut off"
+        },
+        {
+          "strongs": "G149",
+          "hebrew": "αἰσχρόν",
+          "translit": "aischrón",
+          "english": "shameful"
+        },
+        {
+          "strongs": "G3587",
+          "hebrew": "ξυράω",
+          "translit": "xyráō",
+          "english": "shaved"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For a man indeed ought not to have his head covered, because he is the image and glory of God, but the woman is the glory of the man.",
+      "understanding": "Now an argument from creation. The man is the εἰκών καὶ δόξα θεοῦ — the image and glory of God (Genesis 1:26–27) — and so should not cover his head in worship. The woman is the δόξα of the man — the one in whom his honour is displayed. Paul is not denying that woman also bears God's image; Genesis 1:27 says plainly that both do. He is speaking of how each relates to the other in God's created order.",
+      "words": [
+        {
+          "strongs": "G2619",
+          "hebrew": "κατακαλύπτω",
+          "translit": "katakalýptō",
+          "english": "covered"
+        },
+        {
+          "strongs": "G1504",
+          "hebrew": "εἰκών",
+          "translit": "eikṓn",
+          "english": "image"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "For man is not from woman, but woman from man;",
+      "understanding": "The basis of verse 7 in Genesis 2: the woman was taken from the man. This is the “source” sense of headship.",
+      "words": [
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "man"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "woman"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "for man wasn’t created for the woman, but woman for the man.",
+      "understanding": "Again from Genesis 2:18 — the woman was made as a helper suitable for the man. The Hebrew word for helper there is used elsewhere of God Himself helping Israel; it implies no inferiority. Paul draws from the creation account a pattern of relationship, not of worth.",
+      "words": [
+        {
+          "strongs": "G2936",
+          "hebrew": "κτίζω",
+          "translit": "ktízō",
+          "english": "created"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For this cause the woman ought to have authority over her own head, because of the angels.",
+      "understanding": "One of the most puzzling verses in Paul. Literally, “the woman ought to have authority on her head, because of the angels.” Most likely the covering is a sign of her authority to pray and prophesy within God's order. And “because of the angels” probably refers to angels as present at Christian worship and watching it (compare 4:9; Ephesians 3:10; 1 Peter 1:12). Honest readers admit uncertainty here; Paul does not explain it, and the Corinthians apparently understood what we do not.",
+      "words": [
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "head"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Nevertheless, neither is the woman independent of the man, nor the man independent of the woman, in the Lord.",
+      "understanding": "A crucial balancing statement: πλήν — nevertheless, however. “In the Lord,” woman is not χωρίς — apart from, independent of — man, nor man of woman. Whatever order exists, it is mutual dependence, not domination. In Christ, they need each other.",
+      "words": [
+        {
+          "strongs": "G4133",
+          "hebrew": "πλήν",
+          "translit": "plḗn",
+          "english": "nevertheless"
+        },
+        {
+          "strongs": "G5565",
+          "hebrew": "χωρίς",
+          "translit": "chōrís",
+          "english": "independent"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For as woman came from man, so a man also comes through a woman; but all things are from God.",
+      "understanding": "The balancing argument from birth. Woman originally came from man (Genesis 2), but every man since has come through a woman. Neither can boast over the other. And then the final perspective: τὰ δὲ πάντα ἐκ τοῦ θεοῦ — all things are from God. Both man and woman owe their existence to Him.",
+      "words": [
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "woman"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "man"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Judge for yourselves. Is it appropriate that a woman pray to God unveiled?",
+      "understanding": "“Judge for yourselves.” Paul again appeals to their own sense of what is πρέπον — fitting, proper, what stands out as appropriate. Is it fitting for a woman to pray to God uncovered? In their cultural setting, everyone knew the answer.",
+      "words": [
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judge"
+        },
+        {
+          "strongs": "G4241",
+          "hebrew": "πρέπω",
+          "translit": "prépō",
+          "english": "appropriate"
+        },
+        {
+          "strongs": "G177",
+          "hebrew": "ἀκατακάλυπτος",
+          "translit": "akatakályptos",
+          "english": "unveiled"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Doesn’t even nature itself teach you that if a man has long hair, it is a dishonor to him?",
+      "understanding": "An argument from φύσις — nature. It is generally thought that Paul means the natural sense of things as it was perceived in his culture, or the general tendency that women's hair grows longer than men's. If a man κομάω — wears long, flowing hair like a woman — it is an ἀτιμία, a dishonour, to him. The point is the visible distinction between men and women.",
+      "words": [
+        {
+          "strongs": "G5449",
+          "hebrew": "φύσις",
+          "translit": "phýsis",
+          "english": "nature"
+        },
+        {
+          "strongs": "G2863",
+          "hebrew": "κομάω",
+          "translit": "komáō",
+          "english": "has long hair"
+        },
+        {
+          "strongs": "G819",
+          "hebrew": "ἀτιμία",
+          "translit": "atimía",
+          "english": "dishonor"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "But if a woman has long hair, it is a glory to her, for her hair is given to her for a covering.",
+      "understanding": "But a woman's long hair is a δόξα to her, for it is given ἀντὶ περιβολαίου — as a covering, a wrap, a mantle. Nature itself has already given her a covering, which the custom of veiling reflects. Some read this as meaning her hair is the covering Paul has been talking about; most read it as a natural analogy supporting the custom.",
+      "words": [
+        {
+          "strongs": "G2863",
+          "hebrew": "κομάω",
+          "translit": "komáō",
+          "english": "has long hair"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G4018",
+          "hebrew": "περιβόλαιον",
+          "translit": "peribólaion",
+          "english": "covering"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "But if any man seems to be contentious, we have no such custom, neither do God’s assemblies.",
+      "understanding": "The closing word. If anyone wants to be φιλόνεικος — contentious, fond of winning arguments — “we have no such custom, neither do God’s assemblies.” Paul means: we have no other practice than what I have described. He appeals to the common practice of all the churches. Corinth was not to invent its own.",
+      "words": [
+        {
+          "strongs": "G1380",
+          "hebrew": "δοκέω",
+          "translit": "dokéō",
+          "english": "seems"
+        },
+        {
+          "strongs": "G5380",
+          "hebrew": "φιλόνεικος",
+          "translit": "philóneikos",
+          "english": "contentious"
+        },
+        {
+          "strongs": "G4914",
+          "hebrew": "συνήθεια",
+          "translit": "synḗtheia",
+          "english": "custom"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assemblies"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "But in giving you this command, I don’t praise you, that you come together not for the better but for the worse.",
+      "understanding": "The tone changes sharply. In verse 2 Paul praised them. Now: “I don’t praise you.” Their gatherings are not making them κρείσσων — better — but ἥσσων — worse. Their worship was doing harm. It is possible for a church to meet regularly and become worse by it.",
+      "words": [
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "command"
+        },
+        {
+          "strongs": "G1867",
+          "hebrew": "ἐπαινέω",
+          "translit": "epainéō",
+          "english": "praise"
+        },
+        {
+          "strongs": "G4905",
+          "hebrew": "συνέρχομαι",
+          "translit": "synérchomai",
+          "english": "come together"
+        },
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "better"
+        },
+        {
+          "strongs": "G2276",
+          "hebrew": "ἥττον",
+          "translit": "hḗtton",
+          "english": "worse"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For first of all, when you come together in the assembly, I hear that divisions exist among you, and I partly believe it.",
+      "understanding": "“First of all” — σχίσματα again, the same tearing word of 1:10. But this time the divisions are not about preachers. They are social and economic, and they appear at the Lord's Table itself. Paul “partly believes” the reports — he is cautious, but he knows Corinth well enough to believe it.",
+      "words": [
+        {
+          "strongs": "G4905",
+          "hebrew": "συνέρχομαι",
+          "translit": "synérchomai",
+          "english": "come together"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G4978",
+          "hebrew": "σχίσμα",
+          "translit": "schísma",
+          "english": "divisions"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "For there also must be factions among you, that those who are approved may be revealed among you.",
+      "understanding": "Biting irony. There “must be” αἱρέσεις — factions, parties, the root of our word heresy — so that the δόκιμοι, the approved, the genuine, may become φανεροί, evident. Divisions expose who is truly faithful. God uses even the church's sin to reveal the real thing.",
+      "words": [
+        {
+          "strongs": "G139",
+          "hebrew": "αἵρεσις",
+          "translit": "haíresis",
+          "english": "factions"
+        },
+        {
+          "strongs": "G1384",
+          "hebrew": "δόκιμος",
+          "translit": "dókimos",
+          "english": "approved"
+        },
+        {
+          "strongs": "G5318",
+          "hebrew": "φανερός",
+          "translit": "phanerós",
+          "english": "revealed"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "When therefore you assemble yourselves together, it is not the Lord’s supper that you eat.",
+      "understanding": "The devastating verdict: when you come together, “it is not the Lord’s supper that you eat.” Κυριακὸν δεῖπνον — the supper belonging to the Lord. They called it the Lord's Supper, but the way they ate it turned it into something else. Ritual does not make a meal holy if the meal denies what the ritual means.",
+      "words": [
+        {
+          "strongs": "G4905",
+          "hebrew": "συνέρχομαι",
+          "translit": "synérchomai",
+          "english": "assemble"
+        },
+        {
+          "strongs": "G2960",
+          "hebrew": "κυριακός",
+          "translit": "kyriakós",
+          "english": "Lord's"
+        },
+        {
+          "strongs": "G1173",
+          "hebrew": "δεῖπνον",
+          "translit": "deîpnon",
+          "english": "supper"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "For in your eating each one takes his own supper first. One is hungry, and another is drunken.",
+      "understanding": "The scene: each one προλαμβάνω — goes ahead with — his own supper. In early Christianity the Lord's Supper was part of a full fellowship meal. Wealthier members, who could arrive early and brought plenty of food, ate and drank before the poorer members — many of them slaves who could only come after work — arrived. The result: “one is hungry, and another is drunken.”",
+      "words": [
+        {
+          "strongs": "G4301",
+          "hebrew": "προλαμβάνω",
+          "translit": "prolambánō",
+          "english": "takes first"
+        },
+        {
+          "strongs": "G1173",
+          "hebrew": "δεῖπνον",
+          "translit": "deîpnon",
+          "english": "supper"
+        },
+        {
+          "strongs": "G3983",
+          "hebrew": "πεινάω",
+          "translit": "peináō",
+          "english": "hungry"
+        },
+        {
+          "strongs": "G3184",
+          "hebrew": "μεθύω",
+          "translit": "methýō",
+          "english": "drunken"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "What, don’t you have houses to eat and to drink in? Or do you despise God’s assembly, and put them to shame who don’t have enough? What shall I tell you? Shall I praise you? In this I don’t praise you.",
+      "understanding": "Four furious questions. Don't you have houses to eat and drink in? Or do you καταφρονέω — despise, look down on — the church of God, and καταισχύνω — humiliate — those who have nothing? What shall I say? Shall I praise you? “In this I don’t praise you.” To shame the poor at the Lord's Table is to despise the church itself.",
+      "words": [
+        {
+          "strongs": "G3614",
+          "hebrew": "οἰκία",
+          "translit": "oikía",
+          "english": "houses"
+        },
+        {
+          "strongs": "G2706",
+          "hebrew": "καταφρονέω",
+          "translit": "kataphronéō",
+          "english": "despise"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G2617",
+          "hebrew": "καταισχύνω",
+          "translit": "kataischýnō",
+          "english": "put to shame"
+        },
+        {
+          "strongs": "G1867",
+          "hebrew": "ἐπαινέω",
+          "translit": "epainéō",
+          "english": "praise"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "For I received from the Lord that which also I delivered to you, that the Lord Jesus on the night in which he was betrayed took bread.",
+      "understanding": "The earliest written account of the Lord's Supper in existence — written before any of the Gospels. Παραλαμβάνω and παραδίδωμι are the technical words for receiving and passing on a sacred tradition. “I received from the Lord” — through the apostolic witness, ultimately from Christ Himself. And note the poignant detail: “on the night in which he was παραδίδωμι” — the same verb: handed over, betrayed. The Lord's Supper was instituted on the very night He was handed over to death.",
+      "words": [
+        {
+          "strongs": "G3880",
+          "hebrew": "παραλαμβάνω",
+          "translit": "paralambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "delivered"
+        },
+        {
+          "strongs": "G3571",
+          "hebrew": "νύξ",
+          "translit": "nýx",
+          "english": "night"
+        },
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "betrayed"
+        },
+        {
+          "strongs": "G740",
+          "hebrew": "ἄρτος",
+          "translit": "ártos",
+          "english": "bread"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "When he had given thanks, he broke it, and said, “Take, eat. This is my body, which is broken for you. Do this in memory of me.”",
+      "understanding": "Εὐχαριστέω — having given thanks; the word from which the church gets “Eucharist.” He broke the bread and said, “This is my body, which is for you” — the WEB adds “broken,” following later manuscripts; the earliest read simply “for you.” Then: εἰς τὴν ἐμὴν ἀνάμνησιν — for my remembrance. In Jewish thought, remembrance was not merely recalling the past but bringing its saving reality into the present, as at Passover.",
+      "words": [
+        {
+          "strongs": "G2168",
+          "hebrew": "εὐχαριστέω",
+          "translit": "eucharistéō",
+          "english": "given thanks"
+        },
+        {
+          "strongs": "G2806",
+          "hebrew": "κλάω",
+          "translit": "kláō",
+          "english": "broke"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G364",
+          "hebrew": "ἀνάμνησις",
+          "translit": "anámnēsis",
+          "english": "memory"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "In the same way he also took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”",
+      "understanding": "“After supper” — the cup came after the meal, consistent with the Passover setting. “This cup is the καινὴ διαθήκη — the new covenant — in my blood.” Jeremiah 31:31–34 had promised a new covenant in which God would write His law on hearts and remember sins no more. Jesus says it is established by His blood.",
+      "words": [
+        {
+          "strongs": "G4221",
+          "hebrew": "ποτήριον",
+          "translit": "potḗrion",
+          "english": "cup"
+        },
+        {
+          "strongs": "G1173",
+          "hebrew": "δεῖπνον",
+          "translit": "deîpnon",
+          "english": "supper"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G364",
+          "hebrew": "ἀνάμνησις",
+          "translit": "anámnēsis",
+          "english": "memory"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.",
+      "understanding": "Paul's own comment: every time you eat this bread and drink this cup, you καταγγέλλω — proclaim, announce publicly — the Lord's death “until he comes.” The Supper is a sermon without words. It looks back to the cross and forward to the return. And it is spoken to the whole room: the way you treat each other at the Table either proclaims the Lord's death or contradicts it.",
+      "words": [
+        {
+          "strongs": "G2068",
+          "hebrew": "ἐσθίω",
+          "translit": "esthíō",
+          "english": "eat"
+        },
+        {
+          "strongs": "G740",
+          "hebrew": "ἄρτος",
+          "translit": "ártos",
+          "english": "bread"
+        },
+        {
+          "strongs": "G4221",
+          "hebrew": "ποτήριον",
+          "translit": "potḗrion",
+          "english": "cup"
+        },
+        {
+          "strongs": "G2605",
+          "hebrew": "καταγγέλλω",
+          "translit": "katangéllō",
+          "english": "proclaim"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "comes"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "Therefore whoever eats this bread or drinks the Lord’s cup in a way unworthy of the Lord will be guilty of the body and the blood of the Lord.",
+      "understanding": "Ἀναξίως — in an unworthy manner. The adverb describes how one eats, not who eats. Nobody is worthy of the Lord's Table. The question is whether you come in a manner consistent with what it means. In Corinth, eating while the poor went hungry was an unworthy manner. Such a person is ἔνοχος — liable, guilty — of the body and blood of the Lord: he sins against the very death the Supper proclaims.",
+      "words": [
+        {
+          "strongs": "G371",
+          "hebrew": "ἀναξίως",
+          "translit": "anaxíōs",
+          "english": "in a way unworthy"
+        },
+        {
+          "strongs": "G1777",
+          "hebrew": "ἔνοχος",
+          "translit": "énochos",
+          "english": "guilty"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "But let a man examine himself, and so let him eat of the bread, and drink of the cup.",
+      "understanding": "Δοκιμάζω — let him test himself, examine himself, the assayer's word of 3:13. Not to find out whether he is good enough — he is not — but to make sure he is coming in the right way: with repentance, faith and love for the body. “And so let him eat.” The goal of self-examination is not to keep people away but to bring them rightly.",
+      "words": [
+        {
+          "strongs": "G1381",
+          "hebrew": "δοκιμάζω",
+          "translit": "dokimázō",
+          "english": "examine"
+        },
+        {
+          "strongs": "G2068",
+          "hebrew": "ἐσθίω",
+          "translit": "esthíō",
+          "english": "eat"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "For he who eats and drinks in an unworthy way eats and drinks judgment to himself, if he doesn’t discern the Lord’s body.",
+      "understanding": "Whoever eats and drinks without διακρίνω — discerning, recognising — “the body” eats and drinks κρίμα, judgment, on himself. What body? In context, the church as Christ's body is strongly in view (10:17 — one loaf, one body; and the whole problem here is despising fellow members). Many also hear a reference to the Lord's body given on the cross. The two cannot be separated: you cannot honour the body on the cross while humiliating the body at the table.",
+      "words": [
+        {
+          "strongs": "G2068",
+          "hebrew": "ἐσθίω",
+          "translit": "esthíō",
+          "english": "eats"
+        },
+        {
+          "strongs": "G2917",
+          "hebrew": "κρίμα",
+          "translit": "kríma",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G1252",
+          "hebrew": "διακρίνω",
+          "translit": "diakrínō",
+          "english": "discern"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "For this cause many among you are weak and sickly, and not a few sleep.",
+      "understanding": "A sobering statement. “For this cause many among you are ἀσθενεῖς — weak — and ἄρρωστοι — sick — and not a few κοιμάω — sleep,” the Christian word for death. Paul attributes illness and even death in the church to God's discipline for abusing the Lord's Supper. This is not a general rule that all sickness is caused by sin; Scripture rejects that idea (John 9:3). It is a specific word about a specific sin in a specific church.",
+      "words": [
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weak"
+        },
+        {
+          "strongs": "G732",
+          "hebrew": "ἄῤῥωστος",
+          "translit": "árrhōstos",
+          "english": "sickly"
+        },
+        {
+          "strongs": "G2837",
+          "hebrew": "κοιμάω",
+          "translit": "koimáō",
+          "english": "sleep"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "For if we discerned ourselves, we wouldn’t be judged.",
+      "understanding": "If we διακρίνω — judged, discerned — ourselves rightly, we would not be κρίνω — judged — by God. The same root, played on: honest self-judgment now prevents divine judgment later.",
+      "words": [
+        {
+          "strongs": "G1252",
+          "hebrew": "διακρίνω",
+          "translit": "diakrínō",
+          "english": "discerned"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "text": "But when we are judged, we are punished by the Lord, that we may not be condemned with the world.",
+      "understanding": "But even when God judges His people, His purpose is παιδεύω — to discipline, to train as a child — “that we may not be κατακρίνω, condemned, with the world.” God's discipline of believers is the opposite of condemnation. It is a Father's correction to keep His children from the fate of the world.",
+      "words": [
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        },
+        {
+          "strongs": "G3811",
+          "hebrew": "παιδεύω",
+          "translit": "paideúō",
+          "english": "punished (disciplined)"
+        },
+        {
+          "strongs": "G2632",
+          "hebrew": "κατακρίνω",
+          "translit": "katakrínō",
+          "english": "condemned"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "text": "Therefore, my brothers, when you come together to eat, wait for one another.",
+      "understanding": "The practical solution is simple: when you come together to eat, ἐκδέχομαι — wait for, welcome — one another. Do not start until everyone, including the poorest slave, has arrived. The Lord's Table is a family table.",
+      "words": [
+        {
+          "strongs": "G4905",
+          "hebrew": "συνέρχομαι",
+          "translit": "synérchomai",
+          "english": "come together"
+        },
+        {
+          "strongs": "G2068",
+          "hebrew": "ἐσθίω",
+          "translit": "esthíō",
+          "english": "eat"
+        },
+        {
+          "strongs": "G1551",
+          "hebrew": "ἐκδέχομαι",
+          "translit": "ekdéchomai",
+          "english": "wait for"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "text": "But if anyone is hungry, let him eat at home, lest your coming together be for judgment. The rest I will set in order whenever I come.",
+      "understanding": "If anyone is so hungry that he cannot wait, let him eat at home first, so that the gathering does not bring κρίμα, judgment. The church meal is not about satisfying appetite; it is about communion. Paul will set the rest in order — διατάσσω — when he comes.",
+      "words": [
+        {
+          "strongs": "G3983",
+          "hebrew": "πεινάω",
+          "translit": "peináō",
+          "english": "hungry"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "home"
+        },
+        {
+          "strongs": "G2917",
+          "hebrew": "κρίμα",
+          "translit": "kríma",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G1299",
+          "hebrew": "διατάσσω",
+          "translit": "diatássō",
+          "english": "set in order"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Dining Room and the Courtyard",
+      "verseRef": "v. 17-22",
+      "image": "Picture a large villa in Corinth on a Sunday evening — the kind of house wealthy believers like Gaius owned. A villa excavated near Corinth has often been used to illustrate the scene: an elegant dining room, the triclinium, with couches for perhaps nine or ten guests, and a larger open courtyard, the atrium, beyond. The host's friends — people of means who did not have to work late — arrive early and recline on the couches. The best food is served to them, and the wine flows. Hours later, as darkness falls, the dockworkers and slaves arrive, tired and hungry from a full day's labour. They crowd into the courtyard. By the time they get there, the good food is gone, and some of the people on the couches are drunk. Then everyone takes the bread and the cup together, and calls it the Lord's Supper.",
+      "meaning": "Paul's verdict is devastating: “it is not the Lord’s supper that you eat.” They had all the right words and actions, but the way they ate denied what the meal meant. The Lord's Supper proclaims the death of the One who gave Himself for the poor, the slave and the outcast — and the Corinthians were using it to reinforce the social hierarchy that the cross had abolished. That is why Paul says they despise the church of God and humiliate those who have nothing. James warned against the same sin: honouring the man in fine clothes and telling the poor man to sit on the floor (James 2:1–4). Every time a church divides along lines of wealth, class, race or status at the Lord's Table, it eats something other than the Lord's Supper."
+    },
+    {
+      "title": "On the Night He Was Handed Over",
+      "verseRef": "v. 23-26",
+      "image": "An upper room in Jerusalem, lit by oil lamps. Thirteen men reclining around a low table for the Passover meal. Outside, the city is full of pilgrims; somewhere in the darkness, plans are being made. One of the thirteen has already arranged to betray his master for thirty pieces of silver. And the master knows. He takes a flat loaf of unleavened bread, gives thanks, breaks it, and hands it to them: this is my body, which is for you. After supper He takes a cup of wine: this cup is the new covenant in my blood. Do this in remembrance of me. A few hours later He is arrested in a garden.",
+      "meaning": "Paul notes that the Lord's Supper was instituted “on the night in which he was betrayed” — the same Greek verb as “delivered”: handed over. Jesus gave His friends a meal to remember Him by on the night He was handed over to death by a friend. And every time the church eats it, Paul says, “you proclaim the Lord’s death until he comes.” The Supper is a sermon. It announces that Jesus died for sinners, that a new covenant has been established in His blood, and that He is coming again. That sermon is either confirmed or contradicted by how the church treats its members at the table. You cannot proclaim the self-giving death of Christ while grabbing the best for yourself."
+    },
+    {
+      "title": "Discerning the Body",
+      "verseRef": "v. 27-32",
+      "image": "Picture a believer in Corinth holding the bread in his hand. He looks at it and thinks of Christ's body broken on the cross. That is right, but Paul asks him to look further. He wants him to lift his eyes from the bread and look around the room — at the slave standing hungry in the courtyard, at the widow who arrived late, at the poor man whose plate is empty. They too are the body. “Because there is one loaf of bread, we, who are many, are one body” (10:17). To discern the body is to see Christ in the bread and Christ's people in the room, and to refuse to separate the two.",
+      "meaning": "This passage has sometimes frightened sensitive believers away from the Lord's Table, as if they had to be perfect to partake. But Paul's word is ἀναξίως, unworthily — an adverb describing the manner of eating, not the worthiness of the eater. No one is worthy. The question is whether you come in a way that honours what the Supper means. Self-examination is not about proving you are good enough; it is about coming in repentance, faith and love. “Let a man examine himself, and so let him eat.” The goal is to eat. And even God's discipline, Paul says, is a Father's correction “that we may not be condemned with the world.” Come to the Table — but come with eyes open to the cross and to your brothers and sisters."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Imitate Me as I Imitate Christ (v. 1-2)",
+        "body": "Paul's call to imitation closes chapter 10; he then praises the Corinthians for holding to the traditions he delivered."
+      },
+      {
+        "label": "Head Coverings and Creation Order (v. 3-16)",
+        "body": "Arguing from headship (Christ, man, God), creation, the angels, nature and church practice, Paul instructs men to pray and prophesy uncovered and women to pray and prophesy covered — while insisting that in the Lord man and woman are interdependent, and all things are from God."
+      },
+      {
+        "label": "Divisions at the Lord's Supper (v. 17-22)",
+        "body": "Their gatherings do more harm than good: the wealthy eat their own meals first while the poor go hungry, so what they eat is not the Lord's Supper, and they despise God's church."
+      },
+      {
+        "label": "The Tradition of the Lord's Supper (v. 23-26)",
+        "body": "Paul repeats the words of Jesus on the night He was betrayed: the bread is His body for us, the cup is the new covenant in His blood; eating and drinking proclaim the Lord's death until He comes."
+      },
+      {
+        "label": "Eating Worthily and Discerning the Body (v. 27-34)",
+        "body": "Eating in an unworthy manner makes one guilty of the body and blood of the Lord; each should examine himself and discern the body; God's discipline has fallen on some, but it is to save them from condemnation; wait for one another."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Head Coverings: What Is Clear and What Is Not",
+        "paragraphs": [
+          "Verses 2 to 16 are among the most difficult in Paul's letters, and honesty requires saying so plainly. Paul gives several interwoven arguments — from headship (v. 3), shame (vv. 5–6), creation (vv. 7–9), the angels (v. 10), nature (vv. 14–15) and church practice (v. 16) — and some of his references were clear to the Corinthians in ways they are not to us. But the core is not hard to see, and it is important not to let the difficult details obscure the clear ones. First, and often overlooked: women prayed and prophesied in the Corinthian assembly (v. 5), and Paul does not forbid it. He regulates how it is done. The church of Pentecost was one where “your daughters will prophesy” (Acts 2:17), and Philip had four daughters who prophesied (Acts 21:9).",
+          "Second, the cultural setting. In the Greco-Roman world, a respectable married woman normally covered her head in public — usually by drawing her outer garment, or a shawl, over her hair. To appear uncovered in a public gathering could signal immodesty, rejection of her marriage, or association with certain pagan cults where women let their hair down in ecstatic worship. For men, by contrast, Roman practice sometimes involved covering the head with the toga when offering sacrifice. Paul wants Christian worship to be distinct from both: men should not adopt a religious head-covering, and women should not abandon theirs. Some Corinthian women may have concluded that because “there is neither male nor female; for you are all one in Christ Jesus” (Galatians 3:28), all visible distinctions should go. Paul says no. Equality in Christ does not erase the God-given distinction between men and women.",
+          "Third, the theology. Verse 3 sets out a pattern of headship: Christ is the head of every man, the man is the head of the woman, and God is the head of Christ. Whether κεφαλή means primarily authority or source is debated; verses 8 and 9 show that the idea of source from the creation account is central here, while the broader biblical pattern (Ephesians 5:23) shows that it also includes leadership. Notice, though, that Paul includes “the head of Christ is God” — and no orthodox Christian believes the Son is inferior to the Father. Headship and equality are not opposites. And Paul immediately guards against any notion of male superiority: “Nevertheless, neither is the woman independent of the man, nor the man independent of the woman, in the Lord. For as woman came from man, so a man also comes through a woman; but all things are from God” (vv. 11–12). How should believers today apply this? Christians differ on whether the specific practice of head-covering is binding across cultures. What is binding is the principle beneath it: men and women are equal in worth and both called to minister, and they are to honour, not erase, the distinctions God built into creation — and to do it in a way that brings honour, not shame, to their head."
+        ]
+      },
+      {
+        "heading": "Not the Lord's Supper: When the Table Divides the Body",
+        "paragraphs": [
+          "From verse 17 Paul turns to a far more serious problem, and the praise of verse 2 gives way to rebuke: “I don’t praise you, that you come together not for the better but for the worse.” In the early church, the Lord's Supper was celebrated as part of a full fellowship meal, sometimes called the love feast (Jude 12). Churches met in homes, and in Corinth that meant the homes of wealthier members, since only they had space for a whole congregation. A well-known reconstruction, based on a villa excavated near Corinth, suggests that the dining room might seat perhaps nine to twelve people, while the rest would gather in the courtyard. The host's social equals would be honoured with places in the dining room, often with better food — a common practice at Roman banquets, where guests were served according to their rank.",
+          "The result was a disaster. Wealthy members, free to arrive early, began eating and drinking their own lavish suppers. Poorer members — slaves, labourers, people who had to work until evening — arrived late to find little or nothing left. “One is hungry, and another is drunken” (v. 21). The social divisions of Corinth were being reproduced, even intensified, at the very meal that proclaimed their abolition. That is why Paul says, “it is not the Lord’s supper that you eat” (v. 20). They had the bread and the cup and the right words, but the way they ate contradicted the meaning of the meal. They despised the church of God and humiliated the poor (v. 22).",
+          "Verse 19 contains a note of bitter irony: “there also must be factions among you, that those who are approved may be revealed among you.” Paul is not saying divisions are good. He is saying that God uses even the church's sin to expose what is real. When the table divides along lines of class and status, it becomes clear who truly understands the gospel and who does not. This is not merely a first-century problem. Every church that allows divisions of wealth, race, education, class or status to determine who is honoured and who is overlooked when it gathers is in danger of eating something other than the Lord's Supper. James saw the same sin in his churches (James 2:1–4). The cross levels the ground. The Table must do the same."
+        ]
+      },
+      {
+        "heading": "Proclaiming His Death and Discerning His Body",
+        "paragraphs": [
+          "Paul's answer to the abuse of the Supper is not a new rule but a reminder of what the Supper is. Verses 23 to 26 are the earliest written account of the Lord's Supper that we have — earlier than any of the Gospels, written perhaps twenty-five years after the event. Paul uses the technical words of tradition: “I received... that which also I delivered.” This is not his invention; it is the church's sacred memory, going back to Jesus Himself. And it is remarkably close to Luke's account: “This is my body which is given for you. Do this in memory of me... This cup is the new covenant in my blood, which is poured out for you” (Luke 22:19–20). Notice the detail Paul chooses to include: “on the night in which he was betrayed.” The verb παραδίδωμι is the same as “delivered” in the previous line. The Lord handed the bread to His disciples on the night He was handed over to death. The Supper is born in self-giving.",
+          "Then Paul adds his own comment in verse 26: “For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.” The Supper looks back to the cross and forward to the return, and in between it preaches. Every time the church eats, it announces that Jesus died for sinners and that He is coming again. And the way the church eats is part of that announcement. If the rich feast while the poor go hungry, the sermon is contradicted. That is why verse 27 says that whoever eats “in a way unworthy of the Lord” is guilty of His body and blood. The word ἀναξίως is an adverb describing the manner of eating, not the worthiness of the person. No one is worthy of the Table; that is the point of grace. The question is whether you come in a manner consistent with what Christ did.",
+          "Verses 28 and 29 then call for self-examination and for “discerning the body.” In context, “the body” very likely includes the church — Paul has just said in 10:17 that “we, who are many, are one body; for we all partake of the one loaf,” and the entire problem here is the despising of fellow members. Many readers also hear a reference to the Lord's body given on the cross, represented in the bread. The two belong together: to discern the body is to recognise Christ in the bread and Christ's people around the table, and to refuse to separate them. Paul's warning in verse 30 — that some in Corinth were weak, sick and had even died — is sobering, and it should not be generalised into a claim that all sickness is caused by sin, which Jesus explicitly rejected (John 9:3). It is a specific word about a specific abuse. But the goal of God's discipline is stated plainly: “we are punished by the Lord, that we may not be condemned with the world” (v. 32). It is the discipline of a Father who loves His children too much to let them go on destroying themselves. And the practical solution is simple and beautiful: “when you come together to eat, wait for one another” (v. 33)."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Paul's account of the Last Supper stands beside the Gospel accounts, and is closest to Luke's: “He took bread, and when he had given thanks, he broke, and gave it to them, saying, ‘This is my body which is given for you. Do this in memory of me.’ Likewise, he took the cup after supper, saying, ‘This cup is the new covenant in my blood, which is poured out for you’” (Luke 22:19–20). Matthew records the purpose of the blood: “for this is my blood of the new covenant, which is poured out for many for the remission of sins” (Matthew 26:28). And from the very beginning, the church gathered around this meal: “They continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and prayer” (Acts 2:42), and “breaking bread at home, they took their food with gladness and singleness of heart” (Acts 2:46). Notice “singleness of heart” — the opposite of the Corinthian divisions.",
+        "The meaning of eating Christ's body and blood had already been opened up by Jesus in His discourse at Capernaum: “unless you eat the flesh of the Son of Man and drink his blood, you don’t have life in yourselves. He who eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day... He who eats my flesh and drinks my blood lives in me, and I in him” (John 6:53–54, 56). Whatever one's understanding of how Christ is present in the Supper, the New Testament is united that it is a real communion with Him — “a sharing of the blood of Christ” and “a sharing of the body of Christ” (10:16) — and that it is meant to bind His people to Him and to each other.",
+        "The idea that God disciplines His children in love, which Paul applies in verses 30 to 32, is developed in Hebrews: “My son, don’t take lightly the chastening of the Lord, nor faint when you are reproved by him; For whom the Lord loves, he chastens” (Hebrews 12:5–6). And: “he for our profit, that we may be partakers of his holiness. All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby” (Hebrews 12:10–11). The risen Christ says the same to the church in Laodicea: “As many as I love, I reprove and chasten. Be zealous therefore, and repent” (Revelation 3:19). God's discipline of His church is never a sign that He has abandoned it. It is the proof that He has not."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Head",
+      "hebrew": "κεφαλή",
+      "translit": "kephalḗ",
+      "strongs": "G2776",
+      "verses": "v. 3 (×3), 4 (×2), 5 (×2), 7, 10",
+      "insight": "Strong's: “the head (as the part most readily taken hold of), literally or figuratively.” In this passage Paul uses κεφαλή both literally (the physical head that is covered or uncovered) and figuratively (Christ, man and God as “head”). The figurative meaning is debated: some scholars argue for “authority over,” others for “source” or “origin.” Both meanings appear in Greek literature, and both seem present here: verses 8 and 9 stress source (woman from man), while Ephesians 5:23 links headship to leadership and loving self-sacrifice. The decisive interpretive key is the third clause of verse 3: “the head of Christ is God.” The Son is equal to the Father in deity and yet honours the Father's headship. Headship in God's design is never superiority. It is an ordered relationship of honour."
+    },
+    {
+      "english": "Traditions / teachings handed down",
+      "hebrew": "παράδοσις",
+      "translit": "parádosis",
+      "strongs": "G3862 (verb, deliver παραδίδωμι, paradídōmi, G3860; verb, receive παραλαμβάνω, paralambánō, G3880)",
+      "verses": "v. 2 (verbs in v. 2, 23)",
+      "insight": "Strong's defines παράδοσις as “transmission, i.e. (concretely) a precept; specially, the Jewish traditionary law,” παραδίδωμι as “to surrender, i.e yield up, intrust, transmit,” and παραλαμβάνω as “to receive near.” These were the technical terms for passing on and receiving sacred teaching. Jesus condemned human traditions that nullified God's word (Mark 7:8–13). But Paul uses the same word positively for the apostolic teaching that came from Christ. The Christian faith is not invented by each generation; it is received and handed on. Paul received the Lord's Supper (v. 23) and the gospel (15:3) and delivered them. Every believer stands in a chain of faithful transmission that goes back to Jesus. Your job is to receive it faithfully and hand it on intact."
+    },
+    {
+      "english": "Remembrance / memorial",
+      "hebrew": "ἀνάμνησις",
+      "translit": "anámnēsis",
+      "strongs": "G364",
+      "verses": "v. 24, 25",
+      "insight": "Strong's: “recollection.” In biblical thought, remembrance is not just mental recall of a past event. When Israel remembered the Passover, they relived it — “It is because of that which Yahweh did for me when I came out of Egypt” (Exodus 13:8). The past saving event was made present to each generation. Jesus' command, “Do this in memory of me,” calls the church to that kind of remembrance: not simply thinking about the cross, but bringing its saving reality into the present gathering. Hebrews 10:3 uses the same word for the annual remembrance of sins in the old sacrifices. In the Lord's Supper, the church remembers not its sins but the One who took them away."
+    },
+    {
+      "english": "Covenant",
+      "hebrew": "διαθήκη",
+      "translit": "diathḗkē",
+      "strongs": "G1242",
+      "verses": "v. 25",
+      "insight": "Strong's: “properly, a disposition, i.e. (specially) a contract (especially a devisory will).” In the Greek Old Testament it translates the Hebrew word for covenant — the solemn, binding relationship God establishes with His people. “The new covenant” points directly to Jeremiah 31:31–34, where God promises a new covenant not like the one at Sinai: He will put His law within them, write it on their hearts, be their God, and remember their sin no more. Jesus says that covenant is inaugurated “in my blood.” Every time you take the cup, you are drinking to the terms of a covenant in which God has promised to forgive you and to make you His. Hebrews 8 and 9 explore this at length."
+    },
+    {
+      "english": "Discern / distinguish / judge rightly",
+      "hebrew": "διακρίνω",
+      "translit": "diakrínō",
+      "strongs": "G1252",
+      "verses": "v. 29, 31",
+      "insight": "Strong's: “to separate thoroughly, i.e. (literally and reflexively) to withdraw from, or (by implication) oppose; figuratively, to discriminate (by implication, decide), or (reflexively) hesitate.” Paul plays on words from the same root throughout verses 29 to 32: διακρίνω (discern), κρίμα (judgment), κρίνω (judge), κατακρίνω (condemn). To discern the body is to recognise it for what it is and treat it accordingly — to distinguish the Lord's Supper from an ordinary meal, and the people of God from a social hierarchy. If we discern ourselves rightly now, we will not fall under God's judgment. Spiritual discernment is not only about doctrine; it is about seeing Christ in His people and acting accordingly."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the way you honour or dishonour God's design for men and women, the divisions you tolerate at the Lord's Table, and the way you come to the bread and the cup.",
+    "items": [
+      {
+        "title": "Honouring the Design",
+        "body": "Whatever you conclude about head coverings, the Spirit is asking a deeper question: do you honour the way God made men and women? Our culture swings between two errors — erasing the distinctions altogether, or using them to dominate and diminish. Paul rejects both. Men and women are equal before God and interdependent in the Lord; both are called to pray and prophesy; and the distinctions God built into creation are to be honoured, not erased or abused. If you are a man, are you using your position to serve or to dominate? If you are a woman, are you embracing your God-given identity or resenting it? And all of us: are we honouring our head — Christ — in the way we worship?"
+      },
+      {
+        "title": "Who Is in the Courtyard?",
+        "body": "Every church has its dining room and its courtyard. The people who are honoured and the people who are overlooked. The ones with influence and the ones who arrive late, tired, and find the good things already taken. The Spirit is asking you to look around your church and notice who is in the courtyard. The poor, the newcomers, the single parents, the elderly, the ones who do not fit, the ones from a different background. Are they welcomed at the table or merely tolerated at the edges? Have you been eating your own supper while they go hungry — for food, for friendship, for honour? “Wait for one another.” Go and sit with someone in the courtyard."
+      },
+      {
+        "title": "Coming to the Table With Open Eyes",
+        "body": "You may have come to the Lord's Table many times without really seeing it. Or you may have stayed away, afraid you were not worthy. The Spirit wants to say two things. First: nobody is worthy. That is why Christ's body was broken and His blood poured out. Come. Second: come with your eyes open. Examine yourself honestly — not to prove you are good enough, but to confess what needs confessing. Then look at the bread and see His body given for you. Look around the room and see His body, the church. Is there someone in that body you need to forgive, reconcile with or honour before you eat? Then eat, and proclaim His death until He comes."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Imitation Check",
+        "body": "Paul said, “Be imitators of me, even as I also am of Christ.” Who are you imitating in your faith? Write down one or two names. Then ask: am I copying them because they look like Christ, or because they are impressive? And who is imitating you?"
+      },
+      {
+        "title": "The Courtyard Check",
+        "body": "Think about your church gatherings. Write down the names of three people you rarely speak to or who seem to be on the edges. What do they have in common? Is there any way you have — even unintentionally — contributed to their being overlooked?"
+      },
+      {
+        "title": "The Table Check",
+        "body": "Before the next time you take the Lord's Supper, ask: is there any unconfessed sin I need to bring to the Lord? Is there anyone in the body of Christ I am refusing to forgive, despising or ignoring? Am I coming as a spectator or as someone proclaiming the Lord's death until He comes?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Preparing for the Table",
+        "body": "Set aside fifteen minutes before your next Communion service. Read 1 Corinthians 11:23–32 slowly. Then pray through three questions: (1) Lord, what do I need to confess? (2) Lord, who in Your body do I need to make peace with or honour? (3) Lord, how can I proclaim Your death this week? Write down your answers. If there is someone you need to reconcile with, do it before you come, if possible (compare Matthew 5:23–24). Then come to the Table with gratitude, not fear."
+      },
+      {
+        "title": "Waiting for One Another",
+        "body": "This month, practise verse 33 literally and figuratively. At your next church gathering, make a point of welcoming and sitting with someone who usually arrives late, sits alone, or is new. If your church shares meals, wait until everyone is served before you eat, and make sure the people who are usually last are well served. If you have the means, invite someone who could never repay you to share a meal at your home. Let the way you eat proclaim the Lord's death."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, on the night You were handed over, You took bread, gave thanks, broke it and said, ‘This is my body, which is for you.’ You took the cup and said, ‘This cup is the new covenant in my blood.’ Thank You. Thank You for Your body broken and Your blood poured out for me. Every time I eat and drink, let me proclaim Your death until You come. Father, I confess that I have not always discerned the body. I have come to Your Table carelessly, and I have overlooked brothers and sisters for whom Christ died. Forgive me for every time I have honoured the dining room and ignored the courtyard. Open my eyes to see Your people as You see them, and teach me to wait for one another. Lord, I submit to Your design for men and women. Where I have dishonoured it, by erasing what You made or abusing it, forgive me. Help me to honour my head, which is Christ, in the way I live and worship. And Father, thank You that when You discipline me, it is so that I will not be condemned with the world. I would rather judge myself honestly now than fall under Your judgment later. Search me, correct me, and bring me to Your Table with open eyes and a clean heart. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Night of the First Passover",
+      "ref": "Exodus 12:1-14; 13:3-10",
+      "relatedVerses": "v. 23-26",
+      "summary": "God commanded Israel to eat the Passover meal on the night He would bring them out of Egypt: a lamb without blemish, its blood on the doorposts, unleavened bread and bitter herbs. And He commanded them to keep it as a memorial forever, so that every generation would tell their children what the LORD had done. When Jesus gathered His disciples on the night He was handed over, He took the elements of that very meal and gave them a new meaning: the bread is His body, the cup is the new covenant in His blood. The Lord's Supper is the Passover fulfilled. Just as Israel remembered the night of their deliverance from slavery, the church remembers the night that led to its deliverance from sin — and proclaims it until He comes."
+    },
+    {
+      "title": "Mephibosheth at the King's Table",
+      "ref": "2 Samuel 9:1-13",
+      "relatedVerses": "v. 20-22, 33",
+      "summary": "After David became king, he asked whether anyone was left from the house of Saul to whom he could show kindness for Jonathan's sake. He was told of Mephibosheth, Jonathan's son, who was lame in both feet and living in obscurity. David sent for him. Mephibosheth fell on his face and called himself a dead dog. But David restored to him all of Saul's land and said that he would eat at the king's table always, like one of the king's sons. A crippled man from a fallen family, with nothing to offer, was given a permanent seat at the royal table. That is what the Lord's Table is meant to be: a place where the weak and the overlooked are honoured as sons. The Corinthians had turned it into a place where the poor were humiliated. David's table shows what grace looks like when it sets a place for the least."
+    },
+    {
+      "title": "Uzzah and the Holy Things",
+      "ref": "2 Samuel 6:1-11; 1 Chronicles 15:11-15",
+      "relatedVerses": "v. 27-32",
+      "summary": "David set out with great celebration to bring the ark of God to Jerusalem, but instead of having the Levites carry it on poles as the law required, they placed it on a new cart. When the oxen stumbled, Uzzah reached out his hand to steady the ark, and God struck him down. David was angry and afraid, and he left the ark at the house of Obed-edom, who was blessed for the next three months. Later David realised that they had not handled the holy things as God had commanded, and the ark was brought up the right way, with rejoicing. The story is a sobering reminder that holy things must be approached in the way God intends. The Corinthians had treated the Lord's Supper carelessly, and some had become sick and died. God's holiness is not a threat to those who come humbly. It is a danger to those who come carelessly."
+    }
+  ]
+}

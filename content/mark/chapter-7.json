@@ -1,0 +1,488 @@
+{
+  "type": "chapterStudy",
+  "book": "Mark",
+  "chapter": 7,
+  "chapterTitle": "The Clash Over Tradition and the Defilement of the Heart",
+  "themeTitle": "It Is Not What Goes In — It Is What Comes Out",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Then the Pharisees and some of the scribes gathered together to him, having come from Jerusalem.",
+      "understanding": "The religious authorities travel roughly a hundred miles from Jerusalem, the seat of power, to investigate this Galilean teacher. This is no casual encounter — it is an official delegation sent to build a case against Him."
+    },
+    {
+      "v": 2,
+      "text": "Now when they saw some of his disciples eating bread with defiled, that is unwashed, hands, they found fault.",
+      "understanding": "They catch the disciples eating with “defiled,” that is ceremonially unwashed, hands. The issue is not hygiene but ritual purity — the disciples have broken a rule that was never in the Law of Moses.",
+      "words": [
+        {
+          "strongs": "G2839",
+          "hebrew": "κοινός",
+          "translit": "koinós",
+          "english": "defiled / common"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "(For the Pharisees and all the Jews, don’t eat unless they wash their hands and forearms, holding to the tradition of the elders.",
+      "understanding": "Mark pauses to explain the custom to his Roman readers, who would not know it. This washing was “the tradition of the elders” — human rules layered on top of Scripture over generations.",
+      "words": [
+        {
+          "strongs": "G3862",
+          "hebrew": "παράδοσις",
+          "translit": "parádosis",
+          "english": "tradition"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "They don’t eat when they come from the marketplace unless they bathe themselves, and there are many other things, which they have received to hold to: washings of cups, pitchers, bronze vessels, and couches.)",
+      "understanding": "The list grows — ritual bathing after the marketplace, washings of cups, pitchers, bronze kettles, even dining couches. An entire architecture of man-made purity had been built, and keeping it had become the measure of a righteous life."
+    },
+    {
+      "v": 5,
+      "text": "The Pharisees and the scribes asked him, “Why don’t your disciples walk according to the tradition of the elders, but eat their bread with unwashed hands?”",
+      "understanding": "The charge is finally leveled: your disciples don’t “walk according to the tradition of the elders.” Notice the accusation is about tradition, not about God’s command — a telling slip they do not even hear themselves make."
+    },
+    {
+      "v": 6,
+      "text": "He answered them,\n“Well did Isaiah prophesy of you hypocrites, as it is written,\n‘This people honors me with their lips,\nbut their heart is far from me.",
+      "understanding": "Jesus goes straight for the jugular, calling them “hypocrites” — stage-actors wearing a mask — and firing Isaiah 29:13 back at them. Their worship is a performance of the lips while the heart, the true self, has drifted far from God.",
+      "words": [
+        {
+          "strongs": "G5273",
+          "hebrew": "ὑποκριτής",
+          "translit": "hypokritḗs",
+          "english": "hypocrite"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "But they worship me in vain,\nteaching as doctrines the commandments of men.’",
+      "understanding": "Their worship is “in vain” — empty, profitless, hollow — because they have swapped the commandments of God for the commandments of men and called the trade holy.",
+      "words": [
+        {
+          "strongs": "G3152",
+          "hebrew": "μάταιος",
+          "translit": "mátaios",
+          "english": "in vain / empty"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "“For you set aside the commandment of God, and hold tightly to the tradition of men—the washing of pitchers and cups, and you do many other such things.”",
+      "understanding": "Here is the indictment in one line: you set aside God’s commandment to grip your own tradition. It is not merely that they added to Scripture; it is that their additions displaced it.",
+      "words": [
+        {
+          "strongs": "G1785",
+          "hebrew": "ἐντολή",
+          "translit": "entolḗ",
+          "english": "commandment"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "He said to them,\n“Full well do you reject the commandment of God, that you may keep your tradition.",
+      "understanding": "Jesus sharpens the knife with biting irony: “Full well” — how skillfully, how expertly — you reject God’s command in order to preserve your tradition. Their disobedience has become an art form."
+    },
+    {
+      "v": 10,
+      "text": "For Moses said, ‘Honor your father and your mother;’\nand, ‘He who speaks evil of father or mother, let him be put to death.’",
+      "understanding": "He gives the proof. Moses commanded honor for father and mother, and made cursing them a capital offense. God ranks the care of parents that high in His Law."
+    },
+    {
+      "v": 11,
+      "text": "But you say, ‘If a man tells his father or his mother, “Whatever profit you might have received from me is Corban, that is to say, given to God”;’",
+      "understanding": "But the tradition invented a loophole: declare your resources “Corban” — dedicated as a gift to God — and you are freed from spending them on your aging parents. A vow is turned into a weapon against the fifth commandment.",
+      "words": [
+        {
+          "strongs": "G2878",
+          "hebrew": "κορβᾶν",
+          "translit": "korbân",
+          "english": "Corban / consecrated gift"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "then you no longer allow him to do anything for his father or his mother,",
+      "understanding": "The result is spelled out plainly — you no longer permit him to do anything for his father or his mother. Piety has become the polished excuse for abandonment."
+    },
+    {
+      "v": 13,
+      "text": "making void the word of God by your tradition, which you have handed down. You do many things like this.”",
+      "understanding": "This is the verdict: you make the word of God void — cancel it, strip it of authority — by your tradition. And Jesus adds, chillingly, “You do many things like this.”",
+      "words": [
+        {
+          "strongs": "G208",
+          "hebrew": "ἀκυρόω",
+          "translit": "akyróō",
+          "english": "making void / invalidate"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "He called all the multitude to himself, and said to them,\n“Hear me, all of you, and understand.",
+      "understanding": "Jesus turns from the scholars to the crowd. What He is about to say is for everyone, and He demands that they truly hear it and understand it, not just overhear it."
+    },
+    {
+      "v": 15,
+      "text": "There is nothing from outside of the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man.",
+      "understanding": "The revolutionary sentence: nothing entering a man from outside can defile him; defilement comes out of him. In one stroke Jesus relocates the whole question of purity from the hands to the heart.",
+      "words": [
+        {
+          "strongs": "G2840",
+          "hebrew": "κοινόω",
+          "translit": "koinóō",
+          "english": "defile / make common"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "If anyone has ears to hear, let him hear!”",
+      "understanding": "The solemn call — “If anyone has ears to hear, let him hear!” — signals that this teaching is far weightier than it sounds and will divide those who receive it from those who refuse it."
+    },
+    {
+      "v": 17,
+      "text": "When he had entered into a house away from the multitude, his disciples asked him about the parable.",
+      "understanding": "Away from the crowd, in the privacy of the house, the disciples confess they don’t grasp “the parable.” Mark keeps his honest portrait of slow disciples who still need private tutoring."
+    },
+    {
+      "v": 18,
+      "text": "He said to them,\n“Are you also without understanding? Don’t you perceive that whatever goes into the man from outside can’t defile him,",
+      "understanding": "Jesus is almost incredulous — “Are you also without understanding?” Then He reasons it out step by step: whatever enters from outside simply cannot reach the moral core of a person."
+    },
+    {
+      "v": 19,
+      "text": "because it doesn’t go into his heart, but into his stomach, then into the latrine, thus purifying all foods?”",
+      "understanding": "Food goes to the stomach and out to the latrine — it never touches the heart. Then Mark, writing down Peter’s memory, adds his stunning parenthesis: “thus he declared all foods clean.” The dietary wall of the Old Covenant is coming down.",
+      "words": [
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "He said,\n“That which proceeds out of the man, that defiles the man.",
+      "understanding": "Jesus restates the truth positively — what comes out of a man is what defiles him. The source of impurity is internal, never external."
+    },
+    {
+      "v": 21,
+      "text": "For from within, out of the hearts of men, proceed evil thoughts, adulteries, sexual sins, murders, thefts,",
+      "understanding": "He opens the human heart like a surgeon and names what pours out of it: evil thoughts, adulteries, sexual sins, murders, thefts. The heart is not a neutral space; it is a factory of defilement.",
+      "words": [
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "covetings, wickedness, deceit, lustful desires, an evil eye, blasphemy, pride, and foolishness.",
+      "understanding": "The catalog continues — covetings, wickedness, deceit, lust, the “evil eye” of envy and greed, blasphemy, pride, and foolishness. Thirteen evils in all, every one of them born on the inside."
+    },
+    {
+      "v": 23,
+      "text": "All these evil things come from within, and defile the man.”",
+      "understanding": "The verdict lands: all these come from within and defile the man. Unwashed hands were never the real problem; the unwashed heart always was."
+    },
+    {
+      "v": 24,
+      "text": "From there he arose, and went away into the borders of Tyre and Sidon. He entered into a house, and didn’t want anyone to know it, but he couldn’t escape notice.",
+      "understanding": "Jesus crosses out of Israel into pagan Gentile territory — Tyre and Sidon — and tries to stay hidden. Even here, among the “unclean” nations, the Servant cannot be concealed; His fame has run ahead of Him."
+    },
+    {
+      "v": 25,
+      "text": "For a woman, whose little daughter had an unclean spirit, having heard of him, came and fell down at his feet.",
+      "understanding": "A woman whose little daughter is tormented by an unclean spirit hears of Him and falls at His feet. Desperation drives her straight past every barrier of nation, religion, and gender."
+    },
+    {
+      "v": 26,
+      "text": "Now the woman was a Greek, a Syrophoenician by race. She begged him that he would cast the demon out of her daughter.",
+      "understanding": "Mark names the barrier plainly — she is a Greek, a Syrophoenician by race, a Gentile descended from Israel’s ancient enemies. She has no covenant claim on Him whatsoever, yet she begs."
+    },
+    {
+      "v": 27,
+      "text": "But Jesus said to her,\n“Let the children be filled first, for it is not appropriate to take the children’s bread and throw it to the dogs.”",
+      "understanding": "Jesus’ words sound harsh: the children (Israel) must be fed first; it is not right to throw their bread to the “dogs.” But the word is “little dogs,” household pets under the table, not wild curs — He is drawing out her faith, not slamming the door."
+    },
+    {
+      "v": 28,
+      "text": "But she answered him, “Yes, Lord. Yet even the dogs under the table eat the children’s crumbs.”",
+      "understanding": "She doesn’t argue the premise; she leaps through the open door in His words: “Yes, Lord. Yet even the dogs under the table eat the children’s crumbs.” She asks only for a crumb from a Savior who is overflowing with bread."
+    },
+    {
+      "v": 29,
+      "text": "He said to her,\n“For this saying, go your way. The demon has gone out of your daughter.”",
+      "understanding": "“For this saying” — for this one word of tenacious faith — go your way; the demon has already left your daughter. Her humble, persistent faith is honored across the miles."
+    },
+    {
+      "v": 30,
+      "text": "She went away to her house, and found the child having been laid on the bed, with the demon gone out.",
+      "understanding": "She goes home and finds the child laid peacefully on the bed, the demon gone. The deliverance had happened at a distance, at the very moment of His word."
+    },
+    {
+      "v": 31,
+      "text": "Again he departed from the borders of Tyre and Sidon, and came to the sea of Galilee, through the middle of the region of Decapolis.",
+      "understanding": "Jesus loops back through Gentile country — from Tyre through Sidon into the Decapolis, the region of ten pagan cities. The Servant keeps moving among the nations the Pharisees called unclean."
+    },
+    {
+      "v": 32,
+      "text": "They brought to him one who was deaf and had an impediment in his speech. They begged him to lay his hand on him.",
+      "understanding": "They bring Him a man who is deaf and can barely speak, and beg Him to lay His hand on him. The man is locked inside silence, cut off from every word spoken around him."
+    },
+    {
+      "v": 33,
+      "text": "He took him aside from the multitude, privately, and put his fingers into his ears, and he spat, and touched his tongue.",
+      "understanding": "Jesus takes him away from the crowd, privately, and speaks in a language the deaf man can feel — fingers pressed into the ears, spittle, a touch to the tongue. He meets the man inside his own sensory world."
+    },
+    {
+      "v": 34,
+      "text": "Looking up to heaven, he sighed, and said to him,\n“Ephphatha!” that is,\n“Be opened!”",
+      "understanding": "He looks up to heaven, sighs — groaning at the brokenness of a fallen world — and speaks one Aramaic word: “Ephphatha! — Be opened!” Mark preserves the very sound of Jesus’ voice on that day.",
+      "words": [
+        {
+          "strongs": "G2188",
+          "hebrew": "ἐφφαθά",
+          "translit": "ephphathá",
+          "english": "Be opened!"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "text": "Immediately his ears were opened, and the impediment of his tongue was released, and he spoke clearly.",
+      "understanding": "Immediately — Mark’s signature word, euthys — the ears open and the tongue is loosed, and the man speaks plainly. The Servant’s single word does instantly what nothing on earth could.",
+      "words": [
+        {
+          "strongs": "G2117",
+          "hebrew": "εὐθύς",
+          "translit": "euthýs",
+          "english": "immediately"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "text": "He commanded them that they should tell no one, but the more he commanded them, so much the more widely they proclaimed it.",
+      "understanding": "Jesus commands silence — the “messianic secret” again — but the more He forbids it, the more they proclaim it. The good news is a fire that cannot be contained."
+    },
+    {
+      "v": 37,
+      "text": "They were astonished beyond measure, saying, “He has done all things well. He makes even the deaf hear, and the mute speak!”",
+      "understanding": "The crowd’s verdict echoes Genesis and Isaiah: “He has done all things well. He makes even the deaf hear and the mute speak!” The new creation is breaking in through the hands of the Servant."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Lips Near, Heart Far",
+      "verseRef": "v. 6",
+      "image": "Picture a great choir in full voice, every mouth open, every word of the hymn perfect and on pitch — and then imagine a camera pulling back through the wall of the temple to reveal that the heart of every singer is standing a hundred miles away, out on the road to Jerusalem, thinking about cups and pitchers and the neighbor who broke the rules. The lips are here; the heart has left the building.",
+      "meaning": "Jesus quotes Isaiah to expose the deadliest religious disease there is: worship that is technically flawless and spiritually empty. The Pharisees had not stopped honoring God with their mouths — they had simply stopped meaning it with their hearts. God is not fooled by volume, vocabulary, or attendance. He reads the one organ they thought was hidden."
+    },
+    {
+      "title": "The Corban Loophole",
+      "verseRef": "v. 11-12",
+      "image": "An old man sits at his table with an empty bowl. His son is wealthy, his cupboards are full — but the son has stood up in the synagogue and pronounced a single sacred word over his money: ‘Corban.’ It is a gift to God now, untouchable, holy. And so the father starves with a religious blessing hanging in the air above his hunger, robbed by a vow that wears God’s name like a mask.",
+      "meaning": "This is how tradition turns cannibal — it uses the language of devotion to devour the very command of God. The fifth commandment says honor your father and mother; the Corban vow said, ‘Sorry, that money is spiritual now.’ Jesus rips the mask off: any ‘spirituality’ that lets you neglect the flesh-and-blood people God gave you to love is not devotion. It is disobedience in a priest’s robe."
+    },
+    {
+      "title": "The Children's Crumbs Under the Table",
+      "verseRef": "v. 27-28",
+      "image": "A Gentile mother, kneeling in the dust at the feet of a Jewish rabbi she has no right to approach, hears herself compared to a dog. And instead of standing up in offended pride and walking away, she drops even lower — down under the master’s table — and says, ‘Yes, Lord. But the little dogs get the crumbs.’ She will not leave without a crumb of Him, because she knows a single crumb from this table is enough to raise her daughter.",
+      "meaning": "This is the most audacious act of faith in Mark’s Gospel, and it comes from an outsider. She agrees with everything Jesus says, takes the lowest possible place, and still refuses to let go. Faith is not offended by its own unworthiness — faith uses its unworthiness as the very reason to press in, because it knows the Master’s abundance is so great that even the overflow can save."
+    },
+    {
+      "title": "Fingers, Spit, and a Sigh Toward Heaven",
+      "verseRef": "v. 33-34",
+      "image": "The Servant pulls one broken man out of the noise of the crowd and into a private silence. He cannot say ‘be healed’ to a deaf man and be understood, so He speaks with His body — fingers pushed into the sealed ears, spittle, a touch on the useless tongue. Then He lifts His eyes to the sky, and from somewhere deep in His chest comes a groan. And out of that groan comes a single Aramaic word that hits the man’s locked-up world like a hammer on a door: ‘Ephphatha!’",
+      "meaning": "The sigh is everything. Jesus does not heal at arm’s length; He feels the weight of the fall, groans against it, and then commands it to break. ‘Be opened’ is not just the reopening of two ears — it is the sound of the whole new creation forcing its way into a shut and silent world. Wherever the Servant walks, the sealed things are commanded to open."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Ambush from Jerusalem (v. 1-5)",
+        "body": "An official delegation confronts Jesus over the disciples' unwashed hands and the tradition of the elders."
+      },
+      {
+        "label": "Isaiah's Verdict: Lips vs. Heart (v. 6-8)",
+        "body": "Jesus answers with Isaiah 29:13, exposing worship that honors God with the mouth while the heart is far away."
+      },
+      {
+        "label": "The Corban Scandal (v. 9-13)",
+        "body": "A test case: the Corban vow is used to void the fifth commandment, proving tradition had displaced Scripture."
+      },
+      {
+        "label": "The Great Reversal: Defilement from Within (v. 14-23)",
+        "body": "Jesus relocates purity from the hands to the heart, and Mark notes He thereby declared all foods clean."
+      },
+      {
+        "label": "Crumbs of Grace: The Syrophoenician Woman (v. 24-30)",
+        "body": "A Gentile mother's tenacious, humble faith wins deliverance for her demonized daughter."
+      },
+      {
+        "label": "Ephphatha: The Deaf Made to Hear (v. 31-37)",
+        "body": "In the Gentile Decapolis, Jesus opens a deaf man's ears and looses his tongue, and the crowd confesses He has done all things well."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "“Thus He Declared All Foods Clean” — the Wall Comes Down",
+        "paragraphs": [
+          "The whole chapter turns on a collision between two kinds of authority. The Pharisees came armed with “the tradition of the elders” — an oral body of rules that had grown over centuries, layered on top of Moses and eventually treated as equal to Moses. Jesus does not merely trim the tradition; He drives a wedge between it and the actual commandment of God and shows that the two had become enemies. “You set aside the commandment of God, and hold tightly to the tradition of men” (v. 8). That is the beating heart of the conflict: not Scripture versus liberty, but God’s revealed Word versus man’s religious additions that quietly swallowed it.",
+          "Then comes the parenthesis that changes everything. In verse 19 Mark inserts, in his own voice, “thus he declared all foods clean.” We should feel the shock of it. For over a thousand years the dietary laws of Leviticus 11 had marked Israel off from the nations — clean and unclean, kosher and forbidden, a wall of the stomach that fenced the covenant people apart. Here Jesus, with a single teaching, announces that the wall was always pointing to something deeper and is now fulfilled. This is not Jesus abolishing the Old Testament in rebellion; it is the Lawgiver Himself revealing the Law’s true target. The food laws were a schoolmaster teaching Israel the difference between holy and profane. School is now dismissed because the Teacher has come. Honesty requires us to say plainly: this verse is one of the New Testament’s clearest declarations that the ceremonial food code no longer binds the follower of Christ."
+        ]
+      },
+      {
+        "heading": "The Heart Is the Factory of Defilement",
+        "paragraphs": [
+          "The Pharisees located defilement on the outside — on the hands, in the food, on the cups. Jesus turns the whole map inside out. “There is nothing from outside of the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man” (v. 15). Then, in the house, He performs surgery on the human heart and lists thirteen things that pour out of it: evil thoughts, adulteries, sexual sins, murders, thefts, covetings, wickedness, deceit, lustful desires, an evil eye, blasphemy, pride, and foolishness. This is the truth of the truth, and it is not flattering. Your problem is not your environment, your influences, or the germs on your hands. Your problem lives inside you, in the very organ religion cannot scrub.",
+          "This is why external religion always fails. You can wash the hands of a murderer and he is a clean-handed murderer. You can put a proud man through every ritual in the temple and he comes out a ceremonially spotless proud man. The Pharisees had built an entire system that could produce clean hands and leave the heart untouched — and Jesus calls that system what it is: hypocrisy, the acting of a part. The good news hidden inside this hard word is that Jesus refuses to treat the symptom. He goes after the source. A gospel that only changes your behavior on the outside is the Pharisees’ gospel. The gospel of the Servant changes the factory itself."
+        ]
+      },
+      {
+        "heading": "Crossing the Border: Grace Runs to the Outsider",
+        "paragraphs": [
+          "It is no accident that the moment Jesus declares all foods clean, Mark immediately marches Him across the border into Gentile territory. The theological argument of verses 1-23 becomes flesh-and-blood mission in verses 24-37. If nothing external defiles, then the great external barrier — the line between Jew and Gentile, clean people and unclean people — is also about to fall. So the Servant walks into Tyre and Sidon, into the Decapolis, into the world the Pharisees would not touch, and there He heals a Gentile girl and opens a Gentile man’s ears.",
+          "The Syrophoenician woman is the living proof of everything Jesus just taught. She has all the external marks of the “unclean” — wrong nation, wrong religion, wrong bloodline — and yet out of her heart proceeds the purest faith in the chapter. Meanwhile the scribes, with every external mark of holiness, have hearts far from God. The chapter has quietly inverted the whole scoreboard. The insiders are defiled from within; the outsider is welcomed by faith. This is the road that runs straight to the Roman centurion at the cross in chapter 15."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Mark 7:19 is a seed, and the New Testament shows us exactly where it flowers — in Acts 10, in the life of the very man whose memories stand behind this Gospel. Peter, who watched Jesus declare all foods clean, is on a rooftop in Joppa when a sheet descends from heaven filled with unclean animals, and a voice says, “Rise, Peter, kill and eat.” Peter, still the slow disciple of Mark 7, objects: “Not so, Lord; for I have never eaten anything that is common or unclean.” And the voice answers, “What God has cleansed, you must not call common” (Acts 10:15). The Greek word for “common” there is koinos — the very word Mark uses in Mark 7:2 for the “defiled” hands.",
+        "The lesson Jesus taught in the house finally lands in Peter’s heart on the rooftop, and Peter draws the conclusion the vision was really about: not bacon, but people. Minutes later he walks into the home of Cornelius, a Gentile, and says, “God has shown me that I should not call any man common or unclean” (Acts 10:28). The food laws falling in Mark 7 and the walls between the nations falling in Acts 10 are the same event. What Jesus declared clean at a dinner table in Galilee, the Spirit poured out on a Gentile household in Caesarea. The Syrophoenician woman got a crumb; Cornelius’s whole house got the loaf."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Tradition",
+      "hebrew": "παράδοσις",
+      "translit": "parádosis",
+      "strongs": "G3862",
+      "verses": "v. 3, 5, 8, 9, 13",
+      "insight": "The word literally means “a handing over” or “a passing down” — something transmitted from one generation to the next. It is a neutral word; a tradition can carry gold or poison. The tragedy Jesus exposes is a tradition that was faithfully “handed down” until it grew heavier than the Word it was meant to guard. The same root gives us the verb used when Judas “handed over” Jesus to be crucified — a chilling reminder that things passed down can betray the very One they claim to serve."
+    },
+    {
+      "english": "Defile / Make Common",
+      "hebrew": "κοινόω",
+      "translit": "koinóō",
+      "strongs": "G2840",
+      "verses": "v. 15, 18, 20, 23",
+      "insight": "To “defile” here is literally to make koinos — common, ordinary, profane — the opposite of holy and set-apart. Its cousin adjective koinos (G2839) is the very word for the “defiled” hands in verse 2. Jesus’ whole revolution is packed into this word: the Pharisees thought common things (food, cups, hands) could make a person common; Jesus says only what erupts from the heart can profane a person before God. Purity was never a matter of the stomach. It was always a matter of the soul."
+    },
+    {
+      "english": "Corban",
+      "hebrew": "κορβᾶν",
+      "translit": "korbân",
+      "strongs": "G2878",
+      "verses": "v. 11",
+      "insight": "A Hebrew loan-word meaning a gift or offering consecrated to God. To pronounce something “Corban” was to dedicate it to the Temple, placing it off-limits for ordinary use. In theory it was an act of devotion; in practice it became a legal escape hatch — declare your assets Corban and you were “released” from spending them on your needy parents while often still enjoying them yourself. Jesus uses this single word to prove His whole case: their tradition had learned to weaponize the language of devotion against the commandment of God."
+    },
+    {
+      "english": "Heart",
+      "hebrew": "καρδία",
+      "translit": "kardía",
+      "strongs": "G2588",
+      "verses": "v. 6, 19, 21",
+      "insight": "In Scripture the kardia is not the seat of mere emotion but the command-center of the whole person — the place where thinking, willing, desiring, and deciding all live. Jesus says the Pharisees’ heart is “far” from God (v. 6), that food never reaches the heart (v. 19), and that every defiling evil marches out of the heart (v. 21). The chapter rises or falls on this one organ. God’s controversy has never been with your hands. It has always been with your heart."
+    },
+    {
+      "english": "Ephphatha / Be Opened",
+      "hebrew": "ἐφφαθά",
+      "translit": "ephphathá",
+      "strongs": "G2188",
+      "verses": "v. 34",
+      "insight": "An Aramaic word — the actual mother-tongue Jesus spoke — meaning “be opened.” Mark deliberately preserves the raw sound before translating it, a fingerprint of Peter’s eyewitness memory of the very syllables Jesus breathed. It is a single-word command spoken to sealed ears, and creation obeys instantly. After a whole chapter about people who have ears but will not hear, the Servant speaks the one word that can undo spiritual deafness itself: Be opened."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the gap between your religion and your heart — the quiet distance between the God your lips honor and the God your inner life actually loves.",
+    "items": [
+      {
+        "title": "The Lip-Heart Gap",
+        "body": "Jesus did not accuse the Pharisees of skipping worship. He accused them of a worship where the lips arrived but the heart stayed home. Ask the hard question the Spirit is asking you: when you sing, when you pray, when you say “Amen,” where is your heart actually standing? Is it near, or has it wandered off to your worries, your grievances, your phone, your reputation? God is not impressed by the performance you can produce on the outside. He is reading the one room you thought was locked. Is your heart near Him today, or only your mouth?"
+      },
+      {
+        "title": "Your Own Corban",
+        "body": "It is easy to be horrified at men who starved their parents with a holy-sounding vow — until the Spirit turns the light around. What is your Corban? What “spiritual” reason do you use to dodge a plain command of God? ‘I’m too busy serving in ministry to be present for my family.’ ‘I can’t forgive them yet, I’m still praying about it.’ ‘I gave to the church, so I don’t need to help that person in front of me.’ Corban is any moment we dress up disobedience in devotion. Where have you used God’s name to get out of God’s will?"
+      },
+      {
+        "title": "The Crumbs Are Enough",
+        "body": "The Syrophoenician woman had no claim, no covenant, no credentials — only a desperate need and a stubborn confidence that a single crumb from Jesus was enough. Maybe you feel like the outsider: too unclean, too late, too Gentile, too far gone to approach the table. Hear the good news of this chapter. She did not need the whole loaf. She needed a crumb, because the One at the table is that good. Will you keep your dignity and walk away offended, or will you get down under the table and refuse to leave without Him?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Tradition Audit",
+        "body": "What rules and routines have you elevated, quietly, to the level of God’s actual commands? Where do you judge other believers by your own preferences — your style of worship, your habits, your church culture — as if breaking your tradition were the same as breaking God’s law? Name one place where you have confused ‘the way I’ve always done it’ with ‘the way God commanded it.’"
+      },
+      {
+        "title": "The Corban Check",
+        "body": "Is there a person God has plainly given you to love and provide for — a parent, a spouse, a child, a neighbor in need — whom you are neglecting behind a spiritual-sounding excuse? Be brutally specific. Whose empty bowl is sitting on your table while you hide behind your busyness, your boundaries, or your ‘calling’?"
+      },
+      {
+        "title": "The Inside-Out Test",
+        "body": "Read the thirteen things Jesus says come out of the heart (v. 21-22). Do not skim them. Which one or two did the Spirit press His finger on as you read? You cannot wash it off with better behavior. Are you willing to stop managing the symptom on the outside and let Jesus deal with the source on the inside?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Name the Heart-Root",
+        "body": "Tonight, take a sheet of paper and write down the one recurring sin you keep trying to fix from the outside — the behavior you white-knuckle, apologize for, and repeat. Underneath it, ask and write: ‘What desire in my heart is this behavior serving?’ Then bring that root, not just the fruit, to God in confession. You have been washing hands. Start washing the heart, where only His blood can reach."
+      },
+      {
+        "title": "Pray the Ephphatha Prayer",
+        "body": "This week, before you open the Word or enter worship, pause and pray one word over yourself: ‘Ephphatha — Lord, be opened.’ Ask Him to open the ears that have gone deaf to His voice through familiarity, and to loose the tongue that honors Him with sound but not with the heart. Do not rush past it. Let the Servant who opened a deaf man’s ears open yours before you read a single verse."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, I do not want to be a person who honors You with my lips while my heart stands far away. Search that heart of mine right now — the command-center You called the factory of defilement — and show me what really lives there. I confess that I have washed my hands and left my heart untouched, that I have kept my little traditions and quietly set Your commandment aside. Forgive me for every Corban, every spiritual-sounding excuse I have used to dodge what You plainly told me to do. Thank You that nothing about me is too common, too unclean, too far outside for You. Like the woman at Your feet, I am not too proud to take the lowest place and beg for a crumb, because I know that one crumb from Your table is enough to change everything. And like the deaf man pulled out of the crowd, I need You to speak the one word I cannot speak over myself. Say it over me now: Ephphatha. Open my ears to truly hear You. Loose my tongue to truly worship You. Cleanse me from the inside out, and let it be said of Your work in me that You have done all things well. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Isaiah's Ancient Indictment",
+      "ref": "Isaiah 29:13",
+      "relatedVerses": "v. 6-7",
+      "summary": "Jesus did not invent His charge against the Pharisees; He pulled it, word for word, out of Isaiah. Seven centuries earlier God had said through the prophet, ‘This people draws near to me with their mouth, and honors me with their lips, but they have removed their heart far from me, and their fear of me is a commandment of men that has been taught.’ The disease is that old and that stubborn. By quoting it, Jesus tells the scribes of His day that they are not the guardians of true religion but the newest edition of an ancient hypocrisy God had already diagnosed and condemned."
+    },
+    {
+      "title": "God Looks on the Heart",
+      "ref": "1 Samuel 16:7",
+      "relatedVerses": "v. 20-23",
+      "summary": "When Samuel came to anoint a king and was dazzled by Eliab’s impressive height and appearance, God stopped him cold: ‘Man looks at the outward appearance, but the LORD looks at the heart.’ The tall, external-looking candidate was passed over, and the shepherd boy David was chosen. This is the exact axis on which Mark 7 turns. The Pharisees are Eliab — impressive on the outside, wrong on the inside. God has never once been fooled by the surface, and the whole of Jesus’ teaching about defilement is simply this ancient truth pressed into the human heart."
+    },
+    {
+      "title": "Peter's Rooftop Vision",
+      "ref": "Acts 10:9-48",
+      "relatedVerses": "v. 19, 24-30",
+      "summary": "Years after standing in that Galilean house, Peter is praying on a rooftop when a sheet of unclean animals descends and a voice commands him to kill and eat. Three times Peter refuses; three times the voice insists, ‘What God has cleansed, you must not call common.’ Then Gentile messengers arrive, and Peter finally understands that the vision was never really about food but about people — that God shows no partiality between Jew and Gentile. The parenthesis Peter dictated to Mark, ‘thus he declared all foods clean,’ becomes the doorway through which the whole Gentile world, from a Syrophoenician mother to a Roman centurion’s household, walks in to the table of grace."
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "type": "chapterStudy",
+  "book": "Romans",
+  "chapter": 16,
+  "chapterTitle": "The Names, the Warning, and the Mystery",
+  "themeTitle": "When Doctrine Learns People's Names: “Greet Prisca and Aquila, My Fellow Workers”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I commend to you Phoebe, our sister, who is a servant of the assembly that is at Cenchreae,",
+      "understanding": "After fifteen chapters of the heaviest theology ever written, Paul's next move is to hand the Romans a person. Phoebe belongs to the assembly at Cenchreae, the eastern harbour of Corinth about seven miles from the city, and Paul calls her a diakonos of that church — the same word he uses of himself (1 Corinthians 3:5), of Tychicus, and of Christ himself in Romans 15:8. \"I commend to you\" is the formal wording of an ancient letter of recommendation, and such letters were carried by the very person being commended: Phoebe is standing in that Roman house holding the scroll of Romans while it is read aloud.",
+      "words": [
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diakonos",
+          "english": "servant"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "that you receive her in the Lord, in a way worthy of the saints, and that you assist her in whatever matter she may need from you, for she herself also has been a helper of many, and of my own self.",
+      "understanding": "Three requests: receive her, receive her in a manner worthy of saints, and assist her in whatever business brought her to Rome. The reason Paul gives is not her need but her record — she has been a prostatis, a patroness, to many and to Paul himself. The greatest letter in Christian history travelled to the capital of the world in the luggage of a woman who had spent her own means standing over other people.",
+      "words": [
+        {
+          "strongs": "G4368",
+          "hebrew": "προστάτις",
+          "translit": "prostatis",
+          "english": "helper"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Greet Prisca and Aquila, my fellow workers in Christ Jesus,",
+      "understanding": "You have met these two before. Acts 18:2 finds them in Corinth as refugees — driven out of Rome when Claudius expelled the Jews — tentmakers by trade like Paul, who took him into their house and their business. The edict has now lapsed and they are home in Rome again. Note the order: Prisca is named first, as she is in four of the six New Testament mentions of this couple, which was not the ordinary way a husband and wife were named in that world.",
+      "words": [
+        {
+          "strongs": "G4904",
+          "hebrew": "συνεργός",
+          "translit": "synergos",
+          "english": "fellow workers"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "who for my life, laid down their own necks; to whom not only I give thanks, but also all the assemblies of the Gentiles.",
+      "understanding": "The Greek is literally \"they placed their own neck under\" — the posture of a condemned prisoner at the block. Paul never says when it happened; the riot at Ephesus (Acts 19) is a reasonable guess and nothing more, because Scripture does not tell us. What Scripture does tell us is the reach of one couple's courage: every Gentile congregation on the map owes them, because had they not risked their necks there would have been no Paul left to plant those churches."
+    },
+    {
+      "v": 5,
+      "text": "Greet the assembly that is in their house. Greet Epaenetus, my beloved, who is the first fruits of Achaia to Christ.",
+      "understanding": "There was not a single church building anywhere in the empire; the believers in Rome met in houses, and wherever Prisca and Aquila lived a congregation met under their roof (compare 1 Corinthians 16:19 in Ephesus). Epaenetus is called the aparchē — the firstfruits, the first sheaf carried to God as proof that a whole harvest is coming behind it. One honest note: the oldest Greek manuscripts read \"of Asia\" here rather than \"of Achaia,\" which also fits 1 Corinthians 16:15, where the household of Stephanas is called the firstfruits of Achaia.",
+      "words": [
+        {
+          "strongs": "G536",
+          "hebrew": "ἀπαρχή",
+          "translit": "aparchē",
+          "english": "first fruits"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Greet Mary, who labored much for us.",
+      "understanding": "Two things are known about Mary: her name is Jewish — Miriam — in a congregation that had become largely Gentile, and she wore herself out for people. Kopiaō does not mean she helped out; it means labour to the point of exhaustion. Heaven's public record of her ministry is six words long, and it will outlast the Roman Empire.",
+      "words": [
+        {
+          "strongs": "G2872",
+          "hebrew": "κοπιάω",
+          "translit": "kopiaō",
+          "english": "labored"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Greet Andronicus and Junia, my relatives and my fellow prisoners, who are notable among the apostles, who were also in Christ before me.",
+      "understanding": "Junia is a common Roman woman's name; the masculine form once proposed for it is unattested in ancient literature, so the natural reading is a husband and wife. They were jailed alongside Paul somewhere he does not name, they are his kinsmen, and they were in Christ before he was — already believers while Saul was still hunting believers. \"Notable among the apostles\" most naturally places them inside the wider circle of sent ones, the sense in which Barnabas (Acts 14:14) and Epaphroditus (Philippians 2:25) are also called apostles.",
+      "words": [
+        {
+          "strongs": "G1978",
+          "hebrew": "ἐπίσημος",
+          "translit": "episēmos",
+          "english": "notable"
+        },
+        {
+          "strongs": "G4869",
+          "hebrew": "συναιχμάλωτος",
+          "translit": "synaichmalōtos",
+          "english": "fellow prisoners"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Greet Amplias, my beloved in the Lord.",
+      "understanding": "Amplias (Ampliatus) is a name that turns up constantly on Roman inscriptions belonging to slaves and freedmen — a common man's name in the common man's city. And the apostle who has just composed the most demanding argument in Scripture calls him \"my beloved.\" Doctrine that cannot produce affection for an ordinary man has not been understood."
+    },
+    {
+      "v": 9,
+      "text": "Greet Urbanus, our fellow worker in Christ, and Stachys, my beloved.",
+      "understanding": "Urbanus means \"of the city,\" another name typical of the servant class — and Paul calls him \"OUR fellow worker,\" not mine: shared property of the whole mission, not one apostle's helper. Stachys means \"head of grain.\" The people carrying the gospel in the empire's capital have the names of farmhands and household slaves."
+    },
+    {
+      "v": 10,
+      "text": "Greet Apelles, the approved in Christ. Greet those who are of the household of Aristobulus.",
+      "understanding": "Dokimos is a metal-worker's word — ore that has been put in the fire, assayed, and stamped genuine. Something tested Apelles and he came out certified; Paul does not say what it was, and the silence is its own testimony. Then watch who is greeted next: not Aristobulus, but the people who belong to his household, which strongly suggests the master was not a believer while people under his roof were.",
+      "words": [
+        {
+          "strongs": "G1384",
+          "hebrew": "δόκιμος",
+          "translit": "dokimos",
+          "english": "approved"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Greet Herodion, my kinsman. Greet them of the household of Narcissus, who are in the Lord.",
+      "understanding": "Herodion's name means \"of Herod,\" and he is greeted immediately after the household of Aristobulus — plausibly, though not provably, a trace of the Herodian estate in Rome, since Aristobulus the grandson of Herod the Great lived in the city as a private friend of Claudius. Again Paul greets only \"them of the household of Narcissus, who are in the Lord\": inside one pagan mansion there was a pocket of believers, and Paul knew exactly which ones."
+    },
+    {
+      "v": 12,
+      "text": "Greet Tryphaena and Tryphosa, who labor in the Lord. Greet Persis, the beloved, who labored much in the Lord.",
+      "understanding": "Two women named from the same root — tryphē, meaning softness, daintiness, luxury — almost certainly sisters, since siblings were often named this way. Their names mean roughly \"Delicate\" and \"Dainty,\" and the one thing Paul records about them is that they work themselves to exhaustion in the Lord. Persis (\"Persian woman\") gets the past tense and the intensifier: she laboured MUCH. Three women in one verse, all commended for sweat."
+    },
+    {
+      "v": 13,
+      "text": "Greet Rufus, the chosen in the Lord, and his mother and mine.",
+      "understanding": "Mark, writing for Roman readers, identifies Simon of Cyrene as \"the father of Alexander and Rufus\" (Mark 15:21) — naming sons his readers evidently knew. It is a reasonable inference, not a proven fact, that this is that Rufus, and that the woman who mothered Paul was the widow of the man who carried the cross of Jesus. What is beyond dispute is the tenderness: Paul, cut off from his own house the day he met Christ, had a mother in Rome.",
+      "words": [
+        {
+          "strongs": "G1588",
+          "hebrew": "ἐκλεκτός",
+          "translit": "eklektos",
+          "english": "chosen"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers\n who are with them.",
+      "understanding": "Five men and \"the brothers who are with them\" — the shape of one household or one tenement congregation crowded into rented rooms. Hermes and Patrobas are typical slave names, and not one of these five appears anywhere else in Scripture or in any surviving history. God knows by name the membership of churches nobody has ever heard of."
+    },
+    {
+      "v": 15,
+      "text": "Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them.",
+      "understanding": "A second cluster: probably a couple, then a brother and sister, then one more, with \"all the saints who are with them.\" Julia is the most common female name in the imperial household. And Nereus's sister is greeted without a name — she is one of two people in this chapter (with Rufus's mother) whom heaven knows and history does not."
+    },
+    {
+      "v": 16,
+      "text": "Greet one another with a holy kiss. The assemblies of Christ greet you.",
+      "understanding": "In that world the kiss was exchanged between family members and social equals. Paul tells a room holding slaves, freedmen, a wealthy patroness, Jews returning from exile, and Gentile householders to greet one another the way blood relatives do — and adds \"holy\" to strip the gesture of everything but family. Then he widens the room: assemblies scattered across the empire are greeting them too.",
+      "words": [
+        {
+          "strongs": "G5370",
+          "hebrew": "φίλημα",
+          "translit": "philēma",
+          "english": "kiss"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Now I beg you, brothers, look out for those who are causing the divisions and occasions of stumbling, contrary to the doctrine which you learned, and turn away from them.",
+      "understanding": "The tone snaps like a bone. \"Look out for\" is skopeō — keep them in your sights, mark them, the word behind our \"scope.\" And notice the measuring rod: not personality, not style, not who is likeable, but \"the doctrine which you learned.\" Then the instruction, which is not debate but ekklinō: swerve away, get off the road they are travelling on.",
+      "words": [
+        {
+          "strongs": "G1370",
+          "hebrew": "διχοστασία",
+          "translit": "dichostasia",
+          "english": "divisions"
+        },
+        {
+          "strongs": "G4625",
+          "hebrew": "σκάνδαλον",
+          "translit": "skandalon",
+          "english": "occasions of stumbling"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For those who are such don’t serve our Lord, Jesus Christ, but their own belly; and by their smooth and flattering speech, they deceive the hearts of the innocent.",
+      "understanding": "Paul goes straight for the motive: there is a stomach at the centre of their ministry. They are serving appetite — money, comfort, status, a following — and dressing it in ministry vocabulary, exactly the charge of Philippians 3:19. And mark carefully who gets taken: not the wicked, but the akakos, the \"un-bad\" — people with no evil in them and therefore no radar for it. Their innocence is the doorway the deceiver walks through.",
+      "words": [
+        {
+          "strongs": "G2836",
+          "hebrew": "κοιλία",
+          "translit": "koilia",
+          "english": "belly"
+        },
+        {
+          "strongs": "G5542",
+          "hebrew": "χρηστολογία",
+          "translit": "chrēstologia",
+          "english": "smooth speech"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "For your obedience has become known to all. I rejoice therefore over you. But I desire to have you wise in that which is good, but innocent in that which is evil.",
+      "understanding": "Their reputation has already travelled the empire, just as their faith had in 1:8. So Paul writes a divided curriculum: be a graduate student in what is good and stay illiterate in what is evil. Jesus prescribed the same split — \"wise as serpents, and harmless as doves\" (Matthew 10:16) — and the word for harmless there is the word here: akeraios, unmixed, nothing foreign stirred in.",
+      "words": [
+        {
+          "strongs": "G5218",
+          "hebrew": "ὑπακοή",
+          "translit": "hypakoē",
+          "english": "obedience"
+        },
+        {
+          "strongs": "G185",
+          "hebrew": "ἀκέραιος",
+          "translit": "akeraios",
+          "english": "innocent"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "And the God of peace will quickly crush Satan under your feet.\nThe grace of our Lord Jesus Christ be with you.",
+      "understanding": "Genesis 3:15 finally lands — and it lands under the church's feet, not only under Christ's. Syntribō is not a bruise; it is shattering, breaking to pieces. And read the title carefully: the God of PEACE does the crushing, because real peace is never a truce with the serpent; it is his skull broken. Then, having named the war, Paul hands them grace in the same breath.",
+      "words": [
+        {
+          "strongs": "G4937",
+          "hebrew": "συντρίβω",
+          "translit": "syntribō",
+          "english": "crush"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirēnē",
+          "english": "peace"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "Timothy, my fellow worker, greets you, as do Lucius, Jason, and Sosipater, my relatives.",
+      "understanding": "Paul is not writing alone; the room in Corinth is full. Timothy he picked up at Lystra (Acts 16:1-3). Jason is very likely the man in Thessalonica whose house was mobbed and who had to post bond for Paul's sake (Acts 17:5-9), and Sosipater is most likely the Sopater of Berea who later travelled with him (Acts 20:4). Converts of the second journey are still standing beside him at the end of the third."
+    },
+    {
+      "v": 22,
+      "text": "I, Tertius, who write the letter, greet you in the Lord.",
+      "understanding": "The secretary interrupts the apostle. Paul dictated Romans and Tertius wrote it down, and near the end the man holding the pen inserted his own name and his own greeting — and Paul let it stand in the letter. Tertius is Latin for \"Third,\" the kind of numeral name commonly given to slaves; \"Quartus\" — Fourth — is greeted in the next verse. The most important theological document ever written was physically written by a servant's hand."
+    },
+    {
+      "v": 23,
+      "text": "Gaius, my host and host of the whole assembly, greets you. Erastus, the treasurer of the city, greets you, as does Quartus, the brother.",
+      "understanding": "Gaius, probably the man Paul baptised in Corinth (1 Corinthians 1:14), has a house large enough for the whole assembly and a door open enough to keep an apostle in it. Erastus is oikonomos of the city, its public financial officer — and a first-century pavement uncovered at Corinth in 1929 carries the inscription of an Erastus who laid it at his own expense in return for his aedileship; the identification is debated but likely. Then, in the same breath, \"Quartus, the brother\" — a numeral name, probably a slave, with no title at all. The city treasurer and Quartus are listed in one sentence.",
+      "words": [
+        {
+          "strongs": "G3623",
+          "hebrew": "οἰκονόμος",
+          "translit": "oikonomos",
+          "english": "treasurer"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "The grace of our Lord Jesus Christ be with you all! Amen.",
+      "understanding": "The roll call closes the way the letter opened (1:7): grace. Paul began by speaking grace over people he had never met and ends by speaking grace over people he can now name one at a time. Everything in between — wrath, law, faith, the Spirit, election, living sacrifices, the weak and the strong — sits inside those two brackets of the same word."
+    },
+    {
+      "v": 25,
+      "text": "",
+      "understanding": "This verse number stands empty on purpose, and you deserve the honest reason. Your other Bible almost certainly prints a closing doxology here — “Now to him who is able to establish you...” at 16:25-27 — but the manuscript tradition behind this translation prints those three verses at the end of chapter 14 instead, and you have already studied them there, line by line, at 14:24-26. Nothing has been cut, softened, or hidden from you; the words are a few pages back. And they are taken up again in full in the commentary below, because wherever the numbering puts it, that doxology is how Romans ends."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Woman Carrying the Letter",
+      "verseRef": "v. 1-2",
+      "image": "A merchant ship works its way west out of Cenchreae, Corinth's eastern harbour, and a woman stands on the deck with a satchel she does not put down. Inside it is a roll of papyrus, still smelling of ink, on which a tentmaker has dictated and a scribe named Tertius has written down the sentences that will one day convert Augustine in a garden, unlock a monk's terror in Wittenberg, and warm a man's heart on Aldersgate Street. Weeks of sea and road. Then a rented room in Rome, oil lamps lit, a crowd of slaves and freedmen and returning Jewish exiles pressed together — and she unrolls it and it begins: “Paul, a servant of Jesus Christ...”",
+      "meaning": "God entrusted the deposit of the gospel's fullest statement to a private citizen of a port town whom nobody outside her church had heard of. She was not the author, and she does not need to be — she is the one who got it there. Before you ask God for a platform, ask whether you are trustworthy with a satchel. Most of the kingdom's most important work is carrying something faithfully that somebody else will get the credit for."
+    },
+    {
+      "title": "Two Necks on the Block",
+      "verseRef": "v. 3-4",
+      "image": "Picture the position the Greek actually describes: a body bent forward, the throat exposed, the neck laid down under the blade. Two tentmakers — a Jewish couple already once evicted from their home city by imperial decree — put themselves in that posture so that the man dictating this letter could keep breathing. Paul does not tell us the city, the mob, or the magistrate. He tells us only that they did it, and that he is alive because they did.",
+      "meaning": "Read verse 4 again and feel the arithmetic: “not only I give thanks, but also all the assemblies of the Gentiles.” Every Gentile congregation in the empire was standing on the courage of one couple on one bad night. You will never know, this side of eternity, how many futures are hanging on a risk you are being asked to take now. Some obedience only makes sense when you see the churches it kept alive."
+    },
+    {
+      "title": "The Holy Kiss in a Room That Should Not Have Existed",
+      "verseRef": "v. 16",
+      "image": "A cramped room in Rome. A slave out of Aristobulus's household stands beside a servant out of the house of Narcissus; a patroness wealthy enough to bankroll an apostle's travel stands beside a woman who scrubs somebody else's floors; a Jew who was thrown out of the city by Claudius stands beside the Gentile who inherited his seat while he was gone. Outside that door, Roman society had exact rules about who could touch whom. Inside it, they take each other by the shoulders and exchange the kiss families give.",
+      "meaning": "That greeting was a social scandal and a theological statement in one motion. Chapters 1–11 argued that there is no distinction — all have sinned, all are justified the same way, Jew and Gentile grafted into one tree. Verse 16 is that argument with lips on it. Doctrine you will not touch anybody with has not gone all the way down; the last inch of theology is always physical."
+    },
+    {
+      "title": "A Serpent's Head Under Ordinary Feet",
+      "verseRef": "v. 20",
+      "image": "Go back to a garden and a sentence spoken over a snake: he will bruise your head, and you will bruise his heel. One blow to a skull, one blow to a foot — and the whole Bible walks out of that sentence. Four thousand years pass. And now the promise reappears — not in a temple, not on a battlefield, but at the bottom of a letter, addressed to a house church of freedmen and slaves who own nothing and can be arrested at any hour. Under those feet. Those cracked, sandalled, unimportant feet.",
+      "meaning": "The crushing is God's work — “the God of peace WILL crush” — but the feet are yours. You do not defeat the serpent; you stand where the Head of the body already put him. And notice the title God wears for the job: the God of peace. Peace with God is never negotiated with the enemy of your soul; it is bought at his expense. Do not mistake a truce with sin for the peace of God."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Letter's Courier (v. 1-2)",
+        "body": "Phoebe of Cenchreae is formally commended — a diakonos of her church and a patroness of many, including Paul — and the Romans are told to receive her and back her in whatever she came to do."
+      },
+      {
+        "label": "The Roll Call of Rome (v. 3-16)",
+        "body": "Twenty-four people are greeted by name, plus Rufus's mother and Nereus's sister unnamed, plus two households and a house church — the concrete result of everything argued in chapters 1–15 — sealed with the command to greet one another with a holy kiss."
+      },
+      {
+        "label": "The Warning (v. 17-20)",
+        "body": "Mark and avoid those who manufacture divisions and traps contrary to the doctrine you were taught; they serve their own belly and take the innocent by flattery — be wise in good, innocent in evil, and the God of peace will shortly crush Satan under your feet."
+      },
+      {
+        "label": "The Room in Corinth (v. 21-24)",
+        "body": "Paul's companions send greetings — Timothy, Lucius, Jason, Sosipater — Tertius the scribe signs his own name, and Gaius the host, Erastus the city treasurer, and Quartus the brother are added; then grace."
+      },
+      {
+        "label": "The Closing Doxology (16:25-27, printed at 14:24-26 in this translation)",
+        "body": "To the God who is able to establish you according to the gospel and the revelation of the mystery hidden through long ages, now made known by the prophetic Scriptures to all the nations for obedience of faith — to the only wise God be glory forever through Jesus Christ."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Proof That the Theology Was Real: A Church With No Building and No Legal Standing That Knew Everybody's Name",
+        "paragraphs": [
+          "Do not skim this chapter. Romans 16 is the evidence that the previous fifteen chapters were not an essay. Justification by faith, the two Adams, no condemnation, the olive tree — all of it terminates here, in twenty-four names, two households, one house church, and two women whose names nobody wrote down. If chapters 1–11 are the argument, chapter 16 is the exhibit.",
+          "Look hard at who is on the list. At least ten of the people greeted or commended are women — Phoebe, Prisca, Mary, Junia, Tryphaena, Tryphosa, Persis, Julia, plus Rufus's mother and Nereus's sister — and four of them are commended specifically for labour: Mary “labored much,” Tryphaena and Tryphosa “labor in the Lord,” Persis “labored much in the Lord.” The verb, kopiaō, is the one Paul uses of his own apostolic toil. Then look at the names themselves: Ampliatus, Urbanus, Stachys, Tryphaena, Tryphosa, Persis, Hermes, Patrobas, Philologus, Julia, Nereus, Tertius, Quartus. These are the names that fill Roman inscriptions of slaves and freedmen, several of them attested in the burial records of the great imperial households. Paul greets two households — those “of Aristobulus” and “of Narcissus” — without greeting either master, which is exactly how you would write if the believers were the servants and the owners were not. The church in the capital of the world was largely composed of the people the capital of the world counted as property.",
+          "Now remember what this congregation had just lived through. Around AD 49 Claudius expelled the Jews from Rome — which is precisely how Paul met Prisca and Aquila in Corinth (Acts 18:2). For roughly five years the Roman house churches were Gentile churches. Then Claudius died, the edict lapsed, and Jewish believers came home to congregations that had reorganised without them, kept different days, and ate different food. That is the wound chapters 14 and 15 are operating on, and chapter 11's olive tree is the anaesthetic and the scalpel: you Gentile branches were grafted in, so do not boast against the natural branches. And here in chapter 16, Paul puts Prisca and Aquila — Jewish returnees — at the top of the list, with a Gentile church meeting in their house. The theology worked. The room proves it.",
+          "Be careful to keep what is known separate from what is inferred, because the truth of the truth requires the distinction. Known: Phoebe was a diakonos of the church at Cenchreae and a prostatis of many. Known: Prisca and Aquila were tentmakers, expelled from Rome, hosts of churches in two cities, and they risked their lives for Paul — the occasion is not recorded. Known: Junia is a woman's name and she and Andronicus were in Christ before Paul. Reasonably inferred: Rufus is the son of Simon of Cyrene, since Mark writes to Romans and names Alexander and Rufus as men his readers know. Reasonably inferred: the household of Aristobulus is the Herodian estate, since Herodion — “of Herod” — is greeted in the very next line. Plausible but unproven: Narcissus is Claudius's powerful freedman secretary, forced to his death soon after Nero took the throne, whose slaves would then have passed to the emperor while still bearing his name. State the certainties as certainties and the inferences as inferences, and the chapter loses none of its power — it gains credibility."
+        ]
+      },
+      {
+        "heading": "The Warning That Interrupts the Greetings — and Why It Belongs Exactly Here",
+        "paragraphs": [
+          "The change of tone in verse 17 is violent. One line earlier Paul is arranging kisses; now he is naming a threat. That is not a mood swing — it is a pastor's instinct. He has just described a body of people bound together across every social fault line in the empire, and he knows precisely what the enemy will attack: the seams. The two words are dichostasia, standings-apart, factions, and skandala, the trigger-sticks of traps — the very word standing behind “an occasion for falling” in 14:13, where Paul told the strong to lay no trap in a weak brother's path. Somebody will show up in Rome to reopen the wound the letter just closed.",
+          "Notice the standard Paul gives them for identifying these people: “contrary to the doctrine which you learned.” Not contrary to your preference, your culture, or your comfort — contrary to teaching. That is why Romans 1–15 has to precede Romans 16:17. You cannot mark a false teacher if you do not know the true doctrine; discernment is not a spiritual mood, it is doctrine held so firmly that a counterfeit feels wrong in your hands. And his instruction is startlingly unspiritual in its simplicity: turn away. Not “dialogue until you are worn down.” Swerve. There are conversations you are not required to keep having.",
+          "Then Paul exposes the engine: “those who are such don’t serve our Lord, Jesus Christ, but their own belly.” This is the same verdict as Philippians 3:19 — whose god is the belly. The belly is not merely gluttony; it is the appetite-driven self, ministry organised around what the minister wants to be fed. Money, applause, access, a following, a platform, a bed. It is possible to preach precisely correct sentences in the service of an appetite. And the method is “smooth and flattering speech” — chrēstologia, plausible, pleasant, easy-listening words, plus eulogia, fine speaking. False teaching rarely arrives sounding harsh. It arrives sounding kind, agreeable, and complimentary about you.",
+          "Now the sentence that should make you sit up: “they deceive the hearts of the innocent.” The victims here are the akakoi — the not-bad, the unsuspecting. Their goodness is what makes them reachable. That is why Paul's remedy in verse 19 is not “get cynical” but a deliberately lopsided education: sophos — wise, skilled, expert — in what is good, and akeraios — unmixed, with nothing foreign stirred in — regarding evil. Jesus prescribed the same divided curriculum in Matthew 10:16, and the second word there is precisely this one: akeraioi, harmless as doves. The first word Jesus uses is its close cousin, phronimoi — shrewd, sagacious — wise as serpents. Innocence without shrewdness gets eaten; shrewdness without innocence becomes the thing it was defending against. You need both edges on the same blade.",
+          "And then the promise, dropped like a hammer: “the God of peace will quickly crush Satan under your feet.” That is Genesis 3:15 arriving at its address. The verb syntribō means to shatter. The timing is en tachei — shortly, swiftly, without long delay once God moves. And the location is “under YOUR feet,” because a body cannot be separated from its Head: what Christ did to the serpent at the cross is applied to the ground under an ordinary believer's sandals. The deceivers of verse 18 are not merely bad teachers; they are a serpent's tactic, and the tactic has an expiry date."
+        ]
+      },
+      {
+        "heading": "The Mystery, and the Bookends of the Whole Letter",
+        "paragraphs": [
+          "The letter ends on its knees. In this translation the closing doxology is printed at the end of chapter 14 — the manuscript tradition behind the World English Bible places it there — but its home in most Bibles, and its function, is here at 16:25-27: “Now to him who is able to establish you according to my Good News and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret through long ages, but now is revealed, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known for obedience of faith to all the nations; to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.”",
+          "Feel the bookends snap shut. In 1:5 Paul said he received grace and apostleship “for obedience of faith among all the nations.” The doxology closes with the mystery “made known for obedience of faith to all the nations.” Sixteen chapters of the deepest reasoning in Scripture open and close on the same four words — obedience of faith. Not obedience instead of faith, and not faith that never reaches the hands. The whole letter is bracketed by a faith that obeys.",
+          "Then feel the second bookend, and it is a humbling one. In 1:11 Paul wrote, “I long to see you, that I may impart to you some spiritual gift, to the end that you may be established.” The verb is stērizō — to set a thing fast so it cannot be shifted. He wanted to come and establish them. And the last thing he writes is: “to him who is ABLE to establish you.” Paul spent an entire letter and a lifetime of travel trying to steady the churches, and at the end he lays the whole weight on God, where it always belonged. Note too what God establishes people by: “according to my Good News.” You are not stabilised by new information; you are stabilised by the gospel you already have, driven deeper.",
+          "And the mystery, mystērion, is not a riddle God is withholding. It is a plan He kept in silence through long ages and has now published openly — and here is the paradox Paul states in one breath: it was hidden, yet it is made known “by the Scriptures of the prophets.” It was written on the page all along and could not be read until Christ turned it over. What is the mystery? Ephesians 3:6 spells it out: that the Gentiles are fellow heirs and fellow members of the body. Which means the doxology is not an abstract flourish. It is the caption under the photograph you have just been looking at. Read the doxology, then read the names again: a Jewish couple back from exile, a Roman patroness, slaves out of two pagan mansions, a city treasurer, two sisters named Dainty and Delicate, and a man called Fourth. That list IS the mystery, revealed."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Trace two of these names forward and the New Testament closes a circle. Around AD 57 Paul writes from Corinth, “Greet Prisca and Aquila, my fellow workers in Christ Jesus, who for my life, laid down their own necks.” Roughly a decade later, in a Roman cell, cold, deserted by Demas, asking for his cloak and his parchments, Paul writes the last letter of his life — and in 2 Timothy 4:19 he sends greetings once again to Prisca and Aquila. One verse later he mentions that Erastus stayed at Corinth (2 Timothy 4:20). Ten years of prisons, shipwrecks, riots and betrayals, and those two are still on the list. Romans 16 is not a snapshot of a moment's enthusiasm; it is the beginning of friendships that outlasted everything Rome could do to them.",
+        "Then trace the mystery forward. The doxology declares “the revelation of the mystery which has been kept secret through long ages” but is now made known “to all the nations.” Paul defines that mystery precisely in Ephesians 3:4-6: that in earlier generations it was not made known, but has now been revealed — that the Gentiles are fellow heirs, fellow members of the body, and fellow partakers of the promise in Christ Jesus through the Good News. Colossians 1:26-27 says the same thing with the accent on the indwelling: the mystery hidden for ages and generations but now revealed to his saints, “which is Christ in you, the hope of glory.” Put those three passages together and Romans 16 stops being an address book. Every Greek slave name, every Latin numeral name, every household of an unbelieving pagan master with believers hidden inside it, is a paragraph of Ephesians 3 with a heartbeat. The mystery hidden since before the ages had an address in Rome, and Paul knew the names of the people living at it."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Servant / Deacon",
+      "hebrew": "διάκονος",
+      "translit": "diakonos",
+      "strongs": "G1249",
+      "verses": "v. 1",
+      "insight": "An attendant, a waiter at table, one who runs on another's errands — and by extension a recognised minister of a congregation. This is not a decorative compliment: it is the same word Paul applies to himself and Apollos in 1 Corinthians 3:5, to Tychicus, and to Christ himself in Romans 15:8. And it is tied to a specific local church — “diakonos of the assembly that is at Cenchreae” — which points to a real, recognised, ongoing role rather than a vague kindness. How formal the office was is not spelled out here, and honesty says so. What is unmistakable is the shape of the word: greatness in this kingdom is measured in errands run and tables waited. Phoebe's title is a job description, and the job is service."
+    },
+    {
+      "english": "Fellow Worker",
+      "hebrew": "συνεργός",
+      "translit": "synergos",
+      "strongs": "G4904",
+      "verses": "v. 3, 9, 21",
+      "insight": "Literally a co-labourer — syn (together with) plus the root of ergon (work). It is the word behind “synergy.” Paul, who could have written “my helpers,” writes “my fellow workers,” and in verse 9 upgrades it further to “OUR fellow worker.” A tentmaking couple, a man with a slave's name, and young Timothy are all placed on the same line as the apostle in the work. The gospel has no auxiliary tier. If you are in the work, you are not assisting the ministry — you are the ministry, and heaven files your name in the same column as Paul's."
+    },
+    {
+      "english": "Divisions",
+      "hebrew": "διχοστασία",
+      "translit": "dichostasia",
+      "strongs": "G1370",
+      "verses": "v. 17",
+      "insight": "Built from dis (twice, in two) and stasis (a standing) — literally a standing-apart, two camps where there was one body. Paul lists it among the works of the flesh in Galatians 5:20. Read verse 17 slowly: Paul does not say watch out for divisions; he says watch out for the people who are MAKING them. Division in a church is rarely weather; usually it has a name and a mouth. And the diagnostic is doctrinal — “contrary to the doctrine which you learned” — because factions built on personality still need a doctrinal crowbar to pry a body apart."
+    },
+    {
+      "english": "Crush",
+      "hebrew": "συντρίβω",
+      "translit": "syntribō",
+      "strongs": "G4937",
+      "verses": "v. 20",
+      "insight": "To crush completely, to shatter, to break in pieces — the word used of the alabaster jar broken open in Mark 14:3 and of the iron fetters on the demon-possessed man among the tombs in Mark 5:4 — the chains he tore apart are a different verb; the shackles he broke to pieces are this one. It is not a bruise and it is not a warning shot. This is Genesis 3:15 fulfilled and applied: the serpent's head shattered, and shattered “under YOUR feet.” Note who does it — the God of PEACE. Peace with God is not a negotiated settlement with the enemy; it is purchased by his destruction. And note the timing — en tachei, quickly, swiftly. To a congregation of slaves who could be arrested tomorrow, the promise was not that the war was easy but that it was short."
+    },
+    {
+      "english": "Mystery",
+      "hebrew": "μυστήριον",
+      "translit": "mystērion",
+      "strongs": "G3466",
+      "verses": "closing doxology (16:25-27; printed at 14:24-26 here)",
+      "insight": "A secret — from a root meaning to shut the mouth. In pagan religion a mystērion was knowledge reserved for initiates who paid and swore. Paul detonates the word: God's mystery was kept in silence through long ages and is NOW published to all the nations, by the writings of the prophets, at the command of the eternal God. No fee, no initiation, no inner circle — and no elite, since the people it was published to in Rome were mostly slaves. Paired with it in the same sentence is stērizō (G4741, στηρίζω), to set fast so a thing cannot be shifted — the very word of Romans 1:11, where Paul longed to come and establish them. He opens wanting to steady them; he closes confessing that only God is able. You are established by the gospel you already have, not by a secret you have not been told."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with whether your faith has produced actual people, whether you can tell the difference between a servant of Christ and a servant of an appetite, and where you are looking for the strength to stand.",
+    "items": [
+      {
+        "title": "Does Your Theology Have Names In It?",
+        "body": "Fifteen chapters about righteousness, wrath, faith, the Spirit and election end in a list of people who owed Paul nothing and whom he could name one at a time — including the ones who were only somebody's mother, or somebody's sister, or a slave in an unbeliever's house. He knew who wore themselves out. He knew who had been tested in the fire. He knew whose neck went under the blade for him. So here is the audit the Spirit is making you take: if you wrote your own Romans 16 tonight, how long would the list be, and would the names be accurate — not the people you follow, the people you carry and are carried by? And the sharper question underneath it: whose Romans 16 are you on? Is there anyone who would write your name and be able to say what you laboured at?"
+      },
+      {
+        "title": "The Belly Behind the Smooth Voice",
+        "body": "“For those who are such don’t serve our Lord, Jesus Christ, but their own belly; and by their smooth and flattering speech, they deceive the hearts of the innocent.” Turn that on yourself before you turn it on anybody else. What appetite is your serving actually feeding — hunger for God, or hunger to be needed, praised, respected, followed, paid? You can preach true things for a belly. Then turn it outward, because Paul commands you to: is there a voice in your life — a teacher, a friend, a feed you scroll, a relationship — that is pleasant, flattering, endlessly agreeable, and quietly bending you away from what you were taught? Paul does not tell you to argue with it. He tells you to swerve. What would it cost you to turn away from it this week — and is that cost the reason you have not?"
+      },
+      {
+        "title": "Under Your Feet, and Held By His Hand",
+        "body": "You are living between two verbs. God will crush Satan under your feet, and God is able to establish you. That means neither your victory nor your stability is generated by you. If you have been fighting a habit as though the outcome depended on the ferocity of your grip, hear the grammar of verse 20: the God of PEACE does the crushing; the ground under your feet is the only part that is yours. And if you have been terrified that you will drift, fail, and finally fall away, hear the doxology: He is ABLE to establish you — stērizō, to fix a thing so it cannot be moved — and the instrument He uses is the very gospel you have just spent sixteen chapters reading. So which are you actually trusting today: the strength of your resolve, or the God who is able? And what would change in the next twenty-four hours if you truly believed the war was already short?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Roll Call Audit",
+        "body": "Try to write ten names of people in the body of Christ you could describe the way Paul describes his — what they laboured at, what it cost them, what they risked. If you cannot get past three, the problem is not your memory; it is that your faith has been mostly private. Doctrine that produces no roll call has not yet produced a life."
+      },
+      {
+        "title": "The Belly Check",
+        "body": "Take the last three things you did “for God” and ask what would have changed if nobody had ever known you did them. If the honest answer is “I would not have done it,” then something with a stomach was steering, and Paul has a word for it — name it, confess it, and do the next thing invisibly."
+      },
+      {
+        "title": "The Flattery Test",
+        "body": "Who in your life can no longer tell you the truth because you enjoy their approval too much? And who has told you a hard thing recently that you dismissed because they said it badly? Verse 18 says the innocent are deceived by smooth speech — so the voice you find hardest to hear may be the one keeping you alive."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Writing Your Own Chapter 16",
+        "body": "Tonight, take a sheet of paper and write “Greet...” at the top. List every believer who has actually shaped, carried, corrected or covered you — name them, and beside each name write in Paul's style what is true of them: who laid down a neck for you, who laboured much, who was approved in the fire, who is a mother to you. Do not stop at five. Then choose three, and before the week ends send each of them exactly what you wrote beside their name. Most people die without ever being told."
+      },
+      {
+        "title": "Marking and Swerving",
+        "body": "Name one specific voice — a channel, an account, a conversation, a friendship, a habit of listening — that is pleasant to you and is teaching you something contrary to the doctrine you learned in this book. This week, do the unspiritual, simple thing Paul commands: turn away. Unfollow it, decline the standing invitation, leave the group. Then fill the hole immediately — use that same slot to read Romans 8 and Romans 12 aloud, standing up, until the true doctrine is louder in your ears than the smooth one was."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, God of peace, I have walked through sixteen chapters of Your Word and I do not want to close it holding only an argument. Make my faith produce people. Thank You for the Phoebes who carried what they did not write, for the Priscas and Aquilas who laid down their necks so that others could hear, for the Marys who laboured much and were never thanked, and for the mothers who mothered men who had lost their families for Your name. Make me that kind of believer — a fellow worker, not a spectator; a servant of the assembly, not a consumer of it. Search me, Lord, and show me the belly I have been serving while I called it ministry. Where I have wanted to be praised more than I wanted You to be glorified, I repent. Guard me from smooth and flattering speech, and give me the divided wisdom You command: wise in everything good, and unmixed — innocent, untaught, uninterested — in what is evil. Where a voice is bending me away from the doctrine I have learned, give me the courage to simply turn away. And Lord, I take You at Your word: You are the God of peace who will quickly crush Satan under my feet. I do not crush him; You do — and I stand where You have already put him. Now to You who are able to establish me according to the Good News and the preaching of Jesus Christ — not according to my resolve, my record, or my feelings — establish me. The mystery hidden through long ages has been made known to me, and I answer it the only way it can be answered: with the obedience of faith. To the only wise God, through Jesus Christ, be the glory forever. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Tentmakers Who Kept Turning Up",
+      "ref": "Acts 18:1-4, 18-19, 24-26",
+      "relatedVerses": "v. 3-5",
+      "summary": "Paul came to Corinth alone and broke, and found a Jewish couple newly evicted from Rome by Claudius's edict — Aquila of Pontus and his wife Priscilla — who made tents for a living just as he did. He moved in and worked beside them, and when he sailed for Syria they went with him and settled in Ephesus. There they heard a brilliant, fervent Alexandrian named Apollos preaching accurately but incompletely, and instead of humiliating him in public they took him aside privately and explained the way of God more accurately — and the man they discipled in a back room went on to water what Paul had planted. Now the edict has lapsed, they are back in Rome, and there is a church meeting in their house again. Wherever these two land, a congregation appears in their living room. Some people build ministries; some people just open a door and keep opening it, and the kingdom keeps walking through. You may never plant a church or preach a sermon. You have a door, a table, and a trade — and that is precisely what these two had."
+    },
+    {
+      "title": "The Man Who Carried the Cross, and the Sons Who Carried His Name",
+      "ref": "Mark 15:21",
+      "relatedVerses": "v. 13",
+      "summary": "A farmer from Cyrene walked into Jerusalem on the worst morning in history and was seized by Roman soldiers to carry the crossbeam of a condemned Galilean. Mark, writing for readers in Rome, does not merely name him — he identifies him as “the father of Alexander and Rufus,” as though his readers would recognise the sons. Here in Romans 16:13, in Rome, Paul greets a Rufus “the chosen in the Lord, and his mother and mine.” The identification is an inference, not a proof — but if it is right, then the wood forced onto a stranger's shoulders in the street became a household of faith in the capital of the empire, and the widow of the man who carried Christ's cross became a mother to the apostle who preached it. What was laid on Simon against his will, God turned into a family. Look again at the weight you did not choose and are still carrying: God has made households out of exactly that."
+    },
+    {
+      "title": "The First Promise, Delivered to a Rented Room",
+      "ref": "Genesis 3:15",
+      "relatedVerses": "v. 20",
+      "summary": "In the ruins of Eden, before a single sacrifice had been offered or a single prophet born, God turned to the serpent and made the first promise in Scripture: the offspring of the woman would bruise his head, and he would bruise the heel. Paul's Greek in verse 20 sharpens the blow — syntribō, shattered to pieces. Every page after it is that promise working its way toward a hill outside Jerusalem, where the heel was struck and the head was broken. And here, at the end of the letter that explains the whole thing, the promise is handed to a group of slaves, freedmen and refugees crowded into rented rooms in Rome: the God of peace will quickly crush Satan under YOUR feet. The oldest promise in the Bible is not addressed only to heroes and prophets. It is addressed to the church — to whoever is joined to the Seed — and it names the ground under your own feet as the place where it gets finished."
+    }
+  ]
+}

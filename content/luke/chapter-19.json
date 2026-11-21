@@ -1,0 +1,555 @@
+{
+  "type": "chapterStudy",
+  "book": "Luke",
+  "chapter": 19,
+  "chapterTitle": "The Son of Man Seeks the Lost and Weeps Over the Blind",
+  "themeTitle": "“He Came to Seek and to Save That Which Was Lost”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "He entered and was passing through Jericho.",
+      "understanding": "Jesus enters Jericho, the ancient city of the curse (Joshua 6), on His final climb toward Jerusalem and the cross. He is only “passing through” — but for one man in this town, He is about to stop the whole procession."
+    },
+    {
+      "v": 2,
+      "text": "There was a man named Zacchaeus. He was a chief tax collector, and he was rich.",
+      "understanding": "Zacchaeus is introduced with three strikes against him: a chief tax collector who has grown rich by collaborating with Rome and squeezing his own people. The crowd sees a traitor; Jesus sees a lost son of Abraham. His name, ironically, means “pure one.”",
+      "words": [
+        {
+          "strongs": "G754",
+          "hebrew": "ἀρχιτελώνης",
+          "translit": "architelṓnēs",
+          "english": "chief tax collector"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "He was trying to see who Jesus was, and couldn’t because of the crowd, because he was short.",
+      "understanding": "His problem is stated plainly: he is seeking to see who Jesus is, but the crowd and his own small stature block him. His hunger is real; the obstacles are real. Long before Jesus seeks him, this man is already straining to see.",
+      "words": [
+        {
+          "strongs": "G2212",
+          "hebrew": "ζητέω",
+          "translit": "zētéō",
+          "english": "was seeking (to see)"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "He ran on ahead, and climbed up into a sycamore tree to see him, for he was going to pass that way.",
+      "understanding": "A wealthy, dignified official abandons all his dignity — he runs like a child and climbs a tree. Desperation to see Jesus made him look foolish, and that is exactly the posture grace loves to honor."
+    },
+    {
+      "v": 5,
+      "text": "When Jesus came to the place, he looked up and saw him, and said to him, “Zacchaeus, hurry and come down, for today I must stay at your house.”",
+      "understanding": "Jesus stops, looks up, and calls him by name before a single word is exchanged. “Today” and “I must” announce a divine appointment: the seeking sinner discovers that he was being sought first."
+    },
+    {
+      "v": 6,
+      "text": "He hurried, came down, and received him joyfully.",
+      "understanding": "Zacchaeus obeys instantly and welcomes Jesus with joy — the Lukan signature note that joy is the native atmosphere of salvation. There is no bargaining, only glad surrender."
+    },
+    {
+      "v": 7,
+      "text": "When they saw it, they all murmured, saying, “He has gone in to lodge with a man who is a sinner.”",
+      "understanding": "The crowd murmurs. Jesus’ choice of dinner table scandalizes the respectable — He goes home with a “sinner.” Mercy, wherever it lands, always offends the self-righteous who think they have earned their seat.",
+      "words": [
+        {
+          "strongs": "G1234",
+          "hebrew": "διαγογγύζω",
+          "translit": "diagongýzō",
+          "english": "murmured"
+        },
+        {
+          "strongs": "G268",
+          "hebrew": "ἁμαρτωλός",
+          "translit": "hamartōlós",
+          "english": "sinner"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.”",
+      "understanding": "Standing — a public, decisive, courtroom posture — Zacchaeus pledges half his wealth to the poor and fourfold restitution, going beyond even the Law’s demand. Genuine repentance shows up in the wallet and the ledger, not just the feelings.",
+      "words": [
+        {
+          "strongs": "G4434",
+          "hebrew": "πτωχός",
+          "translit": "ptōchós",
+          "english": "poor"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham.",
+      "understanding": "Jesus announces that salvation has arrived “today” to this house. Zacchaeus, despised as a Roman collaborator, is publicly reclaimed as a true “son of Abraham” — sonship proven by faith and repentance, not merely by bloodline.",
+      "words": [
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "salvation"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For the Son of Man came to seek and to save that which was lost.”",
+      "understanding": "The theme verse of the entire Gospel of Luke. The mission of the Son of Man is defined in one line: to seek and to save the lost. Zacchaeus in his tree is the living proof — the Shepherd went and found the one sheep.",
+      "words": [
+        {
+          "strongs": "G2212",
+          "hebrew": "ζητέω",
+          "translit": "zētéō",
+          "english": "to seek"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "to save"
+        },
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "that which was lost"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "As they heard these things, he went on and told a parable, because he was near Jerusalem, and they supposed that God’s Kingdom would be revealed immediately.",
+      "understanding": "Because the crowd expects the Kingdom to arrive instantly the moment Jesus reaches Jerusalem, He tells a parable to correct their timing. The King will first go away, and only then return in power."
+    },
+    {
+      "v": 12,
+      "text": "He said therefore, “A certain nobleman went into a far country to receive for himself a kingdom, and to return.",
+      "understanding": "The nobleman going to a far country to be crowned mirrors Jesus’ ascension and future return. It also echoed real history: Herodian princes literally sailed to Rome to have their kingship confirmed by Caesar."
+    },
+    {
+      "v": 13,
+      "text": "He called ten servants of his, and gave them ten mina coins, and told them, ‘Conduct business until I come.’",
+      "understanding": "Ten servants each receive one mina (about three months’ wages) with one identical command: “Conduct business until I come.” Equal trust, equal charge — the King entrusts His resources to be traded, not hoarded, in the season of His absence.",
+      "words": [
+        {
+          "strongs": "G3414",
+          "hebrew": "μνᾶ",
+          "translit": "mnâ",
+          "english": "mina"
+        },
+        {
+          "strongs": "G4231",
+          "hebrew": "πραγματεύομαι",
+          "translit": "pragmateúomai",
+          "english": "conduct business"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "But his citizens hated him, and sent an envoy after him, saying, ‘We don’t want this man to reign over us.’",
+      "understanding": "The citizens’ rejection — “We don’t want this man to reign over us” — is the naked cry of Jerusalem and of the whole world against the kingship of Christ. It is the very refusal Jesus is about to weep over in verse 41."
+    },
+    {
+      "v": 15,
+      "text": "“When he had come back again, having received the kingdom, he commanded these servants, to whom he had given the money, to be called to him, that he might know what they had gained by conducting business.",
+      "understanding": "The King returns having received the kingdom, and immediately calls for an accounting. His return is certain, and so is the reckoning. Every servant will give an account of what he did with what he was given."
+    },
+    {
+      "v": 16,
+      "text": "The first came before him, saying, ‘Lord, your mina has made ten more minas.’",
+      "understanding": "The first servant reports a tenfold gain. Notice the humility: the mina itself “has made” the increase — he takes no credit. Grace put to work multiplies far beyond what was deposited."
+    },
+    {
+      "v": 17,
+      "text": "“He said to him, ‘Well done, you good servant! Because you were found faithful with very little, you shall have authority over ten cities.’",
+      "understanding": "The reward for faithfulness is not retirement but enlarged responsibility — authority over ten cities. Faithfulness with “very little” is the entrance exam for reigning with the King over much."
+    },
+    {
+      "v": 18,
+      "text": "“The second came, saying, ‘Your mina, Lord, has made five minas.’",
+      "understanding": "The second servant reports a fivefold gain from the same starting mina. Different yields, same faithfulness — the King measures obedience, not merely the raw number."
+    },
+    {
+      "v": 19,
+      "text": "“So he said to him, ‘And you are to be over five cities.’",
+      "understanding": "His reward is proportionate — authority over five cities. The King rewards each servant according to what he actually did with what he was actually given."
+    },
+    {
+      "v": 20,
+      "text": "Another came, saying, ‘Lord, behold, your mina, which I kept laid away in a handkerchief,",
+      "understanding": "The third servant returns the mina wrapped and hidden in a handkerchief — preserved, but never risked, never used. Nothing was lost; but nothing was gained, and to the King that is the loss."
+    },
+    {
+      "v": 21,
+      "text": "for I feared you, because you are an exacting man. You take up that which you didn’t lay down, and reap that which you didn’t sow.’",
+      "understanding": "His excuse is fear rooted in a distorted picture of the master as harsh and grasping. A wrong image of the King paralyzed his hands — the way we see God’s heart determines whether we invest or bury."
+    },
+    {
+      "v": 22,
+      "text": "“He said to him, ‘Out of your own mouth will I judge you, you wicked servant! You knew that I am an exacting man, taking up that which I didn’t lay down, and reaping that which I didn’t sow.",
+      "understanding": "The King judges him by his own words. Even if the servant’s fearful view had been true, it should have driven him to act with urgency, not to freeze. Fear that produces nothing is exposed as a wicked excuse."
+    },
+    {
+      "v": 23,
+      "text": "Then why didn’t you deposit my money in the bank, and at my coming, I might have earned interest on it?’",
+      "understanding": "At the very least, he could have placed the money in the bank to earn interest with no effort of his own. Passive fear is inexcusable when even the smallest step of obedience was available."
+    },
+    {
+      "v": 24,
+      "text": "He said to those who stood by, ‘Take the mina away from him, and give it to him who has the ten minas.’",
+      "understanding": "The unused mina is stripped from the burier and handed to the most productive servant. In the Kingdom, entrusted grace that lies dormant is reassigned to hands that will use it."
+    },
+    {
+      "v": 25,
+      "text": "“They said to him, ‘Lord, he has ten minas!’",
+      "understanding": "The bystanders protest the apparent unfairness — “but he already has ten!” Human accounting cries “inequality,” yet the King’s logic runs on fruitfulness, not on evening out the totals."
+    },
+    {
+      "v": 26,
+      "text": "‘For I tell you that to everyone who has, will more be given; but from him who doesn’t have, even that which he has will be taken away from him.",
+      "understanding": "The Kingdom principle stated bluntly: to those who put grace to work, more is entrusted; from those who bury it, even what they held atrophies and is lost. There is no neutral, static middle ground with God’s gifts."
+    },
+    {
+      "v": 27,
+      "text": "But bring those enemies of mine who didn’t want me to reign over them here, and kill them before me.’”",
+      "understanding": "The parable ends in stark judgment on the rebels who refused the King’s reign. It is a sobering, deliberate warning: to reject the kingship of Christ is not a small preference — it is fatal rebellion against the returning King."
+    },
+    {
+      "v": 28,
+      "text": "Having said these things, he went on ahead, going up to Jerusalem.",
+      "understanding": "The long travel narrative that began in Luke 9:51 reaches its destination. Jesus deliberately presses on and “up” to Jerusalem — walking, eyes open, straight toward the cross."
+    },
+    {
+      "v": 29,
+      "text": "When he came near to Bethsphage and Bethany, at the mountain that is called Olivet, he sent two of his disciples,",
+      "understanding": "On the Mount of Olives — the very place prophecy tied to the coming of the Lord (Zechariah 14:4) — Jesus sends two disciples on a precise errand. He is not swept up in events; He is orchestrating His own coronation."
+    },
+    {
+      "v": 30,
+      "text": "saying, “Go your way into the village on the other side, in which, as you enter, you will find a colt tied, which no man had ever sat upon. Untie it, and bring it.",
+      "understanding": "He describes exactly a colt that no one has ever ridden — an animal fit for sacred, kingly use. His supernatural knowledge and His deliberate fulfillment of Zechariah 9:9 are on full display."
+    },
+    {
+      "v": 31,
+      "text": "If anyone asks you, ‘Why are you untying it?’ say to him: ‘The Lord needs it.’”",
+      "understanding": "The single password — “The Lord needs it” — asserts His kingly right to requisition. The King who owns everything condescends to “need” a borrowed colt, and an untamed animal will carry Him without resistance."
+    },
+    {
+      "v": 32,
+      "text": "Those who were sent went away, and found things just as he had told them.",
+      "understanding": "Everything unfolds precisely as Jesus foretold. The detail is not incidental — Luke wants Theophilus to see a King whose word governs even the small hidden particulars of the day."
+    },
+    {
+      "v": 33,
+      "text": "As they were untying the colt, its owners said to them, “Why are you untying the colt?”",
+      "understanding": "The owners challenge the disciples exactly as Jesus predicted they would. His foreknowledge is confirmed down to the very question that would be asked."
+    },
+    {
+      "v": 34,
+      "text": "They said, “The Lord needs it.”",
+      "understanding": "The disciples answer with the King’s word, and it is enough. The authority is not in them but in the name of the One who sent them."
+    },
+    {
+      "v": 35,
+      "text": "They brought it to Jesus. They threw their cloaks on the colt, and set Jesus on them.",
+      "understanding": "The disciples drape their own cloaks over the colt as a makeshift royal saddle and lift Jesus onto it. It is an act of homage — crowning the King with what they had."
+    },
+    {
+      "v": 36,
+      "text": "As he went, they spread their cloaks on the road.",
+      "understanding": "Spreading garments on the road is the ancient red-carpet welcome of a king (2 Kings 9:13). The people are enthroning Him in the street, whether they fully understand it or not."
+    },
+    {
+      "v": 37,
+      "text": "As he was now getting near, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen,",
+      "understanding": "The whole crowd of disciples erupts in loud, unrestrained joy and praise for everything they have witnessed. This is Luke’s crescendo of praise — the joy of salvation now spills into a public roar of worship."
+    },
+    {
+      "v": 38,
+      "text": "saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven, and glory in the highest!”",
+      "understanding": "They quote Psalm 118:26, hailing Jesus outright as the coming King. “Peace in heaven, and glory in the highest” deliberately echoes the angels’ song at His birth (Luke 2:14) — the story has come full circle."
+    },
+    {
+      "v": 39,
+      "text": "Some of the Pharisees from the multitude said to him, “Teacher, rebuke your disciples!”",
+      "understanding": "The Pharisees demand that Jesus silence the worship. The religious establishment recoils from unrestrained, kingly praise of Him — the messianic titles are more than they can stomach."
+    },
+    {
+      "v": 40,
+      "text": "He answered them, “I tell you that if these were silent, the stones would cry out.”",
+      "understanding": "Jesus declares that if the people fell silent, the very stones would cry out. This worship is not optional or excessive — creation itself is obligated to acknowledge its King, and one day the stones of this doomed city will bear witness against it.",
+      "words": [
+        {
+          "strongs": "G3037",
+          "hebrew": "λίθος",
+          "translit": "líthos",
+          "english": "stones"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "text": "When he came near, he saw the city and wept over it,",
+      "understanding": "At the crest of the road, in the middle of the shouting, the King sees the city and weeps aloud. These are not tears of triumph but of grief — the Savior who came to seek and save now openly sobs over the one He is losing.",
+      "words": [
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "wept"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "text": "saying, “If you, even you, had known today the things which belong to your peace! But now, they are hidden from your eyes.",
+      "understanding": "His broken lament: “If you had known the things that make for your peace.” The city bears the name of peace (Jeru-salem) yet is blind to the Prince of Peace standing in its gate. The offer was real; the refusal is now sealing their eyes.",
+      "words": [
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "text": "For the days will come on you, when your enemies will throw up a barricade against you, surround you, hem you in on every side,",
+      "understanding": "He prophesies the siege in vivid detail — enemies building a barricade, encircling, hemming in on every side. This was fulfilled with terrible precision when Rome besieged Jerusalem in AD 70."
+    },
+    {
+      "v": 44,
+      "text": "and will dash you and your children within you to the ground. They will not leave in you one stone on another, because you didn’t know the time of your visitation.”",
+      "understanding": "The verdict and its reason: not one stone will be left on another — the same stones of verse 40 — “because you didn’t know the time of your visitation.” God Himself had come to visit His people, and they slept through the day of His coming.",
+      "words": [
+        {
+          "strongs": "G1984",
+          "hebrew": "ἐπισκοπή",
+          "translit": "episkopḗ",
+          "english": "visitation"
+        },
+        {
+          "strongs": "G3037",
+          "hebrew": "λίθος",
+          "translit": "líthos",
+          "english": "stone"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "text": "He entered into the temple, and began to drive out those who bought and sold in it,",
+      "understanding": "Straight from weeping over the city, the King enters the temple and begins driving out the merchants. His grief and His holy anger are not opposites — both flow from a love that will not tolerate His Father’s house being defiled."
+    },
+    {
+      "v": 46,
+      "text": "saying to them, “It is written, ‘My house is a house of prayer,’ but you have made it a ‘den of robbers’!”",
+      "understanding": "He fuses Isaiah 56:7 and Jeremiah 7:11: the house meant to be a place of prayer for all nations had become a hideout for thieves. Worship had been swallowed by profiteering, and the King cleanses it with Scripture in His mouth."
+    },
+    {
+      "v": 47,
+      "text": "He was teaching daily in the temple, but the chief priests and the scribes and the leading men among the people sought to destroy him.",
+      "understanding": "Jesus teaches daily in the cleansed temple while the religious leaders plot His death. Light and murderous darkness now occupy the same courts — the same building holds the Word of God and the conspiracy against Him."
+    },
+    {
+      "v": 48,
+      "text": "They couldn’t find what they might do, for all the people hung on to every word that he said.",
+      "understanding": "The leaders are unable to strike because the people hang on His every word. His teaching itself becomes His shield — the crowd’s hunger protects Him until His appointed hour has come."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Rich Man Up a Tree",
+      "verseRef": "v. 3-4",
+      "image": "Picture the wealthiest man in Jericho — the chief tax collector, the one everyone bows to and quietly hates — hiking up his expensive robes and sprinting down the road like a boy chasing a parade. He shoves through no one; he cannot, he is too short. So he runs ahead of the whole crowd, spots a broad-limbed sycamore-fig, and climbs. Now the most powerful man in town is perched in a tree, dangling among the leaves, all his dignity left in the dust below, just to catch one glimpse of a passing Galilean.",
+      "meaning": "Zacchaeus had money, power, and status — and none of it could get him to Jesus. His height, his wealth-built reputation, and the crowd that despised him were all walls between him and the One he longed to see. The tree is what desperation looks like: a man who will trade his pride for a single sightline. Grace does not despise that undignified hunger; it climbs right up to it and calls it by name."
+    },
+    {
+      "title": "Today I Must Stay at Your House",
+      "verseRef": "v. 5-6",
+      "image": "Jesus reaches the spot beneath the tree, and the whole procession stops. He tilts His head back, looks up through the branches into the eyes of a man nobody would name in polite company, and He says the name anyway: “Zacchaeus.” Not “tax collector.” Not “sinner.” The name his mother gave him. “Hurry and come down, for today I must stay at your house.” And the rich man scrambles down out of that tree and receives Him with a joy that has waited a lifetime.",
+      "meaning": "Zacchaeus went out to see Jesus and discovered that Jesus had come to find him. The Seeker was already seeking. Notice the “must” — a divine necessity; Heaven had an appointment in Jericho that day, and it was in the house of the town’s most notorious sinner. This is the whole Gospel in a sentence: before you ever climbed your tree, the Son of Man had already set His route through your street."
+    },
+    {
+      "title": "The Stones Would Cry Out",
+      "verseRef": "v. 40",
+      "image": "The disciples are roaring down the slope of Olivet, cloaks flying onto the road, voices cracking with praise. The Pharisees push in, scandalized: “Teacher, shut them up!” And Jesus, riding the colt, gestures at the dusty limestone all around Him and says it plainly: if these voices go quiet, the very stones under your feet will start to shout.",
+      "meaning": "The worship of the King is not an optional extra that can be politely suppressed. Creation itself is wired to praise Him; silence Him in the mouths of people and the rocks will pick up the song. It is also a warning wrapped in wonder — for within days those same silent stones of Jerusalem, refusing to confess their King, will be thrown down one upon another (v. 44). The stones will testify one way or another: in praise, or in ruin."
+    },
+    {
+      "title": "The King Who Wept",
+      "verseRef": "v. 41-42",
+      "image": "The road bends and the whole city bursts into view — the temple gold catching the sun, the walls, the rooftops, the crowds. The disciples are still shouting “Hosanna.” And in the middle of His own coronation parade, the King stops and breaks down. He sobs out loud over the skyline. “If you, even you, had known today the things that make for your peace — but now they are hidden from your eyes.”",
+      "meaning": "This is the same face that looked up into the sycamore with joy, now wet with grief over a whole city that will not look up at all. Jerusalem — the city whose name means “peace” — has the Prince of Peace weeping at her gate, and she does not know it. The tears of Christ are the measure of how real the offer of salvation was, and how real the tragedy of refusing it. God does not judge with a cold face; He judges through tears."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Salvation Comes to Jericho (v. 1-10)",
+        "body": "The seeking sinner Zacchaeus is found, saved, and transformed; the chapter states the Gospel’s thesis in verse 10."
+      },
+      {
+        "label": "The Parable of the Ten Minas (v. 11-27)",
+        "body": "The King goes away, entrusts His servants to trade with His grace, and returns to reward the faithful and judge the rebels."
+      },
+      {
+        "label": "The Triumphal Entry (v. 28-40)",
+        "body": "Jesus deliberately fulfills Zechariah 9:9, riding into Jerusalem to a roar of praise that not even the Pharisees can silence."
+      },
+      {
+        "label": "The Lament Over Jerusalem (v. 41-44)",
+        "body": "The King weeps over the city that missed the time of its visitation, and prophesies its coming destruction."
+      },
+      {
+        "label": "The Cleansing of the Temple (v. 45-48)",
+        "body": "Jesus purges His Father’s house and teaches daily while the leaders plot His death."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "One Chapter, Two Houses: The Whole Gospel in Miniature",
+        "paragraphs": [
+          "Luke 19 is built on a devastating contrast between two “houses.” In verse 9 Jesus says, “Today, salvation has come to this house” — the house of a despised tax collector who welcomed Him with joy. In verses 45-46 He walks into another house, “My house” — the temple, the very center of Israel’s religion — and finds it so corrupted He must drive the traders out with force. The outsider’s house becomes a house of salvation; the insiders’ house has become a den of robbers. That reversal is the beating heart of Luke’s entire Gospel: the last are first, the lost are found, and the ones who assumed they were safe are the ones most in danger.",
+          "The same reversal governs the whole chapter. Zacchaeus, the man everyone had written off, is declared a true “son of Abraham.” Jerusalem, the city that carried God’s promises, is told not one stone will be left on another. The difference between the two is not bloodline, morality, or religious pedigree — it is recognition. Zacchaeus knew who was passing through his town and came down out of his tree; Jerusalem “didn’t know the time of your visitation” (v. 44) and stayed asleep. The single most dangerous thing a person can do is have God walk down their street and fail to recognize Him."
+        ]
+      },
+      {
+        "heading": "The Buried Mina and the Fear That Freezes Grace",
+        "paragraphs": [
+          "The parable of the ten minas is not primarily about money; it is about what you do with what the King entrusts to you while He is away. Ten servants each receive the same single mina and the same command: “Conduct business until I come” (v. 13). The two who traded are rewarded not with rest but with rule — authority over ten and five cities. But the third servant is the one Jesus lingers over, because he is the warning. He did not steal the mina, waste it, or lose it. He simply wrapped it in a handkerchief and kept it safe. And that safe, cautious, do-nothing preservation is exactly what the King calls “wicked.”",
+          "Look closely at why he buried it: “I feared you, because you are an exacting man” (v. 21). His paralysis grew directly out of a distorted picture of his master’s heart. He saw the King as harsh, grasping, impossible to please — so he played it safe and did nothing. This is the honest theology of many believers: they are so afraid of getting it wrong, so convinced God is mainly waiting to catch them out, that they bury their gift, their calling, their resources, and their witness in the ground of caution and call it humility. Jesus calls it wickedness. The way you picture God’s face determines whether you invest your life or hide it. A servant who trusts the King’s goodness takes risks for Him; a servant who suspects the King’s cruelty freezes."
+        ]
+      },
+      {
+        "heading": "The Tears of the King and the Justice of God",
+        "paragraphs": [
+          "The hardest and most beautiful thing in this chapter is that the same Jesus who came “to seek and to save” (v. 10) also pronounces the total destruction of Jerusalem (v. 43-44), and He does it in tears. We must not sand either side down. The judgment is real and specific — Rome literally built siege ramps, encircled the city, and demolished it in AD 70, exactly as He said. And the grief is real too; the word for “wept” in verse 41 means to wail aloud, to sob. This is not a detached deity signing a death warrant. This is God incarnate breaking down over the people He is losing.",
+          "Here is the truth of the truth: God’s judgment and God’s love are not enemies. Jerusalem is not destroyed because God stopped loving her; she is destroyed because she refused the peace He was standing there offering — “the things which belong to your peace” (v. 42). The Prince of Peace came to the city of peace, and she would not have Him. When you refuse the only source of peace, all that remains is the barricade and the sword. Yet even the sentence is delivered through tears, which means the door of mercy was open to the very last. A God who wept over the city He judged is a God you can trust with your own honest reckoning."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Luke 19:10 — “the Son of Man came to seek and to save that which was lost” — is not a fresh idea; it is Jesus claiming to be the fulfillment of Ezekiel 34. There God had thundered against the false shepherds of Israel who fed themselves and let the flock scatter, and then He made a personal promise: “I myself will search for my sheep, and will seek them out… I will seek that which was lost, and bring again that which was driven away” (Ezekiel 34:11, 16). For centuries Israel had waited for the LORD Himself to come and shepherd His scattered sheep. In Jericho, standing under a sycamore tree, calling a lost tax collector down by name, Jesus quietly announces that the search is over: the Shepherd of Ezekiel 34 has arrived in the flesh, and He is doing exactly what God swore He would do.",
+        "The chapter is saturated with Scripture fulfilled. At the entry the crowd shouts Psalm 118:26 — “Blessed is the King who comes in the name of the Lord!” (v. 38). In the temple Jesus fuses Isaiah 56:7 (“My house is a house of prayer”) with Jeremiah 7:11 (“den of robbers”) to indict the corrupted worship (v. 46). And the haunting phrase “the time of your visitation” (v. 44) carries the Greek word episkopē, which Peter later picks up and turns toward hope: he urges believers to live such good lives among the nations that the outsiders “may… glorify God in the day of visitation” (1 Peter 2:12). Jerusalem missed her day of visitation and was leveled; the church is called to help the nations recognize theirs and be saved. The same divine visit that becomes judgment for the blind becomes salvation for all who, like Zacchaeus, come down and receive Him with joy."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "To Save / Salvation",
+      "hebrew": "σώζω / σωτηρία",
+      "translit": "sṓzō / sōtēría",
+      "strongs": "G4982 / G4991",
+      "verses": "v. 9, 10",
+      "insight": "Sṓzō means to rescue, deliver, protect, and make whole — the same verb Luke uses for physical healing. When Jesus says “salvation (sōtēría) has come to this house” and “the Son of Man came to save (sṓzō) that which was lost,” He is not describing a private religious feeling but a total rescue: Zacchaeus’s money, relationships, conscience, and eternity are all made whole in one afternoon. Salvation in Luke is a whole man, in a real house, on a real “today,” put right by the Savior who walked in the door."
+    },
+    {
+      "english": "To Seek",
+      "hebrew": "ζητέω",
+      "translit": "zētéō",
+      "strongs": "G2212",
+      "verses": "v. 3, 10",
+      "insight": "Zētéō means to search for, to strive after, to go looking with intent. The chapter uses it twice with breathtaking effect. In verse 3 Zacchaeus “was seeking (zētéō) to see who Jesus was.” In verse 10 Jesus reveals the deeper truth: the Son of Man “came to seek (zētéō) the lost.” The little man was seeking Jesus, but only because Jesus was already seeking him. Your hunger for God is never the beginning of the story — it is the evidence that the Seeker found you first and put the longing there."
+    },
+    {
+      "english": "Lost",
+      "hebrew": "ἀπόλλυμι",
+      "translit": "apóllymi",
+      "strongs": "G622",
+      "verses": "v. 10",
+      "insight": "Apóllymi is a strong word — to destroy fully, to ruin, to perish. “The lost” are not merely the mislaid or the wandering; they are the perishing, people genuinely on the road to destruction. This is why the seeking of the Son of Man is not a gentle hobby but a rescue mission with eternity at stake. Zacchaeus was not just socially excluded; he was perishing, and Jesus went into his house to pull him back from the edge. It is also the very fate that hangs over unrepentant Jerusalem — the lost city that would not be found."
+    },
+    {
+      "english": "Visitation",
+      "hebrew": "ἐπισκοπή",
+      "translit": "episkopḗ",
+      "strongs": "G1984",
+      "verses": "v. 44",
+      "insight": "Episkopḗ means an inspection, an overseeing, a coming to look closely — God stepping in personally to examine and to help. Jerusalem’s doom is pinned on one phrase: “because you didn’t know the time of your visitation.” God Himself had come to visit His people in the person of Jesus, walking their streets, weeping at their gate — and they did not recognize the visit. This is the most sobering word in the chapter. It is possible for God to draw near, to walk right through your life, and for you to miss it entirely. The difference between Zacchaeus’s house and Jerusalem’s temple is simply this: one recognized the visitation and one slept through it."
+    },
+    {
+      "english": "To Weep",
+      "hebrew": "κλαίω",
+      "translit": "klaíō",
+      "strongs": "G2799",
+      "verses": "v. 41",
+      "insight": "Klaíō does not mean a quiet tear sliding down the cheek; it means to sob, to wail aloud, the loud grief of mourning at a graveside. In the middle of His own triumphal parade, the King wails over the city. This one word guards us from ever picturing God’s judgment as cold or vindictive. The same Jesus who pronounces Jerusalem’s destruction is convulsed with open weeping over it. God’s wrath and God’s tears meet in the same face, on the same road, in the same breath — which means you can bring your own hard reckonings to a God whose heart breaks even as He judges."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the parts of you that are still up the tree — watching Jesus from a safe, hidden distance, curious but not yet home — and with the parts of you that have wrapped a God-given gift in a handkerchief because you were afraid.",
+    "items": [
+      {
+        "title": "He Already Knows Your Name",
+        "body": "Zacchaeus climbed the tree hoping to catch a glimpse of a stranger; instead the stranger looked up and called him by name. You do not have to earn God’s attention or claw your way past the crowd to get noticed — before you ever started seeking Him, He set His route through your street and had an appointment at your house. Are you still relating to God as if you are a face in a crowd He might overlook? Or will you let it land that the Son of Man knows your name, knows your tree, and said “today I must stay at your house” about you?"
+      },
+      {
+        "title": "Stop Burying the Mina",
+        "body": "The servant who buried his mina was not rebellious or immoral — he was afraid. He had a small, suspicious picture of the master, so he played it safe and did nothing, and Jesus called that nothing “wicked.” What has God put in your hands — a gift, a calling, a measure of money, a testimony, an open door — that you have wrapped in a handkerchief of caution and called “waiting on the Lord”? Here is the question the Spirit is pressing: is your careful inaction really humility, or is it a distrust of God’s goodness dressed up as reverence? The King is not asking for your success; He is asking for your investment. Trade with what He gave you."
+      },
+      {
+        "title": "Do You Know the Time of Your Visitation?",
+        "body": "Jerusalem’s tragedy was not that God stayed far away; it was that God came near and she slept through it. He walked her streets, wept at her gate, and she “didn’t know the time of your visitation.” The most dangerous place to be is not far from God — it is close to God and unaware of it, going through the religious motions while the living Christ is standing at the door. Is God visiting you right now — through this very study, through a conviction you keep postponing, through a mercy you keep explaining away — and are you recognizing it, or sleeping through it? What would it look like to “come down” today, while it is still called today?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Sycamore Check",
+        "body": "What crowd, what reputation, what pride is currently standing between you and a clear sight of Jesus? Zacchaeus had to lose his dignity and climb a tree to see past the obstacle. What “undignified” thing — public repentance, confessing to someone, breaking a comfortable routine — is God asking you to do to get an unobstructed view of Him?"
+      },
+      {
+        "title": "The Handkerchief Check",
+        "body": "Name the mina you have buried. What gift, calling, resource, or opportunity has God entrusted to you that you have carefully wrapped up and stored away out of fear of failing, fear of exposure, or a suspicion that God is harsh and hard to please? Be specific — what is the thing you are keeping “safe” instead of trading?"
+      },
+      {
+        "title": "The Visitation Check",
+        "body": "Where is God visiting your life right now that you have been treating as background noise? Is there a conviction you keep silencing, a nudge you keep postponing, a “today” you keep pushing to “someday”? Jerusalem missed her visitation not by rejecting a doctrine but by failing to recognize a moment. What moment are you at risk of missing?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Make a Zacchaeus Restitution",
+        "body": "Repentance in this chapter was concrete and it cost money. This week, do one tangible act of restitution or radical generosity that proves your repentance is real in your ledger, not just your feelings. Is there a debt to repay, an apology to make right with more than words, a wrong to restore, or a specific gift to “the poor” that will actually cost you? Pick one, put a date on it, and do it before the week is out."
+      },
+      {
+        "title": "Trade the Mina",
+        "body": "Take the one buried mina you named in the Handkerchief Check and put it to work this week — no more waiting. Send the message, start the ministry, use the skill, open the door, say the yes. Do the smallest first act of “conducting business” with it within the next seven days. You do not need to see the tenfold return; you only need to stop burying it and start trading. Faithfulness with “very little” is the whole assignment."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, Son of Man, You came to seek and to save that which was lost — and that means You came for me. Before I ever climbed my tree looking for You, You had already set Your route through my street and knew my name. Thank You for looking up, for calling me down, for saying ‘today I must stay at your house.’ Come into my house today; let salvation come to every room of it. Forgive me for the minas I have buried in fear, for the gifts I wrapped in a handkerchief because I secretly believed You were harsh. Change the way I see Your face, so I can finally trade with everything You have entrusted to me. And Lord, do not let me be like the city that slept through her visitation — open my eyes to the time of Your visiting, so I never miss the day You draw near. Where I have made Your house a marketplace, drive the tables over. Make me a house of prayer. I receive You today, with joy, before it is any longer called today. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Shepherd Who Came to Seek His Sheep",
+      "ref": "Ezekiel 34:11-16",
+      "relatedVerses": "v. 10",
+      "summary": "Through Ezekiel, God condemned the shepherds of Israel who fattened themselves while the flock was scattered and lost. Then He made a stunning personal vow: “I myself will search for my sheep… I will seek that which was lost, and bring again that which was driven away.” For centuries Israel waited for the LORD Himself to come and gather His scattered people. When Jesus stands beneath a sycamore tree in Jericho and says, “the Son of Man came to seek and to save that which was lost,” He is announcing that the promise has landed — the Shepherd of Ezekiel 34 has come in person, and Zacchaeus is the first sheep carried home."
+    },
+    {
+      "title": "Solomon’s Humble Coronation Ride",
+      "ref": "1 Kings 1:32-40",
+      "relatedVerses": "v. 28-38",
+      "summary": "When David made Solomon king, he had him set on the royal mule and led down to Gihon, where Zadok the priest anointed him while the people shouted, “Long live King Solomon!” and the ground shook with their rejoicing. A rightful king of Israel came to his throne not on a war-horse but on a humble beast, welcomed by the roar of the crowd. Jesus deliberately steps into that royal script — riding an unridden colt down the Mount of Olives while the multitude spreads cloaks and shouts, “Blessed is the King!” He is claiming David’s throne as the true and greater Son of David, coming in peace to be crowned."
+    },
+    {
+      "title": "The Weeping Prophet Over the Same City",
+      "ref": "Jeremiah 9:1; Lamentations 1:1-4",
+      "relatedVerses": "v. 41-44",
+      "summary": "Six centuries earlier, the prophet Jeremiah stood over Jerusalem and wept, crying, “Oh that my head were waters, and my eyes a fountain of tears, that I might weep day and night” as Babylon closed in to destroy her. He watched the city that would not repent be surrounded and leveled. On the same ridge overlooking the same city, Jesus weeps the same tears — this time over Jerusalem’s coming destruction by Rome — grieving a people who again “didn’t know the time of your visitation.” The tears of the prophet and the tears of the King fall on the same stones, revealing a God who has always grieved the judgment His people force upon themselves."
+    }
+  ]
+}

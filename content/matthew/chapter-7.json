@@ -10,7 +10,12 @@
       "text": "“Don’t judge, so that you won’t be judged.",
       "understanding": "Jesus opens with a command that has been abused more than almost any other in Scripture. This is not a ban on discernment — verses 6 and 15-20 will demand sharp discernment — it is a ban on the condemning, superior, fault-finding spirit that seats itself on God's bench and hands down verdicts it has no right to pass.",
       "words": [
-        { "strongs": "G2919", "hebrew": "κρίνω", "translit": "krínō", "english": "judge" }
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judge"
+        }
       ]
     },
     {
@@ -23,8 +28,18 @@
       "text": "Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye?",
       "understanding": "The speck — a tiny splinter of chaff or sawdust — in your brother's eye is real. But you are trying to perform eye surgery with a roof-beam jutting out of your own socket. Notice the joke: the speck and the beam are the same material, wood; the critic simply has far more of it.",
       "words": [
-        { "strongs": "G2595", "hebrew": "κάρφος", "translit": "kárphos", "english": "speck" },
-        { "strongs": "G1385", "hebrew": "δοκός", "translit": "dokós", "english": "beam" }
+        {
+          "strongs": "G2595",
+          "hebrew": "κάρφος",
+          "translit": "kárphos",
+          "english": "speck"
+        },
+        {
+          "strongs": "G1385",
+          "hebrew": "δοκός",
+          "translit": "dokós",
+          "english": "beam"
+        }
       ]
     },
     {
@@ -37,7 +52,12 @@
       "text": "You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.",
       "understanding": "Jesus never says leave the speck alone forever. He says deal with your beam FIRST, and then you will see clearly enough to help your brother. Self-examination is not the enemy of helping people; it is the qualification for it. The Greek 'hypocrite' means a stage-actor wearing a mask — someone playing a righteous character he is not.",
       "words": [
-        { "strongs": "G5273", "hebrew": "ὑποκριτής", "translit": "hypokritḗs", "english": "hypocrite" }
+        {
+          "strongs": "G5273",
+          "hebrew": "ὑποκριτής",
+          "translit": "hypokritḗs",
+          "english": "hypocrite"
+        }
       ]
     },
     {
@@ -50,7 +70,12 @@
       "text": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.",
       "understanding": "Three escalating imperatives — ask, seek, knock — stand in the present tense: keep on asking, keep on seeking, keep on knocking. This is not nagging a reluctant God into submission; it is the settled posture of a child who knows the Father's heart and refuses to walk away from the door.",
       "words": [
-        { "strongs": "G154", "hebrew": "αἰτέω", "translit": "aitéō", "english": "ask" }
+        {
+          "strongs": "G154",
+          "hebrew": "αἰτέω",
+          "translit": "aitéō",
+          "english": "ask"
+        }
       ]
     },
     {
@@ -83,7 +108,12 @@
       "text": "“Enter in by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and many are those who enter in by it.",
       "understanding": "The sermon now turns from ethics to decision. Two gates stand open: the wide, easy, crowded gate onto a broad boulevard that ends in destruction, and a narrow one. Jesus commands: enter by the narrow gate. The Kingdom is a deliberate choice, never a drift with the crowd.",
       "words": [
-        { "strongs": "G4439", "hebrew": "πύλη", "translit": "pýlē", "english": "gate" }
+        {
+          "strongs": "G4439",
+          "hebrew": "πύλη",
+          "translit": "pýlē",
+          "english": "gate"
+        }
       ]
     },
     {
@@ -96,7 +126,12 @@
       "text": "“Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves.",
       "understanding": "Beware — because the narrow road has predators walking it. False prophets wear the wool of the flock while hiding the fangs of the wolf. The danger is not that they attack from outside the fence; the danger is the disguise that gets them inside it.",
       "words": [
-        { "strongs": "G5578", "hebrew": "ψευδοπροφήτης", "translit": "pseudoprophḗtēs", "english": "false prophets" }
+        {
+          "strongs": "G5578",
+          "hebrew": "ψευδοπροφήτης",
+          "translit": "pseudoprophḗtēs",
+          "english": "false prophets"
+        }
       ]
     },
     {
@@ -104,7 +139,12 @@
       "text": "By their fruits you will know them. Do you gather grapes from thorns, or figs from thistles?",
       "understanding": "But disguise cannot fake fruit. You will know them by their fruits, not their costume. Thornbushes cannot produce grapes; thistles cannot produce figs. Given enough time, character always breaks the surface.",
       "words": [
-        { "strongs": "G2590", "hebrew": "καρπός", "translit": "karpós", "english": "fruits" }
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpós",
+          "english": "fruits"
+        }
       ]
     },
     {
@@ -132,8 +172,18 @@
       "text": "Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven; but he who does the will of my Father who is in heaven.",
       "understanding": "Among the most sobering words Jesus ever spoke. Saying 'Lord, Lord' — even sincerely, even loudly, even twice — does not open the Kingdom of Heaven. Doing the will of the Father does. Confession without obedience is a counterfeit that will not clear the gate.",
       "words": [
-        { "strongs": "G2307", "hebrew": "θέλημα", "translit": "thélēma", "english": "will" },
-        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "Kingdom" }
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        }
       ]
     },
     {
@@ -146,8 +196,18 @@
       "text": "Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’",
       "understanding": "The verdict is the most terrifying sentence in the Bible. Not 'I once knew you and you fell away' — I NEVER knew you. Their works were real, but the relationship never existed. The word 'know' means intimate, covenantal acquaintance; the word 'iniquity' means lawlessness — a life that used His name while refusing His rule.",
       "words": [
-        { "strongs": "G1097", "hebrew": "γινώσκω", "translit": "ginṓskō", "english": "knew" },
-        { "strongs": "G458", "hebrew": "ἀνομία", "translit": "anomía", "english": "iniquity" }
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "knew"
+        },
+        {
+          "strongs": "G458",
+          "hebrew": "ἀνομία",
+          "translit": "anomía",
+          "english": "iniquity"
+        }
       ]
     },
     {
@@ -155,9 +215,24 @@
       "text": "“Everyone therefore who hears these words of mine, and does them, I will liken him to a wise man, who built his house on a rock.",
       "understanding": "The whole sermon lands here. Everyone who hears these words AND does them is like a wise man who dug down and built on rock. Hearing plus doing equals a foundation that holds. The wisdom is not in the hearing — the crowd on the sand heard too — it is in the doing.",
       "words": [
-        { "strongs": "G5429", "hebrew": "φρόνιμος", "translit": "phrónimos", "english": "wise" },
-        { "strongs": "G4073", "hebrew": "πέτρα", "translit": "pétra", "english": "rock" },
-        { "strongs": "G3618", "hebrew": "οἰκοδομέω", "translit": "oikodoméō", "english": "built" }
+        {
+          "strongs": "G5429",
+          "hebrew": "φρόνιμος",
+          "translit": "phrónimos",
+          "english": "wise"
+        },
+        {
+          "strongs": "G4073",
+          "hebrew": "πέτρα",
+          "translit": "pétra",
+          "english": "rock"
+        },
+        {
+          "strongs": "G3618",
+          "hebrew": "οἰκοδομέω",
+          "translit": "oikodoméō",
+          "english": "built"
+        }
       ]
     },
     {
@@ -185,7 +260,12 @@
       "text": "for he taught them with authority, and not like the scribes.",
       "understanding": "The reason for the astonishment: He taught with authority, not like the scribes. The scribes quoted other rabbis for backing; Jesus spoke as the Source — 'You have heard it said... but I say to you.' Only the Lawgiver Himself can talk like that, and the crowd felt the difference in their bones.",
       "words": [
-        { "strongs": "G1849", "hebrew": "ἐξουσία", "translit": "exousía", "english": "authority" }
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        }
       ]
     }
   ],
@@ -217,14 +297,38 @@
   ],
   "commentary": {
     "structure": [
-      { "label": "Judge Not — The Log and the Speck (v. 1-6)", "body": "A command against the condemning spirit that plays God, balanced by the call to real discernment (don't give the holy to dogs)." },
-      { "label": "Ask, Seek, Knock (v. 7-11)", "body": "The Father's open-handed, how-much-more generosity to the child who keeps on praying." },
-      { "label": "The Golden Rule (v. 12)", "body": "The whole Law and Prophets compressed into one active sentence: do for others what you want done for you." },
-      { "label": "The Two Gates and Two Ways (v. 13-14)", "body": "Enter by the narrow gate; the broad, crowded road ends in destruction." },
-      { "label": "The Two Trees — False Prophets (v. 15-20)", "body": "Discernment by fruit, not by disguise; every tree is known by what it produces." },
-      { "label": "The Two Claims — 'Lord, Lord' (v. 21-23)", "body": "Confession and even miracles without obedience, ending in the verdict 'I never knew you.'" },
-      { "label": "The Two Builders (v. 24-27)", "body": "Hearing and doing versus hearing only; the storm exposes the foundation." },
-      { "label": "The Astonished Crowds (v. 28-29)", "body": "Matthew's closing formula; the crowd stunned by a Teacher who spoke with authority, not citation." }
+      {
+        "label": "Judge Not — The Log and the Speck (v. 1-6)",
+        "body": "A command against the condemning spirit that plays God, balanced by the call to real discernment (don't give the holy to dogs)."
+      },
+      {
+        "label": "Ask, Seek, Knock (v. 7-11)",
+        "body": "The Father's open-handed, how-much-more generosity to the child who keeps on praying."
+      },
+      {
+        "label": "The Golden Rule (v. 12)",
+        "body": "The whole Law and Prophets compressed into one active sentence: do for others what you want done for you."
+      },
+      {
+        "label": "The Two Gates and Two Ways (v. 13-14)",
+        "body": "Enter by the narrow gate; the broad, crowded road ends in destruction."
+      },
+      {
+        "label": "The Two Trees — False Prophets (v. 15-20)",
+        "body": "Discernment by fruit, not by disguise; every tree is known by what it produces."
+      },
+      {
+        "label": "The Two Claims — 'Lord, Lord' (v. 21-23)",
+        "body": "Confession and even miracles without obedience, ending in the verdict 'I never knew you.'"
+      },
+      {
+        "label": "The Two Builders (v. 24-27)",
+        "body": "Hearing and doing versus hearing only; the storm exposes the foundation."
+      },
+      {
+        "label": "The Astonished Crowds (v. 28-29)",
+        "body": "Matthew's closing formula; the crowd stunned by a Teacher who spoke with authority, not citation."
+      }
     ],
     "sections": [
       {
@@ -246,7 +350,7 @@
       "heading": "New Testament Connection",
       "paragraphs": [
         "James, the half-brother of Jesus, sat under this sermon and took it into his bones — his whole letter reads like the Sermon on the Mount preached back to the church. He writes in James 1:22, 'But be doers of the word, and not only hearers, deluding your own selves,' and then paints the exact picture of Matthew 7: the man who hears the word and does nothing is like a man who glances at his face in a mirror and immediately forgets what he looks like (James 1:23-25). James's 'doer of the word' IS the wise man of Matthew 7:24 who built on the rock; James's self-deceived 'hearer only' is the fool on the sand. The two builders became the central nerve of an entire New Testament epistle.",
-        "The terror of 'I never knew you' is answered, and its logic confirmed, in 2 Timothy 2:19: 'However God's firm foundation stands, having this seal, \"The Lord knows those who are his,\" and, \"Let everyone who names the name of the Lord depart from unrighteousness.\"' There is the same firm foundation, the same being-known by the Lord, and the same demand to depart from lawlessness — the very charge Jesus laid on the false claimants. And Matthew brackets his whole Gospel around the authority the crowd marveled at here: the One who taught with authority in 7:29 stands on another mountain at the end of the book and declares, 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations' (Matthew 28:18-19). The authority the crowds only glimpsed in the sermon is proven total at the empty tomb."
+        "The terror of 'I never knew you' is answered, and its logic confirmed, in 2 Timothy 2:19: 'However God's firm foundation stands, having this seal, \"The Lord knows those who are his,\" and, \"Let every one who names the name of the Lord depart from unrighteousness.\"' There is the same firm foundation, the same being-known by the Lord, and the same demand to depart from lawlessness — the very charge Jesus laid on the false claimants. And Matthew brackets his whole Gospel around the authority the crowd marveled at here: the One who taught with authority in 7:29 stands on another mountain at the end of the book and declares, 'All authority has been given to me in heaven and on earth.... Go and make disciples of all nations' (Matthew 28:18-19). The authority the crowds only glimpsed in the sermon is proven total at the empty tomb."
       ]
     }
   },

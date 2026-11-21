@@ -1,0 +1,955 @@
+{
+  "type": "chapterStudy",
+  "book": "Ephesians",
+  "chapter": 2,
+  "chapterTitle": "But God — A Corpse Raised, a Wall Demolished, and Two Enemies Made One New Man",
+  "themeTitle": "“Two Words in the Middle of a Death Certificate”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "You were made alive when you were dead in transgressions and sins,",
+      "understanding": "Read that opening line honestly: “You were made alive” is borrowed forward from verse 5, because the Greek of verse 1 has no main verb at all. Paul writes, “And you, being dead in your trespasses and sins…” — and then he refuses to finish the sentence for four whole verses. English translators lend you the verb early so the line can breathe; Paul makes you stand in the mortuary first. And the diagnosis is not “sick,” not “weak,” not “distant.” Nekrós. Dead men do not improve. Two words name the ruin: paráptōma, a side-slip, the false step off the path, and hamartía, missing the mark you were aiming at. The stumble and the aim — both are wrong.",
+      "words": [
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G3900",
+          "hebrew": "παράπτωμα",
+          "translit": "paráptōma",
+          "english": "transgressions"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience;",
+      "understanding": "A corpse with a gait. “Walked” is the ordinary word for how you conduct a life, and Paul attaches it to dead men — this is what death looks like from the inside: busy, mobile, employed, and finished. Then he names two of your three captors in one line. First the aiṓn of this kósmos — the spirit of the age, the current you swim in so naturally you never notice it is moving you. Second a Person: the árchōn, the ruler, of the exousía of the air — not weather, but the invisible sphere between earth and heaven where chapter 6 says the war is actually fought. And energéō is present tense: he is the current still running through the sons of disobedience while you read this.",
+      "words": [
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walked"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "course (age)"
+        },
+        {
+          "strongs": "G758",
+          "hebrew": "ἄρχων",
+          "translit": "árchōn",
+          "english": "prince"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "power"
+        },
+        {
+          "strongs": "G109",
+          "hebrew": "ἀήρ",
+          "translit": "aḗr",
+          "english": "air"
+        },
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "works"
+        },
+        {
+          "strongs": "G543",
+          "hebrew": "ἀπείθεια",
+          "translit": "apeítheia",
+          "english": "disobedience"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "among whom we also all once lived in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest.",
+      "understanding": "Watch the pronoun change: “you” becomes “we also all.” The Pharisee who was blameless as touching the law puts himself on the slab beside the pagans. Here is enemy number three, and it is not outside you or above you but in you — the sárx. And note what is on the list: “the desires of the flesh AND OF THE MIND.” The respectable sins of the head are indicted with the appetites of the body. Then the sentence that modern preaching edits: “by nature children of wrath.” Phýsis is not behaviour, it is birth-stock, what you are by kind before you have done anything at all. And the last four words shut every emergency exit: “even as the rest.” There is no elite tier of sinner.",
+      "words": [
+        {
+          "strongs": "G390",
+          "hebrew": "ἀναστρέφω",
+          "translit": "anastréphō",
+          "english": "lived"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "lusts"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G5449",
+          "hebrew": "φύσις",
+          "translit": "phýsis",
+          "english": "nature"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "wrath"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "But God, being rich in mercy, for his great love with which he loved us,",
+      "understanding": "Two words. In Greek it is three — ho de Theós — and it is the hinge the whole Bible turns on. Look at what did NOT change: the corpse. Paul does not say “but you began to seek Him,” or “but there was a spark left.” The subject of the sentence changed, and that is all. Ploúsios en eléei — God is not rationing mercy from a thin supply; He is wealthy in it. And then a beautiful Hebrew-shaped doubling: “his great love with which he loved us.” He loved us with His own love, out of Himself, not out of anything He found in us. The cause of your salvation is located entirely inside God.",
+      "words": [
+        {
+          "strongs": "G4145",
+          "hebrew": "πλούσιος",
+          "translit": "ploúsios",
+          "english": "rich"
+        },
+        {
+          "strongs": "G1656",
+          "hebrew": "ἔλεος",
+          "translit": "éleos",
+          "english": "mercy"
+        },
+        {
+          "strongs": "G4183",
+          "hebrew": "πολύς",
+          "translit": "polýs",
+          "english": "great"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "even when we were dead through our trespasses, made us alive together with Christ (by grace you have been saved),",
+      "understanding": "He says “dead” a second time so nobody softens it on the way to the good news. Then the first of three compound verbs, and every one of them begins with syn — “together with.” Syzōopoiéō: to be reanimated jointly with Christ. Not a separate, later, smaller resurrection of your own; you were made alive in His, on His morning, by His act. And the parenthesis bursts out of Paul mid-sentence, three verses early, because he cannot hold it in: “by grace you have been saved” — and the Greek is a perfect passive, sesōsménoi: it was done to you, and it stands done.",
+      "words": [
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G4806",
+          "hebrew": "συζωοποιέω",
+          "translit": "syzōopoiéō",
+          "english": "made alive together with"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "and raised us up with him, and made us to sit with him in the heavenly places in Christ Jesus,",
+      "understanding": "Verbs two and three, both aorist, both finished: synegeírō, raised up together; synkathízō, seated together. Now go back and read 1:20 — God “raised him from the dead, and made him to sit at his right hand in the heavenly places.” Paul deliberately reuses those two verbs of you — and this time welds syn- onto the front of each. Not raised the way He was raised; raised WITH Him. Whatever God did with the body of Jesus He has done with you in Him. Seated is the posture of finished work and delegated authority — and mark the address, because 6:12 says the war is fought in that exact region. You are not fighting your way toward the seat. You are fighting from it.",
+      "words": [
+        {
+          "strongs": "G4891",
+          "hebrew": "συνεγείρω",
+          "translit": "synegeírō",
+          "english": "raised us up with"
+        },
+        {
+          "strongs": "G4776",
+          "hebrew": "συγκαθίζω",
+          "translit": "synkathízō",
+          "english": "made us to sit with"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly places"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus;",
+      "understanding": "Here is God’s stated motive, and it is not you. Endeíknymi means to exhibit, to demonstrate publicly. Through ages that have not started yet, the universe will be shown one thing — the hyperbállō riches of His grace, riches thrown clean past the usual mark — and the exhibit is you. Not you improved. You, the corpse from verse 1, alive and seated. God is not quietly embarrassed about whom He saved. He intends to hold you up forever as proof of what His kindness cost and what it can do.",
+      "words": [
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "ages"
+        },
+        {
+          "strongs": "G1731",
+          "hebrew": "ἐνδείκνυμι",
+          "translit": "endeíknymi",
+          "english": "show"
+        },
+        {
+          "strongs": "G5235",
+          "hebrew": "ὑπερβάλλω",
+          "translit": "hyperbállō",
+          "english": "exceeding"
+        },
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "riches"
+        },
+        {
+          "strongs": "G5544",
+          "hebrew": "χρηστότης",
+          "translit": "chrēstótēs",
+          "english": "kindness"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
+      "understanding": "Grace is the ground; faith is only the channel. Paul writes “through faith,” diá — never “because of” faith. Faith is the empty hand, not the payment in it. Then the clause that has cost oceans of ink: “and that not of yourselves.” The Greek touto is neuter while both cháris and pístis are feminine nouns, so the strongest reading is that “that” gathers up the entire transaction — the whole being-saved-by-grace-through-faith — rather than pointing at faith alone. Either way it lands in the same place: not one strand of this began in you. Dōron is a gift, and it is the word for an offering carried to God — except here God is the one carrying it to you.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1435",
+          "hebrew": "δῶρον",
+          "translit": "dōron",
+          "english": "gift"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "not of works, that no one would boast.",
+      "understanding": "Seven words in Paul’s Greek, eight in your English — and in them he tells you God’s reason for building salvation this way. Not because works are worthless — verse 10 will make them your destiny — but because boasting is lethal. Kaucháomai is to vaunt, to hold something up. If a single thread of your rescue were yours, then somewhere in eternity there would be a conversation about you, and heaven would have a rival subject. God removed the possibility at the root, not at the surface.",
+      "words": [
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boast"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.",
+      "understanding": "Poíēma — a made thing, a crafted product; the English word “poem” comes down this line. You are not merely pardoned, you are composed. And ktízō is the creation verb, the one used for calling something into being where nothing was. Then the works come back — not as the root but as the road. God proetoimázō’d them, fitted them up in advance, and laid them out ahead of you so that you would peripatéō, walk, in them. Verse 9 bolts the door on works as the ground of acceptance. Verse 10 throws it open as the purpose of it. The same breath does both.",
+      "words": [
+        {
+          "strongs": "G4161",
+          "hebrew": "ποίημα",
+          "translit": "poíēma",
+          "english": "workmanship"
+        },
+        {
+          "strongs": "G2936",
+          "hebrew": "κτίζω",
+          "translit": "ktízō",
+          "english": "created"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "good works"
+        },
+        {
+          "strongs": "G4282",
+          "hebrew": "προετοιμάζω",
+          "translit": "proetoimázō",
+          "english": "prepared before"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Therefore remember that once you, the Gentiles in the flesh, who are called “uncircumcision” by that which is called “circumcision”, (in the flesh, made by hands);",
+      "understanding": "“Remember” is an imperative — grace makes amnesiacs of us, and a man who forgets the pit begins to despise the ladder. Paul preserves the insult exactly as it was spat: akrobystía, “uncircumcision,” was a sneer, not a category. And then he quietly detonates the other side of it, describing the circumcision as “in the flesh, made by hands” — cheiropoíētos, the very word Scripture reserves for idols and man-made shrines. Both labels are surgical scars. Neither one is standing before God.",
+      "words": [
+        {
+          "strongs": "G4218",
+          "hebrew": "ποτέ",
+          "translit": "poté",
+          "english": "once"
+        },
+        {
+          "strongs": "G203",
+          "hebrew": "ἀκροβυστία",
+          "translit": "akrobystía",
+          "english": "uncircumcision"
+        },
+        {
+          "strongs": "G4061",
+          "hebrew": "περιτομή",
+          "translit": "peritomḗ",
+          "english": "circumcision"
+        },
+        {
+          "strongs": "G5499",
+          "hebrew": "χειροποίητος",
+          "translit": "cheiropoíētos",
+          "english": "made by hands"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "that you were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope and without God in the world.",
+      "understanding": "Five deprivations, and they go down like steps into a cellar. Chōrís Christoû — apart from the Messiah altogether, not merely uninformed about Him. Apallotrióō — estranged, made a non-participant in the politeía, the citizenship of Israel. Foreigners to the diathēkai, the covenants — Abraham’s, Moses’, David’s — not one of them had your name in it. Then the last two, and they are the floor of the cellar: “having no hope,” and átheos en tō kósmō, without God in the world — the only time átheos appears in the New Testament. Not “atheist” in the modern debating sense. Godless. Out in the open with nothing over you. If you want to know what the gospel actually rescued you from, live in this verse for ten minutes.",
+      "words": [
+        {
+          "strongs": "G5565",
+          "hebrew": "χωρίς",
+          "translit": "chōrís",
+          "english": "separate from"
+        },
+        {
+          "strongs": "G526",
+          "hebrew": "ἀπαλλοτριόω",
+          "translit": "apallotrióō",
+          "english": "alienated"
+        },
+        {
+          "strongs": "G4174",
+          "hebrew": "πολιτεία",
+          "translit": "politeía",
+          "english": "commonwealth"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenants"
+        },
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G112",
+          "hebrew": "ἄθεος",
+          "translit": "átheos",
+          "english": "without God"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But now in Christ Jesus you who once were far off are made near in the blood of Christ.",
+      "understanding": "The chapter’s second hinge. Verse 4 was “But God”; verse 13 is nyní dé — “But NOW.” The first changed your condition; the second changes your address. “Far off” and “near” were not poetry — they were the standing vocabulary of the synagogue for Gentile and Jew, and Isaiah 57:19 had already used them: “Peace, peace, to him who is far off and to him who is near.” And read the currency of the relocation: not law-keeping, not proselyte ritual, not becoming culturally Jewish — en tō haímati toû Christoû. The distance was measured in blood, and the blood has already been paid out.",
+      "words": [
+        {
+          "strongs": "G3570",
+          "hebrew": "νυνί",
+          "translit": "nyní",
+          "english": "but now"
+        },
+        {
+          "strongs": "G3112",
+          "hebrew": "μακράν",
+          "translit": "makrán",
+          "english": "far off"
+        },
+        {
+          "strongs": "G1451",
+          "hebrew": "ἐγγύς",
+          "translit": "engýs",
+          "english": "near"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For he is our peace, who made both one, and broke down the middle wall of partition,",
+      "understanding": "Not “He makes peace” but “He IS our peace.” The peace is a Person, not a treaty, which is why it cannot be renegotiated. Then Paul reaches for an image every reader in the Empire could picture: to mesótoichon toû phragmoû, the middle wall of the fence. In Herod’s temple a stone barrier ringed the inner courts, carrying notices in Greek and Latin warning that any foreigner who passed it had only himself to blame for the death that followed. And lýō means to loosen, to break up, to demolish. Christ did not install a gate in that wall or lower it to waist height. He pulled it down.",
+      "words": [
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        },
+        {
+          "strongs": "G297",
+          "hebrew": "ἀμφότερος",
+          "translit": "amphóteros",
+          "english": "both"
+        },
+        {
+          "strongs": "G3089",
+          "hebrew": "λύω",
+          "translit": "lýō",
+          "english": "broke down"
+        },
+        {
+          "strongs": "G3320",
+          "hebrew": "μεσότοιχον",
+          "translit": "mesótoichon",
+          "english": "middle wall"
+        },
+        {
+          "strongs": "G5418",
+          "hebrew": "φραγμός",
+          "translit": "phragmós",
+          "english": "partition"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "having abolished in his flesh the hostility, the law of commandments contained in ordinances, that he might create in himself one new man of the two, making peace;",
+      "understanding": "Katargéō — to render entirely idle, to put out of operation. And notice the demolition site: “in his flesh.” The wall did not come down in a council chamber; it came down in a body on a cross. What was put out of operation is not God’s moral character but the code of dógmata, the ceremonial fence-work that made Jew and Gentile two nations who could not eat at the same table. Then the purpose, and it is more radical than anything either side wanted: not to turn the Gentile into a Jew, nor the Jew into a Gentile, but to CREATE — ktízō again, the Genesis verb — one kainós ánthrōpos, one brand-new humanity, in Himself.",
+      "words": [
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "abolished"
+        },
+        {
+          "strongs": "G2189",
+          "hebrew": "ἔχθρα",
+          "translit": "échthra",
+          "english": "hostility"
+        },
+        {
+          "strongs": "G1785",
+          "hebrew": "ἐντολή",
+          "translit": "entolḗ",
+          "english": "commandments"
+        },
+        {
+          "strongs": "G1378",
+          "hebrew": "δόγμα",
+          "translit": "dógma",
+          "english": "ordinances"
+        },
+        {
+          "strongs": "G2936",
+          "hebrew": "κτίζω",
+          "translit": "ktízō",
+          "english": "create"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "and might reconcile them both in one body to God through the cross, having killed the hostility thereby.",
+      "understanding": "Apokatallássō — to reconcile fully, all the way down, nothing left outstanding. Two reconciliations happen in a single act: the two peoples to each other, and both of them to God, “in one body,” through the cross. And do not soften the last clause, because it is violent — “having killed the hostility.” Échthra was not talked round or given a seat at the negotiating table; it was executed. The war between man and God and the war between man and man died in the same execution, on the same wood, on the same afternoon.",
+      "words": [
+        {
+          "strongs": "G604",
+          "hebrew": "ἀποκαταλλάσσω",
+          "translit": "apokatallássō",
+          "english": "reconcile"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G4716",
+          "hebrew": "σταυρός",
+          "translit": "staurós",
+          "english": "cross"
+        },
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "having killed"
+        },
+        {
+          "strongs": "G2189",
+          "hebrew": "ἔχθρα",
+          "translit": "échthra",
+          "english": "hostility"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "He came and preached peace to you who were far off and to those who were near.",
+      "understanding": "Euangelízō — He came and preached the good news of peace. Paul is putting Isaiah 57:19 into the mouth of the risen Christ, and the order of the two clauses is deliberate: to you who were FAR OFF first. But notice the timing problem and let it teach you. In His earthly ministry Jesus went almost nowhere near Gentiles. So this coming-and-preaching is the risen Christ preaching through the men He sends — which is precisely why the man dictating this sentence is chained to a Roman soldier for having done it.",
+      "words": [
+        {
+          "strongs": "G2097",
+          "hebrew": "εὐαγγελίζω",
+          "translit": "euangelízō",
+          "english": "preached"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        },
+        {
+          "strongs": "G3112",
+          "hebrew": "μακράν",
+          "translit": "makrán",
+          "english": "far off"
+        },
+        {
+          "strongs": "G1451",
+          "hebrew": "ἐγγύς",
+          "translit": "engýs",
+          "english": "near"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For through him we both have our access in one Spirit to the Father.",
+      "understanding": "Prosagōgḗ — admission, the right of approach. In a royal court it named the moment an official took you by the arm and presented you to the king; you did not talk your own way past the door. Now count what is in fourteen words: through HIM, in one SPIRIT, to the FATHER. The whole Trinity is deployed to get you into the room. And “we both” means the Jew and the Gentile come through the same door at the same moment. There is no premium entrance for better people. The wall came down, and what replaced it was not a smaller wall — it was an usher.",
+      "words": [
+        {
+          "strongs": "G4318",
+          "hebrew": "προσαγωγή",
+          "translit": "prosagōgḗ",
+          "english": "access"
+        },
+        {
+          "strongs": "G297",
+          "hebrew": "ἀμφότερος",
+          "translit": "amphóteros",
+          "english": "both"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "So then you are no longer strangers and foreigners, but you are fellow citizens with the saints, and of the household of God,",
+      "understanding": "Two words for outsider are cancelled in one line. Xénos is the foreigner with no rights at all; pároikos is worse in its way — the resident alien, legally present, permanently other, always carrying papers, never quite belonging. In their place Paul stacks two words with syn- and oikos in them: sympolítēs, co-citizens with the saints, full standing; and then he goes past citizenship altogether — oikeîoi toû Theoû, members of the household. A state can grant you citizenship. Only a Father can give you a room in the house.",
+      "words": [
+        {
+          "strongs": "G3581",
+          "hebrew": "ξένος",
+          "translit": "xénos",
+          "english": "strangers"
+        },
+        {
+          "strongs": "G3941",
+          "hebrew": "πάροικος",
+          "translit": "pároikos",
+          "english": "foreigners"
+        },
+        {
+          "strongs": "G4847",
+          "hebrew": "συμπολίτης",
+          "translit": "sympolítēs",
+          "english": "fellow citizens"
+        },
+        {
+          "strongs": "G3609",
+          "hebrew": "οἰκεῖος",
+          "translit": "oikeîos",
+          "english": "household"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "being built on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone;",
+      "understanding": "The picture shifts from family to architecture. The themélios is “the apostles and prophets” — not their personalities but the revelation entrusted to them (3:5), the deposit the church is bolted to. And Christ is the akrogōniaîos, the stone belonging to the extreme corner: the first stone laid at the angle of two walls, the one from which every line, level and right angle in the whole structure is taken. Set that stone wrong and nothing built afterward can be straight, however skilled the masonry.",
+      "words": [
+        {
+          "strongs": "G2026",
+          "hebrew": "ἐποικοδομέω",
+          "translit": "epoikodoméō",
+          "english": "being built on"
+        },
+        {
+          "strongs": "G2310",
+          "hebrew": "θεμέλιος",
+          "translit": "themélios",
+          "english": "foundation"
+        },
+        {
+          "strongs": "G204",
+          "hebrew": "ἀκρογωνιαῖος",
+          "translit": "akrogōniaîos",
+          "english": "chief cornerstone"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "in whom the whole building, fitted together, grows into a holy temple in the Lord;",
+      "understanding": "Synarmologéō is a mason’s word: to joint together closely, each stone dressed and cut to fit the stones beside it. Then Paul mixes his metaphor on purpose and no editor should tidy it — a building that GROWS. Living masonry. And what it grows into is naós, not hierón: not the temple complex with its courts and its crowds, but the sanctuary itself, the inner shrine where the presence dwelt. The Gentile who was warned off at the barrier on pain of death is now being built into the Holy of Holies.",
+      "words": [
+        {
+          "strongs": "G4883",
+          "hebrew": "συναρμολογέω",
+          "translit": "synarmologéō",
+          "english": "fitted together"
+        },
+        {
+          "strongs": "G837",
+          "hebrew": "αὐξάνω",
+          "translit": "auxánō",
+          "english": "grows"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "in whom you also are built together for a habitation of God in the Spirit.",
+      "understanding": "The chapter ends by pointing back at the people it began with: “you ALSO” — the same Gentiles who were dead, walking, far off and hopeless. Synoikodoméō: built together, and the “together” is not decoration. No stone is a temple. And katoikētḗrion is a settled dwelling-place, not a tent God visits — the house God moves into and does not leave. Trace the distance from verse 1 to verse 22: a corpse has become the permanent address of God.",
+      "words": [
+        {
+          "strongs": "G4925",
+          "hebrew": "συνοικοδομέω",
+          "translit": "synoikodoméō",
+          "english": "built together"
+        },
+        {
+          "strongs": "G2732",
+          "hebrew": "κατοικητήριον",
+          "translit": "katoikētḗrion",
+          "english": "habitation"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Dead Men Walking",
+      "verseRef": "v. 1-3",
+      "image": "Picture a city at rush hour, and then picture it the way Paul sees it. The trains are full. People are hurrying to work, laughing on the phone, buying coffee, closing deals, raising children, going to religious services. And every one of them is a corpse. Not dying — dead. They have a gait, an income, opinions and appetites, and no pulse toward God whatsoever. Above the whole scene, in the air nobody looks at, a ruler stands with his hand on the current, and the current runs down through the crowd, and the crowd calls it “just the way things are.” Nobody in that street is fighting the current. You cannot fight a current you are made of.",
+      "meaning": "Paul stacks three enemies into three verses and gives you no room to plead partial innocence: the world outside you (“the course of this world”), the devil above you (“the prince of the power of the air”), and the flesh inside you (“the lusts of our flesh… of the flesh and of the mind”). Then he closes the circle with the hardest phrase in the chapter — “by nature children of wrath, even as the rest.” Not children of wrath by what we did; by what we were. This matters more than any comfort a soft reading could give you, because a sick man needs medicine, a weak man needs training, and a drowning man needs a rope — but a dead man needs a resurrection, and nothing less will do. Every self-improvement scheme you have ever attempted was addressed to the wrong diagnosis."
+    },
+    {
+      "title": "The Mortuary Door That Opened From Outside",
+      "verseRef": "v. 4-6",
+      "image": "A mortuary. A body on the slab with a completed file beside it: cause of death, trespasses and sins; contributing factors, the world, the devil, the flesh; prognosis, none. The pen has stopped. There is nothing left to write, because the subject of the file cannot cooperate with any treatment, cannot reach for help, cannot even want to. And then a door opens that the body did not open, and Someone walks in who was not summoned, and He is rich — not sympathetic, RICH — in mercy. He does not resuscitate. He raises. And when the body sits up, it is not sitting up in the mortuary. It is seated in the heavenly places, in Christ Jesus.",
+      "meaning": "Everything in this chapter turns on the two smallest words in it. Read verse 4 slowly and notice what did not change: the corpse. Paul does not write “but you began to seek Him,” or “but there was still a spark.” He writes “But God.” The subject of the sentence changed, and that is the entire mechanism of salvation. Then count the verbs and their tense: made alive together with, raised up together with, seated together with — three aorists, three finished acts, and every one of them prefixed with syn, “together with Christ.” Your resurrection is not scheduled; it is historical, and it happened in a garden tomb outside Jerusalem. And 1:20 uses those same two verbs of Jesus Himself, in their simple form: God raised HIM and seated HIM in the heavenly places. Chapter 2 takes the identical pair, bolts syn- to the front of each, and spends them on you. Whatever the Father did with the body of His Son, He has done with you in Him. Your seat is not a feeling you are failing to produce. It is a fact you are currently not enjoying."
+    },
+    {
+      "title": "The Wall With Your Death Notice Carved On It",
+      "verseRef": "v. 14-16",
+      "image": "Stand in the Court of the Gentiles in Herod’s temple. It is enormous, noisy, full of traders and travellers from every nation — and then the ground rises to a stone balustrade about chest height — three cubits, Josephus says — running right round the inner courts. Fixed along it, at intervals, are stone plaques cut in Greek and in Latin so that no foreigner in the Empire could claim he had not been told: no foreigner may pass this point, and whoever is caught will have only himself to blame for the death that follows. Not a fine. Not an escort out. Death. So you stand there. You can hear the singing. You can smell the sacrifice. And you can go no further, because you were born in the wrong place. Then a Man is nailed up outside the city, and the stone does not crack — it simply stops meaning anything, forever.",
+      "meaning": "That wall was real, and archaeologists have pulled two of its warning inscriptions out of the ground — a complete one found in 1871, and a fragment found in 1935. Josephus describes the barrier twice, and says its warning notices stood in both Greek and Latin. Now hold that beside Paul’s biography: he is writing this letter in chains because a mob in that very court accused him of taking a Gentile past that very wall — and the Gentile they had seen him with in the city was Trophimus, an Ephesian (Acts 21:27-29). The man in prison for allegedly breaching the wall writes to the city that Gentile came from and says: the wall is already down. And look at where the demolition happened — “in his flesh.” Not in a council. Not by a change of policy. The barrier came down in a body, and the hostility itself was not negotiated with but “killed” on the cross."
+    },
+    {
+      "title": "From Alien to Address — the House God Moves Into",
+      "verseRef": "v. 19-22",
+      "image": "See a man at a border post with the wrong papers. He is not a criminal; he is simply from elsewhere. He may live here, work here, even raise children here, but he will always be asked to prove it, always be the one explaining himself, always half a step from the door. Now watch the officer tear the papers up — not to expel him, but because he is being handed a family name. He is walked past the counter, past the gate, into a house, and the house is still being built, and he discovers he is not the guest. He is a stone. He is being cut to fit the stones beside him, jointed in, mortared, load-bearing. And the building he is being fitted into is not a house at all. It is a sanctuary, and the presence is already moving in.",
+      "meaning": "Paul cancels two words for outsider — xénos, the foreigner with no standing, and pároikos, the resident alien who never stops being other — and replaces them with two words built on “together” and “house”: fellow citizens, and members of the household of God. Then the metaphor changes trade: family becomes architecture. Christ is the akrogōniaîos, the stone at the extreme corner from which every line in the building is measured. And the building GROWS, which no building does, because this masonry is alive. Feel the full arc of the chapter: the man who could be executed for stepping past a stone barrier in the outer court is now being built into the naós, the inner sanctuary itself, as part of the walls. And do not miss the last word of the chapter, which is “together.” You cannot be a temple alone. A stone lying on its own in a field is not a sanctuary; it is rubble with potential."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Diagnosis: Three Enemies in Three Verses (v. 1-3)",
+        "body": "Dead in trespasses, walking according to the world, energised by the ruler of the air, driven by the flesh and the mind, and children of wrath by nature — with no exemption granted to Paul himself."
+      },
+      {
+        "label": "But God: Three Verbs Done to a Corpse (v. 4-7)",
+        "body": "Rich in mercy and moved by His own love, God made us alive together with Christ, raised us with Him, and seated us with Him in the heavenly places — so that the ages to come would have something to look at."
+      },
+      {
+        "label": "Grace, Faith, Gift — and Works as the Road, Not the Root (v. 8-10)",
+        "body": "Salvation is a gift so that no one can boast; and the same God who excluded works as the ground of acceptance prepared them in advance as the path His workmanship walks."
+      },
+      {
+        "label": "Remember the Cellar: Five Deprivations (v. 11-12)",
+        "body": "Paul commands the Gentiles to remember what they were — separate from Christ, alienated from Israel’s citizenship, foreign to the covenants, hopeless, and without God in the world."
+      },
+      {
+        "label": "But Now: The Blood That Closed the Distance (v. 13)",
+        "body": "The second hinge of the chapter: those who were far off are brought near, and the currency of the relocation is the blood of Christ."
+      },
+      {
+        "label": "The Wall Demolished and One New Man Created (v. 14-16)",
+        "body": "Christ is our peace in person; He tore down the middle wall of partition in His flesh, put the dividing code out of operation, created one new humanity out of two, and killed the hostility on the cross."
+      },
+      {
+        "label": "One Access, One Spirit, One Father (v. 17-18)",
+        "body": "The risen Christ preaches peace to far and near alike, and both now come through the same door, in the same Spirit, to the same Father."
+      },
+      {
+        "label": "From Strangers to Sanctuary (v. 19-22)",
+        "body": "No longer aliens but fellow citizens and household members, built on the apostolic foundation with Christ as cornerstone, growing into a holy temple and a permanent dwelling place of God in the Spirit."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Dead Is Not a Metaphor — and Wrath Is Not a Mood",
+        "paragraphs": [
+          "Ephesians 2 is the chapter most likely to be flattened into something soothing, and the flattening always begins in the first three verses. So take them at full strength. Nekrós does not mean spiritually underperforming. It does not mean distant, or discouraged, or in a dry season. Paul chose the word people use over an open grave. And he compounds it: verse 1 says dead, verse 5 says dead again, in case the reader’s eye slid past it on the way to the comfort. A dead man has no latent capacity that the right sermon can activate. He cannot cooperate, cannot reach, cannot want to reach. That is the anthropology on which this entire letter stands, and if you soften it, everything after verse 4 becomes decoration instead of resurrection.",
+          "Then notice how carefully Paul boxes you in. Verse 2 gives you two enemies you might plausibly blame — the course of this world and the ruler of the power of the air — and just as you are settling into victimhood, verse 3 shuts that door with “among whom WE ALSO ALL once lived.” The Pharisee of Pharisees, the man blameless as touching the righteousness in the law, puts himself on the slab. And the driver he names is not the devil but “the lusts of our flesh, doing the desires of the flesh AND OF THE MIND.” The sins of the intellect and the imagination are indicted alongside the appetites of the body. Respectability is not innocence. It is simply a different address for the same corpse.",
+          "Which brings us to the phrase modern preaching quietly deletes: “by nature children of wrath, even as the rest.” Phýsis is birth-stock, kind, constitution — what you are before you have done anything. Say the hard thing plainly, because the prime directive of honest study demands it: Scripture teaches that human beings are not neutral parties who occasionally offend a God with a temper. God’s orgḗ is not divine irritability; it is the settled, holy, judicial opposition of a good God to everything that destroys what He made. A God who could look at trafficking, cruelty and self-worship and feel nothing would not be loving; He would be indifferent, and indifference is not a virtue in a father. The wrath of God is the shape His love takes when it faces what is killing His world.",
+          "And here is why the hard diagnosis is the best news in the chapter. If you were sick, you would need medicine and could be blamed for refusing it. If you were weak, you would need training and could be measured against those who trained harder. If you were merely far away, you could be told to walk back and shamed for walking slowly. But you were dead — and a dead man cannot be blamed for failing to raise himself, nor congratulated when he is raised. Total inability is the doctrine that ends both despair and pride in the same sentence. It is also the ground of everything Paul will command from 4:1 onward. Nothing in the second half of this letter is the price of your acceptance. It is the behaviour of people who have already been raised."
+        ]
+      },
+      {
+        "heading": "Three Verbs, All Past Tense, All Done to a Corpse — and the Seat You Have Not Felt",
+        "paragraphs": [
+          "Verses 4-6 are one of the great sentences of the New Testament, and its power is grammatical before it is emotional. “But God, being rich in mercy… made us alive together with Christ… and raised us up with him, and made us to sit with him in the heavenly places.” Three verbs. All aorist — completed action, not process. All prefixed with syn, “together with.” Syzōopoiéō, synegeírō, synkathízō. And all three are performed on a subject that Paul has just told you twice was dead. Not one of them describes something you contributed to. The corpse did not assist.",
+          "Now lay verse 6 beside 1:20, because Paul is doing this deliberately. In chapter 1 he prays that you would know the greatness of God’s power “which he worked in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly places.” Raised. Seated. Heavenly places. Chapter 2 takes those same two verbs — egeírō and kathízō, standing alone in 1:20 — and hands them back to you in 2:6 with syn- welded onto the front of each, so that they can no longer be read as anything you did separately. This is the answer to his own prayer: the power he asked God to reveal in 1:19 is described in 1:20 and located in you in 2:6. Whatever the Father did with the body of Jesus on resurrection morning, He has done with you in Him. Your seat is not a promise pending good behaviour. It is a fact you are presently not enjoying.",
+          "Then trace the phrase Paul uses in no other letter — en toîs epouraníois, “in the heavenly places” — because it runs like a wire through all six chapters and it does not mean “heaven, later.” It means the unseen realm that is more real than your street. It appears five times. In 1:3 every spiritual blessing is already stored there. In 1:20 Christ is seated there. In 2:6 you are seated there with Him. In 3:10 the church is God’s exhibition hall there, where the principalities and powers are shown the manifold wisdom of God. And in 6:12 the war is fought there — “against the spiritual forces of wickedness in the heavenly places.” Put the five together and the architecture of Christian living appears: your resources are there, your Head is there, your seat is there, your display is there, and your war is there. You are not fighting your way up to the seat. You are fighting down from it — and this is why the armour of chapter 6 is issued to people who are already seated, and why the command attached to it is not “advance” or “conquer” but “stand.”",
+          "And verse 7 tells you God’s motive, which is the least sentimental and most staggering thing in the chapter: “that in the ages to come he might show the exceeding riches of his grace.” Endeíknymi is a display verb. You were not merely rescued; you were made an exhibit. Through unending ages the created universe will study one specimen of what grace can do, and the specimen will be the corpse from verse 1 sitting in the heavenly places. God is not quietly embarrassed about whom He saved."
+        ]
+      },
+      {
+        "heading": "Not of Works, Created For Works — the Poem and the Road Already Laid",
+        "paragraphs": [
+          "Verses 8-10 are the tightest statement of the gospel in Scripture, and they are usually torn in half by people who only want one of the halves. Verse 8: “by grace you have been saved through faith” — cháris is the ground, pístis is only the channel, and the preposition is diá, “through,” never “because of.” Faith is the empty hand, not the coin in it. Verse 9 then gives God’s reason for arranging it this way, and the reason is not that works are worthless but that boasting is fatal: “that no one would boast.” If a single strand of your salvation originated in you, then eternity would contain a second subject of conversation. God did not merely discourage boasting; He removed its raw material.",
+          "On the much-argued clause “and that not of yourselves,” give the strongest grammatical reading rather than the most convenient one. The Greek demonstrative toûto is neuter, while both cháris (grace) and pístis (faith) are feminine nouns. That mismatch means “that” most naturally reaches back and gathers the entire transaction — the whole salvation-by-grace-through-faith — rather than pointing narrowly at faith alone. Some good scholars still take it of faith specifically, and the New Testament elsewhere does call faith a gift; either way the destination is identical and the door is shut on human contribution. Nothing here began with you.",
+          "And then verse 10 does something a lesser writer would never risk: it brings works straight back in the very next breath. “For we are his workmanship” — poíēma, a made thing, a crafted product, the root behind the English word “poem.” You are not merely pardoned; you are composed. The verb attached is ktízō, the creation word, the one for calling into being what was not there. And what were you created for? “Good works, which God prepared before that we would walk in them.” Proetoimázō — fitted up in advance. The works were laid out ahead of you like paving stones on a road that was finished before you took your first step on it.",
+          "Hold verses 9 and 10 in the same hand and the whole Christian life falls into order. Works are not the root; they are the road. They are not the price of the seat; they are the itinerary of the seated. This is also the theological spine of the whole letter, because Ephesians is built in two symmetrical halves and 4:1 is the hinge: “I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called.” Everything commanded from that verse onward — unity, holiness, honesty, purity, marriage, work, warfare — is response, never payment. Nothing is commanded in chapters 4-6 that has not already been given in chapters 1-3. The moment this study, or your own heart, makes an imperative into the ground of acceptance rather than the fruit of it, the letter has been turned upside down."
+        ]
+      },
+      {
+        "heading": "The Wall, the Inscription, and the Prisoner Who Was Chained For Crossing It",
+        "paragraphs": [
+          "The second half of the chapter is the same miracle performed on a different corpse. In verses 1-10 a dead man is raised. In verses 11-22 two hostile nations are made one, and Paul treats it as an act of equal power — because it is. He begins with a command that grace-drunk believers hate: “remember.” Remember the cellar. Five deprivations, each worse than the last: separate from Christ, alienated from the citizenship of Israel, foreigners to the covenants of promise, having no hope, and without God in the world. Átheos — the only occurrence of that word in the New Testament — is the floor. Not “atheist” in the modern debating sense; Godless, out in the open, with nothing over you. If the gospel has become small to you, it is almost always because verse 12 has become theoretical.",
+          "Then verse 14 hands us the most vivid image in the letter: “the middle wall of partition.” Herod’s temple had exactly such a barrier — a stone balustrade, roughly chest height, that ringed the inner courts and separated them from the vast Court of the Gentiles. Fixed along it were plaques inscribed in Greek and in Latin. Josephus describes them twice; and two of the actual stones have been recovered — one complete, discovered in 1871 and now in Istanbul, and a fragment found in 1935 now in Jerusalem. The wording is chillingly administrative: no foreigner may enter within the barrier, and whoever is caught will have himself to blame for the death that follows. Every Gentile God-fearer who ever loved the God of Israel stood at that stone and could go no further.",
+          "Now put the letter and the man together. Paul is dictating this while chained (3:1; 4:1; 6:20). Why is he chained? Because in Acts 21 a mob in that very court seized him, shouting that he had brought Greeks into the temple and defiled the holy place — and Luke tells us plainly why they assumed it: they had earlier seen him in the city with Trophimus, an Ephesian. Whether or not Paul’s readers in Asia knew that man personally, the accusation that put their apostle in Roman chains involved a citizen of their own province and that exact wall. And from inside those chains Paul writes: He broke it down. Not opened a gate in it, not lowered it — lýō, loosened, dismantled. When Matthew records that at the moment of Christ’s death “the veil of the temple was torn in two from the top to the bottom,” the inner curtain and the outer barrier fell in the same hour and by the same blood.",
+          "Be honest about what verse 15 does and does not abolish. Katargéō — put out of operation — is applied to “the law of commandments contained in ordinances,” the dógmata: the food laws, the calendar, the ceremonial boundary-markers that made Jew and Gentile two nations who could not share a table. God’s moral character is not repealed; Paul will quote the fifth commandment approvingly in 6:2. What is dismantled is the fence-work, because its dividing job is finished. And the purpose clause is more radical than either side wanted. Christ did not make the Gentile into a Jew, nor the Jew into a Gentile, nor even simply reconcile two groups who remain what they were. He created — ktízō, the Genesis verb — “one new man,” one kainós ánthrōpos, a third humanity that did not exist before the cross. And the enmity was not managed; it was “killed.” The oldest hatred in the ancient world was not counselled. It was executed on a Roman cross.",
+          "Then the two halves of the chapter fuse in the final image. Access — prosagōgḗ — is granted to both through one Spirit to one Father, and the once-excluded Gentile is not merely admitted to the courtyard but built into the naós, the inner sanctuary itself, as load-bearing stone. Read that against the barrier and you will feel the size of it: the man who could be lawfully executed for stepping past a chest-high wall in the outer court is now part of the wall of the Holy of Holies. That is the scale of Ephesians 2. Anything smaller than that is not this chapter."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Follow one pair of words out of this chapter and the book of Acts lights up: “far off” and “near.” Paul takes them from Isaiah 57:19 — “Peace, peace, to him who is far off and to him who is near” — and puts them in the mouth of the risen Christ in verse 17. But Peter had already fired that phrase at Pentecost, before he understood what he was saying. Preaching to a Jerusalem crowd in Acts 2:39, he promised, “the promise is to you, and to your children, and to all who are far off, even as many as the Lord our God will call to himself.” The wall was doctrinally demolished at the cross; it took the apostles years to stop walking into it.",
+        "Which is why Acts 10 exists. Peter is on a rooftop in Joppa, hungry, and God shows him a sheet let down from heaven full of animals no observant Jew would touch, with the command to kill and eat. Peter refuses — “I have never eaten anything that is common or unclean” — and the voice answers, “What God has cleansed, you must not call unclean.” Three times, because one was not enough for a man of his convictions. Then Peter walks into the house of a Gentile centurion and says the sentence that ends an era: “God has shown me that I shouldn’t call any man unholy or unclean.” While he is still preaching, the Holy Spirit falls on the Gentiles in the room, and the Jewish believers who came with him are astonished. Ephesians 2:18 is that scene turned into doctrine: “through him we both have our access in one Spirit to the Father.”",
+        "Then the cornerstone. Paul calls Christ the akrogōniaîos in verse 20, and he is standing in a line. Jesus Himself quoted Psalm 118:22 over the chief priests — the stone the builders rejected has become the head of the corner. Peter threw the same stone at the Sanhedrin in Acts 4:11 and then, writing his own letter, built the identical picture Paul builds here: believers as living stones, built up into a spiritual house, with Christ as the chosen and precious cornerstone God laid in Zion (1 Peter 2:4-6, quoting Isaiah 28:16). Two apostles who had once stood on opposite sides of the wall ended up describing the same building.",
+        "And the twin letter seals it. Tychicus carried Ephesians and Colossians on the same journey, and Colossians 1:20-22 uses the same rare verb Paul uses in 2:16 — apokatallássō, to reconcile fully — announcing that God reconciled all things to Himself “having made peace through the blood of his cross,” and that those once “alienated and enemies in your mind” are now presented holy and blameless. The vocabulary is identical because the event is one event. Finally, Revelation 21 shows you the finished building: a city out of heaven whose wall has twelve foundations bearing the names of the twelve apostles of the Lamb, with no temple in it, because the Lord God the Almighty and the Lamb are its temple. Ephesians 2 ends with God moving into a building. Revelation ends with the building finished and God still there."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Made alive together with",
+      "hebrew": "συζωοποιέω",
+      "translit": "syzōopoiéō",
+      "strongs": "G4806",
+      "verses": "v. 5 (with synegeírō, G4891, and synkathízō, G4776, in v. 6)",
+      "insight": "Strong’s renders it “to reanimate conjointly with” — sýn (together with) welded onto zōopoiéō (to make alive). Paul builds three of these syn- compounds in a row and they are the architecture of the chapter: made alive WITH Him, raised up WITH Him, seated WITH Him. Christian salvation is not God running a parallel resurrection on you; it is your inclusion in His. That is why the tense of all three is aorist — completed action. Your resurrection is not in your diary, it is in your history, dated to a Sunday morning outside Jerusalem. And the third verb is the one believers most struggle to accept: synkathízō, “to give or take a seat in company with.” You have not felt seated this week. It is still where you are. In this letter the seat is not a reward for the victorious; it is the platform from which the fighting in 6:12 is done."
+    },
+    {
+      "english": "Workmanship (a made thing, a work of craft)",
+      "hebrew": "ποίημα",
+      "translit": "poíēma",
+      "strongs": "G4161",
+      "verses": "v. 10",
+      "insight": "Strong’s defines it simply: “a product, i.e. fabric (literally or figuratively),” from poiéō, to make. It occurs only twice in the New Testament — here, and in Romans 1:20 of the created cosmos, where “the invisible things of him… are clearly seen, being perceived through the things that are made.” Sit with that pairing: the same word covers the galaxies and covers you. And it is the root the English word “poem” comes down — not because Paul was being poetic, but because a poíēma is a thing deliberately composed rather than accidentally occurring. Nothing about you is a rough draft God is tolerating. The line break, the scar, the strange gifting, the years you thought were wasted — a craftsman put them there. And the verse does not stop at the artwork; it names its function: created for good works God “prepared before.” The road was surfaced before you were born. You are not searching for God’s will like a man looking for a lost key in a dark room; you are walking a path that was laid, and the first stone of it is usually the obvious duty in front of you today."
+    },
+    {
+      "english": "Middle wall (of the partition)",
+      "hebrew": "μεσότοιχον",
+      "translit": "mesótoichon",
+      "strongs": "G3320",
+      "verses": "v. 14 (with phragmós, G5418, “fence, enclosing barrier”)",
+      "insight": "A word found nowhere else in the New Testament, built from mésos (middle) and toîchos (a wall) — literally “the wall in between,” and Paul stacks phragmós on it, the word for a fence or enclosing hedge. Two barrier words in one phrase, as though one were not enough to say what stood there. Historically the reference is unmistakable to anyone who had been to Jerusalem: the stone balustrade in Herod’s temple that fenced the inner courts off from the Court of the Gentiles, posted with notices in Greek and Latin warning that any foreigner who passed it was responsible for his own death. Two of those inscriptions have been dug up — one whole, in 1871, and a fragment in 1935 — so this is not preacher’s embroidery. Some scholars read the wall as the Torah itself (the rabbis spoke of building “a fence around the Law”), and verse 15 lets both readings stand together: the stone barrier was simply the visible form of the legal fence. Then note the verb — lýō, to loosen, to break up. He did not cut a door into it or lower it to a friendly height. It is gone. Which raises the only question that matters for you: what are you still maintaining that God demolished?"
+    },
+    {
+      "english": "Access (right of approach, admission)",
+      "hebrew": "προσαγωγή",
+      "translit": "prosagōgḗ",
+      "strongs": "G4318",
+      "verses": "v. 18 (and again in 3:12)",
+      "insight": "Strong’s gives one word for it: “admission.” It comes from proságō, to bring toward — and in the courts of the ancient world the related noun described the formal act of being conducted into the royal presence by someone with the standing to do it. You did not talk your way past the door; you were brought in on another man’s arm. That is the picture Paul chooses immediately after describing a wall that killed people for approaching. Now weigh the verb he attaches to it: échomen, present tense and continuous — we HAVE the access. Not “we were granted it once,” and not “we may apply for it again when we are presentable.” It is a standing right, not an occasional audience. Paul uses this noun only twice more in all his letters, and both places sharpen it: in 3:12 it arrives bundled with “boldness” and “confidence,” and in Romans 5:2 it is access “into this grace in which we stand.” Boldness. Confidence. Standing. Those are not the words of a man edging back toward a door he is not sure of. Which exposes what is really happening the next time you go quiet on God after you have failed: somewhere underneath, you still believe the door is re-earned. It is not. The One whose arm you are brought in on was not impressed by you on your best day, and He is not disqualified by you on your worst."
+    },
+    {
+      "english": "Chief cornerstone",
+      "hebrew": "ἀκρογωνιαῖος",
+      "translit": "akrogōniaîos",
+      "strongs": "G204",
+      "verses": "v. 20",
+      "insight": "Literally “belonging to the extreme corner,” from ákron (the extremity, the tip) and gōnía (a corner or angle). In ancient building the cornerstone was not decorative and it was not laid last. It was set first, at the angle where two walls meet, cut with such precision that every other stone in the structure took its line, its level and its right angle from it. Get that one stone wrong and no amount of later craftsmanship can make the building true. Paul has just said the foundation is “the apostles and prophets” — their testimony, not their personalities — and then anchors the whole thing to Christ, the stone from which everything is measured. The imagery is not his invention: Isaiah 28:16 has God laying in Zion a precious cornerstone of a sure foundation, and Peter applies it to Christ in 1 Peter 2:6. And here is the practical edge for a building that is still going up: a stone which will not be measured against the cornerstone cannot be fitted to the stones beside it. Every dispute in a church about who fits with whom is finally a question about which stone is being used as the reference."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with four things in this chapter: the improvement project you keep running on a corpse, the seat you have been fighting toward instead of from, the suspicion that your life is an accident, and the wall you are quietly rebuilding that Christ tore down in His own body.",
+    "items": [
+      {
+        "title": "Stop Trying to Improve a Corpse",
+        "body": "You know the cycle. You identify the problem, you make the resolution, you build the system, you last eleven days, and then you are back — and every collapse leaves you a little more convinced that you are the exception, the one case grace cannot get traction on. Read verse 1 again and let it end the project. You were not underperforming. You were dead. God’s answer to a dead man is not a better plan, more accountability, or a stricter fast; it is resurrection — and He has already performed it. So the question is not “how do I get more life?” but “what do I do with the life I have already been given?” Answer this honestly: which specific area of your life are you still trying to renovate by willpower, as though verse 5 had not happened to you? And what would change tomorrow if you approached it as a man who has already been raised rather than a man trying to raise himself?"
+      },
+      {
+        "title": "Sit Down Before You Try to Stand Up",
+        "body": "Trace the five “heavenly places” of this letter and then look at your prayer life. Your blessings are already stored there (1:3). Christ is seated there (1:20). You are seated there with Him (2:6). The church is God’s exhibit there (3:10). And the war is fought there (6:12) — the same address, which is not a coincidence. Now be honest about your posture. Are you fighting the enemy from underneath, as a man trying to earn standing, or from the seat, as a man who already has it? The difference is not volume; it is authority. Most of the spiritual exhaustion in believers is the exhaustion of fighting uphill on ground you were already given. This is exactly why the command attached to the armour in chapter 6 is not “advance” or “conquer” but “stand” — you cannot hold ground you do not believe you own. So where, specifically, have you been begging God for territory He seated you over two thousand years ago?"
+      },
+      {
+        "title": "You Are a Poem, Not an Accident",
+        "body": "There is a voice in you that has decided your life is a series of accidents held together by damage control — wrong turns, wasted years, a temperament you did not choose, a family you would not have picked. Verse 10 calls you poíēma, a crafted thing. And then it does something even more disarming: it says God prepared good works in advance for you to walk in. Not works in general — prepared ones, fitted up ahead of time, laid out on a road you are already standing on. That means the will of God is far less hidden than your anxiety insists. Usually the next prepared work is the obvious, unglamorous duty in front of you: the call you have been avoiding, the debt you owe, the person in your house who needs you present tonight. So ask it plainly: what is the one obviously good thing you have known for weeks you should do and have not done? And what if that is not a distraction from your calling but the next stone in the road?"
+      },
+      {
+        "title": "Name the Wall You Are Still Maintaining",
+        "body": "Christ did not renovate the wall; He demolished it in His own flesh and killed the hostility on the cross. So examine what you are rebuilding. It is rarely called a wall. It is called standards, or history, or “I’ve just moved on,” or a tribe, a tone, a denomination, a class, a family line, a person whose name still lowers the temperature in the room when you hear it. Paul wrote this from prison, chained because a mob accused him of taking a Gentile past exactly such a barrier — he paid for this doctrine with his freedom, so do not read it cheaply. Here is the test: if Christ has made one new man out of the two, then every wall you maintain is a private renovation of something God destroyed at the cost of His Son’s body. Who is on the other side of yours? Say the name out loud. And what would tearing your section of it down cost you this week — because it will cost something, and it cost Him more."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The “But God” Line",
+        "body": "Tell your own story in two halves the way Paul tells it, and see where you instinctively put the hinge. Do you narrate your salvation as “I was struggling, then I made a decision, then things improved”? Or as “I was dead — BUT GOD”? This is not a wording game. If the turning point in your testimony is something you did, you will spend the rest of your life defending it, comparing it, and fearing you might undo it. Write your two halves down tonight and look at which side of the page carries the verbs."
+      },
+      {
+        "title": "The Seat Check",
+        "body": "Watch what you do the day after you fail badly. Do you approach — walk straight in on the strength of prosagōgḗ, brought in on Another’s arm — or do you avoid, go quiet, do a few days’ penance, and come back once you feel presentable again? Your instinct in that 24 hours reveals whether you are living from verse 6 or from verse 12. Be specific: name the last time you avoided God after a failure, and count the days it cost you."
+      },
+      {
+        "title": "The Wall Audit",
+        "body": "Write down the name of one person or one group you have quietly written off — a relative, a former friend, a church, a tribe, an ethnicity, a class of people you have a settled joke about. Now write beside the name what you would have to give up in order to be reconciled: being right, being owed, being the injured party, being safe. Verse 16 says Christ did not negotiate with the hostility, He killed it. What exactly are you keeping alive that He put to death?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Reading the Two Columns Out Loud",
+        "body": "Take a sheet of paper tonight and draw a line down the middle. On the left, copy out in your own hand what you were: dead in trespasses and sins, walking according to the course of this world, by nature a child of wrath, separate from Christ, alienated, a stranger to the covenants, having no hope, without God in the world. Do not rush that column — it should be uncomfortable to write. On the right, copy what God did: rich in mercy, made me alive together with Christ, raised me up with Him, seated me with Him in the heavenly places, saved me by grace through faith as a gift, made me His workmanship, brought me near by the blood, made me a fellow citizen and a member of His household, built me into a holy temple. Then read the right-hand column out loud, standing, in the first person. Keep the sheet in your Bible at Ephesians 2 and read it the next morning you wake up condemned."
+      },
+      {
+        "title": "Crossing Your Own Wall This Week",
+        "body": "Take the name from the Wall Audit and do one concrete, costly, verifiable thing before this week ends — not a feeling, an act. Send the message. Make the call. Pay the money back. Sit in the room you avoid, with the people you would not naturally choose, and stay long enough to be uncomfortable. If the relationship cannot safely be reopened, then do the equivalent in private: write out their name, forgive the specific debt out loud item by item, and ask God to bless them by name for seven days running until you can say it without your jaw tightening. Then, in the same week, walk in one prepared good work from verse 10 — the obvious duty you have been postponing. Do it Wednesday, before the enthusiasm of Sunday wears off."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I begin where this chapter begins, and I will not soften it. I was dead in my trespasses and sins. I walked according to the course of this world, I was carried by the current of the prince of the power of the air, I served the desires of my flesh and of my mind, and by nature I was a child of wrath, even as the rest. I had nothing to bargain with, and I could not have raised myself if my life depended on it — and it did. BUT GOD. Rich in mercy. For Your great love with which You loved me, when I was dead, You made me alive together with Christ. You raised me up with Him. You made me to sit with Him in the heavenly places. Lord, I have not felt seated this week, but I take my seat by faith and not by feeling, and I refuse to fight for ground You have already given me. By grace I have been saved, through faith, and that not of myself — it is Your gift, not of works, so that I have nothing to boast about and nothing to defend. Father, I am Your workmanship. Not an accident, not a rough draft, not a case You are managing — a thing You made, created in Christ Jesus for good works which You prepared beforehand, that I would walk in them. Show me the next one and give me the courage to do it this week. And Lord, I remember the cellar: I was separate from Christ, alienated from the commonwealth, a stranger to the covenants, having no hope, and without God in the world. But now, in Christ Jesus, I who was far off have been made near by the blood of Christ. You are my peace. You broke down the middle wall of partition in Your own flesh, You killed the hostility on the cross, and You created one new man where there had been two enemies. So search me, and show me every wall I have quietly rebuilt — every person, every people, every grudge I have kept standing that You died to demolish. I take my section of it down today. Thank You that through Him we both have access in one Spirit to You, Father. I am no longer a stranger and a foreigner. I am a fellow citizen with the saints and a member of Your household, built on the foundation of the apostles and prophets, with Christ Jesus Himself as my chief cornerstone. Measure my life against that Stone, fit me to the people You have set beside me, and let me grow with them into a holy temple — a habitation of God in the Spirit. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Valley of Very Dry Bones",
+      "ref": "Ezekiel 37:1-14",
+      "relatedVerses": "v. 1-6",
+      "summary": "The Spirit sets Ezekiel down in the middle of a valley and walks him round it, and the detail Ezekiel cannot stop repeating is that the bones were very many and very dry — not the freshly fallen, but an old battlefield picked clean by weather and years. Then God asks the question this chapter is built on: “Son of man, can these bones live?” Ezekiel gives the only honest answer a man can give in front of a corpse: “Lord Yahweh, you know.” He prophesies, and there is a noise and an earthquake as bone finds bone, then sinew, then flesh, then skin — and still no breath in them, an army of intact bodies that are just as dead as before. Only when the breath comes do they stand on their feet, an exceedingly great army. That is Ephesians 2:1-6 in the Old Testament: the problem was never a shortage of religion or structure, it was a shortage of life; and the dead never cooperate in their own raising."
+    },
+    {
+      "title": "The Sheet on the Rooftop and the House of Cornelius",
+      "ref": "Acts 10",
+      "relatedVerses": "v. 11-18",
+      "summary": "Peter is hungry on a rooftop in Joppa when heaven lets down a sheet full of animals his conscience had rejected since childhood, with the order to kill and eat. He refuses on principle — “I have never eaten anything that is common or unclean” — and the voice answers, “What God has cleansed, you must not call unclean.” It happens three times, because the wall in Peter’s head was thicker than the one in the temple. Then the messengers of a Gentile centurion arrive, and Peter walks into a house he had been raised never to enter and says the sentence that closes an age: God has shown me not to call any man unholy or unclean. While he is still preaching, the Holy Spirit falls on the Gentiles in the room and the Jewish believers who came with him are astonished. Ephesians 2:18 is that afternoon turned into doctrine — “through him we both have our access in one Spirit to the Father.”"
+    },
+    {
+      "title": "The Riot at the Wall — and Trophimus the Ephesian",
+      "ref": "Acts 21:27-36",
+      "relatedVerses": "v. 14-16; cf. 3:1; 6:20",
+      "summary": "Paul is in the temple completing a vow when Jews from Asia — from the very province this letter is written to — spot him and start a riot, shouting that he has brought Greeks into the temple and defiled the holy place. Luke names the reason for the accusation without embarrassment: they had previously seen Trophimus, an Ephesian, with him in the city, and assumed Paul had taken him past the barrier. The crowd drags him out, the temple doors are shut behind him, and he is inches from being beaten to death when Roman soldiers pull him out of the mob. That arrest is the first link in the chain that runs through Caesarea, an appeal to Caesar, a shipwreck, and finally a rented house in Rome with a guard attached. So when he writes “he broke down the middle wall of partition,” he is writing it in the chains that wall put on him — and he is writing it to the province of the man he was accused of bringing across."
+    }
+  ]
+}

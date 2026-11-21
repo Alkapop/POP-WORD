@@ -1,0 +1,754 @@
+{
+  "type": "chapterStudy",
+  "book": "Galatians",
+  "chapter": 2,
+  "chapterTitle": "Crucified With Christ — Titus Uncircumcised, Peter Corrected, and the Gospel Held",
+  "themeTitle": "“If Righteousness Is Through the Law, Then Christ Died for Nothing”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me.",
+      "understanding": "Paul is still counting, and the counting is evidence. Chapter 1 gave three years before his first visit; now fourteen more — reckoned either from that visit or from his conversion, and the letter never says which. Either way the arithmetic buries the accusation: a man who got his gospel from a committee does not stay away from that committee for fourteen years. And look at who he takes up with him: Barnabas, a Jewish Levite from Cyprus, and Titus, an uncircumcised Greek. He does not leave the awkward man at home to keep the meeting comfortable. He walks the test case straight into the room.",
+      "words": [
+        {
+          "strongs": "G305",
+          "hebrew": "ἀναβαίνω",
+          "translit": "anabaínō",
+          "english": "went up"
+        },
+        {
+          "strongs": "G4838",
+          "hebrew": "συμπαραλαμβάνω",
+          "translit": "symparalambánō",
+          "english": "taking also with me"
+        },
+        {
+          "strongs": "G5103",
+          "hebrew": "Τίτος",
+          "translit": "Títos",
+          "english": "Titus"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "I went up by revelation, and I laid before them the Good News which I preach among the Gentiles, but privately before those who were respected, for fear that I might be running, or had run, in vain.",
+      "understanding": "Two things are true in one sentence, and both matter. He went up “by revelation” — God sent him; he was not summoned by head office to explain himself. Yet he did lay his gospel out before the leaders (anatithemai, to set a matter forth for consideration), and privately, so the thing could be settled without a mob. Independence is not isolation. And read his fear honestly: not that his message might be false — he has just spent a chapter proving it came from Christ — but that a split church would empty out the running, eis kenon, into emptiness. He was not protecting his doctrine. He was protecting the run.",
+      "words": [
+        {
+          "strongs": "G602",
+          "hebrew": "ἀποκάλυψις",
+          "translit": "apokálypsis",
+          "english": "revelation"
+        },
+        {
+          "strongs": "G394",
+          "hebrew": "ἀνατίθεμαι",
+          "translit": "anatíthemai",
+          "english": "laid before"
+        },
+        {
+          "strongs": "G1380",
+          "hebrew": "δοκέω",
+          "translit": "dokéō",
+          "english": "those who were respected"
+        },
+        {
+          "strongs": "G2756",
+          "hebrew": "κενός",
+          "translit": "kenós",
+          "english": "in vain"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "But not even Titus, who was with me, being a Greek, was compelled to be circumcised.",
+      "understanding": "Here is the hinge of the whole first half, and it is not an argument — it is a man standing in a room. Titus is a Hellēn, a Greek, uncircumcised, in Jerusalem, in front of the apostles. And nobody made him do it. Anankazō means to necessitate, to apply pressure until a thing becomes unavoidable — and Paul's point is that the pressure never came. If grace had needed a knife to finish it, that was the day and that was the man. The knife stayed in the drawer.",
+      "words": [
+        {
+          "strongs": "G1672",
+          "hebrew": "Ἕλλην",
+          "translit": "Héllēn",
+          "english": "a Greek"
+        },
+        {
+          "strongs": "G315",
+          "hebrew": "ἀναγκάζω",
+          "translit": "anankázō",
+          "english": "compelled"
+        },
+        {
+          "strongs": "G4059",
+          "hebrew": "περιτέμνω",
+          "translit": "peritémnō",
+          "english": "to be circumcised"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "This was because of the false brothers secretly brought in, who stole in to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage;",
+      "understanding": "Paul's vocabulary here is espionage, not theology. Pseudadelphos — counterfeit brothers. Pareisaktos — smuggled in. Pareiserchomai — slipped in alongside. Kataskopeō — to scout a position insidiously, the word for a sentinel casing enemy ground. They came into a room to look at freedom, and Paul names their goal without a single soft word: katadouloō, to enslave utterly. Legalism never introduces itself as slavery. It arrives as a brother with a concern.",
+      "words": [
+        {
+          "strongs": "G5569",
+          "hebrew": "ψευδάδελφος",
+          "translit": "pseudádelphos",
+          "english": "false brothers"
+        },
+        {
+          "strongs": "G3920",
+          "hebrew": "παρείσακτος",
+          "translit": "pareísaktos",
+          "english": "secretly brought in"
+        },
+        {
+          "strongs": "G3922",
+          "hebrew": "παρεισέρχομαι",
+          "translit": "pareisérchomai",
+          "english": "stole in"
+        },
+        {
+          "strongs": "G2684",
+          "hebrew": "κατασκοπέω",
+          "translit": "kataskopéō",
+          "english": "spy out"
+        },
+        {
+          "strongs": "G1657",
+          "hebrew": "ἐλευθερία",
+          "translit": "eleuthería",
+          "english": "liberty"
+        },
+        {
+          "strongs": "G2615",
+          "hebrew": "καταδουλόω",
+          "translit": "katadoulóō",
+          "english": "bring into bondage"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "to whom we gave no place in the way of subjection, not for an hour, that the truth of the Good News might continue with you.",
+      "understanding": "“Not for an hour.” This from the same man who would later circumcise Timothy for the sake of the mission — because there the knife was strategy, and here it was being made a condition of acceptance with God. On strategy Paul bent all day; on the gospel he did not bend for sixty minutes. And read who he did it for: “that the truth of the Good News might continue with YOU” — Gentiles in Galatia who would not be born again for years. Somebody stood in a room you never saw so the gospel could reach you unedited.",
+      "words": [
+        {
+          "strongs": "G5292",
+          "hebrew": "ὑποταγή",
+          "translit": "hypotagḗ",
+          "english": "subjection"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But from those who were reputed to be important (whatever they were, it makes no difference to me; God doesn’t show partiality to man)—they, I say, who were respected imparted nothing to me,",
+      "understanding": "Dokeō — those who “seemed,” the men of reputation. Paul is not sneering at the apostles; he is dismantling his opponents' argument, because they had been waving Jerusalem's famous names at Galatia like credentials. And the ground of his bluntness is theology, not temperament — and the Greek says it harder than the English does: prosōpon ou lambanei, God does not receive a face. He is not impressed by the person standing in front of Him. Heaven does not read résumés. They added nothing to his gospel for the simplest of reasons: there was nothing to add.",
+      "words": [
+        {
+          "strongs": "G1380",
+          "hebrew": "δοκέω",
+          "translit": "dokéō",
+          "english": "reputed to be important"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face / person (shows partiality)"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "receive (shows partiality)"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "but to the contrary, when they saw that I had been entrusted with the Good News for the uncircumcised, even as Peter with the Good News for the circumcised",
+      "understanding": "Not two gospels — one gospel, two assignments. “Of the uncircumcised” and “of the circumcised” describe the field, not the message; the man who wrote 1:8 has already pronounced a curse on any second gospel, including one preached by an angel. And notice the verb behind “entrusted”: he had been believed-with, handed a trust. You do not audit what God has already put into a man's hands.",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "entrusted"
+        },
+        {
+          "strongs": "G203",
+          "hebrew": "ἀκροβυστία",
+          "translit": "akrobystía",
+          "english": "the uncircumcised"
+        },
+        {
+          "strongs": "G4061",
+          "hebrew": "περιτομή",
+          "translit": "peritomḗ",
+          "english": "the circumcised"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "(for he who worked through Peter in the apostleship with the circumcised also worked through me with the Gentiles);",
+      "understanding": "The proof is not Paul's eloquence but God's energy — energeō, a power actively at work, and Paul says it is the same Worker in both men. Peter got Pentecost and three thousand Jews in a morning; Paul got Gentile cities, whippings, and riots. Same God, different rooms. When God is visibly working through someone you did not appoint and would not have chosen, you have already been told what to do about them.",
+      "words": [
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "worked through"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "and when they perceived the grace that was given to me, James and Cephas and John, they who were reputed to be pillars, gave to me and Barnabas the right hand of fellowship, that we should go to the Gentiles, and they to the circumcision.",
+      "understanding": "They “perceived the grace” — not the crowd size, not the strategy, the charis on the man. Stylos, pillars: the load-bearing men of God's house. And what they gave was the right hand of koinōnia, the ancient handclasp of partnership — a covenant gesture, not a polite greeting. Notice how it actually ended: nobody won a debate. Three men recognised grace on a fourth and shook his hand.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G4769",
+          "hebrew": "στῦλος",
+          "translit": "stŷlos",
+          "english": "pillars"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G2842",
+          "hebrew": "κοινωνία",
+          "translit": "koinōnía",
+          "english": "fellowship"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "They only asked us to remember the poor—which very thing I was also zealous to do.",
+      "understanding": "In all of Jerusalem, the single thing added to Paul's gospel was not a rite. It was the poor. Ptōchos is not “short this month”; Strong's takes it back to the crouching beggar, absolute and public destitution. And Paul answers before he is asked — he was already spoudazō about it, eager, making haste. A gospel that refuses to add circumcision will still add a collection. Freedom from law was never freedom from the hungry.",
+      "words": [
+        {
+          "strongs": "G4434",
+          "hebrew": "πτωχός",
+          "translit": "ptōchós",
+          "english": "the poor"
+        },
+        {
+          "strongs": "G4704",
+          "hebrew": "σπουδάζω",
+          "translit": "spoudázō",
+          "english": "was zealous"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "But when Peter came to Antioch, I resisted him to his face, because he stood condemned.",
+      "understanding": "Read this without flinching, because the church's own Scripture records it. The man who preached at Pentecost, who was handed the keys, is publicly resisted “to his face” — kata prosōpon, face to face, no letter, no back channel — by a former persecutor of the church. And the ground is not Paul's opinion: the Greek says Peter stood already-condemned, a verdict the facts had reached before Paul opened his mouth. Paul did not create the judgement. He announced one.",
+      "words": [
+        {
+          "strongs": "G2607",
+          "hebrew": "καταγινώσκω",
+          "translit": "kataginṓskō",
+          "english": "he stood condemned"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For before some people came from James, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing those who were of the circumcision.",
+      "understanding": "Peter had been eating with the Gentiles — this is the man God had to convince with a sheet lowered from heaven before he would enter a Gentile house at all. Then men arrived from James, and two verbs tell the story: hypostellō, he drew back, shrank down, withdrew under cover; and aphorizō, he set himself off behind a boundary line. And the engine is named, and it is not conviction — phobeomai, fear. Peter never changed his theology at Antioch. He changed his table. And a table is theology you can watch.",
+      "words": [
+        {
+          "strongs": "G5288",
+          "hebrew": "ὑποστέλλω",
+          "translit": "hypostéllō",
+          "english": "drew back"
+        },
+        {
+          "strongs": "G873",
+          "hebrew": "ἀφορίζω",
+          "translit": "aphorízō",
+          "english": "separated himself"
+        },
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "fearing"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "And the rest of the Jews joined him in his hypocrisy; so that even Barnabas was carried away with their hypocrisy.",
+      "understanding": "Hypokrisis is stage vocabulary — acting under a mask, playing a part that is not you. Peter did not preach a false sermon; he performed a separation he did not believe in, and his feet lied where his mouth would not. Then it spread: synapagō, to be carried off together, swept along in a current — until it took Barnabas, the one man who had vouched for Paul when the whole church was still afraid of him, who had been thrown out of Pisidian Antioch at his side and had fled a stoning plot in Iconium with him. “Even Barnabas.” Compromise never stays in one man's chair.",
+      "words": [
+        {
+          "strongs": "G5272",
+          "hebrew": "ὑπόκρισις",
+          "translit": "hypókrisis",
+          "english": "hypocrisy"
+        },
+        {
+          "strongs": "G4879",
+          "hebrew": "συναπάγω",
+          "translit": "synapágō",
+          "english": "carried away with"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "But when I saw that they didn’t walk uprightly according to the truth of the Good News, I said to Peter before them all, “If you, being a Jew, live as the Gentiles do, and not as the Jews do, why do you compel the Gentiles to live as the Jews do?",
+      "understanding": "Orthopodeō appears nowhere else in the New Testament and means, with beautiful literalness, straight-footed — to walk a straight line. Notice the charge: not that they believed wrongly but that their feet were not tracking with what they believed. So the rebuke is public — “before them all” — because the wound was public and everyone in Antioch had watched the seating change. And the logic is airtight: your own table habits have been confessing grace for months, so why is your retreat now putting Gentiles under pressure to Judaize?",
+      "words": [
+        {
+          "strongs": "G3716",
+          "hebrew": "ὀρθοποδέω",
+          "translit": "orthopodéō",
+          "english": "walk uprightly"
+        },
+        {
+          "strongs": "G315",
+          "hebrew": "ἀναγκάζω",
+          "translit": "anankázō",
+          "english": "compel"
+        },
+        {
+          "strongs": "G2450",
+          "hebrew": "Ἰουδαΐζω",
+          "translit": "Ioudaḯzō",
+          "english": "live as the Jews do"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "“We, being Jews by nature, and not Gentile sinners,",
+      "understanding": "Paul begins inside the advantage before he demolishes it. “Jews by nature” — born inside the covenant, raised on the law, never one of the “Gentile sinners” that phrase was thrown at across a dinner table. He is not mocking his heritage; he is setting the trap. If anyone alive could be justified by law-keeping, it would be the men in this sentence. Watch what he does with them in the next breath.",
+      "words": [
+        {
+          "strongs": "G2453",
+          "hebrew": "Ἰουδαῖος",
+          "translit": "Ioudaîos",
+          "english": "Jews"
+        },
+        {
+          "strongs": "G268",
+          "hebrew": "ἁμαρτωλός",
+          "translit": "hamartōlós",
+          "english": "sinners"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "yet knowing that a man is not justified by the works of the law but through faith in Jesus Christ, even we believed in Christ Jesus, that we might be justified by faith in Christ, and not by the works of the law, because no flesh will be justified by the works of the law.",
+      "understanding": "The doctrinal centre of the letter — and Paul says “justified” three times in one verse. Dikaioō is courtroom language: to declare, pronounce, and treat as righteous. Not to make a man gradually better; to rule on him. And feel the weight of “even we believed” — the people with the best law record in the room walked away from that ledger and went to Christ. Then the door closes on the entire human race in an echo of Psalm 143:2: no flesh, none, ever, will be justified by works of law.",
+      "words": [
+        {
+          "strongs": "G1344",
+          "hebrew": "δικαιόω",
+          "translit": "dikaióō",
+          "english": "justified"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "law"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "But if, while we sought to be justified in Christ, we ourselves also were found sinners, is Christ a servant of sin? Certainly not!",
+      "understanding": "Here is the objection real grace always attracts: if the law is not the ground of acceptance, and grace-people are found to be sinners after all, has Christ become sin's employee — a diakonos, the word for a waiter serving at table? Paul answers with mē genoito, the strongest negative in his Greek: may it never come into being. Note this carefully — if nobody has ever accused your gospel of being too free, it is worth asking whether you have preached grace yet.",
+      "words": [
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servant"
+        },
+        {
+          "strongs": "G1096",
+          "hebrew": "γίνομαι",
+          "translit": "gínomai",
+          "english": "certainly not (lit. may it never become)"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For if I build up again those things which I destroyed, I prove myself a law-breaker.",
+      "understanding": "Now watch the reversal, because it inverts everything the Judaizers assumed. Paul says the transgression is not in tearing the system down — it is in rebuilding it. Katalyō, to demolish; oikodomeō, to build back up. If he re-erects law-keeping as the basis of acceptance, he does not become more holy; he “proves himself” — literally, presents himself as — a parabatēs, a violator. Every return to earning is a public statement that the cross came up short.",
+      "words": [
+        {
+          "strongs": "G3618",
+          "hebrew": "οἰκοδομέω",
+          "translit": "oikodoméō",
+          "english": "build up again"
+        },
+        {
+          "strongs": "G2647",
+          "hebrew": "καταλύω",
+          "translit": "katalýō",
+          "english": "destroyed"
+        },
+        {
+          "strongs": "G3848",
+          "hebrew": "παραβάτης",
+          "translit": "parabátēs",
+          "english": "law-breaker"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "For I, through the law, died to the law, that I might live to God.",
+      "understanding": "The strangest sentence in the chapter: the law itself is what killed him to the law. It did exactly the job it was built for — it condemned him, sentenced him, exhausted him, and walked him to Christ with a death warrant in its hand. And a dead man owes nothing further to the code that executed him. But read the purpose clause before you relax: he died to the law not to live loosely, but “that I might live to God.”",
+      "words": [
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "law"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "died"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "live"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "I have been crucified with Christ, and it is no longer I that live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.",
+      "understanding": "Systauroō — crucified together with — and in the Greek it is a perfect tense: an execution that happened, whose effect is still standing today. Paul does not say he is trying to die daily; he says he was fastened to a Roman stake with Christ and the man who used to run that life is gone. Then he refuses to leave it mystical — “That life which I NOW live in the flesh,” with the bills and the body and the ordinary Tuesday, is lived by faith in the Son of God. And he shrinks the whole atonement down to the first person singular: who loved ME, and gave Himself up for ME.",
+      "words": [
+        {
+          "strongs": "G4957",
+          "hebrew": "συσταυρόω",
+          "translit": "systauróō",
+          "english": "crucified with"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "live"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        },
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "gave himself up"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "I don’t reject the grace of God. For if righteousness is through the law, then Christ died for nothing!”",
+      "understanding": "Atheteō — to set aside, to nullify, the verb for annulling a covenant or treating a decree as void. Paul turns it around: it is not the man preaching free grace who nullifies grace, it is the man adding to it. Then the hammer falls and leaves no third option. Dōrean means gratuitously, for no cause, for nothing — if righteousness were ever obtainable through law-keeping, then the Son of God bled to death to buy something you could have earned. Every private attempt to deserve your standing is an argument that Calvary was unnecessary.",
+      "words": [
+        {
+          "strongs": "G114",
+          "hebrew": "ἀθετέω",
+          "translit": "athetéō",
+          "english": "reject / set aside"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G1432",
+          "hebrew": "δωρεάν",
+          "translit": "dōreán",
+          "english": "for nothing"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Greek Standing in the Room",
+      "verseRef": "v. 1-3",
+      "image": "Jerusalem. A private room, not a public hall. On one side sit the men everyone in the empire has heard of — James the Lord's brother, Cephas, John. On the other side sits a Cypriot Levite named Barnabas, a former persecutor of the church named Paul, and a young Greek named Titus who has no covenant papers, no synagogue history, and no mark on his body. Everyone in the room can see what he is. Nobody in the room has to ask. Paul has walked his hardest case through the door on purpose, and the whole future of the Gentile church is standing there in one uncircumcised man, waiting to see whether anyone reaches for a knife.",
+      "meaning": "Doctrine can be argued forever in the abstract; a living man in the room ends it. Paul could have left Titus in Antioch and kept the meeting theoretical. Instead he made the theory walk. And the verdict is written in a sentence with no drama in it at all: “not even Titus... was compelled to be circumcised.” Anankazō means to apply pressure until a thing becomes unavoidable — and the pressure never came. That silence is one of the loudest moments in the New Testament. If grace had ever needed a knife to complete it, that was the day, that was the room, and that was the man."
+    },
+    {
+      "title": "Spies in the Freedom Camp",
+      "verseRef": "v. 4-5",
+      "image": "Picture men slipping in through a side door while the meeting is already under way — not to worship, not to learn, but to look. Their eyes move around the room taking inventory: who is eating what, who has been baptised without being circumcised, how far this liberty has actually gone. Paul stacks four words on them like charges on an indictment: counterfeit brothers, smuggled in, slipped in alongside, sent to scout the position. And then he tells you what the reconnaissance was for — not correction, not concern, but chains.",
+      "meaning": "This is what makes Galatians so uncomfortable and so necessary: the enemy in this chapter is inside the meeting, and he is calling everyone brother. Kataskopeō is military — a sentinel inspecting enemy ground before an assault; katadouloō is total — to enslave utterly. Nobody walks up to a free man and offers him bondage; they offer him standards, seriousness, a deeper commitment, a way to be sure. And Paul's response sets the measure for every believer since: “we gave no place in the way of subjection, not for an hour.” Not a season of prayerful compromise. Not one hour."
+    },
+    {
+      "title": "The Table Peter Left",
+      "verseRef": "v. 11-14",
+      "image": "Antioch. A courtyard, evening, a shared meal — Jews and Gentiles at one table, which in that world was the most radical sentence the gospel had yet written into the ground. Peter is there with bread in his hand, eating food he was raised to call unclean, laughing with men his grandmother would not have let into the house. Then a group arrives from Jerusalem. Nobody shouts. Peter simply finishes, gets up, and over the following days his place at that table is quietly taken somewhere else. The other Jewish believers notice, and drift. Then Barnabas gets up. And on the other side of the courtyard, a room full of Gentile believers sits and works out what they have just been told about themselves.",
+      "meaning": "Peter did not preach heresy at Antioch. He changed seats — and a table is theology you can watch. Hypostellō is the picture of a man shrinking back out of sight; aphorizō is drawing a boundary line and standing on your own side of it. And the motive Paul names is not conviction but fear of what a certain group would think. That is why Paul “resisted him to his face,” publicly, “before them all”: the sermon had been preached with chairs, so the correction could not be whispered. The rock of the church was wrong that week, and Scripture prints it — because the gospel mattered more than the optics."
+    },
+    {
+      "title": "The Man Who Is Already Dead",
+      "verseRef": "v. 19-20",
+      "image": "A Roman execution ground, and there are two men on the same stake. One of them is the Son of God. The other one is you. The nails are through both of you; the sentence has been carried out on both of you; and when the soldier comes at the end of the day to check, there is no pulse in either. Now watch what happens next: one of them gets up. And the life that walks away from that hill is not the old life resumed — it is His life, in your body, on your street, going to your job on Monday morning.",
+      "meaning": "Systauroō stands in the perfect tense: it happened, and it is still in force. That is why the legalist's whole project is finished before it begins — you cannot improve a corpse, and you cannot threaten one. Paul is not describing an experience he is chasing; he is stating a fact he lives on. But do not let it float. He drags it straight back into the ordinary: “That life which I now live in the flesh, I live by faith in the Son of God.” Not in the clouds. In the flesh, by faith, today — and the reason he can is the last clause, where the whole cosmic atonement narrows to two pronouns: who loved me, and gave himself up for me."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Fourteen Years Later, and Sent by God (v. 1-2)",
+        "body": "Paul goes up to Jerusalem by revelation rather than by summons, and lays his gospel privately before the leaders — not to have it approved, but so that a split church would not empty out the running."
+      },
+      {
+        "label": "The Test Case Named Titus (v. 3-5)",
+        "body": "An uncircumcised Greek stands in front of the apostles and nobody makes him submit; the false brothers who came to spy out liberty are given no place, not for an hour."
+      },
+      {
+        "label": "What Jerusalem Added: Nothing, Except the Poor (v. 6-10)",
+        "body": "The men of reputation imparted nothing to Paul's gospel; they recognised the same God at work in him, gave the right hand of fellowship, and asked only that he remember the poor."
+      },
+      {
+        "label": "Antioch: The Table That Split (v. 11-13)",
+        "body": "Peter ate with the Gentiles until men came from James, then drew back in fear — and the hypocrisy spread through the Jewish believers until it carried away even Barnabas."
+      },
+      {
+        "label": "The Public Rebuke (v. 14)",
+        "body": "Because they were not walking straight-footed according to the truth of the Good News, Paul confronts Peter before them all: your own table confesses grace, so why are you pressuring Gentiles to live as Jews?"
+      },
+      {
+        "label": "The Doctrinal Core: Justified by Faith, Not by Works of Law (v. 15-16)",
+        "body": "Even those with the best possible law record abandoned the ledger and believed in Christ Jesus, because no flesh will ever be justified by works of the law."
+      },
+      {
+        "label": "Rebuilding What You Tore Down (v. 17-18)",
+        "body": "Grace does not make Christ a servant of sin; the real transgression is re-erecting the very system the cross demolished."
+      },
+      {
+        "label": "Crucified With Christ — and the Closing Hammer (v. 19-21)",
+        "body": "The law killed Paul to the law so he could live to God; he has been crucified with Christ and now lives by faith in the Son who loved him — and if righteousness came by law, Christ died for nothing."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Date, the Meeting, and Why This Is Probably the Earliest Letter You Own",
+        "paragraphs": [
+          "The strongest reading of the evidence is this: Galatians was written to the churches of south Galatia — Pisidian Antioch, Iconium, Lystra and Derbe, planted on the first missionary journey of Acts 13-14 — around AD 48-49, and most likely before the Jerusalem Council of Acts 15. That would make this letter the earliest surviving document of the New Testament. The alternative view, held by serious men, dates the letter later to churches in ethnic north Galatia and identifies the visit of 2:1-10 with the council itself; but it has to explain a silence it cannot explain.",
+          "Here is the silence. If the Jerusalem Council had already met and issued its ruling — that Gentile believers were not to be troubled with circumcision — then Paul is fighting the Galatian crisis with the winning document sitting in his bag and never once takes it out. One sentence citing that decree would have ended the argument. He does not cite it, which is best explained by the fact that it did not yet exist. And the meeting he describes here does not read like the council: it is private (“privately before those who were respected”), it is prompted by a revelation rather than a delegation, and its outcome is a handshake between men rather than a letter to the churches. The visit of Galatians 2:1-10 fits most naturally with the famine-relief visit of Acts 11:27-30 and 12:25, when Barnabas and Saul carried money from Antioch to Judea.",
+          "Do not let that be trivia. It means that before the church had a single written Gospel, before a council had convened, before any of the doctrinal machinery existed, this is what the Holy Spirit put on paper first: justification by faith in Christ alone, defended by a man with no institutional backing, over an argument about a dinner table. The gospel was under attack in the first decade, from inside, by people who used the same vocabulary. It has never once been safe by default, and it is not safe by default now."
+        ]
+      },
+      {
+        "heading": "The Rock of the Church Was Publicly Wrong — and Scripture Prints It",
+        "paragraphs": [
+          "Verse 11 is one of the most astonishing sentences in the New Testament and the church has spent two thousand years trying to make it smaller. Paul — the latecomer, the former persecutor, the man whose apostleship was being questioned in Galatia that very month — publicly resists Peter “to his face.” Not by letter. Not through an intermediary. And he does not soften the verdict either: the Greek says Peter stood already-condemned, a judgement the facts had reached before Paul spoke. Paul did not manufacture the ruling. He read it out.",
+          "So be exact about what Peter did wrong, because it is not what people assume. Peter's doctrine was not in question. This is the man God had to convince with a vision before he would enter a Gentile house, and who then defended that decision to the circumcision party in Jerusalem and won. He knew. He had been eating with the Gentiles for weeks. What changed was not his theology but his feet — and Paul's word for it, orthopodeō, appears nowhere else in the New Testament: they were not walking straight. The gap between what Peter believed and where Peter sat was the whole sin, and Paul calls that gap by its stage name, hypokrisis: playing a part. You can hold flawless doctrine and preach a lie with your seating plan.",
+          "And notice why it could not stay private. The obvious objection — should Paul not have taken his brother aside? — misses what was actually happening in that courtyard. The withdrawal was public, it was being copied by every Jewish believer in the city, it had already swept away Barnabas, and every Gentile believer in Antioch was quietly being informed that they were second-class until they submitted to the law. A public act was teaching a public error to a watching church, and Paul says exactly why he acted: “when I saw that they didn’t walk uprightly according to the truth of the Good News.” Not because he was wounded. Not because he enjoyed the fight. Because the gospel was being edited by furniture. And here is the pastoral steel in it: love that will not confront is not love, it is management — and the tell is that Peter never retaliated. The New Testament preserves this account and preserves Peter calling Paul a beloved brother, which means the rebuke was received. Correction between men who love the truth does not end friendships. It ends errors."
+        ]
+      },
+      {
+        "heading": "Justified: What That Word Actually Does, and What “Works of the Law” Actually Means",
+        "paragraphs": [
+          "Dikaioō is a courtroom verb, and everything depends on that. It does not mean to make a man gradually better; it means to declare, pronounce, and treat as righteous — a judge's ruling, not a doctor's slow cure. Paul uses it three times in verse 16 alone, the way a man drives the same nail three times because he intends the board to hold. And the ruling is not a legal fiction bolted onto an unchanged man: the same chapter that says you were declared righteous says you were crucified and now carry Christ's own life. The verdict comes first, the life follows, and the order is never reversed. That is precisely what the false brothers could not tolerate.",
+          "Now the honest question modern scholarship presses: does “works of the law” mean the whole law-keeping enterprise, or just the ethnic boundary markers — circumcision, food laws, calendar — that separated Jew from Gentile? The badges were undeniably the flashpoint; the whole chapter is about a knife and a dinner table. But Paul's own conclusion refuses to stay that narrow. He does not write “no Gentile” or “no uncircumcised man” — he writes “no flesh will be justified by the works of the law,” which is an echo of Psalm 143:2 and a sentence about the human race. And in the very next chapter he grounds it in performance, not identity: “Cursed is everyone who doesn’t continue in all things that are written in the book of the law, to do them” (3:10). The badges were the presenting symptom. The disease is the ledger itself.",
+          "Which brings you to verse 18, where Paul turns the accusation inside out. His opponents thought demolition was the sin. Paul says the sin is the rebuild: “if I build up again those things which I destroyed, I prove myself a law-breaker.” Read that slowly, because it lands on your quiet religious habits, not on somebody else's. Every private rule you re-erect as the condition of God's acceptance — the streak of clean days, the prayer quota, the giving level, the version of yourself you must be before you dare approach Him — is not extra devotion. It is masonry on a demolished building. And verse 21 tells you what the finished structure declares: dōrean, for nothing, without cause. If you can get there by climbing, then the Son of God bled to death to buy something you could have earned yourself. There is no third option in this chapter, and Paul does not offer one."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Follow the verb of verse 20 and watch it reappear where you most need it. Systauroō — “crucified with” — is not a word Paul uses loosely; and in Romans 6:6 he uses the same verb to explain what happened to you: “knowing this, that our old man was crucified with him, that the body of sin might be done away with, so that we would no longer be in bondage to sin.” Then he draws the conclusion Galatians 2 assumes: “For he who has died has been freed from sin” (Romans 6:7). Put the two letters side by side and the argument closes. Galatians 2:20 tells you a death has occurred; Romans 6:11 tells you what to do with it — “consider yourselves also to be dead to sin, but alive to God in Christ Jesus our Lord.” The Christian life is not the effort to die. It is the daily reckoning of a death that has already happened.",
+        "The doctrinal core travels too. Galatians 2:16 says “no flesh will be justified by the works of the law”; Romans 3:20 says “by the works of the law, no flesh will be justified in his sight. For through the law comes the knowledge of sin”; and Romans 3:28 states the verdict in one line: “We maintain therefore that a man is justified by faith apart from the works of the law.” This is not Paul contradicting himself between an angry letter and a calm one. It is the same man saying the same thing to a house on fire and then to a house at peace. And Galatians itself keeps the law's dignity intact while stripping it of the job it never had: “Then why is there the law? It was added because of transgressions” (3:19), and “the law has become our tutor to bring us to Christ, that we might be justified by faith” (3:24). The law was never the ladder. It was the tutor who walked you to the door and knocked.",
+        "And the fruit of Antioch is written in the book of Acts. At the Jerusalem Council in Acts 15, when the question of Gentile circumcision came to the whole church, it was Peter who stood up first and argued that God had given the Gentiles the Holy Spirit exactly as He had given Him to the Jews, that no one should lay on their necks a yoke neither their fathers nor they had been able to bear, and that Jews and Gentiles alike are saved through the grace of the Lord Jesus. That is Galatians 2:16 in Peter's own mouth, in public, in front of everybody. The man who drew back from a table in Antioch stood up for the same table in Jerusalem. The rebuke was not the end of Peter — it was the making of the council."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Justify / declare righteous",
+      "hebrew": "δικαιόω",
+      "translit": "dikaióō",
+      "strongs": "G1344",
+      "verses": "v. 16 (three times), 17",
+      "insight": "Strong's puts it plainly: “to render (i.e. show or regard as) just or innocent.” It is a verdict, not a treatment. In the Greek Old Testament it is what a judge does when he rules for the defendant, and the word never meant to make a man gradually good — it meant to pronounce him right and then to deal with him accordingly. That is why Paul can pile it up three times in a single verse without repeating himself: not by works of law, but through faith; not by works of law, because no flesh ever will be. The moment you translate it as “God helps you improve,” the whole letter collapses, because improvement can always be graded and therefore always has a queue. A verdict has no queue. And notice who is speaking in verse 16 — “We, being Jews by nature,” the best law-keepers in the room, testifying that they abandoned their own record and went to Christ. If the ledger could not save the people who kept it best, it was never a ladder for anyone."
+    },
+    {
+      "english": "Walk uprightly / straight-footed",
+      "hebrew": "ὀρθοποδέω",
+      "translit": "orthopodéō",
+      "strongs": "G3716",
+      "verses": "v. 14",
+      "insight": "A word that occurs nowhere else in the New Testament, built from orthos (straight, upright) and pous (foot) — Strong's renders it “to be straight-footed, i.e. to go directly forward.” It is a walking word, not a believing word, and that is the entire indictment at Antioch. Paul does not say Peter denied the gospel; he says Peter's feet were not tracking straight with a truth he already held. Orthodoxy is what you confess; orthopodeō is where you sit down to eat. And the measuring line is named exactly: straight “according to the truth of the Good News.” Not according to the room, the delegation, or the reputational cost. Which means the audit this word demands of you is not doctrinal at all. It is a question about your feet: where do they take you when the wrong people are watching?"
+    },
+    {
+      "english": "Hypocrisy / acting under a mask",
+      "hebrew": "ὑπόκρισις",
+      "translit": "hypókrisis",
+      "strongs": "G5272",
+      "verses": "v. 13",
+      "insight": "From hypokrinomai, to answer from under — the vocabulary of the Greek stage, where an actor spoke his lines from behind a mask. Strong's: “acting under a feigned part, i.e. deceit.” Note what it does and does not accuse Peter of. He told no lie with his mouth; he performed a conviction he did not hold, and in the theatre of that courtyard the mask preached louder than any sermon he had ever given. Then watch what the rest of the verse does with the little prefix syn-, “together with.” The other Jewish believers synypekrithēsan — from synypokrinomai, to act the hypocrite in concert with someone — they joined his performance. And Barnabas synapēchthē: synapagō, to be carried off together, swept along in a current. Paul will use that same syn- in verse 20 for the highest thing a man can be joined to, crucified together with Christ; here it is what a room full of men get joined to instead. And the current took Barnabas — the man who had personally vouched for Paul when the church was still afraid of him, who had been thrown out of Pisidian Antioch at his side, and who was standing in Lystra the day they stoned Paul and dragged him out of the city for dead. Compromise is contagious in exact proportion to the stature of the man who starts it. If Barnabas could be carried away, no one in your life is too solid to be swept."
+    },
+    {
+      "english": "Crucified with / impaled in company with",
+      "hebrew": "συσταυρόω",
+      "translit": "systauróō",
+      "strongs": "G4957",
+      "verses": "v. 20",
+      "insight": "Built by fusing syn (together with) onto stauroō (to crucify) — Strong's gives the brutal literal sense: “to impale in company with.” Two things make it explosive. First the preposition: not crucified like Christ, or crucified for Christ — crucified WITH Him, on the same stake, in the same execution, at the same hour. Second the tense: in the Greek it is perfect, a completed act whose effect stands into the present. Paul is not reporting an aspiration or a nightly discipline; he is stating a legal and spiritual fact he now lives on top of. This is why the Judaizers had nothing to sell him. You cannot motivate a corpse with approval or frighten one with exclusion; a dead man has no reputation left to protect and no record left to improve. And Paul uses the same root twice more in this letter to close every loophole: “Those who belong to Christ have crucified the flesh with its passions and lusts” (5:24), and “the world has been crucified to me, and I to the world” (6:14)."
+    },
+    {
+      "english": "Reject / set aside / nullify",
+      "hebrew": "ἀθετέω",
+      "translit": "athetéō",
+      "strongs": "G114",
+      "verses": "v. 21",
+      "insight": "Literally to un-place a thing — Strong's: “to set aside, i.e. to disesteem, neutralize or violate.” It was the ordinary word for annulling a covenant, cancelling a promise, or treating a royal decree as void. Paul chooses it with deliberate aim. His opponents believed they were guarding grace by fencing it with law; Paul says the fencing IS the annulment. You do not have to burn a decree to nullify it — you only have to act as though it were not sufficient. And the second half of verse 21 supplies the proof with dōrean, “gratuitously, for nothing”: if righteousness could ever have come through the law, then the death of the Son of God purchased nothing that was not already available. That is the closing hammer of the chapter, and it is aimed at religious people, not at pagans. Every unearned kindness you refuse to receive, every attempt to qualify for what has already been given, sets aside the same grace with polite hands."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with four things in this chapter: the rooms where you quietly change who you are, the structure you keep rebuilding to feel acceptable, the hours you keep surrendering that you were never meant to surrender, and the fact that you are still living as though the man who owned your life were not already dead.",
+    "items": [
+      {
+        "title": "Who Walks Into the Room and Changes You?",
+        "body": "Peter's failure was not a doctrine; it was a chair. He believed everything correctly and then, when a certain group arrived, he got up and sat somewhere else — and every Gentile in Antioch learned exactly where they stood. So name your delegation from James. Which people, when they arrive, make you cooler toward someone you were warm to an hour ago? Whose approval makes you edit your testimony, lower your voice about who you have been forgiven for, or distance yourself from a believer who does not fit your circle's profile? You will be tempted to answer that this is discretion. Paul calls it acting, and he names the engine: fear. Ask the Spirit for the specific name of the person or group whose opinion is currently governing your feet — and then ask what your table has been preaching about the gospel while your mouth said something else."
+      },
+      {
+        "title": "What Exactly Are You Rebuilding?",
+        "body": "“If I build up again those things which I destroyed, I prove myself a law-breaker.” Nobody wakes up intending to rebuild the law. It goes up quietly, brick by brick, as a private scoring system: I can pray freely because I have had a clean week; I feel far from God because I missed three mornings; I will start giving again when I have got my discipline back; I cannot lead anything until I have gone longer without failing. That is not humility and it is not high standards — it is a wall between you and a Father who has already ruled on you, and you are laying it with your own hands. So write the list. What are the actual conditions you make yourself meet before you feel entitled to approach God? Now read verse 21 over each line and answer honestly: if that condition genuinely earns you standing, what did Christ die for?"
+      },
+      {
+        "title": "The Hours You Keep Giving Away",
+        "body": "“We gave no place in the way of subjection, not for an hour.” Paul was the most flexible man in the New Testament — he became all things to all men, he circumcised Timothy, he took vows, he adapted his approach in city after city. And on this one point he would not yield sixty minutes, because he could tell the difference between a preference and the gospel. Most believers have that exactly inverted: rigid about their preferences, endlessly negotiable about grace. Where have you been yielding by the hour? Which voice have you been half-agreeing with because disagreeing would cost you a relationship, a platform, or a seat at somebody's table? And here is the question underneath it: do you actually know where your line is — could you say out loud, right now, the one thing you would not bend on for a single hour? If you cannot name it before the pressure comes, you will not find it during."
+      },
+      {
+        "title": "You Are Living Like a Man Who Was Never Executed",
+        "body": "Verse 20 is not poetry to be admired; it is a death certificate with your name on it. You were fastened to that stake with Him, the sentence was carried out, and the man who used to run your life does not have a pulse. So why does he still get a vote? Why does his shame still set your prayer life, his appetites still set your evenings, his reputation still set your decisions? Notice how Paul refuses to leave this in the clouds: “That life which I NOW live in the flesh” — this body, this week, this ordinary Tuesday — “I live by faith in the Son of God.” Faith is the mechanism, not feeling. And then he narrows the whole universe to two pronouns, and you must not let them stay general: who loved ME, and gave Himself up for ME. Say it in the first person until it stops being a doctrine you agree with and becomes a fact you are standing on. Which part of your life is still being run by a dead man — and what would change today if you stopped consulting him?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Table Audit",
+        "body": "Name the group whose arrival changes how you treat other believers — the churchy circle, the family, the professional peers, the online tribe. Then answer in writing: who is the specific person I have quietly drawn back from because associating with them costs me something with that group? Peter did not argue; he just moved seats. Where have your seats been preaching a different gospel than your mouth?"
+      },
+      {
+        "title": "The Rebuild Check",
+        "body": "Write the honest list of conditions you unconsciously require of yourself before you feel free to come to God — a clean streak, a completed quiet time, a resolved sin, a certain mood. Now ask verse 18's question of every line: is this devotion, or is this masonry on a building Christ demolished? If meeting the condition is what gives you confidence to approach, then the condition, not the cross, is your righteousness."
+      },
+      {
+        "title": "The “For Nothing” Test",
+        "body": "Take the thing you are currently striving hardest for in your walk with God — the discipline, the ministry, the reputation for seriousness. Now finish this sentence out loud: “If I achieved it perfectly, it would give me ____ that Calvary did not already give me.” If the blank cannot be filled, you have found something you are doing for God rather than something you are doing to earn God — and the difference between those two is the difference between freedom and slavery."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Keeping the Table",
+        "body": "This week, deliberately do the thing Peter stopped doing. Take the believer your circle would rather you kept at a distance — the one with the past, the wrong background, the wrong politics, the wrong denomination, the one who is still visibly a mess — and share an actual meal with them. Not a text, not a prayer from afar: food, at a table, in a place where you can be seen. Before you go, pray one sentence: “Lord, I refuse to preach a gospel with my chair that I would not preach with my mouth.” And if you feel the pull to explain the friendship to somebody afterwards, notice that pull. That is the delegation from James arriving."
+      },
+      {
+        "title": "The Demolition and the Declaration",
+        "body": "Do this tonight, on paper, in two movements. First, the demolition: write out the list from the Rebuild Check — every private condition you make yourself meet before you feel accepted by God. Read each line aloud, then read verse 21 aloud over it: “I don’t reject the grace of God. For if righteousness is through the law, then Christ died for nothing!” Then physically destroy the paper; the act matters, because you built it with your hands and you need to watch it come down. Second, the declaration: every morning for the next fourteen days, before your phone, say verse 20 aloud in the first person — “I have been crucified with Christ, and it is no longer I that live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.” Then name one specific thing you will do that day as a man who is already dead and has nothing left to earn."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I come to You as a man who has been crucified with Christ. Not a man who is trying to die — a man whose execution has already been carried out with Your Son, on His stake, at His hour. So the life I now live in this flesh, in this body, on this ordinary day, I live by faith in the Son of God, who loved me and gave Himself up for me. Lord, forgive me for the walls I keep rebuilding. You tore down the ledger and I keep laying the bricks back — the clean streak I need before I dare pray, the private conditions I must meet before I feel welcome, the version of myself I think You are waiting for. I confess it: every brick is a statement that Your Son died for nothing. I do not reject the grace of God. I receive it, whole, today, unearned. Search my feet, Father, not just my doctrine. Show me where I have not walked uprightly according to the truth of the Good News — the tables I have quietly left, the people I have cooled toward because of who was watching, the fear I dressed up as discretion. Give me Paul's spine and Paul's love: to hold the line and not to yield in subjection for a single hour where the gospel is at stake, and to hold no grudge where a brother must be corrected. And Lord, do not let my freedom make me hard. They asked Paul to remember the poor, and he was already eager to do it — so make me eager. Let me be a man who will not add a rule to Your grace and will not withhold his bread from the hungry. I am not justified by the works of the law. I am justified by faith in Jesus Christ. It is no longer I that live, but Christ lives in me. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Peter on the Rooftop and the House of Cornelius",
+      "ref": "Acts 10:1-48; 11:1-18",
+      "relatedVerses": "v. 11-14",
+      "summary": "Years before Antioch, Peter fell into a trance on a rooftop in Joppa and saw a sheet let down from heaven full of animals he had been taught all his life to call unclean, and a voice told him three times to kill and eat — and told him not to call unclean what God had cleansed. He went down, entered the house of a Roman centurion named Cornelius, and watched the Holy Spirit fall on a room full of uncircumcised Gentiles exactly as He had fallen at Pentecost. When the circumcision party in Jerusalem confronted him for going in to uncircumcised men and eating with them, Peter defended it and they were silenced. That is what makes Galatians 2:12 so painful: Peter was not confused at Antioch, he was afraid. He had already seen the sheet, already entered the house, already won this argument in public — and still, when the wrong men walked in, he got up from the table. Revelation you have already received does not automatically govern you under social pressure."
+    },
+    {
+      "title": "Peter Stands Up at the Jerusalem Council",
+      "ref": "Acts 15:1-29",
+      "relatedVerses": "v. 14, 16",
+      "summary": "Not long after, men came down to Antioch teaching that unless the Gentiles were circumcised after the custom of Moses they could not be saved, and the whole question went up to Jerusalem before the apostles and elders. After much debate, Peter was the first to stand — and he argued that God had given the Gentiles the Holy Spirit exactly as He had given Him to the Jews, that no one should lay on their necks a yoke neither their fathers nor they had been able to bear, and that Jews and Gentiles alike are saved through the grace of the Lord Jesus. That is Galatians 2:16 preached by the very man Paul had rebuked. The council ruled for Gentile freedom and wrote it to the churches. Read the two scenes together and you see what a received rebuke does: the man who drew back from a table in Antioch stood up for that table in Jerusalem, and a public correction became a public reversal."
+    },
+    {
+      "title": "Titus Uncircumcised, Timothy Circumcised",
+      "ref": "Acts 16:1-3",
+      "relatedVerses": "v. 3-5",
+      "summary": "Paul would not let anyone lay a hand on Titus — “not for an hour” — and then, on the very next journey, he took a young disciple named Timothy at Lystra, whose mother was a believing Jewess and whose father was a Greek, and circumcised him himself because of the Jews in those regions. The same apostle, the opposite decision, and no contradiction whatsoever. With Titus, circumcision was being demanded as a condition of acceptance with God, so Paul would not yield a minute; with Timothy, it was freely chosen as a strategy for reaching Jews, so Paul did it without blinking. That is the difference between a preference and the gospel, and knowing which is which is one of the most practical skills in the Christian life. Flexible in everything, immovable in one thing — that is not inconsistency. That is a man who knows exactly where the line is."
+    }
+  ]
+}

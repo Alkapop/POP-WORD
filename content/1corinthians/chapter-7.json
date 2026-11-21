@@ -1,0 +1,1269 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 7,
+  "chapterTitle": "Married, Single, Widowed, Slave or Free — Living Undivided Before the Lord in Every Condition",
+  "themeTitle": "“Your Condition Is Not Your Calling — Christ Is”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now concerning the things about which you wrote to me: it is good for a man not to touch a woman.",
+      "understanding": "“Now concerning” — the first of six times Paul uses this phrase to answer the Corinthians' letter. Then a sentence most scholars, rightly, read as a quotation of the Corinthians' own position: “it is good for a man not to touch a woman.” Ἅπτομαι, to touch, was a common euphemism for sexual relations. Having just corrected the libertines who said the body does not matter (chapter 6), Paul now faces the ascetics in the same church who said sex itself was unspiritual — even within marriage.",
+      "words": [
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "wrote"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G680",
+          "hebrew": "ἅπτομαι",
+          "translit": "háptomai",
+          "english": "touch"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "woman"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "But, because of sexual immoralities, let each man have his own wife, and let each woman have her own husband.",
+      "understanding": "Paul's first qualification. Because πορνεῖαι — sexual immoralities, plural, the many forms available in Corinth — are a real danger, “let each man have his own wife, and let each woman have her own husband.” Ἔχω, to have, here means to have sexually in marriage. Note the perfect symmetry: each man, each woman, his own, her own. Monogamy, and mutuality.",
+      "words": [
+        {
+          "strongs": "G4202",
+          "hebrew": "πορνεία",
+          "translit": "porneía",
+          "english": "sexual immoralities"
+        },
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "have"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Let the husband give his wife the affection owed her, and likewise also the wife her husband.",
+      "understanding": "Ὀφειλή — a debt, what is owed. Husband and wife owe each other the intimacy of marriage, “and likewise also the wife her husband.” In a world where a man's sexual freedom was assumed and a wife's needs were rarely considered, Paul says the obligation runs equally in both directions.",
+      "words": [
+        {
+          "strongs": "G3782",
+          "hebrew": "ὀφειλή",
+          "translit": "opheilḗ",
+          "english": "affection owed"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "husband"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "The wife doesn’t have authority over her own body, but the husband. Likewise also the husband doesn’t have authority over his own body, but the wife.",
+      "understanding": "A revolutionary sentence in its culture. Ἐξουσιάζω — to have authority over. The wife does not have authority over her own body; the husband does. Every ancient reader would have expected that. But then: “likewise also the husband doesn’t have authority over his own body, but the wife.” No Greek or Roman moralist would have written the second half. In Christian marriage, each body belongs to the other.",
+      "words": [
+        {
+          "strongs": "G1850",
+          "hebrew": "ἐξουσιάζω",
+          "translit": "exousiázō",
+          "english": "have authority over"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Don’t deprive one another, unless it is by consent for a season, that you may give yourselves to fasting and prayer, and may be together again, that Satan doesn’t tempt you because of your lack of self-control.",
+      "understanding": "Ἀποστερέω — do not defraud one another, the same word as 6:7–8. Withholding marital intimacy is a form of robbery. The only exception: by mutual σύμφωνον — agreement, harmony, from which comes symphony — for a limited καιρός, so that you can σχολάζω, devote unhurried time, to prayer. Then come together again, so Satan does not πειράζω, tempt, you through ἀκρασία, lack of self-control. Paul is realistic: long abstinence in marriage is not a spiritual achievement; it is an opening for the enemy.",
+      "words": [
+        {
+          "strongs": "G650",
+          "hebrew": "ἀποστερέω",
+          "translit": "aposteréō",
+          "english": "deprive"
+        },
+        {
+          "strongs": "G4859",
+          "hebrew": "σύμφωνος",
+          "translit": "sýmphōnos",
+          "english": "consent"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "season"
+        },
+        {
+          "strongs": "G4980",
+          "hebrew": "σχολάζω",
+          "translit": "scholázō",
+          "english": "give yourselves"
+        },
+        {
+          "strongs": "G4335",
+          "hebrew": "προσευχή",
+          "translit": "proseuchḗ",
+          "english": "prayer"
+        },
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tempt"
+        },
+        {
+          "strongs": "G192",
+          "hebrew": "ἀκρασία",
+          "translit": "akrasía",
+          "english": "lack of self-control"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But this I say by way of concession, not of commandment.",
+      "understanding": "Συγγνώμη — a concession, a permission, as opposed to an ἐπιταγή, a command. What is the concession? Most naturally, the temporary abstinence of verse 5: Paul permits it but does not require it. He will not let the ascetics turn a voluntary season of prayer into a rule for every marriage.",
+      "words": [
+        {
+          "strongs": "G4774",
+          "hebrew": "συγγνώμη",
+          "translit": "syngnṓmē",
+          "english": "concession"
+        },
+        {
+          "strongs": "G2003",
+          "hebrew": "ἐπιταγή",
+          "translit": "epitagḗ",
+          "english": "commandment"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Yet I wish that all men were like me. However each man has his own gift from God, one of this kind, and another of that kind.",
+      "understanding": "Paul is single and wishes everyone could share his freedom. But he immediately adds: “each man has his own χάρισμα from God.” Singleness is a grace-gift — the same word used for spiritual gifts in chapter 12 — and so, by implication, is marriage. One has this kind, another that kind. Neither is the superior spiritual path. Both are gifts to be received, not achievements to be proud of.",
+      "words": [
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "wish"
+        },
+        {
+          "strongs": "G5486",
+          "hebrew": "χάρισμα",
+          "translit": "chárisma",
+          "english": "gift"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But I say to the unmarried and to widows, it is good for them if they remain even as I am.",
+      "understanding": "To the ἄγαμοι, the unmarried — the word may refer especially to widowers, since it is paired with widows — and the χῆραι, widows: it is good to remain as Paul is. Whether Paul had never married or was a widower himself, we do not know; Scripture does not say. What we know is that he was single as he wrote, and he found it good for ministry.",
+      "words": [
+        {
+          "strongs": "G22",
+          "hebrew": "ἄγαμος",
+          "translit": "ágamos",
+          "english": "unmarried"
+        },
+        {
+          "strongs": "G5503",
+          "hebrew": "χήρα",
+          "translit": "chḗra",
+          "english": "widows"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "But if they don’t have self-control, let them marry. For it’s better to marry than to burn.",
+      "understanding": "But if they do not ἐγκρατεύομαι — exercise self-control, the word an athlete used for disciplined training (9:25) — let them marry. “It’s better to marry than to πυρόω” — to burn, to be consumed with unfulfilled desire. Paul is not belittling marriage as a mere outlet. He is being realistic: God gave marriage as the right home for desire, and pretending to have the gift of singleness when you do not is not holiness.",
+      "words": [
+        {
+          "strongs": "G1467",
+          "hebrew": "ἐγκρατεύομαι",
+          "translit": "enkrateúomai",
+          "english": "have self-control"
+        },
+        {
+          "strongs": "G1060",
+          "hebrew": "γαμέω",
+          "translit": "gaméō",
+          "english": "marry"
+        },
+        {
+          "strongs": "G4448",
+          "hebrew": "πυρόω",
+          "translit": "pyróō",
+          "english": "burn"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "But to the married I command—not I, but the Lord—that the wife not leave her husband",
+      "understanding": "Now to the married. Notice the careful distinction: “I command — not I, but the Lord.” Paul is citing Jesus' own teaching (Matthew 19:6; Mark 10:9–12). The wife is not to χωρίζω, separate from, her husband. In Greco-Roman society either spouse could end a marriage simply by leaving. Jesus' teaching, and Paul's, refuses that easy exit.",
+      "words": [
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "command"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G5563",
+          "hebrew": "χωρίζω",
+          "translit": "chōrízō",
+          "english": "leave"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "(but if she departs, let her remain unmarried, or else be reconciled to her husband), and that the husband not leave his wife.",
+      "understanding": "A realistic parenthesis. If a separation has already happened, the wife must remain unmarried or be καταλλάσσω — reconciled — to her husband. That word is the great gospel word for God reconciling sinners to Himself (2 Corinthians 5:18–20). Christian marriage aims at reconciliation, not replacement. And the same applies to the husband: he is not to ἀφίημι, send away, divorce, his wife.",
+      "words": [
+        {
+          "strongs": "G5563",
+          "hebrew": "χωρίζω",
+          "translit": "chōrízō",
+          "english": "departs"
+        },
+        {
+          "strongs": "G22",
+          "hebrew": "ἄγαμος",
+          "translit": "ágamos",
+          "english": "unmarried"
+        },
+        {
+          "strongs": "G2644",
+          "hebrew": "καταλλάσσω",
+          "translit": "katallássō",
+          "english": "reconciled"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "leave"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "But to the rest I—not the Lord—say, if any brother has an unbelieving wife, and she is content to live with him, let him not leave her.",
+      "understanding": "“To the rest I — not the Lord — say.” This is not Paul lowering his authority; he says in verse 40 that he has the Spirit of God, and in 14:37 that what he writes is the Lord's command. It means that Jesus had not addressed this specific situation during His earthly ministry, because it had not arisen yet: a marriage where one spouse becomes a believer and the other does not. If the unbelieving wife συνευδοκέω — consents, is willing — to stay, the believer must not divorce her.",
+      "words": [
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G571",
+          "hebrew": "ἄπιστος",
+          "translit": "ápistos",
+          "english": "unbelieving"
+        },
+        {
+          "strongs": "G4909",
+          "hebrew": "συνευδοκέω",
+          "translit": "syneudokéō",
+          "english": "content"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "leave"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "The woman who has an unbelieving husband, and he is content to live with her, let her not leave her husband.",
+      "understanding": "The same instruction exactly for a believing wife with an unbelieving husband. In the ancient world, a wife was expected to share her husband's gods; a woman who converted alone was taking a real risk. Paul does not tell her to leave. If he is willing to stay, she stays.",
+      "words": [
+        {
+          "strongs": "G571",
+          "hebrew": "ἄπιστος",
+          "translit": "ápistos",
+          "english": "unbelieving"
+        },
+        {
+          "strongs": "G4909",
+          "hebrew": "συνευδοκέω",
+          "translit": "syneudokéō",
+          "english": "content"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "leave"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the husband. Otherwise your children would be unclean, but now they are holy.",
+      "understanding": "Why stay? Because the unbelieving spouse is ἁγιάζω — sanctified — in the believing one. This cannot mean saved; verse 16 shows the unbeliever still needs salvation. It means the marriage and the home are set apart, brought within the sphere of God's influence, through the believer. The Corinthians may have feared that a believer was defiled by an unbelieving spouse. Paul reverses it: holiness is more contagious than uncleanness. Your children are not ἀκάθαρτα, unclean, but ἅγια, holy.",
+      "words": [
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "sanctified"
+        },
+        {
+          "strongs": "G169",
+          "hebrew": "ἀκάθαρτος",
+          "translit": "akáthartos",
+          "english": "unclean"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Yet if the unbeliever departs, let there be separation. The brother or the sister is not under bondage in such cases, but God has called us in peace.",
+      "understanding": "But if the unbeliever χωρίζω — leaves — “let there be separation.” The believer is not δουλόω, enslaved, bound, in such cases. Many interpreters understand this as freedom to remarry when an unbelieving spouse permanently abandons the marriage; others read it more narrowly as freedom from the obligation to hold the marriage together. The text says the believer is not bound, and it grounds it in this: “God has called us in peace.” He does not require you to fight endlessly to keep someone who has chosen to go.",
+      "words": [
+        {
+          "strongs": "G5563",
+          "hebrew": "χωρίζω",
+          "translit": "chōrízō",
+          "english": "departs"
+        },
+        {
+          "strongs": "G1402",
+          "hebrew": "δουλόω",
+          "translit": "doulóō",
+          "english": "under bondage"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?",
+      "understanding": "This verse can be read two ways. As hope: who knows, perhaps by staying you will save your spouse — so stay if they are willing. Or as release: you cannot know whether you will save them, so do not cling to a marriage they have abandoned on the theory that you must. Coming right after verse 15, the second reading fits the flow best. Either way, the salvation of a spouse is a hope to pray for, not a weight you can carry by force.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "save"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Only, as the Lord has distributed to each man, as God has called each, so let him walk. So I command in all the assemblies.",
+      "understanding": "The governing principle of the whole chapter, repeated three times (vv. 17, 20, 24): walk in the life the Lord μερίζω — apportioned — to you, in the situation in which God καλέω — called — you. Conversion does not require you to change your marital status, ethnicity or social position before you can serve God. “So I command in all the assemblies.” This is not a special rule for Corinth.",
+      "words": [
+        {
+          "strongs": "G3307",
+          "hebrew": "μερίζω",
+          "translit": "merízō",
+          "english": "distributed"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Was anyone called having been circumcised? Let him not become uncircumcised. Has anyone been called in uncircumcision? Let him not be circumcised.",
+      "understanding": "The first example: circumcision. Some Jewish men in the Greco-Roman world tried to hide their circumcision through a surgical procedure — ἐπισπάομαι, to draw over — so they could appear in the public baths and gymnasium without shame. Paul says: do not. And Gentiles should not get circumcised either. Your ethnic and religious background is not something you need to erase or adopt to belong to Christ.",
+      "words": [
+        {
+          "strongs": "G4059",
+          "hebrew": "περιτέμνω",
+          "translit": "peritémnō",
+          "english": "circumcised"
+        },
+        {
+          "strongs": "G1986",
+          "hebrew": "ἐπισπάομαι",
+          "translit": "epispáomai",
+          "english": "become uncircumcised"
+        },
+        {
+          "strongs": "G203",
+          "hebrew": "ἀκροβυστία",
+          "translit": "akrobystía",
+          "english": "uncircumcision"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.",
+      "understanding": "A sentence that would have stunned every Jew who heard it: “Circumcision is nothing, and uncircumcision is nothing.” Circumcision was itself one of God's commandments! But Paul means that it no longer marks the boundary of God's people. What matters is τήρησις ἐντολῶν — keeping God's commands. In Galatians he puts it two other ways: what matters is “faith working through love” (5:6) and “a new creation” (6:15). The three together give the full picture: new life, expressed in faith, working itself out in obedient love.",
+      "words": [
+        {
+          "strongs": "G4061",
+          "hebrew": "περιτομή",
+          "translit": "peritomḗ",
+          "english": "circumcision"
+        },
+        {
+          "strongs": "G203",
+          "hebrew": "ἀκροβυστία",
+          "translit": "akrobystía",
+          "english": "uncircumcision"
+        },
+        {
+          "strongs": "G5084",
+          "hebrew": "τήρησις",
+          "translit": "tḗrēsis",
+          "english": "keeping"
+        },
+        {
+          "strongs": "G1785",
+          "hebrew": "ἐντολή",
+          "translit": "entolḗ",
+          "english": "commandments"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Let each man stay in that calling in which he was called.",
+      "understanding": "The principle again. Κλῆσις here does not mean occupation, as later Christian usage sometimes took it. It means the situation you were in when God called you to Christ. Stay there, unless God moves you; your position is not an obstacle to your calling.",
+      "words": [
+        {
+          "strongs": "G2821",
+          "hebrew": "κλῆσις",
+          "translit": "klēsis",
+          "english": "calling"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "Were you called being a bondservant? Don’t let that bother you, but if you get an opportunity to become free, use it.",
+      "understanding": "The second example: slavery, which touched a large proportion of the Corinthian church. Were you a δοῦλος when God called you? “Don’t let that bother you” — μὴ σοι μελέτω, do not let it trouble you. Your dignity before God is not reduced. Then a famously ambiguous phrase: either “if you can become free, take the opportunity,” as the WEB reads, or “even if you can become free, make use of your present condition.” The WEB's reading is the more natural one, and fits verse 23.",
+      "words": [
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "bondservant"
+        },
+        {
+          "strongs": "G3199",
+          "hebrew": "μέλω",
+          "translit": "mélō",
+          "english": "bother"
+        },
+        {
+          "strongs": "G1658",
+          "hebrew": "ἐλεύθερος",
+          "translit": "eleútheros",
+          "english": "free"
+        },
+        {
+          "strongs": "G5530",
+          "hebrew": "χράομαι",
+          "translit": "chráomai",
+          "english": "use"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "For he who was called in the Lord being a bondservant is the Lord’s free man. Likewise he who was called being free is Christ’s bondservant.",
+      "understanding": "The great reversal. The slave who is called in the Lord is the Lord's ἀπελεύθερος — freedman, a technical term for a slave who had been legally freed. And the free person who is called is Christ's δοῦλος, slave. Before God, everyone stands in the same place: freed from sin, owned by Christ. The social ladder of Corinth is flattened at the cross.",
+      "words": [
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "bondservant"
+        },
+        {
+          "strongs": "G558",
+          "hebrew": "ἀπελεύθερος",
+          "translit": "apeleútheros",
+          "english": "free man"
+        },
+        {
+          "strongs": "G1658",
+          "hebrew": "ἐλεύθερος",
+          "translit": "eleútheros",
+          "english": "free"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "You were bought with a price. Don’t become bondservants of men.",
+      "understanding": "Paul repeats the phrase of 6:20 word for word: “You were bought with a price.” Then: “Don’t become bondservants of men.” You already belong to the Master who paid for you. Do not sell yourself to any other — not to human masters if you can avoid it, and not to human opinion, status or approval.",
+      "words": [
+        {
+          "strongs": "G59",
+          "hebrew": "ἀγοράζω",
+          "translit": "agorázō",
+          "english": "bought"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "price"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "bondservants"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "Brothers, let each man, in whatever condition he was called, stay in that condition with God.",
+      "understanding": "The third repetition of the principle, with two new words: stay in your condition “with God.” Not merely stay put; stay with God. The point is not resignation but presence: whatever your situation, it can be lived before God's face, in His company.",
+      "words": [
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Now concerning virgins, I have no commandment from the Lord, but I give my judgment as one who has obtained mercy from the Lord to be trustworthy.",
+      "understanding": "“Now concerning” — the second topic from their letter: παρθένοι, virgins, here meaning young unmarried women, and perhaps engaged couples. Paul has no command from Jesus on this, so he gives his γνώμη, considered judgment, as one who has ἐλεέω — received mercy — to be πιστός, trustworthy. His authority rests on grace.",
+      "words": [
+        {
+          "strongs": "G3933",
+          "hebrew": "παρθένος",
+          "translit": "parthénos",
+          "english": "virgins"
+        },
+        {
+          "strongs": "G2003",
+          "hebrew": "ἐπιταγή",
+          "translit": "epitagḗ",
+          "english": "commandment"
+        },
+        {
+          "strongs": "G1106",
+          "hebrew": "γνώμη",
+          "translit": "gnṓmē",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G1653",
+          "hebrew": "ἐλεέω",
+          "translit": "eleéō",
+          "english": "obtained mercy"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "trustworthy"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "Therefore I think that because of the distress that is on us, that it’s good for a man to remain as he is.",
+      "understanding": "“The distress that is on us” — ἀνάγκη, pressure, constraint, and ἐνίστημι, present or impending. What was it? Paul does not say. It may have been a specific crisis in Corinth — there is evidence of grain shortages in the region in the 40s and 50s — or the general pressure of living in the last days before Christ's return, with persecution always possible. Either way, his advice is practical: in such times, it is good to remain as you are.",
+      "words": [
+        {
+          "strongs": "G318",
+          "hebrew": "ἀνάγκη",
+          "translit": "anánkē",
+          "english": "distress"
+        },
+        {
+          "strongs": "G1764",
+          "hebrew": "ἐνίστημι",
+          "translit": "enístēmi",
+          "english": "on us (present)"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "Are you bound to a wife? Don’t seek to be freed. Are you free from a wife? Don’t seek a wife.",
+      "understanding": "Two parallel commands. Δέω — are you bound to a wife? Do not seek λύσις, release. Are you free from a wife? Do not seek one. Notice this applies equally to married and single. Do not make your marital status the project of your life. Seek first the kingdom (Matthew 6:33).",
+      "words": [
+        {
+          "strongs": "G1210",
+          "hebrew": "δέω",
+          "translit": "déō",
+          "english": "bound"
+        },
+        {
+          "strongs": "G3080",
+          "hebrew": "λύσις",
+          "translit": "lýsis",
+          "english": "freed"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "But if you marry, you have not sinned. If a virgin marries, she has not sinned. Yet such will have oppression in the flesh, and I want to spare you.",
+      "understanding": "A vital clarification against the ascetics: “if you marry, you have not sinned.” Marriage is not second-class Christianity. But Paul is honest: married people will have θλῖψις — pressure, trouble — “in the flesh,” the ordinary burdens of family life in a hard world, and he would φείδομαι — spare — them if he could. He is giving pastoral advice, not a moral ranking.",
+      "words": [
+        {
+          "strongs": "G1060",
+          "hebrew": "γαμέω",
+          "translit": "gaméō",
+          "english": "marry"
+        },
+        {
+          "strongs": "G264",
+          "hebrew": "ἁμαρτάνω",
+          "translit": "hamartánō",
+          "english": "sinned"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "oppression"
+        },
+        {
+          "strongs": "G5339",
+          "hebrew": "φείδομαι",
+          "translit": "pheídomai",
+          "english": "spare"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "But I say this, brothers: the time is short, that from now on, both those who have wives may be as though they had none;",
+      "understanding": "The reason behind everything: “the time is short.” Συστέλλω — drawn together, compressed; the word was used of furling sails and of wrapping a body for burial. Time has been shortened by the coming of Christ. Then a series of “as though not” clauses, beginning with the most startling: those who have wives should live as though they had none. Not neglecting their wives, which would contradict verses 3 to 5, but not living as though marriage were ultimate.",
+      "words": [
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        },
+        {
+          "strongs": "G4958",
+          "hebrew": "συστέλλω",
+          "translit": "systéllō",
+          "english": "short"
+        },
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "have"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "and those who weep, as though they didn’t weep; and those who rejoice, as though they didn’t rejoice; and those who buy, as though they didn’t possess;",
+      "understanding": "The series continues: those who κλαίω, weep, as though not weeping; those who χαίρω, rejoice, as though not rejoicing; those who buy, as though not κατέχω — holding on to it, possessing it permanently. Grief is real, joy is real, property is real — but none of them is final. The believer holds everything in this age with an open hand.",
+      "words": [
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "weep"
+        },
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoice"
+        },
+        {
+          "strongs": "G59",
+          "hebrew": "ἀγοράζω",
+          "translit": "agorázō",
+          "english": "buy"
+        },
+        {
+          "strongs": "G2722",
+          "hebrew": "κατέχω",
+          "translit": "katéchō",
+          "english": "possess"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "and those who use the world, as not using it to the fullest. For the mode of this world passes away.",
+      "understanding": "Those who use the world, as not καταχράομαι — using it up, using it to the full, exhausting it. Then the reason: “the σχῆμα of this world passes away.” Σχῆμα is the outward form, the shape, the stage-set of the present world order — the word from which we get scheme. It is παράγω, passing by, like a scene changing in a theatre. Do not build your life on scenery.",
+      "words": [
+        {
+          "strongs": "G5530",
+          "hebrew": "χράομαι",
+          "translit": "chráomai",
+          "english": "use"
+        },
+        {
+          "strongs": "G2710",
+          "hebrew": "καταχράομαι",
+          "translit": "katachráomai",
+          "english": "use to the fullest"
+        },
+        {
+          "strongs": "G4976",
+          "hebrew": "σχῆμα",
+          "translit": "schēma",
+          "english": "mode"
+        },
+        {
+          "strongs": "G3855",
+          "hebrew": "παράγω",
+          "translit": "parágō",
+          "english": "passes away"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "text": "But I desire to have you to be free from cares. He who is unmarried is concerned for the things of the Lord, how he may please the Lord;",
+      "understanding": "Paul wants them ἀμέριμνοι — free from anxious care. Then he contrasts two kinds of μεριμνάω, concern. The unmarried person is concerned for the things of the Lord, how to ἀρέσκω, please, the Lord. Paul is not condemning concern itself; he uses the same verb positively of caring for others in 12:25. He is noting where the concern naturally goes.",
+      "words": [
+        {
+          "strongs": "G275",
+          "hebrew": "ἀμέριμνος",
+          "translit": "amérimnos",
+          "english": "free from cares"
+        },
+        {
+          "strongs": "G3309",
+          "hebrew": "μεριμνάω",
+          "translit": "merimnáō",
+          "english": "concerned"
+        },
+        {
+          "strongs": "G700",
+          "hebrew": "ἀρέσκω",
+          "translit": "aréskō",
+          "english": "please"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "text": "but he who is married is concerned about the things of the world, how he may please his wife.",
+      "understanding": "The married man is concerned about “the things of the world, how he may please his wife.” This is not a criticism. Pleasing your spouse is exactly what a married person should do; Paul has just commanded it (vv. 3–5). He is simply observing that marriage legitimately divides a person's attention. The next verse's first word in many manuscripts is “and he is divided.”",
+      "words": [
+        {
+          "strongs": "G3309",
+          "hebrew": "μεριμνάω",
+          "translit": "merimnáō",
+          "english": "concerned"
+        },
+        {
+          "strongs": "G700",
+          "hebrew": "ἀρέσκω",
+          "translit": "aréskō",
+          "english": "please"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wife"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "text": "There is also a difference between a wife and a virgin. The unmarried woman cares about the things of the Lord, that she may be holy both in body and in spirit. But she who is married cares about the things of the world—how she may please her husband.",
+      "understanding": "The same contrast for women. The unmarried woman and the παρθένος care about the things of the Lord, “that she may be holy both in body and in spirit” — wholly given to Him. The married woman cares how to please her husband. Again, not criticism, but realism. Married or single, the question is how to give the Lord the most undivided heart your situation allows.",
+      "words": [
+        {
+          "strongs": "G3307",
+          "hebrew": "μερίζω",
+          "translit": "merízō",
+          "english": "difference (divided)"
+        },
+        {
+          "strongs": "G3933",
+          "hebrew": "παρθένος",
+          "translit": "parthénos",
+          "english": "virgin"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G700",
+          "hebrew": "ἀρέσκω",
+          "translit": "aréskō",
+          "english": "please"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "text": "This I say for your own profit; not that I may ensnare you, but for that which is appropriate, and that you may attend to the Lord without distraction.",
+      "understanding": "Paul's purpose: for their own σύμφορον, benefit — not to throw a βρόχος over them, a noose, a lasso to restrict them. He wants what is εὔσχημον — fitting, beautiful, appropriate — and that they may attend to the Lord ἀπερισπάστως, without distraction. That word describes exactly what Martha lacked and Mary had (Luke 10:40, where Martha is περιεσπᾶτο, “distracted”).",
+      "words": [
+        {
+          "strongs": "G4851",
+          "hebrew": "συμφέρω",
+          "translit": "symphérō",
+          "english": "profit"
+        },
+        {
+          "strongs": "G1029",
+          "hebrew": "βρόχος",
+          "translit": "bróchos",
+          "english": "ensnare"
+        },
+        {
+          "strongs": "G2158",
+          "hebrew": "εὐσχήμων",
+          "translit": "euschḗmōn",
+          "english": "appropriate"
+        },
+        {
+          "strongs": "G563",
+          "hebrew": "ἀπερισπάστως",
+          "translit": "aperispástōs",
+          "english": "without distraction"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "text": "But if any man thinks that he is behaving inappropriately toward his virgin, if she is past the flower of her age, and if need so requires, let him do what he desires. He doesn’t sin. Let them marry.",
+      "understanding": "One of the hardest verses in the letter to interpret. Who is “any man” and who is “his virgin”? Two main views: a father deciding about his unmarried daughter, or a man and the woman he is engaged to. If he thinks he is ἀσχημονέω — acting improperly — and she is ὑπέρακμος — past the peak of her youth, or (if it refers to him) his passions are strong — and it must be, let them marry. “He doesn’t sin.” The pastoral point is clear even where the details are uncertain: marriage is honourable.",
+      "words": [
+        {
+          "strongs": "G807",
+          "hebrew": "ἀσχημονέω",
+          "translit": "aschēmonéō",
+          "english": "behaving inappropriately"
+        },
+        {
+          "strongs": "G3933",
+          "hebrew": "παρθένος",
+          "translit": "parthénos",
+          "english": "virgin"
+        },
+        {
+          "strongs": "G5230",
+          "hebrew": "ὑπέρακμος",
+          "translit": "hypérakmos",
+          "english": "past the flower of her age"
+        },
+        {
+          "strongs": "G264",
+          "hebrew": "ἁμαρτάνω",
+          "translit": "hamartánō",
+          "english": "sin"
+        },
+        {
+          "strongs": "G1060",
+          "hebrew": "γαμέω",
+          "translit": "gaméō",
+          "english": "marry"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "text": "But he who stands steadfast in his heart, having no urgency, but has power over his own will, and has determined in his own heart to keep his own virgin, does well.",
+      "understanding": "But the one who stands ἑδραῖος — firm, settled, the word Paul uses of steadfastness in 15:58 — in his heart, under no ἀνάγκη, no compulsion, with control over his own θέλημα, will, and has decided to τηρέω, keep, his virgin (unmarried), does well. A settled, unpressured decision for singleness is a good decision.",
+      "words": [
+        {
+          "strongs": "G1476",
+          "hebrew": "ἑδραῖος",
+          "translit": "hedraîos",
+          "english": "steadfast"
+        },
+        {
+          "strongs": "G318",
+          "hebrew": "ἀνάγκη",
+          "translit": "anánkē",
+          "english": "urgency"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G5083",
+          "hebrew": "τηρέω",
+          "translit": "tēréō",
+          "english": "keep"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "well"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "text": "So then both he who gives his own virgin in marriage does well, and he who doesn’t give her in marriage does better.",
+      "understanding": "The conclusion: both choices are good. Ἐκγαμίζω — to give in marriage — does well; not doing so does better, in the specific sense Paul has explained: freedom for undivided devotion in a time of pressure. “Better” here is not “holier.” It is “more advantageous for the work of the kingdom, for those who have the gift.”",
+      "words": [
+        {
+          "strongs": "G1547",
+          "hebrew": "ἐκγαμίζω",
+          "translit": "ekgamízō",
+          "english": "gives in marriage"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "well"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "text": "A wife is bound by law for as long as her husband lives; but if the husband is dead, she is free to be married to whomever she desires, only in the Lord.",
+      "understanding": "A final word on widows. A wife is δέω, bound, as long as her husband lives (compare Romans 7:2). But if he κοιμάω — falls asleep, the Christian euphemism for death — she is free to marry whomever she wishes, “only in the Lord.” That is, to a fellow believer. Remarriage is free; it is not unconditional.",
+      "words": [
+        {
+          "strongs": "G1210",
+          "hebrew": "δέω",
+          "translit": "déō",
+          "english": "bound"
+        },
+        {
+          "strongs": "G2837",
+          "hebrew": "κοιμάω",
+          "translit": "koimáō",
+          "english": "dead (fallen asleep)"
+        },
+        {
+          "strongs": "G1658",
+          "hebrew": "ἐλεύθερος",
+          "translit": "eleútheros",
+          "english": "free"
+        },
+        {
+          "strongs": "G1060",
+          "hebrew": "γαμέω",
+          "translit": "gaméō",
+          "english": "married"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "text": "But she is happier if she stays as she is, in my judgment, and I think that I also have God’s Spirit.",
+      "understanding": "But in Paul's γνώμη, judgment, she is μακαριωτέρα — happier, more blessed — if she remains as she is. And then, with a touch of irony toward those in Corinth who claimed special spiritual insight: “I think that I also have God’s Spirit.” Paul's “judgment” is not a mere opinion. It is Spirit-led counsel.",
+      "words": [
+        {
+          "strongs": "G3107",
+          "hebrew": "μακάριος",
+          "translit": "makários",
+          "english": "happier"
+        },
+        {
+          "strongs": "G1106",
+          "hebrew": "γνώμη",
+          "translit": "gnṓmē",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Two Bodies, One Ledger",
+      "verseRef": "v. 3-5",
+      "image": "Picture an ancient account book kept by a household steward, with two columns facing each other. In one column, what the husband owes; in the other, what the wife owes. In most Greco-Roman homes, only one column would have had anything written in it: the wife owed her husband everything, and he owed her very little. Now picture Paul taking the pen and writing the same entries in both columns, line for line. The husband owes his wife. The wife owes her husband. Her body belongs to him; his body belongs to her. And then he writes underneath, in capitals: DO NOT DEFRAUD.",
+      "meaning": "In a culture where a husband's sexual freedom was largely taken for granted and a wife was treated as property, Paul's teaching was revolutionary. Christian marriage is radically mutual. Neither spouse owns their own body; each belongs to the other. That rules out both of Corinth's errors at once: the libertine who seeks sex outside marriage and the ascetic who withholds it within marriage as if holiness required it. The only permitted abstinence is mutual, temporary and devoted to prayer — and even then, Paul says, come back together, so that Satan does not get a foothold. Holiness in marriage does not mean less intimacy. It means faithful, generous, self-giving intimacy that reflects the covenant love of God."
+    },
+    {
+      "title": "Furling the Sails",
+      "verseRef": "v. 29-31",
+      "image": "Picture a merchant ship coming into the harbour at Cenchreae at the end of a long voyage. As the port draws near, the captain gives the order and the sailors climb the rigging and begin to furl the great sails, drawing them in, binding them tight. The voyage is nearly over. Everything on deck changes: cargo is brought up, ropes are coiled, passengers gather their belongings. Nobody begins redecorating their cabin now. That image is in Paul's word in verse 29 — συστέλλω, drawn together, furled, compressed. “The time is short.”",
+      "meaning": "Because Christ has come and will come again, the present age has been compressed. That does not make marriage, grief, joy, possessions or work meaningless. But it makes none of them ultimate. Those who weep, as though not weeping; those who rejoice, as though not rejoicing; those who buy, as though not possessing — because “the mode of this world passes away.” The word σχῆμα describes a scene on a stage, scenery that is about to be changed. Many believers build their whole lives on the scenery — the house, the career, the relationship, the comfort. Paul says: hold it all with an open hand. Enjoy it, use it, grieve it, but do not cling to it. The ship is coming into port."
+    },
+    {
+      "title": "Mary at His Feet",
+      "verseRef": "v. 32-35",
+      "image": "In a house in Bethany, Martha is moving fast — pots on the fire, bread to bake, guests to serve, her face flushed, her mind pulled in ten directions. The word Luke uses for her is περισπάω — dragged around, distracted (Luke 10:40). And at the feet of Jesus sits her sister Mary, still, listening, with nothing else in her hands. Jesus says to Martha: you are anxious and troubled about many things, but one thing is needed. Paul uses the opposite of Martha's word in verse 35: ἀπερισπάστως — undistracted, not dragged around.",
+      "meaning": "This is Paul's goal in the whole chapter. Not to rank marriage below singleness, and not to put a noose on anyone, but that every believer, married or single, would attend to the Lord without distraction. The single person has a particular opportunity for undivided devotion, and Paul wants them to see it as a gift, not a lack. The married person has legitimate concerns for spouse and family, and Paul wants them to fulfil those concerns faithfully without letting them crowd out the Lord. The question for each of us is not, “Which state is better?” It is, “What is dragging me away from His feet, and how can I give Him the most undivided heart my situation allows?”"
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Marriage and Sexual Intimacy (v. 1-7)",
+        "body": "Against the Corinthian slogan that sexual relations are unspiritual, Paul affirms marriage as the remedy for immorality and insists on mutual, generous intimacy; abstinence is only by agreement, for a season, for prayer. Singleness and marriage are each a gift from God."
+      },
+      {
+        "label": "The Unmarried and Widows (v. 8-9)",
+        "body": "It is good to remain single as Paul is, but if they lack self-control, they should marry."
+      },
+      {
+        "label": "Believers Married to Believers (v. 10-11)",
+        "body": "On the authority of Jesus' own teaching: no divorce; if separated, remain unmarried or be reconciled."
+      },
+      {
+        "label": "Believers Married to Unbelievers (v. 12-16)",
+        "body": "Do not leave a willing unbelieving spouse — the home is sanctified through the believer; but if the unbeliever leaves, the believer is not bound, for God has called us to peace."
+      },
+      {
+        "label": "Remain in Your Calling (v. 17-24)",
+        "body": "The governing principle: live the life God assigned you when He called you. Circumcision, uncircumcision, slavery and freedom do not determine your standing with God; you were bought with a price — stay with God."
+      },
+      {
+        "label": "Virgins and the Shortness of Time (v. 25-35)",
+        "body": "Because of the present distress and because the time is short, Paul advises remaining as you are — not as a command but for undivided devotion; marriage is not sin, but it brings legitimate cares."
+      },
+      {
+        "label": "Engaged Couples and Widows (v. 36-40)",
+        "body": "Marrying does well; remaining single with a settled will does better for undivided service; a widow is free to remarry, only in the Lord, though Paul judges her happier if she stays as she is."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Against Both Errors: The Goodness of Sexual Intimacy in Marriage",
+        "paragraphs": [
+          "Chapter 7 begins the second half of the letter, in which Paul answers questions the Corinthians had written to him, each marked by the phrase “Now concerning” (7:1, 25; 8:1; 12:1; 16:1, 12). The first question is about sex and marriage, and the first sentence is almost certainly a quotation of the Corinthians' own view: “it is good for a man not to touch a woman.” The verb ἅπτομαι, to touch, was a familiar euphemism for sexual intercourse. In chapter 6 Paul corrected the libertines who said the body did not matter and they could do as they pleased. Here he corrects the opposite group in the same church: ascetics who believed that because the spiritual was everything and the body was nothing, true spirituality meant abstaining from sex — even, apparently, within marriage.",
+          "Paul's response is a careful and beautiful balance. He grants that celibacy can be good (vv. 7–8), but he denies that marriage or marital intimacy is unspiritual. Because of the danger of sexual immorality, each man should have his own wife and each woman her own husband (v. 2). Then comes a series of statements that would have been startling in the ancient world for their mutuality. The husband owes his wife sexual intimacy, “and likewise also the wife her husband” (v. 3). The wife does not have authority over her own body, but the husband does — and “likewise also the husband doesn’t have authority over his own body, but the wife” (v. 4). In a world where a husband was legally free to visit prostitutes and a wife was often treated as property, Paul writes both columns of the ledger identically. Christian marriage is a covenant of mutual self-giving.",
+          "Verse 5 then forbids ἀποστερέω — defrauding — the same word used of believers cheating each other in court (6:7–8). To withhold marital intimacy is a form of robbery. The only exception is mutual agreement, for a limited time, for the purpose of devoted prayer, and even then the couple should come together again, “that Satan doesn’t tempt you because of your lack of self-control.” Paul is a realist about human nature and about the enemy. Long abstinence in marriage is not a mark of spiritual maturity; it is a door left open. And then verse 7: “each man has his own gift from God, one of this kind, and another of that kind.” The word is χάρισμα, the same word used for the spiritual gifts in chapters 12 to 14. Singleness is a grace-gift; so, by implication, is marriage. Neither one makes you more spiritual. Both are given."
+        ]
+      },
+      {
+        "heading": "Divorce, Mixed Marriages and the Peace of God",
+        "paragraphs": [
+          "In verses 10 and 11 Paul addresses married believers, and he does so with the highest authority available: “I command — not I, but the Lord.” He is citing the teaching of Jesus, who said, “What therefore God has joined together, don’t let man tear apart” (Matthew 19:6), and “Whoever divorces his wife, and marries another, commits adultery against her” (Mark 10:11). In Corinth, as in the Roman world generally, divorce was simple: either spouse could end a marriage by walking out. Paul says the Christian ideal is permanence, and that if separation does occur, the goal is reconciliation, not remarriage (v. 11). He uses the word καταλλάσσω — the same verb he uses in 2 Corinthians 5:18–20 for God reconciling the world to Himself. The gospel of reconciliation shapes the Christian approach to a broken marriage. (Jesus Himself named one exception in Matthew 19:9 — sexual immorality — which Paul does not discuss here because he is stating the general rule.)",
+          "Verses 12 to 16 then address a new situation Jesus had not spoken to, because it had not yet arisen: a marriage where one spouse came to faith and the other did not. “To the rest I — not the Lord — say” is not a lower level of authority; Paul claims the Spirit's guidance in verse 40 and in 14:37 calls his writing the Lord's command. It simply means there is no recorded saying of Jesus on this point. The Corinthians apparently feared that a believer was defiled by remaining married to an unbeliever. Paul says the opposite: “the unbelieving husband is sanctified in the wife” (v. 14). This does not mean the unbeliever is saved — verse 16 shows he still needs salvation. It means the marriage is set apart for God, the home is under the influence of His holiness, and the children are not unclean but holy. Holiness, in the new covenant, is more contagious than defilement. Peter gives the same counsel to wives with unbelieving husbands: they “may be won by the behavior of their wives without a word” (1 Peter 3:1).",
+          "But if the unbeliever leaves, “let there be separation. The brother or the sister is not under bondage in such cases, but God has called us in peace” (v. 15). The interpretation of “not under bondage” is honestly debated. Many careful interpreters, both ancient and modern, understand it to mean that a believer who has been permanently abandoned by an unbelieving spouse is free to remarry; others think it means only that the believer is not obliged to fight to preserve a marriage the other has ended. The text clearly says the believer is not bound, and it grounds this in the peace of God. Verse 16 then probably means: you cannot know whether staying would lead to your spouse's salvation, so do not cling to a marriage that has been abandoned on the theory that you must. God does not call you to endless conflict. He calls you to peace."
+        ]
+      },
+      {
+        "heading": "Bloom Where You Were Planted — Because the Time Is Short",
+        "paragraphs": [
+          "The centre of the chapter is verses 17 to 24, where Paul steps back and states the principle behind his advice, repeating it three times: “as God has called each, so let him walk” (v. 17); “Let each man stay in that calling in which he was called” (v. 20); “let each man, in whatever condition he was called, stay in that condition with God” (v. 24). He applies it to two areas beyond marriage. Ethnic and religious background: the circumcised should not try to undo it, and the uncircumcised should not try to acquire it, because “Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God” (v. 19). And social status: a slave should not be troubled by his condition, because before God he is the Lord's freedman, while the free man is Christ's slave (v. 22). In the Corinthian church, which included both wealthy households and many slaves, this was enormously important. Your standing with God does not depend on your status in society.",
+          "Two things guard this principle from misuse. First, it is not a command to accept injustice. Paul explicitly says that if a slave can gain freedom, he should take it (v. 21, on the most natural reading), and verse 23 adds: “You were bought with a price. Don’t become bondservants of men.” Paul's letter to Philemon shows him working for the freedom of a slave he loved. The point is not that circumstances do not matter but that they do not define you. You can serve God fully in any condition, and you need not wait for your circumstances to change before you begin. Second, the principle is not resignation but relationship: “stay in that condition with God” (v. 24). Every situation can be lived before God's face.",
+          "From verse 25 the reason for Paul's preference for singleness becomes clear: “the distress that is on us” (v. 26) and “the time is short” (v. 29). The distress may have been a local crisis, such as the food shortages known in the region in this period, or the general pressure on believers in the last days; Paul does not specify. But the theology of verses 29 to 31 applies in every generation. Time has been compressed by the coming of Christ. The present form of the world is passing away like a scene on a stage. Those who marry, weep, rejoice, buy or use the world should do so “as though not” — fully engaged, but holding nothing as ultimate. That is why Paul says marriage is not sin (v. 28), but that the single person can give the Lord undivided attention (vv. 32–35). His goal is not to burden anyone — “not that I may ensnare you” — but “that you may attend to the Lord without distraction” (v. 35). Married or single, slave or free, Jew or Gentile, the one thing needed is the same: an undivided heart."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Paul's teaching on singleness as a gift (v. 7) echoes the teaching of Jesus. When Jesus forbade divorce, His disciples said, “If this is the case of the man with his wife, it is not expedient to marry.” And Jesus replied, “Not all men can receive this saying, but those to whom it is given. For there are eunuchs who were born that way from their mother’s womb, and there are eunuchs who were made eunuchs by men; and there are eunuchs who made themselves eunuchs for the Kingdom of Heaven’s sake. He who is able to receive it, let him receive it” (Matthew 19:10–12). Note the phrase “those to whom it is given” — the same idea as Paul's χάρισμα. Celibacy for the kingdom is a gift, not a requirement, and not a higher spiritual class. And Paul warns Timothy that those who forbid marriage are teaching “doctrines of demons” (1 Timothy 4:1–3). The New Testament honours both singleness and marriage and forbids anyone to despise either.",
+        "Paul's teaching on the permanence of marriage stands in an unbroken line from the prophets through Jesus. Malachi, the last of the prophets, rebuked men who were abandoning the wives of their youth: “Yahweh has been witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion, and the wife of your covenant” (Malachi 2:14). And God gives His own verdict: “For I hate divorce” (Malachi 2:16). Jesus returns to creation itself: the two become one flesh, and what God has joined, man must not separate (Matthew 19:4–6). And Paul, in Ephesians, gives marriage its deepest meaning: “Husbands, love your wives, even as Christ also loved the assembly, and gave himself up for it” (Ephesians 5:25). Christian marriage is a living picture of the covenant between Christ and His church. That is why its faithfulness matters so much.",
+        "And the theme of verses 29 to 31, that “the mode of this world passes away,” is echoed by John: “The world is passing away with its lusts, but he who does God’s will remains forever” (1 John 2:17). Jesus taught that in the resurrection “they neither marry, nor are given in marriage, but are like God’s angels in heaven” (Matthew 22:30). Marriage is a good gift for this age, but it is not the final reality; it points beyond itself to the marriage supper of the Lamb (Revelation 19:7–9). Living with that end in view does not cheapen marriage or singleness. It frees both from the impossible burden of being everything. Jesus said, “seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well” (Matthew 6:33). Undivided devotion to Him is the one thing needed, in every condition of life."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Deprive / defraud",
+      "hebrew": "ἀποστερέω",
+      "translit": "aposteréō",
+      "strongs": "G650",
+      "verses": "v. 5 (see 6:7–8)",
+      "insight": "Strong's: “to despoil.” Paul uses the same verb he used in 6:7–8 for believers cheating each other in court. Within marriage, withholding sexual intimacy is a form of fraud — depriving your spouse of what the covenant owes them. This is not a licence for one spouse to demand or coerce; verse 4 makes both bodies belong to each other, which rules out selfishness on either side. The point is that marital intimacy is a debt of love, freely and mutually given. The only exception Paul allows is mutual consent, for a time, for prayer — and even then, he says, come back together."
+    },
+    {
+      "english": "Gift (of grace)",
+      "hebrew": "χάρισμα",
+      "translit": "chárisma",
+      "strongs": "G5486",
+      "verses": "v. 7",
+      "insight": "Strong's: “a (divine) gratuity, i.e. deliverance (from danger or passion); (specially), a (spiritual) endowment.” This is the word used for spiritual gifts in 1:7, 12:4, 12:9, 12:28 and 12:31. By using it of singleness — and by implication of marriage — Paul elevates both. Neither is a default or a failure. Each is a gift of God's grace, given to particular people for His purposes. Notice the phrase “each man has his own gift.” You do not choose which gift you have; you discover it. And the person who has the gift of singleness should not envy the married, nor the married despise the single. Both have received grace."
+    },
+    {
+      "english": "Called",
+      "hebrew": "καλέω",
+      "translit": "kaléō",
+      "strongs": "G2564 (noun, calling κλῆσις, klēsis, G2821)",
+      "verses": "v. 15, 17, 18 (×2), 20 (×2), 21, 22 (×2), 24",
+      "insight": "Strong's: “to ‘call’ (properly, aloud, but used in a variety of applications, directly or otherwise).” The verb appears nine times in verses 15 to 24, making it the key word of the passage. In Paul it almost always refers to God's effective call to salvation (1:9, 26). The noun κλῆσις, calling, in verse 20 does not mean a job or career, as later Christian usage sometimes took it, but the circumstances in which God's call found you. The great truth of this section is that God's call reaches people in every situation — married, single, slave, free, Jew, Gentile — and that you can answer His call fully without first changing your circumstances."
+    },
+    {
+      "english": "Shortened / compressed",
+      "hebrew": "συστέλλω",
+      "translit": "systéllō",
+      "strongs": "G4958",
+      "verses": "v. 29",
+      "insight": "Strong's: “to send (draw) together, i.e. enwrap (enshroud a corpse for burial), contract (an interval).” The word was used of furling sails as a ship came into harbour and, in Acts 5:6, of the young men wrapping the body of Ananias for burial. “The time is short” means that the time remaining has been drawn together, compressed — by the coming of Christ, the present age has been put on a short schedule. That is not a reason for panic but for perspective. When the sails are being furled, you prepare to land. You do not start rearranging the deck chairs."
+    },
+    {
+      "english": "Without distraction",
+      "hebrew": "ἀπερισπάστως",
+      "translit": "aperispástōs",
+      "strongs": "G563",
+      "verses": "v. 35",
+      "insight": "Strong's: “undistractedly, i.e. free from (domestic) solicitude.” It is built from a negative prefix and the verb περισπάω, to drag around, the word Luke uses of Martha, who “was distracted with much serving” (Luke 10:40). Paul's whole aim in the chapter is summed up in this one word. He does not want anyone dragged around by anxious concern. He wants every believer — married or single — to be able to attend to the Lord with an undivided heart. Marriage and singleness are not competing paths to holiness. They are different settings in which the same goal must be pursued: sitting at His feet, undistracted."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the way you have made your marital status your identity, the circumstances you are waiting to change before you serve God fully, and the scenery you have been building your life on.",
+    "items": [
+      {
+        "title": "Your Status Is Not Your Story",
+        "body": "If you are single, you may have come to see your singleness as a waiting room, a problem to be solved, or evidence that something is wrong with you. If you are married, you may have made your marriage the centre of your world, or you may be quietly unhappy in it and wondering whether God has failed you. The Spirit says to both: each has his own gift from God. Your marital status is not your identity, and it is not your calling. Christ is. If you are single, receive it as a gift and use its freedom for undivided devotion. If you are married, love your spouse generously, and do not let even a good marriage crowd out the Lord. And if your marriage is broken, know that God has called you in peace."
+      },
+      {
+        "title": "Stay With God Where You Are",
+        "body": "You have been waiting. Waiting for the better job, the healed relationship, the move, the promotion, the spouse, the end of a hard season — and telling yourself that then you will really serve God. Three times in this chapter Paul says: remain in the condition in which you were called, “with God.” Not resignation — presence. The Spirit wants you to stop postponing obedience until your circumstances improve. Where you are right now is where God has called you to walk with Him. Ask: how can I serve Christ fully in this situation, today, as it is? And if a door to freedom opens, walk through it — but do not wait for it to begin."
+      },
+      {
+        "title": "The Scenery Is Changing",
+        "body": "“The mode of this world passes away.” The career, the house, the reputation, the comfort, even the good relationships of this age — all of it is scenery on a stage that is about to change. The Spirit is not asking you to despise these things. He is asking you not to cling to them. What are you holding so tightly that losing it would destroy you? What have you built your sense of security on that is part of the passing scene? The time is short. The sails are being furled. Let the Spirit loosen your grip, so that you can weep without despair, rejoice without idolatry, and buy without being owned by what you buy."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Marriage Check (for the married)",
+        "body": "Are you giving your spouse the affection, attention and intimacy you owe them (vv. 3–5), freely and generously? Or have you been withholding — physically, emotionally, or with your time — for reasons that have nothing to do with prayer? Write down one area where you have been defrauding your spouse, and one area where you can give more."
+      },
+      {
+        "title": "The Gift Check (for the single)",
+        "body": "Do you see your singleness as a gift from God (v. 7) or as a lack? What opportunities for undivided devotion does it give you right now that you are not using? Write down one way you could use your freedom this month to serve the Lord in a way a married person could not."
+      },
+      {
+        "title": "The Open-Hand Check (for everyone)",
+        "body": "Read verses 29 to 31 slowly. Then write down the one thing in this world you would find hardest to lose. Ask honestly: am I holding this “as though not,” or has it become ultimate? What would it look like to hold it with an open hand?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Undistracted Time",
+        "body": "Paul's goal is that you would “attend to the Lord without distraction” (v. 35). This week, set aside one hour — married or single — to sit at the feet of Jesus like Mary. Turn off your phone. Go somewhere quiet. Bring only your Bible and a notebook. Spend the first fifteen minutes simply naming the things that usually drag you around, and handing each one to God. Spend the rest reading slowly, praying, and listening. If you are married, consider doing this by mutual agreement as a couple, and then sharing with each other what God showed you."
+      },
+      {
+        "title": "Serving Where You Stand",
+        "body": "Identify the condition you are “called in” right now — your work, your marital status, your family situation, your health, your limitations. Write it at the top of a page. Then write underneath: “Lord, how can I serve You fully here, today, as it is?” List three specific ways. Choose one and do it this week, without waiting for your circumstances to change. Then pray verse 24 over your situation: “Lord, I stay in this condition — with You.”"
+      }
+    ]
+  },
+  "prayerReflection": "“Father, You have given each of us our own gift — one of this kind, another of that kind. Thank You for the gift You have given me. Forgive me for envying others' gifts and despising my own, and forgive me for making my status — married or single — into my identity, when my identity is in Christ. If I am married, teach me to love my spouse with generous, faithful, self-giving love; let me never defraud them of what love owes; and let our home be set apart for You. If I am single, teach me to receive my singleness as grace and to use its freedom for undivided devotion to You. Lord, You called me in the condition I was in, and You have not asked me to wait for my circumstances to change before I serve You. Help me to walk with You here, today, as I am. I was bought with a price; I will not become a slave of men or of anything in this passing world. Lord, the time is short. The form of this world is passing away. Loosen my grip on everything that is only scenery. Let me weep without despair, rejoice without idolatry, buy without being owned. And above all, give me an undivided heart — to sit at Your feet without distraction, like Mary, choosing the one thing that will not be taken away. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Anna, Eighty-Four Years Undistracted",
+      "ref": "Luke 2:36-38",
+      "relatedVerses": "v. 8, 32-35, 40",
+      "summary": "Anna had been married for only seven years when her husband died. Then she lived as a widow for decades — Luke says about eighty-four years — and she never left the temple, worshipping God with fasting and prayer night and day. She did not treat widowhood as an empty waiting room. She used its freedom for undivided devotion. And so when Mary and Joseph brought the infant Jesus into the temple, Anna was there at that very hour, and she recognised Him. She gave thanks to God and spoke about the child to everyone who was waiting for the redemption of Jerusalem. Anna is a living illustration of 1 Corinthians 7:34–35: a woman who cared for the things of the Lord, holy in body and spirit, attending to Him without distraction, and positioned to see the Messiah when He came."
+    },
+    {
+      "title": "Ruth Marries Only in the Lord",
+      "ref": "Ruth 1:16-17; 3:1-13; 4:9-17",
+      "relatedVerses": "v. 39",
+      "summary": "Ruth was a Moabite widow who chose to follow her mother-in-law Naomi back to Israel, saying that Naomi's people would be her people and Naomi's God her God. In Bethlehem she gleaned in the fields of Boaz, a godly relative of her late husband. When the time came for her to remarry, she did not seek just anyone. She went to Boaz, a man of faith, and asked him to act as her kinsman-redeemer. Boaz praised her because she had not gone after young men, rich or poor. He redeemed the family property, married her before the elders at the gate, and from their marriage came Obed, the grandfather of David — and the line of the Messiah. Ruth shows the freedom and the boundary of verse 39: a widow is free to remarry whom she wishes, only in the Lord."
+    },
+    {
+      "title": "Onesimus, the Lord's Freedman",
+      "ref": "Philemon 1:8-21",
+      "relatedVerses": "v. 21-23",
+      "summary": "Onesimus was a slave who ran away from his master, Philemon, a believer in Colossae. Somehow he met Paul in prison, and there he came to Christ. Paul sent him back to Philemon with a short letter that is now part of Scripture. In it Paul asks Philemon to receive Onesimus no longer as a slave but as more than a slave, a beloved brother, and to welcome him as he would welcome Paul himself. Paul even offers to pay whatever Onesimus owes. Onesimus had been called in the Lord while still a slave, and Paul treated him as the Lord's freedman and his own son. And Paul worked, with careful pastoral wisdom, for his freedom. That is 1 Corinthians 7:21–23 in a real friendship: your status does not define your worth in Christ — and if freedom can be gained, take it."
+    }
+  ]
+}

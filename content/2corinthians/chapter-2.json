@@ -1,0 +1,658 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Corinthians",
+  "chapter": 2,
+  "chapterTitle": "The Aroma of Christ — The Letter of Tears, the Forgiven Offender, and the Triumphal Procession",
+  "themeTitle": "“You Are Not the General in the Chariot — You Are the Captive Who Smells Like Him”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "But I determined this for myself, that I would not come to you again in sorrow.",
+      "understanding": "Krinō is a judicial verb — to decide a case, to reach a verdict — and the verdict Paul reached was about himself: he would not come again in sorrow. The bruise is in that word “again.” There had already been one visit that ended in grief, the “painful visit” he alludes to in 13:2 when he speaks of being present “the second time,” a trip so humiliating that the New Testament never narrates it. So when his opponents accused him of being unreliable because he changed his travel plans (1:17), this is his answer: he stayed away deliberately, “to spare you” (1:23). Sometimes the most loving thing a leader does looks, from the outside, exactly like cowardice.",
+      "words": [
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "determined"
+        },
+        {
+          "strongs": "G3077",
+          "hebrew": "λύπη",
+          "translit": "lýpē",
+          "english": "sorrow"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For if I make you sorry, then who will make me glad but he who is made sorry by me?",
+      "understanding": "The logic here is not administrative; it is emotional, and Paul says it out loud without embarrassment. Corinth is his joy supply — euphrainō is to be put in a good frame of mind, to be gladdened. If he crushes them, he has destroyed the only people capable of gladdening him. Read that again and let it be strange: an apostle telling a congregation that had been siding with men who mocked him, my happiness is in your hands.",
+      "words": [
+        {
+          "strongs": "G3076",
+          "hebrew": "λυπέω",
+          "translit": "lypéō",
+          "english": "make you sorry"
+        },
+        {
+          "strongs": "G2165",
+          "hebrew": "εὐφραίνω",
+          "translit": "euphraínō",
+          "english": "make me glad"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "And I wrote this very thing to you, so that, when I came, I wouldn’t have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy would be shared by all of you.",
+      "understanding": "“I wrote this very thing” points to the severe letter of verse 4 — a letter we do not possess. He wrote instead of coming, precisely so that when the visit finally happened it would not be another funeral. And notice the risk buried in “having confidence in you all”: peithō in the perfect tense, a settled persuasion he had staked on people who had not yet given him grounds for it. Love keeps a good opinion of people who have not earned it back yet.",
+      "words": [
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "having confidence"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made sorry, but that you might know the love that I have so abundantly for you.",
+      "understanding": "This is the most naked sentence in the chapter. Thlipsis is pressure — the weight of a stone laid on the chest; synochē is constriction, a throat closing, the panic of a narrow place with no exit. He wrote it in tears and then he tells them he wrote it in tears, which is the last thing a man defending his authority would normally admit. And read the stated motive: the letter that hurt them was an act of love, not discipline for discipline's sake. Correction that costs the corrector nothing is not correction — it is temper with a Bible verse attached.",
+      "words": [
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "affliction"
+        },
+        {
+          "strongs": "G4928",
+          "hebrew": "συνοχή",
+          "translit": "synochḗ",
+          "english": "anguish"
+        },
+        {
+          "strongs": "G1144",
+          "hebrew": "δάκρυ",
+          "translit": "dákry",
+          "english": "tears"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "But if any has caused sorrow, he has caused sorrow, not to me, but in part (that I not press too heavily) to you all.",
+      "understanding": "Paul refuses to make the offence about himself, even though he was the man insulted. He deliberately de-personalises the wound — it belongs to the whole body, not to his ego — and then softens even the indictment of the church with a parenthesis so that he will not “press too heavily” (epibareō, to lay a weight on someone). Watch what he is doing: a man with every right to press his case is visibly working to make the grievance smaller. That instinct is what makes the next three verses possible.",
+      "words": [
+        {
+          "strongs": "G3076",
+          "hebrew": "λυπέω",
+          "translit": "lypéō",
+          "english": "caused sorrow"
+        },
+        {
+          "strongs": "G1912",
+          "hebrew": "ἐπιβαρέω",
+          "translit": "epibaréō",
+          "english": "press too heavily"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "This punishment which was inflicted by the many is sufficient for such a one;",
+      "understanding": "Epitimia is a formal penalty, and “the many” (hoi pleiones, the majority) means the assembly acted corporately — this was a decision of the church, not a private grudge. Now the same apostle who once ordered discipline calls a halt: the penalty is hikanos, enough. New Testament discipline has a stopping point, and somebody with authority has to say so out loud, or a corrective becomes a life sentence. Hold on to that word hikanos — Paul uses it again in verse 16, and it will not sound the same.",
+      "words": [
+        {
+          "strongs": "G2009",
+          "hebrew": "ἐπιτιμία",
+          "translit": "epitimía",
+          "english": "punishment"
+        },
+        {
+          "strongs": "G2425",
+          "hebrew": "ἱκανός",
+          "translit": "hikanós",
+          "english": "sufficient"
+        },
+        {
+          "strongs": "G4119",
+          "hebrew": "πλείων",
+          "translit": "pleíōn",
+          "english": "the many"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.",
+      "understanding": "“On the contrary” — reverse the entire movement. Charizomai is not a legal pardon; it is built on charis, grace, and means to hand something over as a free gift, the way God handed it to you. Then comfort him — parakaleō, the very word for what God did for Paul in chapter 1, so the comfort they received is the comfort they now owe. And the danger is named with a violent verb: katapinō, to gulp down whole, to swallow entire, the picture of a wave closing over a man's head. A church can drown a repentant man in his own sorrow simply by staying silent.",
+      "words": [
+        {
+          "strongs": "G5483",
+          "hebrew": "χαρίζομαι",
+          "translit": "charízomai",
+          "english": "forgive"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "comfort"
+        },
+        {
+          "strongs": "G2666",
+          "hebrew": "καταπίνω",
+          "translit": "katapínō",
+          "english": "swallowed up"
+        },
+        {
+          "strongs": "G4055",
+          "hebrew": "περισσότερος",
+          "translit": "perissóteros",
+          "english": "excessive"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Therefore I beg you to confirm your love toward him.",
+      "understanding": "Kyroō is a legal term — to make authoritative, to ratify; the word used for validating a contract or confirming a will. Paul is not asking for warmer feelings toward the man; he is asking for a public, formal act that puts the restoration on the record. And look at the verb attached to the apostle himself: parakaleō, I beg you. He had the authority to command and he chose to plead. Forgiveness that is never confirmed out loud leaves the forgiven man standing outside a door he has been told is open.",
+      "words": [
+        {
+          "strongs": "G2964",
+          "hebrew": "κυρόω",
+          "translit": "kyróō",
+          "english": "confirm"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "beg"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "For to this end I also wrote, that I might know the proof of you, whether you are obedient in all things.",
+      "understanding": "Dokimē is the assayer's word — proof reached by testing, metal put into fire to see what it actually is. The severe letter was an assay, and they passed its first half: 7:11 records the earnest care, the indignation and the zeal with which they dealt with the wrong. But watch where Paul plants the word — between “forgive him, comfort him” (v. 7) and “I also forgive” (v. 10) — and watch the phrase he attaches to it: obedient in all things. The half still outstanding is the mercy. God tests churches, and homes, at the point of mercy far more often than at the point of rules.",
+      "words": [
+        {
+          "strongs": "G1382",
+          "hebrew": "δοκιμή",
+          "translit": "dokimḗ",
+          "english": "proof"
+        },
+        {
+          "strongs": "G5255",
+          "hebrew": "ὑπήκοος",
+          "translit": "hypḗkoos",
+          "english": "obedient"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Now I also forgive whomever you forgive anything. For if indeed I have forgiven anything, I have forgiven that one for your sakes in the presence of Christ,",
+      "understanding": "Paul ties his own forgiveness to theirs — no reserved apostolic grudge, no private file left open in case the man relapses. “For your sakes”: he forgives to protect the church, not to relieve his own feelings. And “in the presence of Christ” is literally in the face — prosōpon — of Christ; he forgives with the face of Jesus turned full toward him, in plain view. That is the only place forgiveness ever actually gets done.",
+      "words": [
+        {
+          "strongs": "G5483",
+          "hebrew": "χαρίζομαι",
+          "translit": "charízomai",
+          "english": "forgive"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "presence (lit. face)"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "that no advantage may be gained over us by Satan; for we are not ignorant of his schemes.",
+      "understanding": "Now the reason, and it should stop you where you stand: unforgiveness is enemy territory. Pleonekteō is the swindler's word — to over-reach, to defraud, to get the better of someone in a transaction — so the picture is of the devil turning a profit out of your refusal. His noēmata are his designs, his worked-out plans; and in this chapter the plan is not to seduce the church into scandal but to get a righteous church to withhold mercy from a broken man. Paul says he knows the play. Do you?",
+      "words": [
+        {
+          "strongs": "G4122",
+          "hebrew": "πλεονεκτέω",
+          "translit": "pleonektéō",
+          "english": "advantage may be gained"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        },
+        {
+          "strongs": "G50",
+          "hebrew": "ἀγνοέω",
+          "translit": "agnoéō",
+          "english": "ignorant"
+        },
+        {
+          "strongs": "G3540",
+          "hebrew": "νόημα",
+          "translit": "nóēma",
+          "english": "schemes"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Now when I came to Troas for the Good News of Christ, and when a door was opened to me in the Lord,",
+      "understanding": "Troas is a port city on the edge of Asia looking across at Europe, thick with the traffic of two continents — and the door was open. Thyra is the same image Paul used in 1 Corinthians 16:9 of the “great and effective door” at Ephesus. Read the qualifier exactly: the door was opened to him “in the Lord.” This was not an opportunity he manufactured or talked himself into. God opened it.",
+      "words": [
+        {
+          "strongs": "G5174",
+          "hebrew": "Τρωάς",
+          "translit": "Trōás",
+          "english": "Troas"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        },
+        {
+          "strongs": "G2374",
+          "hebrew": "θύρα",
+          "translit": "thýra",
+          "english": "door"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "I had no relief for my spirit, because I didn’t find Titus, my brother, but taking my leave of them, I went out into Macedonia.",
+      "understanding": "And he walked away from it. Anesis is the loosening of tension, the slackening of a stretched rope; he had none — he could not get his spirit to unclench because one man had not arrived with news. Do not tidy this up: the greatest missionary in history left an open door standing open because he was too anxious about people to preach. Anxiety over people you love is not a sin, but it is a thief. (And 7:5-6 tells you what came of the detour: in Macedonia “our flesh had no relief... Fightings were outside. Fear was inside” — and then God “comforted us by the coming of Titus.”)",
+      "words": [
+        {
+          "strongs": "G425",
+          "hebrew": "ἄνεσις",
+          "translit": "ánesis",
+          "english": "relief"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G657",
+          "hebrew": "ἀποτάσσομαι",
+          "translit": "apotássomai",
+          "english": "taking my leave"
+        },
+        {
+          "strongs": "G3109",
+          "hebrew": "Μακεδονία",
+          "translit": "Makedonía",
+          "english": "Macedonia"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Now thanks be to God, who always leads us in triumph in Christ, and reveals through us the sweet aroma of his knowledge in every place.",
+      "understanding": "Mid-anxiety, mid-sentence, the man erupts into praise — and he will not pick the story back up again until 7:5. Thriambeuō names one specific spectacle: the Roman triumph, where a victorious general processed through the city with the conquered marched along behind him and incense burning the entire length of the route. Paul is not in the chariot. He is in the line of captives — and he is thanking God for it, because being led as Christ's prisoner is precisely how the smell of Christ gets carried into every place.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "thanks"
+        },
+        {
+          "strongs": "G3842",
+          "hebrew": "πάντοτε",
+          "translit": "pántote",
+          "english": "always"
+        },
+        {
+          "strongs": "G2358",
+          "hebrew": "θριαμβεύω",
+          "translit": "thriambeúō",
+          "english": "leads us in triumph"
+        },
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "reveals"
+        },
+        {
+          "strongs": "G3744",
+          "hebrew": "ὀσμή",
+          "translit": "osmḗ",
+          "english": "sweet aroma"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For we are a sweet aroma of Christ to God, in those who are saved, and in those who perish;",
+      "understanding": "Notice what he does not say: we spread a pleasant smell. We ARE it. Euōdia is the exact word the Greek Old Testament uses for a sacrifice God accepts — the aroma that rises off an altar and pleases Him. And read the audience: “to God.” Your life is a fragrance offered up to God before it is anything at all to anybody else, which means your usefulness is not measured by the reaction you get in the room. Both crowds are listed here — the saved and the perishing — and Paul is the same aroma to both.",
+      "words": [
+        {
+          "strongs": "G2175",
+          "hebrew": "εὐωδία",
+          "translit": "euōdía",
+          "english": "sweet aroma"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        },
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "perish"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "to the one a stench from death to death; to the other a sweet aroma from life to life. Who is sufficient for these things?",
+      "understanding": "In the triumph the same incense meant two opposite things: to the soldiers it was the smell of victory and home; to the chained men at the back of the column it was the smell of the execution waiting at the end of the route. And here is what the English cannot show you — in the Greek the identical noun stands on both sides of this verse, osmē, a smell. It is not the fragrance that changes; it is the nose. Then comes the question that names the whole burden: hikanos — who is competent for this? The very word he used in verse 6 of a punishment that was “enough.” A penalty can be enough. No man is.",
+      "words": [
+        {
+          "strongs": "G3744",
+          "hebrew": "ὀσμή",
+          "translit": "osmḗ",
+          "english": "stench / sweet aroma (same word)"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G2425",
+          "hebrew": "ἱκανός",
+          "translit": "hikanós",
+          "english": "sufficient"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "For we are not as so many, peddling the word of God. But as of sincerity, but as of God, in the sight of God, we speak in Christ.",
+      "understanding": "Kapēleuō is the word for a kapēlos — the street huckster, and specifically the wine-seller who watered the wine to widen his margin. His rivals had arrived with letters of recommendation (3:1) and took payment; Paul refused support and was mocked for it as an admission he was not worth paying (11:7). His counter-claim comes fenced three times: out of sincerity (eilikrineia — clearness, purity; a motive with nothing stirred into it), out of God (a message he did not compose), and katenanti God — directly facing God, as a man who knows he is being watched while he speaks. That is the entire difference between a merchant and a messenger.",
+      "words": [
+        {
+          "strongs": "G4183",
+          "hebrew": "πολύς",
+          "translit": "polýs",
+          "english": "so many"
+        },
+        {
+          "strongs": "G2585",
+          "hebrew": "καπηλεύω",
+          "translit": "kapēleúō",
+          "english": "peddling"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1505",
+          "hebrew": "εἰλικρίνεια",
+          "translit": "eilikríneia",
+          "english": "sincerity"
+        },
+        {
+          "strongs": "G2713",
+          "hebrew": "κατέναντι",
+          "translit": "katénanti",
+          "english": "in the sight of"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Letter He Wished He Had Not Had To Send",
+      "verseRef": "v. 3-4",
+      "image": "A rented room somewhere in Asia. A man is grinding out sentences he does not want to write, and he is not composing a rebuke — he is weeping while he dictates. Thlîpsis: pressure, like a stone laid on the chest. Synochḗ: constriction, a throat closing, the panic of a corridor with no exit. He seals it. He hands it to a courier — almost certainly Titus — and watches him walk out of sight down a road, and then he has to live for weeks with what he has just done, not knowing whether the letter will save the church or finish it. He cannot take it back. He cannot stand beside it and explain his tone. He can only wait.",
+      "meaning": "We do not have that letter. What we have is his description of writing it — and the description demolishes the idea that hard words and tender love are opposites: “not that you should be made sorry, but that you might know the love that I have so abundantly for you.” Note the order. The sorrow was the instrument; the love was the point. Correction that costs the corrector nothing is not correction, it is temper. So if you have to say the hard thing to your brother, your child, your friend — the tears are not a weakness in the letter. They are the evidence that it came from love and not from injury."
+    },
+    {
+      "title": "A Man Swallowed by the Sea",
+      "verseRef": "v. 7",
+      "image": "Katapínō — see an exhausted swimmer, and a wave folding over, and the water closing flat where his head had been. Now move that picture into a church hall. He did the thing. He was disciplined for it, publicly, by the majority. And he has repented — but every week he walks in and nobody sits near him, nobody says his name from the front, the room quietly recalibrates around his presence. He is not being punished any more. He is being drowned, slowly, by silence.",
+      "meaning": "Paul's fear is not that the offender will get off too lightly. His fear is that “excessive sorrow” will finish the job the sin started. Sorrow can be godly — 7:10 says “godly sorrow produces repentance to salvation, which brings no regret” — and it can be lethal: “the sorrow of the world produces death.” The difference is very often whether the people of God ever ratified their forgiveness out loud, which is why verse 8 uses kyróō, the legal word for making a thing official. Somebody has to say to the restored man, in front of everybody: you are ours. Judas had remorse and nobody to say it to him. Peter had a Lord who cooked him breakfast."
+    },
+    {
+      "title": "The Open Door He Walked Away From",
+      "verseRef": "v. 12-13",
+      "image": "Troas: the harbour where Asia stares across the water at Europe, crowded with sailors, cargo and the traffic of two continents. Paul arrives to preach, and God swings the door wide — not a door he levered open with strategy or nerve, but one opened “to me in the Lord,” the exact thing he had come for. And he stands in the middle of the opportunity unable to work, scanning the docks and the road for one face. Titus has not come. There is no news from Corinth. And in the end the apostle Paul turns his back on an open door and books passage for Macedonia, because he cannot preach past the knot in his chest.",
+      "meaning": "Do not sand this down and do not moralise it too fast. Scripture lets you watch a great man leave a God-given opportunity because he was too worried about people to take it. That is the honest cost of loving a church — and honest evidence that even apostles do not operate above their own nervous systems. But watch what God did with the detour: Macedonia is exactly where Titus finally reached him (7:6), and out of that reunion came the letter you are holding. And within about a year Luke has Paul back in Troas — after the winter in Corinth and the journey back through Macedonia — staying seven days and preaching past midnight (Acts 20:6-12). God does not usually bolt a door for good because you were too shaken to walk through it the first time."
+    },
+    {
+      "title": "The Procession and the Two Smells",
+      "verseRef": "v. 14-16",
+      "image": "A Roman triumph. The city packed and roaring, the general in a chariot with his face painted red, his legions behind him chanting, and priests swinging censers so that clouds of incense hang the whole length of the route. And at the tail of the column, chained and stumbling, walk the conquered — for whom that same sweet smoke is the smell of the worst day of their lives, because the procession ends at the prison on the slope of the Capitol, where the enemy commander is strangled while the crowd waits for the sacrifice, and the rest go to the slave markets. One perfume. Two meanings. Everything depends on which end of the rope you are on.",
+      "meaning": "Paul puts himself in the chains, not the chariot, and calls it the thing he thanks God for. Christ is the Conqueror; Paul is the trophy being displayed. That is this entire letter compressed into one image — the credential is not that you are impressive, it is that you have been captured. And it explains verse 16 without any need to soften it: you will not smell the same to everybody. To some people your life will smell like life. To others the identical life will smell like death, and their verdict is not the measure of your faithfulness. So stop reading the crowd. The aroma is offered “to God” first (v. 15); the crowd only gets the overflow."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Why He Stayed Away: The Painful Visit and the Letter of Tears (v. 1-4)",
+        "body": "Paul explains the change of travel plans his critics called fickleness — he refused to come again in sorrow, and wrote instead out of affliction, anguish and many tears, so that they would know his love."
+      },
+      {
+        "label": "Enough Is Enough: The Offender and the Limit of Discipline (v. 5-8)",
+        "body": "The penalty imposed by the majority is declared sufficient; now forgive him, comfort him, and formally ratify your love before excessive sorrow swallows him."
+      },
+      {
+        "label": "The Test Was the Forgiving (v. 9-11)",
+        "body": "The severe letter was an assay of their obedience — and the obedience in question is mercy, because unforgiveness is the exact place Satan is working."
+      },
+      {
+        "label": "The Open Door He Could Not Walk Through (v. 12-13)",
+        "body": "God opened a door at Troas and Paul left it, because his spirit had no relief until he found Titus — the most humanly exposed sentence about ministry in the New Testament."
+      },
+      {
+        "label": "Led as a Captive: Triumph, Incense and Two Destinies (v. 14-16)",
+        "body": "A sudden burst of thanksgiving: God parades us as His conquered, and through us the smell of the knowledge of Christ goes everywhere — life to some, death to others."
+      },
+      {
+        "label": "Merchants and Messengers (v. 17)",
+        "body": "Unlike the many who retail the word of God like a huckster watering wine, Paul speaks out of sincerity, out of God, and directly in God's line of sight."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Letter We Do Not Have",
+        "paragraphs": [
+          "Put the sequence together, because the emotional violence of this letter is unreadable without it. Paul wrote 1 Corinthians; the situation deteriorated rather than improved. He then made a flying visit that went catastrophically — the “painful visit,” behind verse 1's “again in sorrow” and behind 13:2, where he speaks of what he said “when I was present the second time.” From Ephesus, most probably, he then wrote a letter out of “much affliction and anguish of heart... with many tears” and sent it, most likely by Titus (12:18). Then he waited — with no relief in his spirit and, by his own account, “fightings outside, fear inside” (7:5) — and could not work, which is what verses 12-13 are about. And finally, in Macedonia, Titus arrived with the news that the church had repented (7:6-7). That relief is the reason this letter opens with comfort and swings so violently between joy and grief.",
+          "Say the honest thing about that severe letter: it is almost certainly not 1 Corinthians, and it is almost certainly lost. 1 Corinthians does not read like a document produced in tears and anguish, and 7:8-12 describes a letter that made them sorry “just for a while,” produced repentance, and centred on one specific man who had done a specific wrong. God preserved the description of the letter and not the letter. (Some scholars propose that chapters 10-13 are that lost letter, or a fragment of a different one, because the tone changes so sharply at chapter 10; no manuscript anywhere shows this letter circulating in pieces, so take it as it stands and simply let the tonal shift be what it is — a man who has resolved things with the many turning to deal with the few.)",
+          "And who was the offender? Older tradition identified him with the incestuous man of 1 Corinthians 5, whom Paul ordered to be delivered “to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.” The stronger reading of chapter 2 is that this is a different man — the one who attacked Paul publicly during the painful visit. Paul speaks of a personal injury that he himself must forgive (v. 10), insists the wrong was done “not to me, but in part... to you all” (v. 5), and 7:12 distinguishes “his cause that did the wrong” from “his cause that suffered the wrong,” a two-party grievance that does not fit the case in 1 Corinthians 5. Either way the pastoral point is identical, and it lands harder when you say it plainly: the church Paul once had to command to discipline a man, he must now command to forgive one. Congregations, and families, lurch from indulgence to severity and almost never stop in the middle. That is why somebody with authority has to stand up and say the word hikanós — enough."
+        ]
+      },
+      {
+        "heading": "Unforgiveness Is Enemy Strategy",
+        "paragraphs": [
+          "Verse 11 is one of the most practical sentences in the New Testament about spiritual warfare, and it is nowhere near where people go looking for it. Read the context with your eyes open: no possession, no territorial spirits, no midnight confrontation, no shrieking. A local church is deciding whether to take a repentant man back — and Paul says that is where Satan is standing, working, waiting to make a profit. Pleonektéō is a commercial swindler's word: to over-reach, to take more than your share, to get the better of someone in a deal. The devil is not merely pleased by your unforgiveness. He is trading on it.",
+          "And notice Paul's claim about himself. He does not say he is un-attacked; he says he is un-ignorant — agnoéō, negated. “...we are not ignorant of his schemes.” Nóēma means designs, worked-out plans, the products of a mind. What are those designs in this letter? In 11:3 he “deceived Eve in his craftiness”; in 11:14 he “masquerades as an angel of light.” Nothing crude. His most successful work in a doctrinally healthy church is not scandal but severity — a congregation so committed to holiness that it cannot let a broken man back through the door, and calls that faithfulness. If the enemy cannot get the church to sin, he will happily settle for getting the church to be merciless about sin.",
+          "So land it where it hurts. Bitterness always feels like justice while you are holding it; it never once presents itself as a scheme. But Paul says there is a third party reading the ledger who profits from every day you leave it open. If someone has repented and you have privately decided that their repentance is not enough, then you and the devil currently want the same outcome — and you are the one paying for it. The way out is in the vocabulary of verse 7: charízomai. It is not a settlement you negotiate, it is a gift you hand over, built on charis, grace, and given the way it was given to you. Which is exactly why Paul adds “in the presence of Christ” in verse 10. Forgiveness never gets done in your head at 2 a.m. It gets done with the face of Jesus turned toward you."
+        ]
+      },
+      {
+        "heading": "Led in Triumph — and Who Is Sufficient?",
+        "paragraphs": [
+          "Thriambeúō has to be handled honestly, because the older English translations went the other way. The KJV renders verse 14 “who always causeth us to triumph,” and Strong's itself offers both “to conquer” and “(by Hebraism) to give victory.” But wherever the verb survives in Greek with a person as its object, it carries one sense: to lead that person as a captive in a triumphal procession. That is the stronger reading, and it is the reading the grammar demands here — we are the object of the verb, not its subject. It also fits everything around it: the clay jars of 4:7, the beatings and shipwrecks of 11:23-27, the thorn of 12:7. And it is far better news. If Paul is the general, you have to be impressive to get in the parade. If Paul is the captive, all you have to be is captured.",
+          "Then the incense, and the reason this chapter earns its title. Along the route of a Roman triumph the air was thick with burning spices, and that identical smoke meant glory to the soldiers and ruin to the chained men at the back, whose march ended at the prison below the Capitol, where the defeated commander was strangled and the rest were handed over to the slave markets. That is verse 16 exactly — and in the Greek the same noun, osmḗ, stands on both sides of it. The translators supply “stench” for one and “sweet aroma” for the other and they are right about the effect, but the sentence's whole point is that it is one smell. You do not have two gospels or two personalities. You have one aroma and two kinds of nose. Which means the coldness in the room is not automatically your failure — and, just as plainly, if there is no aroma coming off you at all, the problem is not other people's noses.",
+          "And then the honest despair: “Who is sufficient for these things?” This is the same man who three verses earlier admitted he abandoned an open door because he was too anxious to preach. He asks hikanós — who is competent, adequate, up to this? — the very word he used in verse 6 of a punishment that was enough. Paul lets the question hang, unanswered, all the way to 3:5-6: “not that we are sufficient of ourselves, to account anything as from ourselves; but our sufficiency is from God; who also made us sufficient as servants of a new covenant.” Same root, three verses later. He makes you feel the weight before he hands you the answer, because a man who has never felt the weight will try to carry it himself. And it is the same confession the whole letter is running toward in different words: “My grace is sufficient for you, for my power is made perfect in weakness” (12:9)."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Follow the smell. When Paul writes “sweet aroma” he is not inventing a poetic image; he is quoting the altar. In the Greek Old Testament the standing phrase for a sacrifice God accepts is osmḕ euōdías — an odour of sweet smell — used over Noah's altar in Genesis 8:21 and then relentlessly through Leviticus for the offerings God receives. Paul takes those two nouns, osmḗ (G3744) and euōdía (G2175), and lays them on human beings: “we are a sweet aroma of Christ to God.” Then watch him do it again in Ephesians 5:2, with the identical pair of words: “Walk in love, even as Christ also loved you, and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.” There is the whole line in two verses. Christ is the offering whose aroma God accepted; and the ones He took captive now walk through the world with that smell in their clothes. You do not manufacture the fragrance. You have been walking behind it.",
+        "Now follow the parade. Thriambeúō occurs exactly twice in the whole New Testament — here in 2 Corinthians 2:14, and in Colossians 2:15, where Paul says that at the cross Christ stripped the principalities and powers and led them in His triumphal procession, making a public spectacle of them. Hold the two verses side by side and the picture completes itself: the same Conqueror, the same procession, two sets of captives. The powers are dragged along disarmed and disgraced on their way to destruction; the apostle is dragged along and, astonishingly, spends the rest of his life thanking God for the chain. The difference between the two captives is not the strength of the resistance they put up. It is whose captives they end up as.",
+        "And follow the forgiveness. What Paul demands of Corinth in verses 6-8 is exactly what he commands the Galatians: “Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness; looking to yourself so that you also aren’t tempted” (Galatians 6:1). Note that last clause — restoring a fallen man is dangerous work, and the danger runs toward the restorer. Behind both stands the Lord Himself, who put confronting a sinning brother and forgiving him seventy times seven in the same chapter of Matthew's Gospel (Matthew 18:15-35), and closed it with a forgiven servant handed back over to punishment for refusing to release a debt he had himself been released from. Paul is not softening his Master; he is obeying Him. The apostle who ordered the discipline is the apostle who now begs for the pardon, and he tells you exactly what is at stake if the church only ever manages the first half: “that no advantage may be gained over us by Satan.”"
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "To lead in a triumphal procession",
+      "hebrew": "θριαμβεύω",
+      "translit": "thriambeúō",
+      "strongs": "G2358",
+      "verses": "v. 14",
+      "insight": "Strong's defines it as “to make an acclamatory procession, i.e. (figuratively) to conquer or (by Hebraism) to give victory” — and the older English versions took that second option: the KJV has “who always causeth us to triumph.” But in surviving Greek, when this verb takes a person as its object it means to lead that person as a captive in a triumph, and Paul is unmistakably the object here: God “leads US.” Give the stronger reading, because it is also the better news. The Roman triumph was a state spectacle — the victorious general in a chariot, his troops behind him, the conquered enemy chained at the rear of the column, and priests burning incense along the entire route. Paul thanks God that he is in the chain gang. Not the strategist, not the star: the trophy. If you have to be the general to get into the procession, you are finished before you start; if you only have to be captured, then your weakness, your unimpressive speech (10:10) and your scars are not disqualifications at all. They are the proof of whose parade you are in."
+    },
+    {
+      "english": "Aroma, smell, odour",
+      "hebrew": "ὀσμή",
+      "translit": "osmḗ",
+      "strongs": "G3744",
+      "verses": "v. 14, 16 (twice)",
+      "insight": "Simply “fragrance (literally or figuratively)” — a smell. And here is the thing an English Bible cannot show you: in verse 16 the SAME noun stands on both sides of the sentence. “a stench from death to death” and “a sweet aroma from life to life” are, in the Greek, one identical word — osmḗ, then osmḗ. The translators supply the two English words because they are right about the effect, but the sentence's whole force is that the smell never changed; the noses did. Its companion in verse 15 is euōdía (G2175), “good-scentedness,” which is the Greek Old Testament's fixed term for a sacrifice God accepts — the aroma over Noah's altar, the aroma of the Levitical offerings, and, in Ephesians 5:2, the aroma of Christ giving Himself up for us. Put them together and the doctrine is unavoidable: you are not asked to produce a fragrance, you are asked to stay near the Sacrifice whose fragrance you have been carrying without noticing. And you will never be able to control who finds it sweet."
+    },
+    {
+      "english": "Sufficient, competent, adequate",
+      "hebrew": "ἱκανός",
+      "translit": "hikanós",
+      "strongs": "G2425",
+      "verses": "v. 6, 16",
+      "insight": "Strong's: “competent (as if coming in season), i.e. ample (in amount) or fit (in character).” Paul uses it twice in this chapter and the two uses are a hinge. In verse 6 the punishment inflicted on the offender is hikanós — enough, adequate, no more required; someone with authority declaring the discipline complete. In verse 16, after the incense and the two destinies, he asks tís hikanós — who is adequate for this? A penalty can be enough. A man never is. And Paul deliberately refuses to answer the question for three verses, letting it hang until 3:5-6, where the same root comes back three times over: we are not sufficient of ourselves, our sufficiency is from God, and God has made us sufficient as servants of a new covenant. That is the anatomy of real ministry in one word — first the honest bankruptcy, then the supplied competence. Anyone who has never asked verse 16's question is carrying something he does not understand the weight of."
+    },
+    {
+      "english": "Schemes, designs, thoughts",
+      "hebrew": "νόημα",
+      "translit": "nóēma",
+      "strongs": "G3540",
+      "verses": "v. 11",
+      "insight": "“A perception, i.e. purpose, or (by implication) the intellect, disposition, itself” — Strong's lists “device, mind, thought.” These are not impulses; they are worked-out designs, the products of a scheming mind. Paul says we are not ignorant of them — and then, devastatingly, he names one, and it is not what anybody expects. The scheme in this passage is not to tempt the church into immorality. It is to tempt a church that has already dealt with immorality into refusing to forgive the man who repented of it. That is why the verb attached to Satan here is pleonektéō (G4122), a swindler's word meaning to over-reach or defraud — to get the better of somebody in a transaction. Every day you keep a repentant person on probation in your heart, somebody is making a profit, and it is not you. Paul uses the same noun again in 11:3, fearing that their minds would be corrupted from the simplicity that is in Christ. The enemy works on the thinking of good people. He always has."
+    },
+    {
+      "english": "To peddle, to retail, to adulterate",
+      "hebrew": "καπηλεύω",
+      "translit": "kapēleúō",
+      "strongs": "G2585",
+      "verses": "v. 17",
+      "insight": "Strong's is blunt: “to retail, i.e. (by implication) to adulterate (figuratively),” derived from the word for a huckster. The kapēlos was the small-time street trader, and in ancient usage the word carried a fixed and unflattering association: the wine-seller who cut the wine with water so that the barrel went further and the margin got wider. He still sells you wine. It is simply no longer the wine. That is the charge Paul lays at the feet of the men who arrived in Corinth with letters of recommendation and an appetite for support — they are retailers of God's word, and the product has been thinned. Against it he sets three fences in one sentence: eilikríneia (G1505), which Strong's gives as “clearness, i.e. (by implication) purity” — a motive with nothing stirred into it, which is exactly what the huckster's barrel is not; “as of God,” a message he did not compose and cannot edit; and katénanti (G2713) God, “directly opposite” — speaking with his face toward God's face. The question the word puts to every one of us who ever opens our mouth about God is not whether we are selling. It is whether we have been watering it down to make it go further."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with four things in this chapter: the person you have privately decided has not suffered enough yet, the corrections you deliver without any tears in them, the open door you walked away from because your spirit had no relief, and the quiet suspicion that you are too unimpressive to be carrying anything of Christ at all.",
+    "items": [
+      {
+        "title": "The One You Have Not Confirmed Your Love Toward",
+        "body": "Name them. Not the person still doing the thing — the one who stopped, who apologised, who has actually changed, and who is still serving a sentence in your heart that you have never told them about and never intend to lift. You do not have to feel warm toward them. Verse 8 does not ask for a feeling; kyróō asks for a ratification, an act with a witness. So answer these: what exactly would count as enough for you (v. 6) — can you even state it? Is there any behaviour that would end their probation, or have you built a prison with no release date and called it discernment? And then the question that should take the air out of the room: if they have repented and you are still withholding, whose plan are you currently executing (v. 11)?"
+      },
+      {
+        "title": "You Were Never the General",
+        "body": "Here is what you actually do: you look at the people with more platform, better speech, cleaner history and visible results, and you conclude you are not really in the procession at all. Read verse 14 again. Paul is not in the chariot either. He is in the chain gang at the back — the man his critics said was “weighty and strong” on paper but whose “bodily presence is weak, and his speech is despised” (10:10) — and that is the man God is parading through every place, and the smell of Christ is coming off him. The aroma does not come off your competence; it comes off proximity to the Conqueror. So your weakness has never once been the disqualification you assumed it was. But distance is. Be honest tonight: are you actually near Him, or just near His work?"
+      },
+      {
+        "title": "The Door You Could Not Walk Through",
+        "body": "An apostle stood in front of an open door in Troas and left it, because he could not get his spirit to unclench while one man's answer was outstanding. You know that feeling exactly. God hands you an opportunity and you are so consumed by an unresolved conflict, an unanswered message, a person whose verdict you are waiting on, that you cannot function inside your own opportunity. Notice three things, and do not skip the third. God did not disown Paul for it. God met him in Macedonia anyway (7:6). And a door stood open at Troas that week and nobody there was preached to. Anxiety about people is not a sin, but it does cost somebody something. So what are you not doing right now because you are waiting for one person to respond?"
+      },
+      {
+        "title": "Peddler or Prisoner",
+        "body": "Kapēleúō is the huckster watering the wine, and it is not only a preacher's temptation. Every time you shave the edge off a truth to keep a relationship comfortable, soften a conviction for a particular audience, or use the things of God to buy standing with people, you have watered the wine — and the wine is still being served, which is what makes it dangerous. Paul's test is one word: katénanti, face to face with God, speaking as a man who knows he is being watched right now. So audit the last week. Where did you dilute something you knew was true, and who exactly were you protecting when you did it — them, or you?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The “Enough” Audit",
+        "body": "Write down the name of the person you are still charging. Then write the answer to this: what would count as enough? Put a number on it, or a behaviour, or a date. If you cannot state the condition that would end their sentence, you are not pursuing justice — you are running a prison, and you are the warden. Verse 6 exists because somebody with authority has to stand up and say “enough” out loud, and in your situation that somebody is you."
+      },
+      {
+        "title": "The Tears Test",
+        "body": "Think about the last hard thing you said to someone — the correction, the rebuke, the message you drafted three times before sending. Where did it come from: “much affliction and anguish of heart,” or irritation and the satisfaction of finally being right? Be exact. And now the harder half: could the person on the receiving end have told, from the way you said it, that you loved them “so abundantly”? If the answer is no, it was not a Paul letter."
+      },
+      {
+        "title": "The Aroma Check",
+        "body": "Over the last month, what have people actually picked up off your life without you saying a word — the smell of Christ, or the smell of your stress, your ambition, your opinions about everyone? Then the other side of the same verse: is there anybody to whom your life has become a stench precisely because you are walking with Jesus? That second one is not necessarily a failure — verse 16 says it is sometimes the evidence. Make sure you are not repenting of the wrong thing."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Confirming Your Love Out Loud",
+        "body": "Take the name from your audit and perform a kyróō act this week — not a feeling, an act, with a witness. Send the message, make the call, or sit down opposite them, and say it in plain words with no conditions attached: “That is finished. I forgive you, and I am not holding it any more.” If they belong to your church or your family, restore them to something visible — a seat at your table, a task, a word said about them in front of others — so that the restoration is on the record and not merely in your head. Then say aloud over yourself: “No advantage will be gained over me by Satan; I am not ignorant of his schemes.” Do it before Sunday."
+      },
+      {
+        "title": "Taking the Door",
+        "body": "Identify one thing God has opened to you that you have not walked through because a person or an unresolved situation is eating all the space — a ministry, a conversation, a piece of work, a study, an act of obedience you keep postponing. Write two lines in your journal: (1) the door; (2) the anxiety occupying you. Then hand that person to God out loud, by name, and take the very next concrete step through the door within forty-eight hours: one email, one call, one hour of the work, one act of obedience. You may still have no ánesis, no relief in your spirit, when you do it. Do it anyway. Feelings are allowed to arrive late."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, thanks be to You — You always lead me in triumph in Christ. And I see now where I am walking in that procession. Not in the chariot; in the chains. I am not the general, I am the captive, and today I stop apologising for it, because the aroma has never come off my strength — it comes off being near to You. Lord, You know the letters I have written and the words I have said out of irritation instead of out of love. Teach me to correct the way Paul corrected: out of much affliction and anguish of heart, with tears, so that the person on the other side knows the love I have so abundantly for them. And Father, You know the name I have been holding. You know exactly how long I have kept that sentence running in my heart with no release date on it. So I say the word today: enough. I forgive, not as a settlement I negotiated, but as a gift, the way You gave it to me — and I confirm my love toward them out loud, in the presence of Christ. Lord, let no one be swallowed up by excessive sorrow because of my silence. And I refuse the enemy's advantage over me: I am not ignorant of his schemes, and I will not carry out his plan while telling myself it is holiness. Jesus, I confess the doors I have walked away from because my spirit had no relief, the opportunities I could not take because I was too consumed with waiting on people. Free me from needing an answer from anyone before I can obey You. Make my life a sweet aroma of the knowledge of You in every place — to those who are saved and to those who perish — and let me stop reading the crowd to find out whether I am pleasing You. Keep me from peddling Your word. No watered wine, no shaved truth, no diluted convictions to make it go further. Let me speak of sincerity, as of God, in the sight of God, in Christ. And when I ask, ‘Who is sufficient for these things?’ — I already know the answer: not me. Never me. My sufficiency is from You. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Servant Who Would Not Release the Debt",
+      "ref": "Matthew 18:15-35",
+      "relatedVerses": "v. 6-11",
+      "summary": "Jesus lays out how to confront a sinning brother — go to him alone, then with witnesses, then tell it to the assembly — and Peter, standing right there, asks how many times he is expected to forgive: as many as seven? Jesus answers with a number designed to stop the counting, and then tells of a servant forgiven a debt so enormous it could never have been repaid, who walks straight out of that mercy, seizes a fellow servant by the throat over a trivial sum, and is handed back over to punishment until he should pay everything he owed — with the warning that the Father will deal the same way with anyone who will not forgive his brother from the heart. Notice where the Lord placed that parable: immediately after the passage on church discipline. Confrontation and radical forgiveness sit in the same chapter, joined at the hip, and 2 Corinthians 2 is Paul obeying his Master to the letter — he ordered the discipline, and now he begs for the pardon. And notice where the punishment lands in the parable, and where Satan is standing in verse 11: on the man who would not let it go."
+    },
+    {
+      "title": "Peter at the Charcoal Fire",
+      "ref": "John 21:15-19",
+      "relatedVerses": "v. 7-8",
+      "summary": "Peter denied Jesus three times warming his hands at a fire in a courtyard, and after the resurrection Jesus meets him beside another fire on a beach, cooks him breakfast, and asks him three times whether he loves Him — one question for each denial — and three times hands him back the work: feed my sheep. Look at the shape of it. The failure had been public, so the restoration is public; the other disciples are standing right there watching it happen. That is kyróō in the flesh — love confirmed in front of witnesses, so that nobody in that group could ever again treat Peter as a permanent liability, and so that Peter himself could never argue his way back out of it. Then set the alternative beside it: Judas also had remorse, and there was nobody to confirm anything to him, and excessive sorrow swallowed him whole. The difference between those two men was not the size of the sin. It was whether anyone said the words out loud."
+    },
+    {
+      "title": "Back to Troas",
+      "ref": "Acts 20:6-12",
+      "relatedVerses": "v. 12-13",
+      "summary": "Within about a year of this letter — after the winter in Corinth and the journey back up through Macedonia — Luke puts Paul in Troas again, the same port where he once could not preach for anxiety, and this time he stays seven days. On the last night he talks with the believers in a crowded upstairs room full of burning lamps and keeps going past midnight, until a young man named Eutychus, sitting in a window, sinks into deep sleep and falls from the third storey to his death. Paul goes down, throws himself on him, embraces him, tells them not to be troubled because his life is in him — and the boy is taken up alive, and Paul goes back upstairs, breaks bread, and talks until daybreak. Hold that beside 2 Corinthians 2:12-13. The door he was once too shaken to walk through is standing open again in the same city, and this time he walks through it and a dead boy gets up. God is not nearly as fragile with our opportunities as our guilt insists He is. What you could not do while your spirit had no relief, He is well able to hand back to you when the relief comes."
+    }
+  ]
+}

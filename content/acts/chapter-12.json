@@ -1,0 +1,415 @@
+{
+  "type": "chapterStudy",
+  "book": "Acts",
+  "chapter": 12,
+  "chapterTitle": "Herod's Sword, Peter's Chains, and the Word That Would Not Be Bound",
+  "themeTitle": "The King Who Played God Was Eaten by Worms — But the Word of God Grew",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now about that time, King Herod stretched out his hands to oppress some of the assembly.",
+      "understanding": "Luke opens the darkest local chapter of volume two: state power turns on the church. 'That time' is roughly AD 44. King Herod Agrippa I, grandson of Herod the Great, courts Jewish favor by laying violent hands on the assembly — the very ekklesia the ascended Christ is building.",
+      "words": [
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G2559",
+          "hebrew": "κακόω",
+          "translit": "kakóō",
+          "english": "oppress"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "He killed James, the brother of John, with the sword.",
+      "understanding": "James, son of Zebedee, one of the inner three, becomes the first of the Twelve to be martyred — beheaded 'with the sword.' Luke reports it in a single, unadorned sentence, and that silence roars. Heaven did not always send the angel."
+    },
+    {
+      "v": 3,
+      "text": "When he saw that it pleased the Jews, he proceeded to seize Peter also. This was during the days of unleavened bread.",
+      "understanding": "Herod is a politician reading polls; crowd approval, not justice, drives the next arrest. The timing is not incidental — this unfolds during the feast of unleavened bread, the Passover season, and Luke wants you to hear the Exodus overtones already gathering."
+    },
+    {
+      "v": 4,
+      "text": "When he had arrested him, he put him in prison, and delivered him to four squads of four soldiers each to guard him, intending to bring him out to the people after the Passover.",
+      "understanding": "Sixteen soldiers in four rotating squads guard one fisherman. Herod's overkill security is Luke's deliberate setup: the more chains and guards, the greater the glory when God empties the cell."
+    },
+    {
+      "v": 5,
+      "text": "Peter therefore was kept in the prison, but constant prayer was made by the assembly to God for him.",
+      "understanding": "The hinge verse turns on the word 'but.' Peter is locked down, but the church does not riot or scheme — it prays. 'Constant' translates a word meaning stretched-out at full tension. Herod holds the prison; the church holds the throne room.",
+      "words": [
+        {
+          "strongs": "G4335",
+          "hebrew": "προσευχή",
+          "translit": "proseuchḗ",
+          "english": "prayer"
+        },
+        {
+          "strongs": "G1619",
+          "hebrew": "ἐκτενῶς",
+          "translit": "ektenōs",
+          "english": "constant"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "The same night when Herod was about to bring him out, Peter was sleeping between two soldiers, bound with two chains. Guards in front of the door kept the prison.",
+      "understanding": "The night before his public execution, Peter sleeps — chained to two soldiers, guards at the door. A man with no visible way out is at perfect rest, because he has already handed the outcome to God."
+    },
+    {
+      "v": 7,
+      "text": "And behold, an angel of the Lord stood by him, and a light shone in the cell. He struck Peter on the side, and woke him up, saying, “Stand up quickly!” His chains fell off from his hands.",
+      "understanding": "Heaven invades: light floods the dungeon, the angel 'strikes' Peter's side to wake him, and the chains simply fall off. Mark the verb — the very same verb will strike Herod dead in verse 23. One heaven, one messenger, two utterly different blows.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G3960",
+          "hebrew": "πατάσσω",
+          "translit": "patássō",
+          "english": "struck"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "The angel said to him, “Get dressed and put on your sandals.” He did so. He said to him, “Put on your cloak, and follow me.”",
+      "understanding": "The angel's instructions — belt, sandals, cloak — deliberately echo the Passover night of Exodus 12:11, where Israel ate with sandals on their feet, ready to march. God is staging a personal exodus for Peter during the very feast that remembers the first one."
+    },
+    {
+      "v": 9,
+      "text": "And he went out and followed him. He didn’t know that what was being done by the angel was real, but thought he saw a vision.",
+      "understanding": "Peter is so far past the edge of his own ability that he assumes he is dreaming. Real deliverance can feel unreal while it is still happening — you obey first and understand later."
+    },
+    {
+      "v": 10,
+      "text": "When they were past the first and the second guard, they came to the iron gate that leads into the city, which opened to them by itself. They went out, and went down one street, and immediately the angel departed from him.",
+      "understanding": "Two guard posts and a massive iron gate — and the gate opens 'by itself' (Greek automatē). No human hand touches it. Then, the miraculous part finished, the angel vanishes and leaves Peter to walk the rest of the way home on ordinary faith."
+    },
+    {
+      "v": 11,
+      "text": "When Peter had come to himself, he said, “Now I truly know that the Lord has sent out his angel and delivered me out of the hand of Herod, and from everything the Jewish people were expecting.”",
+      "understanding": "Peter 'comes to himself' and names it plainly: the Lord sent his angel and 'delivered' him — tore him out — of Herod's hand and out of the crowd's murderous expectation.",
+      "words": [
+        {
+          "strongs": "G1807",
+          "hebrew": "ἐξαιρέω",
+          "translit": "exairéō",
+          "english": "delivered"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Thinking about that, he came to the house of Mary, the mother of John who was called Mark, where many were gathered together and were praying.",
+      "understanding": "Peter goes straight to the prayer meeting — the house of Mary, mother of John Mark, the future Gospel writer. The very people interceding for him are gathered under one roof, still on their knees, at that very hour of the night."
+    },
+    {
+      "v": 13,
+      "text": "When Peter knocked at the door of the gate, a maid named Rhoda came to answer.",
+      "understanding": "A servant girl named Rhoda ('Rose') comes to the outer gate. Luke preserves her name — a nobody maid immortalized in Scripture forever as the first person to meet the answered prayer face to face."
+    },
+    {
+      "v": 14,
+      "text": "When she recognized Peter’s voice, she didn’t open the gate for joy, but ran in, and reported that Peter was standing in front of the gate.",
+      "understanding": "Her joy short-circuits her sense: overjoyed, she leaves Peter standing outside in the danger of the street and runs to announce him. Sometimes our excitement about the answer forgets to actually open the door to it."
+    },
+    {
+      "v": 15,
+      "text": "They said to her, “You are crazy!” But she insisted that it was so. They said, “It is his angel.”",
+      "understanding": "The praying church calls her crazy, then settles on 'It is his angel' — they would sooner believe Peter is dead and this is his ghost than believe their own prayer has been answered. Faith enough to pray; not quite enough to expect."
+    },
+    {
+      "v": 16,
+      "text": "But Peter continued knocking. When they had opened, they saw him, and were amazed.",
+      "understanding": "Peter keeps knocking until they finally open — and they are 'amazed,' astonished at the exact thing they had been asking God to do all night. God answers even the prayers of people startled by the answer."
+    },
+    {
+      "v": 17,
+      "text": "But he, beckoning to them with his hand to be silent, declared to them how the Lord had brought him out of the prison. He said, “Tell these things to James, and to the brothers.” Then he departed, and went to another place.",
+      "understanding": "Peter silences the uproar, testifies how the Lord brought him out, sends word to James (the Lord's brother, now leading the Jerusalem church), and slips away. Deliverance is real, but wisdom still moves him out of Herod's reach."
+    },
+    {
+      "v": 18,
+      "text": "Now as soon as it was day, there was no small stir among the soldiers about what had become of Peter.",
+      "understanding": "Dawn brings chaos in the barracks — Luke's understated 'no small stir.' Sixteen professional soldiers cannot explain an empty cell that is still locked from the outside."
+    },
+    {
+      "v": 19,
+      "text": "When Herod had sought for him, and didn’t find him, he examined the guards, and commanded that they should be put to death. He went down from Judea to Caesarea, and stayed there.",
+      "understanding": "Under Roman law the guards forfeit their lives for the prisoner they lost. Herod, unable to find Peter, executes his own men and withdraws to Caesarea — the last throne he will ever leave alive."
+    },
+    {
+      "v": 20,
+      "text": "Now Herod was very angry with the people of Tyre and Sidon. They came with one accord to him, and, having made Blastus, the king’s personal aide, their friend, they asked for peace, because their country depended on the king’s country for food.",
+      "understanding": "A trade dispute: Tyre and Sidon, dependent on Herod's grain, sue for peace, working the king through his chamberlain Blastus. Luke sets the stage for the fatal public appearance where Herod's pride will finally overreach."
+    },
+    {
+      "v": 21,
+      "text": "On an appointed day, Herod dressed himself in royal clothing, sat on the throne, and gave a speech to them.",
+      "understanding": "On the appointed day Herod, robed in royal splendor — the historian Josephus records a garment of silver that blazed in the morning sun — takes the throne and orates to the assembled crowd."
+    },
+    {
+      "v": 22,
+      "text": "The people shouted, “The voice of a god, and not of a man!”",
+      "understanding": "The crowd's flattery crosses the one line no king may cross: 'The voice of a god, and not of a man!' They deify a dying mortal — and he does nothing to stop them."
+    },
+    {
+      "v": 23,
+      "text": "Immediately an angel of the Lord struck him, because he didn’t give God the glory, and he was eaten by worms and died.",
+      "understanding": "'Immediately' the same kind of angel who freed Peter now 'strikes' Herod — the identical verb — 'because he didn't give God the glory.' He is eaten by worms and dies. The god of the crowd rots in his own robes.",
+      "words": [
+        {
+          "strongs": "G3960",
+          "hebrew": "πατάσσω",
+          "translit": "patássō",
+          "english": "struck"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G4662",
+          "hebrew": "σκωληκόβρωτος",
+          "translit": "skōlēkóbrōtos",
+          "english": "eaten by worms"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "But the word of God grew and multiplied.",
+      "understanding": "Luke's verdict over the whole bloody chapter, hinged again on 'but': 'the word of God grew and multiplied.' Herod is gone; the Word is unstoppable — it grows in depth and multiplies in reach.",
+      "words": [
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G837",
+          "hebrew": "αὐξάνω",
+          "translit": "auxánō",
+          "english": "grew"
+        },
+        {
+          "strongs": "G4129",
+          "hebrew": "πληθύνω",
+          "translit": "plēthýnō",
+          "english": "multiplied"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Barnabas and Saul returned to Jerusalem, when they had fulfilled their service, also taking with them John who was called Mark.",
+      "understanding": "The mission moves on. Barnabas and Saul finish their famine-relief errand and turn back, taking young John Mark with them — the small seed from which the next great chapter of expansion will grow."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Sword and the Sleeping Man",
+      "verseRef": "v. 2, 6",
+      "image": "One image: the flash of a Roman sword falling on the neck of James, the fisherman who left his nets to follow Jesus, dead in a sentence. The next image, the same prison system: Peter, one night from an identical death, lying flat on the stone floor between two soldiers, wrists locked in two chains — and fast asleep. So deep is his sleep that the angel has to strike him to wake him.",
+      "meaning": "Then: two men of the same inner circle, one killed and one delivered, and the church prayed for both. Peter's sleep is the visible shape of surrender. He is not sleeping because he is safe; he is safe because he has stopped clutching his own life. The martyr's cup and the miracle both belong to the same faithful God — and a man who has truly given his life away can sleep the night before his execution."
+    },
+    {
+      "title": "Light in the Dungeon, Chains on the Floor",
+      "verseRef": "v. 7",
+      "image": "Blackness, cold stone, the smell of iron and sweat — then, without warning, a light 'shone in the cell,' as if someone lit the sun underground. An angel stands over the sleeping prisoner, strikes his side, and hisses, 'Stand up quickly!' As Peter rises, the heavy iron shackles slide off his wrists and clatter to the ground on their own. No key. No file. No struggle.",
+      "meaning": "Then: this is heaven's contempt for human hardware. The chains Rome trusted to hold an apostle fall like cheap thread the instant God says move. It reveals that the strongest thing in that prison was never the iron or the sixteen soldiers — it was the sleeping man's God. What holds you tonight is only as strong as heaven permits, and no stronger."
+    },
+    {
+      "title": "The Iron Gate That Opened by Itself",
+      "verseRef": "v. 10",
+      "image": "Peter and the angel walk past the first guard, then the second, and no one stirs. They reach the great iron city gate — the last barrier between the prison district and freedom — and it swings open 'by itself,' unlatched by no hand, groaning wide as if an invisible servant were holding it. They step through into the night, walk down one street, and the angel is simply gone.",
+      "meaning": "Then: the Greek word is automatē — the gate opened automatically, of its own accord. It is the picture of every obstacle that looms immovable until God decides otherwise, and then swings wide as though it had been waiting all along. And notice: once the impossible gate is passed, the angel departs and Peter must walk the ordinary streets by faith. God parts the iron; He still lets you walk home on your own two feet."
+    },
+    {
+      "title": "The King in Silver, Eaten by Worms",
+      "verseRef": "v. 21-23",
+      "image": "Herod climbs the throne robed in dazzling silver that catches the morning sun and throws light like a living idol. He opens his mouth to speak, and the crowd, hungry and flattering, roars back: 'The voice of a god, and not of a man!' For one heartbeat he stands there drinking the worship of a nation. Then, in the very same instant, an angel strikes him. The silver robes are suddenly the wrapping on a body being devoured from the inside by worms.",
+      "meaning": "Then: this is the exact opposite of Peter's cell. There, heaven's messenger struck a humble prisoner into life; here, heaven's messenger strikes a proud king into rot. The sin was not merely pride — it was theft. He 'didn't give God the glory,' he pocketed worship that belongs to God alone, and the God who shares His glory with no one collected the debt on the spot. The most dangerous throne in the world is the one where a man lets himself be called god."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Herod's Sword (v. 1-4)",
+        "body": "The king lays violent hands on the church, kills James, and seizes Peter to please the crowd during Passover."
+      },
+      {
+        "label": "The Church's Weapon (v. 5)",
+        "body": "Against Herod's prison the church raises one thing — constant, stretched-out prayer to God."
+      },
+      {
+        "label": "The Midnight Jailbreak (v. 6-11)",
+        "body": "An angel wakes the sleeping Peter, the chains fall, guards and iron gate give way, and Peter walks free."
+      },
+      {
+        "label": "Joy Too Big to Open the Door (v. 12-17)",
+        "body": "Peter reaches the praying house; Rhoda, overjoyed, leaves him at the gate, and the church can hardly believe its own answered prayer."
+      },
+      {
+        "label": "The Guards and Herod's Retreat (v. 18-19)",
+        "body": "The empty cell throws the barracks into chaos; Herod executes the guards and withdraws to Caesarea."
+      },
+      {
+        "label": "The Worm-Eaten God (v. 20-23)",
+        "body": "Herod accepts the crowd's cry that he is a god, and is struck and consumed by worms for stealing God's glory."
+      },
+      {
+        "label": "The Verdict (v. 24-25)",
+        "body": "Over sword and worms alike, Luke declares: the word of God grew and multiplied, and the mission moved on."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Why James and Not Peter?",
+        "paragraphs": [
+          "This is the honest, aching question at the center of Acts 12, and Luke refuses to smooth it over. James is beheaded in verse 2 in one flat sentence. Peter is rescued in verses 6 through 11 with a full-orchestra miracle — light, angel, falling chains, self-opening gates. Same king. Same sword waiting. Same praying church (they were surely praying just as hard for James). Why did heaven send the angel to one cell and not the other?",
+          "Do not let anyone hand you the cheap answer that James lacked faith or the church prayed harder for Peter. Scripture gives no such reason, and the God who let His own Son go to a cross does not love the martyr less than the survivor. The truth is harder and better: deliverance and death are both in the hands of the same sovereign Lord, and both James and Peter belonged wholly to Him. James was not abandoned; he was promoted — the first of the Twelve to drink the cup and see the face of Christ. Peter was not more loved; he was left on assignment, because the ascended Christ still had Pentecosts and Corneliuses and epistles to write through him.",
+          "The experiential nerve is this: you will not always get the angel. Sometimes God empties the prison; sometimes He receives the prisoner. Faith is not the confidence that you will be the Peter of the story. Faith is trusting the same God whether the chains fall off or the sword falls down — because in both cases He has you, and in both cases the Word keeps growing (v. 24)."
+        ]
+      },
+      {
+        "heading": "The King Who Played God",
+        "paragraphs": [
+          "Herod Agrippa I was the grandson of Herod the Great (who slaughtered Bethlehem's infants) and nephew of Herod Antipas (who beheaded John the Baptist and mocked Jesus). Persecuting God's people ran in the family bloodline. Agrippa was a shrewd political operator who won Jewish favor by observing the Law publicly and by attacking the church — and killing James paid off so well with the crowd that he reached for Peter next.",
+          "The historian Josephus independently records this same death (Antiquities 19.8.2): at a festival in Caesarea, Agrippa appeared in a garment woven of silver that blazed in the sunrise, the flatterers hailed him as a god, and immediately he was seized with violent pains in his belly and died five days later. Luke and a secular Jewish historian describe the same event — the God of the Bible acts inside real, datable history, not in a religious fog.",
+          "The precise charge is the spine of the whole chapter: 'because he didn't give God the glory' (v. 23). Herod's crime was not merely arrogance; it was robbery. He accepted worship that belongs to God alone. Set the two scenes side by side: a humble prisoner who credits everything to the Lord ('the Lord has sent out his angel,' v. 11) walks free, while a proud king who lets himself be called a god is eaten alive. The God who declares 'I will not give my glory to another' (Isaiah 42:8) is not a slogan; He is a fact with worms."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The death of James in Acts 12:2 is the precise fulfillment of a promise Jesus made to James himself. In Mark 10:35-40, James and John came asking to sit at Jesus' right and left hand in His glory. Jesus answered, 'You don't know what you are asking. Are you able to drink the cup that I drink, and to be baptized with the baptism that I am baptized with?' They said, 'We are able.' And Jesus said to them, 'You will indeed drink the cup that I drink, and you will be baptized with the baptism that I am baptized with.'",
+        "Acts 12:2 is that word coming true. James — who once bargained for a throne — becomes the first of the Twelve to drink the cup of martyrdom, the very first apostle to be killed for the name. The road to sitting with Christ ran straight through Herod's sword, exactly as Jesus said. What looks in Luke's single blunt sentence like a defeat is in fact a promise kept: the ambitious disciple got his cup, and then he got his Lord. Every believer who has ever wondered whether Christ forgets His hard promises can look at James and know that He remembers all of them, the costly ones included."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Assembly / Church",
+      "hebrew": "ἐκκλησία",
+      "translit": "ekklēsía",
+      "strongs": "G1577",
+      "verses": "v. 1, 5",
+      "insight": "Literally 'the called-out ones,' from ek (out) and kaleo (to call) — a people summoned out of the world into a new assembly around the risen Christ. This is the first time in Acts that an earthly king openly declares war on the ekklesia, and Luke frames the whole chapter around it: Herod stretches his hand against the assembly (v. 1), and the assembly lifts its hands to God (v. 5). One of them ends the chapter eaten by worms; the other ends it growing and multiplying. The called-out community outlasts the crown every time."
+    },
+    {
+      "english": "Struck",
+      "hebrew": "πατάσσω",
+      "translit": "patássō",
+      "strongs": "G3960",
+      "verses": "v. 7, 23",
+      "insight": "To knock, smite, or strike — a blow that can be 'gentle, with a weapon, or fatal.' This single verb is the theological spine of Acts 12, because Luke uses it twice. In verse 7 the angel 'struck' Peter on the side to raise him into life and freedom; in verse 23 the angel 'struck' Herod into death and worms. One heaven, one kind of messenger, two opposite blows. The same divine hand that wakes the humble servant into deliverance lays the proud king in the dust. Whether God's strike is a mercy or a judgment depends entirely on whether you give Him the glory or steal it."
+    },
+    {
+      "english": "Constant / Stretched-Out (Prayer)",
+      "hebrew": "ἐκτενῶς",
+      "translit": "ektenōs",
+      "strongs": "G1619",
+      "verses": "v. 5",
+      "insight": "From ekteino, 'to stretch out' — the picture of a muscle at full extension or a runner straining every fiber toward the line. The church's proseuche (προσευχή, G4335, prayer) was no polite murmur; it was stretched-out, at full tension, without ceasing, all through the night. Hear Luke's deliberate irony: Herod 'stretched out' his hand to harm the church (v. 1); the church 'stretched out' its prayer to God (v. 5) — and the reaching prayer of the powerless overpowered the reaching hand of the king. Prayer at full stretch is the church's only weapon, and it is enough."
+    },
+    {
+      "english": "Delivered / Rescued",
+      "hebrew": "ἐξαιρέω",
+      "translit": "exairéō",
+      "strongs": "G1807",
+      "verses": "v. 11",
+      "insight": "To tear out, pluck out, rescue by force. Peter does not say the Lord 'helped' him escape; he says the Lord 'delivered' him — reached in and tore him out of Herod's fist and out of the crowd's murderous expectation. It is the same word used for God plucking Israel out of Egypt (Acts 7:34) and the word Jesus used of plucking out an offending eye. God's rescue of His own is not tentative or partial; when He moves, He snatches you whole out of the jaws of the thing that meant to devour you."
+    },
+    {
+      "english": "The Word Grew and Multiplied",
+      "hebrew": "λόγος",
+      "translit": "lógos",
+      "strongs": "G3056",
+      "verses": "v. 24",
+      "insight": "Logos is the living, spoken Word of God — and Luke's one-line verdict over the whole chapter stacks two verbs on it: auxano (αὐξάνω, G837), organic growth, a seed 'waxing' into a tree, and plethyno (πληθύνω, G4129), numerical multiplication, sheer increase in number. The Word grows in depth and multiplies in reach at the same time. Herod could behead an apostle and chain a fisherman, but he could not behead the Word or chain the logos. The sword falls, the king rots in his robes, and the Word of God just keeps growing and multiplying. That is the sentence that outlives every empire."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the space between the sword and the deliverance — the place where you pray hard and the answer is not the one you asked for, and where the temptation is either to despair like a Christian without an angel or to strut like a king with stolen glory.",
+    "items": [
+      {
+        "title": "Can You Sleep in the Prison?",
+        "body": "Peter slept the night before his execution, chained between two soldiers, so soundly that an angel had to strike him awake. That is not denial; that is surrender. He had handed the verdict to God and could rest. Now look at your own prison — the diagnosis, the debt, the door that will not open, the deadline you cannot beat. Are you pacing the cell all night rehearsing the worst, or have you handed the outcome to the Lord and lain down? The peace of Acts 12:6 is not the absence of chains; it is the presence of trust. Where in your life is God inviting you to stop clutching your own life and simply go to sleep in His hands?"
+      },
+      {
+        "title": "Do You Pray and Then Act Shocked When He Answers?",
+        "body": "This is the most convicting mirror in the chapter. The church prayed all night for Peter — and when Peter showed up at the door, they called Rhoda crazy and decided it must be his ghost. They had faith enough to pray but not quite enough to expect. Be honest: do you ask God for the very thing you are secretly certain He will not do? Do you pray for the marriage, the healing, the prodigal, and then leave the answer standing out at the gate because your unbelief will not open the door? The Spirit is asking you to move from praying to expecting — to pray tonight as though the knock at the gate is already on its way."
+      },
+      {
+        "title": "Whose Glory Are You Wearing?",
+        "body": "Herod put on silver robes, took the applause of a crowd that called him a god, and was eaten by worms 'because he didn't give God the glory.' The terrifying thing is how quietly this sin operates. You do not have to sit on a throne to pocket God's glory; you only have to take the credit — for the promotion, the platform, the gift, the answered prayer — and forget to say out loud that it was the Lord. Peter walked free because he gave God the glory ('the Lord has sent out his angel'); Herod rotted because he kept it. Where are you quietly keeping applause that belongs to God? What would it cost you this week to hand it back before the worms come for it?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Sleeping-in-Chains Test",
+        "body": "Is there a situation right now that is stealing your sleep — a chain you keep gripping in the dark? Have you actually surrendered the outcome to God, or are you still trying to be your own deliverer? Peter's rest was the proof of his trust. Ask yourself whether your anxiety is telling on your theology."
+      },
+      {
+        "title": "The Rhoda Check",
+        "body": "Where have you left Jesus standing at the gate because your unbelief — or even your shock — would not open the door? Name the specific prayer you keep praying while quietly expecting nothing. Are you asking God for something you have already decided He will not do?"
+      },
+      {
+        "title": "The Stolen-Glory Audit",
+        "body": "Look at your most recent 'win' — the compliment, the success, the answered prayer. In the honest privacy of your own heart, who got the credit? Did you say, out loud and to someone, that it was the Lord, or did you wear the silver robe for a while and enjoy the applause?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Making 'Constant Prayer'",
+        "body": "Pick one 'impossible prison' this week — a persecuted believer, a bound family member, a locked situation of your own — and pray for it with the stretched-out prayer of Acts 12:5. Set an alarm for the same time each day for seven days and pray specifically for that one chain to fall, expecting the knock at the gate. Write down the date you began, and watch for the answer you will be tempted not to believe."
+      },
+      {
+        "title": "Handing Back the Glory",
+        "body": "Before this day ends, take one thing you have recently been praised for or proud of, and verbally give God the glory for it. Say it out loud to another person: 'I did not do this by my own hand — the Lord did it.' Do it deliberately, the way Peter named his Deliverer, so that the reflex of your heart is trained to hand the applause back before it ever settles on your own head."
+      }
+    ]
+  },
+  "prayerReflection": "\"Lord, You are the God who empties prisons and unseats kings, and I bow before You tonight. I have my own chains — the fears I grip in the dark, the doors that will not open, the prayers I keep praying while quietly expecting nothing. Teach me the rest of Peter, to lie down between my two soldiers and sleep because I have handed the whole verdict to You. Make my prayer a stretched-out, constant prayer, and give me the faith to expect the knock at the gate. Forgive me for the times I have worn the silver robe and pocketed the applause that belongs to You; I give You back the glory now, for every good thing in my life came from Your hand and not my own. Whether You send the angel or receive me like James, I am wholly Yours — deliver me if it is Your will, but glorify Yourself either way. And let it be true over my life as it was over that whole bloody chapter: that the word of God grew and multiplied. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "The First Jailbreak",
+      "ref": "Acts 5:17-25",
+      "relatedVerses": "v. 6-11",
+      "summary": "This is not the first time an angel unlocks a prison for the apostles. Earlier, the high priest had thrown all the apostles into the public jail, and during the night 'an angel of the Lord opened the prison doors, and brought them out.' By morning the officers found the jail 'shut with all security, and the guards standing before the doors,' but the cell was empty — the same baffling detail as Acts 12:18. Luke deliberately echoes the earlier scene so David sees a pattern, not a fluke: the ascended Christ has a habit of walking His witnesses out through locked doors so the mission cannot be stopped."
+    },
+    {
+      "title": "A Personal Passover",
+      "ref": "Exodus 12:11-13",
+      "relatedVerses": "v. 3, 8",
+      "summary": "Peter's rescue happens during 'the days of unleavened bread,' the Passover feast — and the angel's odd instructions are the clue. In Exodus 12:11, God commanded Israel to eat the Passover 'with your belt on your waist, and your shoes on your feet... in haste,' dressed and ready to march out of Egypt the moment the door opened. The angel tells Peter the same thing: 'Get dressed and put on your sandals... put on your cloak, and follow me.' On the very night that remembers Israel's exodus, God stages a private exodus for one apostle, leading him past the guards and out through a gate that opens by itself. The God of the first Passover is still setting prisoners free."
+    },
+    {
+      "title": "Two Proud Kings",
+      "ref": "Daniel 4:28-37",
+      "relatedVerses": "v. 21-23",
+      "summary": "Herod is not the first king to be struck down for stealing God's glory. Nebuchadnezzar stood on his palace roof and boasted, 'Is this not great Babylon, which I have built... for the glory of my majesty?' and while the words were still in his mouth heaven humbled him, driving him out to eat grass like an ox until he acknowledged that 'the Most High rules.' Two proud kings, two identical sins — but two different endings. Nebuchadnezzar looked up, gave God the glory, and was restored; Herod drank the crowd's worship, refused to give God the glory, and was eaten by worms. The lesson stands over every throne and every heart: the God who resists the proud will humble you one way or the other, and only one of those ways lets you live."
+    }
+  ]
+}

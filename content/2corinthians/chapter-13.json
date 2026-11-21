@@ -1,0 +1,562 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Corinthians",
+  "chapter": 13,
+  "chapterTitle": "Examine Yourselves — Crucified Through Weakness, and a Blessing Laid on the People Who Hurt Him",
+  "themeTitle": "“They Demanded Proof That Christ Speaks in Him — So He Handed Them a Mirror”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”",
+      "understanding": "Not the third plan — the third visit. Verse 2 says “as when I was present the second time,” so a second visit has already happened: the eighteen founding months of Acts 18, then the “painful visit” behind 2:1, and now this. And before he says one word about discipline he quotes Deuteronomy 19:15 — the Torah’s law of evidence, the rule that no man is convicted on a single voice. Read what that costs him. The apostle whose word could have landed like a verdict announces in advance that when he arrives he will hear witnesses like any elder sitting in any village gate. The man they have been charging without evidence will bring evidence.",
+      "words": [
+        {
+          "strongs": "G5154",
+          "hebrew": "τρίτος",
+          "translit": "trítos",
+          "english": "third"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witnesses"
+        },
+        {
+          "strongs": "G4487",
+          "hebrew": "ῥῆμα",
+          "translit": "rhēma",
+          "english": "word"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "be established"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, I write to those who have sinned before now, and to all the rest, that, if I come again, I will not spare;",
+      "understanding": "The warning is issued twice — once with his own mouth on the painful visit, once now in ink — so that nobody can claim to be ambushed. “I will not spare” is pheidomai, the verb of a hand held back from a blow; it is the same word he used in 1:23, where he told them he stayed away from Corinth precisely to spare them. Mercy has already delayed this once. And notice who is addressed: those who have sinned before now, and “all the rest” — the spectators, the ones who did nothing while it happened. Paul will not allow a single person in that room to be an audience.",
+      "words": [
+        {
+          "strongs": "G5339",
+          "hebrew": "φείδομαι",
+          "translit": "pheídomai",
+          "english": "spare"
+        },
+        {
+          "strongs": "G3062",
+          "hebrew": "λοιποί",
+          "translit": "loipoí",
+          "english": "all the rest"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "seeing that you seek a proof of Christ who speaks in me; who toward you is not weak, but is powerful in you.",
+      "understanding": "Here at last is the demand underneath everything: they are seeking a dokimē — a proof, the assayer’s certificate that a thing has been tested and is genuine. They want a demonstration. They want the man whose “bodily presence is weak, and his speech is despised” (10:10) to produce some fire. Paul answers on their own terms and then turns the terms upside down: the Christ who speaks in him is not weak toward you, He is powerful (dynateō, to be effective, to actually work) in you. And the proof is already standing in front of them — it is them. But they have asked a crucified Lord to prove He is not weak, and the next verse is going to run their question straight through Golgotha.",
+      "words": [
+        {
+          "strongs": "G1382",
+          "hebrew": "δοκιμή",
+          "translit": "dokimḗ",
+          "english": "proof"
+        },
+        {
+          "strongs": "G1414",
+          "hebrew": "δυνατέω",
+          "translit": "dynatéō",
+          "english": "is powerful"
+        },
+        {
+          "strongs": "G770",
+          "hebrew": "ἀσθενέω",
+          "translit": "asthenéō",
+          "english": "is not weak"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.",
+      "understanding": "This is the theological floor of the whole letter, and Paul lays it in the last chapter. Christ was crucified ex astheneias — out of weakness, from a position of zero leverage: no army, no argument that landed, no rescue, no defence that anyone accepted. And He lives by the power of God. Then Paul lays his own life over that shape like tracing paper: we also are weak in Him, and we will live with Him by the same power. The pattern in Christ is the pattern in the apostle, and it is the pattern in you. Weakness is not the interruption of the power. It is the doorway of it. And do not miss the last two words — “toward you.” Resurrection power is going to be pointed somewhere when he arrives.",
+      "words": [
+        {
+          "strongs": "G4717",
+          "hebrew": "σταυρόω",
+          "translit": "stauróō",
+          "english": "was crucified"
+        },
+        {
+          "strongs": "G769",
+          "hebrew": "ἀσθένεια",
+          "translit": "asthéneia",
+          "english": "weakness"
+        },
+        {
+          "strongs": "G770",
+          "hebrew": "ἀσθενέω",
+          "translit": "asthenéō",
+          "english": "we are weak"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Examine your own selves, whether you are in the faith. Test your own selves. Or don’t you know as to your own selves, that Jesus Christ is in you?—unless indeed you are disqualified.",
+      "understanding": "Three times in one sentence the Greek hammers the word “yourselves,” and twice it throws it to the very front of the clause, which is where Greek puts the weight: yourselves examine, yourselves test — and then, do you not recognise, as to your own selves… For three chapters they have been running an audit on their pastor. In one line he takes the instrument out of their hands and turns it around. Two different verbs: peirazō, to probe, to put something to the question — and then dokimazō, the assayer’s word for putting metal into the fire, and the purpose of assaying is never to destroy the metal but to certify it. And notice the test itself. Not “do you feel worthy,” not “have you had a good week” — one question: is Jesus Christ in you? Then the barb, and it is aimed at their argument, not at their assurance: unless of course you are adokimos, the metal that came out of the fire and failed.",
+      "words": [
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "examine"
+        },
+        {
+          "strongs": "G1381",
+          "hebrew": "δοκιμάζω",
+          "translit": "dokimázō",
+          "english": "test"
+        },
+        {
+          "strongs": "G96",
+          "hebrew": "ἀδόκιμος",
+          "translit": "adókimos",
+          "english": "disqualified"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But I hope that you will know that we aren’t disqualified.",
+      "understanding": "The hinge of the whole defence, and he never actually mounts one. Their genuineness and his are welded together: they are his letter, “written in our hearts, known and read by all men” (3:2), the seal of his apostleship in the Lord (1 Corinthians 9:2). If Christ really is in them, then Christ really did speak through the unimpressive man who preached to them — and the case against him collapses without a further word from his mouth. He does not defend himself. He points at them and says: look at what you are, and then tell me who is disqualified.",
+      "words": [
+        {
+          "strongs": "G96",
+          "hebrew": "ἀδόκιμος",
+          "translit": "adókimos",
+          "english": "disqualified"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Now I pray to God that you do no evil; not that we may appear approved, but that you may do that which is honorable, though we are as reprobate.",
+      "understanding": "Read this slowly, because it may be the most self-emptying sentence Paul ever wrote. He has just staked his vindication on their condition — and now he prays that they will do no evil, which is precisely the thing that would remove his opportunity to prove anything. He would rather be permanently misread as adokimos than be proven right by their failure. Every counterfeit apostle in Corinth was working the machinery the other way round: manufacture a crisis, solve it, take the credit. Paul prays himself out of his own defence. That is what a shepherd is.",
+      "words": [
+        {
+          "strongs": "G2172",
+          "hebrew": "εὔχομαι",
+          "translit": "eúchomai",
+          "english": "pray"
+        },
+        {
+          "strongs": "G1384",
+          "hebrew": "δόκιμος",
+          "translit": "dókimos",
+          "english": "approved"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "honorable"
+        },
+        {
+          "strongs": "G96",
+          "hebrew": "ἀδόκιμος",
+          "translit": "adókimos",
+          "english": "reprobate"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "For we can do nothing against the truth, but for the truth.",
+      "understanding": "Eleven words in the Greek, and they could be carved over the door of any ministry that intends to survive. Apostolic authority is not raw force; it is truth-shaped, and it simply will not run in the other direction. If the Corinthians are walking in the truth, Paul has no power against them — and, more startling, he does not want any. Now say it about yourself: whatever authority you carry over a home, a class, a team, a pulpit, the moment you aim it against the truth in order to protect yourself, it stops being authority and becomes noise.",
+      "words": [
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "For we rejoice when we are weak and you are strong. And this we also pray for, even your perfecting.",
+      "understanding": "The sentence that would get a leader dismissed in most organisations on earth. He is glad to be the weak one if it means they are the strong one — the same arithmetic as 12:10, only now spent on somebody else. And then he names what he is actually praying for: katartisis, from the verb used for setting a dislocated bone back into its socket, mending torn nets, and refitting a ship so it can go back to sea. He is not praying that they will finally be impressed with him. He is praying that what is out of joint in them will be put back — even if the price is that he never once looks strong to them again.",
+      "words": [
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoice"
+        },
+        {
+          "strongs": "G770",
+          "hebrew": "ἀσθενέω",
+          "translit": "asthenéō",
+          "english": "we are weak"
+        },
+        {
+          "strongs": "G2676",
+          "hebrew": "κατάρτισις",
+          "translit": "katártisis",
+          "english": "perfecting"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up, and not for tearing down.",
+      "understanding": "Here, in one verse, is why the letter exists at all. Every hard sentence in these last four chapters is written in advance so that he will not have to say it to their faces. Apotomōs is a surgeon’s adverb — abruptly, by cutting, straight through. And then he defines the authority itself by its purpose: exousia given for oikodomē, building up, and not for kathairesis, demolition — the identical pair he used in 10:8. The authority is real, and it can demolish; he tore down strongholds in 10:4. But demolition is never the point. A wrecking ball in a builder’s hands is still a builder’s tool.",
+      "words": [
+        {
+          "strongs": "G664",
+          "hebrew": "ἀποτόμως",
+          "translit": "apotómōs",
+          "english": "deal sharply"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        },
+        {
+          "strongs": "G3619",
+          "hebrew": "οἰκοδομή",
+          "translit": "oikodomḗ",
+          "english": "building up"
+        },
+        {
+          "strongs": "G2506",
+          "hebrew": "καθαίρεσις",
+          "translit": "kathaíresis",
+          "english": "tearing down"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Finally, brothers, rejoice. Be perfected, be comforted, be of the same mind, live in peace, and the God of love and peace will be with you.",
+      "understanding": "Five imperatives fired in a row at the church that broke his heart — and he calls them brothers before he fires the first one. Rejoice. Be put back together (katartizesthe, the verb behind verse 9’s noun, and it is passive: let yourselves be mended). Be comforted — parakaleisthe, the word that flooded the opening of this letter ten times in five verses (1:3-7), coming back at the very end as a command. Be of the same mind. Live in peace. And then a title that appears nowhere else in the Bible: “the God of love and peace.” Watch the order carefully — you are not told to manufacture the peace and then receive God. You are told to move, and the God of love and peace comes with you.",
+      "words": [
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoice"
+        },
+        {
+          "strongs": "G2675",
+          "hebrew": "καταρτίζω",
+          "translit": "katartízō",
+          "english": "be perfected"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "be comforted"
+        },
+        {
+          "strongs": "G5426",
+          "hebrew": "φρονέω",
+          "translit": "phronéō",
+          "english": "be of the same mind"
+        },
+        {
+          "strongs": "G1514",
+          "hebrew": "εἰρηνεύω",
+          "translit": "eirēneúō",
+          "english": "live in peace"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Greet one another with a holy kiss.",
+      "understanding": "The most physically demanding command in the chapter. This is a congregation that had split into factions (1 Corinthians 1:12), dragged one another into court (1 Corinthians 6:1-8), humiliated the poor at the Lord’s Table (1 Corinthians 11:21-22), and then sat still while their founder was mocked to his face. And the instruction is: touch each other. Not “think warmly of” — greet, in the flesh, the ordinary kiss of that culture made holy by whose family you have been placed in. Reconciliation that never reaches the body has not happened yet.",
+      "words": [
+        {
+          "strongs": "G5370",
+          "hebrew": "φίλημα",
+          "translit": "phílēma",
+          "english": "kiss"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "All the saints greet you.",
+      "understanding": "Paul is dictating from Macedonia, and the Macedonian churches are standing behind him as he does it — Philippi, Thessalonica, Berea, the ones whose “deep poverty abounded to the riches of their generosity” (8:2). Those saints send greetings to the church that had been slow with the collection and hard on the apostle. Nobody in Corinth is being dealt with in isolation; the wider body is still in the room and still on their side. (One honest note on the numbering: the World English Bible counts fourteen verses here, while most modern Greek editions join this line to the previous one — which is why some Bibles end the chapter at verse 13. Not a syllable of text is lost either way.)",
+      "words": [
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit, be with you all. Amen.",
+      "understanding": "The fullest trinitarian blessing anywhere in the Bible — and look where it is placed. Not at the end of Ephesians, where everybody is happy. At the end of the most painful letter Paul ever wrote, over the church that had wounded him most. Grace comes first, because grace is the door: unearned favour from the Lord Jesus Christ. Then the love of God, the source everything flows out of. Then koinōnia — the shared life the Spirit creates, which is the precise thing this congregation had shattered. And the last two words before the Amen refuse to leave anyone outside: you ALL. Including the men who said his presence was weak and his speech was despised.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G2842",
+          "hebrew": "κοινωνία",
+          "translit": "koinōnía",
+          "english": "fellowship"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Gate Where the Witnesses Stand",
+      "verseRef": "v. 1",
+      "image": "Picture the gate of an Israelite town in the cool of the morning. The elders are seated on stone benches worn smooth by generations. A man stands accused, and the whole procedure grinds to a halt over one rule: how many mouths have spoken? One voice is not enough. One voice has never been enough. Two, or three — or the man walks free. Now put Paul in that frame. He is an apostle. He has raised the dead, been caught up into the third heaven, and written half the letters that will become your New Testament. He is entirely within his rights to arrive in Corinth and simply pronounce. Instead, the first thing he does in his final chapter is quote Deuteronomy 19:15 and tie his own hands in public.",
+      "meaning": "Paul is announcing due process before he arrives — and the placement of that quotation, right beside “the third time I am coming,” is not an accident of the ear. He is telling a church that has been trying him on rumour and letters of recommendation that when the real trial comes, it will follow the rules God wrote. That is the difference between spiritual authority and spiritual bullying. False apostles deal in atmosphere, insinuation, and unaccountable anointing; a true one submits his power to evidence he can be held to. If you carry any authority at all — over a marriage, a staff, a small group, a child — this verse asks you a hard question: are your verdicts reached by procedure, or by mood?"
+    },
+    {
+      "title": "Crucified Out of Weakness",
+      "verseRef": "v. 3-4",
+      "image": "They wanted a demonstration. So walk with Paul to the only demonstration God ever staged. A hill outside a city wall. A man too exhausted to carry his own crossbeam. No legion at His back, no argument that landed with the court, no angel dispatched, no rescue. The mockery from the ground is essentially the Corinthian complaint set to music: He saved others; He cannot save Himself. If He is who He says, let Him come down. He does not come down. He dies from a position of absolute powerlessness — and three days later the stone is moved from the outside by a power that has nothing to do with leverage.",
+      "meaning": "Verse 4 is the answer to the demand of verse 3, and it is the answer nobody wanted: Christ was crucified out of weakness, and He lives by the power of God. That is not a one-off event in history; it is the shape God works in. Which means the weakness you have been treating as the disqualifying detail of your story is the exact place the power is designed to enter. Paul says it flatly — “we also are weak in him, but we will live with him through the power of God.” You are not waiting to become strong enough to be used. You are being asked to stop despising the doorway."
+    },
+    {
+      "title": "The Mirror Handed Back",
+      "verseRef": "v. 5",
+      "image": "Three chapters of examination. Clipboards out, credentials compared, speech assessed, presence weighed, letters of recommendation from the impressive men laid alongside the unimpressive one. And then Paul reaches across the table, takes the instrument out of their hands, and turns it around so it faces them. Yourselves examine. Yourselves test. Do you not know, as to your own selves, that Jesus Christ is in you? The room that has been so busy grading him has one question it has never once asked out loud.",
+      "meaning": "Dokimazō is the assayer’s trade word — heat the metal, watch what rises, certify what remains. The fire is not there to destroy the silver; it is there to prove it. So do not read this verse as a trapdoor. Read it as the most loving instruction in the letter: the one person on earth you can never interview, never cross-examine, and never get an honest reference about is you. And notice that Paul had already handed this same church this same verb once before, in 1 Corinthians 11:28 — “let a man examine himself” — over the bread and the cup. They learned to test themselves before a meal. He is now asking them to test themselves about the faith itself."
+    },
+    {
+      "title": "The Bone Set Back in Joint",
+      "verseRef": "v. 9, 11",
+      "image": "A shoulder out of its socket. The arm hangs at the wrong angle, useless, and every small movement is agony. Then the physician’s hands close over it — and there is one moment of pain so sharp it takes the breath away, and a sound, and then, astonishingly, the arm works. That is katartizō. It is also the word used of James and John sitting in the boat mending their torn nets, and of a ship being refitted so it is fit to face open water again.",
+      "meaning": "This is what Paul is praying for when he says “even your perfecting” (v. 9) and commands “be perfected” (v. 11). Not that they should become flawless — that they should be put back in joint and made usable. Restoration in Scripture is rarely comfortable and always functional. And note the cost he is willing to pay for it: “we rejoice when we are weak and you are strong.” He will accept looking like the failure permanently, if the arm works again. Ask whether you want your people mended, or want them to admire you. Those are two different prayers."
+    },
+    {
+      "title": "The Blessing Laid on the People Who Hurt Him",
+      "verseRef": "v. 11-14",
+      "image": "The scribe’s hand is cramping. The letter is nearly done — the most exposed, most bruised thing this man has ever dictated, thirteen chapters of a great apostle with his raw nerve showing. And now picture the room in Corinth when it is read aloud. The men who said his presence was weak and his speech was despised are sitting there. The ones who compared him unfavourably to the polished visitors are sitting there. The ones who watched somebody insult him to his face and said nothing are sitting there. And the last sentence he sends into that room is: the grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit, be with you all.",
+      "meaning": "Where a blessing lands tells you everything about the man who spoke it. The fullest trinitarian benediction in Scripture is not placed at the end of a triumph; it is placed at the end of a wound. And it is aimed at everyone in the room — “with you all” — with no clause excluding his critics. This is the practical end of “we can do nothing against the truth” (v. 8). A man who cannot use his authority against the truth also cannot use his blessing as a weapon. There is somebody whose name you find hard to say out loud. Verse 14 is the sentence you owe them."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Due Process Announced in Advance (v. 1-2)",
+        "body": "Paul quotes Deuteronomy 19:15 and warns for the second time — those who sinned and “all the rest” — that on this third visit he will not spare."
+      },
+      {
+        "label": "The Proof They Asked For, and the Cross That Answers It (v. 3-4)",
+        "body": "They demand evidence that Christ speaks in him; he answers with a crucified Lord who died out of weakness and lives by the power of God — and says the same shape is on him."
+      },
+      {
+        "label": "The Audit Turned Around (v. 5-6)",
+        "body": "Examine yourselves, test yourselves — because if Christ is genuinely in you, the apostle who brought Him to you is not disqualified either."
+      },
+      {
+        "label": "The Prayer That Costs Him His Vindication (v. 7-8)",
+        "body": "He prays they will do no evil even though that removes his chance to be proven right, because authority that works against the truth is not authority at all."
+      },
+      {
+        "label": "Weak So That You May Be Strong (v. 9-10)",
+        "body": "He rejoices in his own weakness, prays for their restoration, and explains that the letter is written in advance so his authority can build rather than demolish."
+      },
+      {
+        "label": "Five Imperatives and a Holy Kiss (v. 11-13)",
+        "body": "Rejoice, be mended, be comforted, be of one mind, live in peace — with the promise of the God of love and peace, a physical greeting, and the greeting of the wider church."
+      },
+      {
+        "label": "The Fullest Blessing in the Bible (v. 14)",
+        "body": "Grace, love and fellowship — Son, Father and Spirit — pronounced over the congregation that had wounded him most, with nobody left out."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Third Visit and the Law of Witnesses — Why Paul Ties His Own Hands",
+        "paragraphs": [
+          "Get the history straight, because it makes the chapter bleed. Paul founded this church and stayed eighteen months (Acts 18). He wrote them the letter we call 1 Corinthians. Things got worse, not better, so he made a second, catastrophic trip — the “painful visit” behind 2:1, “I would not come to you again in sorrow.” Then he wrote a letter we no longer have, “out of much affliction and anguish of heart… with many tears” (2:4), and waited in agony for news, so restless he could not take an open door for the gospel at Troas (2:12-13). Titus finally found him in Macedonia — “our flesh had no relief… Fightings were outside. Fear was inside” (7:5) — with the news that the church had repented. This chapter is the closing paragraph of that whole ordeal. When he says “this is the third time I am coming to you,” he is not counting travel plans. He is counting scars.",
+          "And the very first thing he does with that history is quote Deuteronomy 19:15. In the Torah the two-or-three-witness rule is not a technicality; it is a shield built for the accused, so that no man in Israel can be destroyed by a single hostile mouth. Paul lays that shield over the very people he is about to discipline. Think about what he is surrendering. He has apostolic authority; he has already exercised it from a distance in 1 Corinthians 5:3-5, judging a man while “absent in body but present in spirit.” He could arrive and simply pronounce. Instead, in advance and in writing, he binds himself to evidence. The false apostles ran on atmosphere and letters of recommendation; the real one runs on procedure God wrote down. That is the sound of authority that is safe to be under.",
+          "Then verse 2 shuts the exits: he has warned once with his mouth and now warns again with his pen, and the warning covers “those who have sinned before now, and to all the rest.” The unrepentant were named in 12:20-21 — strife, jealousy, outbursts of anger, factions, slander, whisperings, uncleanness and sexual immorality that had never been repented of. But “all the rest” are the bystanders, and Paul will not let them stand outside the frame. And listen to the verb: “I will not spare” — pheidomai, the same word he used in 1:23, where he told them, “I didn’t come to Corinth to spare you.” Mercy has already bought them one delay. The one who sends warning after warning before he moves is not weak. He is patient — and patience runs out on a schedule you do not set."
+        ]
+      },
+      {
+        "heading": "“Unless Indeed You Are Disqualified” — Handling the Verse That Has Frightened More Believers Than Any Other in This Letter",
+        "paragraphs": [
+          "First, feel the rhetorical shape, because it decides the meaning. For three solid chapters this church has been examining its pastor: his presence is weak, his speech is despised (10:10), he changed his travel plans so he cannot be trusted (1:17), he refuses payment, which in Corinth looked like an admission that he was not worth paying. In verse 3 they demand a dokimē, a certificate of proof. And in verse 5 Paul says, in effect: you want an examination? Good. Here is the instrument. Now hold it the other way round. The Greek sounds “yourselves” three separate times in a single verse, and twice it throws the word into the emphatic first position. This is not a general invitation to introspection dropped from heaven onto anxious believers; it is a specific, surgical turn of an audit that a specific church had been running on a specific man.",
+          "Second, count the root, because Paul is doing something deliberate. The dok- stem sounds six times in five verses: dokimē in verse 3 (proof), dokimazō in verse 5 (test), adokimos in verses 5, 6 and 7 (disqualified, disqualified, reprobate), and dokimos in verse 7 (approved). It is a hammer. And the direction of travel is the point — they wanted to certify him; he tells them the assay begins at home. Which is exactly why verse 6 can be so brief. He does not defend himself at all. He simply says: I hope you will find out that we are not disqualified — because if Christ is in you, then Christ spoke through me, and you are my certificate. “You are our letter, written in our hearts, known and read by all men” (3:2). Their reality is his résumé.",
+          "Third, be honest about the teeth in it, and then be honest about the comfort. The teeth are real: 12:20-21 says some of them had not repented, and the New Testament nowhere flatters a man who is at ease in unrepented sin. So the possibility of failing the test is not imaginary, and Paul does not pretend otherwise. But look at what the test actually measures — not your performance, not your feelings, not your last three weeks: “Jesus Christ is in you.” That is the identical test as Romans 8:9 — if any man does not have the Spirit of Christ, he is not His. And look at the verb: dokimazō is the assayer putting silver in the fire so it can be stamped genuine, not a judge looking for a reason to throw it away. A man who is terrified of failing this test is displaying the very thing the test is looking for; a man who has never once considered the question is the one Paul is writing to. If you are afraid of verse 5, the fear itself is evidence that Someone is in there. Test yourself honestly, and then stop re-opening the verdict every night.",
+          "One honest note in passing, since this chapter closes the section: the tone of chapters 10-13 is so much sharper than chapters 1-9 that a number of scholars argue they were originally a separate letter later joined to this one. It is a real question and it cannot be settled from the text alone; what can be said is that every surviving manuscript has them together, and the argument of the whole runs into this chapter without a seam — the weakness of chapter 12 becomes the crucifixion of 13:4, and the comfort of chapter 1 becomes the command of 13:11."
+        ]
+      },
+      {
+        "heading": "Nothing Against the Truth: Authority That Can Only Build",
+        "paragraphs": [
+          "Verse 8 is eleven words in the Greek and it governs the entire ministry: “For we can do nothing against the truth, but for the truth.” Paul is not making a modest little aside. He is telling them what kind of power he holds. It is not raw force that can be pointed anywhere the holder chooses; it is truth-shaped power, and it physically will not operate in the other direction. If the Corinthians are in fact walking in the truth, then Paul has no authority against them — and verse 7 shows he does not want any, because he has just prayed for the outcome that leaves him looking unproven. Weigh that against the men he calls, with heavy irony, “the very best apostles” (11:5; 12:11), whose entire operation depended on being proven superior. The counterfeit needs your failure. The real thing prays you out of it.",
+          "Verse 10 then names the purpose clause on the authority itself, and Paul chooses his words from a builder’s yard: the Lord gave it “for building up, and not for tearing down” — oikodomē, not kathairesis. He said it once already in 10:8, and it is worth seeing that in 10:4-5 that same demolition language is exactly what his weapons do — to strongholds, and to “every high thing that is exalted against the knowledge of God.” So he can demolish; he has demolished. The question is what the demolition is for. A wrecking ball in a builder’s hands is still a builder’s tool. And apotomōs — “deal sharply” — is a cutting word, a surgeon’s adverb; he writes the whole hard letter in advance precisely so he does not have to cut when he arrives. That is the difference between a man who is angry and a man who is responsible. Anger discharges. Responsibility writes ahead, warns twice, and leaves room to repent.",
+          "Then verse 9 exposes the engine underneath all of it: “we rejoice when we are weak and you are strong.” This is the arithmetic of 12:10 spent on somebody else’s account. He is willing to be permanently underestimated if the trade buys their katartisis — their being set back in joint. And that is the last thing the letter has been arguing all along. Chapter 4 put the treasure in clay jars so that the exceeding greatness of the power would be God’s and not ours. Chapter 12 said the power is made perfect in weakness. Chapter 13 says the Lord Himself was crucified out of weakness. Once you see that the pattern runs from the cross, through the apostle, and out to you, the whole argument with the super-apostles becomes what it always was: not a debate about who is more impressive, but a question about which shape God actually uses."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Follow the sentence Paul quotes in verse 1 and watch it run right through the New Testament. “At the mouth of two or three witnesses shall every word be established” comes from Deuteronomy 19:15 (with its parallel in Deuteronomy 17:6), and it is Jesus Himself who carries it into the church: in Matthew 18:16 He tells His disciples that when a brother will not hear you privately, you take one or two more with you, so that at the mouth of two or three witnesses every word may be established — the same rule, same wording, now governing church discipline. In John 8:17-18 He turns it on His own ministry, pointing out that the Law requires the testimony of two men, and naming His two: Himself and the Father who sent Him. And Paul writes the identical rule into pastoral law for Timothy in 1 Timothy 5:19 — never receive an accusation against an elder except from two or three witnesses. So when a bruised apostle stakes his final chapter on that verse, he is standing exactly where his Lord stood, and where every honest church court since has had to stand.",
+        "Then trace verse 4 back one letter. To this same city Paul had already written, “we preach Christ crucified; a stumbling block to Jews, and foolishness to Greeks… Because the foolishness of God is wiser than men, and the weakness of God is stronger than men” (1 Corinthians 1:23, 25) — and he had written it precisely because “Jews ask for signs, Greeks seek after wisdom” (1:22). Now, years later, the same congregation is asking for a sign and preferring polished speech, and Paul answers with the same cross: “he was crucified through weakness, yet he lives through the power of God.” Set that beside the sentence at the centre of this whole letter — “My grace is sufficient for you, for my power is made perfect in weakness” (12:9) — and 13:4 turns out to be the reason 12:9 is true. Grace works through weakness because that is how God saved the world.",
+        "And the last verse of the letter reaches further than most readers notice. “The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit” names all three Persons in one breath — the same three named together in the baptismal command of Matthew 28:19, where disciples are baptised into the name of the Father and of the Son and of the Holy Spirit. On almost every reckoning 2 Corinthians was written around AD 56, before any of the four Gospels reached its final written form — so this blessing was on paper years before the Gospel that preserves the baptismal command was. Be exact about the claim, though, because the truth is better than the overstatement: Paul had already set the three side by side for this very church a year earlier — “the same Spirit… the same Lord… the same God” (1 Corinthians 12:4-6). This is not the first time the three Persons are named in one breath. It is the earliest place we have them named in one breath as a blessing. And it was not drafted in a lecture hall. It was dictated by a man with a stone-scarred back, at the end of thirteen chapters of grief, over a church that had questioned whether he was even a real apostle — which tells you that the doctrine of the Trinity was never cold. It came into the world as a blessing spoken over people who did not deserve it."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Test / prove by assaying",
+      "hebrew": "δοκιμάζω",
+      "translit": "dokimázō",
+      "strongs": "G1381",
+      "verses": "v. 5 (with the cognates dokimē v. 3, adokimos v. 5-7, dokimos v. 7)",
+      "insight": "Strong’s gives it plainly: “to test (literally or figuratively); by implication, to approve.” It is the metalworker’s word — silver into the crucible, heat applied, dross lifted off, and the surviving metal stamped genuine. The whole point of an assay is certification, not destruction; nobody heats silver hoping it will fail. That is the tone of verse 5, and it is why the command is not cruelty. Notice too that Paul had already handed this exact verb to this exact church once before: “But let a man examine himself, and so let him eat of the bread, and drink of the cup” (1 Corinthians 11:28). They had been trained to run the assay before a meal. Now he asks them to run it on the faith itself. And notice which verb he pairs it with — peirazō (G3985), to probe or put to the question. First probe, then certify. Self-examination in the New Testament is never an endless anxious loop; it is a test with a verdict at the end of it."
+    },
+    {
+      "english": "Disqualified / failed the assay",
+      "hebrew": "ἀδόκιμος",
+      "translit": "adókimos",
+      "strongs": "G96",
+      "verses": "v. 5, 6, 7",
+      "insight": "Built from the alpha-negative and dokimos (G1384, “approved”), and Strong’s renders it “unapproved, i.e. rejected; by implication, worthless.” Its native home is the assay-house and the mint: metal that went into the fire and came out failing the standard, and so is not stamped, not issued, not used. Hear what it is not. It is not “weak,” not “unimpressive,” not “scarred,” not “disappointing.” Paul is the most weakness-boasting man in the New Testament, and in this chapter he turns the word on himself only in irony — “though we are as reprobate” (v. 7), meaning: even if I never get to look approved, I would rather that than see you fail. It is the same word he used of himself in 1 Corinthians 9:27 — “lest by any means, after I have preached to others, I myself should be rejected” — and there, in a paragraph built out of races and prizes and crowns, the dread is not losing his salvation but being set on the shelf, taken out of the running after calling everybody else into it. So bring your real fear to it: the thing that makes a man adokimos is not his history of failure. It is the absence of Christ in him. And that is the only question verse 5 asks."
+    },
+    {
+      "english": "Restoration / being set back in joint",
+      "hebrew": "κατάρτισις",
+      "translit": "katártisis",
+      "strongs": "G2676",
+      "verses": "v. 9 (and the verb katartizō, G2675, in v. 11)",
+      "insight": "A word that appears exactly once in the New Testament, right here, and Strong’s defines it as “thorough equipment” — the state of being fully fitted for use. Its parent verb, katartizō, is the language of hands doing repair work: setting a dislocated limb back into its socket, mending torn fishing nets, refitting a ship for open sea. Which means the thing Paul prays for this church is not that they become flawless but that they become usable again. Read what he is willing to pay for it in the same verse: “we rejoice when we are weak and you are strong.” He will accept looking like the failure permanently if the arm works. And then in verse 11 the noun becomes a command in the passive — katartizesthe, “be perfected,” that is, let yourselves be put back in joint. You cannot set your own shoulder. Restoration is something you submit to, and it hurts on the way to working."
+    },
+    {
+      "english": "Building up",
+      "hebrew": "οἰκοδομή",
+      "translit": "oikodomḗ",
+      "strongs": "G3619",
+      "verses": "v. 10",
+      "insight": "Literally architecture — a structure, the act of building a house — from oikos, a house. Paul sets it against kathairesis (G2506), “demolition,” and says the Lord gave him authority for the first and not the second, repeating in Greek the identical pair he used in 10:8, which the World English Bible renders there as “for building you up, and not for casting you down”. It is worth holding the two words together, because in 10:4-5 that same demolition language is exactly what his weapons do — to strongholds, and to “every high thing that is exalted against the knowledge of God.” So the apostle demolishes — and every demolition is site clearance. Nothing in his authority is licensed to leave rubble behind. Lay that over your own mouth this week. Correction that leaves a person flattened and no more able to serve God than before was not apostolic; it was just accurate. The test of authority is not whether you were right. It is whether anything got built."
+    },
+    {
+      "english": "Fellowship / shared participation",
+      "hebrew": "κοινωνία",
+      "translit": "koinōnía",
+      "strongs": "G2842",
+      "verses": "v. 14",
+      "insight": "Strong’s: “partnership, i.e. (literally) participation, or (social) intercourse, or (pecuniary) benefaction.” It is not the modern word for coffee after a service. It is common ownership — sharing one life, one purse, one Person. Paul has already used it in this letter for money, where the Macedonians begged for “the fellowship in the service to the saints” (8:4) — koinōnia with a bank balance attached. Grammatically “the fellowship of the Holy Spirit” can mean fellowship with the Spirit or the fellowship the Spirit creates among believers, and Paul is unlikely to be choosing between them; but in a letter that ends by commanding one mind, peace, and a physical greeting, the accent falls on what the Spirit creates. Which makes the last line of 2 Corinthians a deliberate act. He pronounces shared life over a congregation that had shattered it — and he does not exclude the men who hurt him from the sharing."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with five things in this chapter: the audit you have been running on everybody except yourself, the word “disqualified” that you have already quietly applied to your own life, the proof you keep asking God for when He already gave one at Golgotha, the authority you use to win rather than to build, and the person you are still refusing to bless.",
+    "items": [
+      {
+        "title": "The Audit You Are Running on Everyone Except Yourself",
+        "body": "You are far better at examining other people than you think, and you do it constantly — the leader who let you down, the friend who changed, the church that mishandled you, the family member whose walk with God does not look convincing to you. The file you keep on them is detailed and, quite often, accurate. Paul lets a whole congregation run that file on him for three chapters, and then, in one sentence, he takes the instrument out of their hands and turns it around: “Examine your own selves, whether you are in the faith.” So put the file down and answer the only question you have never subjected to an audit. Not “is my doctrine right,” not “am I better than them,” but the question of verse 5: is Jesus Christ in me — not in my memory of a night at an altar years ago, but in me, today, moving, correcting, wanting things? When was the last time you asked that without immediately changing the subject to somebody else’s failures?"
+      },
+      {
+        "title": "The Word You Have Already Used About Yourself",
+        "body": "Adokimos. Disqualified. Say it honestly: you have already applied that word to yourself, in private, about a specific thing — the years you wasted, the addiction that came back, the marriage that did not survive, the calling you walked away from, the sin nobody in your church knows about. And every time you get near God with any hope, that word arrives first. So hear what the word actually means. It is assay-house language: metal that went into the fire and failed the standard. It is not the word for weak, unimpressive, scarred, or late. Paul is writing this in a letter where he boasts about being lowered out of a window in a basket, and where he says he begged God three times to take the thorn away and God left it in. His weakness never made him adokimos; it made him useful. There is exactly one thing verse 5 measures — whether Christ is in you. If He is, you are not disqualified, however loudly your history argues otherwise. Now name the thing you have been treating as your disqualification, and ask yourself plainly: has the presence of Christ in me actually stopped, or have I just been agreeing with my accuser?"
+      },
+      {
+        "title": "You Are Asking for a Proof God Already Gave",
+        "body": "The Corinthians wanted a dokimē — some visible demonstration that Christ was really speaking through this man. And you want one too. You want a sign that God is with you: the door to open, the diagnosis to reverse, the ministry to grow, the phone to ring, something that would settle it. Paul’s answer in verse 4 is not the answer anyone asks for: “he was crucified through weakness, yet he lives through the power of God.” God’s definitive demonstration of power looked, on the day, exactly like a man losing. If you insist that God prove Himself by making you impressive, you will spend your whole life unable to read His clearest signature. So look again at the thing you have been calling evidence that God is absent — the weakness, the small platform, the unimpressive speech, the body that will not cooperate. What if that is the shape He works in? What would change today if you stopped waiting to be strong enough to be used?"
+      },
+      {
+        "title": "Nothing Against the Truth — Not Even to Win",
+        "body": "“For we can do nothing against the truth, but for the truth.” Read that as a limit on your own mouth. In the last argument you had — with your spouse, a colleague, a sibling, someone online — did you say anything that was shaded, exaggerated, or technically true and deliberately misleading, because you wanted to win? That is authority aimed against the truth, and Paul says it does not work; it only ever produces noise. Then take it further into verse 10: the authority God gives is “for building up, and not for tearing down.” Think about the last ten sentences you spoke to the people under your care — your children, your staff, your students, the ones who look up to you. How many were demolition, and what exactly did you intend to put where the rubble is? Correction that leaves a person flattened and no more able to serve God is not spiritual authority. It is just accuracy with a body count."
+      },
+      {
+        "title": "Say the Blessing Over the Name You Cannot Say",
+        "body": "Now the hardest one. Paul ends the most painful letter of his life by pronouncing grace, love and fellowship over the exact people who wounded him — “with you all,” with no clause quietly excluding his critics. He does not wait until they apologise properly. He does not attach conditions. He blesses the room that hurt him. There is a name you find hard to say out loud, and when it comes up in conversation something in your chest changes temperature. You may have forgiven them in principle; you have almost certainly never blessed them by name. So ask it straight: is there anyone you are still refusing to want good things for? And what would it cost you — really cost you — to speak 13:14 over them tonight, out loud, using their name?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Turned Microscope",
+        "body": "Write down the name of the person or the church whose failures you have examined most thoroughly this year. Now write, underneath it, the amount of time you have spent examining that versus examining yourself. Verse 5 does not tell you to stop discerning — it tells you where the instrument points first. What is the one question about your own walk that you have been carefully avoiding by staying busy with somebody else’s?"
+      },
+      {
+        "title": "The Disqualification File",
+        "body": "Name the thing you privately believe has disqualified you — the specific failure, the season, the scar. Write it in one plain sentence with no soft vocabulary. Then answer the only question verse 5 actually asks: is Jesus Christ in me? Not “do I feel worthy,” not “would they still have me if they knew.” Is He in there — does He convict you, want things through you, refuse to let you settle? If He is, then adokimos is a word your accuser has been using, not a verdict God has passed."
+      },
+      {
+        "title": "The Building Site Check",
+        "body": "Go back over the last week of your speech to the people who are under you in any way — children, employees, students, a spouse, a younger believer. For each hard thing you said, answer two questions: was it true, and what did I intend to build in its place? Verse 10 says the Lord gives authority “for building up, and not for tearing down.” If you cannot name what you were building, you were not exercising authority. You were relieving pressure."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Running the Assay",
+        "body": "Set aside thirty minutes this week with a pen, alone, with the door shut. At the top of a page write the question of verse 5 exactly: “Is Jesus Christ in me?” Then answer it with evidence rather than feelings, under three headings: (1) Conviction — when did God last put His finger on something in me, and what did I do about it? (2) Appetite — what do I actually want when nobody is watching, and has that changed at all in five years? (3) Fruit — name one person who is closer to God because of the last twelve months of my life. Then finish by writing your honest verdict in one sentence and dating it. This is an assay, not a haunting: you run it, you read it, you act on it, and then you close the book. If the answer is yes, stop re-opening the case every night. If the answer is genuinely no, tell one mature believer this week — that is repentance, and it is the mercy of the chapter, not its threat."
+      },
+      {
+        "title": "Speaking the Benediction Over the Person Who Hurt You",
+        "body": "Write out 2 Corinthians 13:14 by hand on a card. Then write the name — the one that changes the temperature in your chest — in the space where “you all” stands. Tonight, out loud, alone, read it as a prayer over that person by name: “The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit, be with [name].” Do it whether or not you feel it; Paul was not feeling it either when he dictated it in Macedonia with his heart in pieces. Then do it every night for seven nights, and on the eighth day notice what has moved. Not in them. In you."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, You were crucified through weakness, yet You live through the power of God — and I have spent years asking You to prove Yourself to me some other way. Forgive me. I have been demanding a sign while standing in front of the cross. Today I stop despising the doorway. Father, I bring myself to the fire and I do not run from it: examine me, test me, search out what is really in here. I am not asking whether I feel worthy — I already know the answer to that. I am asking the only question that matters: is Jesus Christ in me? Lord, I have called myself disqualified. I have taken the word my accuser uses and I have signed my own name to it, and I have kept my history between us like a wall. But adokimos is not the word for weak, and it is not the word for scarred, and it is not the word for late. If You are in me, then I am not cast away, and I refuse to reopen a verdict You have already given. Set me back in joint. Do the katartisis in me — mend what is torn, put back what is out of socket, refit me for open water — and if the price of that is that I never look strong to anybody, I accept the price. Make me a man who can do nothing against the truth, but only for it: no shaded sentence to win an argument, no accuracy used as a weapon, no authority spent on tearing down what You gave me to build. And Lord, over the people who have hurt me, over the ones whose names still change something in my chest — I speak Your last words to Corinth, and I mean them: the grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit, be with them, and with me, and with us all. Now let me rejoice. Let me be perfected. Let me be comforted. Let me be of the same mind with my brothers and live in peace — and let the God of love and peace be with me, today, in this exact body, with this exact history. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Two Witnesses, and a Vineyard Stolen",
+      "ref": "1 Kings 21:1-19",
+      "relatedVerses": "v. 1-2, 8",
+      "summary": "Ahab wants Naboth’s vineyard and sulks when he cannot have it, so Jezebel writes letters in the king’s name, proclaims a fast, seats Naboth at the head of the people, and sets two worthless men in front of him to testify that he cursed God and the king. Two witnesses — the exact number the Law required — and Naboth is dragged out and stoned on a legally impeccable record. That is the terrifying underside of Deuteronomy 19:15, and Paul knew it: a procedure can be satisfied and a man can still be murdered. Which is why verse 8 has to stand beside verse 1. The rule of witnesses protects the innocent only in the hands of a judge who “can do nothing against the truth, but for the truth.” Paul submits to the procedure and to the truth at the same time, and that combination is the only thing that has ever made authority safe."
+    },
+    {
+      "title": "He Saved Others — the Demonstration Nobody Wanted",
+      "ref": "Matthew 27:32-54",
+      "relatedVerses": "v. 3-4",
+      "summary": "The Corinthians asked for a proof that Christ is powerful and not weak. Stand at Golgotha and watch the crowd ask for the same thing in the same words: He saved others, and He cannot save Himself; if He is the King of Israel, let Him come down from the cross and we will believe. It is the identical demand — prove it by being impressive — and heaven answers it with silence and a corpse. He is crucified out of weakness, exactly as verse 4 says. And then the centurion who watched Him die, not the theologians who watched Him refuse to come down, is the man who says, “Truly this was the Son of God.” God’s clearest demonstration of power looked, on the day, like losing. Stop asking Him to prove Himself in a currency He has already refused to trade in."
+    },
+    {
+      "title": "Peter at the Second Charcoal Fire",
+      "ref": "John 18:15-27; 21:1-19",
+      "relatedVerses": "v. 5, 9, 11",
+      "summary": "If any man in the New Testament had grounds to write adokimos over his own name, it was the fisherman who swore he would die with Jesus and then denied Him three times before the night was out — first to the servant girl at the door, then twice more with his hands stretched over a charcoal fire in the high priest’s courtyard. The Greek word for that fire, anthrakia, appears only twice in the entire New Testament — once in the courtyard where Peter fell, and once on a beach in John 21, where the risen Christ has built another one and is cooking breakfast on it. He does not open with the failure. He examines Peter three times over the same smell of burning charcoal, one question for each denial, and every answer is put to work: feed my lambs, tend my sheep, feed my sheep. That is katartisis with a face on it — a man set back into joint and made usable again, at the exact address of his disqualification. Whatever you have been calling your evidence of being cast away, God has a habit of building the fire again on the same spot."
+    }
+  ]
+}

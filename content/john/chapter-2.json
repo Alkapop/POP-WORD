@@ -1,0 +1,454 @@
+{
+  "type": "chapterStudy",
+  "book": "John",
+  "chapter": 2,
+  "chapterTitle": "The First Sign and the True Temple",
+  "themeTitle": "\"When the Wine Runs Out and the House Must Be Cleansed\"",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "The third day, there was a marriage in Cana of Galilee. Jesus’ mother was there.",
+      "understanding": "John dates the scene precisely — \"the third day\" after the calling of the disciples closes the opening week of the Gospel. The Word who made the worlds now shows up at a village wedding in an unremarkable Galilean town. Grace begins where ordinary life is celebrated."
+    },
+    {
+      "v": 2,
+      "text": "Jesus also was invited, with his disciples, to the marriage.",
+      "understanding": "Jesus is not standing outside the party as a critic; He is a welcomed guest inside the joy. His first recorded public act is not in a synagogue or a courtroom but in a home full of music, food, and laughter."
+    },
+    {
+      "v": 3,
+      "text": "When the wine ran out, Jesus’ mother said to him, “They have no wine.”",
+      "understanding": "For a Middle-Eastern host, running out of wine mid-feast was a public humiliation that could shame a family for years. Mary does not tell Jesus what to do; she simply names the lack and lays it at His feet — the whole posture of prayer in five words.",
+      "words": [
+        {
+          "strongs": "G3631",
+          "hebrew": "οἶνος",
+          "translit": "oinos",
+          "english": "wine"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Jesus said to her,\n“Woman, what does that have to do with you and me? My hour has not yet come.”",
+      "understanding": "\"Woman\" (gynai) is not cold in Greek — it is the same dignified word Jesus uses to honor Mary from the cross (19:26). But He gently resets the relationship: He now moves on the Father's clock, not His mother's. And here for the first time John sounds his great bell — \"My hour\" — which will always point to the cross where His glory is unveiled.",
+      "words": [
+        {
+          "strongs": "G1135",
+          "hebrew": "γύναι",
+          "translit": "gynai",
+          "english": "Woman"
+        },
+        {
+          "strongs": "G5610",
+          "hebrew": "ὥρα",
+          "translit": "hōra",
+          "english": "hour"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "His mother said to the servants, “Whatever he says to you, do it.”",
+      "understanding": "These are the last recorded words of Mary in all of Scripture, and they are perfect discipleship distilled to a sentence: point everyone to the Son and obey Him without conditions. She surrenders her agenda and hands the outcome to Jesus."
+    },
+    {
+      "v": 6,
+      "text": "Now there were six water pots of stone set there after the Jews’ way of purifying, containing two or three metretes apiece.",
+      "understanding": "Six massive stone jars — not seven, one short of completeness — held the water for ceremonial hand-and-vessel washing. Each held roughly twenty to thirty gallons. John wants you to see the sheer volume of the old ritual system standing there, cold and empty of joy, waiting to be transformed."
+    },
+    {
+      "v": 7,
+      "text": "Jesus said to them,\n“Fill the water pots with water.” They filled them up to the brim.",
+      "understanding": "The miracle begins with a command the servants can actually obey — not \"make wine,\" but \"fill.\" They pour until the water reaches the very lip. Obedience filled to the brim is the human part; transformation is His."
+    },
+    {
+      "v": 8,
+      "text": "He said to them,\n“Now draw some out, and take it to the ruler of the feast.” So they took it.",
+      "understanding": "No incantation, no gesture over the jars — the change happens invisibly, somewhere between the filling and the drawing. The servants must risk carrying what still looks like wash-water to the master of ceremonies. Faith acts before it sees the result."
+    },
+    {
+      "v": 9,
+      "text": "When the ruler of the feast tasted the water now become wine, and didn’t know where it came from (but the servants who had drawn the water knew), the ruler of the feast called the bridegroom,",
+      "understanding": "The man in charge of the banquet tastes a finished miracle and has no idea what he is drinking. John notes the delicious irony: the lowest servants who obeyed knew the secret the master missed. Those who do what Jesus says understand what proud spectators cannot."
+    },
+    {
+      "v": 10,
+      "text": "and said to him, “Everyone serves the good wine first, and when the guests have drunk freely, then that which is worse. You have kept the good wine until now!”",
+      "understanding": "The world's pattern is to spend its best up front and slide into disappointment. Jesus reverses it — He saves the best for last. This is the signature of the Kingdom: the finest wine, the greatest joy, is always still ahead."
+    },
+    {
+      "v": 11,
+      "text": "This beginning of his signs Jesus did in Cana of Galilee, and revealed his glory; and his disciples believed in him.",
+      "understanding": "John names the genre of everything Jesus does — not \"miracle\" but \"sign,\" a signpost pointing past itself to who He is. This first sign cashes out the Prologue's promise, \"we saw his glory\" (1:14): the veiled glory of God is now manifested, and the response He looks for is faith.",
+      "words": [
+        {
+          "strongs": "G746",
+          "hebrew": "ἀρχή",
+          "translit": "archē",
+          "english": "beginning"
+        },
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeion",
+          "english": "signs"
+        },
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneroō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "doxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "After this, he went down to Capernaum, he, and his mother, his brothers, and his disciples; and they stayed there a few days.",
+      "understanding": "A quiet travel note bridging the wedding to Jerusalem. It also shows a real family and a real home base — Jesus lived an ordinary life around ordinary tables before the storm of the Passover confrontation."
+    },
+    {
+      "v": 13,
+      "text": "The Passover of the Jews was at hand, and Jesus went up to Jerusalem.",
+      "understanding": "Passover — the feast of blood on the doorposts and a lamb slain — is the backdrop as Jesus \"goes up\" to the temple city. John frames the temple scene inside the very festival that His own death will one day fulfill."
+    },
+    {
+      "v": 14,
+      "text": "He found in the temple those who sold oxen, sheep, and doves, and the changers of money sitting.",
+      "understanding": "This trading filled the outer courts (the hieron, the precincts) — the one place the nations could come to pray to Israel's God, turned into a livestock market and a currency exchange. What was meant to be a house of prayer for all peoples had become a shopping floor.",
+      "words": [
+        {
+          "strongs": "G2411",
+          "hebrew": "ἱερόν",
+          "translit": "hieron",
+          "english": "temple"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "He made a whip of cords, and threw all out of the temple, both the sheep and the oxen; and he poured out the changers’ money, and overthrew their tables.",
+      "understanding": "This is no loss of temper; He deliberately braids a whip and then drives out the whole operation. The gentle guest of Cana is also the Lord whose holiness will not co-exist with a profaned house. Meekness and fierce holiness live in the same Person."
+    },
+    {
+      "v": 16,
+      "text": "To those who sold the doves, he said,\n“Take these things out of here! Don’t make my Father’s house a marketplace!”",
+      "understanding": "Notice the claim buried in the command — \"my Father's house.\" The twelve-year-old of Luke 2 now acts on that sonship with authority. The sin He names is turning worship into commerce, treating the presence of God as a place to do business."
+    },
+    {
+      "v": 17,
+      "text": "His disciples remembered that it was written, “Zeal for your house will eat me up.”",
+      "understanding": "They recognize Psalm 69:9 — a psalm of the suffering righteous one — living itself out in front of them. The word \"zeal\" is a consuming fire; His passion for God's honor will ultimately be what consumes His life on the cross.",
+      "words": [
+        {
+          "strongs": "G2205",
+          "hebrew": "ζῆλος",
+          "translit": "zēlos",
+          "english": "Zeal"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "The Jews therefore answered him, “What sign do you show us, seeing that you do these things?”",
+      "understanding": "The authorities do not repent; they demand credentials. \"By what sign do you claim the right to do this?\" They want a miracle to license His authority, blind to the fact that His authority is the point."
+    },
+    {
+      "v": 19,
+      "text": "Jesus answered them,\n“Destroy this temple, and in three days I will raise it up.”",
+      "understanding": "He gives them a riddle, not a spectacle. The word shifts from hieron (the precincts) to naos (the sanctuary, God's dwelling itself). \"Raise it up\" is resurrection language — He is quietly telling them the greatest sign of all is His own risen body.",
+      "words": [
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naos",
+          "english": "temple"
+        },
+        {
+          "strongs": "G1453",
+          "hebrew": "ἐγείρω",
+          "translit": "egeirō",
+          "english": "raise it up"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "The Jews therefore said, “It took forty-six years to build this temple! Will you raise it up in three days?”",
+      "understanding": "They hear only stone and mortar and calculate the absurdity — Herod's rebuilding had already run forty-six years. This is classic Johannine irony: people take literally what Jesus means on a deeper plane, and so miss Him entirely."
+    },
+    {
+      "v": 21,
+      "text": "But he spoke of the temple of his body.",
+      "understanding": "John lifts the curtain: the true naos, the real dwelling-place of God on earth, is not the building — it is the body of Jesus. The Word who \"tabernacled\" among us (1:14) is Himself the sanctuary where God and man now meet.",
+      "words": [
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naos",
+          "english": "temple"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "When therefore he was raised from the dead, his disciples remembered that he said this, and they believed the Scripture, and the word which Jesus had said.",
+      "understanding": "Full understanding came later, on the far side of the empty tomb. The resurrection unlocked words they had heard but not grasped — and their faith rested on two authorities held together: the written Scripture and the spoken word of Jesus."
+    },
+    {
+      "v": 23,
+      "text": "Now when he was in Jerusalem at the Passover, during the feast, many believed in his name, observing his signs which he did.",
+      "understanding": "A crowd \"believes\" — but John chooses his words carefully. Their faith is built on the spectacle of signs, an attraction to the wonder-worker, not yet a surrender to the Lord. It is real interest, but shallow soil.",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteuō",
+          "english": "believed"
+        },
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeion",
+          "english": "signs"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "But Jesus didn’t entrust himself to them, because he knew everyone,",
+      "understanding": "The stunning wordplay: they \"believed\" (pisteuo) in Him, but He would not \"entrust\" (the very same verb, pisteuo) Himself to them. He does not commit His heart to sign-driven enthusiasm, because He sees straight through every heart in the room.",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteuō",
+          "english": "entrust"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginōskō",
+          "english": "knew"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "and because he didn’t need for anyone to testify concerning man; for he himself knew what was in man.",
+      "understanding": "Chapter 2 ends on Jesus' quiet omniscience. He needs no character reference on anyone; He reads the inside of every person like an open book. The Son who turns water to wine also knows exactly what is in you — and loves you still.",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginōskō",
+          "english": "knew"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "anthrōpos",
+          "english": "man"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Feast Where the Wine Ran Dry",
+      "verseRef": "v. 3",
+      "image": "Picture the height of the celebration — days of feasting, singing, dancing — and then a servant whispers to the steward and the color drains from his face. The jars are empty. The music keeps playing, but a quiet panic spreads among those who know. The family that should be crowned with joy is about to be shamed before the whole village.",
+      "meaning": "Every human joy has a bottom to it. The best wine of your own resources — your strength, your money, your relationships, your religion — eventually runs out mid-celebration. Mary's response is the pattern of faith: she does not scold the servants or hide the shortage; she carries the emptiness straight to Jesus and simply says, \"They have no wine.\""
+    },
+    {
+      "title": "Six Stone Jars Filled to the Brim",
+      "verseRef": "v. 6-7",
+      "image": "Six enormous stone vessels stand along the wall, cold and grey, used only for the endless ceremonial rinsing of hands and cups. Jesus points to these — the machinery of religious washing — and says, \"Fill them.\" The servants haul bucket after bucket from the well until the water trembles at the very lip of each jar, one hundred and twenty gallons or more.",
+      "meaning": "Jesus takes the water of the old covenant's ritual — purification that could clean the outside but never gladden the heart — and turns it into the wine of the new covenant, the wine of joy and celebration. Six jars, one short of seven, picture a religious system that was always incomplete. When the ceremonial water meets the Messiah, ritual becomes rejoicing, and the law's washing becomes the gospel's feast."
+    },
+    {
+      "title": "The Whip of Cords",
+      "verseRef": "v. 15",
+      "image": "The same hands that gently blessed a wedding now stoop and calmly braid loose cords into a whip. There is no wild rage — there is deliberate, holy fury. Coins scatter and ring across the stone. Tables crash over. Oxen bellow and sheep scatter as the Son of God drives an entire market out of His Father's house, His face set like flint.",
+      "meaning": "Meekness is not weakness. The Lamb who came to Cana is also the Lion whose zeal for God's honor cannot tolerate a house of prayer turned into a house of profit. He shows us that love for the Father and hatred of what defiles worship are the same passion. That same holy fire wants to walk the courts of your heart and overturn whatever you have set up for sale there."
+    },
+    {
+      "title": "The Temple of His Body",
+      "verseRef": "v. 19-21",
+      "image": "The great stone temple towers above them — forty-six years of construction, gold and marble catching the sun, the pride of the nation. Jesus stands in its shadow, points not at the walls but at Himself, and says, \"Destroy this temple, and in three days I will raise it up.\" They laugh at the arithmetic. But John whispers to us across the centuries: He was speaking of His body.",
+      "meaning": "The dwelling place of God on earth was never ultimately made of stone. It is the body of Jesus — God and man met in one Person — and after the resurrection it becomes His people, in whom the Spirit lives. The building would be torn down within a generation; the true temple would rise on the third day and stand forever."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Setting: A Wedding in Cana (v. 1-2)",
+        "body": "Jesus and His disciples are guests at a village marriage feast in Galilee."
+      },
+      {
+        "label": "The First Sign: Water into Wine (v. 3-11)",
+        "body": "The wine fails, Mary brings the need to Jesus, and He transforms purification water into the best wine, revealing His glory."
+      },
+      {
+        "label": "The Interlude: Down to Capernaum (v. 12)",
+        "body": "A brief stay with family and disciples bridges Cana and Jerusalem."
+      },
+      {
+        "label": "The Cleansing of the Temple (v. 13-17)",
+        "body": "At Passover Jesus drives out the merchants, claiming the temple as His Father's house, and the disciples recall Psalm 69."
+      },
+      {
+        "label": "The Sign of the Risen Temple (v. 18-22)",
+        "body": "Challenged for a sign, Jesus points to the destruction and raising of the temple of His body."
+      },
+      {
+        "label": "The Unreliable Faith of the Crowds (v. 23-25)",
+        "body": "Many believe because of signs, but Jesus, who knows every heart, does not entrust Himself to them."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "From Water to Wine: The Old Made New",
+        "paragraphs": [
+          "The first sign is not chosen at random. John could have opened with a healing or an exorcism; instead the Spirit opens with a wedding and a rescue of joy. That is a deliberate portrait of the whole Gospel: Jesus has come to take what has run dry and fill it again, to save the celebration when human resources fail. And He does it precisely by transforming the water of ritual purification — the machinery of the old covenant — into the wine of gladness that belongs to the new.",
+          "Do not miss the detail John presses on you: six stone jars set there \"after the Jews' way of purifying.\" This is the old order's washing-water, endlessly cleaning the outside of hands and vessels but never touching the heart or filling it with joy. Jesus does not smash the jars; He fills them and transforms their contents. The prophets had promised that the messianic age would overflow with wine (Isaiah 25:6; Amos 9:13; Joel 3:18). At Cana that age quietly begins. The steward's astonished words — \"You have kept the good wine until now\" — are the theology of the Kingdom in a sentence: in Christ, the best is never behind you; it is always still to come."
+        ]
+      },
+      {
+        "heading": "The Body That Replaces the Building",
+        "paragraphs": [
+          "John deliberately places the temple cleansing at the start of Jesus' ministry — where the other Gospels place it in the final week — to frame everything that follows as a confrontation over true worship. (Whether Jesus cleansed the temple once or, more likely, twice — once at the outset and once at the end — the honest reading recognizes John's placement is theological before it is chronological: he wants you to meet Jesus first of all as the Lord of the true temple.) The precision of the Greek carries the whole meaning. In verses 14-15 the word is hieron, the sprawling temple precincts where the trading fouled the court of the Gentiles. In verse 19 the word changes to naos — the inner sanctuary, the actual dwelling place of God.",
+          "This is the hinge of the chapter. When Jesus says, \"Destroy this naos and in three days I will raise it up,\" He is announcing that the real house of God is no longer a building on Mount Zion but His own body — the flesh in which \"the Word became flesh, and lived among us\" (1:14), where the verb John chooses means literally to pitch a tent, to tabernacle, the way God's glory once tented among Israel in the wilderness. The presence that once filled Solomon's sanctuary now walks the courts on two feet. And within a generation the stone temple would indeed be destroyed by Rome, never rebuilt, while the true temple rose on the third day, never to be torn down again. Worship would forever after be located not in a place but in a Person."
+        ]
+      },
+      {
+        "heading": "Signs, Glory, and the Faith Jesus Will Not Trust",
+        "paragraphs": [
+          "John never calls a miracle a mere wonder; he calls it a \"sign\" (semeion) — an act that points beyond itself to the identity of the One who performs it. The purpose of a sign is to produce faith (20:30-31). Yet this very chapter shows that not all sign-faith is saving faith. At Cana the disciples \"believed in him\" (v. 11) and their faith deepens. But in Jerusalem \"many believed in his name\" merely from watching signs (v. 23), and John immediately warns us that \"Jesus didn't entrust himself to them\" (v. 24).",
+          "The wordplay is devastating and deliberate: the crowd \"believed\" (pisteuo) in Jesus, but Jesus would not \"believe\"/\"entrust\" (the identical verb, pisteuo) Himself to the crowd. There is a faith that is only fascination — drawn to the spectacle, thrilled by the miracle, but never surrendered to the Master. And He is not fooled by it, \"for he himself knew what was in man.\" This is the sober edge of the chapter: it is possible to be excited about Jesus, to line up for His signs, and still not have handed Him your heart."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "This chapter contains its own built-in New Testament fulfillment, and then radiates outward through the rest of the Scriptures. Jesus' riddle — \"Destroy this temple, and in three days I will raise it up\" — is interpreted for us on the spot: \"But he spoke of the temple of his body\" (v. 21), and \"When therefore he was raised from the dead, his disciples remembered\" (v. 22). The word egeiro (\"raise up\") is resurrection language; the whole first sign in Cana, dated to \"the third day\" (v. 1), already whispers of the third-day rising.",
+        "That saying about the temple did not disappear — it followed Jesus to His trial. At the Sanhedrin, false witnesses twisted it: \"We heard him say, 'I will destroy this temple that is made with hands'\" (Mark 14:58), and it was hurled at Him as mockery at the cross: \"You who destroy the temple and build it in three days, save yourself\" (Mark 15:29-30). They thought they were condemning a madman; they were unknowingly quoting the exact prophecy His resurrection was about to fulfill. Then the apostles carried the truth to its conclusion: because the risen body of Jesus is the true temple, His people become temples too. Paul declares, \"Don't you know that your body is a temple of the Holy Spirit which is in you?\" (1 Corinthians 6:19) — the same holy zeal that cleared the courts of Jerusalem now claims the courts of your body for the glory of God."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Sign",
+      "hebrew": "σημεῖον",
+      "translit": "sēmeion",
+      "strongs": "G4592",
+      "verses": "v. 11, 18, 23",
+      "insight": "John's chosen word for Jesus' miracles is never \"power\" (dynamis) but \"sign\" — an indication that points beyond itself to the identity of the worker. A sign is not meant to be admired; it is meant to be read, like a signpost that only matters because of the destination it announces. The whole Gospel is structured around seven such signs, and their stated goal is faith (20:30-31). Cana is \"the beginning of his signs,\" the first letter of a message that spells out the Son of God."
+    },
+    {
+      "english": "Glory",
+      "hebrew": "δόξα",
+      "translit": "doxa",
+      "strongs": "G1391",
+      "verses": "v. 11",
+      "insight": "Doxa is the visible weight and radiance of God's own nature — what was once so terrifying it filled Solomon's temple as a cloud no priest could stand in. John says this glory was \"manifested\" (phaneroo, G5319) at a country wedding. The Prologue promised, \"we saw his glory\" (1:14); Cana is the first time we see it. Astonishingly, the glory of the infinite God is revealed not in thunder on Sinai but in rescued joy at a party — and it will reach its fullness not in splendor but on a cross, at \"the hour.\""
+    },
+    {
+      "english": "Temple",
+      "hebrew": "ναός",
+      "translit": "naos",
+      "strongs": "G3485",
+      "verses": "v. 19, 21",
+      "insight": "The whole chapter turns on a change of words. In verses 14-15 the trading fouls the hieron (G2411) — the vast temple precincts, the outer courts. But when Jesus says \"Destroy this temple,\" He switches to naos — the inner sanctuary, the dwelling place of God Himself. He is declaring that the true naos, where God and man meet, is no longer a building but His own body. The Word who \"tabernacled\" among us (1:14) is Himself the sanctuary; and through His resurrection His people become the temple where the Spirit dwells (1 Corinthians 6:19)."
+    },
+    {
+      "english": "Believe / Entrust",
+      "hebrew": "πιστεύω",
+      "translit": "pisteuō",
+      "strongs": "G4100",
+      "verses": "v. 11, 22, 23, 24",
+      "insight": "This is the pulse-verb of John's Gospel, used nearly a hundred times — and notice, John never once uses the noun \"faith,\" only the living verb \"to believe,\" because for him faith is never a possession but always an act. The chapter's genius is the wordplay of verses 23-24: the crowd \"believed\" (pisteuo) in Jesus because of signs, but Jesus \"did not entrust\" (the identical verb, pisteuo) Himself to them. To believe is to entrust your whole self — and there is a shallow, spectator's belief that stops at fascination and never becomes surrender."
+    },
+    {
+      "english": "Zeal",
+      "hebrew": "ζῆλος",
+      "translit": "zēlos",
+      "strongs": "G2205",
+      "verses": "v. 17",
+      "insight": "Zelos literally means heat — a burning, fervent ardor. When the disciples watch Jesus clear the temple, they remember Psalm 69:9: \"Zeal for your house will eat me up.\" His love for the Father's honor is not a cool preference; it is a consuming fire that leaves no room for compromise with what defiles worship. And the psalm they quote is a psalm of the suffering righteous one — the same zeal that overturned the tables would ultimately be what consumed His life at the cross."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things at once in this chapter: the emptiness you have been hiding, the house you have let become a marketplace, and the difference between admiring Jesus and actually entrusting yourself to Him.",
+    "items": [
+      {
+        "title": "Bring Him Your Empty Jars",
+        "body": "The wine ran out at the height of the feast — and that is where Jesus did His first miracle. Where in your life has the wine run out? The joy that used to be there, the strength you used to have, the marriage that used to sing, the calling that has gone dry? Notice that Jesus did not create wine from nothing; He worked through jars the servants first filled with water to the brim. Your part is the ordinary obedience — \"Fill the pots\" — the transformation is His. Will you stop hiding the shortage and simply say, like Mary, \"Lord, I have no wine\"? And will you then do whatever He says, all the way to the brim?"
+      },
+      {
+        "title": "Cleanse the House",
+        "body": "Paul says your body is now the temple of the Holy Spirit — the very truth Jesus planted here when He called His body the true naos. So ask honestly: what have you allowed to be bought and sold in your temple? What tables of compromise are set up in the courts of your heart, turning the dwelling place of God into a marketplace of appetite, ambition, and idols? The Jesus of Cana is gentle, but the Jesus of the temple is holy, and He loves you far too much to leave the merchants trading in His Father's house. Will you hand Him the whip, or will you keep guarding the tables?"
+      },
+      {
+        "title": "Is Your Faith the Crowd's Faith?",
+        "body": "The most sobering verse in the chapter is verse 24 — many \"believed,\" but Jesus \"did not entrust himself to them,\" because He knew what was in them. It is possible to be thrilled by His signs, to sing His songs, to line up for His blessings, and still never have surrendered your heart. He is not deceived by excitement; He reads the inside of you like an open page. So the question is not whether you are impressed by Jesus. The question is whether you have entrusted yourself to Him — does your belief stop at fascination, or has it become full surrender to a Lord who already knows everything that is in you and calls you anyway?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The 'Empty Wine' Audit",
+        "body": "Name the specific place where your wine has run out — where the joy, strength, or provision that once carried you has quietly failed. Have you been performing as if the jars are still full, protecting your reputation like the embarrassed host, or have you actually brought the emptiness to Jesus and said plainly, \"I have no wine\"?"
+      },
+      {
+        "title": "The 'Marketplace' Check",
+        "body": "If your body and heart are the temple of the Holy Spirit, walk the courts honestly: what has been set up for sale in there? What appetite, habit, relationship, or ambition has turned a place of worship into a place of trade? What table would Jesus overturn first if He walked in tonight?"
+      },
+      {
+        "title": "The 'Sign-Faith' Test",
+        "body": "Examine why you follow Jesus. Are you drawn mainly to what He can do for you — the signs, the breakthroughs, the blessings — or to who He is? If the miracles stopped and only the Master remained, would your faith remain? Is your belief fascination, or is it surrender?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Filling the Jars to the Brim",
+        "body": "Identify the one thing Jesus has already clearly told you to do — the command you have half-obeyed. This week, do it \"to the brim,\" fully and without hedging, the way the servants filled the pots. Then bring your dry place to Him in prayer and trust Him for the transformation you cannot manufacture. Your job is the water; the wine is His."
+      },
+      {
+        "title": "Clearing One Table Tonight",
+        "body": "Pick one concrete thing that is defiling the temple of your life — a specific app, image, arrangement, or habit that has become a marketplace in a holy space. Tonight, physically remove it: delete it, throw it out, end it, block it. Do not negotiate with the merchants; overturn the table. Then pray, out loud, giving that reclaimed court back to your Father."
+      }
+    ]
+  },
+  "prayerReflection": "\"Lord Jesus, glory of the Father revealed at an ordinary table — I come to You with my empty jars. My wine has run out in places I have been too ashamed to name, so today I stop pretending: I have no wine. Fill me. I will do whatever You say, all the way to the brim, and I will trust You for the transformation I cannot make happen myself. You are the true temple, the dwelling place of God, and by Your Spirit You have made my body a temple too — so come into these courts with holy zeal and overturn every table I have set up for sale. Drive out what does not belong. I do not want to be one of the crowd who only believed because of the signs; I want to entrust my whole self to You. You already know everything that is in me, and You love me still. Keep the best wine ahead of me, and let my life reveal Your glory. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "Moses' First Sign: Water Turned to Blood",
+      "ref": "Exodus 7:14-25",
+      "relatedVerses": "v. 11",
+      "summary": "The first public sign of Moses, the deliverer of the old covenant, was to strike the Nile and turn its water into blood — a sign of judgment that brought death, stench, and dread to Egypt. The first sign of Jesus, the deliverer of the new covenant, was to turn water into wine — a sign of joy that rescued a wedding and revealed His glory. The deliberate contrast preaches the gospel: the law came through Moses in signs of judgment; grace and truth came through Jesus Christ (John 1:17) in a sign of celebration. Where the first deliverer's beginning brought blood and death, the second Deliverer's beginning brought wine and gladness — and He saved the best for last."
+    },
+    {
+      "title": "Josiah's Cleansing of the House of the LORD",
+      "ref": "2 Kings 22-23",
+      "relatedVerses": "v. 15-17",
+      "summary": "When young King Josiah found the lost Book of the Law, he was seized with holy zeal and swept through the temple and the land, tearing out the altars, vessels, and idols that had defiled the house of God. He drove out every trace of false worship, purging the courts that were meant for the LORD alone. Centuries later, a greater than Josiah walked into the same temple, braided a whip, and drove out the merchants who had made His Father's house a marketplace. The disciples recognized the ancient pattern — \"Zeal for your house will eat me up\" — and saw that the reforming fire in the hearts of the godly kings burned perfectly in the Son of God."
+    },
+    {
+      "title": "Solomon's Temple Filled with the Glory",
+      "ref": "1 Kings 8:10-11",
+      "relatedVerses": "v. 21",
+      "summary": "When Solomon finished the first temple and the ark was set in place, the glory of the LORD descended as a cloud so thick that the priests could not stand to minister — God had come to dwell in the house made of stone. That glory later departed, and the temple was destroyed. But John tells us the true and final dwelling place of God was never a building: \"he spoke of the temple of his body.\" In Jesus the glory that once filled Solomon's sanctuary now walks the earth in flesh — and after the resurrection, that same presence would fill His people, the living temple that can never be torn down."
+    }
+  ]
+}
