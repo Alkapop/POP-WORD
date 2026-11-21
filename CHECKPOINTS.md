@@ -1,0 +1,44 @@
+# POP-WORD — Checkpoint Log
+
+Every milestone is logged here with the verification that proved it. A checkpoint is
+only marked ✅ when its checks actually ran and passed.
+
+**Verification gates**
+
+| Gate | Command | What it proves |
+|------|---------|----------------|
+| G1 Build | `node build/build-data.mjs` | Every section present; every verse present with exact WEB text; every Strong's id exists |
+| G2 Deep | `node build/verify-content.mjs <book> --strict` | Every printed Greek/Hebrew word matches its Strong's lemma; every quotation tagged with a reference exists in the WEB text |
+| G3 Render | headless Chromium opens the app, every chapter of the book renders with all 9 sections | The app actually displays it |
+| G4 Sync | rebuilt `app/` copied to POP-WORD-PAGES and byte-compared | The live site gets exactly what was verified |
+
+---
+
+## 2026-11-21 — Session: learn the site, sync, continue with 1 Corinthians
+
+### CP-01 ✅ Source repo re-synced with the live site
+- Found: POP-WORD-PAGES (live) had 13 built books; this repo only had source JSON for 5
+  (Matthew stopped at ch. 15). Reconstructed `content/` for Matthew 16–28, Mark, Luke, John,
+  Acts, Romans, 2 Corinthians, Galatians, Ephesians from the deployed build; took the live
+  (verifier-corrected) Matthew 1–15.
+- Fixed: stray space in fetched WEB Matthew 21:30 (`I’ m` → `I’m`); validator now accepts an
+  editorial note on verses the WEB omits (Luke 17:36, Acts 15:34, 24:7, Romans 16:25).
+- G1 ✅ all validations passed, 13 books. G4 ✅ rebuilt `app/data/books/*.js` byte-identical to live.
+
+### CP-02 ✅ Deep verifier + draft expander added
+- `build/verify-content.mjs` — lemma and quotation checks (G2).
+- `build/expand-draft.mjs` — fills verse text, lemmas and transliterations from the offline
+  sources so they cannot be mistyped.
+- Baseline on the 13 existing books (advisory, not yet fixed): 32 LEMMA notes (mostly inflected
+  forms printed instead of the dictionary lemma — John 20, Matthew 27, Luke 11) and ~25
+  NOT-IN-WEB quotations (paraphrases/KJV wording printed as WEB quotations, e.g. Mark 7 → Acts
+  10:15 “call common” where WEB reads “call unclean”). Backlog item: correct these.
+
+### Book queue (canonical order)
+| # | Book | Status |
+|---|------|--------|
+| 36–39 | Zephaniah, Haggai, Zechariah, Malachi | ✅ live |
+| 40–45 | Matthew, Mark, Luke, John, Acts, Romans | ✅ live |
+| 46 | **1 Corinthians** (16 ch.) | ⏳ in progress — was skipped |
+| 47–49 | 2 Corinthians, Galatians, Ephesians | ✅ live |
+| 50 | Philippians (4 ch.) | next |
