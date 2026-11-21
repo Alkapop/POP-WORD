@@ -153,3 +153,27 @@ only marked ✅ when its checks actually ran and passed.
 |---|------|--------|
 | 51 | Colossians | ✅ built & verified |
 | 52 | 1 Thessalonians (5 ch.) | next — bridge from Colossians; Road Ahead → 2 Thessalonians, 1 Timothy |
+
+---
+
+## 2026-11-21 — CP-09 Word study: verse context, word families, site concordance
+
+Why: one English word often hides several original words (Ephesians 1:19 uses four Greek
+words for ‘power’). Tapping a word now shows exactly which one it is and how it is used.
+
+- **Data:** `sources/word-families.json` — 19 families (14 Greek, 5 Hebrew), 77 words. Every
+  Strong's id checked against the dictionary; 74 anchor verses embedded from the WEB, and the
+  build fails if an anchor verse does not contain the English word it is meant to show.
+  (Genesis 17:1, Psalm 32:5 and Psalm 46:1 show as references until those books are on disk.)
+  Negative test: changing Acts 1:8's word to ‘authority’ is rejected by the build.
+- **Panel:** In this verse (rendering highlighted, other family words in the same verse) ·
+  Strong's entry · Word family (sense + anchor verse for each member) · Across POP·WORD
+  (how often it is tagged, every English rendering with counts, every reference — tap to
+  open that verse). Deep links `#/read/<book>/<ch>/<verse>` open the verse unfolded.
+- **Fix found while testing:** the panel stayed open over a new page after Back; it now closes
+  on every page change.
+- **Rule recorded:** `MASTER-FORMAT-PROMPT.md` grounding rule 6 and the new `CLAUDE.md` — every
+  future chapter names which original word stands behind power/time/love/word/sin etc.
+- **Gates:** G1 ✅ · G2 ✅ (backlog unchanged 33/32/29) · G3 ✅ all 16 books · feature test
+  20/20 (Ephesians 1:19 siblings, family, concordance, show-all, sibling tap, jump to Acts 19:20,
+  Zechariah 4:6 Hebrew family, phone width with no overflow, no console errors).
