@@ -101,11 +101,27 @@ Title line: `{two fitting emojis} Book of {BOOK}: The Final Masterclass Review {
 3. **Study the exemplars first**: `format-examples/` contains David's own Habakkuk Master Introduction, Habakkuk 1 chapter study, and Nahum Final Review. Match their voice, density, and depth. A chapter study typically lands at 2,500–4,000 words of substance (the per-verse understanding notes, which the exemplar predates, account for the growth beyond it) — density is welcome, filler is not, and redundancy across sections must be trimmed.
 4. **No chapter left behind, no section left out.** A missing section is a failed document.
 5. **Output**: structured JSON exactly matching the schema you are given, written to the file path you are given. The app renders it; broken JSON is a failed document.
+6. **Word families — say WHICH original word.** One English word often stands for several
+   Greek or Hebrew words (‘power’ = δύναμις, ἐνέργεια, κράτος, ἰσχύς, ἐξουσία, ἀρχή; ‘time’ =
+   χρόνος, καιρός, ὥρα, αἰών; ‘love’ = ἀγαπάω, φιλέω; ‘word’ = λόγος, ῥῆμα; Hebrew ‘sin’ =
+   חַטָּאת, עָוֺן, פֶּשַׁע; and every family in `sources/word-families.json`). Whenever a verse
+   uses one of these English words:
+   - **tag the original word** with its Strong's number and the exact English it renders in
+     the WEB (`english`), so the app can show it in context and in the site-wide concordance;
+   - the **understanding note names which word it is and how it differs** from its siblings —
+     e.g. Ephesians 1:19 names all four power words and what each adds;
+   - when a verse holds **two or more members of one family**, tag every one of them and make
+     the contrast part of the note (Ephesians 1:19, John 21:15, Galatians 1:6–7, Acts 1:7);
+   - if you meet an English word that hides several original words and it has **no family
+     yet**, add one to `sources/word-families.json` (id, name, lang, intro, and members with
+     `strongs`, `sense`, `anchor` "Book C:V", `en`). The build rejects a family whose Strong's
+     ids do not exist or whose anchor verse does not contain the `en` word in the WEB.
 
 ## VERIFICATION (every document is checked before acceptance)
 
 A verifier reads the finished document against this prompt and answers: Is every section
 present and in order? Is every verse present with the exact WEB text? Does every Strong's
-number exist and match its Hebrew word? Is the NT connection real and correctly quoted?
+number exist and match its Hebrew word? Where a verse uses a word-family word (power, time,
+love, word, sin…), does the note say which original word it is? Is the NT connection real and correctly quoted?
 Does the voice match the exemplars? Does everything land experientially?
 Anything that fails is fixed before the document is accepted.
