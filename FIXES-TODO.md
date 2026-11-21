@@ -1,6 +1,6 @@
 # POP-WORD — Fixes To Do
 
-Open items found by the checks during the 1 Corinthians session (2026-11-21).
+Open items found by the checks (updated 2026-11-21, after Philippians). 1 Corinthians and Philippians are clean; every item below is in an older book.
 Tick each box as it is done, then re-run the check that found it.
 
 ---
@@ -29,7 +29,7 @@ node -e "for (const b of ['philemon','2john','3john','jude']) console.log(b, req
 
 ---
 
-## 2. Quotations printed in non-WEB wording (25 items) — real errors
+## 2. Quotations printed in non-WEB wording (33 items) — real errors
 
 These quotation marks contain words that do not appear anywhere in the WEB text (usually
 KJV/NIV wording or a paraphrase written as a quotation). Fix each by replacing the quoted words
@@ -43,7 +43,10 @@ node build/verify-content.mjs
 
 - [ ] `2corinthians/chapter-2.json commentary.sections[0].paragraphs[0]` — “fightings outside, fear inside” → 7:5
 - [ ] `2corinthians/chapter-4.json commentary.sections[0].paragraphs[0]` — “his letters are weighty and strong, but his bodily presence is weak, and his speech is des…” → 10:10
+- [ ] `2corinthians/chapter-5.json visualMeditations[1].image` — “we must all be revealed before the bēma of Christ,” (reference before quote: Acts 18:12)
+- [ ] `2corinthians/chapter-5.json storyConnections[2].summary` — “receive him as you would receive me... But if he has wronged you at all, or owes you anyth” (reference before quote: 2 Corinthians 5:21)
 - [ ] `2corinthians/chapter-6.json commentary.sections[1].paragraphs[0]` — “His letters are weighty and strong, but his bodily presence is weak, and his speech is des…” → 10:10
+- [ ] `2corinthians/chapter-10.json storyConnections[1].summary` — “Don't look on his face, or on the height of his stature, because I have rejected him; for ” (reference before quote: 2 Corinthians 10:7)
 - [ ] `2corinthians/chapter-11.json lifeApplication.practices[0].body` — “This is where the power of Christ rests on me” → 12:9
 - [ ] `ephesians/chapter-4.json lexicon[4].insight` — “he began to be sorrowful and severely troubled” → Matthew 26:37
 - [ ] `john/chapter-1.json commentary.ntConnection.paragraphs[0]` — “For by him all things were created... all things have been created through him and for him…” → Colossians 1:16-17
@@ -52,20 +55,25 @@ node build/verify-content.mjs
 - [ ] `john/chapter-18.json commentary.sections[0].paragraphs[1]` — “No one takes it from me, but I lay it down of myself,” → 10:18
 - [ ] `john/chapter-19.json commentary.sections[1].paragraphs[1]` — “No one takes it from me, but I lay it down of myself” → John 10:18
 - [ ] `john/chapter-19.json commentary.ntConnection.paragraphs[1]` — “wiped out the handwriting in ordinances which was against us... having nailed it to the cr…” → Colossians 2:14
+- [ ] `luke/chapter-9.json commentary.ntConnection.paragraphs[0]` — “we did not follow cunningly devised fables, when we made known to you the power and coming” (reference before quote: 2 Peter 1:16)
 - [ ] `mark/chapter-5.json commentary.ntConnection.paragraphs[1]` — “Christ has been raised from the dead, the first fruits of those who are asleep” → 1 Corinthians 15:20
 - [ ] `mark/chapter-7.json commentary.ntConnection.paragraphs[0]` — “What God has cleansed, you must not call common” → Acts 10:15
 - [ ] `mark/chapter-7.json commentary.ntConnection.paragraphs[1]` — “God has shown me that I should not call any man common or unclean” → Acts 10:28
+- [ ] `matthew/chapter-24.json commentary.ntConnection.paragraphs[0]` — “the Lord himself will descend from heaven with... the trumpet of God... and... we... will ” (reference before quote: 1 Thessalonians 4:16)
 - [ ] `matthew/chapter-24.json commentary.ntConnection.paragraphs[1]` — “scoffers will come... saying, ‘Where is the promise of his coming?’... But the day of the …” → 2 Peter 3:3-10
 - [ ] `matthew/chapter-24.json storyConnections[0].summary` — “dash you to the ground... and not leave in you one stone on another” → Luke 19:44
 - [ ] `romans/chapter-2.json storyConnections[0].summary` — “You are the man.” → Romans 2:1
 - [ ] `romans/chapter-2.json storyConnections[0].summary` — “by this deed you have given great occasion to Yahweh's enemies to blaspheme” → 12:14
 - [ ] `romans/chapter-2.json storyConnections[2].summary` — “I knew that you are a gracious God, and merciful, slow to anger, and abundant in loving ki…” → Romans 2:4
 - [ ] `romans/chapter-4.json lifeApplication.practices[0].body` — “What was credited,” → Romans 4:8
+- [ ] `romans/chapter-4.json lifeApplication.practices[0].body` — “Blessed is David, whom the Lord will by no means charge with sin.” (reference before quote: Romans 4:8)
+- [ ] `romans/chapter-6.json commentary.ntConnection.paragraphs[0]` — “I have been crucified with Christ, and it is no longer I who live, but Christ lives in me.” (reference before quote: Galatians 2:20)
 - [ ] `romans/chapter-6.json commentary.ntConnection.paragraphs[0]` — “put to death your members which are on the earth” → 3:5
 - [ ] `romans/chapter-6.json commentary.ntConnection.paragraphs[1]` — “his own self bore our sins in his body on the tree, that we, having died to sins, might li…” → 1 Peter 2:24
 - [ ] `romans/chapter-8.json storyConnections[2].summary` — “As for you, you meant evil against me, but God meant it for good, to save many people aliv…” → Romans 8:28
 - [ ] `romans/chapter-15.json lexicon[0].insight` — “bear one another’s burdens, and so fulfil the law of Christ” → Galatians 6:2
 - [ ] `romans/chapter-15.json lexicon[1].insight` — “receive him as you would receive me” → Romans 15:7
+- [ ] `romans/chapter-16.json lexicon[0].insight` — “diakonos of the assembly that is at Cenchreae” (reference before quote: Romans 15:8)
 
 ---
 
