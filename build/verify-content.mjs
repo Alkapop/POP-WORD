@@ -78,8 +78,22 @@ function checkQuotes(text, defaultBook, where, out) {
   const re = /“([^“”]{14,}?)”([^“]{0,40})/g;
   let m;
   while ((m = re.exec(text))) {
-    const r = m[2].match(REF);
-    if (!r) continue;
+    let r = m[2].match(REF);
+    if (!r) {
+      // Reference written BEFORE the quotation: “…in 1 Peter 1:5 believers are “…””.
+      const before = text.slice(Math.max(0, m.index - 60), m.index);
+      const pre = [...before.matchAll(/((?:[123] )?[A-Z][a-z]+) (\d{1,3}):(\d{1,3})/g)].pop();
+      if (!pre || !BOOK_IDS[pre[1].toLowerCase()]) continue;
+      // A preceding reference often belongs to an earlier sentence, so only test whether the
+      // words exist at all, and only for an English quotation of five or more words.
+      if (/[\u0370-\u03FF\u1F00-\u1FFF]/.test(m[1]) || words(m[1]).split(' ').length < 5) continue;
+      const preFrags = m[1].replace(/\([^)]*\)|\[[^\]]*\]/g, ' ').split(/…|\.\.\./).map(words).filter(f => f.split(' ').length >= 3);
+      if (preFrags.some(f => !corpus().includes(f))) {
+        checkedQuotes++;
+        out.push(`${where}: NOT-IN-WEB “${m[1].slice(0, 90)}” (reference before quote: ${pre[0]})`);
+      }
+      continue;
+    }
     const bookName = (r[1] || '').toLowerCase();
     const bookId = bookName ? BOOK_IDS[bookName] : defaultBook;
     if (bookName && !bookId) continue;                    // e.g. Genesis — no WEB text on disk

@@ -1,0 +1,1026 @@
+{
+  "type": "chapterStudy",
+  "book": "Philippians",
+  "chapter": 4,
+  "chapterTitle": "Rejoice Always, Be Anxious for Nothing — The Peace That Guards and the Secret of Contentment",
+  "themeTitle": "“I Have Learned the Secret: Christ Is Enough”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Therefore, my brothers, beloved and longed for, my joy and crown, so stand firm in the Lord, my beloved.",
+      "understanding": "Paul piles up terms of affection: ἀδελφοί (brothers), ἀγαπητοί (beloved, twice), ἐπιπόθητοι (longed for, deeply missed), χαρά (my joy), and στέφανός μου — my crown, the victor's wreath of the games, or the festive garland worn at a celebration. The Philippians are Paul's prize. Then the command, which sums up chapter 3: στήκετε ἐν κυρίῳ — stand firm in the Lord. Do not be moved by the legalists or the libertines.",
+      "words": [
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        },
+        {
+          "strongs": "G1973",
+          "hebrew": "ἐπιπόθητος",
+          "translit": "epipóthētos",
+          "english": "longed for"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        },
+        {
+          "strongs": "G4735",
+          "hebrew": "στέφανος",
+          "translit": "stéphanos",
+          "english": "crown"
+        },
+        {
+          "strongs": "G4739",
+          "hebrew": "στήκω",
+          "translit": "stḗkō",
+          "english": "stand firm"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "I exhort Euodia, and I exhort Syntyche, to think the same way in the Lord.",
+      "understanding": "Two names, and the only direct rebuke in the letter. Εὐοδία — “good journey” or “fragrance” — and Συντύχη — “good fortune.” Two women, leaders and co-workers in the church, who had fallen out. Paul παρακαλέω — urges, appeals to — each of them individually, with the same verb repeated: I appeal to Euodia, and I appeal to Syntyche. He does not take sides. He asks them τὸ αὐτὸ φρονεῖν ἐν κυρίῳ — to have the same mind in the Lord, the mind of 2:2 and 2:5.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G2136",
+          "hebrew": "Εὐοδία",
+          "translit": "Euodía",
+          "english": "Euodia"
+        },
+        {
+          "strongs": "G4941",
+          "hebrew": "Συντύχη",
+          "translit": "Syntýchē",
+          "english": "Syntyche"
+        },
+        {
+          "strongs": "G5426",
+          "hebrew": "φρονέω",
+          "translit": "phronéō",
+          "english": "think"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Yes, I beg you also, true partner, help these women, for they labored with me in the Good News, with Clement also, and the rest of my fellow workers, whose names are in the book of life.",
+      "understanding": "Paul asks a γνήσιε σύζυγε — “true yokefellow,” a genuine partner — to help these women. Who is it? We do not know. Some suggest Epaphroditus, Luke, or a church leader; some think Σύζυγος was a personal name and Paul is punning: “live up to your name.” Paul asks him to συλλαμβάνω — take hold together with, help — these women, because they συναθλέω — contended side by side, the athletic word of 1:27 — with Paul in the gospel. Their names are in the βίβλος ζωῆς, the book of life. A quarrel does not erase a name from that book.",
+      "words": [
+        {
+          "strongs": "G1103",
+          "hebrew": "γνήσιος",
+          "translit": "gnḗsios",
+          "english": "true"
+        },
+        {
+          "strongs": "G4805",
+          "hebrew": "σύζυγος",
+          "translit": "sýzygos",
+          "english": "partner (yokefellow)"
+        },
+        {
+          "strongs": "G4815",
+          "hebrew": "συλλαμβάνω",
+          "translit": "syllambánō",
+          "english": "help"
+        },
+        {
+          "strongs": "G4866",
+          "hebrew": "συναθλέω",
+          "translit": "synathléō",
+          "english": "labored with"
+        },
+        {
+          "strongs": "G2815",
+          "hebrew": "Κλήμης",
+          "translit": "Klḗmēs",
+          "english": "Clement"
+        },
+        {
+          "strongs": "G976",
+          "hebrew": "βίβλος",
+          "translit": "bíblos",
+          "english": "book"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Rejoice in the Lord always! Again I will say, “Rejoice!”",
+      "understanding": "The command at the centre of the letter, given twice: χαίρετε ἐν κυρίῳ πάντοτε — rejoice in the Lord always. Πάλιν ἐρῶ, χαίρετε — again I will say, rejoice! Paul repeats it because he knows how impossible it sounds from a prison cell. But it is not “rejoice in your circumstances”; it is “rejoice in the Lord.” And the Lord does not change when circumstances do. Joy is commanded, which means it is not merely a feeling that happens to you. It is a choice to fix your heart on Christ.",
+      "words": [
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoice"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G3842",
+          "hebrew": "πάντοτε",
+          "translit": "pántote",
+          "english": "always"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Let your gentleness be known to all men. The Lord is at hand.",
+      "understanding": "Τὸ ἐπιεικὲς ὑμῶν — your gentleness, forbearance, graciousness, the quality of yielding rather than insisting on your strict rights — should be γνωσθήτω, made known, to all people. Then four words: ὁ κύριος ἐγγύς — the Lord is near. Near in time (His coming is close) and near in presence (He is right here). Both are true, and both make gentleness possible. You do not need to fight for your rights when the Lord is near.",
+      "words": [
+        {
+          "strongs": "G1933",
+          "hebrew": "ἐπιεικής",
+          "translit": "epieikḗs",
+          "english": "gentleness"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "known"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "men"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1451",
+          "hebrew": "ἐγγύς",
+          "translit": "engýs",
+          "english": "at hand"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God.",
+      "understanding": "Μηδὲν μεριμνᾶτε — be anxious about nothing. Μεριμνάω is the word Jesus used: “don’t be anxious for tomorrow” (Matthew 6:34). Instead, ἐν παντί — in everything — by προσευχή (prayer, worship toward God) and δέησις (specific petition, a request for a need) μετὰ εὐχαριστίας — with thanksgiving — let your αἰτήματα, your specific requests, γνωριζέσθω, be made known to God. The antidote to anxiety is not denial but prayer: turning every worry into a request, wrapped in thanks.",
+      "words": [
+        {
+          "strongs": "G3309",
+          "hebrew": "μεριμνάω",
+          "translit": "merimnáō",
+          "english": "anxious"
+        },
+        {
+          "strongs": "G4335",
+          "hebrew": "προσευχή",
+          "translit": "proseuchḗ",
+          "english": "prayer"
+        },
+        {
+          "strongs": "G1162",
+          "hebrew": "δέησις",
+          "translit": "déēsis",
+          "english": "petition"
+        },
+        {
+          "strongs": "G2169",
+          "hebrew": "εὐχαριστία",
+          "translit": "eucharistía",
+          "english": "thanksgiving"
+        },
+        {
+          "strongs": "G155",
+          "hebrew": "αἴτημα",
+          "translit": "aítēma",
+          "english": "requests"
+        },
+        {
+          "strongs": "G1107",
+          "hebrew": "γνωρίζω",
+          "translit": "gnōrízō",
+          "english": "made known"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.",
+      "understanding": "And the result: ἡ εἰρήνη τοῦ θεοῦ — the peace of God — ἡ ὑπερέχουσα πάντα νοῦν, which surpasses, rises above, all understanding, all mental capacity. It will φρουρέω your hearts and your thoughts in Christ Jesus. Φρουρέω is a military word: to stand guard, to garrison a city. Philippi was a garrison town full of Roman veterans; the Philippians knew what soldiers on guard looked like. God's peace will stand sentry at the gate of your heart and mind. Notice: God does not promise to answer the request immediately. He promises His peace will guard you while you wait.",
+      "words": [
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        },
+        {
+          "strongs": "G5242",
+          "hebrew": "ὑπερέχω",
+          "translit": "hyperéchō",
+          "english": "surpasses"
+        },
+        {
+          "strongs": "G3563",
+          "hebrew": "νοῦς",
+          "translit": "noûs",
+          "english": "understanding"
+        },
+        {
+          "strongs": "G5432",
+          "hebrew": "φρουρέω",
+          "translit": "phrouréō",
+          "english": "guard"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G3540",
+          "hebrew": "νόημα",
+          "translit": "nóēma",
+          "english": "thoughts"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there is any virtue, and if there is any praise, think about these things.",
+      "understanding": "Τὸ λοιπόν — finally — a list of eight things to λογίζομαι: reckon with, think about deliberately, take into account. Ἀληθῆ, true. Σεμνά, honourable, dignified, worthy of respect. Δίκαια, just, right. Ἁγνά, pure, morally clean. Προσφιλῆ, lovely, pleasing, attractive. Εὔφημα, of good report, commendable. And then a summary: if there is any ἀρετή — excellence, moral virtue (the great word of Greek ethics, used only here in Paul) — and any ἔπαινος, anything worthy of praise, λογίζεσθε — think on these. What you feed your mind shapes your peace.",
+      "words": [
+        {
+          "strongs": "G3063",
+          "hebrew": "λοιπόν",
+          "translit": "loipón",
+          "english": "finally"
+        },
+        {
+          "strongs": "G227",
+          "hebrew": "ἀληθής",
+          "translit": "alēthḗs",
+          "english": "true"
+        },
+        {
+          "strongs": "G4586",
+          "hebrew": "σεμνός",
+          "translit": "semnós",
+          "english": "honorable"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "just"
+        },
+        {
+          "strongs": "G53",
+          "hebrew": "ἁγνός",
+          "translit": "hagnós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G4375",
+          "hebrew": "προσφιλής",
+          "translit": "prosphilḗs",
+          "english": "lovely"
+        },
+        {
+          "strongs": "G2163",
+          "hebrew": "εὔφημος",
+          "translit": "eúphēmos",
+          "english": "of good report"
+        },
+        {
+          "strongs": "G703",
+          "hebrew": "ἀρέτη",
+          "translit": "arétē",
+          "english": "virtue"
+        },
+        {
+          "strongs": "G1868",
+          "hebrew": "ἔπαινος",
+          "translit": "épainos",
+          "english": "praise"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logízomai",
+          "english": "think about"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "The things which you learned, received, heard, and saw in me: do these things, and the God of peace will be with you.",
+      "understanding": "Thinking must become doing. What you μανθάνω (learned), παραλαμβάνω (received as tradition), ἀκούω (heard) and εἴδω (saw) in me — πράσσετε, practise these things. And then: the God of peace will be with you. In verse 7 the peace of God guards you; in verse 9 the God of peace Himself is with you. The gift and the Giver.",
+      "words": [
+        {
+          "strongs": "G3129",
+          "hebrew": "μανθάνω",
+          "translit": "manthánō",
+          "english": "learned"
+        },
+        {
+          "strongs": "G3880",
+          "hebrew": "παραλαμβάνω",
+          "translit": "paralambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G4238",
+          "hebrew": "πράσσω",
+          "translit": "prássō",
+          "english": "do"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "But I rejoice in the Lord greatly, that now at length you have revived your thought for me; in which you did indeed take thought, but you lacked opportunity.",
+      "understanding": "Now Paul thanks them for their gift. He rejoiced in the Lord μεγάλως — greatly — that their care for him has ἀναθάλλω — blossomed again, revived like a tree putting out new shoots in spring. They had always cared, Paul adds graciously; they simply lacked opportunity (ἀκαιρέομαι — had no chance, no καιρός).",
+      "words": [
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoice"
+        },
+        {
+          "strongs": "G330",
+          "hebrew": "ἀναθάλλω",
+          "translit": "anathállō",
+          "english": "revived"
+        },
+        {
+          "strongs": "G5426",
+          "hebrew": "φρονέω",
+          "translit": "phronéō",
+          "english": "thought (care)"
+        },
+        {
+          "strongs": "G170",
+          "hebrew": "ἀκαιρέομαι",
+          "translit": "akairéomai",
+          "english": "lacked opportunity"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Not that I speak because of lack, for I have learned in whatever state I am, to be content in it.",
+      "understanding": "Paul is not speaking from ὑστέρησις — want, lack. Then one of the most important sentences in the letter: “I have ἔμαθον — learned — in whatever state I am, to be αὐτάρκης.” Αὐτάρκης was a key word of Stoic philosophy: self-sufficient, independent of circumstances, needing nothing outside oneself. Paul takes the word and transforms it: his sufficiency is not in himself but in Christ (v. 13). And he learned it. Contentment was not his temperament. It was taught to him, through experience.",
+      "words": [
+        {
+          "strongs": "G5304",
+          "hebrew": "ὑστέρησις",
+          "translit": "hystérēsis",
+          "english": "lack"
+        },
+        {
+          "strongs": "G3129",
+          "hebrew": "μανθάνω",
+          "translit": "manthánō",
+          "english": "learned"
+        },
+        {
+          "strongs": "G842",
+          "hebrew": "αὐτάρκης",
+          "translit": "autárkēs",
+          "english": "content"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "I know how to be humbled, and I know also how to abound. In everything and in all things I have learned the secret both to be filled and to be hungry, both to abound and to be in need.",
+      "understanding": "Paul knows how to ταπεινόω — be brought low, humbled (the verb used of Christ in 2:8) — and how to περισσεύω — abound, overflow. In everything and in all things he has μυέω — been initiated into the secret. The word was used of initiation into the mystery religions, where secrets were revealed only to insiders. Paul has learned the secret of being χορτάζω (fed to the full, as cattle are fattened) and of πεινάω (going hungry), of abounding and of ὑστερέω, lacking. Plenty is as much a test as poverty.",
+      "words": [
+        {
+          "strongs": "G5013",
+          "hebrew": "ταπεινόω",
+          "translit": "tapeinóō",
+          "english": "humbled"
+        },
+        {
+          "strongs": "G4052",
+          "hebrew": "περισσεύω",
+          "translit": "perisseúō",
+          "english": "abound"
+        },
+        {
+          "strongs": "G3453",
+          "hebrew": "μυέω",
+          "translit": "myéō",
+          "english": "learned the secret"
+        },
+        {
+          "strongs": "G5526",
+          "hebrew": "χορτάζω",
+          "translit": "chortázō",
+          "english": "filled"
+        },
+        {
+          "strongs": "G3983",
+          "hebrew": "πεινάω",
+          "translit": "peináō",
+          "english": "hungry"
+        },
+        {
+          "strongs": "G5302",
+          "hebrew": "ὑστερέω",
+          "translit": "hysteréō",
+          "english": "be in need"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "I can do all things through Christ, who strengthens me.",
+      "understanding": "The secret revealed: πάντα ἰσχύω — I am able for all things, I have strength for everything — ἐν τῷ ἐνδυναμοῦντί με, in the One who keeps empowering me. (The WEB reads “through Christ”; the earliest manuscripts simply say “in him who strengthens me.”) In context, “all things” means all the circumstances of verse 12 — plenty and hunger, abundance and need. This is not a promise of unlimited achievement. It is the promise that in any situation, Christ's strength is enough to make you content and faithful.",
+      "words": [
+        {
+          "strongs": "G2480",
+          "hebrew": "ἰσχύω",
+          "translit": "ischýō",
+          "english": "can do"
+        },
+        {
+          "strongs": "G1743",
+          "hebrew": "ἐνδυναμόω",
+          "translit": "endynamóō",
+          "english": "strengthens"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "However you did well that you shared in my affliction.",
+      "understanding": "“However” — lest they think he despises their gift — you did καλῶς, well, in συγκοινωνέω — sharing together with me — in my θλῖψις, my pressure. Their gift was not just money; it was fellowship in his suffering.",
+      "words": [
+        {
+          "strongs": "G2573",
+          "hebrew": "καλῶς",
+          "translit": "kalōs",
+          "english": "well"
+        },
+        {
+          "strongs": "G4790",
+          "hebrew": "συγκοινωνέω",
+          "translit": "synkoinōnéō",
+          "english": "shared"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "affliction"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "You yourselves also know, you Philippians, that in the beginning of the Good News, when I departed from Macedonia, no assembly shared with me in the matter of giving and receiving but you only.",
+      "understanding": "A grateful memory. In the beginning of the gospel in their region, when Paul left Μακεδονία, no church κοινωνέω — shared — with him in the matter of δόσις καὶ λῆμψις, giving and receiving — a technical business phrase, a credit-and-debit account — except them alone. Partnership in the gospel included money from the first day.",
+      "words": [
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        },
+        {
+          "strongs": "G3109",
+          "hebrew": "Μακεδονία",
+          "translit": "Makedonía",
+          "english": "Macedonia"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G2841",
+          "hebrew": "κοινωνέω",
+          "translit": "koinōnéō",
+          "english": "shared"
+        },
+        {
+          "strongs": "G1394",
+          "hebrew": "δόσις",
+          "translit": "dósis",
+          "english": "giving"
+        },
+        {
+          "strongs": "G3028",
+          "hebrew": "λῆμψις",
+          "translit": "lēmpsis",
+          "english": "receiving"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "For even in Thessalonica you sent once and again to my need.",
+      "understanding": "Even in Thessalonica, while Paul was still in the region and only a hundred miles away, they sent help ἅπαξ καὶ δίς — once and again, more than once — for his χρεία, his need. A young church, itself poor (2 Corinthians 8:2), supporting its founder.",
+      "words": [
+        {
+          "strongs": "G5532",
+          "hebrew": "χρεία",
+          "translit": "chreía",
+          "english": "need"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Not that I seek for the gift, but I seek for the fruit that increases to your account.",
+      "understanding": "Paul does not ἐπιζητέω — seek, crave — the δόμα, the gift itself. He seeks the καρπός — the fruit, the profit — that πλεονάζω, increases, εἰς λόγον ὑμῶν, to their account. Again the language of business: their giving is an investment credited to their own account with God. Paul is more excited about what it does for them than what it does for him.",
+      "words": [
+        {
+          "strongs": "G1934",
+          "hebrew": "ἐπιζητέω",
+          "translit": "epizētéō",
+          "english": "seek"
+        },
+        {
+          "strongs": "G1390",
+          "hebrew": "δόμα",
+          "translit": "dóma",
+          "english": "gift"
+        },
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpós",
+          "english": "fruit"
+        },
+        {
+          "strongs": "G4121",
+          "hebrew": "πλεονάζω",
+          "translit": "pleonázō",
+          "english": "increases"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "account"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "But I have all things, and abound. I am filled, having received from Epaphroditus the things that came from you, a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God.",
+      "understanding": "Ἀπέχω — a technical receipt formula: “paid in full,” used on business receipts. I have received everything; I περισσεύω, abound; I am πεπλήρωμαι, filled. Then the gift is described in the language of temple sacrifice: ὀσμὴ εὐωδίας — a fragrant aroma — θυσία δεκτή — an acceptable sacrifice — εὐάρεστος τῷ θεῷ, well-pleasing to God. Their gift to a prisoner was worship rising to God.",
+      "words": [
+        {
+          "strongs": "G568",
+          "hebrew": "ἀπέχω",
+          "translit": "apéchō",
+          "english": "have"
+        },
+        {
+          "strongs": "G4052",
+          "hebrew": "περισσεύω",
+          "translit": "perisseúō",
+          "english": "abound"
+        },
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "filled"
+        },
+        {
+          "strongs": "G3744",
+          "hebrew": "ὀσμή",
+          "translit": "osmḗ",
+          "english": "sweet-smelling"
+        },
+        {
+          "strongs": "G2175",
+          "hebrew": "εὐωδία",
+          "translit": "euōdía",
+          "english": "fragrance"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifice"
+        },
+        {
+          "strongs": "G1184",
+          "hebrew": "δεκτός",
+          "translit": "dektós",
+          "english": "acceptable"
+        },
+        {
+          "strongs": "G2101",
+          "hebrew": "εὐάρεστος",
+          "translit": "euárestos",
+          "english": "well-pleasing"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "My God will supply every need of yours according to his riches in glory in Christ Jesus.",
+      "understanding": "The great promise that answers their generosity. They had supplied Paul's need; now Paul says: ὁ θεός μου — my God — πληρώσει — will fill up, supply — πᾶσαν χρείαν ὑμῶν, every need of yours. Not every want, but every need. And the measure: κατὰ τὸ πλοῦτος αὐτοῦ ἐν δόξῃ — according to, not merely out of, His riches in glory in Christ Jesus. A billionaire who gives a dollar gives out of his riches; one who gives according to his riches gives in proportion to them.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "supply"
+        },
+        {
+          "strongs": "G5532",
+          "hebrew": "χρεία",
+          "translit": "chreía",
+          "english": "need"
+        },
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "riches"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Now to our God and Father be the glory forever and ever! Amen.",
+      "understanding": "Paul cannot help himself: a doxology. To our God and Father be the δόξα — glory — εἰς τοὺς αἰῶνας τῶν αἰώνων, to the ages of the ages. Ἀμήν. The letter that began with thanksgiving ends in worship.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        },
+        {
+          "strongs": "G281",
+          "hebrew": "ἀμήν",
+          "translit": "amḗn",
+          "english": "Amen"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "Greet every saint in Christ Jesus. The brothers who are with me greet you.",
+      "understanding": "Ἀσπάσασθε — greet — every saint, each one individually, in Christ Jesus. Not just the leaders; every believer. The brothers with Paul send greetings.",
+      "words": [
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "greet"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saint"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "All the saints greet you, especially those who are of Caesar’s household.",
+      "understanding": "All the saints greet you, μάλιστα — especially — those of Καίσαρος οἰκία, Caesar's household. This does not mean the emperor's family, but the large staff of slaves and freedmen who served the imperial administration, in Rome and elsewhere. The gospel had reached into the emperor's own establishment. A prisoner in chains had friends in the palace.",
+      "words": [
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "greet"
+        },
+        {
+          "strongs": "G2541",
+          "hebrew": "Καῖσαρ",
+          "translit": "Kaîsar",
+          "english": "Caesar"
+        },
+        {
+          "strongs": "G3614",
+          "hebrew": "οἰκία",
+          "translit": "oikía",
+          "english": "household"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "The grace of the Lord Jesus Christ be with you all. Amen.",
+      "understanding": "The letter closes as it began: ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ — the grace of the Lord Jesus Christ — be with your spirit (as the earliest manuscripts read; the WEB has “with you all”). Grace at the beginning (1:2), grace at the end. Everything in between — joy, humility, pressing on, contentment — grows in that soil.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G281",
+          "hebrew": "ἀμήν",
+          "translit": "amḗn",
+          "english": "Amen"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Sentries at the Gate",
+      "verseRef": "v. 6-7",
+      "image": "Picture the gate of Philippi at night. Roman veterans stand guard, armour glinting in torchlight, spears in hand, watching the road. Nothing gets in without their permission. Philippi was a garrison city; its people slept soundly because soldiers watched the walls. Now picture your own heart and mind as a city under siege by night: anxious thoughts approaching from every direction, whispering what might happen, what could go wrong, what you cannot control. And then a garrison arrives and takes position at the gates. Not your own effort, not positive thinking — the peace of God, standing sentry.",
+      "meaning": "“In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.” The verb φρουρέω is military: to garrison, to stand guard. Notice what God promises and what He does not. He does not promise that every request will be granted immediately or as you asked. He promises that His peace will guard you — a peace that “surpasses all understanding,” that makes no sense in your circumstances. And the doorway to it is specific: everything, turned into prayer, wrapped in thanksgiving. Anxiety says, “I must carry this.” Prayer says, “Lord, You carry it.” And then the sentries take their posts."
+    },
+    {
+      "title": "The Initiate's Secret",
+      "verseRef": "v. 11-13",
+      "image": "Picture a temple of the mystery religions — Isis, perhaps, or Dionysus, both popular in Philippi. Initiates go through secret rituals at night, and are taught hidden knowledge that outsiders are never told. They come out believing they hold the key to life. Paul uses their word in verse 12, μυέω: “I have learned the secret.” But his secret was not learned in a temple ritual. It was learned in a stone cell and on hungry roads, in shipwrecks and in comfortable houses, in times of plenty and times of nothing. And it is this: “I can do all things through Christ, who strengthens me.”",
+      "meaning": "Philippians 4:13 is one of the most quoted and most misused verses in the Bible. It is printed on sports shirts as a promise of victory. But in context, the “all things” are the circumstances of verse 12: being brought low and abounding, being full and being hungry, having plenty and being in need. The secret Paul learned is contentment in any situation, through the strength of Christ. That is harder and greater than winning a game. Notice also that plenty is listed as a test, just as need is. Many believers can pray faithfully in poverty but drift in prosperity. The secret is the same for both: not your circumstances, not your self-sufficiency, but Christ, who keeps on strengthening you. He is enough when you have nothing, and He is better than everything when you have much."
+    },
+    {
+      "title": "Smoke Rising From a Gift",
+      "verseRef": "v. 15-19",
+      "image": "Picture Epaphroditus setting out from Philippi on the long road to Rome, carrying a bag of coins collected from a church that was itself poor. Ordinary believers had given what they could spare — and some, Paul says elsewhere, what they could not (2 Corinthians 8:2–3). Now picture what Paul sees in that bag. Not merely money. He sees smoke rising from an altar, the sweet aroma of an offering ascending to God. “A sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God” (v. 18). The coins given to a prisoner had become worship.",
+      "meaning": "The Philippians' generosity to Paul was not charity to a man; it was a sacrifice to God. That is how Scripture sees every gift given in love for the sake of the gospel. And Paul says he is not excited about the gift for his own sake but for “the fruit that increases to your account” (v. 17) — the eternal reward credited to them. And then the promise: “My God will supply every need of yours according to his riches in glory in Christ Jesus” (v. 19). This promise is given to people who had just given generously. It is not a guarantee of wealth, and it is about needs, not wants. But it means that no one ever becomes poorer by giving to God's work. The God who received their sacrifice will supply them out of resources that never run out."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Stand Firm and Be of One Mind (v. 1-3)",
+        "body": "Paul's beloved, longed-for crown are to stand firm in the Lord; he appeals to Euodia and Syntyche to agree in the Lord, and asks a true partner to help these co-workers whose names are in the book of life."
+      },
+      {
+        "label": "Joy, Gentleness, Prayer and Peace (v. 4-7)",
+        "body": "Rejoice in the Lord always; let your gentleness be known, for the Lord is near; be anxious about nothing, but bring everything to God in prayer with thanksgiving, and His peace will guard your hearts and minds."
+      },
+      {
+        "label": "Think on These Things, Do These Things (v. 8-9)",
+        "body": "Fix your thoughts on what is true, honourable, just, pure, lovely, commendable, excellent and praiseworthy, and practise what you learned from Paul, and the God of peace will be with you."
+      },
+      {
+        "label": "The Secret of Contentment (v. 10-13)",
+        "body": "Paul rejoices in their renewed care, but not from need: he has learned to be content in every circumstance, humbled or abounding, full or hungry, because he can do all things through Christ who strengthens him."
+      },
+      {
+        "label": "A Gift That Is a Sacrifice (v. 14-20)",
+        "body": "Their partnership in giving from the beginning is a fragrant offering to God; Paul seeks the fruit credited to them; God will supply all their needs according to His riches in glory in Christ Jesus. Glory to God forever."
+      },
+      {
+        "label": "Final Greetings (v. 21-23)",
+        "body": "Greet every saint; all the saints greet you, especially those of Caesar's household; the grace of the Lord Jesus Christ be with you."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Two Names and a Plea: Unity at Close Range",
+        "paragraphs": [
+          "Chapter 4 opens with an outpouring of affection — “my brothers, beloved and longed for, my joy and crown” (v. 1) — and then does something Paul rarely does: names two people in a public letter. “I exhort Euodia, and I exhort Syntyche, to think the same way in the Lord” (v. 2). These were not marginal figures. Paul says they “labored with me in the Good News” (v. 3), using the athletic word συναθλέω, contended side by side, the same word as 1:27. They were co-workers in his mission, probably leaders in the Philippian church. And they had fallen out. We are not told what about, and that is probably deliberate. The issue mattered less than the division.",
+          "Notice how Paul handles it. He repeats the verb separately for each woman — I appeal to Euodia, I appeal to Syntyche — refusing to take sides. He asks them “to think the same way in the Lord,” using φρονέω, the key verb of the letter, which recalls 2:2 (“being like-minded”) and 2:5 (“have this in your mind, which was also in Christ Jesus”). The whole hymn of chapter 2 was, among other things, preparation for this sentence. The solution to their conflict is not compromise but a shared orientation toward Christ, who emptied Himself. He also enlists help: a “true partner” or “true yokefellow,” whose identity is unknown — possibly a leader in the church, possibly a man actually named Syzygus, which would make Paul's phrase a pun on his name. Conflicts between believers are often not resolved by the two parties alone; they need a wise third person who loves both.",
+          "And Paul adds one more phrase about these quarrelling women: their names “are in the book of life” (v. 3). That is a striking thing to say about two Christians who are not speaking to each other. Paul does not threaten their salvation; he reminds them of it. Their names are written in the same book. They are fellow citizens of heaven (3:20). Jesus told His disciples to “rejoice that your names are written in heaven” (Luke 10:20). When you remember that the person you are in conflict with is enrolled in the same book of life as you, it becomes much harder to keep the quarrel going."
+        ]
+      },
+      {
+        "heading": "From Anxiety to Peace: The Pathway of Verses 4 to 9",
+        "paragraphs": [
+          "Verses 4 to 9 are among the most practical and beloved in the New Testament, and they form a pathway. It begins with joy: “Rejoice in the Lord always! Again I will say, ‘Rejoice!’” (v. 4). The repetition shows that Paul knows how hard this is, especially for a persecuted church, and especially coming from a prisoner. But the key words are “in the Lord.” He does not command them to rejoice in their circumstances; he commands them to rejoice in a Person who does not change. Then gentleness: “Let your gentleness be known to all men. The Lord is at hand” (v. 5). Ἐπιεικής describes a gracious, yielding spirit that does not insist on its rights. And “the Lord is at hand” means both that His coming is near and that He is present now. Either way, you do not need to fight.",
+          "Then the heart of the passage: “In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus” (vv. 6–7). Paul is not telling them to suppress worry or pretend things are fine. He is telling them what to do with it: convert it into prayer. Every anxiety becomes a request; every request is wrapped in thanksgiving, remembering what God has already done. Jesus taught the same: “don’t be anxious… for your heavenly Father knows that you need all these things. But seek first God’s Kingdom” (Matthew 6:31–33). And Peter: “casting all your worries on him, because he cares for you” (1 Peter 5:7). The promise is not that God will do exactly what you ask, but that His peace will garrison your heart and mind like soldiers guarding a city.",
+          "The pathway continues into the mind. “Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there is any virtue, and if there is any praise, think about these things” (v. 8). The verb λογίζομαι means to reckon, to take into account, to dwell on deliberately. Anxiety feeds on false, ugly, fearful imaginings; peace is nourished by what is true and good. Paul even uses ἀρετή, virtue, a favourite word of Greek moral philosophy, which he uses nowhere else — as if to say that wherever genuine goodness is found, even in the wider culture, it can be thought about with gratitude, because it reflects the God who made it. And then from thinking to doing: “The things which you learned, received, heard, and saw in me: do these things, and the God of peace will be with you” (v. 9). In verse 7 the peace of God guards you. In verse 9 the God of peace walks with you."
+        ]
+      },
+      {
+        "heading": "Content in Christ, Generous Toward Christ",
+        "paragraphs": [
+          "The last section of the letter is Paul's thank-you for the Philippians' gift, and it contains one of the great statements of Christian contentment. Paul is careful not to sound as though he was begging: “Not that I speak because of lack, for I have learned in whatever state I am, to be content in it” (v. 11). The word αὐτάρκης was central to Stoic philosophy, which taught that the wise man should be self-sufficient, independent of circumstances, needing nothing outside himself. Paul borrows the word but changes its foundation entirely. His sufficiency is not in himself but in Christ. And it was “learned.” Contentment did not come naturally even to an apostle; it was taught to him through a lifetime of both hardship and plenty.",
+          "Verse 12 lists the curriculum: being humbled and abounding, being filled and being hungry, having plenty and being in need. Notice that abundance is on the list. Paul had to learn how to handle plenty as well as poverty, because prosperity can draw a heart away from God as easily as hardship can make it bitter. The word μυέω, “I have learned the secret,” was a technical term for initiation into the mystery cults. And the secret is: “I can do all things through Christ, who strengthens me” (v. 13). In its context this verse is not a promise of unlimited success but of sufficient strength — strength to be content and faithful in any circumstance. The writer of Hebrews gives the same foundation: “content with such things as you have, for he has said, ‘I will in no way leave you, neither will I in any way forsake you’” (Hebrews 13:5).",
+          "Then Paul turns to the gift itself, and he speaks of it with deep gratitude and theological richness. They had shared his affliction (v. 14). From the beginning they alone had partnered with him “in the matter of giving and receiving” (v. 15), sending help repeatedly even in Thessalonica (v. 16). Paul is not after their money; he is after “the fruit that increases to your account” (v. 17) — the eternal reward their generosity earns. He writes a receipt, “I have all things, and abound” (v. 18), and describes their gift as “a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God,” the language of temple offerings and the same phrase used of Christ's own sacrifice in Ephesians 5:2. And then the promise that has sustained generous believers ever since: “My God will supply every need of yours according to his riches in glory in Christ Jesus” (v. 19). The letter ends with worship (v. 20), greetings from Christians even in Caesar's household (v. 22), and grace (v. 23). A prisoner's letter, full of joy, ends with friends in the emperor's palace."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Paul's teaching on anxiety and prayer in verses 6 and 7 stands on the words of Jesus in the Sermon on the Mount: “Therefore don’t be anxious, saying, ‘What will we eat?’, ‘What will we drink?’ or, ‘With what will we be clothed?’ For the Gentiles seek after all these things; for your heavenly Father knows that you need all these things. But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well. Therefore don’t be anxious for tomorrow” (Matthew 6:31–34). The same verb, μεριμνάω. Peter echoes it: “casting all your worries on him, because he cares for you” (1 Peter 5:7). And the peace that guards the heart is the peace Jesus promised on the night before He died: “Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be fearful” (John 14:27). Paul tells the Colossians to “let the peace of God rule in your hearts” (Colossians 3:15).",
+        "Paul's “Rejoice in the Lord always” (v. 4) is matched in his first letter: “Rejoice always. Pray without ceasing. In everything give thanks, for this is the will of God in Christ Jesus toward you” (1 Thessalonians 5:16–18). Notice how joy, prayer and thanksgiving travel together in both passages. And the contentment of verses 11 to 13 is taught across the New Testament: “godliness with contentment is great gain. For we brought nothing into the world, and we certainly can’t carry anything out. But having food and clothing, we will be content with that” (1 Timothy 6:6–8). Paul's own experience of Christ's strength in weakness is described in 2 Corinthians: “Therefore I take pleasure in weaknesses, in injuries, in necessities, in persecutions, in distresses, for Christ’s sake. For when I am weak, then am I strong” (2 Corinthians 12:10).",
+        "The theology of giving in verses 15 to 19 is developed in 2 Corinthians, where Paul describes the Macedonian churches, Philippi among them: “in much proof of affliction the abundance of their joy and their deep poverty abounded to the riches of their generosity” (2 Corinthians 8:2). He confirms their support of him in Corinth: “the brothers, when they came from Macedonia, supplied the measure of my need” (2 Corinthians 11:9). And the promise of verse 19 is paralleled there: “God is able to make all grace abound to you, that you, always having all sufficiency in everything, may abound to every good work” (2 Corinthians 9:8). The description of their gift as “a sweet-smelling fragrance” echoes the description of Christ's own self-offering: Christ “gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance” (Ephesians 5:2). When believers give sacrificially, their gift carries the same fragrance as the cross."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Be anxious",
+      "hebrew": "μεριμνάω",
+      "translit": "merimnáō",
+      "strongs": "G3309",
+      "verses": "v. 6 (and 2:20)",
+      "insight": "Strong's: “to be anxious about.” Μεριμνάω is related to μερίζω, to divide, and the image is often explained as a mind pulled in different directions. Jesus used it six times in Matthew 6:25–34, and to Martha, who was “anxious and troubled about many things” (Luke 10:41). Interestingly, Paul uses the same verb positively in 2:20 of Timothy, who “will truly care” for the Philippians. The difference is direction: concern for others' welfare, carried to God, is love; worry about what you cannot control, carried alone, is anxiety. Paul's command is not “stop caring,” but “turn every care into prayer.”"
+    },
+    {
+      "english": "Guard / garrison",
+      "hebrew": "φρουρέω",
+      "translit": "phrouréō",
+      "strongs": "G5432",
+      "verses": "v. 7",
+      "insight": "Strong's: “to be a watcher in advance, i.e. to mount guard as a sentinel (post spies at gates); figuratively, to hem in, protect.” It was used of soldiers guarding a city. In 2 Corinthians 11:32 it describes the governor of Damascus guarding the city to arrest Paul; and Peter says believers “by the power of God are guarded through faith” (1 Peter 1:5). For the Philippians, whose city was a military colony full of veterans, the image was vivid: God's peace will stand sentry over your heart and mind. You are not left to defend the gate yourself. Peace is not the absence of threats; it is a garrison posted against them."
+    },
+    {
+      "english": "Think about / reckon / dwell on",
+      "hebrew": "λογίζομαι",
+      "translit": "logízomai",
+      "strongs": "G3049",
+      "verses": "v. 8 (and 3:13)",
+      "insight": "Strong's: “to take an inventory, i.e. estimate (literally or figuratively).” This is the accounting word of 1 Corinthians 13:5 (love “takes no account of evil”) and Romans 4 (righteousness “counted”). Here it means to take into account deliberately, to let something fill your mental ledger. You will think about something; the question is what. Anxiety takes inventory of every possible danger. Paul tells believers to take inventory of what is true, honourable, just, pure, lovely, commendable, excellent and praiseworthy. This is not denial of reality; “true” is the first item on the list. It is a deliberate choice about what you allow to occupy your mind."
+    },
+    {
+      "english": "Content / self-sufficient",
+      "hebrew": "αὐτάρκης",
+      "translit": "autárkēs",
+      "strongs": "G842",
+      "verses": "v. 11 (noun αὐτάρκεια in 2 Corinthians 9:8; 1 Timothy 6:6)",
+      "insight": "Strong's: “self-complacent, i.e. contented.” The word was a cornerstone of Stoic and Cynic philosophy, describing the ideal wise man who is independent of circumstances and needs nothing outside himself. Paul takes this famous word and redefines it. His sufficiency is not self-sufficiency; it is Christ-sufficiency: “I can do all things through Christ, who strengthens me” (v. 13). The noun form appears in 1 Timothy 6:6: “godliness with contentment is great gain.” Contentment in Christian terms is not detachment from life; it is resting in the sufficiency of Christ whatever life brings — and it is “learned,” step by step, through both hardship and plenty."
+    },
+    {
+      "english": "Strengthens / empowers",
+      "hebrew": "ἐνδυναμόω",
+      "translit": "endynamóō",
+      "strongs": "G1743",
+      "verses": "v. 13",
+      "insight": "Strong's: “to empower.” The word is built from ἐν (in) and δύναμις (power): to put power into someone. The present participle in verse 13 means “the One who keeps on strengthening me” — not a one-time charge but a continuous supply. Paul uses the same verb when he thanks “him who enabled me, Christ Jesus our Lord” (1 Timothy 1:12), when he remembers that “the Lord stood by me, and strengthened me” (2 Timothy 4:17), and when he commands, “be strong in the Lord” (Ephesians 6:10). Paul's strength for contentment did not come from within. It came, moment by moment, from Christ. That is why the verse is not a boast about Paul's ability, but a confession of his dependence."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the conflict you have not resolved, the anxiety you have not surrendered, and the contentment you have not yet learned.",
+    "items": [
+      {
+        "title": "The Name in the Same Book",
+        "body": "There is someone in the body of Christ you are not at peace with. Perhaps it is a small rift; perhaps it is years old. You may be right about the issue. Paul did not even tell us what Euodia and Syntyche disagreed about, because it did not matter as much as their division. The Spirit is reminding you that the person you are estranged from has their name written in the same book of life as yours. You will spend eternity together. Is there a reason to wait? Ask God for the mind of Christ toward them, and for a “true partner” who can help you both. Then take the first step."
+      },
+      {
+        "title": "The Worry You Keep Carrying",
+        "body": "You have been anxious about something for a long time. You have thought about it at night, rehearsed it in the car, discussed it with friends. But have you actually turned it into specific prayer, with thanksgiving, and left it with God? The Spirit is offering you a trade: your anxiety for His peace. Not necessarily the outcome you want, but a peace that surpasses understanding, guarding your heart and mind like soldiers at a city gate. Name the worry. Write it down as a request. Thank God for something specific He has already done. Then hand it over — and hand it over again each time you pick it back up."
+      },
+      {
+        "title": "Learning the Secret",
+        "body": "Contentment is not natural; Paul had to learn it. And the Spirit is using your circumstances right now as part of your curriculum. If you are in a season of need, He is teaching you that Christ is enough when you have little. If you are in a season of plenty, He is teaching you that Christ is better than everything you have, and testing whether your heart is still His. In either case the secret is the same: “I can do all things through Christ, who strengthens me.” Where are you discontent? What are you telling yourself you need in order to be happy? Bring it to Christ and ask Him to be enough."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Euodia–Syntyche Check",
+        "body": "Is there a believer you are not of one mind with — a co-worker, a family member, someone in your church? Write their name. Then write: “Their name is in the book of life.” Ask: what would it take for us to think the same way in the Lord? What is my first step?"
+      },
+      {
+        "title": "The Anxiety Inventory",
+        "body": "List the three things you are most anxious about right now. Beside each, write whether you have genuinely prayed about it with thanksgiving, or only worried about it. Circle any you have not truly handed to God."
+      },
+      {
+        "title": "The Mind-Diet Check",
+        "body": "Look at the eight qualities in verse 8. Then think about what you fed your mind with over the last week — news, social media, entertainment, conversations, thoughts. How much of it was true, honourable, just, pure, lovely and commendable? What one change would improve your mental diet?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "The Philippians 4:6 Exchange",
+        "body": "Each morning this week, take your Anxiety Inventory and pray through it using verse 6 as a pattern. For each worry: (1) name it specifically to God as a request; (2) thank Him for one specific thing related to it that He has already done or provided; (3) say aloud, “Lord, I make this known to You, and I trust You with it.” Then read verse 7 aloud as a promise. Whenever the worry returns during the day, repeat the exchange briefly. At the end of the week, write down what you noticed about your peace."
+      },
+      {
+        "title": "A Fragrant Offering",
+        "body": "The Philippians' gift to Paul became “a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God.” This week, give a sacrificial gift — money, time, a meal, practical help — to someone serving in gospel ministry who is in need: a missionary, a pastor, a believer suffering for their faith. Do it quietly. When you give, pray: “Lord, receive this as a fragrant offering to You.” Then write verse 19 on a card and keep it where you will see it, as God's promise to those who give."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord, I stand firm in You. Thank You for the brothers and sisters who are my joy and crown. Where I am not of one mind with someone whose name is written in Your book of life, give us Your mind, and send a true partner to help us. Lord Jesus, I rejoice in You — always, and again I say, rejoice. Not in my circumstances, but in You, who do not change. Let my gentleness be known to everyone, because You are near. I bring You every anxiety. I will not carry them alone. Here are my requests, made known to You with thanksgiving for all You have already done. Let Your peace, which surpasses all understanding, stand guard over my heart and my mind in Christ Jesus. Teach me to think on whatever is true, honourable, just, pure, lovely and of good report, and to practise what I have learned. God of peace, be with me. Lord, teach me the secret Paul learned: to be content in every circumstance — humbled or abounding, full or hungry, in plenty or in need. I can do all things through Christ who strengthens me. Make my giving a fragrant offering to You. And thank You, my God, that You will supply every need of mine according to Your riches in glory in Christ Jesus. To You, our God and Father, be glory forever and ever. Amen.”",
+  "storyConnections": [
+    {
+      "title": "Hannah Pours Out Her Soul",
+      "ref": "1 Samuel 1:1-20",
+      "relatedVerses": "v. 6-7",
+      "summary": "Hannah was barren, and year after year her rival Peninnah provoked her, until she wept and would not eat. At the house of the LORD in Shiloh, deeply distressed, she prayed and wept bitterly and made a vow, pouring out her soul before the LORD so intensely that Eli the priest thought she was drunk. She explained that she was a woman troubled in spirit who had been pouring out her soul to God. Eli blessed her, and she went her way, and ate, and her face was no longer sad. Nothing in her circumstances had changed yet; she was not yet pregnant. But she had made her request known to God, and peace had come before the answer. That is Philippians 4:6–7 a thousand years earlier."
+    },
+    {
+      "title": "The Jar of Flour and the Jug of Oil",
+      "ref": "1 Kings 17:1-16",
+      "relatedVerses": "v. 11-13, 19",
+      "summary": "During a drought sent as judgment, God first fed Elijah by ravens at a brook, and when the brook dried up, sent him to a widow in Zarephath. She had only a handful of flour and a little oil, and was gathering sticks to make a last meal for herself and her son before they died. Elijah told her not to fear, but to make him a small cake first, because the jar of flour would not run out and the jug of oil would not fail until the LORD sent rain. She did as he said, and she and her household ate for many days. Elijah learned contentment in two very different places — beside a brook with ravens and in a widow's poor house. And the widow who gave first from her poverty found that God supplied her every need. Philippians 4:19 was true in Zarephath."
+    },
+    {
+      "title": "Singers Sent Out Before the Army",
+      "ref": "2 Chronicles 20:1-30",
+      "relatedVerses": "v. 4-7",
+      "summary": "A vast army came against Judah, and King Jehoshaphat was afraid. But instead of panicking, he set himself to seek the LORD, proclaimed a fast and stood before the people in prayer, confessing that they had no power against this great multitude and did not know what to do, but their eyes were on God. God answered that the battle was not theirs but His. The next morning Jehoshaphat appointed singers to go out ahead of the army, praising the beauty of holiness and singing that the LORD's lovingkindness endures forever. As they began to sing and praise, the LORD set ambushes, and the enemy armies destroyed one another. Fear was turned into prayer, prayer into thanksgiving, and thanksgiving into victory. The king who did not know what to do learned to rejoice in the Lord before he saw the outcome."
+    }
+  ]
+}
