@@ -67,6 +67,7 @@ only marked ✅ when its checks actually ran and passed.
 | Chapter 12 | 50KB | 31/31 | ✅ | ✅ (166 total) | Clean first pass |
 | Chapter 13 | 40KB | 13/13 | ✅ | ✅ (179 total) | “The perfect” (v. 10) read from v. 12 (Christ’s return), per strongest textual reading |
 | Chapter 14 | 61KB | 40/40 | ✅ | ✅ (193 total) | 14:34–35 handled with the reading consistent with 11:5; two quote fixes |
+| Chapter 15 | 72KB | 58/58 | ✅ | ✅ (208 total) | Firstfruits-day claim softened to match the calendar dispute; 15:29 handled honestly |
 
 ### CP-05 ⚠️ Data bug found: single-chapter books fetched as one verse
 - `sources/bible/{philemon,2john,3john,jude}-1.json` each hold only verse 1 (bible-api read
