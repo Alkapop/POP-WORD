@@ -39,7 +39,7 @@ only marked ✅ when its checks actually ran and passed.
 |---|------|--------|
 | 36–39 | Zephaniah, Haggai, Zechariah, Malachi | ✅ live |
 | 40–45 | Matthew, Mark, Luke, John, Acts, Romans | ✅ live |
-| 46 | **1 Corinthians** (16 ch.) | ⏳ in progress — was skipped |
+| 46 | **1 Corinthians** (16 ch.) | ✅ built & verified this session |
 | 47–49 | 2 Corinthians, Galatians, Ephesians | ✅ live |
 | 50 | Philippians (4 ch.) | next |
 
@@ -69,6 +69,9 @@ only marked ✅ when its checks actually ran and passed.
 | Chapter 14 | 61KB | 40/40 | ✅ | ✅ (193 total) | 14:34–35 handled with the reading consistent with 11:5; two quote fixes |
 | Chapter 15 | 72KB | 58/58 | ✅ | ✅ (208 total) | Firstfruits-day claim softened to match the calendar dispute; 15:29 handled honestly |
 | Chapter 16 | 46KB | 24/24 | ✅ | ✅ (231 total) | Caught & fixed: 2 Corinthians 8:21 was in non-WEB wording |
+| Final Masterclass Review | 25KB | — | ✅ | ✅ (272 total) | Road Ahead → 2 Corinthians, Galatians (consistent with their existing bridges) |
+
+**Book total:** 16 chapters, 437/437 verses, 1,590 Greek word tags (every lemma from Strong's), 80 lexicon entries, 272 referenced quotations verified against the WEB. Compiled `app/data/books/1corinthians.js` = 888KB.
 
 ### CP-05 ⚠️ Data bug found: single-chapter books fetched as one verse
 - `sources/bible/{philemon,2john,3john,jude}-1.json` each hold only verse 1 (bible-api read
@@ -78,3 +81,23 @@ only marked ✅ when its checks actually ran and passed.
 - **Blocked here:** bible-api.com is not allowed by this cloud environment's network policy.
   Run `node build/fetch-nt.mjs` on a machine with internet (or allow bible-api.com) before
   writing Philemon, 2 John, 3 John or Jude.
+
+### CP-06 ✅ G3 render gate — 1 Corinthians in a real browser
+- Headless Chromium opened all 18 documents: every section present (6/9/5), all 437 verses and
+  1,590 word chips rendered, verse tap + Greek lexicon panel work, zero page/console errors.
+  Saved as `build/render-check.cjs`.
+
+### CP-07 ✅ Renderer fix — doubled quotation marks (affected the live site)
+- The app wraps theme titles and prayers in quotation marks; most content already included
+  them, so 122 of 197 live chapters showed ““…””. `render.js` now strips existing outer quotes
+  (`unq`). Verified on all 239 pages of all 14 books: zero doubled quotes, zero errors.
+
+### CP-08 ✅ G4 sync
+- `app/` copied to POP-WORD-PAGES; `diff -rq` byte-identical; G3 re-run against the Pages
+  folder itself: PASSED.
+
+### Next session
+1. Philippians (book 50, 4 ch.). Bridge from Ephesians; Road Ahead → Colossians, 1 Thessalonians.
+2. Re-fetch single-chapter books (CP-05) before Philemon / 2–3 John / Jude.
+3. Backlog: correct the ~25 NOT-IN-WEB quotations and 32 inflected-lemma tags in older books
+   (`node build/verify-content.mjs` lists every one).
