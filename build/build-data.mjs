@@ -131,7 +131,11 @@ for (const bookId of bookDirs) {
   for (let n = 1; existsSync(join(dir, `chapter-${n}.json`)); n++) chapters.push(read(`chapter-${n}.json`));
 
   if (!intro || !review || chapters.length === 0 || chapters.some(c => !c)) {
-    warnings.push(`${bookId}: incomplete (intro:${!!intro} chapters:${chapters.length} review:${!!review}) — skipped`);
+    // Still validate whatever has been written, so a book can be checked chapter by chapter.
+    if (intro) validateIntro(intro, `${bookId}/master-introduction.json`);
+    chapters.forEach((c, i) => c && validateChapter(c, `${bookId}/chapter-${i + 1}.json`, bookId));
+    if (review) validateReview(review, `${bookId}/final-review.json`);
+    warnings.push(`${bookId}: in progress (intro:${!!intro} chapters:${chapters.length} review:${!!review}) — validated, not compiled`);
     continue;
   }
 

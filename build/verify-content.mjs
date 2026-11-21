@@ -75,7 +75,7 @@ function corpus() {
    WRONG-REF   the reference names a book explicitly and the words exist, but not near that verse. */
 const REF = /\(?\s*((?:[123] )?[A-Z][a-z]+)?\s?(\d{1,3}):(\d{1,3})(?:[-–](\d{1,3}))?/;
 function checkQuotes(text, defaultBook, where, out) {
-  const re = /“([^“”]{25,}?)”([^“]{0,40})/g;
+  const re = /“([^“”]{14,}?)”([^“]{0,40})/g;
   let m;
   while ((m = re.exec(text))) {
     const r = m[2].match(REF);
@@ -90,6 +90,7 @@ function checkQuotes(text, defaultBook, where, out) {
     const frags = quote.split(/…|\.\.\./).map(words).filter(f => f.split(' ').length >= 3);
     if (!frags.length) continue;
     const missing = frags.filter(f => !corpus().includes(f));
+    checkedQuotes++;
     const show = `“${m[1].slice(0, 90)}${m[1].length > 90 ? '…' : ''}” → ${r[0].replace(/^\(/, '').trim()}`;
     if (missing.length) { out.push(`${where}: NOT-IN-WEB ${show}`); continue; }
     if (bookName && verses) {
@@ -132,7 +133,7 @@ const books = readdirSync(contentDir, { withFileTypes: true })
   .filter(e => e.isDirectory() && e.name !== 'schemas').map(e => e.name)
   .filter(b => !only.length || only.includes(b));
 
-let totalProblems = 0;
+let totalProblems = 0, checkedQuotes = 0;
 for (const bookId of books.sort()) {
   const dir = join(contentDir, bookId);
   const files = readdirSync(dir).filter(f => f.endsWith('.json'))
@@ -159,5 +160,6 @@ for (const bookId of books.sort()) {
   if (only.length) depth.forEach(x => console.log('   ' + x));
   [...lemmaIssues, ...quoteIssues].forEach(x => console.log('   - ' + x));
 }
-console.log(`\n${totalProblems ? totalProblems + ' issue(s) found.' : 'Deep verification clean.'}`);
+console.log(`\nChecked ${checkedQuotes} referenced quotation(s).`);
+console.log(`${totalProblems ? totalProblems + ' issue(s) found.' : 'Deep verification clean.'}`);
 if (strict && totalProblems) process.exit(1);

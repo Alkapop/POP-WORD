@@ -1,0 +1,896 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "chapterTitle": "Is Christ Divided? — The Word of the Cross and the God Who Chooses the Nobodies",
+  "themeTitle": "“God Built His Church Out of the People Corinth Overlooked”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Paul, called to be an apostle of Jesus Christ through the will of God, and our brother Sosthenes,",
+      "understanding": "Paul's first word about himself is not a title but a summons: κλητός, called. He did not volunteer for apostleship and he did not earn it; it came “through the will of God.” In a city where every man was angling to be recognised, the letter opens with a man who insists that his position was handed to him. And notice the second name. Sosthenes may well be the synagogue ruler of Acts 18:17 who was beaten in front of Gallio's judgment seat in Corinth — the Corinthians would have known exactly who he was. If so, the man who once took a beating for opposing Paul now co-signs Paul's letter as “our brother.”",
+      "words": [
+        {
+          "strongs": "G2822",
+          "hebrew": "κλητός",
+          "translit": "klētós",
+          "english": "called"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostle"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "to the assembly of God which is at Corinth; those who are sanctified in Christ Jesus, called to be saints, with all who call on the name of our Lord Jesus Christ in every place, both theirs and ours:",
+      "understanding": "Before Paul says one word about their sins, he tells them who they are. They are the ἐκκλησία of God — not Paul's church, not Apollos' church — and they are “sanctified,” a perfect participle: set apart, a finished fact, already done in Christ Jesus. Then they are “called to be saints.” Holy is what they are, and holy is what they are called to become. And immediately he widens the room: they belong “with all who call on the name of our Lord Jesus Christ in every place.” A church that thought it was the centre of the Christian world is reminded in its very first sentence that it is one congregation among many.",
+      "words": [
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "sanctified"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G1941",
+          "hebrew": "ἐπικαλέομαι",
+          "translit": "epikaléomai",
+          "english": "call on"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+      "understanding": "The standard Pauline greeting — but read it against what is coming. Grace, χάρις, is the undeserved favour that the whole letter will keep pointing back to (“What do you have that you didn’t receive?” 4:7). Peace, εἰρήνη, is the Hebrew shalom carried into Greek — wholeness, everything in right relation. A church about to be rebuked for quarrels is first blessed with peace, and its source is named twice: God our Father and the Lord Jesus Christ, standing side by side as one source of one blessing.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "I always thank my God concerning you, for the grace of God which was given you in Christ Jesus;",
+      "understanding": "This is remarkable. Paul is about to confront factions, incest, lawsuits, drunkenness at the Lord's Table and denial of the resurrection — and he begins by thanking God for them, “always.” He is not flattering them. Look at what he thanks God for: not their behaviour, but “the grace of God which was given you.” Paul can give thanks for a mess of a church because he is looking at what God has put in them before he looks at what they have done with it.",
+      "words": [
+        {
+          "strongs": "G2168",
+          "hebrew": "εὐχαριστέω",
+          "translit": "eucharistéō",
+          "english": "thank"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "that in everything you were enriched in him, in all speech and all knowledge;",
+      "understanding": "Πλουτίζω — to make wealthy. Corinth was a city obsessed with getting rich, and Paul tells them they already are, “in everything,” and specifically in the two things they prized most: λόγος (speech, eloquence) and γνῶσις (knowledge). Hold on to those two words, because they are the very gifts Corinth will misuse for the rest of the letter. Paul starts by acknowledging that the gifts are real. The problem in Corinth was never a lack of gifts.",
+      "words": [
+        {
+          "strongs": "G4148",
+          "hebrew": "πλουτίζω",
+          "translit": "ploutízō",
+          "english": "enriched"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "speech"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "even as the testimony of Christ was confirmed in you:",
+      "understanding": "Βεβαιόω is a legal and commercial word: to confirm, to guarantee, to make a thing legally valid. The testimony about Christ that Paul preached was ratified in them — the gifts they received were God's own seal that the message was true. Their spiritual experience was not the foundation of the gospel; it was the confirmation of it.",
+      "words": [
+        {
+          "strongs": "G3142",
+          "hebrew": "μαρτύριον",
+          "translit": "martýrion",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G950",
+          "hebrew": "βεβαιόω",
+          "translit": "bebaióō",
+          "english": "confirmed"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "so that you come behind in no gift; waiting for the revelation of our Lord Jesus Christ;",
+      "understanding": "They lack no χάρισμα — no grace-gift. The word is built on charis: a gift is grace taking a specific shape. But notice the posture Paul attaches to it: “waiting for the revelation of our Lord Jesus Christ.” The Corinthians behaved as if they had already arrived (4:8 — “You have already become rich. You have come to reign without us.”). Paul reminds them that every gift is given to people who are still waiting. The gifts are for the road, not proof that you have reached the destination.",
+      "words": [
+        {
+          "strongs": "G5302",
+          "hebrew": "ὑστερέω",
+          "translit": "hysteréō",
+          "english": "come behind"
+        },
+        {
+          "strongs": "G5486",
+          "hebrew": "χάρισμα",
+          "translit": "chárisma",
+          "english": "gift"
+        },
+        {
+          "strongs": "G602",
+          "hebrew": "ἀποκάλυψις",
+          "translit": "apokálypsis",
+          "english": "revelation"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "who will also confirm you until the end, blameless in the day of our Lord Jesus Christ.",
+      "understanding": "Ἀνέγκλητος — unaccused, with no charge that can be made to stick. This is courtroom language for the Day of the Lord, and here is the astonishing thing: Paul says Christ will present this church, with all its sins, as blameless. Not because they are, but because He “will also confirm you until the end” — the same verb as verse 6. The God who guaranteed the testimony will guarantee the people.",
+      "words": [
+        {
+          "strongs": "G950",
+          "hebrew": "βεβαιόω",
+          "translit": "bebaióō",
+          "english": "confirm"
+        },
+        {
+          "strongs": "G410",
+          "hebrew": "ἀνέγκλητος",
+          "translit": "anénklētos",
+          "english": "blameless"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "God is faithful, through whom you were called into the fellowship of his Son, Jesus Christ, our Lord.",
+      "understanding": "The ground under the whole thanksgiving: “God is faithful.” Not the church, not Paul — God. And what He called them into is κοινωνία, a shared life, a partnership, the common ownership of something precious — fellowship with His Son. That is the word that makes verse 10 so painful. They were called into one fellowship with Christ, and they were tearing it into parties.",
+      "words": [
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G2842",
+          "hebrew": "κοινωνία",
+          "translit": "koinōnía",
+          "english": "fellowship"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Now I beg you, brothers, through the name of our Lord, Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfected together in the same mind and in the same judgment.",
+      "understanding": "Now the appeal, and it comes in the name of the Lord — the tenth time in ten verses Paul has named Jesus Christ. Σχίσμα is a tear in cloth; Jesus used it of a new patch ripping an old garment (Matthew 9:16). Against it Paul sets καταρτίζω — the word for mending nets (Matthew 4:21), for setting a broken bone, for restoring something to working order. He is not asking them to agree on everything. He is asking them to be repaired into one mind and one purpose.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "beg"
+        },
+        {
+          "strongs": "G4978",
+          "hebrew": "σχίσμα",
+          "translit": "schísma",
+          "english": "divisions"
+        },
+        {
+          "strongs": "G2675",
+          "hebrew": "καταρτίζω",
+          "translit": "katartízō",
+          "english": "perfected together"
+        },
+        {
+          "strongs": "G3563",
+          "hebrew": "νοῦς",
+          "translit": "noûs",
+          "english": "mind"
+        },
+        {
+          "strongs": "G1106",
+          "hebrew": "γνώμη",
+          "translit": "gnṓmē",
+          "english": "judgment"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For it has been reported to me concerning you, my brothers, by those who are from Chloe’s household, that there are contentions among you.",
+      "understanding": "Paul names his source. Chloe's people — probably members of her household, servants or business agents travelling between Corinth and Ephesus — had told him. He does not hide behind “some people are saying.” Honest confrontation names where the report came from, so it can be tested. And the word for what they reported is ἔρις: quarrelling, wrangling, rivalry — the word Paul lists among the works of the flesh in Galatians 5:20.",
+      "words": [
+        {
+          "strongs": "G2054",
+          "hebrew": "ἔρις",
+          "translit": "éris",
+          "english": "contentions"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Now I mean this, that each one of you says, “I follow Paul,” “I follow Apollos,” “I follow Cephas,” and, “I follow Christ.”",
+      "understanding": "Four slogans. “I follow Paul” — the founder's loyalists. “I follow Apollos” — the eloquent Alexandrian who had watered what Paul planted (Acts 18:24–28). “I follow Cephas” — Peter, probably admired by those who prized the original apostles and Jewish roots. And “I follow Christ” — the most spiritual-sounding and perhaps the worst of all, because it turns Jesus into the badge of one faction against the others. None of the leaders had asked for a fan club. The congregation built them."
+    },
+    {
+      "v": 13,
+      "text": "Is Christ divided? Was Paul crucified for you? Or were you baptized into the name of Paul?",
+      "understanding": "Three questions, each expecting a horrified “No!” Μερίζω means to divide into portions, to parcel out. Can Christ be cut up and handed out to rival parties? Was Paul crucified for you? Were you baptized into the name of Paul? Paul goes after his own fan club first. He refuses to let anyone build loyalty to him on top of the cross.",
+      "words": [
+        {
+          "strongs": "G3307",
+          "hebrew": "μερίζω",
+          "translit": "merízō",
+          "english": "divided"
+        },
+        {
+          "strongs": "G4717",
+          "hebrew": "σταυρόω",
+          "translit": "stauróō",
+          "english": "crucified"
+        },
+        {
+          "strongs": "G907",
+          "hebrew": "βαπτίζω",
+          "translit": "baptízō",
+          "english": "baptized"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "I thank God that I baptized none of you, except Crispus and Gaius,",
+      "understanding": "Crispus was the synagogue ruler who believed with his whole household (Acts 18:8). Gaius was wealthy enough to host the whole church (Romans 16:23). Two prominent converts, and Paul is glad he baptized almost nobody else — not because baptism does not matter, but because in Corinth a baptism had become a membership card for a party."
+    },
+    {
+      "v": 15,
+      "text": "so that no one should say that I had baptized you into my own name.",
+      "understanding": "The reason is precise: so that nobody could claim to have been baptized “into my own name.” In the Greek world, initiation into a cult tied you to the one who initiated you. Paul wants no disciples tied to Paul."
+    },
+    {
+      "v": 16,
+      "text": "(I also baptized the household of Stephanas; besides them, I don’t know whether I baptized any other.)",
+      "understanding": "An unpolished, honest aside — Paul remembers mid-sentence that he also baptized Stephanas' household, and then admits he cannot remember whether there were any others. This is not careless; it is the point. If baptism were about the baptizer, he would have kept a list. He did not keep one. (Stephanas will appear again in 16:15 as “the first fruits of Achaia.”)"
+    },
+    {
+      "v": 17,
+      "text": "For Christ sent me not to baptize, but to preach the Good News—not in wisdom of words, so that the cross of Christ wouldn’t be made void.",
+      "understanding": "The thesis of the next four chapters in one sentence. Paul's commission was to εὐαγγελίζω — to announce good news — and to do it “not in wisdom of words,” the polished rhetoric Corinth paid its orators for. Why? Because the cross could be κενόω — emptied, voided, made hollow. A gospel sold by brilliance gets its power from the brilliance. Paul refused to let the messenger's skill compete with the message's power.",
+      "words": [
+        {
+          "strongs": "G2097",
+          "hebrew": "εὐαγγελίζω",
+          "translit": "euangelízō",
+          "english": "preach the Good News"
+        },
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G2758",
+          "hebrew": "κενόω",
+          "translit": "kenóō",
+          "english": "made void"
+        },
+        {
+          "strongs": "G4716",
+          "hebrew": "σταυρός",
+          "translit": "staurós",
+          "english": "cross"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For the word of the cross is foolishness to those who are dying, but to us who are saved it is the power of God.",
+      "understanding": "“The word of the cross” — ὁ λόγος ὁ τοῦ σταυροῦ, the message whose whole content is the cross. To those who are perishing, it is μωρία, the root of our word moron. To those being saved, it is δύναμις, power. Notice both participles are present tense: perishing, being saved. Everybody who hears the gospel is already on a road, and their reaction to the cross shows which road they are on.",
+      "words": [
+        {
+          "strongs": "G4716",
+          "hebrew": "σταυρός",
+          "translit": "staurós",
+          "english": "cross"
+        },
+        {
+          "strongs": "G3472",
+          "hebrew": "μωρία",
+          "translit": "mōría",
+          "english": "foolishness"
+        },
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "dying"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "For it is written, “I will destroy the wisdom of the wise, I will bring the discernment of the discerning to nothing.”",
+      "understanding": "Paul quotes Isaiah 29:14, where God condemned the political wisdom of Jerusalem's leaders who thought they could save the nation by clever alliances. God promised to bring that wisdom to nothing. Paul says God has done it again — in a single afternoon outside Jerusalem, every human system for reaching God was exposed as useless.",
+      "words": [
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G4680",
+          "hebrew": "σοφός",
+          "translit": "sophós",
+          "english": "wise"
+        },
+        {
+          "strongs": "G4907",
+          "hebrew": "σύνεσις",
+          "translit": "sýnesis",
+          "english": "discernment"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Where is the wise? Where is the scribe? Where is the lawyer of this world? Hasn’t God made foolish the wisdom of this world?",
+      "understanding": "Three figures, each a pillar of the ancient world. The σοφός, the Greek philosopher. The γραμματεύς, the Jewish scribe and scholar of the law. The συζητητής, the debater, the professional disputant who could argue any side for a fee. Where are they? The question echoes Isaiah 33:18. All three looked at the cross and missed God. God has made their wisdom μωραίνω — insipid, flavourless, foolish.",
+      "words": [
+        {
+          "strongs": "G4680",
+          "hebrew": "σοφός",
+          "translit": "sophós",
+          "english": "wise"
+        },
+        {
+          "strongs": "G1122",
+          "hebrew": "γραμματεύς",
+          "translit": "grammateús",
+          "english": "scribe"
+        },
+        {
+          "strongs": "G4804",
+          "hebrew": "συζητητής",
+          "translit": "syzētētḗs",
+          "english": "lawyer (debater)"
+        },
+        {
+          "strongs": "G3471",
+          "hebrew": "μωραίνω",
+          "translit": "mōraínō",
+          "english": "made foolish"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "For seeing that in the wisdom of God, the world through its wisdom didn’t know God, it was God’s good pleasure through the foolishness of the preaching to save those who believe.",
+      "understanding": "Here is the divine irony: in the wisdom of God, the world's wisdom could not find Him. God then “was pleased” — εὐδοκέω, it was His good delight — to save people through the κήρυγμα, the thing preached. Not the brilliance of the preaching but the content of the proclamation. The message that looks most foolish is the one God chose to save through.",
+      "words": [
+        {
+          "strongs": "G2106",
+          "hebrew": "εὐδοκέω",
+          "translit": "eudokéō",
+          "english": "good pleasure"
+        },
+        {
+          "strongs": "G2782",
+          "hebrew": "κήρυγμα",
+          "translit": "kḗrygma",
+          "english": "preaching"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believe"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "For Jews ask for signs, Greeks seek after wisdom,",
+      "understanding": "Two cultures, two demands. Jews asked for σημεῖα — signs, proof of power, a Messiah who would break Rome. Greeks sought σοφία — a philosophy elegant enough to satisfy the mind. Both are ways of saying: God, meet me on my terms. Every generation has its version.",
+      "words": [
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeîon",
+          "english": "signs"
+        },
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "but we preach Christ crucified; a stumbling block to Jews, and foolishness to Greeks,",
+      "understanding": "And Paul's answer refuses both terms. “We preach Christ crucified” — the participle is perfect: Christ, the one who was crucified and remains the crucified one. To Jews that is a σκάνδαλον — originally the trigger-stick of a trap, the thing you trip over. Deuteronomy 21:23 said a hanged man was cursed by God; a crucified Messiah was a contradiction in terms. To Greeks it is μωρία — foolishness, because no wise man would worship a god who died like a slave.",
+      "words": [
+        {
+          "strongs": "G2784",
+          "hebrew": "κηρύσσω",
+          "translit": "kērýssō",
+          "english": "preach"
+        },
+        {
+          "strongs": "G4717",
+          "hebrew": "σταυρόω",
+          "translit": "stauróō",
+          "english": "crucified"
+        },
+        {
+          "strongs": "G4625",
+          "hebrew": "σκάνδαλον",
+          "translit": "skándalon",
+          "english": "stumbling block"
+        },
+        {
+          "strongs": "G3472",
+          "hebrew": "μωρία",
+          "translit": "mōría",
+          "english": "foolishness"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "but to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God.",
+      "understanding": "But to the κλητοί — the called, the same word Paul used of himself in verse 1 — Christ is precisely what both groups were looking for. The Jews wanted power: Christ is the power of God. The Greeks wanted wisdom: Christ is the wisdom of God. The cross does not deny their longings. It answers them in a way they never expected.",
+      "words": [
+        {
+          "strongs": "G2822",
+          "hebrew": "κλητός",
+          "translit": "klētós",
+          "english": "called"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Because the foolishness of God is wiser than men, and the weakness of God is stronger than men.",
+      "understanding": "The most daring sentence in the paragraph. Paul speaks of “the foolishness of God” and “the weakness of God” — the cross, the moment when God looked most foolish and most weak — and says that even that is wiser and stronger than the best humanity can produce. God at His apparently weakest outclasses man at his strongest.",
+      "words": [
+        {
+          "strongs": "G3474",
+          "hebrew": "μωρός",
+          "translit": "mōrós",
+          "english": "foolishness"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weakness"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "For you see your calling, brothers, that not many are wise according to the flesh, not many mighty, and not many noble;",
+      "understanding": "Now look at yourselves, Paul says. “Your calling” — κλῆσις, the moment God called you. Not many σοφοί (educated), not many δυνατοί (influential, powerful), not many εὐγενεῖς (well-born, from good families). Note “not many” — not “not any.” Erastus and Gaius were people of means. But the church in the city of climbers was mostly made of people the city did not notice.",
+      "words": [
+        {
+          "strongs": "G2821",
+          "hebrew": "κλῆσις",
+          "translit": "klēsis",
+          "english": "calling"
+        },
+        {
+          "strongs": "G4680",
+          "hebrew": "σοφός",
+          "translit": "sophós",
+          "english": "wise"
+        },
+        {
+          "strongs": "G1415",
+          "hebrew": "δυνατός",
+          "translit": "dynatós",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G2104",
+          "hebrew": "εὐγενής",
+          "translit": "eugenḗs",
+          "english": "noble"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "but God chose the foolish things of the world that he might put to shame those who are wise. God chose the weak things of the world, that he might put to shame the things that are strong;",
+      "understanding": "Three times in two verses: ἐκλέγομαι, God chose. This is not God making the best of a weak recruitment. It is His deliberate policy. He chose the μωρά, the foolish, to put the wise to shame; the ἀσθενῆ, the weak, to shame the strong. Καταισχύνω — to disgrace, to make someone blush. God's choices are designed to embarrass human pride.",
+      "words": [
+        {
+          "strongs": "G1586",
+          "hebrew": "ἐκλέγομαι",
+          "translit": "eklégomai",
+          "english": "chose"
+        },
+        {
+          "strongs": "G3474",
+          "hebrew": "μωρός",
+          "translit": "mōrós",
+          "english": "foolish"
+        },
+        {
+          "strongs": "G2617",
+          "hebrew": "καταισχύνω",
+          "translit": "kataischýnō",
+          "english": "put to shame"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weak"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "and God chose the lowly things of the world, and the things that are despised, and the things that are not, that he might bring to nothing the things that are:",
+      "understanding": "The list descends. The ἀγενῆ — literally the unborn, people with no pedigree, nobody's children. The ἐξουθενημένα — the despised, treated as zero. And then the bottom: τὰ μὴ ὄντα, “the things that are not” — people who, socially, did not exist. God chose them to καταργέω, to render idle and useless, “the things that are.” God's preferred building material is what the world throws away.",
+      "words": [
+        {
+          "strongs": "G36",
+          "hebrew": "ἀγενής",
+          "translit": "agenḗs",
+          "english": "lowly"
+        },
+        {
+          "strongs": "G1848",
+          "hebrew": "ἐξουθενέω",
+          "translit": "exouthenéō",
+          "english": "despised"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "bring to nothing"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "that no flesh should boast before God.",
+      "understanding": "The purpose clause behind the whole policy. “That no flesh” — σάρξ, humanity in its frailty and self-reliance — “should boast before God.” Καυχάομαι is one of Paul's favourite words, and it appears more in the Corinthian letters than anywhere else in the New Testament. Corinth ran on boasting. God arranged the church so that nobody in it could boast about how they got there.",
+      "words": [
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boast"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "Because of him, you are in Christ Jesus, who was made to us wisdom from God, and righteousness and sanctification, and redemption:",
+      "understanding": "The great reversal: “Because of him, you are in Christ Jesus.” Your position comes from God, not from your pedigree. And Christ “was made to us wisdom from God” — and then three words that unpack what that wisdom is: δικαιοσύνη, righteousness (your standing before God); ἁγιασμός, sanctification (your holiness before God); ἀπολύτρωσις, redemption (your release, bought by a ransom). Everything Corinth was trying to get through status, Christ is.",
+      "words": [
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmós",
+          "english": "sanctification"
+        },
+        {
+          "strongs": "G629",
+          "hebrew": "ἀπολύτρωσις",
+          "translit": "apolýtrōsis",
+          "english": "redemption"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "that, according as it is written, “He who boasts, let him boast in the Lord.”",
+      "understanding": "Paul closes with Jeremiah 9:24, where God tells the wise man not to glory in his wisdom, the mighty man not in his might, the rich man not in his riches, but to glory in knowing the LORD. The very three categories of verse 26. So there is a place for boasting after all — in the Lord. The boast does not die. It moves.",
+      "words": [
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boasts"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Torn Garment",
+      "verseRef": "v. 10-13",
+      "image": "Picture a single seamless robe laid on a table — the kind of garment that took a weaver weeks to make in one piece. Now picture four people taking hold of it by four corners, each one shouting a different name, each one pulling. You can hear the threads begin to give. That sound is σχίσμα. It is the word Jesus used when He warned that a patch of unshrunk cloth would tear an old garment and “a worse hole is made” (Matthew 9:16). And then Paul asks the question that should freeze every hand on the cloth: “Is Christ divided?” Can you cut Him into four pieces and give one to each faction?",
+      "meaning": "The opposite word in verse 10 is καταρτίζω — the word fishermen used for mending nets and doctors used for setting a broken bone. Division is not a difference of opinion; it is damage to the body of Christ, and it needs repair, not management. Notice too that none of the leaders asked for a following. Paul, Apollos and Peter were never rivals. The factions were built from below by people who wanted to belong to the winning side. And notice where the repair begins. Paul does not go after the Apollos party first. He goes after his own supporters: “Was Paul crucified for you?” The one with the most to gain from a faction is the first to dismantle it."
+    },
+    {
+      "title": "The Trap-Stick and the Laughter",
+      "verseRef": "v. 18-23",
+      "image": "Two scenes. First, a forest path, and lying across it a bent sapling — the σκάνδαλον, the trigger-stick of a hunter's trap. A man walking proudly with his eyes up trips over it, and the snare closes. That is the cross to a Jew who expected a Messiah who would crush Rome. Second scene: an Athenian dinner party. Someone mentions that a new religion worships a Jewish carpenter executed as a criminal on the edge of an obscure province, and the table bursts out laughing. That is the cross to a Greek: μωρία, foolishness. In Athens, Luke records, some called Paul a babbler, and when he spoke of the resurrection, some mocked (Acts 17:18, 32).",
+      "meaning": "The cross offends both kinds of pride — the religious pride that wants God to prove Himself by power, and the intellectual pride that wants God to satisfy the mind on its own terms. Paul refuses to adjust the message to avoid either offence. He preaches “Christ crucified,” and he lets the cross do what only the cross can do: divide the hearers into those who are perishing and those who are being saved. If your presentation of the gospel never offends anyone, ask whether you have removed the cross from it. The stumbling block is not a flaw in the message. It is the message."
+    },
+    {
+      "title": "The Roll Call of Nobodies",
+      "verseRef": "v. 26-28",
+      "image": "Imagine Corinth's town council at its annual gathering — men in fine togas, names carved on public monuments, families with influence, orators admired across Achaia. Now imagine the church gathered on a Sunday evening in Gaius' courtyard: dockworkers from Lechaeum smelling of salt, a slave who slipped out after the evening meal, a tentmaker, a few women whose husbands do not know where they are, a freedman still paying off his former master. A handful of wealthier people too — but mostly people the council would never have looked at. Paul says: look around the room. This is who God chose.",
+      "meaning": "The descent in verse 28 is deliberate. The lowly — people with no pedigree. The despised — people treated as zero. And finally “the things that are not” — people who, socially, did not exist. God chose them “that he might bring to nothing the things that are.” This is not God settling for what He could get. It is His strategy, repeated three times in two verses: God chose. He builds His church out of the people the world overlooks, so that when something glorious rises from it, nobody can say a human being did it. If you feel unqualified, you are exactly the kind of person God works through."
+    },
+    {
+      "title": "Four Things Christ Became",
+      "verseRef": "v. 30-31",
+      "image": "Picture a beggar standing outside a palace gate with four empty hands of need. He needs wisdom — he cannot find his way. He needs righteousness — he is guilty before the king. He needs holiness — he is too filthy to enter. He needs redemption — he is a slave who belongs to another master. Then the gate opens, and the King's Son walks out, and does not hand him four gifts. He gives Himself, and the beggar finds that the Son is the wisdom, the righteousness, the holiness and the ransom he needed.",
+      "meaning": "Corinth wanted status, wisdom and standing, and it was trying to get them by attaching itself to the right teacher. Paul says: you already have them — not as achievements but as a Person. Christ “was made to us wisdom from God, and righteousness and sanctification, and redemption.” You do not need to boast in Paul, Apollos or Cephas, because everything they could offer you is already yours in Christ. And so the boast does not die; it gets a new address. “He who boasts, let him boast in the Lord.” Whatever you are tempted to boast about this week, trace it back to its source, and you will find a gift."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Greeting to a Sanctified Mess (v. 1-3)",
+        "body": "Paul, called; the church, sanctified and called; and the whole letter set inside a wider fellowship of “all who call on the name of our Lord Jesus Christ in every place.”"
+      },
+      {
+        "label": "Thanksgiving for Grace Given (v. 4-9)",
+        "body": "Before any rebuke, Paul thanks God for the gifts He has given them — especially speech and knowledge, the very gifts they will misuse — and anchors their future not in their faithfulness but in God's."
+      },
+      {
+        "label": "The Appeal Against Divisions (v. 10-17)",
+        "body": "Reports from Chloe's household; four factions; three devastating questions; and Paul's refusal to let anyone build a party around him — ending in the thesis that the gospel must not be preached in a way that empties the cross."
+      },
+      {
+        "label": "The Word of the Cross Versus the Wisdom of the World (v. 18-25)",
+        "body": "The cross divides the hearers; it exposes the futility of every human route to God; it offends Jewish demands for signs and Greek demands for wisdom; and it reveals the foolishness of God as wiser and His weakness as stronger than anything human."
+      },
+      {
+        "label": "Exhibit A: The Corinthians Themselves (v. 26-31)",
+        "body": "God deliberately chose the foolish, the weak, the lowly and the despised, so that no one could boast — and made Christ their wisdom, righteousness, sanctification and redemption, so that every boast is redirected to the Lord."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Why Paul Thanks God for a Church That Was Failing",
+        "paragraphs": [
+          "Read verses 4 to 9 knowing what is coming in the rest of the letter — factions, incest, lawsuits, prostitution, drunkenness at the Lord's Supper, chaos in worship, denial of the resurrection — and the thanksgiving seems almost unbelievable. “I always thank my God concerning you.” Is Paul being diplomatic? No. Look at what he actually thanks God for. Not their love: they had little. Not their maturity: he will call them babies in 3:1. He thanks God for “the grace of God which was given you in Christ Jesus.” Every clause in the thanksgiving is about what God has done: you were enriched, the testimony was confirmed in you, you lack no gift, He will confirm you, God is faithful. The church is the grammatical object of nearly every verb. God is the subject.",
+          "That is the first lesson of 1 Corinthians and it is easy to miss. Paul can face the worst church in the New Testament without despair because he is not looking first at what they are doing; he is looking at what God has done and what God has promised to finish. “Who will also confirm you until the end, blameless in the day of our Lord Jesus Christ” (v. 8). Ἀνέγκλητος — unaccused, beyond any charge — is a breathtaking word to use of these people, and Paul uses it deliberately. Their final standing does not rest on their present performance. It rests on verse 9: “God is faithful.” A pastor who can only give thanks for healthy churches will not survive long in ministry, and a believer who can only give thanks for himself on good days will not survive long in faith.",
+          "But notice the edge inside the thanks. The gifts Paul names are “all speech and all knowledge” — λόγος and γνῶσις — and the reader who knows the letter will smile, because those are precisely the gifts Corinth turned into weapons. They were proud of their eloquence (2:1–5), proud of their knowledge (8:1), proud of their tongues (14). Paul does not deny the gifts are real. He thanks God for them. And then he spends fifteen chapters showing what happens when real gifts are separated from love. The problem was never that the gifts were false. The problem was what the people did with true ones. And verse 7 sets the posture for every gift: “waiting for the revelation of our Lord Jesus Christ.” The gifts are equipment for people still on the road, not trophies for people who think they have arrived."
+        ]
+      },
+      {
+        "heading": "Four Names on Four Banners: The Anatomy of a Divided Church",
+        "paragraphs": [
+          "Read the four slogans of verse 12 carefully, because every church in every century has its own version. “I follow Paul” — the people who were there at the beginning, the founder's loyalists, who measure everything by how it was done originally. “I follow Apollos” — the people impressed by eloquence and scholarship; Apollos was “an eloquent man” and “mighty in the Scriptures” (Acts 18:24), and Corinth loved a gifted speaker. “I follow Cephas” — the people who valued apostolic credentials and perhaps Jewish practice, attaching themselves to the man who walked with Jesus. And “I follow Christ” — which sounds like the right answer and was probably the most arrogant of all, because it turned Jesus into one party's private property and looked down on everyone else for needing human teachers.",
+          "Paul's answer is three questions, each designed to make them recoil. “Is Christ divided?” The verb μερίζω means to divide into portions — can you carve Christ up and distribute Him to rival groups? “Was Paul crucified for you?” Note that Paul uses his own name, not Apollos'. He goes after his own fan club first. “Or were you baptized into the name of Paul?” Baptism into a name meant transfer of ownership; you belonged to the one into whose name you were baptized. And then the unforgettable moment of honesty in verses 14 to 16, where Paul thanks God he baptized almost nobody — Crispus, Gaius, oh, and the household of Stephanas, and beyond that he cannot remember. A man who wanted followers would have kept count.",
+          "One point must be stated plainly, because this passage is easily misused: Paul is not saying baptism is unimportant. In Romans 6:3–4 he grounds union with Christ in baptism, and in 12:13 of this letter he says “in one Spirit we were all baptized into one body.” What he is saying in verse 17 is that his specific commission was to preach, and that baptism had become, in Corinth, a badge of loyalty to whoever performed it. When a sacrament becomes a membership card for a faction, Paul would rather not touch it. And then he states the principle that drives the next three chapters: the gospel is not preached “in wisdom of words, so that the cross of Christ wouldn’t be made void.” Κενόω means to empty out. You can empty the cross of its power by surrounding it with so much human brilliance that people end up trusting the brilliance."
+        ]
+      },
+      {
+        "heading": "The Foolishness of God: Why the Cross Offends Everybody",
+        "paragraphs": [
+          "To feel verses 18 to 25 you have to forget two thousand years of crosses on steeples and around necks. In the first century, crucifixion was the death Rome reserved for slaves, rebels and the lowest criminals — deliberately public, deliberately slow, deliberately humiliating. The Roman orator Cicero called it the cruellest and most disgusting penalty and said the very word should be kept far from a Roman citizen's thoughts, eyes and ears. And Paul walks into a proud Roman colony and announces that the central event of history, the revelation of God's wisdom and power, is a Jewish man nailed to one. One of the earliest surviving images of the crucifixion is a piece of graffiti from Rome, usually dated to the second or third century, showing a man worshipping a crucified figure with a donkey's head, and the scrawled words “Alexamenos worships his god.” That was how the world saw it: a joke.",
+          "Paul names two kinds of offence. “Jews ask for signs” — they wanted a demonstration of power, a Messiah who would come in strength and break the oppressor. A crucified Messiah was a σκάνδαλον, the bent stick of a trap you trip over, because Deuteronomy 21:23 pronounced anyone hanged on a tree to be under God's curse. “Greeks seek after wisdom” — they wanted a philosophy elegant enough to satisfy a cultivated mind. A god who dies in agony is μωρία, foolishness, because the Greek ideal of the divine was serene, untouchable and incapable of suffering. Both demands are a way of saying the same thing: God must meet me on my terms. And the cross meets nobody on their terms.",
+          "But look at verse 24. “To those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God.” The cross does not deny what either group longed for. It answers both — with a power that conquered sin and death rather than Rome, and a wisdom that reconciles a holy God to guilty people rather than merely explaining the universe. Then verse 25 says the most daring thing in the passage: “the foolishness of God is wiser than men, and the weakness of God is stronger than men.” At the moment God looked most foolish and most weak — dying on a cross — He was doing the wisest and strongest thing ever done. And verses 26 to 31 prove it with the most humbling evidence available: the congregation itself. God chose the foolish, the weak, the lowly, the despised and the “things that are not” — three times the verb ἐκλέγομαι, He chose — “that no flesh should boast before God.” The church is not God's compromise with poor material. It is His argument."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Paul did not invent the theology of verses 26 to 29. He learned it from the One he preached. Jesus prayed, in one of the few prayers of His that the Gospels record word for word: “I thank you, Father, Lord of heaven and earth, that you hid these things from the wise and understanding, and revealed them to infants. Yes, Father, for so it was well-pleasing in your sight” (Matthew 11:25–26). Notice the phrase “well-pleasing” — it is the same idea Paul uses in verse 21: “it was God’s good pleasure through the foolishness of the preaching to save those who believe.” God does not merely tolerate His choice of the humble. He delights in it. And Mary had sung it over the unborn Christ before He drew breath: “He has put down princes from their thrones. And has exalted the lowly. He has filled the hungry with good things. He has sent the rich away empty” (Luke 1:52–53). James repeats it to his own congregation: “Didn’t God choose those who are poor in this world to be rich in faith, and heirs of the Kingdom which he promised to those who love him?” (James 2:5). The New Testament speaks with one voice: God's kingdom is built from the bottom up.",
+        "Then follow verse 31 forward. Paul quotes Jeremiah's “He who boasts, let him boast in the Lord” here and again, word for word, in his second letter to the same church: “But ‘he who boasts, let him boast in the Lord’” (2 Corinthians 10:17). In between those two letters he learned it in his own body — a thorn he begged three times to have removed, and the answer “My grace is sufficient for you, for my power is made perfect in weakness” (2 Corinthians 12:9). The theology of 1 Corinthians 1, that God works through weakness so that no flesh can boast, became Paul's personal autobiography. And later still he wrote to the Philippians what verse 30 looks like when it takes over a life: “Yes most certainly, and I count all things to be a loss for the excellency of the knowledge of Christ Jesus, my Lord, for whom I suffered the loss of all things, and count them nothing but refuse, that I may gain Christ” (Philippians 3:8). When Christ is your wisdom, righteousness, sanctification and redemption, every other credential becomes rubbish by comparison.",
+        "And verse 10 has its root in the upper room. On the night before He died, Jesus prayed for the people who would believe through the apostles' word: “that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me” (John 17:21). Unity among believers is not a nice-to-have for church harmony. Jesus ties it to evangelism: the world's belief depends on it. That is why Paul treats the Corinthian factions as the first and most urgent problem in the letter, before immorality and before doctrine. A divided church preaches a divided Christ, and a divided Christ convinces no one. Paul later tells another church to be “eager to keep the unity of the Spirit in the bond of peace” (Ephesians 4:3) — keep, not create. The unity is a gift already given. The church's job is not to manufacture it but to stop tearing it."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Divisions / schism",
+      "hebrew": "σχίσμα",
+      "translit": "schísma",
+      "strongs": "G4978",
+      "verses": "v. 10 (again in 11:18 and 12:25)",
+      "insight": "Strong's: “a split or gap (‘schism’), literally or figuratively.” The literal sense is a tear in fabric — Jesus used it of an unshrunk patch that rips an old garment and makes “a worse hole” (Matthew 9:16) — and of a crowd divided over Him (John 7:43). Paul uses it three times in this letter, and the progression is revealing: divisions over leaders (1:10), divisions at the Lord's Supper between rich and poor (11:18), and the goal of a body with “no division” (12:25). The Corinthian schisms were not over major doctrine. They were over personalities, status and pride. That is how most church splits begin: not with heresy, but with loyalty to the wrong thing."
+    },
+    {
+      "english": "Perfected together / mended",
+      "hebrew": "καταρτίζω",
+      "translit": "katartízō",
+      "strongs": "G2675",
+      "verses": "v. 10",
+      "insight": "Strong's: “to complete thoroughly, i.e. repair (literally or figuratively) or adjust.” This is the word used when James and John were “mending their nets” in the boat (Matthew 4:21), and it was used in Greek medical writing for setting a dislocated or broken bone. It is also the word of Galatians 6:1 — “restore such a one in a spirit of gentleness.” Paul's remedy for division is not uniformity of opinion. It is repair: putting torn nets back into working order so they can catch fish again, putting a dislocated joint back so the body can move. A divided church is not just unpleasant; it is broken equipment, and God wants it mended for use."
+    },
+    {
+      "english": "Cross",
+      "hebrew": "σταυρός",
+      "translit": "staurós",
+      "strongs": "G4716",
+      "verses": "v. 17, 18 (and the verb σταυρόω, “crucified,” in v. 13, 23)",
+      "insight": "Strong's: “a stake or post (as set upright), i.e. (specially), a pole or cross (as an instrument of capital punishment); figuratively, exposure to death, i.e. self-denial; by implication, the atonement of Christ.” Every part of that definition is in this chapter. It was an instrument of execution — the degradation Rome reserved for slaves. It became a figure of self-denial — the cross Jesus told His disciples to take up. And it became shorthand for the atonement itself: “the word of the cross” (v. 18) means the entire gospel. Paul's whole strategy for Corinth is captured in his refusal to let the cross be “made void” (v. 17). Anything you add to the gospel to make it more impressive risks subtracting the power."
+    },
+    {
+      "english": "Foolishness",
+      "hebrew": "μωρία",
+      "translit": "mōría",
+      "strongs": "G3472 (adjective μωρός, mōrós, G3474; verb μωραίνω, mōraínō, G3471)",
+      "verses": "v. 18, 21, 23 (noun); v. 25, 27 (adjective); v. 20 (verb)",
+      "insight": "Strong's defines μωρία as “silliness, i.e. absurdity,” and the adjective μωρός as “dull or stupid (as if shut up), i.e. heedless, (morally) blockhead, (apparently) absurd.” This is the word family that gives English the word moron. The verb μωραίνω, Strong's says, means “to become insipid” — and Jesus used it of salt that has lost its flavour (Matthew 5:13). That is the irony of verse 20: the world thought the cross was moronic, but God made the world's wisdom tasteless. Paul uses this word family more in 1 Corinthians 1–4 than in all the rest of his letters combined. He is willing to be called a fool, because he knows whose foolishness he is carrying."
+    },
+    {
+      "english": "Boast / glory",
+      "hebrew": "καυχάομαι",
+      "translit": "kaucháomai",
+      "strongs": "G2744",
+      "verses": "v. 29, 31 (×2)",
+      "insight": "Strong's: “to vaunt (in a good or a bad sense).” The family of this word — boast, boasting, ground for boasting — appears roughly sixty times in Paul's letters, and more than half of those are in 1 and 2 Corinthians. That statistic tells you about the city. Corinth ran on boasting: public inscriptions to one's own generosity, rhetorical contests, social climbing. Paul does not tell the church to stop boasting altogether. He tells them to change the object. Verse 29 shuts down boasting “before God”; verse 31 opens it up again “in the Lord.” The human heart was made to glory in something. The gospel does not destroy the instinct. It redirects it to the only One who deserves it."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the loyalties that quietly divide you from other believers, the hunger to be impressive that empties your witness of power, and the shame you carry about being ordinary.",
+    "items": [
+      {
+        "title": "Whose Name Is on Your Banner?",
+        "body": "You would never say “I follow Paul” out loud. But listen to how you talk about other Christians. Is there a church, a preacher, a denomination, a style of worship you are slightly contemptuous of? Is there a teacher whose name makes you defensive when someone criticises him? Is there a stream of Christianity you secretly consider beneath you? That is Corinth. The Spirit is not asking you to give up your convictions. He is asking whether your loyalty to a human leader or movement is stronger than your love for a brother who belongs to a different one. Paul's question is aimed at you today: “Is Christ divided?” If you have to answer, “No, but my group is right,” you have just picked up a banner. Put it down."
+      },
+      {
+        "title": "The Brilliance That Empties the Cross",
+        "body": "Paul could have preached in Corinth with rhetorical fireworks. He chose not to, “so that the cross of Christ wouldn’t be made void.” Now think about how you present your faith — at work, online, in conversation, in ministry. How much of it is about making yourself look intelligent, articulate, spiritual or impressive? How much of your prayer life in public is aimed at the people listening? The Spirit wants you to see this: when people walk away impressed with you, the cross has been made a little emptier. When they walk away confronted with Christ, it has been made full. You cannot make both happen at once. Which one are you aiming for?"
+      },
+      {
+        "title": "God Chose You on Purpose",
+        "body": "You have probably told yourself at some point that God uses other people — the gifted ones, the confident ones, the ones with the right background and education — and that you are a sort of spiritual afterthought. Verses 26 to 28 tear that lie apart. God chose. Three times. He chose the foolish, the weak, the lowly, the despised, the things that are not — and He did it deliberately, so that nobody could boast. Your ordinariness is not a disqualification. It is your qualification. Whatever is missing from your résumé is the space where God intends to show His power. Ask Him today: “Lord, what do You want to do through the very thing I am ashamed of?” And then be ready for the answer."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Banner Check",
+        "body": "Write down every Christian leader, ministry, church or movement you feel strong loyalty to. Then write down one group of believers you find it difficult to respect. Ask honestly: is my disagreement with them about the gospel itself — the cross and resurrection of Christ — or is it about style, personality, or preference? If it is not about the gospel, confess the contempt to God and ask Him to show you one thing you could learn from them."
+      },
+      {
+        "title": "The Emptied-Cross Check",
+        "body": "Think about the last three times you talked about your faith with someone. What did you most want them to think afterward — about Christ, or about you? Write it down. If it was about you, you are not alone; Corinth's disease is deep in all of us. But name it, because what you name you can surrender."
+      },
+      {
+        "title": "The Boast Check",
+        "body": "Finish this sentence honestly: “The thing I am most proud of about myself is ______.” Now trace it back. Where did the ability, the opportunity, the health, the mind, the family, the education come from? Verse 30 says “because of him, you are in Christ Jesus.” Ask yourself: if this thing were taken away tomorrow, would my sense of worth survive? If not, it has become a ground of boasting before God, and it needs to be handed back."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Mending One Torn Thread",
+        "body": "This week, identify one believer from a different church, tradition or group than yours — or one person in your own church you have quietly distanced yourself from. Reach out to them with no agenda except fellowship: buy them coffee, pray with them, or send a message thanking God for something specific in their life. Do not debate. Do not correct. Do what καταρτίζω means — mend a net. If the division is serious, ask God whether you need to apologise for anything, and do it."
+      },
+      {
+        "title": "Boasting in the Right Place",
+        "body": "Tonight, take a sheet of paper and draw two columns. In the left column write everything you would naturally be tempted to boast about — achievements, gifts, background, possessions, spiritual experiences. In the right column, beside each one, write how it came to you as a gift. Then at the bottom of the page write verse 30 in full: “Because of him, you are in Christ Jesus, who was made to us wisdom from God, and righteousness and sanctification, and redemption.” Read the right column out loud as thanksgiving. Then say verse 31 aloud: “He who boasts, let him boast in the Lord.” Keep the page somewhere you will see it the next time you feel the urge to be impressive."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I thank You for the grace You have given me in Christ Jesus. I thank You that I am enriched in Him, that I come behind in no gift, and that You — not I — will confirm me until the end, blameless in the day of my Lord Jesus Christ. You are faithful, and You called me into the fellowship of Your Son. Lord, I confess the banners I have carried. I have said, in my heart if not with my mouth, ‘I follow this one, I follow that one,’ and I have looked down on brothers and sisters for whom Christ was crucified. Christ is not divided, and I will not divide Him. Mend me, Lord. Repair the torn places between me and Your people, and make me one mind and one purpose with them. I confess that I have wanted to be impressive. I have tried to make the gospel look clever, and I have wanted people to admire me more than they adore You. Forgive me for emptying the cross. Let the word of the cross be the power of God in my life and in my mouth. Father, I thank You that You chose me. I was not wise by the world's standards, not powerful, not noble — and You chose me on purpose, so that no flesh would boast before You. Take the very things I am ashamed of and use them to bring to nothing the things that are proud. Christ Jesus, You are my wisdom, my righteousness, my sanctification, and my redemption. I have nothing that I did not receive. So I lay down every boast and I boast in You alone. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Gideon's Three Hundred",
+      "ref": "Judges 7:1-22",
+      "relatedVerses": "v. 26-29",
+      "summary": "Gideon gathers thirty-two thousand men against the Midianites, and God says the army is too big — not too small. The reason is exactly the reason of verse 29: if Israel wins with that many, they will boast that their own hand saved them. So God sends home everyone who is afraid, and twenty-two thousand leave. Then He tests the remaining ten thousand at the water, and keeps only the three hundred who lapped like dogs. With three hundred men carrying trumpets, empty jars and torches, Gideon routs an army described as numerous as locusts. God deliberately reduces His instruments until victory can only be explained by Him. That is 1 Corinthians 1:27–29 in a battlefield: God chooses the weak things of the world, so that no flesh can boast before Him."
+    },
+    {
+      "title": "A Shepherd Boy and Five Stones",
+      "ref": "1 Samuel 16:1-13; 17:32-51",
+      "relatedVerses": "v. 27-28",
+      "summary": "When Samuel comes to Jesse's house to anoint the next king, Jesse parades seven impressive sons and does not even bother to call the youngest, who is out with the sheep. Samuel is ready to anoint Eliab, the eldest, on looks alone, but God tells him that man looks at the outward appearance while the LORD looks at the heart. The boy nobody thought worth summoning is the one God chose. Shortly afterward that same boy walks out with a sling and five stones against a giant in bronze armour, refusing Saul's armour because he had not proved it. The whole army of Israel sees the strong put to shame by the weak. David becomes Israel's greatest king precisely because his story could never be credited to David."
+    },
+    {
+      "title": "The Synagogue Ruler Who Was Beaten",
+      "ref": "Acts 18:1-17",
+      "relatedVerses": "v. 1, 14",
+      "summary": "When Paul came to Corinth, he worked as a tentmaker with Aquila and Priscilla and reasoned in the synagogue every Sabbath. Opposition grew until he left the synagogue and moved next door, to the house of Justus. Then Crispus, the synagogue ruler, believed with all his house — one of the few people Paul would later remember baptizing. The Jewish leaders brought Paul before the proconsul Gallio, who threw the case out, and the crowd turned on Sosthenes, the new synagogue ruler, and beat him in front of the judgment seat while Gallio ignored it. Years later, a letter goes to Corinth from “Paul... and our brother Sosthenes.” We cannot prove it is the same man, but if it is, the story is the gospel in miniature: two synagogue rulers, one of them once beaten as Paul's opponent, both brought to the foot of the cross that their own synagogue had called a stumbling block."
+    }
+  ]
+}

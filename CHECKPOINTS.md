@@ -42,3 +42,15 @@ only marked ✅ when its checks actually ran and passed.
 | 46 | **1 Corinthians** (16 ch.) | ⏳ in progress — was skipped |
 | 47–49 | 2 Corinthians, Galatians, Ephesians | ✅ live |
 | 50 | Philippians (4 ch.) | next |
+
+### CP-03 Gate hardening
+- Build now validates an in-progress book file by file (was: skipped silently until complete).
+- Verifier reports how many quotations it checked; minimum quote length lowered 25 → 14 chars
+  after a negative test showed a short misquote slipping through. Three injected misquotes
+  (Matthew 9:16, Matthew 11:25, Ephesians 4:3) are all now caught.
+
+### CP-04 1 Corinthians — per-document log
+| Doc | Size | Verses | G1 Build | G2 Deep (quotes checked) | Notes |
+|-----|------|--------|----------|--------------------------|-------|
+| Master Introduction | 18KB | — | ✅ | ✅ (0 issues) | Bridge from Romans; core theme 1:23–24 |
+| Chapter 1 | 53KB | 31/31 | ✅ | ✅ (38) | Caught & fixed: “mending their nets” is Matthew 4:21, not Mark 1:19 |
