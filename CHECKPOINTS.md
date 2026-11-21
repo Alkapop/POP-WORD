@@ -66,6 +66,7 @@ only marked ✅ when its checks actually ran and passed.
 | Chapter 11 | 55KB | 34/34 | ✅ | ✅ (157 total) | Caught & fixed: Galatians 3:28 paraphrase in quote marks; Exodus 13:8 set to WEB wording |
 | Chapter 12 | 50KB | 31/31 | ✅ | ✅ (166 total) | Clean first pass |
 | Chapter 13 | 40KB | 13/13 | ✅ | ✅ (179 total) | “The perfect” (v. 10) read from v. 12 (Christ’s return), per strongest textual reading |
+| Chapter 14 | 61KB | 40/40 | ✅ | ✅ (193 total) | 14:34–35 handled with the reading consistent with 11:5; two quote fixes |
 
 ### CP-05 ⚠️ Data bug found: single-chapter books fetched as one verse
 - `sources/bible/{philemon,2john,3john,jude}-1.json` each hold only verse 1 (bible-api read
