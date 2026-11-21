@@ -1,0 +1,825 @@
+{
+  "type": "chapterStudy",
+  "book": "Colossians",
+  "chapter": 4,
+  "chapterTitle": "Prayer, Wise Speech and Faithful Friends — The Gospel Carried by Ordinary People",
+  "themeTitle": "“Take Heed to the Ministry Which You Have Received in the Lord”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven.",
+      "understanding": "This verse completes the household code of chapter 3. κύριοι, masters, must give their δοῦλοι, servants, “that which is just and equal.” τὸ δίκαιον is what is right; τὴν ἰσότητα is fairness, equity — a striking word to use of slaves, who in Roman law had no rights at all. The reason: “you also have a Master in heaven.” The same word κύριος is used for the earthly master and the heavenly one. Every earthly master is himself a servant, and will answer to his Lord for the way he treated those under him.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "masters"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "just"
+        },
+        {
+          "strongs": "G2471",
+          "hebrew": "ἰσότης",
+          "translit": "isótēs",
+          "english": "equal"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Continue steadfastly in prayer, watching therein with thanksgiving;",
+      "understanding": "τῇ προσευχῇ προσκαρτερεῖτε, “Continue steadfastly in prayer.” The verb means to persist, to be devoted to, to keep at something without giving up. It describes the early church in Acts 1:14 and 2:42. γρηγοροῦντες, watching, staying awake and alert — the word Jesus used in Gethsemane when His disciples fell asleep. And all of it ἐν εὐχαριστίᾳ, with thanksgiving. Prayer that is persistent, alert and grateful is the engine room of the church.",
+      "words": [
+        {
+          "strongs": "G4335",
+          "hebrew": "προσευχή",
+          "translit": "proseuchḗ",
+          "english": "prayer"
+        },
+        {
+          "strongs": "G4342",
+          "hebrew": "προσκαρτερέω",
+          "translit": "proskarteréō",
+          "english": "continue steadfastly"
+        },
+        {
+          "strongs": "G1127",
+          "hebrew": "γρηγορεύω",
+          "translit": "grēgoreúō",
+          "english": "watching"
+        },
+        {
+          "strongs": "G2169",
+          "hebrew": "εὐχαριστία",
+          "translit": "eucharistía",
+          "english": "thanksgiving"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "praying together for us also, that God may open to us a door for the word, to speak the mystery of Christ, for which I am also in bonds;",
+      "understanding": "Paul asks them to pray “for us also.” He does not ask for release from prison, but that God would ἀνοίξῃ θύραν τοῦ λόγου, open a door for the word. The open door is Paul's picture of opportunity for the gospel (1 Corinthians 16:9; 2 Corinthians 2:12). The content is “the mystery of Christ” (μυστήριον), the secret once hidden and now revealed: Christ in you, the hope of glory (1:27). And the setting: δέδεμαι, “I am also in bonds” — chained. His chains have not closed the door; prayer can still open it.",
+      "words": [
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "praying"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "open"
+        },
+        {
+          "strongs": "G2374",
+          "hebrew": "θύρα",
+          "translit": "thýra",
+          "english": "door"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mystery"
+        },
+        {
+          "strongs": "G1210",
+          "hebrew": "δέω",
+          "translit": "déō",
+          "english": "in bonds"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "that I may reveal it as I ought to speak.",
+      "understanding": "“That I may reveal it as I ought to speak.” φανερώσω, I may make it clear, visible, plain. The same verb was used of Christ being revealed in 3:4. Paul wants to preach with clarity. ὡς δεῖ με λαλῆσαι, as it is necessary for me to speak: he feels the obligation of a messenger who must deliver the message faithfully. Even the greatest apostle asks for prayer that he would speak clearly.",
+      "words": [
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "reveal"
+        },
+        {
+          "strongs": "G1163",
+          "hebrew": "δεῖ",
+          "translit": "deî",
+          "english": "ought"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "speak"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Walk in wisdom toward those who are outside, redeeming the time.",
+      "understanding": "Now Paul turns from prayer for the preacher to the witness of the whole church. ἐν σοφίᾳ περιπατεῖτε, walk in wisdom, toward τοὺς ἔξω, “those who are outside” — unbelievers watching the church. ἐξαγοραζόμενοι τὸν καιρόν, “redeeming the time” — literally buying up the opportunity, like a merchant snapping up a bargain in the market. καιρός is not clock-time but the right moment. Every encounter with an unbeliever is an opportunity to be bought up, not wasted.",
+      "words": [
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        },
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outside"
+        },
+        {
+          "strongs": "G1805",
+          "hebrew": "ἐξαγοράζω",
+          "translit": "exagorázō",
+          "english": "redeeming"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Let your speech always be with grace, seasoned with salt, that you may know how you ought to answer each one.",
+      "understanding": "“Let your speech always be with grace” — ἐν χάριτι, gracious, kind, attractive, full of the grace you received. “Seasoned with salt” — ἅλατι ἠρτυμένος. Salt gives flavour and preserves from decay: Christian speech should be interesting rather than dull, and wholesome rather than corrupt. The purpose: “that you may know how you ought to answer each one.” ἀποκρίνεσθαι, to answer: each person is different, and wise believers do not give everyone the same speech. Compare 1 Peter 3:15: “always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you.”",
+      "words": [
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "speech"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G217",
+          "hebrew": "ἅλας",
+          "translit": "hálas",
+          "english": "salt"
+        },
+        {
+          "strongs": "G741",
+          "hebrew": "ἀρτύω",
+          "translit": "artýō",
+          "english": "seasoned"
+        },
+        {
+          "strongs": "G611",
+          "hebrew": "ἀποκρίνομαι",
+          "translit": "apokrínomai",
+          "english": "answer"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "All my affairs will be made known to you by Tychicus, the beloved brother, faithful servant, and fellow bondservant in the Lord.",
+      "understanding": "Τύχικος, Tychicus, from the province of Asia (Acts 20:4), carried this letter and the letter to the Ephesians. Paul gives him three titles: ἀγαπητὸς ἀδελφός, “the beloved brother”; πιστὸς διάκονος, “faithful servant”; and σύνδουλος, “fellow bondservant in the Lord.” He is loved, trustworthy and a partner in service. Paul's ministry depended on people like Tychicus: couriers who walked hundreds of miles carrying letters that would become Scripture.",
+      "words": [
+        {
+          "strongs": "G5190",
+          "hebrew": "Τυχικός",
+          "translit": "Tychikós",
+          "english": "Tychicus"
+        },
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servant"
+        },
+        {
+          "strongs": "G4889",
+          "hebrew": "σύνδουλος",
+          "translit": "sýndoulos",
+          "english": "fellow bondservant"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "I am sending him to you for this very purpose, that he may know your circumstances and comfort your hearts,",
+      "understanding": "ἔπεμψα, I am sending — the ‘epistolary aorist’, written from the readers' point of view when the letter arrives. Tychicus has two jobs: to learn their circumstances and to παρακαλέσῃ τὰς καρδίας ὑμῶν, comfort, encourage, strengthen “your hearts.” The same phrase appears in 2:2. Ministry is not only information; it is encouragement carried in person.",
+      "words": [
+        {
+          "strongs": "G3992",
+          "hebrew": "πέμπω",
+          "translit": "pémpō",
+          "english": "sending"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "comfort"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "together with Onesimus, the faithful and beloved brother, who is one of you. They will make known to you everything that is going on here.",
+      "understanding": "“Together with Onesimus, the faithful and beloved brother, who is one of you.” Ὀνήσιμος means ‘useful’. He was a slave of Philemon in Colossae who had run away, met Paul in prison and been converted. Now he is coming home. Paul does not call him ‘the runaway slave’ but πιστὸς καὶ ἀγαπητὸς ἀδελφός, the faithful and beloved brother — the same titles given to Tychicus. And “one of you”: he belongs to the Colossian church now, not merely to Philemon's household. Colossians 3:11 is happening in real life.",
+      "words": [
+        {
+          "strongs": "G3682",
+          "hebrew": "Ὀνήσιμος",
+          "translit": "Onḗsimos",
+          "english": "Onesimus"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Aristarchus, my fellow prisoner, greets you, and Mark, the cousin of Barnabas (concerning whom you received commandments, “if he comes to you, receive him”),",
+      "understanding": "Ἀρίσταρχος, Aristarchus, a Macedonian from Thessalonica (Acts 27:2), had been dragged into the theatre during the Ephesus riot and sailed with Paul to Rome. Here he is συναιχμάλωτος, “my fellow prisoner” — literally a fellow prisoner of war. Then Μᾶρκος, Mark, ἀνεψιός, “the cousin of Barnabas.” This is the same Mark who had deserted Paul on the first missionary journey and caused the split between Paul and Barnabas (Acts 15:37–39). Now Paul commends him: “if he comes to you, receive him” (δέξασθε). Failure is not final in God's kingdom.",
+      "words": [
+        {
+          "strongs": "G708",
+          "hebrew": "Ἀρίσταρχος",
+          "translit": "Arístarchos",
+          "english": "Aristarchus"
+        },
+        {
+          "strongs": "G4869",
+          "hebrew": "συναιχμάλωτος",
+          "translit": "synaichmálōtos",
+          "english": "fellow prisoner"
+        },
+        {
+          "strongs": "G3138",
+          "hebrew": "Μάρκος",
+          "translit": "Márkos",
+          "english": "Mark"
+        },
+        {
+          "strongs": "G431",
+          "hebrew": "ἀνεψιός",
+          "translit": "anepsiós",
+          "english": "cousin"
+        },
+        {
+          "strongs": "G921",
+          "hebrew": "Βαρνάβας",
+          "translit": "Barnábas",
+          "english": "Barnabas"
+        },
+        {
+          "strongs": "G1209",
+          "hebrew": "δέχομαι",
+          "translit": "déchomai",
+          "english": "receive"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "and Jesus who is called Justus. These are my only fellow workers for God’s Kingdom who are of the circumcision, men who have been a comfort to me.",
+      "understanding": "Ἰησοῦς ὁ λεγόμενος Ἰοῦστος, “Jesus who is called Justus” — Jesus (Joshua) was a common Jewish name, and he used the Latin name Justus, ‘righteous’. These three, Aristarchus, Mark and Justus, are Paul's only συνεργοί, “fellow workers for God’s Kingdom who are of the circumcision” — Jewish believers. Many of Paul's fellow Jews had opposed him, so these men were precious. They had been παρηγορία, “a comfort to me.” The word is the root of the English ‘paregoric’, a soothing medicine.",
+      "words": [
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G2459",
+          "hebrew": "Ἰοῦστος",
+          "translit": "Ioûstos",
+          "english": "Justus"
+        },
+        {
+          "strongs": "G4904",
+          "hebrew": "συνεργός",
+          "translit": "synergós",
+          "english": "fellow workers"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        },
+        {
+          "strongs": "G4061",
+          "hebrew": "περιτομή",
+          "translit": "peritomḗ",
+          "english": "circumcision"
+        },
+        {
+          "strongs": "G3931",
+          "hebrew": "παρηγορία",
+          "translit": "parēgoría",
+          "english": "comfort"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Epaphras, who is one of you, a servant of Christ, salutes you, always striving for you in his prayers, that you may stand perfect and complete in all the will of God.",
+      "understanding": "Ἐπαφρᾶς, Epaphras, founded the church in Colossae (1:7) and is “one of you.” He is now with Paul in Rome, and his ministry continues in prayer: “always striving for you in his prayers.” ἀγωνιζόμενος, striving, agonising, wrestling like an athlete in the games — the same word as Paul's ‘striving’ in 1:29 and the related ἀγών of 2:1. His request: that they “stand perfect and complete in all the will of God.” τέλειοι, mature; πεπληροφορημένοι, fully assured, filled up. The pastor far away is fighting for his people on his knees.",
+      "words": [
+        {
+          "strongs": "G1889",
+          "hebrew": "Ἐπαφρᾶς",
+          "translit": "Epaphrâs",
+          "english": "Epaphras"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servant"
+        },
+        {
+          "strongs": "G75",
+          "hebrew": "ἀγωνίζομαι",
+          "translit": "agōnízomai",
+          "english": "striving"
+        },
+        {
+          "strongs": "G5046",
+          "hebrew": "τέλειος",
+          "translit": "téleios",
+          "english": "perfect"
+        },
+        {
+          "strongs": "G4135",
+          "hebrew": "πληροφορέω",
+          "translit": "plērophoréō",
+          "english": "complete"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "For I testify about him, that he has great zeal for you, and for those in Laodicea, and for those in Hierapolis.",
+      "understanding": "Paul adds his own witness: μαρτυρῶ, “I testify about him, that he has great zeal for you.” ζῆλος is burning intensity. His concern extends to the three churches of the Lycus valley: Colossae, Λαοδίκεια, Laodicea, ten miles away, and Ἱεράπολις, Hierapolis, six miles beyond. Epaphras probably planted all three. Jesus later warned the Laodiceans about their lukewarmness (Revelation 3:15–16); perhaps they needed Epaphras's prayers more than anyone.",
+      "words": [
+        {
+          "strongs": "G3140",
+          "hebrew": "μαρτυρέω",
+          "translit": "martyréō",
+          "english": "testify"
+        },
+        {
+          "strongs": "G2205",
+          "hebrew": "ζῆλος",
+          "translit": "zēlos",
+          "english": "zeal"
+        },
+        {
+          "strongs": "G2993",
+          "hebrew": "Λαοδίκεια",
+          "translit": "Laodíkeia",
+          "english": "Laodicea"
+        },
+        {
+          "strongs": "G2404",
+          "hebrew": "Ἱεράπολις",
+          "translit": "Hierápolis",
+          "english": "Hierapolis"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Luke, the beloved physician, and Demas greet you.",
+      "understanding": "Two very different names stand side by side. Λουκᾶς, Luke, ὁ ἰατρὸς ὁ ἀγαπητός, “the beloved physician,” author of the Gospel of Luke and the book of Acts, who stayed with Paul to the very end. And Δημᾶς, Demas, mentioned without any description. A few years later, Paul wrote, “for Demas left me, having loved this present world” (2 Timothy 4:10), and in the same breath, “Only Luke is with me” (2 Timothy 4:11). Two men served side by side; one finished, one fell away. This verse is a quiet warning.",
+      "words": [
+        {
+          "strongs": "G3065",
+          "hebrew": "Λουκᾶς",
+          "translit": "Loukâs",
+          "english": "Luke"
+        },
+        {
+          "strongs": "G2395",
+          "hebrew": "ἰατρός",
+          "translit": "iatrós",
+          "english": "physician"
+        },
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        },
+        {
+          "strongs": "G1214",
+          "hebrew": "Δημᾶς",
+          "translit": "Dēmâs",
+          "english": "Demas"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Greet the brothers who are in Laodicea, and Nymphas, and the assembly that is in his house.",
+      "understanding": "ἀσπάσασθε, greet, the brothers in Laodicea, and Νυμφᾶς, Nymphas (some manuscripts read Nympha, a woman), “and the assembly that is in his house.” The early church had no buildings; ἐκκλησία, the assembly, met in homes. A believer who opened their house became the host of a congregation. Here is how the gospel spread in the first century: through households.",
+      "words": [
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "greet"
+        },
+        {
+          "strongs": "G3564",
+          "hebrew": "Νυμφᾶς",
+          "translit": "Nymphâs",
+          "english": "Nymphas"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "When this letter has been read among you, cause it to be read also in the assembly of the Laodiceans; and that you also read the letter from Laodicea.",
+      "understanding": "“When this letter has been read among you” — ἀναγνωσθῇ, read aloud publicly, because most believers could not read and copies were rare. Then Paul tells them to send it to Laodicea, and to read ‘the letter from Laodicea’ in return. Paul's letters were meant to circulate among the churches. The letter from Laodicea may be lost, or it may be the letter we call Ephesians, which seems to have been a circular letter. Either way, the church was learning to receive apostolic letters as the word of God.",
+      "words": [
+        {
+          "strongs": "G1992",
+          "hebrew": "ἐπιστολή",
+          "translit": "epistolḗ",
+          "english": "letter"
+        },
+        {
+          "strongs": "G314",
+          "hebrew": "ἀναγινώσκω",
+          "translit": "anaginṓskō",
+          "english": "read"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G2994",
+          "hebrew": "Λαοδικεύς",
+          "translit": "Laodikeús",
+          "english": "Laodiceans"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Tell Archippus, “Take heed to the ministry which you have received in the Lord, that you fulfill it.”",
+      "understanding": "A personal message for Ἄρχιππος, Archippus, whom Philemon 1:2 calls a ‘fellow soldier’ and who may have been Philemon's son. βλέπε, “Take heed,” look carefully, to the διακονία, the ministry, “which you have received in the Lord, that you fulfill it” (πληροῖς, fill it up, complete it). Paul does not say what the ministry was. Perhaps Archippus was leading the church in Epaphras's absence and needed encouragement. The message reaches every believer: you have received a ministry from the Lord. Finish it.",
+      "words": [
+        {
+          "strongs": "G751",
+          "hebrew": "Ἄρχιππος",
+          "translit": "Árchippos",
+          "english": "Archippus"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "take heed"
+        },
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "ministry"
+        },
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "fulfill"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "The salutation of me, Paul, with my own hand: remember my bonds. Grace be with you. Amen.",
+      "understanding": "Paul took the pen from his secretary and wrote the last lines himself: ὁ ἀσπασμὸς τῇ ἐμῇ χειρί, “The salutation of me, Paul, with my own hand” — the mark of authenticity in his letters (2 Thessalonians 3:17). Then three short words: μνημονεύετέ μου τῶν δεσμῶν, “remember my bonds.” You can almost hear the chain rattling against the desk as he writes. And the last word of the letter is the first word of the gospel: “Grace be with you.”",
+      "words": [
+        {
+          "strongs": "G783",
+          "hebrew": "ἀσπασμός",
+          "translit": "aspasmós",
+          "english": "salutation"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G3421",
+          "hebrew": "μνημονεύω",
+          "translit": "mnēmoneúō",
+          "english": "remember"
+        },
+        {
+          "strongs": "G1199",
+          "hebrew": "δεσμόν",
+          "translit": "desmón",
+          "english": "bonds"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Chained Man and the Open Door",
+      "verseRef": "v. 2-4",
+      "image": "Picture a small room in Rome. A man sits on a bench with an iron chain running from his wrist to the arm of a Roman soldier. The door of the room is locked from the outside. He cannot leave. But he is not praying for the lock to break. He is dictating a letter, and in it he asks his friends hundreds of miles away to pray that God would open a different door — a door for the word. Now picture that prayer rising from a house church in Colossae, from tired slaves and busy mothers and old men on their knees. And picture doors opening: the soldier chained to Paul hears the gospel, then the next soldier, then the household of Caesar. The chain stays on, but the word runs free.",
+      "meaning": "Paul asks, “that God may open to us a door for the word, to speak the mystery of Christ, for which I am also in bonds” (v. 3). His priority was not his own comfort but the progress of the gospel. In Philippians he reported that his bonds in Christ had become “evident to the whole palace guard” (Philippians 1:13). Later he would write, “But God’s word isn’t chained” (2 Timothy 2:9). The open door is God's work, but it comes through the prayers of ordinary believers. Your prayers for missionaries, pastors and believers in hard places can open doors that no human power can shut."
+    },
+    {
+      "title": "Salt on the Table",
+      "verseRef": "v. 5-6",
+      "image": "Picture a plain meal set before a hungry traveller: bread, beans, a piece of fish. It is nourishing but flat. Then someone reaches for a small bowl of salt and sprinkles it over the food. Suddenly the flavour comes alive. Now picture a conversation at a workplace, a market stall or a neighbour's door. Someone who does not know Christ asks a question, perhaps sarcastically, perhaps sincerely. One believer answers harshly, another nervously, another with a prepared speech. But one believer answers with grace, warmth and a little salt — honest, interesting, kind, fitted to that person — and the listener leans in, wanting to hear more.",
+      "meaning": "Paul says, “Let your speech always be with grace, seasoned with salt, that you may know how you ought to answer each one” (v. 6). Grace makes our speech kind; salt makes it interesting and wholesome. Christians should not be bland, and they should not be bitter. And they must be wise: “Walk in wisdom toward those who are outside, redeeming the time” (v. 5). Not every person needs the same words. Paying attention to the person in front of you, and speaking from the grace you have received, is how ordinary conversations become doors for the gospel."
+    },
+    {
+      "title": "The Second Chance on the Road",
+      "verseRef": "v. 10",
+      "image": "Picture a young man on a dusty road in Pamphylia, turning back. The mission ahead is hard and dangerous, and he is going home to Jerusalem. Years later, picture an argument between two great missionaries over whether to take him with them again: one says no, the other says yes, and they part ways. Then picture, years after that, an old apostle in chains writing a letter and pausing to add a line: ‘If Mark comes to you, receive him.’ And later still, near the end of his life, the same apostle asking for him by name: ‘Bring Mark; he is useful to me.’ The young man who turned back is welcomed home to the work.",
+      "meaning": "Mark's story is one of the most encouraging in the New Testament. Paul refused to take him on the second journey “someone who had withdrawn from them in Pamphylia, and didn’t go with them to do the work” (Acts 15:38). But Barnabas did not give up on him, and neither did God. In Colossians 4:10 Paul commends him, and in 2 Timothy he writes, “Take Mark, and bring him with you, for he is useful to me for service” (2 Timothy 4:11). Mark went on to write the second Gospel. Your past failure is not the end of your story. And if someone has failed you, ask whether God may be restoring them too."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Masters and the Master in Heaven (v. 1)",
+        "body": "The household code closes: masters must treat servants justly and fairly, remembering that they too have a Master in heaven."
+      },
+      {
+        "label": "Prayer and Witness (v. 2-6)",
+        "body": "Continue steadfastly in watchful, thankful prayer; pray for an open door for the word for the imprisoned Paul; walk wisely toward outsiders, making the most of every opportunity, with speech full of grace and seasoned with salt."
+      },
+      {
+        "label": "The Messengers (v. 7-9)",
+        "body": "Tychicus, the beloved brother and faithful servant, is sent to bring news and comfort their hearts, together with Onesimus, the faithful and beloved brother, who is one of them."
+      },
+      {
+        "label": "Greetings From Paul's Companions (v. 10-14)",
+        "body": "Aristarchus, Mark and Justus — his only Jewish fellow workers — send greetings, as do Epaphras, who wrestles in prayer for the Lycus valley churches, and Luke and Demas."
+      },
+      {
+        "label": "Final Instructions and Signature (v. 15-18)",
+        "body": "Greet Laodicea and the church in Nymphas's house; exchange letters with Laodicea; tell Archippus to fulfil his ministry; and Paul signs with his own hand, asking them to remember his chains."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Prayer That Opens Doors",
+        "paragraphs": [
+          "The household code ends with a word to the powerful: “Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven” (v. 1). The word ‘equal’ (ἰσότης) was shocking. No Roman law required masters to treat slaves fairly. But Paul places every master under a higher Master, and in doing so plants a seed that would one day grow into the end of slavery among Christian peoples. The final word on human authority is that it is accountable to Christ.",
+          "Then Paul turns to prayer. “Continue steadfastly in prayer, watching therein with thanksgiving” (v. 2). The three qualities belong together. Steadfast prayer does not give up after one request. Watchful prayer stays alert — to temptation, to the needs of others, to what God is doing. Thankful prayer remembers God's past faithfulness and so keeps hope alive. The letter began with Paul's own prayers for the Colossians (1:3, 9); now it ends by asking them to pray for him.",
+          "And what does he ask for? Not freedom, comfort or safety, but an open door: “that God may open to us a door for the word, to speak the mystery of Christ, for which I am also in bonds; that I may reveal it as I ought to speak” (vv. 3–4). The mystery of Christ is the whole message of the letter: God's eternal plan, hidden for ages, now revealed — Christ in you, the hope of glory. Paul was chained because of that message, and he wanted to keep preaching it clearly. His request shows that the gospel's progress depends not only on preachers but on the prayers of the church."
+        ]
+      },
+      {
+        "heading": "Wisdom and Words for the Watching World",
+        "paragraphs": [
+          "Not every Colossian could preach like Paul, but every one of them could live and speak wisely before unbelieving neighbours. “Walk in wisdom toward those who are outside, redeeming the time” (v. 5). The false teachers had offered a secret wisdom for insiders; Paul's wisdom is practical and turned outward. The church lives in public. Its behaviour either opens or closes doors for the gospel. And opportunities are not endless: ‘redeeming the time’ means seizing each moment the Lord gives, because it may not come again.",
+          "Then comes a beautiful description of Christian speech: “Let your speech always be with grace, seasoned with salt, that you may know how you ought to answer each one” (v. 6). Grace is the foundation: speech that reflects the grace we have received — kind, generous, never cruel. Salt adds flavour and preserves: our words should be real, thoughtful and wholesome, neither dull nor corrupt. And wisdom shapes it: ‘each one’ means that we answer people as individuals, listening before we speak. The same truth is presented differently to a grieving widow, a sceptical student and a hostile neighbour.",
+          "This connects with the vices of chapter 3. Believers are to put away “anger, wrath, malice, slander, and shameful speaking out of your mouth” (3:8), and to let “the word of Christ dwell in you richly” (3:16). A mouth emptied of slander and filled with the word of Christ will speak with grace to the watching world. Evangelism in Colossians is not a technique; it is the overflow of a transformed life."
+        ]
+      },
+      {
+        "heading": "The People Behind the Letter",
+        "paragraphs": [
+          "The final section is a list of names, and it is easy to skip. But these names show how the gospel actually spread: through a network of ordinary, faithful, flawed people. Tychicus, the courier, carried the letter and the news (vv. 7–8). Onesimus, the runaway slave turned brother, came home with him (v. 9). Aristarchus shared Paul's imprisonment (v. 10). Mark, once a deserter, was now a trusted worker (v. 10). Justus, a Jewish believer, stood by Paul when many Jews opposed him (v. 11). Epaphras wrestled in prayer (v. 12). Luke, the physician, stayed faithful to the end (v. 14). Nymphas opened a home for the church (v. 15). Archippus had a ministry to finish (v. 17).",
+          "There are warnings here too. Demas is mentioned with no description (v. 14). Years later he would abandon Paul, “having loved this present world” (2 Timothy 4:10). Being near great ministry is not the same as finishing faithfully. And Archippus receives a public charge: “Take heed to the ministry which you have received in the Lord, that you fulfill it” (v. 17). Every believer has received something from the Lord to do. Starting is good; fulfilling is the goal.",
+          "The letter ends with Paul taking the pen in his own chained hand: “The salutation of me, Paul, with my own hand: remember my bonds. Grace be with you. Amen” (v. 18). It is a moving close. The letter that proclaimed Christ as Creator, Head and Conqueror of all powers was written by a prisoner. Its final word is grace — the word that opened the letter (1:2). From beginning to end, the Christian life is grace: received in Christ, lived in Christ, shared with others in Christ."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Faces From Acts and the Later Letters",
+      "paragraphs": [
+        "Many of the names in Colossians 4 appear elsewhere in the New Testament, and their stories add depth to this chapter. Tychicus is introduced in Acts as one of Paul's travelling companions: “Tychicus and Trophimus of Asia” (Acts 20:4). In Ephesians, Paul describes him in nearly the same words as here: “Tychicus, the beloved brother and faithful servant in the Lord, will make known to you all things” (Ephesians 6:21), and adds, “whom I have sent to you for this very purpose, that you may know our state, and that he may comfort your hearts” (Ephesians 6:22). The two letters travelled together.",
+        "Mark's story begins in Jerusalem, where the church prayed for Peter in “the house of Mary, the mother of John who was called Mark” (Acts 12:12). Then came his failure and the division: “Barnabas planned to take John, who was called Mark, with them also” (Acts 15:37), and “the contention grew so sharp that they separated from each other” (Acts 15:39). Colossians 4:10 shows the reconciliation, and 2 Timothy shows it was complete: “Take Mark, and bring him with you, for he is useful to me for service” (2 Timothy 4:11).",
+        "The prayer request of verse 3 matches Ephesians 6:19, where Paul asks for prayer “that utterance may be given to me in opening my mouth, to make known with boldness the mystery of the Good News” (Ephesians 6:19), and he adds, “for which I am an ambassador in chains” (Ephesians 6:20). And the companion letter to Philemon, carried in the same bag, tells Onesimus's story in full: Paul sends him back to his master no longer as a slave but as a beloved brother. Colossians 4:9 is the public side of that private appeal."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Continue steadfastly / persevere",
+      "hebrew": "προσκαρτερέω",
+      "translit": "proskarteréō",
+      "strongs": "G4342",
+      "verses": "v. 2",
+      "insight": "Strong's: “to be earnest towards, i.e. (to a thing) to persevere, be constantly diligent.” The word combines πρός, towards, and καρτερέω, to be strong or to endure. It describes the first believers, who “continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and prayer” (Acts 2:42), and Romans 12:12 uses it of being ‘constant in prayer’. It is not a burst of prayer in a crisis but a stubborn, settled devotion. Prayer is a habit of the strong-hearted, who keep coming back to God when answers are slow."
+    },
+    {
+      "english": "Redeem / buy up",
+      "hebrew": "ἐξαγοράζω",
+      "translit": "exagorázō",
+      "strongs": "G1805",
+      "verses": "v. 5",
+      "insight": "Strong's: “to buy up, i.e. ransom; figuratively, to rescue from loss (improve opportunity).” The word combines ἐκ, out of, and ἀγοράζω, to buy in the market (ἀγορά). In Galatians 3:13 and 4:5 it is used of Christ redeeming us from the curse of the law. Here it is used of time: buy up the καιρός, the opportunity, before it is lost. A merchant who sees a rare bargain does not wait until tomorrow. Believers are to treat every conversation with an outsider as precious and limited."
+    },
+    {
+      "english": "Salt",
+      "hebrew": "ἅλας",
+      "translit": "hálas",
+      "strongs": "G217",
+      "verses": "v. 6",
+      "insight": "Strong's: “salt; figuratively, prudence.” Salt was essential in the ancient world for preserving food and giving it flavour; it was also used in sacrifices and covenants. Jesus said, “You are the salt of the earth” (Matthew 5:13) and, “Have salt in yourselves, and be at peace with one another” (Mark 9:50). Speech seasoned with salt is wholesome rather than corrupt, interesting rather than bland, and wise rather than careless. Too little salt is tasteless; too much is unpleasant. Wise speech knows the right measure for each person."
+    },
+    {
+      "english": "Strive / agonise / wrestle",
+      "hebrew": "ἀγωνίζομαι",
+      "translit": "agōnízomai",
+      "strongs": "G75",
+      "verses": "v. 12",
+      "insight": "Strong's: “to struggle, literally (to compete for a prize), figuratively (to contend with an adversary), or genitive case (to endeavor to accomplish something).” It is the root of our word ‘agonise’. Paul uses it of himself in 1:29 — “striving according to his working” — and of the good fight of faith in 1 Timothy 6:12. Here it describes Epaphras's prayers. Prayer is not passive. It is a contest, a wrestling for people's spiritual growth against everything that would hold them back. Epaphras could not be in Colossae, but he could fight for them on his knees."
+    },
+    {
+      "english": "Ministry / service",
+      "hebrew": "διακονία",
+      "translit": "diakonía",
+      "strongs": "G1248",
+      "verses": "v. 17",
+      "insight": "Strong's: “attendance (as a servant, etc.); figuratively (eleemosynary) aid, (official) service.” From διάκονος, servant, the word originally described waiting at tables. In Acts 6:1–4 it is used both for serving food to widows and for the ministry of the word. All ministry is service. Archippus is told to take heed to the ministry ‘received in the Lord’: it is a gift and a trust from Christ, not a career or a title. And it must be fulfilled, brought to completion. Every believer has a διακονία to discover and to finish."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the faithfulness of your prayers, the flavour of your words, and the finishing of your ministry.",
+    "items": [
+      {
+        "title": "The Prayer That Keeps Going",
+        "body": "Many believers pray in bursts: when there is a crisis, or after a powerful meeting. The Spirit is calling you to “Continue steadfastly in prayer” (v. 2). Who have you stopped praying for because the answer was slow? Which missionary, pastor or persecuted believer needs you to ask God for an open door? Epaphras could not travel to Colossae, but he could wrestle for it in prayer. The Spirit may be giving you a person or a place to carry before God like that — steadily, watchfully, thankfully — until the door opens."
+      },
+      {
+        "title": "Grace and Salt",
+        "body": "The Spirit listens to how you speak — at work, online, at home, to people who do not share your faith. Are your words gracious, or sharp? Are they salty, or tasteless and empty? Do you speak at people, or do you listen and answer each one? Paul says, “Let your speech always be with grace, seasoned with salt” (v. 6). Ask the Spirit to show you one conversation this week that could become an open door, and to fill your mouth with words that make Christ attractive."
+      },
+      {
+        "title": "Finish What He Gave You",
+        "body": "The Spirit is speaking to every Archippus: “Take heed to the ministry which you have received in the Lord, that you fulfill it” (v. 17). Perhaps you started something God gave you — a calling, a ministry, a prayer burden, a person to disciple — and you have drifted. Perhaps, like Demas, the present world has become more attractive. Or perhaps, like Mark, you failed once and believe you are disqualified. The Spirit says: take it up again. What the Lord gave you is still yours to fulfil."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Prayer Check",
+        "body": "List the people and places you have prayed for in the past week. Is your prayer steady, watchful and thankful (v. 2)? Add one missionary or pastor to your list and pray specifically for an open door for the word (v. 3)."
+      },
+      {
+        "title": "The Speech Check",
+        "body": "Think back over your conversations with unbelievers this week. Were your words gracious? Were they salty, or empty? Did you listen enough to know how to answer each one (v. 6)? Write down one conversation you would like to have again, and how you would answer differently."
+      },
+      {
+        "title": "The Faithfulness Check",
+        "body": "Read the names in verses 7–17. Which of these people are you most like: the faithful courier, the restored failure, the wrestler in prayer, the host, the one who drifted? Ask God what ministry you have received from Him, and whether you are fulfilling it (v. 17)."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "The Open Door List",
+        "body": "Make a short list of five people or ministries who are carrying the gospel in hard places: a missionary, a pastor, a persecuted church, a friend who shares Christ at work. For each, write one ‘open door’ prayer based on verses 3–4: that God would give them opportunity, clarity and boldness. Pray through the list every day for a week. Then, if you can, send one of them a short message telling them you are praying — like Epaphras, striving for them in prayer."
+      },
+      {
+        "title": "A Tychicus Visit",
+        "body": "Tychicus was sent to bring news and comfort hearts (v. 8). This week, be a Tychicus to someone. Choose a believer who is discouraged, isolated or new in faith. Visit them, call them or write to them. Bring real news of what God is doing, listen to their circumstances, and speak words of grace seasoned with salt. Before you go, pray that the Lord would use you to comfort their heart. Afterward, write down what God showed you through that encounter."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, You are my Master in heaven. Make me just and fair to everyone under my care, and faithful to everyone I serve. Teach me to continue steadfastly in prayer, watchful and thankful, not giving up when the answer is slow. Open doors for Your word — for missionaries, pastors and believers in chains, and for me in my own place. Give clarity and boldness to those who speak the mystery of Christ. Help me walk in wisdom toward those who do not yet know You, and to make the most of every opportunity You give. Let my speech always be gracious and seasoned with salt, so that I may know how to answer each person. Thank You for the faithful people who carried the gospel to me. Make me like Tychicus, bringing comfort; like Epaphras, wrestling in prayer; like Luke, faithful to the end. Keep me from loving this present world like Demas. Thank You that, as with Mark, failure is not final with You. Show me the ministry I have received from You, and give me grace to fulfil it. Your grace began my story, and Your grace will finish it. Grace be with Your people. Amen.”",
+  "storyConnections": [
+    {
+      "title": "Mark's Restoration",
+      "ref": "Acts 15:36-41",
+      "relatedVerses": "v. 10",
+      "summary": "When Paul proposed revisiting the churches of the first journey, Barnabas wanted to take his cousin Mark. Paul refused, because Mark had “withdrawn from them in Pamphylia, and didn’t go with them to do the work” (Acts 15:38). The disagreement was so sharp that the two great missionaries separated: Barnabas took Mark to Cyprus, and Paul chose Silas. It is one of the saddest moments in Acts. Yet years later, in Colossians 4:10, Mark is with Paul in Rome, and Paul tells the churches to welcome him. In his last letter, Paul asks for him: “Take Mark, and bring him with you, for he is useful to me for service” (2 Timothy 4:11). The man who once quit became the author of the Gospel of Mark. Barnabas's patience and God's grace restored him, and Paul himself was big enough to change his mind."
+    },
+    {
+      "title": "Demas Who Loved This Present World",
+      "ref": "2 Timothy 4:9-11",
+      "relatedVerses": "v. 14",
+      "summary": "In Colossians 4:14 and Philemon, Demas is listed among Paul's fellow workers, side by side with Luke. He had travelled with the apostle, seen the gospel's power and shared the hardships of imprisonment. But in Paul's last letter, written from a colder, lonelier prison, the news is sad: “for Demas left me, having loved this present world, and went to Thessalonica” (2 Timothy 4:10). And then: “Only Luke is with me” (2 Timothy 4:11). The two names that stood together in Colossians had gone in opposite directions. Demas's story is a sober reminder that closeness to ministry does not guarantee faithfulness, and that love for the present world can quietly pull a believer away. It is the reverse of Mark's story, and both are in Scripture for our instruction."
+    },
+    {
+      "title": "Onesimus Comes Home",
+      "ref": "Philemon 1-25",
+      "relatedVerses": "v. 9; 3:11; 4:1",
+      "summary": "Onesimus was a slave in the household of Philemon, a believer in Colossae. He ran away — possibly having stolen from his master — and somehow ended up near Paul in prison, where he came to faith in Christ. Paul grew to love him like a son. Rather than keeping him, Paul sent him back to Colossae with Tychicus, carrying a short personal letter to Philemon. In it Paul asks Philemon to receive Onesimus no longer just as a slave but as a beloved brother, and even to welcome him as he would welcome Paul himself, with any debt charged to Paul's account. In Colossians 4:9, the whole church hears Onesimus introduced as ‘the faithful and beloved brother, who is one of you’. The truth of 3:11 — that in Christ there is no slave or free — walked through the door of the Colossian church in person."
+    }
+  ]
+}

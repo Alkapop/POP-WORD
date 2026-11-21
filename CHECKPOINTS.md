@@ -127,5 +127,29 @@ only marked ✅ when its checks actually ran and passed.
 | # | Book | Status |
 |---|------|--------|
 | 46 | 1 Corinthians | ✅ live |
-| 50 | Philippians | ✅ built & verified |
-| 51 | Colossians (4 ch.) | next — bridge from Philippians; Road Ahead → 1 & 2 Thessalonians |
+| 50 | Philippians | ✅ live |
+| 51 | Colossians | ✅ built & verified |
+
+---
+
+## 2026-11-21 — Colossians
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 16KB | — | ✅ | ✅ | Bridge from Philippians (matches its Road Ahead) |
+| Chapter 1 | 53KB | 29/29 | ✅ | ✅ | |
+| Chapter 2 | 50KB | 23/23 | ✅ | ✅ | Caught & fixed: 1 Timothy 4:3 (“commanding to abstain”); Ephesians 2:1 and 2:5 split |
+| Chapter 3 | 49KB | 25/25 | ✅ | ✅ | Caught & fixed: Colossians 2:23 (“aren’t of any value against…”) |
+| Chapter 4 | 40KB | 18/18 | ✅ | ✅ | Caught & fixed: Philippians 1:13 (“palace guard”). Philemon quoted only in paraphrase (local source still 1 verse, see FIXES-TODO) |
+| Final Masterclass Review | 18KB | — | ✅ | ✅ (138 quotes) | Road Ahead → 1 Thessalonians, 2 Thessalonians |
+
+- **Book total:** 4 chapters, 95/95 verses, 498 Greek word tags, 20 lexicon entries,
+  138 referenced quotations checked against the WEB. Compiled `app/data/books/colossians.js` = 241KB.
+- **G3** ✅ all 6 documents render (intro, ch. 1–4, review); verse tap + lexicon panel work; no errors.
+- Backlog in older books unchanged: 33 NOT-IN-WEB / 32 LEMMA / 29 WRONG-REF (`FIXES-TODO.md`).
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 51 | Colossians | ✅ built & verified |
+| 52 | 1 Thessalonians (5 ch.) | next — bridge from Colossians; Road Ahead → 2 Thessalonians, 1 Timothy |
