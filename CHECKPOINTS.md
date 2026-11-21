@@ -59,6 +59,7 @@ only marked ✅ when its checks actually ran and passed.
 | Chapter 4 | 46KB | 21/21 | ✅ | ✅ (68 total) | |
 | Chapter 5 | 39KB | 13/13 | ✅ | ✅ (79 total) | |
 | Chapter 6 | 47KB | 20/20 | ✅ | ✅ (91 total) | Paraphrase in quote marks flagged & reworded (v. 4); 6:9 terms handled per the strongest textual reading |
+| Chapter 7 | 60KB | 40/40 | ✅ | ✅ (104 total) | Debated texts (7:15, 7:21, 7:36) given one honest sentence each |
 
 ### CP-05 ⚠️ Data bug found: single-chapter books fetched as one verse
 - `sources/bible/{philemon,2john,3john,jude}-1.json` each hold only verse 1 (bible-api read
