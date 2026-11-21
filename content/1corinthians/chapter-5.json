@@ -1,0 +1,606 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 5,
+  "chapterTitle": "A Little Yeast — Holiness, Discipline and Christ Our Passover",
+  "themeTitle": "“The Church That Is Proud of Its Tolerance Has Stopped Mourning Over Sin”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father’s wife.",
+      "understanding": "Ὅλως — actually, as a matter of common knowledge. This is not rumour; it is being talked about openly. Πορνεία is the broad New Testament word for sexual immorality of every kind, and this case was of a sort that “is not even named among the Gentiles”: a man “has” — the present tense suggests an ongoing relationship, probably cohabitation or marriage — “his father’s wife.” Paul does not say “his mother,” so she was most likely his stepmother. Leviticus 18:8 forbade it, and Roman law forbade it too. Pagan Corinth would have been scandalised. The church was not.",
+      "words": [
+        {
+          "strongs": "G3654",
+          "hebrew": "ὅλως",
+          "translit": "hólōs",
+          "english": "actually"
+        },
+        {
+          "strongs": "G4202",
+          "hebrew": "πορνεία",
+          "translit": "porneía",
+          "english": "sexual immorality"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "Gentiles"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wife"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "You are puffed up, and didn’t rather mourn, that he who had done this deed might be removed from among you.",
+      "understanding": "The shocking thing is not only the sin but the church's attitude to it. “You are φυσιόω — puffed up.” The verb is perfect: they have become inflated and remain so. Perhaps they were proud of their tolerance, of their liberty, of their freedom from old moral rules. What they should have done is πενθέω — mourn, grieve as at a funeral. The proper response to sin in the church is not pride, and it is not merely disapproval. It is grief.",
+      "words": [
+        {
+          "strongs": "G5448",
+          "hebrew": "φυσιόω",
+          "translit": "physióō",
+          "english": "puffed up"
+        },
+        {
+          "strongs": "G3996",
+          "hebrew": "πενθέω",
+          "translit": "penthéō",
+          "english": "mourn"
+        },
+        {
+          "strongs": "G142",
+          "hebrew": "αἴρω",
+          "translit": "aírō",
+          "english": "removed"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For I most certainly, as being absent in body but present in spirit, have already, as though I were present, judged him who has done this thing.",
+      "understanding": "Paul is ἄπειμι, absent, in body, but πάρειμι, present, in spirit. He has already reached a verdict — κρίνω in the perfect tense: I have judged and the judgment stands. This is apostolic authority exercised from a distance. Notice he says he has judged “him who has done this thing.” His verdict is on the man. Interestingly, the woman is not addressed; she was probably not a member of the church.",
+      "words": [
+        {
+          "strongs": "G548",
+          "hebrew": "ἄπειμι",
+          "translit": "ápeimi",
+          "english": "absent"
+        },
+        {
+          "strongs": "G3918",
+          "hebrew": "πάρειμι",
+          "translit": "páreimi",
+          "english": "present"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "In the name of our Lord Jesus Christ, you being gathered together, and my spirit, with the power of our Lord Jesus Christ,",
+      "understanding": "The action must be taken by the gathered church — συνάγω, assembled together — “in the name of our Lord Jesus Christ” and “with the power of our Lord Jesus Christ.” Church discipline is not a private decision by a leader. It is a solemn act of the whole congregation, carried out in Christ's name and authority, with Paul's spirit joined to theirs.",
+      "words": [
+        {
+          "strongs": "G4863",
+          "hebrew": "συνάγω",
+          "translit": "synágō",
+          "english": "gathered together"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "are to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.",
+      "understanding": "One of the most difficult verses in Paul. Παραδίδωμι — to hand over — this man “to Satan.” Most interpreters understand it as removal from the fellowship of the church, putting him back into the realm outside where Satan rules (compare 1 Timothy 1:20). “For the ὄλεθρος of the flesh” is debated: it may mean physical suffering or even death, or the destruction of his sinful nature, the σάρξ in its moral sense. But the purpose is unmistakable and it is redemptive: “that the spirit may be saved in the day of the Lord Jesus.” The goal of discipline is not punishment for its own sake. It is rescue.",
+      "words": [
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "deliver"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        },
+        {
+          "strongs": "G3639",
+          "hebrew": "ὄλεθρος",
+          "translit": "ólethros",
+          "english": "destruction"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Your boasting is not good. Don’t you know that a little yeast leavens the whole lump?",
+      "understanding": "Καύχημα — your boast, the thing you are glorying in. It is “not good.” Then a proverb every household knew: “a little yeast leavens the whole lump.” Ζύμη in the ancient world was not packaged yeast but a piece of old fermented dough kept back from the previous batch and worked into the new. A tiny piece spreads through all of it. Tolerated sin does not stay contained. It works its way into everything.",
+      "words": [
+        {
+          "strongs": "G2745",
+          "hebrew": "καύχημα",
+          "translit": "kaúchēma",
+          "english": "boasting"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G2219",
+          "hebrew": "ζύμη",
+          "translit": "zýmē",
+          "english": "yeast"
+        },
+        {
+          "strongs": "G3398",
+          "hebrew": "μικρός",
+          "translit": "mikrós",
+          "english": "little"
+        },
+        {
+          "strongs": "G2220",
+          "hebrew": "ζυμόω",
+          "translit": "zymóō",
+          "english": "leavens"
+        },
+        {
+          "strongs": "G5445",
+          "hebrew": "φύραμα",
+          "translit": "phýrama",
+          "english": "lump"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Purge out the old yeast, that you may be a new lump, even as you are unleavened. For indeed Christ, our Passover, has been sacrificed in our place.",
+      "understanding": "Ἐκκαθαίρω — clean out thoroughly. The picture is the Jewish household before Passover, searching every corner for leaven and removing it (Exodus 12:15). “That you may be a νέος lump” — new, fresh — “even as you are ἄζυμοι,” unleavened. Notice the logic: become what you are. In Christ they are already unleavened; now they must live like it. Why? “For indeed Christ, our πάσχα, has been θύω — sacrificed.” The Lamb has already been slain. You cannot keep the feast with leaven in the house.",
+      "words": [
+        {
+          "strongs": "G1571",
+          "hebrew": "ἐκκαθαίρω",
+          "translit": "ekkathaírō",
+          "english": "purge out"
+        },
+        {
+          "strongs": "G3820",
+          "hebrew": "παλαιός",
+          "translit": "palaiós",
+          "english": "old"
+        },
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "new"
+        },
+        {
+          "strongs": "G106",
+          "hebrew": "ἄζυμος",
+          "translit": "ázymos",
+          "english": "unleavened"
+        },
+        {
+          "strongs": "G3957",
+          "hebrew": "πάσχα",
+          "translit": "páscha",
+          "english": "Passover"
+        },
+        {
+          "strongs": "G2380",
+          "hebrew": "θύω",
+          "translit": "thýō",
+          "english": "sacrificed"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Therefore let us keep the feast, not with old yeast, neither with the yeast of malice and wickedness, but with the unleavened bread of sincerity and truth.",
+      "understanding": "Ἑορτάζω — let us keep the festival. The whole Christian life is a continual Passover celebration, because the Lamb has been slain once for all. And the feast is kept with the right bread. Not with the yeast of κακία, malice, and πονηρία, wickedness. With the unleavened bread of εἰλικρίνεια — purity, sincerity; the word may come from testing something in sunlight to see if it is clean — and ἀλήθεια, truth.",
+      "words": [
+        {
+          "strongs": "G1858",
+          "hebrew": "ἑορτάζω",
+          "translit": "heortázō",
+          "english": "keep the feast"
+        },
+        {
+          "strongs": "G2549",
+          "hebrew": "κακία",
+          "translit": "kakía",
+          "english": "malice"
+        },
+        {
+          "strongs": "G4189",
+          "hebrew": "πονηρία",
+          "translit": "ponēría",
+          "english": "wickedness"
+        },
+        {
+          "strongs": "G1505",
+          "hebrew": "εἰλικρίνεια",
+          "translit": "eilikríneia",
+          "english": "sincerity"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "I wrote to you in my letter to have no company with sexual sinners;",
+      "understanding": "A precious historical detail: Paul had written to them before. “I wrote to you in my letter.” That earlier letter has not survived. In it he had told them not to συναναμίγνυμι — mix together with, keep company with — πόρνοι, sexually immoral people. They had apparently misunderstood it, or chose to.",
+      "words": [
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "wrote"
+        },
+        {
+          "strongs": "G4874",
+          "hebrew": "συναναμίγνυμι",
+          "translit": "synanamígnymi",
+          "english": "have company"
+        },
+        {
+          "strongs": "G4205",
+          "hebrew": "πόρνος",
+          "translit": "pórnos",
+          "english": "sexual sinners"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "yet not at all meaning with the sexual sinners of this world, or with the covetous and extortionists, or with idolaters; for then you would have to leave the world.",
+      "understanding": "Paul clarifies. He did not mean the immoral people of this world. Nor the πλεονέκται, the greedy, those who always want more; nor the ἅρπαγες, the swindlers, the grabbers; nor the idolaters. If he had meant that, “you would have to leave the world.” The church is not called to withdraw from sinners. Jesus ate with them. Paul worked alongside them making tents.",
+      "words": [
+        {
+          "strongs": "G4205",
+          "hebrew": "πόρνος",
+          "translit": "pórnos",
+          "english": "sexual sinners"
+        },
+        {
+          "strongs": "G4123",
+          "hebrew": "πλεονέκτης",
+          "translit": "pleonéktēs",
+          "english": "covetous"
+        },
+        {
+          "strongs": "G727",
+          "hebrew": "ἅρπαξ",
+          "translit": "hárpax",
+          "english": "extortionists"
+        },
+        {
+          "strongs": "G1496",
+          "hebrew": "εἰδωλολάτρης",
+          "translit": "eidōlolátrēs",
+          "english": "idolaters"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "But as it is, I wrote to you not to associate with anyone who is called a brother who is a sexual sinner, or covetous, or an idolater, or a slanderer, or a drunkard, or an extortionist. Don’t even eat with such a person.",
+      "understanding": "The real instruction: do not associate with “anyone who is called a brother” — someone who claims the name of Christ and belongs to the church — who lives in these sins without repentance. The list grows: sexually immoral, greedy, idolater, λοίδορος (a verbal abuser, a slanderer), μέθυσος (a drunkard), swindler. Note that greed and slander stand right beside sexual sin. “Don’t even eat with such a person” — probably including the Lord's Supper and the common meals of the church. The withdrawal of table fellowship was meant to say: you cannot have both Christ and this.",
+      "words": [
+        {
+          "strongs": "G4874",
+          "hebrew": "συναναμίγνυμι",
+          "translit": "synanamígnymi",
+          "english": "associate"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G3060",
+          "hebrew": "λοίδορος",
+          "translit": "loídoros",
+          "english": "slanderer"
+        },
+        {
+          "strongs": "G3183",
+          "hebrew": "μέθυσος",
+          "translit": "méthysos",
+          "english": "drunkard"
+        },
+        {
+          "strongs": "G4906",
+          "hebrew": "συνεσθίω",
+          "translit": "synesthíō",
+          "english": "eat with"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For what do I have to do with also judging those who are outside? Don’t you judge those who are within?",
+      "understanding": "Two spheres. Those ἔξω — outside — are not Paul's concern to judge. Those ἔσω — inside — are the church's concern. The church has no mandate to police the morality of unbelievers. It has every mandate to care about the holiness of its own members. Most churches get this exactly backwards: loud about the sins of the world, silent about the sins of the pew.",
+      "words": [
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judging"
+        },
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outside"
+        },
+        {
+          "strongs": "G2080",
+          "hebrew": "ἔσω",
+          "translit": "ésō",
+          "english": "within"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But those who are outside, God judges. “Put away the wicked man from among yourselves.”",
+      "understanding": "Those outside, God judges — and He will. The church does not need to take His place. Then Paul quotes a refrain that appears repeatedly in Deuteronomy (for example 17:7; 22:24): “Put away the wicked man from among yourselves.” Ἐξαίρω — remove. In Israel those texts often called for the death penalty. In the church, the sentence is removal from fellowship — with the hope of restoration.",
+      "words": [
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outside"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judges"
+        },
+        {
+          "strongs": "G1808",
+          "hebrew": "ἐξαίρω",
+          "translit": "exaírō",
+          "english": "put away"
+        },
+        {
+          "strongs": "G4190",
+          "hebrew": "πονηρός",
+          "translit": "ponērós",
+          "english": "wicked"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Funeral That Never Happened",
+      "verseRef": "v. 1-2",
+      "image": "Picture a Corinthian house church gathered on a Sunday evening. The singing is enthusiastic. Someone speaks in tongues; someone else prophesies. People are discussing their freedom in Christ with great sophistication. And in the corner sits a man with his arm around his father's wife — everyone knows, everyone has heard, and no one says anything. Some even seem quietly proud of how broad-minded the congregation has become. Now picture what Paul says should have happened: the room going silent, the singing stopping, people weeping as they do at a funeral, because a member of the body is dying.",
+      "meaning": "Paul's main charge is not against the man but against the church: “You are puffed up, and didn’t rather mourn.” Πενθέω is the word for grieving the dead. That is the proper response to serious, unrepentant sin among God's people. Not pride in our tolerance. Not a shrug. Not gossip. And not a cold, self-righteous condemnation either. Grief. A church that has lost the ability to mourn over sin has lost something essential, and the result is always the same: it becomes proud of the very things that should break its heart. Ask yourself: what sin in your own life or in your church have you stopped grieving over because it has become normal?"
+    },
+    {
+      "title": "The Search by Lamplight",
+      "verseRef": "v. 6-8",
+      "image": "It is the night before Passover in a Jewish home. The father takes a lamp and goes through the whole house — every room, every shelf, every corner of the kitchen floor — looking for leaven. Not a whole loaf; a crumb, a scrap of old dough. The children follow him, watching. When the house has been searched the leaven is gathered and burned. The next day the lamb is slain, and that evening the family eats the Passover with unleavened bread, the way their fathers did on the night God brought them out of Egypt.",
+      "meaning": "Paul sees the whole Christian life in that scene. “Christ, our Passover, has been sacrificed in our place.” The Lamb has already been slain. The feast has already begun. So the leaven must go — the old dough of malice and wickedness. Notice the order: Paul does not say “clean out the leaven so that Christ will be sacrificed for you.” He says, “Christ has been sacrificed; therefore clean it out.” Holiness is not the price of redemption. It is the response to it. And notice the image of leaven itself: a small piece spreads through the whole batch. Tolerated sin never stays where you put it. Search the house, by the light of the Spirit, before it spreads."
+    },
+    {
+      "title": "Two Doors and One Table",
+      "verseRef": "v. 9-13",
+      "image": "Picture two doors. The first opens onto the street — the docks, the marketplace, the workshops of Corinth. Paul walks through it every day. He sits beside idol-worshippers at the tent bench. He buys bread from greedy merchants. He shares meals with people whose lives are a moral wreck. The second door opens into the house church. Behind it is a table where believers eat the Lord's Supper together. And at that table sits a man who calls himself a brother while living in open, unrepentant sin. Paul says: at the first door, keep going in. At the second door, that man cannot sit at the table.",
+      "meaning": "This is one of the most misunderstood principles in the Christian life, and churches get it wrong in both directions. Some withdraw from the world, refusing to associate with unbelievers, and Paul says that is absurd — “you would have to leave the world.” Others welcome unrepentant sin inside the church while condemning the sins of outsiders, and Paul says that is backwards. “What do I have to do with also judging those who are outside? Don’t you judge those who are within?” The church's mission to the world is to go out into it with the gospel, eating with sinners as Jesus did. The church's responsibility to itself is to guard the table. Notice also that greed, slander and drunkenness are on the list beside sexual sin. Holiness is not selective."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Sin and the Church's Pride (v. 1-2)",
+        "body": "A man is living with his father's wife — a sin even pagans reject — and the church is puffed up instead of mourning and removing him."
+      },
+      {
+        "label": "Paul's Verdict and the Church's Action (v. 3-5)",
+        "body": "Though absent, Paul has already judged; the church, gathered in Jesus' name and power, must deliver the man to Satan for the destruction of the flesh, so that his spirit may be saved."
+      },
+      {
+        "label": "The Leaven and the Passover (v. 6-8)",
+        "body": "Their boasting is not good, because a little leaven spreads through the whole lump; Christ our Passover has been sacrificed, so they must clean out the old leaven and keep the feast with sincerity and truth."
+      },
+      {
+        "label": "Correcting a Misunderstanding (v. 9-13)",
+        "body": "Paul's earlier letter did not mean to avoid immoral people in the world, but to refuse fellowship with a professing brother who persists in serious sin; God judges outsiders, and the church must judge those within."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Real Scandal Was Not the Sin but the Pride",
+        "paragraphs": [
+          "The sin of verse 1 was shocking, and Paul says so: it was a kind of πορνεία “not even named among the Gentiles.” A man had his father's wife — almost certainly his stepmother, since Paul would have said “mother” otherwise — and the present tense of “has” indicates an ongoing relationship, not a single act. Leviticus 18:8 prohibited it explicitly. Roman law prohibited it too; the orator Cicero, in a speech defending a client, describes a woman who married her own son-in-law as an almost unbelievable crime. Corinth, for all its reputation, would have regarded this as disgraceful. Notice too that Paul addresses only the man. The woman was probably not a believer, and Paul consistently refuses to judge those outside the church (v. 12).",
+          "But look at where Paul aims his heaviest fire. Not at the man; at the church. “You are puffed up, and didn’t rather mourn” (v. 2). The perfect tense of the verb suggests a settled state of arrogance. What were they proud of? Paul does not say directly, but the rest of the letter offers a strong clue. Corinth had a slogan, “All things are lawful for me” (6:12; 10:23), probably a distortion of Paul's own teaching about freedom from the law. It is very possible that some in the church regarded their tolerance of this relationship as evidence of how far they had moved beyond old moral categories. They were not ashamed of the sin. They were proud of their acceptance of it.",
+          "That is a pattern every generation of the church needs to recognise. There is a kind of spiritual pride that boasts of its strictness, and Jesus condemned it in the Pharisees. And there is another kind of spiritual pride that boasts of its tolerance, of how liberated and open-minded it has become, and Paul condemns it here. Both are puffed up. The right response to serious sin in the church is neither harshness nor indifference. It is grief. Πενθέω — mourning, the word used for grieving the dead. The church should have wept over this man before it ever removed him. Discipline that does not begin with grief will always become cruel. And tolerance that has lost the capacity to grieve has stopped loving the person it claims to accept."
+        ]
+      },
+      {
+        "heading": "Delivered to Satan: What Church Discipline Is and Is Not",
+        "paragraphs": [
+          "Verses 3 to 5 contain some of the most solemn language in the New Testament. Paul has already judged the man, and the church is to assemble, “in the name of our Lord Jesus Christ” and “with the power of our Lord Jesus Christ,” and “deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.” What does it mean? The clearest explanation is in verses 2 and 13: “that he who had done this deed might be removed from among you” and “Put away the wicked man from among yourselves.” To be delivered to Satan is to be put out of the fellowship of the church — out of the sphere where Christ's people gather under His protection and back into the world, where Satan operates as “the prince of this world” (John 12:31). Paul uses the same expression in 1 Timothy 1:20 of two men he had delivered to Satan “that they might be taught not to blaspheme.” The aim there, too, is correction.",
+          "“For the destruction of the flesh” is honestly debated. Some understand σάρξ physically: the man would experience bodily suffering, sickness or even death as a consequence (compare 11:30, where Paul says some believers had become weak, sick, or had died for abusing the Lord's Supper). Others understand σάρξ morally, as Paul often uses it: the sinful nature, the fleshly self that was driving this sin, would be destroyed by the painful experience of exclusion. The grammar allows both. What is not debated is the purpose clause: “that the spirit may be saved in the day of the Lord Jesus.” The goal of the whole action is the man's ultimate salvation. Church discipline in the New Testament is never merely punitive. It is a severe mercy — an emergency procedure to shock someone back to life before it is too late.",
+          "Did it work? It is possible that it did. In 2 Corinthians 2:5–8 Paul writes about a man who had been punished by the majority of the church, and urges them to “forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow. Therefore I beg you to confirm your love toward him.” Whether that is the same man is genuinely debated, and many scholars think it refers to someone who personally opposed Paul during a later visit. But the pattern is the same either way. Discipline aims at repentance, and when repentance comes, restoration must follow quickly and warmly. Jesus gave the same pattern in Matthew 18:15–17: private confrontation first, then a few witnesses, then the church, and only then “let him be to you as a Gentile or a tax collector.” Each step is an opportunity to come back. The door out is always also the door back in."
+        ]
+      },
+      {
+        "heading": "Christ Our Passover: Why Holiness Is the Shape of the Feast",
+        "paragraphs": [
+          "In verses 6 to 8 Paul turns from the specific case to the principle beneath it, and he uses a picture every Jewish believer in Corinth would have recognised instantly. Before Passover, every household had to remove all leaven (Exodus 12:15). In the ancient world, leaven was not dried yeast from a packet; it was a piece of old dough, kept back from the last batch, sour and fermenting, and mixed into the new. A small piece would work its way through the entire lump. That made it a natural image for corruption that spreads. Jesus used it: “Beware of the yeast of the Pharisees, which is hypocrisy” (Luke 12:1). Paul uses the same proverb in Galatians: “A little yeast grows through the whole lump” (Galatians 5:9). The point is simple and serious. Tolerated sin does not stay contained. It spreads.",
+          "Then Paul says something astonishing: “For indeed Christ, our Passover, has been sacrificed in our place” (v. 7). He takes the whole Passover story and lays it over the Christian life. The lamb has been slain. Its blood has been applied. The angel of death has passed over. The people have been brought out of slavery. And so the feast has begun — the whole Christian life is a continual Passover celebration — and it must be kept with the right bread. It is possible, though not certain, that Paul was writing near the actual Passover season; in 16:8 he says he will stay in Ephesus until Pentecost, which follows Passover by fifty days. Either way, the imagery would have been vivid.",
+          "Notice the logic of verse 7 carefully, because it is the logic of the whole New Testament ethic: “Purge out the old yeast, that you may be a new lump, even as you are unleavened.” Become what you are. In Christ the Corinthians are already unleavened — cleansed, forgiven, a new batch. Their task is not to earn that status but to live consistently with it. Holiness is never the price of redemption; it is the shape of a redeemed life. Then verses 9 to 13 apply it carefully. Paul's previous letter (now lost) had told them not to associate with immoral people, and they had apparently either misunderstood or twisted it. He clarifies: he did not mean the people of this world, “for then you would have to leave the world.” He meant professing believers who persist in serious, unrepentant sin. The church does not judge the world; God does. The church guards its own table. That is not hypocrisy. It is the difference between a mission and a family."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "“Christ, our Passover, has been sacrificed in our place” (v. 7) is the clearest statement in Paul's letters that Jesus fulfils the Passover. John the Baptist had pointed to Him at the very beginning of His ministry: “Behold, the Lamb of God, who takes away the sin of the world!” (John 1:29). John's Gospel times the crucifixion to the day of Preparation for the Passover, when the lambs were being slaughtered in the temple, and notes that none of Jesus' bones were broken, as with the Passover lamb (John 19:31–36; Exodus 12:46). Peter draws the same line: “you were redeemed, not with corruptible things, with silver or gold, from the useless way of life handed down from your fathers, but with precious blood, as of a lamb without blemish or spot, the blood of Christ” (1 Peter 1:18–19). And at the Last Supper, which took place in a Passover setting, Jesus Himself took the bread and the cup and reinterpreted them around His own body and blood — as Paul will recount to this same church in 11:23–26.",
+        "Paul's instruction for church discipline follows the pattern Jesus gave His disciples. “If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you... If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector” (Matthew 18:15–17). Notice Jesus' stated goal: “you have gained back your brother.” And notice how Jesus Himself treated Gentiles and tax collectors — He ate with them and called them to repentance (Matthew 9:10–13). To be put out of the church is to be treated as someone who needs to hear the gospel again, not as someone beyond hope.",
+        "The danger of tolerating sin in the church is spelled out again in the letters of the risen Christ to the seven churches. To Thyatira He says: “But I have this against you, that you tolerate your woman, Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality, and to eat things sacrificed to idols” (Revelation 2:20). Tolerance of persistent, unrepentant sin is not a virtue in the eyes of Christ. It is a charge He brings against His own church. At the same time, the gospel always holds the door open. Paul's second letter to Corinth includes the plea to forgive and comfort a man the church had disciplined, “lest by any means such a one should be swallowed up with his excessive sorrow” (2 Corinthians 2:7). Holiness and mercy are not opposites. They are the two hands of the same love."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Sexual immorality",
+      "hebrew": "πορνεία",
+      "translit": "porneía",
+      "strongs": "G4202",
+      "verses": "v. 1 (×2; and 6:13, 18; 7:2)",
+      "insight": "Strong's: “harlotry (including adultery and incest); figuratively, idolatry.” Πορνεία is the broad New Testament word for sexual activity outside of marriage between a man and a woman, and it is the root of our word pornography. It is related to πόρνη, a prostitute, and to πόρνος, the word in verses 9 to 11 for a sexually immoral person. The word covers far more than prostitution, as this chapter shows: here it describes incest. In 1 Corinthians it appears five times, more than in any other of Paul’s letters, because Corinth's culture treated sexual freedom as normal and some in the church had imported that view into their Christianity. Paul's answer in the next chapter will be that the body belongs to the Lord."
+    },
+    {
+      "english": "Mourn / grieve",
+      "hebrew": "πενθέω",
+      "translit": "penthéō",
+      "strongs": "G3996",
+      "verses": "v. 2",
+      "insight": "Strong's: “to grieve (the feeling or the act).” This is the word for mourning the dead, used by Jesus in the Beatitudes: “Blessed are those who mourn, for they shall be comforted” (Matthew 5:4). James uses it of repentance: “Lament, mourn, and weep” (James 4:9). Paul's charge against Corinth is that they did not mourn — they boasted. The word matters, because it defines the emotional centre of church discipline. Not anger, not superiority, not satisfaction at seeing someone exposed, but grief, as at a death. Every act of correction in the church should begin here. If you cannot mourn over a brother's sin, you are not ready to confront it."
+    },
+    {
+      "english": "Yeast / leaven",
+      "hebrew": "ζύμη",
+      "translit": "zýmē",
+      "strongs": "G2219 (verb ζυμόω, zymóō, G2220; opposite ἄζυμος, ázymos, G106)",
+      "verses": "v. 6, 7, 8 (×2); “unleavened” v. 7, 8",
+      "insight": "Strong's: ζύμη is “ferment (as if boiling up),” and ἄζυμος, its opposite, “unleavened, i.e. (figuratively) uncorrupted.” In Scripture leaven is almost always a picture of corruption that spreads silently: the yeast of the Pharisees (hypocrisy), the yeast of Herod, the yeast of malice and wickedness. The key property is that a small amount affects the whole. You cannot isolate leaven once it is mixed in. That is why Paul's command is not “manage the leaven” but “purge it out.” And notice that he says the Corinthians already are ἄζυμοι, unleavened (v. 7). The command to clean out the leaven is a command to live consistently with what Christ has already made them."
+    },
+    {
+      "english": "Passover",
+      "hebrew": "πάσχα",
+      "translit": "páscha",
+      "strongs": "G3957",
+      "verses": "v. 7",
+      "insight": "Strong's: “the Passover (the meal, the day, the festival or the special sacrifices connected with it).” The word comes from the Aramaic form of the Hebrew pesach, from the verb meaning to pass over — as the LORD passed over the houses marked with the blood of the lamb (Exodus 12:13). In verse 7 Paul uses it of the sacrificial lamb itself: “Christ, our Passover, has been sacrificed.” In one word he connects the cross to the defining act of redemption in Israel's history. Just as the first Passover brought Israel out of slavery in Egypt, the death of Christ brings His people out of slavery to sin. And just as Israel ate the Passover with unleavened bread, the redeemed must keep their feast without the old leaven."
+    },
+    {
+      "english": "Sincerity / purity",
+      "hebrew": "εἰλικρίνεια",
+      "translit": "eilikríneia",
+      "strongs": "G1505",
+      "verses": "v. 8",
+      "insight": "Strong's: “clearness, i.e. (by implication) purity (figuratively).” The adjective form, εἰλικρινής, is often explained as “judged by the sunlight” — something held up to the light to see whether it has any flaw or impurity. The etymology is debated, but the meaning is clear: transparency, nothing hidden, purity of motive. Paul uses it in 2 Corinthians 1:12 to describe how he conducted himself, and in 2 Corinthians 2:17 to contrast himself with those who peddle God's word for profit. The bread of the Christian feast is “sincerity and truth” — a life that can be held up to the light and examined without anything hidden. Leaven grows in the dark. Sincerity lives in the light."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the sin you have stopped grieving over, the leaven you have allowed to spread quietly through your life, and the way you have reversed God's order of judgment.",
+    "items": [
+      {
+        "title": "What Have You Stopped Mourning?",
+        "body": "There is something in your life or in your circle that once troubled you deeply and no longer does. A habit, a relationship, an attitude, a compromise. It has become normal. You may even have started to feel quietly proud of how unbothered you are by things that used to bother you, and to call it maturity or freedom. The Spirit wants to restore your capacity to grieve. Not with condemnation — with clarity. Ask Him today: “Lord, what have I become comfortable with that breaks Your heart?” And when He shows you, do not explain it away. Mourn. Grief over sin is not the end of joy. It is the beginning of a cleaner one."
+      },
+      {
+        "title": "The Crumb in the Corner",
+        "body": "Leaven is never large when it begins. It is a crumb. A little bitterness, a small lie, a private fantasy, a minor dishonesty, a quiet resentment toward someone in the church. And it spreads — through your thoughts, your relationships, your prayers, your witness. The Spirit is holding the lamp like a father on the night before Passover, and He wants to search your house. Will you let Him into every room? The ones you show visitors and the ones you keep closed? Christ your Passover has been sacrificed. The feast has begun. You were never meant to keep it with old leaven in the cupboard."
+      },
+      {
+        "title": "Loud Outside, Silent Inside",
+        "body": "It is easy to be outraged at the sins of the world — the culture, the government, the media, the people who do not know Christ. Paul says: what do I have to do with judging those outside? God judges them. Your concern is the people inside — and above all, yourself. The Spirit is asking you to reverse your instinct. Spend less energy condemning the world, which needs the gospel, and more energy dealing honestly with the sin among God's people, starting with your own. And when you see a brother or sister trapped in serious sin, do not gossip and do not ignore it. Go to them — privately, gently, in grief — as Jesus taught in Matthew 18. That is love."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Mourning Check",
+        "body": "Write down one sin in your own life that you have become comfortable with. Not the one you are already fighting — the one you have quietly made peace with. Ask: when did I stop grieving over this? What did I tell myself to make it acceptable? Then bring it to God with honest sorrow."
+      },
+      {
+        "title": "The Leaven Check",
+        "body": "Is there a small thing in your heart toward another person — resentment, envy, suspicion, contempt — that is beginning to affect how you see them, talk about them or pray for them? Write their name and the attitude. Ask whether it has spread to anyone else through your words."
+      },
+      {
+        "title": "The Two-Doors Check",
+        "body": "Count the unbelievers you have shared a meal or a real conversation with in the last month. Then ask whether you have been more critical of outsiders than of yourself and your church. Paul's pattern was open doors to the world and a guarded table in the church. Which direction is your life closer to?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Searching the House",
+        "body": "Tonight, do your own search by lamplight. Sit quietly with a sheet of paper and pray Psalm 139:23–24: “Search me, God, and know my heart.” Go room by room through your life: your thoughts, your relationships, your money, your speech, your private habits, your entertainment, your attitudes toward people in your church. Write down any leaven the Spirit shows you. Then, one by one, confess each item specifically, thank Christ your Passover for His sacrifice, and decide on one concrete step to remove it. Throw the paper away — burn it if you can — as a sign that the leaven is gone."
+      },
+      {
+        "title": "Going Through the First Door",
+        "body": "This week, intentionally spend time with someone outside the church — a neighbour, colleague or acquaintance who does not know Christ. Share a meal or a coffee. Do not lecture them about their morality; Paul says that is not your job. Simply be present, listen, show the love of Christ, and if the opportunity comes, tell them what Christ your Passover has done for you. Follow the example of Jesus, who was called a friend of tax collectors and sinners and was not ashamed of it."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I come before You with a heart that has grown too comfortable. Forgive me for being puffed up when I should have mourned. Forgive me for the sins I have stopped grieving, for the compromises I have called freedom and the tolerance I have called love. Give me back a tender heart that weeps over what breaks Yours. Lord Jesus, You are my Passover. You were sacrificed in my place. Your blood is on the doorposts of my life, and death has passed over me. Thank You. Now, Holy Spirit, take the lamp and search my house. Go into every room — the ones I show people and the ones I keep closed. Find every crumb of old leaven — the malice, the bitterness, the hidden wickedness — and help me purge it out. I do not want to keep Your feast with old yeast in the cupboard. Let me be what You have already made me: unleavened, new, clean. Let my life be the bread of sincerity and truth, able to be held up to the light with nothing hidden. And Lord, teach me Your order. Make me slow to judge those outside and quick to deal honestly with myself and with Your church. Give me courage to go gently to a brother or sister trapped in sin, not with pride but with grief, so that they may be saved in the day of the Lord Jesus. In His name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Achan and the Hidden Treasure",
+      "ref": "Joshua 7:1-26",
+      "relatedVerses": "v. 6-7",
+      "summary": "After the stunning victory at Jericho, Israel goes up against the small town of Ai and is routed. Joshua falls on his face before the ark, and God tells him the reason: Israel has sinned; someone has taken what was devoted to destruction and hidden it among his own things. One man, Achan, had taken a fine robe, silver and gold and buried them under his tent. One man's hidden sin had brought defeat on the whole nation. Only when it was exposed and dealt with could Israel go forward. This is the Old Testament picture of a little leaven leavening the whole lump. Sin is never merely private when you belong to God's people. What is hidden under one tent affects the whole camp."
+    },
+    {
+      "title": "The Night the Lamb Was Slain",
+      "ref": "Exodus 12:1-28",
+      "relatedVerses": "v. 7-8",
+      "summary": "On the night God brought Israel out of Egypt, every household took a lamb without blemish, killed it at twilight, and painted its blood on the doorposts and lintel of the house. They ate the meat roasted with unleavened bread and bitter herbs, dressed for travel, staff in hand. And God commanded that for seven days no leaven be found in their houses. That night the LORD passed through Egypt, and wherever He saw the blood, He passed over. Paul says, “Christ, our Passover, has been sacrificed in our place.” The church lives in that night forever. The blood has been applied, death has passed over, the chains are broken. And the redeemed people eat the feast with no leaven in the house, because they have been set free to belong to the God who saved them."
+    },
+    {
+      "title": "Eli's Sons and the Father Who Only Scolded",
+      "ref": "1 Samuel 2:12-36; 3:11-14; 4:10-18",
+      "relatedVerses": "v. 1-2",
+      "summary": "Eli was the high priest at Shiloh, and his sons Hophni and Phinehas were priests too — and they were corrupt. They took the best portions of the sacrifices for themselves and slept with the women who served at the entrance of the tent of meeting. Eli heard about it and rebuked them with words, but he did nothing more, and they did not listen. God sent a prophet, and then the boy Samuel, to tell Eli that judgment was coming on his house because his sons made themselves vile and he did not restrain them. In the end both sons died in battle, the ark was captured, and Eli fell and died when he heard the news. Corinth had the same disease Eli had: it knew about the sin, it may even have disapproved, and it did nothing. Tolerating sin among God's people is not neutrality. It is a failure of love that ends in disaster."
+    }
+  ]
+}
