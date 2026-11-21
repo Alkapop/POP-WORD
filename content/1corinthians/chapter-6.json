@@ -1,0 +1,791 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "chapterTitle": "Washed, Sanctified, Justified — Lawsuits, Liberty and the Body Bought With Blood",
+  "themeTitle": "“You Are Not Your Own”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints?",
+      "understanding": "Τολμάω — dare you? The verb carries outrage: how can you bring yourselves to do this? A believer with a πρᾶγμα, a dispute, a business matter, against another believer takes it to court “before the ἄδικοι” — the unrighteous, here meaning the pagan judges of Corinth — instead of before the saints. Civil courts in Roman Corinth were notoriously tilted toward the wealthy and well-connected, and lawsuits were a weapon the powerful used against those below them. Christians were using that weapon on each other.",
+      "words": [
+        {
+          "strongs": "G5111",
+          "hebrew": "τολμάω",
+          "translit": "tolmáō",
+          "english": "dare"
+        },
+        {
+          "strongs": "G4229",
+          "hebrew": "πρᾶγμα",
+          "translit": "prâgma",
+          "english": "matter"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "go to law"
+        },
+        {
+          "strongs": "G94",
+          "hebrew": "ἄδικος",
+          "translit": "ádikos",
+          "english": "unrighteous"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters?",
+      "understanding": "“Don’t you know?” — again. The saints will judge the world. Paul is drawing on a thread that runs from Daniel 7:22 (judgment given to the saints of the Most High) through Jesus' promise that the apostles would sit on thrones (Matthew 19:28). If you are destined to share in judging the world, how can you be unfit to settle κριτήρια ἐλάχιστα — the smallest cases?",
+      "words": [
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G2922",
+          "hebrew": "κριτήριον",
+          "translit": "kritḗrion",
+          "english": "judge (matters)"
+        },
+        {
+          "strongs": "G1646",
+          "hebrew": "ἐλάχιστος",
+          "translit": "eláchistos",
+          "english": "smallest"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Don’t you know that we will judge angels? How much more, things that pertain to this life?",
+      "understanding": "Even angels. Paul does not explain this, and it is wise not to over-explain it: presumably the fallen angels, whose judgment is certain (2 Peter 2:4; Jude 6). His point is an argument from the greater to the lesser. If you will share in judging angels, how much more can you handle βιωτικά — the ordinary affairs of daily life, property, contracts, money.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G982",
+          "hebrew": "βιωτικός",
+          "translit": "biōtikós",
+          "english": "things that pertain to this life"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "If then, you have to judge things pertaining to this life, do you set them to judge who are of no account in the assembly?",
+      "understanding": "The Greek can be read as a statement or a question, and either way it stings. Either a question — do you appoint as judges people who have no standing in the church, that is, pagan magistrates? — or an ironic command: appoint the least respected members of the church as judges, since even they could do better than the courts. Ἐξουθενέω is the word of 1:28 — the despised things God chose. Paul's sarcasm turns their own status system upside down.",
+      "words": [
+        {
+          "strongs": "G982",
+          "hebrew": "βιωτικός",
+          "translit": "biōtikós",
+          "english": "things pertaining to this life"
+        },
+        {
+          "strongs": "G1848",
+          "hebrew": "ἐξουθενέω",
+          "translit": "exouthenéō",
+          "english": "of no account"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "I say this to move you to shame. Isn’t there even one wise man among you who would be able to decide between his brothers?",
+      "understanding": "Ἐντροπή — shame, confusion. Paul does intend to shame them now (contrast 4:14). This church, so proud of its σοφία, cannot produce one σοφός, one wise person, able to διακρίνω — to judge between, to arbitrate — a dispute between brothers. All their wisdom, and none of it usable for the simplest act of peacemaking.",
+      "words": [
+        {
+          "strongs": "G1791",
+          "hebrew": "ἐντροπή",
+          "translit": "entropḗ",
+          "english": "shame"
+        },
+        {
+          "strongs": "G4680",
+          "hebrew": "σοφός",
+          "translit": "sophós",
+          "english": "wise"
+        },
+        {
+          "strongs": "G1252",
+          "hebrew": "διακρίνω",
+          "translit": "diakrínō",
+          "english": "decide"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But brother goes to law with brother, and that before unbelievers!",
+      "understanding": "The tragedy in one line: brother against brother, “and that before ἄπιστοι” — unbelievers. The family airs its quarrels in the public square, before the very people it is supposed to be reaching with the gospel. What does a pagan judge conclude about Jesus when he watches two of His followers try to ruin each other?",
+      "words": [
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G571",
+          "hebrew": "ἄπιστος",
+          "translit": "ápistos",
+          "english": "unbelievers"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Therefore it is already altogether a defect in you, that you have lawsuits one with another. Why not rather be wronged? Why not rather be defrauded?",
+      "understanding": "Ἥττημα — a defeat, a loss. The very fact that you have κρίματα, lawsuits, against each other means you have already lost, whoever wins the case. Then two questions that go to the heart of the Sermon on the Mount: why not rather be ἀδικέω — wronged? Why not rather be ἀποστερέω — defrauded, robbed? Paul is asking whether the gospel has reached their wallets.",
+      "words": [
+        {
+          "strongs": "G2275",
+          "hebrew": "ἥττημα",
+          "translit": "hḗttēma",
+          "english": "defect (defeat)"
+        },
+        {
+          "strongs": "G2917",
+          "hebrew": "κρίμα",
+          "translit": "kríma",
+          "english": "lawsuits"
+        },
+        {
+          "strongs": "G91",
+          "hebrew": "ἀδικέω",
+          "translit": "adikéō",
+          "english": "be wronged"
+        },
+        {
+          "strongs": "G650",
+          "hebrew": "ἀποστερέω",
+          "translit": "aposteréō",
+          "english": "defrauded"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "No, but you yourselves do wrong, and defraud, and that against your brothers.",
+      "understanding": "Worse still: they are not merely refusing to suffer wrong; they are committing it. “You yourselves do wrong, and defraud” — the same two verbs, turned around — “and that against your brothers.” The plaintiffs and defendants in Corinth's courts were not innocent victims and wicked villains. They were believers cheating believers.",
+      "words": [
+        {
+          "strongs": "G91",
+          "hebrew": "ἀδικέω",
+          "translit": "adikéō",
+          "english": "do wrong"
+        },
+        {
+          "strongs": "G650",
+          "hebrew": "ἀποστερέω",
+          "translit": "aposteréō",
+          "english": "defraud"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Or don’t you know that the unrighteous will not inherit God’s Kingdom? Don’t be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor male prostitutes, nor homosexuals,",
+      "understanding": "The link with verse 8 is the word ἄδικος: you do wrong (ἀδικέω), and the ἄδικοι — the wrongdoers — will not κληρονομέω, inherit, the kingdom of God. “Don’t be πλανάω” — deceived, led astray; some in Corinth evidently believed that grace made behaviour irrelevant. Then the list. Πόρνοι, the sexually immoral. Idolaters. Μοιχοί, adulterers. Then two words the WEB renders “male prostitutes” and “homosexuals.” Μαλακοί literally means soft, and in sexual contexts was used of the passive partner in male same-sex acts. Ἀρσενοκοῖται is a compound of “male” and “bed” that echoes the Greek wording of Leviticus 18:22 and 20:13. The strongest reading, given that echo, is that Paul has male same-sex intercourse in view generally, not only its exploitative forms. He places it on the same list as greed and slander, and verse 11 is written to people who used to be in every category.",
+      "words": [
+        {
+          "strongs": "G94",
+          "hebrew": "ἄδικος",
+          "translit": "ádikos",
+          "english": "unrighteous"
+        },
+        {
+          "strongs": "G2816",
+          "hebrew": "κληρονομέω",
+          "translit": "klēronoméō",
+          "english": "inherit"
+        },
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "deceived"
+        },
+        {
+          "strongs": "G4205",
+          "hebrew": "πόρνος",
+          "translit": "pórnos",
+          "english": "sexually immoral"
+        },
+        {
+          "strongs": "G1496",
+          "hebrew": "εἰδωλολάτρης",
+          "translit": "eidōlolátrēs",
+          "english": "idolaters"
+        },
+        {
+          "strongs": "G3432",
+          "hebrew": "μοιχός",
+          "translit": "moichós",
+          "english": "adulterers"
+        },
+        {
+          "strongs": "G3120",
+          "hebrew": "μαλακός",
+          "translit": "malakós",
+          "english": "male prostitutes"
+        },
+        {
+          "strongs": "G733",
+          "hebrew": "ἀρσενοκοίτης",
+          "translit": "arsenokoítēs",
+          "english": "homosexuals"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "nor thieves, nor covetous, nor drunkards, nor slanderers, nor extortionists, will inherit God’s Kingdom.",
+      "understanding": "The list continues, and it is deliberately broad. Κλέπται, thieves. Πλεονέκται, the greedy, those always wanting more. Μέθυσοι, drunkards. Λοίδοροι, verbal abusers, slanderers. Ἅρπαγες, swindlers. Notice which sins sit beside sexual ones: greed, a sharp tongue, cheating in business. A church that is fierce about sexual sin and relaxed about greed and slander has not read this verse. Paul's point is not that these sins disqualify a person from forgiveness, but that a life given over to them, without repentance, is not the life of someone who belongs to the kingdom.",
+      "words": [
+        {
+          "strongs": "G2812",
+          "hebrew": "κλέπτης",
+          "translit": "kléptēs",
+          "english": "thieves"
+        },
+        {
+          "strongs": "G4123",
+          "hebrew": "πλεονέκτης",
+          "translit": "pleonéktēs",
+          "english": "covetous"
+        },
+        {
+          "strongs": "G3183",
+          "hebrew": "μέθυσος",
+          "translit": "méthysos",
+          "english": "drunkards"
+        },
+        {
+          "strongs": "G3060",
+          "hebrew": "λοίδορος",
+          "translit": "loídoros",
+          "english": "slanderers"
+        },
+        {
+          "strongs": "G727",
+          "hebrew": "ἅρπαξ",
+          "translit": "hárpax",
+          "english": "extortionists"
+        },
+        {
+          "strongs": "G2816",
+          "hebrew": "κληρονομέω",
+          "translit": "klēronoméō",
+          "english": "inherit"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Such were some of you, but you were washed. But you were sanctified. But you were justified in the name of the Lord Jesus, and in the Spirit of our God.",
+      "understanding": "One of the most hope-filled verses in the Bible. “Such were some of you.” Past tense. The Corinthian church was made of former adulterers, former idolaters, former thieves, former drunks, former swindlers, and people who had lived in same-sex relationships. And then three verbs, each preceded by a strong “but”: ἀπολούω — you were washed clean; ἁγιάζω — you were set apart as holy; δικαιόω — you were declared righteous. All three are completed actions, done “in the name of the Lord Jesus, and in the Spirit of our God.” Your past is not your identity. Your washing is.",
+      "words": [
+        {
+          "strongs": "G628",
+          "hebrew": "ἀπολούω",
+          "translit": "apoloúō",
+          "english": "washed"
+        },
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "sanctified"
+        },
+        {
+          "strongs": "G1344",
+          "hebrew": "δικαιόω",
+          "translit": "dikaióō",
+          "english": "justified"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "“All things are lawful for me,” but not all things are expedient. “All things are lawful for me,” but I will not be brought under the power of anything.",
+      "understanding": "Paul quotes a Corinthian slogan — the WEB rightly puts it in quotation marks — “All things are lawful for me,” ἔξεστιν. It probably began as a distortion of Paul's own teaching about freedom in Christ. He does not deny it outright; he qualifies it twice. Not all things συμφέρω — are beneficial, bring advantage. And “I will not be brought under the power of anything” — ἐξουσιάζω, a play on ἔξεστιν: “all things are in my power, but I will not be put in the power of any of them.” Freedom that ends in slavery is not freedom.",
+      "words": [
+        {
+          "strongs": "G1832",
+          "hebrew": "ἔξεστι",
+          "translit": "éxesti",
+          "english": "lawful"
+        },
+        {
+          "strongs": "G4851",
+          "hebrew": "συμφέρω",
+          "translit": "symphérō",
+          "english": "expedient"
+        },
+        {
+          "strongs": "G1850",
+          "hebrew": "ἐξουσιάζω",
+          "translit": "exousiázō",
+          "english": "be brought under the power"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "“Foods for the belly, and the belly for foods,” but God will bring to nothing both it and them. But the body is not for sexual immorality, but for the Lord; and the Lord for the body.",
+      "understanding": "A second slogan: “Foods for the belly, and the belly for foods.” The logic of some Corinthians ran: the body is a temporary machine; food satisfies one appetite; sex satisfies another; both are natural and spiritually irrelevant. Paul answers: God will καταργέω — bring to nothing — both stomach and food. But the σῶμα, the body, is different: it is “not for sexual immorality, but for the Lord; and the Lord for the body.” Astonishing phrase: the Lord is for your body. He cares about it, and He has plans for it.",
+      "words": [
+        {
+          "strongs": "G1033",
+          "hebrew": "βρῶμα",
+          "translit": "brōma",
+          "english": "foods"
+        },
+        {
+          "strongs": "G2836",
+          "hebrew": "κοιλία",
+          "translit": "koilía",
+          "english": "belly"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "bring to nothing"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G4202",
+          "hebrew": "πορνεία",
+          "translit": "porneía",
+          "english": "sexual immorality"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Now God raised up the Lord, and will also raise us up by his power.",
+      "understanding": "Here is why the body matters: God ἐγείρω — raised — the Lord, and will also raise us up by His power. The Greek world mostly regarded the body as a prison or a shell to be discarded. Christianity says the body has a future. What you do with it now is not spiritually neutral, because the same body will be raised. Chapter 15 will unpack this at length.",
+      "words": [
+        {
+          "strongs": "G1453",
+          "hebrew": "ἐγείρω",
+          "translit": "egeírō",
+          "english": "raised"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Don’t you know that your bodies are members of Christ? Shall I then take the members of Christ, and make them members of a prostitute? May it never be!",
+      "understanding": "Your bodies are μέλη, members, limbs, of Christ. Think about what that means literally. Then Paul asks the unthinkable: shall I take a limb of Christ and make it a limb of a πόρνη — a prostitute? “May it never be!” — μὴ γένοιτο, Paul's strongest expression of horror. Sexual sin is not merely a private act. It drags Christ's own body into it.",
+      "words": [
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "bodies"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "members"
+        },
+        {
+          "strongs": "G4204",
+          "hebrew": "πόρνη",
+          "translit": "pórnē",
+          "english": "prostitute"
+        },
+        {
+          "strongs": "G1096",
+          "hebrew": "γίνομαι",
+          "translit": "gínomai",
+          "english": "may it never be"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Or don’t you know that he who is joined to a prostitute is one body? For, “The two”, he says, “will become one flesh.”",
+      "understanding": "Κολλάω — to glue, to stick fast. The one who is joined to a prostitute becomes one body with her. Paul proves it from Genesis 2:24, the foundational text on marriage: “The two will become one flesh.” Sex is never merely physical, even in a brothel. It creates a union that the Creator designed for marriage. That is why sexual sin is so destructive: it uses the deepest bonding act God made for something it was never meant for.",
+      "words": [
+        {
+          "strongs": "G2853",
+          "hebrew": "κολλάω",
+          "translit": "kolláō",
+          "english": "joined"
+        },
+        {
+          "strongs": "G4204",
+          "hebrew": "πόρνη",
+          "translit": "pórnē",
+          "english": "prostitute"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "But he who is joined to the Lord is one spirit.",
+      "understanding": "The same verb, κολλάω, now for something infinitely higher: “he who is joined to the Lord is one spirit” with Him. The believer is united to Christ in a bond deeper than any physical union. This is why sexual immorality is so incongruous for a Christian: you cannot be glued to the Lord and glued to a prostitute at the same time.",
+      "words": [
+        {
+          "strongs": "G2853",
+          "hebrew": "κολλάω",
+          "translit": "kolláō",
+          "english": "joined"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Flee sexual immorality! “Every sin that a man does is outside the body,” but he who commits sexual immorality sins against his own body.",
+      "understanding": "The command is one word: φεύγετε — flee! Present tense: keep fleeing, make it your habit. Not “negotiate with it,” not “manage it,” not “see how close you can get.” Run. Then a third slogan, probably Corinthian: “Every sin that a man does is outside the body.” Paul answers that sexual immorality is different: the immoral person sins “against his own body.” It is uniquely self-destructive because it involves the whole self in a union God designed to be holy.",
+      "words": [
+        {
+          "strongs": "G5343",
+          "hebrew": "φεύγω",
+          "translit": "pheúgō",
+          "english": "flee"
+        },
+        {
+          "strongs": "G4202",
+          "hebrew": "πορνεία",
+          "translit": "porneía",
+          "english": "sexual immorality"
+        },
+        {
+          "strongs": "G265",
+          "hebrew": "ἁμάρτημα",
+          "translit": "hamártēma",
+          "english": "sin"
+        },
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outside"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Or don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own,",
+      "understanding": "“Or don’t you know” — the sixth time in this chapter. In 3:16 the church collectively was God's temple. Now the focus narrows: “your body” — singular — is the ναός, the inner sanctuary, of the Holy Spirit who is in you. The Holy of Holies has moved into your body. And then the sentence that overturns the whole philosophy of “my body, my business”: “You are not your own.”",
+      "words": [
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "Holy"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God’s.",
+      "understanding": "Ἀγοράζω — to buy in the ἀγορά, the marketplace. Corinth had a slave market. A slave who was bought now belonged to a new master. “You were bought with a price” — τιμή, a price, a value paid. Peter tells you what the price was: the precious blood of Christ (1 Peter 1:19). Therefore δοξάζω — glorify, make visible the glory of — God “in your body.” Some later manuscripts add “and in your spirit, which are God’s,” as the WEB prints; the earliest manuscripts end with “in your body,” which is where Paul's whole argument has been heading.",
+      "words": [
+        {
+          "strongs": "G59",
+          "hebrew": "ἀγοράζω",
+          "translit": "agorázō",
+          "english": "bought"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "price"
+        },
+        {
+          "strongs": "G1392",
+          "hebrew": "δοξάζω",
+          "translit": "doxázō",
+          "english": "glorify"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Two Brothers at the Bema",
+      "verseRef": "v. 1-8",
+      "image": "In the centre of Corinth's forum stood the βῆμα — a raised stone platform where Roman magistrates sat to hear cases. Paul himself had stood before it when Gallio threw out the accusation against him (Acts 18:12–17). Now picture two men from the same house church standing before that platform on a weekday morning. Last Sunday they shared the Lord's Supper. Today they are hurling accusations at each other over a debt or a property line, each with a hired advocate, while a crowd of pagans watches and a Roman official who couldn't care less about Jesus decides which Christian is the liar.",
+      "meaning": "Paul's outrage is not mainly about legal procedure. It is about witness and love. The church will one day share in judging the world and even angels; surely it can settle a dispute between two brothers. But the deeper question is verse 7: “Why not rather be wronged? Why not rather be defrauded?” The moment two believers drag each other into court, both have lost — ἥττημα, a defeat — whatever the verdict. Jesus said, “If anyone sues you to take away your coat, let him have your cloak also” (Matthew 5:40). This is not a blanket prohibition on every legal process; Paul himself appealed to Caesar to protect his rights (Acts 25:11). It is a challenge to the heart: is your money or your rights more important to you than your brother and the name of Christ?"
+    },
+    {
+      "title": "Such Were Some of You",
+      "verseRef": "v. 9-11",
+      "image": "Imagine the Corinthian congregation gathered as this letter is read aloud for the first time. The reader reaches verse 9 and begins the list: the sexually immoral, idolaters, adulterers, men who slept with men, thieves, the greedy, drunkards, slanderers, swindlers. Around the room, people lower their eyes. A former temple prostitute. A man who used to drink himself unconscious every night at the docks. A merchant who had cheated his partners for years. A man who had lived with another man. A woman known in the market for her vicious tongue. Then the reader says: “Such were some of you.” And then: “But you were washed.”",
+      "meaning": "This verse does two things at once, and you need both. First, it is uncompromising: these behaviours, practised without repentance, are incompatible with the kingdom of God. Paul says “Don’t be deceived” because the Corinthians had convinced themselves otherwise. Do not soften what he says. But second, it is overwhelmingly hopeful: “such were some of you.” The church in Corinth was full of people from every category on that list, and every one of them had been washed, sanctified and justified. No sin on the list is beyond the reach of the blood of Christ. Your past is not your identity. Whatever you used to be — or whatever you are still fighting — the verbs that define you are washed, sanctified, justified. Live from them."
+    },
+    {
+      "title": "Sold in the Agora",
+      "verseRef": "v. 19-20",
+      "image": "Picture the slave market in Corinth's agora on a busy morning. Men, women and children stand on a platform with placards around their necks describing their skills and origin. Buyers inspect them like livestock. Then a stranger steps forward and pays an enormous price for one ragged, worthless-looking slave — far more than he could ever be worth on the market. The slave is taken down from the platform. He no longer belongs to his old master. Everything he is — his time, his hands, his body — now belongs to the man who bought him. And the man who bought him intends to make him a son.",
+      "meaning": "Ἀγοράζω is literally to buy in the agora. “You were bought with a price.” The price was the blood of Christ (1 Peter 1:19; Revelation 5:9). That changes everything about how you see your body. The world says: my body, my choice, my business. The gospel says: “You are not your own.” Your body is not a possession you manage as you like; it is a temple where God the Holy Spirit lives, and it was purchased at infinite cost. That is not a threat; it is the most dignifying truth about your body ever spoken. You are worth the blood of the Son of God. Therefore glorify God in your body — in what you eat and drink, what you watch, where you go, who you touch, how you rest, what you do with your sexuality."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Lawsuits Between Believers (v. 1-8)",
+        "body": "Paul is outraged that believers take each other to pagan courts; the saints will judge the world and angels, so they can settle small disputes — and in any case it is better to be wronged than to defraud a brother."
+      },
+      {
+        "label": "The Unrighteous Will Not Inherit the Kingdom (v. 9-11)",
+        "body": "Those who persist in a list of sins will not inherit God's kingdom — but some of the Corinthians had been exactly such people and had been washed, sanctified and justified in Jesus' name and by the Spirit."
+      },
+      {
+        "label": "Corinthian Slogans Answered (v. 12-14)",
+        "body": "“All things are lawful” — but not all are beneficial, and I will not be mastered. “Food for the stomach” — but the body is for the Lord, and God will raise it."
+      },
+      {
+        "label": "Members of Christ and the Prostitute (v. 15-18)",
+        "body": "Believers' bodies are members of Christ; uniting with a prostitute makes one body with her, while the one joined to the Lord is one spirit with Him — so flee sexual immorality."
+      },
+      {
+        "label": "Temple of the Spirit, Bought With a Price (v. 19-20)",
+        "body": "The body is the temple of the Holy Spirit; you are not your own; you were bought with a price; therefore glorify God in your body."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Why Not Rather Be Wronged? The Gospel and Your Rights",
+        "paragraphs": [
+          "The first eight verses can seem like a detour from the sexual issues on either side of them, but they are not. The link is the word ἄδικος — unrighteous, wrongdoer — and the underlying issue is the same throughout the chapter: Corinthian believers were living as though belonging to Christ made no difference to their ordinary behaviour, whether in the bedroom or the courtroom. In Roman Corinth, civil litigation was largely a tool of the powerful. Judges and juries tended to favour people of higher social status, and lawsuits were often used to gain advantage, settle personal scores or shame rivals. Paul is not describing poor Christians seeking justice against oppressors. He is describing believers using the system to beat each other.",
+          "His argument moves in three steps. First, from the greater to the lesser: the saints will judge the world and even angels, so they are surely competent to settle βιωτικά — the ordinary disputes of daily life (vv. 2–3). Second, from shame: a church proud of its wisdom cannot find one wise man to arbitrate between brothers, and instead parades its quarrels before unbelievers (vv. 5–6). Third, and most piercing, from the cross: “Therefore it is already altogether a defect in you, that you have lawsuits one with another. Why not rather be wronged? Why not rather be defrauded?” (v. 7). The word ἥττημα means defeat. Whoever wins, both have lost — lost the testimony of the church, lost the love that should bind brothers, and lost the spirit of the One who did not defend His rights but laid them down.",
+          "It is important to read this carefully and honestly. Paul is not saying that the legal system is evil or that believers can never use it; Paul himself appealed to Caesar to protect his rights as a Roman citizen when his life was threatened (Acts 25:11), and Romans 13 calls civil authorities God's servants for justice. Nor is he telling victims of abuse or serious crime to stay silent; that would be to misuse this text grotesquely. He is addressing disputes between believers over βιωτικά — property, money, contracts, personal grievances — and saying that such disputes should be settled within the church, and that the willingness to suffer loss rather than to hurt a brother is the mark of a heart shaped by the cross. Jesus put it bluntly: “If anyone sues you to take away your coat, let him have your cloak also” (Matthew 5:40). The question is not whether you have rights. It is whether you love your rights more than your brother."
+        ]
+      },
+      {
+        "heading": "Washed, Sanctified, Justified: The List and the Hope",
+        "paragraphs": [
+          "Verses 9 and 10 contain one of Paul's lists of behaviours that are incompatible with the kingdom of God, and verse 11 contains one of his most hopeful sentences. They must be read together, and neither must be softened. First, the warning. “Don’t be deceived” (v. 9) — the verb πλανάω suggests being led astray, and it tells us that some in Corinth had been persuaded that grace made behaviour irrelevant. Paul says flatly that the ἄδικοι — those whose lives are characterised by these behaviours without repentance — will not inherit the kingdom. The list is broad: sexual immorality, idolatry, adultery, two terms for male same-sex sexual activity, theft, greed, drunkenness, verbal abuse and swindling. Similar lists appear in Galatians 5:19–21 and Ephesians 5:5. Notice that greed, slander and drunkenness stand beside sexual sins. Paul does not rank them in a way that lets any reader feel safe.",
+          "The two terms in verse 9 that the WEB translates “male prostitutes” and “homosexuals” deserve honest attention, because they are debated in our time. Μαλακός literally means soft; in sexual contexts in Greek literature it described men who took the passive role in sex with other men. Ἀρσενοκοίτης is a compound of ἄρσην (male) and κοίτη (bed), and it appears to have been formed from the Greek translation of Leviticus 18:22 and 20:13, where those two words stand side by side in the prohibition of a man lying with a male. Some modern interpreters argue Paul meant only exploitative practices such as pederasty or prostitution. But given the direct echo of Leviticus, which prohibits the act itself without reference to age or exploitation, the strongest textual reading is that Paul is referring to male same-sex intercourse as such. Saying that plainly is not hatred. Paul's purpose in naming these behaviours is not to single out one group but to describe what the gospel rescues people from — and he immediately says that some of the Corinthians had been rescued from exactly this.",
+          "Because then comes verse 11, and you must not hurry past it. “Such were some of you, but you were washed. But you were sanctified. But you were justified in the name of the Lord Jesus, and in the Spirit of our God.” The tense is past: such were some of you. The church in Corinth contained former idolaters, former adulterers, former thieves, former drunkards, former swindlers and men who had lived in same-sex relationships. And each of them had been washed — ἀπολούω, cleansed thoroughly, perhaps alluding to baptism (compare Acts 22:16, “be baptized, and wash away your sins”); sanctified — set apart as God's own; and justified — declared righteous before God. Notice that justification comes last in the list. The Corinthians knew the doctrine; what they had forgotten was that it had changed who they were. The answer to sin in the Christian life is never “you are still what you were.” It is “you are no longer what you were — now live like it.”"
+        ]
+      },
+      {
+        "heading": "The Lord Is for the Body: Why Sexual Holiness Matters",
+        "paragraphs": [
+          "From verse 12 Paul engages directly with the Corinthian slogans, and the WEB helpfully puts them in quotation marks. “All things are lawful for me” (v. 12) — probably a twisted version of Paul's own teaching that believers are not under the law. Paul answers twice: not all things are beneficial, and “I will not be brought under the power of anything.” There is a play on words in Greek: πάντα μοι ἔξεστιν, ἀλλ’ οὐκ ἐγὼ ἐξουσιασθήσομαι — “all things are in my power, but I will not be brought under the power of any.” The freedom the Corinthians were claiming was actually becoming slavery. Then a second slogan: “Foods for the belly, and the belly for foods” (v. 13). The underlying philosophy, common in the Greek world, was that the body is temporary and spiritually irrelevant. If the stomach wants food, feed it; if the body wants sex, satisfy it. Paul's reply turns on the resurrection: God will indeed do away with stomach and food, but the body is “for the Lord; and the Lord for the body,” because “God raised up the Lord, and will also raise us up by his power” (v. 14). Your body has a future. It is not a disposable shell.",
+          "Verses 15 to 17 then make an argument that no reader should skim. Your body is a member — a limb — of Christ. If you unite it to a prostitute, you are taking a limb of Christ and making it a limb of a prostitute. That is not hyperbole; it is Paul's theology of union with Christ applied literally. He supports it from Genesis 2:24: “The two will become one flesh.” Sex creates a one-flesh union, which God designed for the covenant of marriage between a man and a woman. To create that union outside marriage — even in a transaction with a prostitute — is to misuse the deepest bonding act God made. And it is to contradict a deeper union still: “he who is joined to the Lord is one spirit” (v. 17). The same verb, κολλάω, to glue, is used for both. You cannot be glued to the Lord and glued to sin at the same time.",
+          "So the command is short: “Flee sexual immorality!” (v. 18). Not resist it, not manage it, not debate it — run. Then a third saying, again probably a Corinthian slogan: “Every sin that a man does is outside the body.” Paul answers that sexual immorality is unique because it is a sin “against his own body.” It involves the whole person in a union God designed to be holy. And then the climax: “Or don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own, for you were bought with a price. Therefore glorify God in your body” (vv. 19–20). In chapter 3 the church collectively was God's temple; here each believer's body is. The Holy of Holies has moved into you. And you were bought — ἀγοράζω, purchased in the marketplace like a slave — with the price of Christ's blood. The answer to “my body, my choice” is not a rule. It is a price tag written in blood."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Verse 16 quotes Genesis 2:24, and so did Jesus, when the Pharisees tested Him about divorce: “Haven’t you read that he who made them from the beginning made them male and female, and said, ‘For this cause a man shall leave his father and mother, and shall be joined to his wife; and the two shall become one flesh?’ So that they are no more two, but one flesh. What therefore God has joined together, don’t let man tear apart” (Matthew 19:4–6). Jesus grounds the meaning of sex and marriage in creation itself, not in culture. Paul does the same. The one-flesh union is God's design, and it is holy because He designed it. Hebrews says the same in one sentence: “Let marriage be held in honor among all, and let the bed be undefiled: but God will judge the sexually immoral and adulterers” (Hebrews 13:4).",
+        "The language of “bought with a price” rings through the rest of the New Testament. In Revelation, the elders before the throne sing to the Lamb: “You are worthy to take the book, and to open its seals: for you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation” (Revelation 5:9). The same verb, ἀγοράζω. And Peter specifies the price: “you were redeemed, not with corruptible things, with silver or gold... but with precious blood, as of a lamb without blemish or spot, the blood of Christ” (1 Peter 1:18–19). And Paul tells the Romans what a bought body does: “present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service” (Romans 12:1). The body you were told was yours was bought, and the only fitting response is to give it back as a sacrifice.",
+        "And the command to flee echoes across Paul's later letters. He tells Timothy, “Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart” (2 Timothy 2:22) — flee from, but also run toward, and do it in company. He tells the Thessalonians: “For this is the will of God: your sanctification, that you abstain from sexual immorality, that each one of you know how to control his own body in sanctification and honor, not in the passion of lust, even as the Gentiles who don’t know God” (1 Thessalonians 4:3–5). And Peter says it to scattered believers: “I beg you as foreigners and pilgrims, to abstain from fleshly lusts, which war against the soul” (1 Peter 2:11). The apostles agree completely: sexual holiness is not a minor matter of personal preference. It is the will of God for a body that belongs to Him."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Defraud / rob",
+      "hebrew": "ἀποστερέω",
+      "translit": "aposteréō",
+      "strongs": "G650",
+      "verses": "v. 7, 8 (and 7:5)",
+      "insight": "Strong's: “to despoil.” The word means to deprive someone of what is rightfully theirs — to cheat, rob, withhold. Jesus listed it among the commandments in Mark 10:19: “Do not defraud.” James uses it of employers who withhold workers' wages (James 5:4). Paul uses it twice here: why not rather be defrauded (v. 7)? Instead you defraud (v. 8). The question exposes the heart. Some Corinthians were not merely refusing to suffer loss; they were inflicting it on their brothers. Notice too that Paul uses the same verb in 7:5 of married couples depriving one another of sexual intimacy. Whether in business or marriage, to withhold from someone what love owes them is a form of fraud."
+    },
+    {
+      "english": "Washed (fully)",
+      "hebrew": "ἀπολούω",
+      "translit": "apoloúō",
+      "strongs": "G628",
+      "verses": "v. 11",
+      "insight": "Strong's: “to wash fully, i.e. (figuratively) have remitted (reflexively).” The prefix ἀπο- intensifies it: washed off, washed away, washed clean. It occurs only twice in the New Testament — here and in Acts 22:16, where Ananias tells Saul, “Arise, be baptized, and wash away your sins, calling on the name of the Lord.” That connection suggests Paul may be alluding to baptism as the outward sign of an inward cleansing. But the power is not in the water; it is “in the name of the Lord Jesus, and in the Spirit of our God.” Whatever is on the list in verses 9 and 10 can be washed off. The stains of the past are not permanent dyes. They are dirt, and Jesus washes."
+    },
+    {
+      "english": "Brought under the power of / mastered",
+      "hebrew": "ἐξουσιάζω",
+      "translit": "exousiázō",
+      "strongs": "G1850 (wordplay with ἔξεστι, éxesti, G1832)",
+      "verses": "v. 12",
+      "insight": "Strong's defines ἐξουσιάζω as “to control,” and ἔξεστι, the slogan word “lawful,” as “it is right.” Paul plays them against each other: the slogan says πάντα μοι ἔξεστιν, everything is permitted to me; Paul answers οὐκ ἐγὼ ἐξουσιασθήσομαι, I will not be controlled by anything. The deepest danger of a freedom without limits is that it ends in a new slavery. Things that are permitted can still become masters — food, alcohol, screens, sex, money, approval. Paul's test of freedom is not “Is it allowed?” but “Is it ruling me?” A free man is not someone who can do anything. He is someone who is not owned by anything except Christ."
+    },
+    {
+      "english": "Flee",
+      "hebrew": "φεύγω",
+      "translit": "pheúgō",
+      "strongs": "G5343",
+      "verses": "v. 18 (and 10:14)",
+      "insight": "Strong's: “to run away (literally or figuratively); by implication, to shun; by analogy, to vanish.” The word gives us the English “fugitive.” Paul uses it in the present imperative — keep fleeing, make running your habit. He uses it again in 10:14: “flee from idolatry.” And he tells Timothy to “flee from youthful lusts” (2 Timothy 2:22). In the moral life, some battles are won by standing firm (Ephesians 6:13). But with sexual temptation, the Bible's consistent strategy is distance. Joseph did not stay to argue with Potiphar's wife; he ran out of the house and left his garment in her hand (Genesis 39:12). The strongest believer is not the one who can stand closest to temptation without falling, but the one who runs soonest."
+    },
+    {
+      "english": "Bought / purchased",
+      "hebrew": "ἀγοράζω",
+      "translit": "agorázō",
+      "strongs": "G59 (the price τιμή, timḗ, G5092)",
+      "verses": "v. 20 (again in 7:23)",
+      "insight": "Strong's: ἀγοράζω is “properly, to go to market, i.e. (by implication) to purchase; specially, to redeem,” and τιμή is “a value, i.e. money paid.” The word is built on ἀγορά, the marketplace, which in Corinth included the slave market. Paul's readers included slaves and former slaves who knew exactly what it meant to be bought: you belonged to a new master, totally. Paul uses the same phrase again in 7:23: “You were bought with a price. Don’t become bondservants of men.” Being bought by Christ frees you from every other owner. And the price of purchase is the measure of your worth. You were not bought cheaply. The price was His blood."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the rights you are holding tighter than your brother, the past you are still letting define you, and the part of your body you have been treating as your own.",
+    "items": [
+      {
+        "title": "Your Rights or Your Brother",
+        "body": "There is a grievance you are holding against another believer. Maybe it has gone to court; more likely it has gone to the court of your mind, where you have argued the case a thousand times and won it every time. They wronged you, cheated you, took what was yours. And you may be right. The Spirit is asking you the question Paul asked Corinth: “Why not rather be wronged?” Not because injustice does not matter, but because Christ is more important than your vindication, and your brother is worth more than your money or your reputation. What would it look like this week to release the grievance into the hands of the One who judges justly, and to seek peace with that person instead of victory over them?"
+      },
+      {
+        "title": "Such Were You — But You Were Washed",
+        "body": "The enemy loves to tell you that you are still what you used to be. The addict, the adulterer, the liar, the thief, the person who did that thing you have never told anyone. And maybe you are still fighting some of it. The Spirit wants to give you a different voice to listen to. “Such were some of you. But you were washed. But you were sanctified. But you were justified.” Three past tense verbs. Done. Your identity is not the list in verses 9 and 10; it is the verbs in verse 11. That does not make the fight unnecessary — it makes the fight winnable, because you are fighting from cleanness, not toward it. Say it aloud today: “I was washed. I was sanctified. I was justified.”"
+      },
+      {
+        "title": "The Room You Have Kept Locked",
+        "body": "Your body is the temple of the Holy Spirit. The Spirit lives in every part of it — your eyes, your hands, your mouth, your appetite, your sexuality. And yet there may be one area you have kept as your own. A habit you indulge in private. Images you look at. A relationship you have kept just over the line. Food or alcohol or a screen that has become a master. You have told yourself it is your business. The Spirit is saying gently but clearly: you are not your own. You were bought with a price. He is not asking for the area so He can shame you; He is asking for it because He lives there, and He wants to fill it with the glory of God. What room is it? Hand Him the key."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Grievance Check",
+        "body": "Is there a believer you are in conflict with — over money, property, an agreement, a hurt? Write their name. Then answer honestly: have I tried to resolve this within the church, privately and humbly? Have I been willing to be wronged rather than to win? Is there any way in which I have wronged them too (v. 8)?"
+      },
+      {
+        "title": "The Identity Check",
+        "body": "Look at the list in verses 9 and 10. Which items describe your past? Which ones are you still struggling with? Write them down honestly. Then cross each one out and write over it: “Washed. Sanctified. Justified.” Ask: am I living from my old identity or my new one?"
+      },
+      {
+        "title": "The Mastery Check",
+        "body": "Verse 12 says, “I will not be brought under the power of anything.” Name one permitted thing that has begun to master you — food, alcohol, a screen, social media, shopping, work, a substance, a habit. How often do you use it? What happens when you try to stop? If it controls you, it has become an idol, however lawful it is."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Making Peace Before Winning",
+        "body": "If you have a conflict with another believer, take one concrete step this week toward resolution within the body of Christ. Go to them privately and humbly. Do not start with your case; start by asking whether you have wronged them in any way, and apologise for anything you can honestly own. If you cannot resolve it together, ask a mature, trusted believer to help you both. And if the matter is about money or property, prayerfully consider whether you could let it go for the sake of your brother and the name of Christ."
+      },
+      {
+        "title": "Dedicating the Temple",
+        "body": "Tonight, take ten minutes in a quiet place. Read verses 19 and 20 aloud slowly. Then dedicate each part of your body to God aloud, specifically: “Lord, my eyes belong to You — I will not use them to look at what defiles. My hands belong to You. My mouth belongs to You. My appetite belongs to You. My sexuality belongs to You.” If there is a specific area of temptation, name it and decide on one practical step to flee it this week: remove the app, end the conversation, change the route, install the filter, tell a trusted friend. Write the step down and do it within 24 hours. Fleeing is a decision made in advance."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, I come to You as one who was bought with a price. I am not my own. My body, my time, my money, my rights, my desires — all of them were purchased by Your blood, and all of them belong to You. Forgive me for living as though I owned myself. Father, I confess where I have held my rights tighter than my brothers and sisters. I have nursed grievances and argued my case and wanted to win more than I wanted peace. Teach me the way of the cross — to be willing to be wronged rather than to wrong another, and to love my brother more than my vindication. Thank You, Lord, that such were some of us — and such was I. But I was washed. I was sanctified. I was justified in the name of the Lord Jesus and by the Spirit of our God. Silence the voice that tells me I am still what I was. I am Yours. Holy Spirit, You live in my body. It is Your temple. I give You every room — my eyes, my hands, my mouth, my appetites, my sexuality. Where I have been mastered by anything other than Christ, break its power. Where I have been flirting with temptation, give me the wisdom and the speed to flee. And Lord, You are for my body. You will raise it. Let me glorify God in it today. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Abraham Lets Lot Choose",
+      "ref": "Genesis 13:1-18",
+      "relatedVerses": "v. 7",
+      "summary": "Abraham and his nephew Lot have both grown rich with flocks, and the land cannot support them together. Their herdsmen start quarrelling — in front of the Canaanites and Perizzites living in the land. Abraham could have insisted on his rights as the elder and the one to whom God had given the promise. Instead he says to Lot, let there be no strife between us, for we are brothers, and he gives Lot first choice of the land. Lot takes the well-watered plain near Sodom. Abraham takes what is left. And immediately afterward God speaks to Abraham and promises him all the land he can see, in every direction. Abraham chose to be wronged rather than to fight his brother in front of pagans — and God Himself defended his inheritance. That is verse 7 lived out: why not rather be wronged?"
+    },
+    {
+      "title": "Samson and the Prostitute of Gaza",
+      "ref": "Judges 16:1-31",
+      "relatedVerses": "v. 15-18",
+      "summary": "Samson was set apart to God from birth, a Nazirite whose strength came from the Spirit of the LORD. But he never learned to flee. He went to Gaza and slept with a prostitute; then he loved Delilah, who was paid by the Philistines to find the secret of his strength. Day after day she pressed him, and instead of running he stayed, until he told her everything. His hair was cut, his strength left him, and the most dangerous line in his story follows: he did not know that the LORD had left him. The Philistines gouged out his eyes and set him grinding grain in prison. Samson's life is a portrait of a man who treated his body as his own and joined it to what destroyed him. God in His mercy still answered his final prayer — but the story is a warning written in blood: do not play with what you are commanded to flee."
+    },
+    {
+      "title": "Hosea Buys Back His Wife",
+      "ref": "Hosea 3:1-5",
+      "relatedVerses": "v. 11, 19-20",
+      "summary": "God told the prophet Hosea to marry a woman who would be unfaithful to him, as a living picture of Israel's unfaithfulness to the LORD. Gomer left him for other lovers and ended up, it seems, in such a state that she had to be bought. And God told Hosea to go and love her again. So Hosea bought her back — for fifteen pieces of silver and a quantity of barley — and brought her home, telling her she would now be his alone. It is one of the most moving pictures of redemption in the Old Testament: a husband paying a price to buy back a wife who had sold herself to others. That is what Christ did for you. “You were bought with a price.” Not to be punished, but to be brought home and loved — and to belong to Him alone."
+    }
+  ]
+}
