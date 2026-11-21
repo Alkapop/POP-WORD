@@ -1,0 +1,592 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "chapterTitle": "Knowledge Puffs Up, Love Builds Up — The Brother for Whom Christ Died",
+  "themeTitle": "“Being Right Is Not the Same as Being Loving”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up.",
+      "understanding": "“Now concerning” — the third topic from their letter: εἰδωλόθυτα, things sacrificed to idols. In Corinth, much of the meat available came from animals offered in pagan temples; part was burned, part eaten by the worshippers, and the rest often sold in the market. Then Paul quotes a Corinthian slogan, “We all have knowledge,” and immediately puts it in its place: γνῶσις φυσιοῖ — knowledge inflates, like a bellows — but ἀγάπη οἰκοδομεῖ — love builds a house. One fills you with air. The other builds something that lasts.",
+      "words": [
+        {
+          "strongs": "G1494",
+          "hebrew": "εἰδωλόθυτον",
+          "translit": "eidōlóthyton",
+          "english": "things sacrificed to idols"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G5448",
+          "hebrew": "φυσιόω",
+          "translit": "physióō",
+          "english": "puffs up"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G3618",
+          "hebrew": "οἰκοδομέω",
+          "translit": "oikodoméō",
+          "english": "builds up"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "But if anyone thinks that he knows anything, he doesn’t yet know as he ought to know.",
+      "understanding": "The person who thinks he has arrived at knowledge has shown that he hasn't. The perfect tense “knows” suggests someone who believes he has finished learning. True knowledge always includes an awareness of how much remains unknown. The Corinthians' confidence in their knowledge was the very proof that it was incomplete.",
+      "words": [
+        {
+          "strongs": "G1380",
+          "hebrew": "δοκέω",
+          "translit": "dokéō",
+          "english": "thinks"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "knows"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "But if anyone loves God, the same is known by him.",
+      "understanding": "A stunning reversal. You expect Paul to say, “if anyone loves God, he knows God.” Instead: “the same is known by him.” The decisive thing is not how much you know about God but that God knows you — and the evidence of being known by Him is that you love Him. Knowledge begins with being known (compare Galatians 4:9).",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loves"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "known"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Therefore concerning the eating of things sacrificed to idols, we know that no idol is anything in the world, and that there is no other God but one.",
+      "understanding": "Now the theology the “strong” in Corinth were relying on, and Paul agrees with it. “No idol is anything in the world” — an εἴδωλον has no real existence as a god. And “there is no other God but one” — the heart of Israel's faith, the Shema of Deuteronomy 6:4. The strong were right about this. The question is what they did with being right.",
+      "words": [
+        {
+          "strongs": "G1497",
+          "hebrew": "εἴδωλον",
+          "translit": "eídōlon",
+          "english": "idol"
+        },
+        {
+          "strongs": "G3762",
+          "hebrew": "οὐδείς",
+          "translit": "oudeís",
+          "english": "nothing"
+        },
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For though there are things that are called “gods”, whether in the heavens or on earth; as there are many “gods” and many “lords”;",
+      "understanding": "Paul acknowledges the religious landscape of Corinth: there are so-called gods and so-called lords everywhere — in the heavens (sun, moon, planets, the Olympian gods) and on earth (local deities, emperor cults, household gods). Corinth had temples to Apollo, Aphrodite, Asclepius, Demeter and many more. Paul puts “gods” and “lords” in a qualifier: “things that are called.” They are many in name. They are not real as gods.",
+      "words": [
+        {
+          "strongs": "G3004",
+          "hebrew": "λέγω",
+          "translit": "légō",
+          "english": "called"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "gods"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "lords"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "yet to us there is one God, the Father, of whom are all things, and we for him; and one Lord, Jesus Christ, through whom are all things, and we live through him.",
+      "understanding": "One of the most important Christological statements in the New Testament. Paul takes the Shema — “The LORD our God, the LORD is one” — and splits it between the Father and the Son without breaking its oneness. “One God, the Father, of whom are all things, and we for him; and one Lord, Jesus Christ, through whom are all things, and we live through him.” The title Lord, κύριος, is the word the Greek Old Testament used for Yahweh. Jesus is included inside the confession of the one God of Israel, as the One through whom all things were made.",
+      "words": [
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "However, that knowledge isn’t in all men. But some, with consciousness of the idol until now, eat as of a thing sacrificed to an idol, and their conscience, being weak, is defiled.",
+      "understanding": "But “that knowledge isn’t in all men.” Some believers, converted from paganism, had eaten idol meat all their lives as an act of worship. Their συνείδησις — conscience, moral awareness — still associated the meat with the idol. When they ate, it felt like worship, and their conscience, being ἀσθενής (weak), was μολύνω — soiled, stained. The problem was not the meat. It was what the act meant to them.",
+      "words": [
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weak"
+        },
+        {
+          "strongs": "G3435",
+          "hebrew": "μολύνω",
+          "translit": "molýnō",
+          "english": "defiled"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But food will not commend us to God. For neither, if we don’t eat, are we the worse; nor, if we eat, are we the better.",
+      "understanding": "Probably another Corinthian slogan, and Paul agrees: food will not παρίστημι — present us, bring us near — to God. Eating does not make you better; abstaining does not make you worse. Food is spiritually neutral. That is exactly why it is not worth destroying a brother over.",
+      "words": [
+        {
+          "strongs": "G1033",
+          "hebrew": "βρῶμα",
+          "translit": "brōma",
+          "english": "food"
+        },
+        {
+          "strongs": "G3936",
+          "hebrew": "παρίστημι",
+          "translit": "parístēmi",
+          "english": "commend"
+        },
+        {
+          "strongs": "G4052",
+          "hebrew": "περισσεύω",
+          "translit": "perisseúō",
+          "english": "better"
+        },
+        {
+          "strongs": "G5302",
+          "hebrew": "ὑστερέω",
+          "translit": "hysteréō",
+          "english": "worse"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "But be careful that by no means does this liberty of yours become a stumbling block to the weak.",
+      "understanding": "The turn. “Be careful that by no means does this ἐξουσία of yours” — this right, this freedom, this authority you are proud of — “become a πρόσκομμα to the weak.” A πρόσκομμα is something you strike your foot against and stumble. Your freedom is real. It can also become a rock in your brother's path.",
+      "words": [
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "be careful"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "liberty"
+        },
+        {
+          "strongs": "G4348",
+          "hebrew": "πρόσκομμα",
+          "translit": "próskomma",
+          "english": "stumbling block"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weak"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For if a man sees you who have knowledge sitting in an idol’s temple, won’t his conscience, if he is weak, be emboldened to eat things sacrificed to idols?",
+      "understanding": "The scene: a “strong” believer κατάκειμαι — reclining, as at a banquet — in an εἰδωλεῖον, an idol's temple. Excavations at Corinth have uncovered dining rooms at the sanctuary of Asclepius and many more at the sanctuary of Demeter and Kore on the slopes of the Acrocorinth. A weak believer walks past and sees him. And the dark irony is in the verb: the weak brother's conscience will be οἰκοδομέω — “built up,” the very word for love's work in verse 1 — built up to do what it cannot do in faith.",
+      "words": [
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G2621",
+          "hebrew": "κατάκειμαι",
+          "translit": "katákeimai",
+          "english": "sitting (reclining)"
+        },
+        {
+          "strongs": "G1493",
+          "hebrew": "εἰδωλεῖον",
+          "translit": "eidōleîon",
+          "english": "idol's temple"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        },
+        {
+          "strongs": "G3618",
+          "hebrew": "οἰκοδομέω",
+          "translit": "oikodoméō",
+          "english": "be emboldened (built up)"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "And through your knowledge, he who is weak perishes, the brother for whose sake Christ died.",
+      "understanding": "Ἀπόλλυμι — he is destroyed, ruined. Not merely offended; damaged in his faith, perhaps drawn back into the idolatry he was saved from. And then the phrase that should stop every “strong” Christian in his tracks: “the brother for whose sake Christ died.” Christ thought this weak brother worth dying for. You will not give up a steak for him?",
+      "words": [
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weak"
+        },
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "perishes"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "died"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Thus, sinning against the brothers, and wounding their conscience when it is weak, you sin against Christ.",
+      "understanding": "Three escalating verbs. You ἁμαρτάνω — sin — against your brothers. You τύπτω — strike, beat — their weak conscience; the word is used of physical blows. And so you sin “against Christ.” Wound the body, and you wound the Head. This is exactly what the risen Jesus said to Saul: “why do you persecute me?”",
+      "words": [
+        {
+          "strongs": "G264",
+          "hebrew": "ἁμαρτάνω",
+          "translit": "hamartánō",
+          "english": "sinning"
+        },
+        {
+          "strongs": "G5180",
+          "hebrew": "τύπτω",
+          "translit": "týptō",
+          "english": "wounding"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weak"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Therefore if food causes my brother to stumble, I will eat no meat forever more, that I don’t cause my brother to stumble.",
+      "understanding": "Paul's personal resolution, in the strongest possible terms. If food σκανδαλίζω — trips up — my brother, I will never eat κρέας, meat, again, εἰς τὸν αἰῶνα, forever. He does not tell the strong what to do; he tells them what he will do. Love does not ask, “What am I allowed to do?” It asks, “What will help my brother?”",
+      "words": [
+        {
+          "strongs": "G1033",
+          "hebrew": "βρῶμα",
+          "translit": "brōma",
+          "english": "food"
+        },
+        {
+          "strongs": "G4624",
+          "hebrew": "σκανδαλίζω",
+          "translit": "skandalízō",
+          "english": "causes to stumble"
+        },
+        {
+          "strongs": "G2907",
+          "hebrew": "κρέας",
+          "translit": "kréas",
+          "english": "meat"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Bellows and the Builder",
+      "verseRef": "v. 1-3",
+      "image": "Picture a blacksmith's forge in the lower city of Corinth. In one corner, a boy is working the bellows — a leather bag that swells enormous with every pull and collapses empty with every push. It is big, it is noisy, and there is nothing in it but air. In the street outside, a mason is laying stone on stone, slowly, with mortar and patience, building a house that will stand for a hundred years. Paul says: knowledge is the bellows. Love is the mason.",
+      "meaning": "Paul is not against knowledge. He agrees with the Corinthians' theology — there is one God, idols are nothing. But knowledge on its own φυσιοῖ — it inflates you. It makes you big and empty. Love οἰκοδομεῖ — it builds others up into something solid. And verse 3 goes deeper still: the real issue is not whether you know God but whether God knows you, and the sign that He knows you is that you love Him — and, as the rest of the chapter shows, love your brother. You can win every theological argument and still be nothing but air. Being right is not the same as being loving."
+    },
+    {
+      "title": "Dinner in the Temple Dining Room",
+      "verseRef": "v. 7-12",
+      "image": "On the slope below the Acrocorinth, at the sanctuary of Demeter, archaeologists have found dozens of small dining rooms with stone benches along the walls where worshippers reclined to eat sacrificial meals. Picture one of them on a feast day. A wealthy Corinthian believer, well-educated, confident in his knowledge that idols are nothing, accepts an invitation from a business associate and reclines at the table. The meat comes from the altar outside. He eats without a second thought. Through the doorway, a poorer believer — a former worshipper of Demeter who wept with relief the day he turned from idols — sees him. He stands there, confused. Then he thinks: if my brother can do this, maybe it doesn't matter. And he goes in.",
+      "meaning": "The strong man's theology was correct, and his brother was ruined by it. That is the tragedy of this chapter. Paul's word in verse 10 is bitterly ironic: the weak brother's conscience is “built up” — the very word for what love does in verse 1 — built up to sin. The strong believer's example did not strengthen his brother's faith; it pressured him to act against his conscience, which for him was a return to idolatry. And then Paul names who this brother is: the one “for whose sake Christ died.” If Jesus thought this person was worth dying for, how can you treat him as an acceptable loss for the sake of a meal? To wound his conscience is to sin against Christ Himself."
+    },
+    {
+      "title": "One God, One Lord",
+      "verseRef": "v. 4-6",
+      "image": "Every morning, a devout Jewish man in Corinth would recite the Shema, the confession Israel had prayed for more than a thousand years: “Hear, Israel: Yahweh is our God. Yahweh is one.” He would say it surrounded by temples — to Apollo, to Aphrodite, to Poseidon, to the deified emperors — in a city with many “gods” and many “lords.” Now picture Paul, a Pharisee who prayed the Shema from childhood, taking that ancient sentence and opening it up: one God, the Father; one Lord, Jesus Christ. Not two gods. One God — and the Son is inside the confession.",
+      "meaning": "Verse 6 is one of the earliest and most remarkable statements of Christian faith about Jesus. Paul takes the two key words of the Shema, God and Lord, and assigns “God” to the Father and “Lord” — the Greek title used for Yahweh in Israel's Scriptures — to Jesus. And he gives Jesus the role of Creator: “through whom are all things.” This is not a later development imposed on Christianity. It is here, in a letter written barely twenty-five years after the crucifixion, stated as something the Corinthians already knew. And notice the purpose clause: “we for him” and “we live through him.” The one God is not an abstract idea. He is the source and goal of your existence, and Jesus is the one through whom you live."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Knowledge and Love (v. 1-3)",
+        "body": "The Corinthians claim knowledge; Paul answers that knowledge inflates but love builds up, and that what matters is being known by God, which shows itself in loving Him."
+      },
+      {
+        "label": "One God, One Lord (v. 4-6)",
+        "body": "Paul affirms the theology of the strong: idols are nothing, and there is one God, the Father, and one Lord, Jesus Christ — the Shema confessed with the Son inside it."
+      },
+      {
+        "label": "The Weak Conscience (v. 7-8)",
+        "body": "Not everyone has this knowledge; former idolaters still feel that eating idol meat is worship, and their weak conscience is defiled. Food itself neither commends nor condemns."
+      },
+      {
+        "label": "Freedom That Wounds (v. 9-12)",
+        "body": "The freedom of the strong must not become a stumbling block; if a weak brother sees a strong one eating in an idol's temple, he may be drawn into sin and ruined — and to sin against such a brother is to sin against Christ."
+      },
+      {
+        "label": "Paul's Resolution (v. 13)",
+        "body": "If food causes his brother to stumble, Paul will never eat meat again."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Problem of Idol Meat in a City of Temples",
+        "paragraphs": [
+          "To understand chapters 8 to 10 you have to understand how deeply idolatry was woven into ordinary life in Corinth. Most meat in the ancient world was associated with sacrifice. An animal would be brought to a temple, killed on the altar, part of it burned for the god, part given to the priests, and the rest returned to the worshipper to eat — often in dining rooms attached to the temple — or sold in the market. Archaeologists at Corinth have found dining facilities at the sanctuary of Asclepius and many small dining rooms at the sanctuary of Demeter and Kore on the slopes of the Acrocorinth. Trade guilds held their banquets in temples. Birthdays, weddings and business deals were celebrated there. To refuse every invitation that involved idol meat was to withdraw from much of social and economic life.",
+          "So the Corinthians had written to Paul with a question, and it seems clear that a confident group in the church — the “strong,” as they are usually called — had already decided the answer. Their reasoning went like this: “We all have knowledge” (v. 1). We know that idols are nothing, because there is only one God (v. 4). Food is spiritually neutral; it does not bring us closer to God or push us away (v. 8). Therefore we are free to eat idol meat, even in a temple dining room. Paul agrees with every one of their premises. He says yes, there is one God; yes, idols are nothing; yes, food is neutral. But he refuses their conclusion. Because their whole argument has left out one thing: the brother.",
+          "Notice how Paul begins. Before he answers the question about meat, he addresses the question about knowledge. “Knowledge puffs up, but love builds up” (v. 1). The strong were proud of their theological understanding, and Paul does not dispute that it was correct. He disputes that correctness is enough. Knowledge, on its own, φυσιόω — it inflates, like a bellows filled with air. Love οἰκοδομέω — it builds, like a mason laying stone. And then verse 3 turns the whole matter around: the decisive thing is not that you know God but that you are known by Him, and the evidence of that is love. A Christian who knows everything and loves nobody has not understood the first thing about God."
+        ]
+      },
+      {
+        "heading": "The Shema With the Son Inside It",
+        "paragraphs": [
+          "Verse 6 deserves a careful look, because it is one of the most important theological sentences Paul ever wrote, and he slips it into a discussion about meat. “Yet to us there is one God, the Father, of whom are all things, and we for him; and one Lord, Jesus Christ, through whom are all things, and we live through him.” Every Jewish reader would have recognised the background immediately. It is the Shema, Deuteronomy 6:4, the central confession of Israel's faith, recited twice daily by devout Jews: “Hear, Israel: Yahweh is our God. Yahweh is one.” In the Greek Old Testament, the divine name Yahweh was rendered κύριος, Lord. So the Shema in Greek reads: “The Lord our God, the Lord is one.”",
+          "What Paul does is extraordinary. He keeps the Shema's oneness — “one God... one Lord” — and he assigns its two key terms to two persons: “God” to the Father, and “Lord” to Jesus Christ. And he gives Jesus the role of Creator, “through whom are all things,” which in Jewish thought belonged to God alone. This is not polytheism; Paul has just insisted that there is no God but one. It is the Christian confession that the one God of Israel has revealed Himself as Father and Son, and that Jesus is included in the divine identity. John says the same in his Gospel: “All things were made through him. Without him was not anything made that has been made” (John 1:3). And Paul says it again to the Colossians: “all things have been created through him, and for him” (Colossians 1:16).",
+          "Why does Paul put this here, in a chapter about food? Because it is the foundation of everything he is about to say. The strong were right: there is one God, and the idols are nothing. But the One God they confessed includes the Lord Jesus Christ, who died for the weak brother (v. 11). The same confession that frees you from idols binds you to your brother. You cannot use the doctrine of Christ's lordship as a reason to ignore the people for whom He died. And the purpose clauses in verse 6 point the same way: “we for him” and “we live through him.” Your freedom is not for you. It is for Him, and His concern is for the weak."
+        ]
+      },
+      {
+        "heading": "When Your Freedom Becomes Your Brother's Stumbling Block",
+        "paragraphs": [
+          "Verses 7 to 12 introduce the weak brother, and it is essential to understand who he is. He is not a legalist trying to impose rules on others. He is a former idol-worshipper whose conscience still associates idol meat with the worship of the idol (v. 7). For him, eating it is not neutral; it feels like going back to the god he renounced. His conscience is “weak” in the sense that it is not yet fully informed by the truth that idols are nothing. But it is still his conscience, and to act against it is sin for him (compare Romans 14:23, “whatever is not of faith is sin”). The problem is not that he is easily offended in the modern sense of being annoyed. The problem is that he might be drawn into doing something he believes is idolatry.",
+          "Now picture what happens. The strong believer, confident in his knowledge, reclines at a meal in a temple dining room (v. 10). The weak believer sees him. And his conscience is “emboldened” — the Greek word is οἰκοδομέω, literally “built up” — the very word Paul used for love's work in verse 1. This is bitter irony: the strong believer's freedom does “build up” his brother, but it builds him up to sin. He eats against his conscience, and he is “destroyed” — ἀπόλλυμι, the word used of perishing in 1:18. Whether Paul means final ruin or serious spiritual damage, the stakes are high. And then he names who this weak person is: “the brother for whose sake Christ died” (v. 11).",
+          "That phrase changes everything. Christ valued this weak, confused, under-informed believer so highly that He died for him. And the strong believer is willing to risk his ruin for the sake of a meal. Verse 12 makes the consequences explicit: “Thus, sinning against the brothers, and wounding their conscience when it is weak, you sin against Christ.” The word τύπτω means to strike, to beat — it is used of physical blows in the Gospels. To wound a brother's conscience is to strike Christ. That is because the brother is a member of His body, as the risen Lord told Saul: “why do you persecute me?” And so Paul ends not with a rule for others but with a resolution for himself: “if food causes my brother to stumble, I will eat no meat forever more” (v. 13). Love does not ask, “What am I allowed to do?” It asks, “What will build up my brother?” Chapter 9 will show that this was not a hypothetical for Paul; it was the pattern of his whole life."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Paul applies the same principle in Romans, written a few years later from Corinth: “Therefore let’s not judge one another any more, but judge this rather, that no man put a stumbling block in his brother’s way, or an occasion for falling” (Romans 14:13). And again: “Yet if because of food your brother is grieved, you walk no longer in love. Don’t destroy with your food him for whom Christ died” (Romans 14:15). And he states the conclusion plainly: “It is good to not eat meat, drink wine, nor do anything by which your brother stumbles, is offended, or is made weak” (Romans 14:21). In Romans 15 he grounds it in the example of Jesus: “Now we who are strong ought to bear the weaknesses of the weak, and not to please ourselves... For even Christ didn’t please himself” (Romans 15:1, 3).",
+        "The identification of a brother with Christ in verse 12 comes straight from the words of Jesus. On the Damascus road, the risen Lord did not ask Saul, “Why do you persecute my followers?” He asked, “Saul, Saul, why do you persecute me?” — and when Saul asked who He was, the answer came: “I am Jesus, whom you are persecuting” (Acts 9:4–5). Paul never forgot it. What you do to the members of Christ's body, you do to Christ. Jesus taught the same in His parable of the judgment: “Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me” (Matthew 25:40). And He gave a terrifying warning about causing believers to stumble: “whoever causes one of these little ones who believe in me to stumble, it would be better for him that a huge millstone should be hung around his neck, and that he should be sunk in the depths of the sea” (Matthew 18:6).",
+        "The issue of idol meat itself appears elsewhere in the New Testament. The Jerusalem council asked Gentile believers to “abstain from things sacrificed to idols” (Acts 15:29), largely for the sake of fellowship with Jewish believers and to avoid any appearance of idolatry. And the risen Christ rebuked the church in Pergamum because some there held “the teaching of Balaam, who taught Balak to throw a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality” (Revelation 2:14). Paul's careful distinction will become clearer in chapter 10: meat sold in the market can be eaten with thanksgiving, but participating in a temple meal is participating in idolatry. In chapter 8 he does not yet make that argument. He makes a more fundamental one. Even if you are right, love may require you to give up your rights."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Knowledge",
+      "hebrew": "γνῶσις",
+      "translit": "gnōsis",
+      "strongs": "G1108",
+      "verses": "v. 1 (×2), 7, 10, 11",
+      "insight": "Strong's: “knowing (the act), i.e. (by implication) knowledge.” Γνῶσις was one of the Corinthians' favourite words, and Paul uses it ten times in this letter — more than in any other. He thanked God that they were enriched in all knowledge (1:5), and he will say that knowledge without love is nothing (13:2) and that knowledge will pass away (13:8). In this chapter he contrasts it with love. Later Christian movements known as Gnostics, from this word, claimed secret spiritual knowledge that set them above ordinary believers. The seeds of that attitude are visible in Corinth. Paul's answer is not anti-intellectualism; it is love. Knowledge is a tool. Love is the builder who uses it."
+    },
+    {
+      "english": "Build up / edify",
+      "hebrew": "οἰκοδομέω",
+      "translit": "oikodoméō",
+      "strongs": "G3618",
+      "verses": "v. 1, 10",
+      "insight": "Strong's: “to be a house-builder, i.e. construct or (figuratively) confirm.” The word combines οἶκος, house, and δέμω, to build. Paul uses it as the great test for Christian behaviour: does it build up? It appears in 8:1, 10:23 and repeatedly in chapter 14, where he tells the Corinthians to seek gifts that build up the church. In verse 1 love builds up. In verse 10, with dark irony, the strong believer's example “builds up” the weak brother's conscience — to sin. The same word can describe construction or destruction, depending on what is being built. The question is never only whether you are influencing others, but what you are building in them."
+    },
+    {
+      "english": "Conscience",
+      "hebrew": "συνείδησις",
+      "translit": "syneídēsis",
+      "strongs": "G4893",
+      "verses": "v. 7, 10, 12",
+      "insight": "Strong's: “co-perception, i.e. moral consciousness.” The word means literally “knowing with” — the inner witness that knows along with you what you are doing and judges whether it is right. Paul uses it more than any other New Testament writer, and three times in this chapter. A conscience can be “weak” — not fully informed by truth — and still be binding on the person who has it, because to act against it is to act against what you believe is right. Paul's teaching is twofold: inform your own conscience by the truth, and do not pressure another person to violate theirs. A conscience is not infallible, but it is precious. To wound it is to strike Christ."
+    },
+    {
+      "english": "Stumbling block",
+      "hebrew": "πρόσκομμα",
+      "translit": "próskomma",
+      "strongs": "G4348 (verb, cause to stumble σκανδαλίζω, skandalízō, G4624)",
+      "verses": "v. 9 (verb σκανδαλίζω in v. 13 ×2)",
+      "insight": "Strong's defines πρόσκομμα as “a stub, i.e. (figuratively) occasion of apostasy” — something you strike your foot against — and σκανδαλίζω as “to entrap, i.e. trip up.” Both words describe causing someone to fall. Paul uses the noun in Romans 14:13, 20 and the verb here. The important point is that the stumbling in view is not mere annoyance. It is falling into sin — being drawn into doing something one believes to be wrong, or being led back into a former way of life. To be a stumbling block is not to offend someone's preferences. It is to put an obstacle in their path to Christ."
+    },
+    {
+      "english": "Perish / be destroyed",
+      "hebrew": "ἀπόλλυμι",
+      "translit": "apóllymi",
+      "strongs": "G622",
+      "verses": "v. 11",
+      "insight": "Strong's: “to destroy fully (reflexively, to perish, or lose), literally or figuratively.” This is a strong word. It is the same word John 3:16 uses of those who “perish,” and the word Paul used in 1:18 of “those who are dying.” Some interpreters think Paul means final spiritual ruin; others think he means serious damage to the brother's faith and Christian walk. Either way, he is not describing hurt feelings. He is describing the potential destruction of a person's spiritual life. And he places it in the starkest possible contrast with the cross: this brother is “the brother for whose sake Christ died.” Christ died to save him from perishing. You are risking his perishing for a meal."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the pride hidden in your correct theology, the freedoms you exercise without thinking about who is watching, and the people you have quietly decided are not worth adjusting your life for.",
+    "items": [
+      {
+        "title": "Right and Inflated",
+        "body": "You may be right. About doctrine, about practice, about the freedom you have in Christ, about the weaknesses of other believers. The Spirit is not asking you to stop being right. He is asking what your rightness is building. Is it building others up — or is it inflating you? Do you use your knowledge to serve the weak or to look down on them? When someone is less informed than you, do you feel compassion or contempt? Paul's test is stark: “if anyone thinks that he knows anything, he doesn’t yet know as he ought to know.” The person who has truly understood God loves. If your knowledge has made you harder, colder or more superior, it has made you less like Christ, not more."
+      },
+      {
+        "title": "Who Is Watching Through the Doorway?",
+        "body": "There is someone watching your life who is younger in the faith, more fragile, still fighting battles you have won. They watch what you drink, what you watch, what you joke about, where you go, how you spend your money, what you post. You may be completely free in Christ to do those things. But what do they conclude when they see you? The Spirit is asking you to look through the doorway and see the person standing there. Your freedom is real, and it is precious. But it was given to you for love, not for self-display. What freedom are you exercising that might be a stumbling block to someone else? Are you willing to give it up for their sake?"
+      },
+      {
+        "title": "The Brother for Whom Christ Died",
+        "body": "There is a believer you find tiresome. Weak, scrupulous, sensitive, immature, behind you in understanding. You have quietly decided they are not worth adjusting your life for. The Spirit wants you to see them with the four words of verse 11: “for whose sake Christ died.” Jesus did not consider this person an acceptable loss. He thought them worth His blood. So what is your steak, your glass of wine, your opinion, your freedom, your preference, compared to their soul? Paul said he would give up meat forever rather than cause his brother to stumble. What are you willing to give up?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Bellows Check",
+        "body": "Think of the last theological disagreement you had with another believer. Write down honestly: was I more concerned to be right or to build them up? Did I leave them strengthened in Christ or simply defeated in argument? Did my knowledge make me more loving or more proud?"
+      },
+      {
+        "title": "The Doorway Check",
+        "body": "List three freedoms you exercise that some believers would be uncomfortable with — drinks, entertainment, activities, language, spending. For each one, ask: is there anyone in my life who might be drawn into sin, against their conscience, by watching me do this? If so, write their name beside it."
+      },
+      {
+        "title": "The Weak-Brother Check",
+        "body": "Name one believer you tend to dismiss as weak, immature or overly sensitive. Write beside their name: “the brother (or sister) for whose sake Christ died.” Then ask: how have I treated them? What would love do for them this week?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Laying Down a Right",
+        "body": "Choose one freedom from your Doorway Check that might be causing someone to stumble. For the next thirty days, voluntarily give it up — not because it is wrong in itself, but as an act of love for the weaker brother or sister you named. Each time you feel the loss, pray for that person by name. At the end of the thirty days, ask God whether this should become a permanent change. Write down what you learn about love from the experience."
+      },
+      {
+        "title": "Building Instead of Inflating",
+        "body": "This week, find one believer who is less mature or less informed than you in some area. Instead of correcting them, invest in building them up. Ask them about their walk with God. Listen. Share something God has taught you in your own weakness. Pray with them. Encourage something genuine you see in their faith. Do not mention the area where you think they are weak. Let love do the building, and see what God does."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I confess that I have been puffed up with knowledge. I have been proud of being right, and I have used my understanding to look down on others instead of building them up. Forgive me. Teach me that if I think I know anything, I do not yet know as I ought to know. And thank You that what matters most is not that I know You, but that I am known by You. Let the evidence of that be love. Lord God, You are the one God, the Father, from whom are all things, and I exist for You. Lord Jesus Christ, You are the one Lord, through whom all things were made, and I live through You. Every idol in my life is nothing; I renounce them all. But Lord, do not let my freedom from idols make me careless of my brothers. Show me who is watching me through the doorway. Show me where my liberty has become a stumbling block to someone weaker. Give me the love to lay down my rights for their sake, as You laid down Your life for mine. Help me to see every weak, confused, struggling believer as the brother or sister for whom Christ died. Forgive me for every time I have wounded someone's conscience and so wounded You. And make me like Paul — willing to give up anything, forever, rather than cause one of Your little ones to stumble. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Daniel's Resolve at the King's Table",
+      "ref": "Daniel 1:1-21",
+      "relatedVerses": "v. 1, 7-8",
+      "summary": "When Daniel and his friends were taken to Babylon, they were enrolled in the king's training programme and assigned a daily portion of the king's food and wine — food that had almost certainly been offered to Babylon's gods or that did not meet the requirements of God's law. Daniel resolved not to defile himself. He did not stage a protest or condemn the Babylonians. He asked the official politely for permission to eat vegetables and water for ten days, and trusted God with the result. At the end of the test, Daniel and his friends looked healthier than all the others, and God gave them knowledge and wisdom beyond everyone in the kingdom. Daniel shows that faithfulness in matters of food and idolatry can be quiet, humble and wise, and that God honours a conscience kept clean before Him."
+    },
+    {
+      "title": "David Pours Out the Water From Bethlehem",
+      "ref": "2 Samuel 23:13-17",
+      "relatedVerses": "v. 13",
+      "summary": "During a war with the Philistines, David was hiding in a cave while an enemy garrison occupied his hometown of Bethlehem. He said, almost wistfully, that he wished someone would bring him a drink from the well by Bethlehem's gate. Three of his mighty men broke through the Philistine lines, drew water from the well and brought it back to him. But David would not drink it. He poured it out on the ground before the LORD, saying that it was the blood of the men who had risked their lives for it. David had every right to drink that water. It was a gift, freely given. But when he understood what it had cost, he chose to give it up as an offering. That is the spirit of 1 Corinthians 8:13: some things you are free to enjoy become impossible to enjoy once you see the cost to others."
+    },
+    {
+      "title": "Paul Circumcises Timothy",
+      "ref": "Acts 16:1-5",
+      "relatedVerses": "v. 9, 13",
+      "summary": "Paul was the great apostle of freedom from the law, who would write to the Galatians that circumcision is nothing. And yet, when he met a young disciple named Timothy in Lystra, whose mother was Jewish and whose father was Greek, Paul circumcised him before taking him on his missionary journey. Why? Luke says it was because of the Jews who lived in those areas, who all knew that Timothy's father was a Greek. Paul did not believe circumcision was necessary for salvation; he fought fiercely against that idea. But he was willing to lay aside his freedom so that Timothy's ministry would not be a stumbling block to the very Jews they were trying to reach. Paul practised what he preached in 1 Corinthians 8 and 9: freedom used for love, not for self."
+    }
+  ]
+}
