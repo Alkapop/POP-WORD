@@ -1,0 +1,1108 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Corinthians",
+  "chapter": 12,
+  "chapterTitle": "One Spirit, Many Gifts, One Body — No Member Too Small to Matter",
+  "themeTitle": "“The Eye Can’t Tell the Hand, ‘I Have No Need for You’”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now concerning spiritual things, brothers, I don’t want you to be ignorant.",
+      "understanding": "“Now concerning” — the fourth topic from their letter: τὰ πνευματικά, which can mean “spiritual things,” “spiritual gifts,” or “spiritual people.” The ambiguity may be deliberate; the Corinthians were proud of being πνευματικοί. Chapters 12 to 14 form one long argument, and chapter 13 stands at its centre. Paul does not want them to be ἀγνοέω — uninformed — about the one thing they thought they understood best.",
+      "words": [
+        {
+          "strongs": "G4152",
+          "hebrew": "πνευματικός",
+          "translit": "pneumatikós",
+          "english": "spiritual things"
+        },
+        {
+          "strongs": "G50",
+          "hebrew": "ἀγνοέω",
+          "translit": "agnoéō",
+          "english": "ignorant"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "You know that when you were heathen, you were led away to those mute idols, however you might be led.",
+      "understanding": "A reminder of where they came from. When they were ἔθνη — pagans — they were ἀπάγω, led away, carried off, to ἄφωνα idols — voiceless, mute. Pagan religion in Corinth included ecstatic experiences, frenzied worship and trance-like states. Paul's point: being “carried away” in a religious experience is not in itself a sign of the Holy Spirit. They had been carried away before, by dead idols that could not speak.",
+      "words": [
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "heathen"
+        },
+        {
+          "strongs": "G880",
+          "hebrew": "ἄφωνος",
+          "translit": "áphōnos",
+          "english": "mute"
+        },
+        {
+          "strongs": "G1497",
+          "hebrew": "εἴδωλον",
+          "translit": "eídōlon",
+          "english": "idols"
+        },
+        {
+          "strongs": "G520",
+          "hebrew": "ἀπάγω",
+          "translit": "apágō",
+          "english": "led away"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Therefore I make known to you that no man speaking by God’s Spirit says, “Jesus is accursed.” No one can say, “Jesus is Lord,” but by the Holy Spirit.",
+      "understanding": "Therefore the test of genuine spiritual experience is not intensity but confession. No one speaking by God's Spirit says, “Jesus is ἀνάθεμα” — accursed. And no one can truly say “Κύριος Ἰησοῦς — Jesus is Lord” except by the Holy Spirit. This was the earliest Christian confession (Romans 10:9). In a world where people were expected to say “Caesar is Lord,” it was dangerous. Decades later, officials urged the elderly bishop Polycarp simply to say “Lord Caesar” and offer incense; he refused and was burned. The Spirit's first work is not spectacle; it is to make Jesus Lord.",
+      "words": [
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G331",
+          "hebrew": "ἀνάθεμα",
+          "translit": "anáthema",
+          "english": "accursed"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "Holy"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Now there are various kinds of gifts, but the same Spirit.",
+      "understanding": "Now three parallel statements, and a hidden Trinity. Διαιρέσεις — distributions, varieties — of χαρίσματα, grace-gifts — but the same Spirit. The word χάρισμα reminds them that every gift is grace, not achievement.",
+      "words": [
+        {
+          "strongs": "G1243",
+          "hebrew": "διαίρεσις",
+          "translit": "diaíresis",
+          "english": "various kinds"
+        },
+        {
+          "strongs": "G5486",
+          "hebrew": "χάρισμα",
+          "translit": "chárisma",
+          "english": "gifts"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "There are various kinds of service, and the same Lord.",
+      "understanding": "Varieties of διακονίαι — services, ministries, the word for waiting tables — but the same Lord. Every gift is a form of service, and every service is rendered to the one Lord Jesus.",
+      "words": [
+        {
+          "strongs": "G1243",
+          "hebrew": "διαίρεσις",
+          "translit": "diaíresis",
+          "english": "various kinds"
+        },
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "service"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "There are various kinds of workings, but the same God, who works all things in all.",
+      "understanding": "Varieties of ἐνεργήματα — workings, effects, operations — but the same God who ἐνεργέω — energises, works — all of them in everyone. Spirit, Lord, God: verses 4 to 6 are one of the clearest early statements of the Trinity at work in the church. Gifts are from the Spirit, as service to the Lord, by the power of God the Father.",
+      "words": [
+        {
+          "strongs": "G1755",
+          "hebrew": "ἐνέργημα",
+          "translit": "enérgēma",
+          "english": "workings"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "But to each one is given the manifestation of the Spirit for the profit of all.",
+      "understanding": "The governing principle of all spiritual gifts. To each one is given — δίδοται, a divine passive: God gives it — the φανέρωσις, the manifestation, the making-visible, of the Spirit, πρὸς τὸ συμφέρον — for the common good, for the benefit of all. Every believer has a gift. And no gift is given for personal display. It is given to build up others.",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "given"
+        },
+        {
+          "strongs": "G5321",
+          "hebrew": "φανέρωσις",
+          "translit": "phanérōsis",
+          "english": "manifestation"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G4851",
+          "hebrew": "συμφέρω",
+          "translit": "symphérō",
+          "english": "profit"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "For to one is given through the Spirit the word of wisdom, and to another the word of knowledge, according to the same Spirit;",
+      "understanding": "The list begins. A λόγος σοφίας — word of wisdom — perhaps a Spirit-given insight into how to apply God's truth in a situation. A λόγος γνώσεως — word of knowledge — perhaps Spirit-given understanding of God's truth or of a hidden matter. Paul does not define these precisely, and honest interpreters admit we cannot be certain of the exact boundaries. Notice that wisdom and knowledge, the gifts Corinth prized most, are listed first — and given by the same Spirit as all the rest.",
+      "words": [
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "to another faith, by the same Spirit; and to another gifts of healings, by the same Spirit;",
+      "understanding": "Πίστις — faith. Not saving faith, which all believers have, but a special gift of faith to trust God for extraordinary things — the faith that “removes mountains” (13:2). Χαρίσματα ἰαμάτων — gifts of healings; both words are plural, suggesting many different gifts for many kinds of healing, not a single permanent power.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G5486",
+          "hebrew": "χάρισμα",
+          "translit": "chárisma",
+          "english": "gifts"
+        },
+        {
+          "strongs": "G2386",
+          "hebrew": "ἴαμα",
+          "translit": "íama",
+          "english": "healings"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "and to another workings of miracles; and to another prophecy; and to another discerning of spirits; to another different kinds of languages; and to another the interpretation of languages.",
+      "understanding": "Ἐνεργήματα δυνάμεων — workings of powers, miracles. Προφητεία — prophecy, Spirit-given speech for the strengthening, encouragement and comfort of the church (14:3). Διακρίσεις πνευμάτων — the ability to distinguish between spirits, to discern whether a message or manifestation is from the Holy Spirit, a human spirit or an evil one. Γένη γλωσσῶν — kinds of tongues, languages. Ἑρμηνεία γλωσσῶν — interpretation of tongues. Note that tongues, the gift Corinth valued most highly, comes near the end of the list.",
+      "words": [
+        {
+          "strongs": "G1755",
+          "hebrew": "ἐνέργημα",
+          "translit": "enérgēma",
+          "english": "workings"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "miracles"
+        },
+        {
+          "strongs": "G4394",
+          "hebrew": "προφητεία",
+          "translit": "prophēteía",
+          "english": "prophecy"
+        },
+        {
+          "strongs": "G1253",
+          "hebrew": "διάκρισις",
+          "translit": "diákrisis",
+          "english": "discerning"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "languages"
+        },
+        {
+          "strongs": "G2058",
+          "hebrew": "ἑρμηνεία",
+          "translit": "hermēneía",
+          "english": "interpretation"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "But the one and the same Spirit produces all of these, distributing to each one separately as he desires.",
+      "understanding": "The sovereignty of the Spirit. One and the same Spirit ἐνεργέω — works — all of these, διαιρέω — distributing, apportioning — to each one individually “as he desires.” Βούλομαι is a word of deliberate will. The Spirit is not a force; He is a Person who chooses. You do not choose your gift. He does. That ends all boasting and all envy at once.",
+      "words": [
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "produces"
+        },
+        {
+          "strongs": "G1244",
+          "hebrew": "διαιρέω",
+          "translit": "diairéō",
+          "english": "distributing"
+        },
+        {
+          "strongs": "G1014",
+          "hebrew": "βούλομαι",
+          "translit": "boúlomai",
+          "english": "desires"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For as the body is one, and has many members, and all the members of the body, being many, are one body; so also is Christ.",
+      "understanding": "Now the great image. The body is one and has many μέλη, members, limbs; all the members, many as they are, are one body — “so also is Christ.” Notice: not “so also is the church,” but “so also is Christ.” The church is so united to Christ that Paul can call it by His name.",
+      "words": [
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "members"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "For in one Spirit we were all baptized into one body, whether Jews or Greeks, whether bond or free; and were all given to drink into one Spirit.",
+      "understanding": "How did we become one body? “In one Spirit we were all baptized into one body.” Every believer, without exception — “all” — has been immersed into the body of Christ by the Spirit. Jews and Greeks, slaves and free: the deepest divisions of the ancient world were dissolved. And we were all given one Spirit to ποτίζω — drink. The same Spirit poured into every believer.",
+      "words": [
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G907",
+          "hebrew": "βαπτίζω",
+          "translit": "baptízō",
+          "english": "baptized"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "bond"
+        },
+        {
+          "strongs": "G1658",
+          "hebrew": "ἐλεύθερος",
+          "translit": "eleútheros",
+          "english": "free"
+        },
+        {
+          "strongs": "G4222",
+          "hebrew": "ποτίζω",
+          "translit": "potízō",
+          "english": "given to drink"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For the body is not one member, but many.",
+      "understanding": "The simplest possible sentence, and the foundation of everything that follows: the body is not one member, but many. Diversity is not a problem to be solved. It is the design.",
+      "words": [
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "member"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "If the foot would say, “Because I’m not the hand, I’m not part of the body,” it is not therefore not part of the body.",
+      "understanding": "The first absurdity: the inferiority complex. A πούς, foot, says: because I am not a χείρ, hand, I don't belong to the body. Feet in the ancient world were regarded as lowly; hands were skilled and honoured. Some in Corinth felt that because they did not have the prized gifts, they did not really matter. Paul says: you are still part of the body.",
+      "words": [
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "foot"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "If the ear would say, “Because I’m not the eye, I’m not part of the body,” it’s not therefore not part of the body.",
+      "understanding": "The same absurdity with the ear and the eye. The οὖς, ear, envies the ὀφθαλμός, eye — the organ most associated with understanding and perception in Greek thought. Wishing to be a different member does not make you less a member.",
+      "words": [
+        {
+          "strongs": "G3775",
+          "hebrew": "οὖς",
+          "translit": "oûs",
+          "english": "ear"
+        },
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eye"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "If the whole body were an eye, where would the hearing be? If the whole were hearing, where would the smelling be?",
+      "understanding": "Imagine a body that was only an eye — a giant eyeball rolling down the street. Where would the ἀκοή, the hearing, be? If everything were hearing, where would the ὄσφρησις, the sense of smell, be? A church where everyone had the same gift would be a monstrosity.",
+      "words": [
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eye"
+        },
+        {
+          "strongs": "G189",
+          "hebrew": "ἀκοή",
+          "translit": "akoḗ",
+          "english": "hearing"
+        },
+        {
+          "strongs": "G3750",
+          "hebrew": "ὄσφρησις",
+          "translit": "ósphrēsis",
+          "english": "smelling"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "But now God has set the members, each one of them, in the body, just as he desired.",
+      "understanding": "The answer to both the inferiority complex and the superiority complex: God τίθημι — placed, set — each of the members in the body καθὼς ἠθέλησεν, just as He wanted. Your place in the body is not an accident. It is God's design. That is why comparison is so foolish.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5087",
+          "hebrew": "τίθημι",
+          "translit": "títhēmi",
+          "english": "set"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "members"
+        },
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "desired"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "If they were all one member, where would the body be?",
+      "understanding": "If all were a single member, “where would the body be?” There would be no body at all. The body exists precisely in the many-ness of its members.",
+      "words": [
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "member"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "But now they are many members, but one body.",
+      "understanding": "The summary: many members, one body. Unity is not uniformity. Diversity is not division.",
+      "words": [
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "members"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "The eye can’t tell the hand, “I have no need for you,” or again the head to the feet, “I have no need for you.”",
+      "understanding": "The second absurdity: the superiority complex. The eye cannot say to the hand, “I have no χρεία — no need — of you,” nor the head to the feet. Some in Corinth, proud of their spectacular gifts, looked down on those with ordinary ones. Paul says the most exalted member still needs the humblest.",
+      "words": [
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eye"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G5532",
+          "hebrew": "χρεία",
+          "translit": "chreía",
+          "english": "need"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "head"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "No, much rather, those members of the body which seem to be weaker are necessary.",
+      "understanding": "On the contrary — πολλῷ μᾶλλον, much more — the members that seem ἀσθενέστερα, weaker, are ἀναγκαῖα — necessary, indispensable. Think of the internal organs: the heart, the liver, the kidneys. You never see them. They do not perform in public. And you cannot live a day without them.",
+      "words": [
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "members"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weaker"
+        },
+        {
+          "strongs": "G316",
+          "hebrew": "ἀναγκαῖος",
+          "translit": "anankaîos",
+          "english": "necessary"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "Those parts of the body which we think to be less honorable, on those we bestow more abundant honor; and our unpresentable parts have more abundant propriety;",
+      "understanding": "The parts we think less ἔντιμα, honourable, we clothe with more abundant τιμή, honour; and our ἀσχήμονα — our unpresentable, private parts — are treated with greater εὐσχημοσύνη, modesty, decorum. We instinctively protect and cover the parts of the body that are most vulnerable.",
+      "words": [
+        {
+          "strongs": "G820",
+          "hebrew": "ἄτιμος",
+          "translit": "átimos",
+          "english": "less honorable"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        },
+        {
+          "strongs": "G4055",
+          "hebrew": "περισσότερος",
+          "translit": "perissóteros",
+          "english": "more abundant"
+        },
+        {
+          "strongs": "G809",
+          "hebrew": "ἀσχήμων",
+          "translit": "aschḗmōn",
+          "english": "unpresentable"
+        },
+        {
+          "strongs": "G2157",
+          "hebrew": "εὐσχημοσύνη",
+          "translit": "euschēmosýnē",
+          "english": "propriety"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "whereas our presentable parts have no such need. But God composed the body together, giving more abundant honor to the inferior part,",
+      "understanding": "Our presentable parts need no special treatment. But God συγκεράννυμι — mixed together, blended, composed — the body, giving more abundant honour to the part that ὑστερέω, lacks it. The same verb as 1:7 (“you come behind in no gift”). God's design deliberately honours the members the world would overlook.",
+      "words": [
+        {
+          "strongs": "G2157",
+          "hebrew": "εὐσχημοσύνη",
+          "translit": "euschēmosýnē",
+          "english": "presentable (propriety)"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4786",
+          "hebrew": "συγκεράννυμι",
+          "translit": "synkeránnymi",
+          "english": "composed together"
+        },
+        {
+          "strongs": "G5302",
+          "hebrew": "ὑστερέω",
+          "translit": "hysteréō",
+          "english": "inferior"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "that there should be no division in the body, but that the members should have the same care for one another.",
+      "understanding": "The purpose: that there be no σχίσμα — the word of 1:10 and 11:18 — in the body, but that the members have the same μεριμνάω, care, for one another. The word for anxious care in 7:32–34 is used here positively: members should be as concerned for one another as they are for themselves.",
+      "words": [
+        {
+          "strongs": "G4978",
+          "hebrew": "σχίσμα",
+          "translit": "schísma",
+          "english": "division"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "members"
+        },
+        {
+          "strongs": "G3309",
+          "hebrew": "μεριμνάω",
+          "translit": "merimnáō",
+          "english": "care"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "When one member suffers, all the members suffer with it. Or when one member is honored, all the members rejoice with it.",
+      "understanding": "Συμπάσχω — when one member suffers, all suffer with it. Συγχαίρω — when one member is honoured, all rejoice with it. This is the body at its healthiest: a stubbed toe makes the whole body wince; good news for one part makes the whole body glad. Envy is impossible in a body that rejoices with the honoured member.",
+      "words": [
+        {
+          "strongs": "G3958",
+          "hebrew": "πάσχω",
+          "translit": "páschō",
+          "english": "suffers"
+        },
+        {
+          "strongs": "G4841",
+          "hebrew": "συμπάσχω",
+          "translit": "sympáschō",
+          "english": "suffer with"
+        },
+        {
+          "strongs": "G1392",
+          "hebrew": "δοξάζω",
+          "translit": "doxázō",
+          "english": "honored"
+        },
+        {
+          "strongs": "G4796",
+          "hebrew": "συγχαίρω",
+          "translit": "synchaírō",
+          "english": "rejoice with"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "Now you are the body of Christ, and members individually.",
+      "understanding": "The direct application: “Now you are the body of Christ, and members individually.” Not “a” body; the body of Christ in Corinth. And μέλη ἐκ μέρους — members, each with your own part. You are not the whole body. You are not nothing. You are a member.",
+      "words": [
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "mélos",
+          "english": "members"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "God has set some in the assembly: first apostles, second prophets, third teachers, then miracle workers, then gifts of healings, helps, governments, and various kinds of languages.",
+      "understanding": "A second list, this time partly ranked: first ἀπόστολοι, second προφῆται, third διδάσκαλοι — the foundational ministries of the word that build up the church — then other gifts. Notice two gifts that are easy to overlook: ἀντιλήψεις, helps, acts of assistance and support, and κυβερνήσεις — administration, guidance, the word for a ship's pilot steering through the harbour. And “kinds of tongues” is again listed last.",
+      "words": [
+        {
+          "strongs": "G5087",
+          "hebrew": "τίθημι",
+          "translit": "títhēmi",
+          "english": "set"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostles"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G1320",
+          "hebrew": "διδάσκαλος",
+          "translit": "didáskalos",
+          "english": "teachers"
+        },
+        {
+          "strongs": "G484",
+          "hebrew": "ἀντίληψις",
+          "translit": "antílēpsis",
+          "english": "helps"
+        },
+        {
+          "strongs": "G2941",
+          "hebrew": "κυβέρνησις",
+          "translit": "kybérnēsis",
+          "english": "governments"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "languages"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "Are all apostles? Are all prophets? Are all teachers? Are all miracle workers?",
+      "understanding": "A series of questions, each in Greek expecting the answer “No.” Are all apostles? No. Are all prophets? No. Are all teachers? No. Are all workers of miracles? No. The diversity of the body is God's intention.",
+      "words": [
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostles"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G1320",
+          "hebrew": "διδάσκαλος",
+          "translit": "didáskalos",
+          "english": "teachers"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "miracle workers"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "Do all have gifts of healings? Do all speak with various languages? Do all interpret?",
+      "understanding": "Do all have gifts of healings? Do all speak in tongues? Do all interpret? No. The grammar expects “No” every time. Whatever Corinth believed, Paul says that no single gift — including tongues — is given to every believer or required as proof of spirituality.",
+      "words": [
+        {
+          "strongs": "G5486",
+          "hebrew": "χάρισμα",
+          "translit": "chárisma",
+          "english": "gifts"
+        },
+        {
+          "strongs": "G2386",
+          "hebrew": "ἴαμα",
+          "translit": "íama",
+          "english": "healings"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "languages"
+        },
+        {
+          "strongs": "G1329",
+          "hebrew": "διερμηνεύω",
+          "translit": "diermēneúō",
+          "english": "interpret"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "But earnestly desire the best gifts. Moreover, I show a most excellent way to you.",
+      "understanding": "Ζηλόω — strive for, desire earnestly — the greater gifts; in chapter 14 he will show that these are the gifts that build up others most, especially prophecy. “Moreover, I show you a καθ’ ὑπερβολήν way” — a way beyond all measure, a way that surpasses everything. Not another gift, but the way in which all gifts must be exercised. The next chapter is that way.",
+      "words": [
+        {
+          "strongs": "G2206",
+          "hebrew": "ζηλόω",
+          "translit": "zēlóō",
+          "english": "earnestly desire"
+        },
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "best"
+        },
+        {
+          "strongs": "G5236",
+          "hebrew": "ὑπερβολή",
+          "translit": "hyperbolḗ",
+          "english": "most excellent"
+        },
+        {
+          "strongs": "G3598",
+          "hebrew": "ὁδός",
+          "translit": "hodós",
+          "english": "way"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Clay Hands and Feet at the Shrine of Asclepius",
+      "verseRef": "v. 14-21",
+      "image": "On the northern edge of ancient Corinth stood a sanctuary to Asclepius, the god of healing. Archaeologists excavating there found a remarkable collection of offerings: terracotta models of human body parts — hands, feet, legs, arms, eyes, ears — left by worshippers who had prayed to be healed of a specific ailment. Picture them on the shelves of the shrine: a clay foot here, a clay ear there, a pair of eyes, a hand, each one separate, lifeless, cut off from any body. Every Corinthian knew those shelves. Now hear Paul describe a foot saying it does not belong because it is not a hand, an ear saying it does not belong because it is not an eye, an eye telling the hand it is not needed.",
+      "meaning": "Whether or not Paul had the Asclepius offerings in mind — and some scholars think he may have — the image fits his point perfectly. A body part on its own is just a clay model on a shelf: lifeless, useless, a sign of sickness. A body part in the body is alive and essential. The Corinthians were acting like separated limbs — the foot jealous of the hand, the eye despising the hand. Paul says: God has placed each member in the body just as He wanted (v. 18). You are not the whole body, and you are not a clay limb on a shelf. You belong. And you need the members you think you do not need."
+    },
+    {
+      "title": "The Organs You Never See",
+      "verseRef": "v. 22-24",
+      "image": "Think about your own body for a moment. The parts people notice are your face, your hands, your voice, your eyes. But right now, out of sight, your heart is beating about seventy times a minute without your permission. Your liver is filtering your blood. Your kidneys are balancing your fluids. Your lungs are drawing breath. You will never see these organs, and nobody will ever compliment you on them. And if any one of them stopped for long, you would die, however beautiful your face or skilled your hands.",
+      "meaning": "“Much rather, those members of the body which seem to be weaker are necessary” (v. 22). In every church there are people whose gifts are public and visible — preaching, leading worship, healing, prophesying — and people whose gifts are hidden: praying in secret, cleaning the building, caring for children, visiting the sick, managing the finances, giving quietly. The world honours the face and ignores the kidneys. God does the opposite: He has composed the body “giving more abundant honor to the inferior part” (v. 24). The Roman world used the image of the body to tell the lower classes to stay in their place; Paul uses it to give the overlooked members special honour. If your gift is hidden, it is not small. And if your gift is visible, do not imagine you could live without the members no one sees."
+    },
+    {
+      "title": "The Stubbed Toe",
+      "verseRef": "v. 25-26",
+      "image": "You walk across a dark room at night and strike your little toe against the leg of a bed. Instantly your whole body reacts. You gasp. Your hands fly to your foot. Your eyes water. Your face twists. You hop on the other leg. Your mind can think of nothing else for a few seconds. No part of your body says, “That's just the toe's problem.” Now picture the opposite: someone hands you a gift you have longed for, and the joy floods your whole body — your face lights up, your hands reach out, your heart races.",
+      "meaning": "That is what Paul means: “When one member suffers, all the members suffer with it. Or when one member is honored, all the members rejoice with it” (v. 26). This is the healthy body of Christ. It feels the pain of its weakest member as its own pain. And it celebrates the honour of any member as its own honour. That makes jealousy impossible, because your brother's success is your success. And it makes indifference impossible, because your sister's grief is your grief. Paul tells the Romans the same: “Rejoice with those who rejoice. Weep with those who weep” (Romans 12:15). Ask yourself: when someone in your church is honoured, do you rejoice — or do you wince?"
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Test of the Spirit (v. 1-3)",
+        "body": "The Corinthians had been carried away by mute idols; the true mark of the Spirit is not ecstasy but the confession “Jesus is Lord.”"
+      },
+      {
+        "label": "One God, Many Gifts (v. 4-11)",
+        "body": "Varieties of gifts, services and workings come from the same Spirit, Lord and God; each believer receives a manifestation of the Spirit for the common good; the Spirit distributes as He wills."
+      },
+      {
+        "label": "One Body, Many Members (v. 12-20)",
+        "body": "As the body is one with many members, so is Christ; all were baptized by one Spirit into one body; no member can say it does not belong because it is not another member; God has arranged the members as He chose."
+      },
+      {
+        "label": "The Honour of the Weaker Members (v. 21-26)",
+        "body": "No member can say it does not need another; the weaker members are indispensable, and God gives greater honour to those that lack it, so that there will be no division and all members will suffer and rejoice together."
+      },
+      {
+        "label": "You Are the Body of Christ (v. 27-31)",
+        "body": "God has appointed apostles, prophets, teachers and other gifts in the church; not all have the same gift; seek the greater gifts — and now Paul will show a more excellent way."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Real Test of Spirituality: Who Is Lord?",
+        "paragraphs": [
+          "Chapters 12 to 14 deal with the most visible and exciting aspect of Corinthian church life: spiritual gifts, especially speaking in tongues. And Paul begins in a surprising place. Before he discusses any gift, he reminds the Corinthians of their pagan past: “when you were heathen, you were led away to those mute idols, however you might be led” (v. 2). The verb suggests being carried away, swept along. Pagan worship in Corinth included frenzied, ecstatic experiences — trances, prophetic utterances, emotional highs — in the cults of Dionysus, Cybele and others. The point is crucial. Spiritual intensity is not, in itself, proof of the Holy Spirit. The Corinthians had experienced religious ecstasy before they knew Christ, and it came from idols that could not even speak.",
+          "So what is the test? Verse 3: “no man speaking by God’s Spirit says, ‘Jesus is accursed.’ No one can say, ‘Jesus is Lord,’ but by the Holy Spirit.” We do not know exactly why anyone in Corinth would have said “Jesus is accursed” — perhaps it was a hypothetical, perhaps something said in a trance, perhaps something heard in the synagogue, where a crucified man could be regarded as cursed (Deuteronomy 21:23). But the positive point is clear. The decisive mark of the Spirit's work is not how spectacular your experience is, but whether it exalts Jesus as Lord. Κύριος Ἰησοῦς — “Jesus is Lord” — was the earliest Christian creed (Romans 10:9; Philippians 2:11). In the Roman Empire it was a costly confession; citizens were expected to acknowledge Caesar as lord, and some Christians later died for refusing.",
+          "This test applies to every age. A ministry, a meeting, a manifestation or a prophecy is not proved genuine by its emotional power, its size or its supernatural effects. It is proved by whether it leads people to bow to Jesus Christ as Lord — in their confession and in their lives. Jesus Himself said that the Spirit “will testify about me” (John 15:26) and “He will glorify me” (John 16:14). The Spirit's first and greatest work is not to draw attention to Himself, or to the person through whom He works, but to Jesus. Any spirituality that makes much of the gift and little of the Giver has already failed the test of verse 3."
+        ]
+      },
+      {
+        "heading": "Gifts From the Triune God, for the Common Good",
+        "paragraphs": [
+          "Verses 4 to 6 are a quiet masterpiece. “Now there are various kinds of gifts, but the same Spirit. There are various kinds of service, and the same Lord. There are various kinds of workings, but the same God, who works all things in all.” Spirit, Lord, God: one of the earliest and clearest statements in the New Testament of the Trinity working together in the church. Each statement also teaches something about the gifts. They are χαρίσματα — gifts of grace, not achievements. They are διακονίαι — forms of service, not status symbols. And they are ἐνεργήματα — workings of God's power, not human abilities. Every spiritual gift is grace received, service rendered, and power from God.",
+          "Then verse 7 states the principle that governs everything in chapters 12 to 14: “to each one is given the manifestation of the Spirit for the profit of all.” Two things are clear. First, every believer has a gift — “to each one.” There are no spectators in the body of Christ. Second, every gift is given “for the profit of all” — for the common good, not for private display. The Corinthians treated their gifts as personal achievements that proved their spirituality. Paul says they are gifts given to build up others. The list that follows in verses 8 to 10 is not exhaustive; other lists in Romans 12:6–8, Ephesians 4:11 and 1 Peter 4:10–11 include gifts not mentioned here, such as teaching, encouragement, giving, leadership, mercy, evangelism and pastoring. Paul is illustrating diversity, not producing a complete catalogue.",
+          "Verse 11 then grounds it all in the sovereignty of the Spirit: “the one and the same Spirit produces all of these, distributing to each one separately as he desires.” Βούλομαι is a word of deliberate choice. The Spirit is not an impersonal force dispensing power; He is a Person who decides. That truth has two great implications. It ends boasting, because you did not earn your gift. And it ends envy, because you did not choose your gift and neither did anyone else. Many Christians today debate whether some of the gifts listed here, such as tongues, prophecy and healings, continue in the church until Christ returns or ceased with the apostolic age. Paul does not address that question in this chapter; what he does make plain is that whatever gifts the Spirit gives, He gives them as He wills and for the good of all."
+        ]
+      },
+      {
+        "heading": "The Body: Against Inferiority and Against Superiority",
+        "paragraphs": [
+          "The image of the body was common in the ancient world, and that makes Paul's use of it all the more striking. Roman writers used it to justify social hierarchy. The historian Livy tells of Menenius Agrippa persuading rebellious plebeians to return to Rome with a fable: the limbs of the body rebelled against the belly, refusing to feed it, and the whole body wasted away — so the lower classes should serve the upper classes for the good of all. That was the political use of the body image: know your place. Paul takes the same image and turns it inside out. Yes, every member is needed. But the conclusion is not that the weak should serve the strong. It is that “those members of the body which seem to be weaker are necessary” (v. 22), and that God has given “more abundant honor to the inferior part” (v. 24).",
+          "Paul addresses two opposite errors. The first is inferiority (vv. 15–20). The foot says it does not belong because it is not a hand; the ear says it does not belong because it is not an eye. Some Corinthians apparently felt that because they did not have the prized gifts — tongues especially — they were second-class members. Paul's answer is that God has placed every member in the body “just as he desired” (v. 18). You may wish you were a different member, but wishing does not change your belonging, and the body would be a monstrosity if everyone were the same: “If the whole body were an eye, where would the hearing be?” (v. 17). The second error is superiority (vv. 21–26). The eye says to the hand, “I have no need for you.” The head says to the feet, “I have no need for you.” Some Corinthians with spectacular gifts despised those with ordinary ones. Paul says the most visible members cannot survive without the hidden ones.",
+          "And then he tells them God's purpose in designing the body this way: “that there should be no division in the body, but that the members should have the same care for one another. When one member suffers, all the members suffer with it. Or when one member is honored, all the members rejoice with it” (vv. 25–26). This is the opposite of Corinth's competition and envy. In a healthy body, there is no rivalry between members. There is shared pain and shared joy. Verse 27 drives it home: “Now you are the body of Christ, and members individually.” Verses 28 to 30 then list ministries and gifts and ask a series of questions that in Greek all expect the answer “No”: Are all apostles? Do all speak in tongues? Do all interpret? No single gift is for everyone. And yet Paul ends with an invitation: “earnestly desire the best gifts” — the gifts that build up the most people — and then: “I show a most excellent way to you” (v. 31). The way is not another gift. It is love."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Paul develops the body image again in Romans, written a few years later from Corinth: “For even as we have many members in one body, and all the members don’t have the same function, so we, who are many, are one body in Christ, and individually members one of another. Having gifts differing according to the grace that was given to us, if prophecy, let us prophesy according to the proportion of our faith; or service, let us give ourselves to service; or he who teaches, to his teaching” (Romans 12:4–7). And in Ephesians he adds the head: Christ “is the head... from whom all the body, being fitted and knit together through that which every joint supplies, according to the working in measure of each individual part, makes the body increase to the building up of itself in love” (Ephesians 4:15–16). Notice the final words: “in love.” Ephesians, like 1 Corinthians, insists that the gifts build up the body only when exercised in love.",
+        "Verse 13 — “in one Spirit we were all baptized into one body, whether Jews or Greeks, whether bond or free” — echoes Paul's words to the Galatians: “For as many of you as were baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither slave nor free man, there is neither male nor female; for you are all one in Christ Jesus” (Galatians 3:27–28). And it fulfils the promise of Pentecost, when the Spirit was poured out on all who believed, and they “began to speak with other languages, as the Spirit gave them the ability to speak” (Acts 2:4). The unity of the body is not created by human organisation. It is created by the Spirit, who joins every believer to Christ and therefore to every other believer.",
+        "Peter applies the same principle of gifts given for others: “As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms. If anyone speaks, let it be as it were the very words of God. If anyone serves, let it be as of the strength which God supplies, that in all things God may be glorified through Jesus Christ” (1 Peter 4:10–11). Notice the purpose: that God may be glorified. And the confession of verse 3 reaches its fulfilment in Philippians: “at the name of Jesus every knee should bow... and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father” (Philippians 2:10–11). The Spirit who enables the believer to say “Jesus is Lord” now will one day bring every tongue in the universe to say it."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Gift (of grace)",
+      "hebrew": "χάρισμα",
+      "translit": "chárisma",
+      "strongs": "G5486",
+      "verses": "v. 4, 9, 28, 30, 31",
+      "insight": "Strong's: “a (divine) gratuity, i.e. deliverance (from danger or passion); (specially), a (spiritual) endowment, i.e. (subjectively) religious qualification, or (objectively) miraculous faculty.” The word is formed from χάρις, grace, with the suffix -μα indicating the result of an action: a χάρισμα is grace in concrete form, grace that has landed somewhere. Paul uses the same word for singleness and marriage (7:7) and for the gift of eternal life (Romans 6:23). The Corinthians called their abilities πνευματικά — spiritual things — which emphasised the experience. Paul calls them χαρίσματα, which emphasises the Giver. You cannot be proud of a gift. You can only be grateful and faithful with it."
+    },
+    {
+      "english": "Manifestation / making visible",
+      "hebrew": "φανέρωσις",
+      "translit": "phanérōsis",
+      "strongs": "G5321",
+      "verses": "v. 7",
+      "insight": "Strong's: “exhibition, i.e. (figuratively) expression, (by extension) a bestowment.” It is related to φανερός, visible, and φαίνω, to shine. A spiritual gift is a φανέρωσις of the Spirit — the invisible Spirit made visible in the life of a believer, as light becomes visible when it falls on an object. The only other New Testament use is 2 Corinthians 4:2, of “the manifestation of the truth.” This changes how you see your gift. It is not primarily about you. It is the Spirit making Himself visible through you. And verse 7 says why: “for the profit of all.” The Spirit shows Himself through you so that others can be built up."
+    },
+    {
+      "english": "Member / limb",
+      "hebrew": "μέλος",
+      "translit": "mélos",
+      "strongs": "G3196",
+      "verses": "v. 12 (×2), 14, 18, 19, 20, 22, 25, 26 (×3), 27",
+      "insight": "Strong's: “a limb or part of the body.” Paul uses it twelve times in this chapter, more than in any other passage of Scripture. In 6:15 he used it to show that sexual immorality takes a member of Christ and joins it to a prostitute. Here he uses it to show that every believer is a functioning part of Christ's body. Notice that μέλος means a living limb, not a loose part. A hand cut off is no longer a μέλος; it is a dead thing. Your life as a believer cannot be lived detached from the body. You are a member, not an individual who occasionally visits the body. And no member is too small to matter."
+    },
+    {
+      "english": "Suffer with",
+      "hebrew": "συμπάσχω",
+      "translit": "sympáschō",
+      "strongs": "G4841 (paired with, rejoice with συγχαίρω, synchaírō, G4796)",
+      "verses": "v. 26",
+      "insight": "Strong's defines συμπάσχω as “to experience pain jointly or of the same kind (specially, persecution; to ‘sympathize’),” and συγχαίρω as “to sympathize in gladness, congratulate.” Both are formed with σύν, with. This is the vocabulary of shared life. Paul uses συμπάσχω in Romans 8:17 for suffering with Christ, and συγχαίρω in Philippians 2:17–18 for rejoicing together with the Philippians. In the body of Christ, there is no such thing as private pain or private joy. Your brother's suffering is your suffering, and your sister's honour is your honour. Jealousy cannot survive in a heart that has learned συγχαίρω."
+    },
+    {
+      "english": "Administration / guidance / steering",
+      "hebrew": "κυβέρνησις",
+      "translit": "kybérnēsis",
+      "strongs": "G2941",
+      "verses": "v. 28",
+      "insight": "Strong's: “pilotage, i.e. (figuratively) directorship (in the church).” The related word κυβερνήτης means a ship's pilot or helmsman (Acts 27:11; Revelation 18:17), and English gets “govern” from the same root through Latin. Corinth was a city of two harbours, and every reader knew what a pilot did: he steered a large ship safely through narrow waters into port. This is a gift easily overlooked in a church dazzled by tongues and prophecy. But Paul lists it as a gift of God, alongside “helps” (ἀντιλήψεις). The person who plans, organises, steers and keeps things on course is exercising a gift of the Spirit as surely as the person who prophesies."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the way you measure spirituality, the gift you have buried because it seems small, and the members of the body you have quietly decided you do not need.",
+    "items": [
+      {
+        "title": "What Makes You Spiritual?",
+        "body": "You may have measured spirituality — yours and others' — by intensity: the emotion of worship, the spectacle of gifts, the volume of prayer, the size of a ministry. The Spirit wants to reset the measure. The first and greatest work of the Holy Spirit is to make Jesus Lord. Not in your vocabulary only, but in your decisions, your money, your relationships, your private life. Ask yourself: if someone watched my life for a week, would they conclude that Jesus is Lord? A believer with no spectacular gifts who quietly obeys Christ in everything is more spiritual than a gifted performer who does not. Let the Spirit do His first work in you."
+      },
+      {
+        "title": "The Gift You Buried",
+        "body": "You have a gift. Verse 7 says “to each one is given.” But you may have concluded that your gift is not important — that you are a foot, not a hand; an ear, not an eye. You see others preaching, leading, prophesying, and you think the body would not miss you. The Spirit wants you to hear verse 18: God placed you in the body “just as he desired.” And verse 22: the parts that seem weaker are indispensable. Your hidden gift — the prayer no one hears, the help no one notices, the administration no one thanks you for, the encouragement you give in private — is not small. It is necessary. What gift have you buried? Dig it up and use it."
+      },
+      {
+        "title": "I Have No Need for You",
+        "body": "There are people in your church you have quietly decided you do not need. Perhaps they are less gifted, less educated, less spiritual-seeming, less interesting. Perhaps they slow things down or make you uncomfortable. The Spirit is asking you to hear yourself saying, “I have no need for you.” Paul says that is as absurd as an eye saying it does not need a hand. Worse, God has deliberately given more abundant honour to the members you overlook. Who are they? Name them. Then ask God to show you what He has given them that you need — and go and receive it."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Lordship Check",
+        "body": "Write down three areas of your life: one where Jesus is clearly Lord, one where you are still negotiating, and one where you have not yet surrendered at all. Be honest. The confession “Jesus is Lord” is the Spirit's first work. Where is He still waiting to do it?"
+      },
+      {
+        "title": "The Gift Check",
+        "body": "What do you believe your spiritual gift or gifts are? If you do not know, ask three mature believers who know you well what they see God doing through you. Then ask: am I using this gift for “the profit of all,” or for my own reputation? Am I using it at all?"
+      },
+      {
+        "title": "The Body Check",
+        "body": "When was the last time you suffered with a member of your church who was suffering, or rejoiced with one who was honoured? Name one person in each situation right now. If you cannot think of anyone, ask why. Have you been living as a member, or as a spectator?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Honouring a Hidden Member",
+        "body": "This week, identify someone in your church whose ministry is hidden — the person who prays faithfully, cleans the building, runs the sound, cares for the children, manages the finances, visits the sick. Give them “more abundant honor” (v. 23). Write them a specific note of thanks naming exactly what they do and why it matters. If appropriate, thank them publicly or tell a leader about their faithfulness. Pray for them by name. Let them know they are not a clay limb on a shelf, but a vital member of Christ's body."
+      },
+      {
+        "title": "Suffering and Rejoicing Together",
+        "body": "Practise verse 26 deliberately this month. Find one member of your church who is suffering — illness, grief, loss, hardship — and do something concrete to share their burden: a meal, a visit, a call, help with a practical need, sustained prayer. Then find one member who has recently been honoured or blessed — a promotion, a birth, an answered prayer, a success in ministry — and celebrate with them sincerely, without comparison or envy. Notice what happens in your own heart as you do both."
+      }
+    ]
+  },
+  "prayerReflection": "“Holy Spirit, thank You that I can say, ‘Jesus is Lord,’ only because You have opened my eyes. Do Your first work in me again today. Make Jesus Lord in every part of my life — not just in my words but in my decisions, my money, my body, my relationships. Father, thank You for the gift You have given me. I did not earn it and I did not choose it; You distributed it as You willed. Forgive me for burying it because it seemed small, and forgive me for boasting in it as though I had made it myself. Show me how to use it for the profit of all. Lord Jesus, I am a member of Your body. Forgive me for every time I have said, ‘Because I am not that member, I don’t belong.’ And forgive me for every time I have said to another member, ‘I have no need of you.’ Teach me to honour the hidden members, to see the weaker parts as indispensable, and to give more abundant honour where the world gives none. Make me a member who suffers with those who suffer and rejoices with those who rejoice. Heal every division in Your body, beginning in me. And now, Lord, show me the more excellent way. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Aaron and Hur Hold Up Moses' Hands",
+      "ref": "Exodus 17:8-13",
+      "relatedVerses": "v. 21-22",
+      "summary": "When the Amalekites attacked Israel at Rephidim, Joshua led the army into battle while Moses stood on a hilltop with the staff of God in his hand. As long as Moses held up his hands, Israel prevailed; when he lowered them, Amalek prevailed. But Moses' hands grew heavy. So Aaron and Hur brought a stone for him to sit on and held up his hands, one on each side, until sunset — and Joshua won the battle. The great leader could not do it alone. Two men whose role seemed small — just holding up a tired man's arms — were indispensable to the victory. That is 1 Corinthians 12:21–22: the head cannot say to the hands, “I have no need for you,” and the members that seem weaker are necessary."
+    },
+    {
+      "title": "Each Family Builds Its Section of the Wall",
+      "ref": "Nehemiah 3:1-32",
+      "relatedVerses": "v. 12-20, 27",
+      "summary": "Nehemiah chapter 3 can look like a tedious list of names, but it is one of the most beautiful pictures of the body of Christ in the Old Testament. The wall of Jerusalem was rebuilt by priests and goldsmiths, perfume makers and merchants, rulers of districts, Levites, men from surrounding towns, and even one man working with his daughters. Each group took a section, often the section next to their own house. Some built gates, some repaired long stretches, some fixed a small portion. Nobody built the whole wall, and nobody's section was unnecessary. When they were finished, the wall was complete in fifty-two days. That is the church: many members, each with its own part, together building one city for God."
+    },
+    {
+      "title": "Would That All the LORD's People Were Prophets",
+      "ref": "Numbers 11:16-29",
+      "relatedVerses": "v. 4-11",
+      "summary": "Moses was overwhelmed by the burden of leading Israel alone, so God told him to gather seventy elders, and He took some of the Spirit that was on Moses and put it on them, and they prophesied. Two of the elders, Eldad and Medad, had stayed in the camp, but the Spirit rested on them too, and they prophesied there. A young man ran to tell Moses, and Joshua urged him to stop them. Moses replied that he wished all the LORD's people were prophets and that the LORD would put His Spirit on them all. Moses did not want a monopoly on the Spirit. He wanted the burden shared. God distributed His Spirit as He chose, even to those who were not where people expected. That is the heart of 1 Corinthians 12: the Spirit gives gifts to each one as He wills, for the good of all."
+    }
+  ]
+}
