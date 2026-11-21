@@ -15,7 +15,12 @@
       "text": "But the Pharisees, when they saw it, said to him, “Behold, your disciples do what is not lawful to do on the Sabbath.”",
       "understanding": "The Pharisees pounce. In their oral tradition, plucking and rubbing grain counted as 'reaping' and 'threshing' — labor forbidden on the Sabbath. They are defending a fence they themselves built around the Law, not the Law of Moses itself.",
       "words": [
-        { "strongs": "G4521", "hebrew": "σάββατον", "translit": "sabbaton", "english": "Sabbath" }
+        {
+          "strongs": "G4521",
+          "hebrew": "σάββατον",
+          "translit": "sabbaton",
+          "english": "Sabbath"
+        }
       ]
     },
     {
@@ -43,8 +48,18 @@
       "text": "But if you had known what this means, ‘I desire mercy, and not sacrifice,’ you wouldn’t have condemned the guiltless.",
       "understanding": "Quoting Hosea 6:6, Jesus exposes the root disease: they master sacrifice but have never learned mercy. Had they truly grasped that God prizes compassion over ceremony, they would never have accused innocent, hungry men.",
       "words": [
-        { "strongs": "G1656", "hebrew": "ἔλεος", "translit": "eleos", "english": "mercy" },
-        { "strongs": "G2378", "hebrew": "θυσία", "translit": "thysia", "english": "sacrifice" }
+        {
+          "strongs": "G1656",
+          "hebrew": "ἔλεος",
+          "translit": "eleos",
+          "english": "mercy"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysia",
+          "english": "sacrifice"
+        }
       ]
     },
     {
@@ -52,7 +67,12 @@
       "text": "For the Son of Man is Lord of the Sabbath.”",
       "understanding": "The verdict. The Son of Man is Lord of the Sabbath — the Sabbath does not own him; he owns it. The One who made the day of rest has full authority to declare what it is for.",
       "words": [
-        { "strongs": "G2962", "hebrew": "κύριος", "translit": "kyrios", "english": "Lord" }
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kyrios",
+          "english": "Lord"
+        }
       ]
     },
     {
@@ -105,8 +125,18 @@
       "text": "“Behold, my servant whom I have chosen; my beloved in whom my soul is well pleased: I will put my Spirit on him. He will proclaim justice to the nations.",
       "understanding": "Isaiah 42 speaks. The chosen Servant, God's Beloved, Spirit-anointed, who will bring justice not only to Israel but to the nations. The gentle Healer is the promised Servant-King, the same one the Father named at the Jordan.",
       "words": [
-        { "strongs": "G3816", "hebrew": "παῖς", "translit": "pais", "english": "servant" },
-        { "strongs": "G4151", "hebrew": "πνεῦμα", "translit": "pneuma", "english": "Spirit" }
+        {
+          "strongs": "G3816",
+          "hebrew": "παῖς",
+          "translit": "pais",
+          "english": "servant"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneuma",
+          "english": "Spirit"
+        }
       ]
     },
     {
@@ -119,8 +149,18 @@
       "text": "He won’t break a bruised reed. He won’t quench a smoking flax, until he leads justice to victory.",
       "understanding": "A bruised reed he will not break; a smoldering wick he will not snuff out. The nearly-broken and the barely-burning are exactly whom he came to save — and he will not stop until he leads justice to final, total victory.",
       "words": [
-        { "strongs": "G2563", "hebrew": "κάλαμος", "translit": "kalamos", "english": "reed" },
-        { "strongs": "G4937", "hebrew": "συντρίβω", "translit": "syntribo", "english": "break / bruise" }
+        {
+          "strongs": "G2563",
+          "hebrew": "κάλαμος",
+          "translit": "kalamos",
+          "english": "reed"
+        },
+        {
+          "strongs": "G4937",
+          "hebrew": "συντρίβω",
+          "translit": "syntribo",
+          "english": "break / bruise"
+        }
       ]
     },
     {
@@ -143,8 +183,18 @@
       "text": "But when the Pharisees heard it, they said, “This man does not cast out demons, except by Beelzebul, the prince of the demons.”",
       "understanding": "The Pharisees cannot deny the miracle, so they poison its source: he casts out demons by Beelzebul, the prince of demons. Rather than credit God, they credit hell for the works of the Spirit.",
       "words": [
-        { "strongs": "G954", "hebrew": "Βεελζεβούλ", "translit": "Beelzeboul", "english": "Beelzebul" },
-        { "strongs": "G1140", "hebrew": "δαιμόνιον", "translit": "daimonion", "english": "demon" }
+        {
+          "strongs": "G954",
+          "hebrew": "Βεελζεβούλ",
+          "translit": "Beelzeboul",
+          "english": "Beelzebul"
+        },
+        {
+          "strongs": "G1140",
+          "hebrew": "δαιμόνιον",
+          "translit": "daimonion",
+          "english": "demon"
+        }
       ]
     },
     {
@@ -167,7 +217,12 @@
       "text": "But if I by the Spirit of God cast out demons, then God’s Kingdom has come upon you.",
       "understanding": "The real explanation is the terrifying one they refuse to face: if Jesus casts out demons by the Spirit of God, then the Kingdom of God has already broken in upon them. The King is standing in the room.",
       "words": [
-        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileia", "english": "kingdom" }
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileia",
+          "english": "kingdom"
+        }
       ]
     },
     {
@@ -185,8 +240,18 @@
       "text": "Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven men.",
       "understanding": "Every sin and blasphemy can be forgiven — but the blasphemy against the Spirit will not be. To brand the Spirit's undeniable work as the work of the devil is to sear the very faculty by which one would ever repent.",
       "words": [
-        { "strongs": "G988", "hebrew": "βλασφημία", "translit": "blasphemia", "english": "blasphemy" },
-        { "strongs": "G863", "hebrew": "ἀφίημι", "translit": "aphiemi", "english": "forgive / send away" }
+        {
+          "strongs": "G988",
+          "hebrew": "βλασφημία",
+          "translit": "blasphemia",
+          "english": "blasphemy"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphiemi",
+          "english": "forgive / send away"
+        }
       ]
     },
     {
@@ -199,7 +264,12 @@
       "text": "“Either make the tree good, and its fruit good, or make the tree corrupt, and its fruit corrupt; for the tree is known by its fruit.",
       "understanding": "Back to fruit. Make the tree good and its fruit is good; a corrupt tree yields corrupt fruit. Their slander of the Spirit has just published, for all to read, what kind of tree they are.",
       "words": [
-        { "strongs": "G2590", "hebrew": "καρπός", "translit": "karpos", "english": "fruit" }
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpos",
+          "english": "fruit"
+        }
       ]
     },
     {
@@ -207,7 +277,12 @@
       "text": "You offspring of vipers, how can you, being evil, speak good things? For out of the abundance of the heart, the mouth speaks.",
       "understanding": "'You offspring of vipers' — how can evil men speak good? The mouth is simply the overflow of the heart. Their venomous words are not a lapse; they are a leak, and the leak reveals the reservoir.",
       "words": [
-        { "strongs": "G2588", "hebrew": "καρδία", "translit": "kardia", "english": "heart" }
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardia",
+          "english": "heart"
+        }
       ]
     },
     {
@@ -215,7 +290,12 @@
       "text": "The good man out of his good treasure brings out good things, and the evil man out of his evil treasure brings out evil things.",
       "understanding": "A good man's stored-up good treasure spills out as good; an evil man's evil treasure spills out as evil. What you deposit in the heart is exactly what you withdraw through the mouth.",
       "words": [
-        { "strongs": "G2344", "hebrew": "θησαυρός", "translit": "thesauros", "english": "treasure" }
+        {
+          "strongs": "G2344",
+          "hebrew": "θησαυρός",
+          "translit": "thesauros",
+          "english": "treasure"
+        }
       ]
     },
     {
@@ -223,8 +303,18 @@
       "text": "I tell you that every idle word that men speak, they will give account of it in the day of judgment.",
       "understanding": "A sobering warning: every idle, careless, throwaway word will be accounted for on the day of judgment. Words are not weightless; they are evidence entered into the record.",
       "words": [
-        { "strongs": "G692", "hebrew": "ἀργός", "translit": "argos", "english": "idle" },
-        { "strongs": "G4487", "hebrew": "ῥῆμα", "translit": "rhema", "english": "word" }
+        {
+          "strongs": "G692",
+          "hebrew": "ἀργός",
+          "translit": "argos",
+          "english": "idle"
+        },
+        {
+          "strongs": "G4487",
+          "hebrew": "ῥῆμα",
+          "translit": "rhema",
+          "english": "word"
+        }
       ]
     },
     {
@@ -232,7 +322,12 @@
       "text": "For by your words you will be justified, and by your words you will be condemned.”",
       "understanding": "By your words you will be justified, and by your words condemned. Speech is the fruit that reveals the root, and on that day God will read the root by the fruit it produced.",
       "words": [
-        { "strongs": "G1344", "hebrew": "δικαιόω", "translit": "dikaioo", "english": "justify" }
+        {
+          "strongs": "G1344",
+          "hebrew": "δικαιόω",
+          "translit": "dikaioo",
+          "english": "justify"
+        }
       ]
     },
     {
@@ -245,7 +340,12 @@
       "text": "But he answered them, “An evil and adulterous generation seeks after a sign, but no sign will be given to it but the sign of Jonah the prophet.",
       "understanding": "He names them exactly: an evil and adulterous generation demanding proof. No sign will be given but one — the sign of Jonah — the very sign they least expect.",
       "words": [
-        { "strongs": "G4592", "hebrew": "σημεῖον", "translit": "semeion", "english": "sign" }
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "semeion",
+          "english": "sign"
+        }
       ]
     },
     {
@@ -258,7 +358,12 @@
       "text": "The men of Nineveh will stand up in the judgment with this generation, and will condemn it, for they repented at the preaching of Jonah; and behold, someone greater than Jonah is here.",
       "understanding": "The pagan Ninevites repented at the preaching of a reluctant prophet, and they will rise in judgment to condemn this generation — for a greater than Jonah is preaching to them, and they will not turn.",
       "words": [
-        { "strongs": "G3340", "hebrew": "μετανοέω", "translit": "metanoeo", "english": "repent" }
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoeo",
+          "english": "repent"
+        }
       ]
     },
     {
@@ -306,7 +411,12 @@
       "text": "For whoever does the will of my Father who is in heaven, he is my brother, and sister, and mother.”",
       "understanding": "The definition lands: whoever does the will of his Father in heaven is his brother, sister, and mother. Obedience, not genealogy, is the doorway into the family of Jesus.",
       "words": [
-        { "strongs": "G2307", "hebrew": "θέλημα", "translit": "thelema", "english": "will" }
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thelema",
+          "english": "will"
+        }
       ]
     }
   ],
@@ -338,13 +448,34 @@
   ],
   "commentary": {
     "structure": [
-      { "label": "Lord of the Sabbath (v. 1-8)", "body": "In the grain fields, Jesus defends his hungry disciples and claims mastery over the Sabbath itself: 'I desire mercy, and not sacrifice.'" },
-      { "label": "The Withered Hand and the Murderous Plot (v. 9-14)", "body": "He heals on the Sabbath in their own synagogue, proves that doing good is always lawful, and the Pharisees respond by conspiring to destroy him." },
-      { "label": "The Gentle Servant of Isaiah (v. 15-21)", "body": "Matthew reads the withdrawing, unshowy Healer through Isaiah 42 — the chosen Servant who will not break the bruised reed and in whose name the nations hope." },
-      { "label": "The Beelzebul Slander and the Unforgivable Sin (v. 22-32)", "body": "Confronted with an undeniable exorcism, the Pharisees attribute the Spirit's work to Satan, and Jesus names it the one blasphemy that will not be forgiven." },
-      { "label": "The Tree and Its Fruit — Words on Trial (v. 33-37)", "body": "The mouth betrays the heart: the tree is known by its fruit, and every idle word will be weighed on the day of judgment." },
-      { "label": "The Sign of Jonah (v. 38-45)", "body": "To a generation demanding proof, Jesus offers only his death and resurrection, warns that pagans will condemn them, and pictures the peril of a swept-but-empty life." },
-      { "label": "The True Family of Jesus (v. 46-50)", "body": "With his natural family waiting outside, Jesus redefines kinship: whoever does the will of his Father is his brother, sister, and mother." }
+      {
+        "label": "Lord of the Sabbath (v. 1-8)",
+        "body": "In the grain fields, Jesus defends his hungry disciples and claims mastery over the Sabbath itself: 'I desire mercy, and not sacrifice.'"
+      },
+      {
+        "label": "The Withered Hand and the Murderous Plot (v. 9-14)",
+        "body": "He heals on the Sabbath in their own synagogue, proves that doing good is always lawful, and the Pharisees respond by conspiring to destroy him."
+      },
+      {
+        "label": "The Gentle Servant of Isaiah (v. 15-21)",
+        "body": "Matthew reads the withdrawing, unshowy Healer through Isaiah 42 — the chosen Servant who will not break the bruised reed and in whose name the nations hope."
+      },
+      {
+        "label": "The Beelzebul Slander and the Unforgivable Sin (v. 22-32)",
+        "body": "Confronted with an undeniable exorcism, the Pharisees attribute the Spirit's work to Satan, and Jesus names it the one blasphemy that will not be forgiven."
+      },
+      {
+        "label": "The Tree and Its Fruit — Words on Trial (v. 33-37)",
+        "body": "The mouth betrays the heart: the tree is known by its fruit, and every idle word will be weighed on the day of judgment."
+      },
+      {
+        "label": "The Sign of Jonah (v. 38-45)",
+        "body": "To a generation demanding proof, Jesus offers only his death and resurrection, warns that pagans will condemn them, and pictures the peril of a swept-but-empty life."
+      },
+      {
+        "label": "The True Family of Jesus (v. 46-50)",
+        "body": "With his natural family waiting outside, Jesus redefines kinship: whoever does the will of his Father is his brother, sister, and mother."
+      }
     ],
     "sections": [
       {
@@ -365,8 +496,8 @@
     "ntConnection": {
       "heading": "New Testament Connection",
       "paragraphs": [
-        "When Jesus is pressed for a sign, he gives only one: 'as Jonah was three days and three nights in the belly of the whale, so will the Son of Man be three days and three nights in the heart of the earth' (v. 40). This is the Gospel in miniature, spoken long before Good Friday. And it becomes the load-bearing beam of the whole apostolic message. Paul, defining the very core of the faith, writes to Corinth: 'For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, that he was buried, and that he was raised on the third day according to the Scriptures' (1 Corinthians 15:3-4).",
-          "Notice the thread. The sign Jesus refused to explain to hostile skeptics — the three days, the burial in the heart of the earth, the rising — is exactly what Paul says is 'of first importance,' the non-negotiable center of the good news. The Pharisees demanded proof and were told they would get only a grave and an empty tomb. That is still the only sign this world is given, and it is enough: the same resurrection that vindicated the King in Matthew is the one Paul stakes all of Christianity upon. The men of Nineveh repented at half a sign; we have been handed the whole of it."
+        "When Jesus is pressed for a sign, he gives only one: 'as Jonah was three days and three nights in the belly of the whale, so will the Son of Man be three days and three nights in the heart of the earth' (v. 40). This is the Gospel in miniature, spoken long before Good Friday. And it becomes the load-bearing beam of the whole apostolic message. Paul, defining the very core of the faith, writes to Corinth: 'For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures' (1 Corinthians 15:3-4).",
+        "Notice the thread. The sign Jesus refused to explain to hostile skeptics — the three days, the burial in the heart of the earth, the rising — is exactly what Paul says is 'of first importance,' the non-negotiable center of the good news. The Pharisees demanded proof and were told they would get only a grave and an empty tomb. That is still the only sign this world is given, and it is enough: the same resurrection that vindicated the King in Matthew is the one Paul stakes all of Christianity upon. The men of Nineveh repented at half a sign; we have been handed the whole of it."
       ]
     }
   },

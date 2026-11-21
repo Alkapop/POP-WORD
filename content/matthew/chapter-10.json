@@ -10,7 +10,12 @@
       "text": "He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness.",
       "understanding": "The King who has been healing and preaching now multiplies himself — he hands his own authority over demons and disease to twelve ordinary men. The Kingdom is no longer carried by one pair of hands; it is deputized and put on the road.",
       "words": [
-        { "strongs": "G1849", "hebrew": "ἐξουσία", "translit": "exousia", "english": "authority" }
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousia",
+          "english": "authority"
+        }
       ]
     },
     {
@@ -18,7 +23,12 @@
       "text": "Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother; James the son of Zebedee; John, his brother;",
       "understanding": "The list opens with “the first, Simon, who is called Peter” — not first in holiness but first named, the spokesman of the band. From this verse on they are apostoloi, “sent ones,” ambassadors carrying the King’s warrant rather than their own opinions.",
       "words": [
-        { "strongs": "G652", "hebrew": "ἀπόστολος", "translit": "apostolos", "english": "apostle" }
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apostolos",
+          "english": "apostle"
+        }
       ]
     },
     {
@@ -46,7 +56,12 @@
       "text": "As you go, preach, saying, ‘The Kingdom of Heaven is at hand!’",
       "understanding": "Their message is word-for-word what John the Baptist and Jesus himself preached — the reign of God has drawn near. They proclaim not themselves, not a program, but the arrival of the King’s Kingdom.",
       "words": [
-        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileia", "english": "kingdom" }
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileia",
+          "english": "kingdom"
+        }
       ]
     },
     {
@@ -54,7 +69,12 @@
       "text": "Heal the sick, cleanse the lepers, and cast out demons. Freely you received, so freely give.",
       "understanding": "Everything they carry they were handed for nothing, so they must dispense it for nothing. The Kingdom runs on grace, not on a fee schedule — the instant power is monetized at the altar, it is corrupted.",
       "words": [
-        { "strongs": "G1432", "hebrew": "δωρεάν", "translit": "dorean", "english": "freely" }
+        {
+          "strongs": "G1432",
+          "hebrew": "δωρεάν",
+          "translit": "dorean",
+          "english": "freely"
+        }
       ]
     },
     {
@@ -67,7 +87,12 @@
       "text": "Take no bag for your journey, neither two coats, nor shoes, nor staff: for the laborer is worthy of his food.",
       "understanding": "They travel light — no spare kit, no backup — because “the laborer is worthy of his food,” and God will feed his workers through the hearts of those who receive them. Provision comes as the fruit of the mission, not the pre-condition of it.",
       "words": [
-        { "strongs": "G514", "hebrew": "ἄξιος", "translit": "axios", "english": "worthy" }
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "axios",
+          "english": "worthy"
+        }
       ]
     },
     {
@@ -100,8 +125,18 @@
       "text": "“Behold, I send you out as sheep among wolves. Therefore be wise as serpents, and harmless as doves.",
       "understanding": "The commissioning turns dark and honest — Jesus sends lambs straight into a wolf pack. Their survival gear is not fangs but a paired shrewdness and unmixed innocence: streetwise minds and blameless hearts.",
       "words": [
-        { "strongs": "G4263", "hebrew": "πρόβατον", "translit": "probaton", "english": "sheep" },
-        { "strongs": "G5429", "hebrew": "φρόνιμος", "translit": "phronimos", "english": "wise" }
+        {
+          "strongs": "G4263",
+          "hebrew": "πρόβατον",
+          "translit": "probaton",
+          "english": "sheep"
+        },
+        {
+          "strongs": "G5429",
+          "hebrew": "φρόνιμος",
+          "translit": "phronimos",
+          "english": "wise"
+        }
       ]
     },
     {
@@ -134,7 +169,12 @@
       "text": "You will be hated by all men for my name’s sake, but he who endures to the end will be saved.",
       "understanding": "They will be universally hated — not for wrongdoing but for the Name. Yet hatred is not the last word: endurance to the end is both the mark of the genuinely saved and the road they walk to salvation.",
       "words": [
-        { "strongs": "G5278", "hebrew": "ὑπομένω", "translit": "hypomeno", "english": "endures" }
+        {
+          "strongs": "G5278",
+          "hebrew": "ὑπομένω",
+          "translit": "hypomeno",
+          "english": "endures"
+        }
       ]
     },
     {
@@ -167,8 +207,18 @@
       "text": "Don’t be afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna.",
       "understanding": "The fear of man is dethroned by installing a greater fear — men can only reach the body, but God holds body and soul together over Gehenna. Rightly fearing God is the cure for wrongly fearing people.",
       "words": [
-        { "strongs": "G5590", "hebrew": "ψυχή", "translit": "psyche", "english": "soul" },
-        { "strongs": "G1067", "hebrew": "γέεννα", "translit": "geenna", "english": "Gehenna" }
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psyche",
+          "english": "soul"
+        },
+        {
+          "strongs": "G1067",
+          "hebrew": "γέεννα",
+          "translit": "geenna",
+          "english": "Gehenna"
+        }
       ]
     },
     {
@@ -191,7 +241,12 @@
       "text": "Everyone therefore who confesses me before men, him I will also confess before my Father who is in heaven.",
       "understanding": "Now the terms are laid bare — open confession of Jesus in front of people is met by his confession of you in front of the Father. Public allegiance down here secures public advocacy up there.",
       "words": [
-        { "strongs": "G3670", "hebrew": "ὁμολογέω", "translit": "homologeo", "english": "confesses" }
+        {
+          "strongs": "G3670",
+          "hebrew": "ὁμολογέω",
+          "translit": "homologeo",
+          "english": "confesses"
+        }
       ]
     },
     {
@@ -199,7 +254,12 @@
       "text": "But whoever denies me before men, him I will also deny before my Father who is in heaven.",
       "understanding": "The mirror is exact and sobering — to disown Jesus before men is to be disowned before the Father. Silence under pressure is not a neutral position; it is a side chosen.",
       "words": [
-        { "strongs": "G720", "hebrew": "ἀρνέομαι", "translit": "arneomai", "english": "denies" }
+        {
+          "strongs": "G720",
+          "hebrew": "ἀρνέομαι",
+          "translit": "arneomai",
+          "english": "denies"
+        }
       ]
     },
     {
@@ -222,7 +282,12 @@
       "text": "He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me isn’t worthy of me.",
       "understanding": "Love for family is good and God-given, yet it must still bow to first place under Christ. Anyone who loves parent or child more than him is “not worthy” of him — he claims the throne of the heart, not merely a seat at the table.",
       "words": [
-        { "strongs": "G514", "hebrew": "ἄξιος", "translit": "axios", "english": "worthy" }
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "axios",
+          "english": "worthy"
+        }
       ]
     },
     {
@@ -230,7 +295,12 @@
       "text": "He who doesn’t take his cross and follow after me, isn’t worthy of me.",
       "understanding": "To follow him is to pick up an instrument of execution and walk behind him. Discipleship is cross-shaped self-denial — a daily death — not a program of self-fulfillment.",
       "words": [
-        { "strongs": "G4716", "hebrew": "σταυρός", "translit": "stauros", "english": "cross" }
+        {
+          "strongs": "G4716",
+          "hebrew": "σταυρός",
+          "translit": "stauros",
+          "english": "cross"
+        }
       ]
     },
     {
@@ -238,7 +308,12 @@
       "text": "He who seeks his life will lose it; and he who loses his life for my sake will find it.",
       "understanding": "Here is the great paradox of the Kingdom: clutch your life and it slips away; surrender it for his sake and you finally find it. Self-preservation turns out to be self-destruction, and self-surrender turns out to be salvation.",
       "words": [
-        { "strongs": "G5590", "hebrew": "ψυχή", "translit": "psyche", "english": "life" }
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psyche",
+          "english": "life"
+        }
       ]
     },
     {
@@ -256,7 +331,12 @@
       "text": "Whoever gives one of these little ones just a cup of cold water to drink in the name of a disciple, most certainly I tell you he will in no way lose his reward.”",
       "understanding": "The towering discourse lands on the smallest possible act — a cup of cold water to a “little one” — and the largest possible promise: it will never lose its reward. In the Kingdom no hidden kindness done for Jesus’ sake goes uncounted.",
       "words": [
-        { "strongs": "G3408", "hebrew": "μισθός", "translit": "misthos", "english": "reward" }
+        {
+          "strongs": "G3408",
+          "hebrew": "μισθός",
+          "translit": "misthos",
+          "english": "reward"
+        }
       ]
     }
   ],
@@ -276,7 +356,7 @@
     {
       "title": "The Sparrow’s Fall",
       "verseRef": "v. 29-31",
-      "image": "A market stall in Galilee. Two sparrows — the cheapest meat a poor man could buy — tied together and sold for a single assarion, a coin worth about an hour’s wage split five ways. Worthless, forgettable birds. And Jesus says: not one of those two throwaway sparrows hits the ground without your Father knowing. Then he turns to the trembling disciples and says, in effect, “He has counted the hairs on your head.”",
+      "image": "A market stall in Galilee. Two sparrows — the cheapest meat a poor man could buy — tied together and sold for a single assarion, a small copper coin worth barely a fraction of a day’s wage. Worthless, forgettable birds. And Jesus says: not one of those two throwaway sparrows hits the ground without your Father knowing. Then he turns to the trembling disciples and says, in effect, “He has counted the hairs on your head.”",
       "meaning": "Between the God who can destroy soul and body in Gehenna (v. 28) and the God who notices a falling sparrow (v. 29) stands the same Father. His terrible sovereignty and his tender attention are one and the same. The point is not that you will never suffer — the sparrow does fall — but that you will never suffer outside his knowledge and his will. Fear him, and you need fear nothing else."
     },
     {
@@ -288,25 +368,43 @@
   ],
   "commentary": {
     "structure": [
-      { "label": "The Roster and the Authority (v. 1-4)", "body": "The King names his twelve and hands them his own authority over demons and disease — from fishermen to a tax collector to the coming traitor." },
-      { "label": "The Marching Orders (v. 5-15)", "body": "Where to go (Israel’s lost sheep), what to preach (the Kingdom is near), what to carry (nothing), and how to bless a house or shake off its dust." },
-      { "label": "Sent Into the Wolves (v. 16-23)", "body": "The honest warning — councils, floggings, courts, betrayal by family, universal hatred — and the promise that the Father’s Spirit will speak in that hour." },
-      { "label": "Do Not Be Afraid — Three Times (v. 24-31)", "body": "The servant is like his Master; the hidden will be revealed; fear God who holds the soul, not men who reach only the body — the God who counts sparrows and hairs." },
-      { "label": "Confess or Deny; Sword, Not Peace (v. 32-39)", "body": "The terms of allegiance laid bare: confess him and be confessed, deny him and be denied; love him above family, take the cross, and lose your life to find it." },
-      { "label": "The Reward of Receiving (v. 40-42)", "body": "To receive the messenger is to receive the King and the Father — down to a cup of cold water that never loses its reward." }
+      {
+        "label": "The Roster and the Authority (v. 1-4)",
+        "body": "The King names his twelve and hands them his own authority over demons and disease — from fishermen to a tax collector to the coming traitor."
+      },
+      {
+        "label": "The Marching Orders (v. 5-15)",
+        "body": "Where to go (Israel’s lost sheep), what to preach (the Kingdom is near), what to carry (nothing), and how to bless a house or shake off its dust."
+      },
+      {
+        "label": "Sent Into the Wolves (v. 16-23)",
+        "body": "The honest warning — councils, floggings, courts, betrayal by family, universal hatred — and the promise that the Father’s Spirit will speak in that hour."
+      },
+      {
+        "label": "Do Not Be Afraid — Three Times (v. 24-31)",
+        "body": "The servant is like his Master; the hidden will be revealed; fear God who holds the soul, not men who reach only the body — the God who counts sparrows and hairs."
+      },
+      {
+        "label": "Confess or Deny; Sword, Not Peace (v. 32-39)",
+        "body": "The terms of allegiance laid bare: confess him and be confessed, deny him and be denied; love him above family, take the cross, and lose your life to find it."
+      },
+      {
+        "label": "The Reward of Receiving (v. 40-42)",
+        "body": "To receive the messenger is to receive the King and the Father — down to a cup of cold water that never loses its reward."
+      }
     ],
     "sections": [
       {
         "heading": "“Israel First” in the Gospel of the Nations",
         "paragraphs": [
-          "There is a real tension on the surface of this chapter, and the truth of the truth requires us to face it rather than dodge it. Matthew is the Gospel that opens with Jesus as “the son of Abraham” — the promised blessing to all the families of the earth — and closes with “Go, make disciples of all nations” (28:19). Yet here, in the first sending, Jesus commands the exact opposite: “Don’t go among the Gentiles… Rather, go to the lost sheep of the house of Israel” (v. 5-6). Is the King contradicting himself?",
+          "There is a real tension on the surface of this chapter, and the truth of the truth requires us to face it rather than dodge it. Matthew is the Gospel that opens with Jesus as “the son of Abraham” — the promised blessing to all the families of the earth — and closes with “Go, and make disciples of all nations” (28:19). Yet here, in the first sending, Jesus commands the exact opposite: “Don’t go among the Gentiles… Rather, go to the lost sheep of the house of Israel” (v. 5-6). Is the King contradicting himself?",
           "No — he is keeping covenant order. The promise was made through Israel, and so the offer must come first to Israel; the Messiah owed his own people the first hearing. Paul later names this exact pattern as the divine rhythm of the whole gospel: “to the Jew first, and also to the Greek” (Romans 1:16). The narrow sending of Matthew 10 is not the cancellation of the Great Commission; it is its first movement. The door is opened to the covenant people, they largely refuse (v. 14-15, and the cross itself), and through that very refusal the gospel bursts the borders of Israel and floods the nations. What looks like a limit is actually a fuse."
         ]
       },
       {
         "heading": "The Two Horizons of the Discourse",
         "paragraphs": [
-          "This chapter does something the reader must notice: it begins as instructions for a short preaching tour of Galilean villages and ends describing courts, kings, worldwide hatred, and the coming of the Son of Man. Verse 23 is the hinge — “you will not have gone through the cities of Israel, until the Son of Man has come.” The Twelve, on their brief mission, were never dragged before governors and kings, and they were back with Jesus within the chapter’s own Gospel (Luke 9:10). So Jesus is deliberately looking past the immediate errand into the entire age of the church’s witness.",
+          "This chapter does something the reader must notice: it begins as instructions for a short preaching tour of Galilean villages and ends describing courts, kings, worldwide hatred, and the coming of the Son of Man. Verse 23 is the hinge — “you will not have gone through the cities of Israel, until the Son of Man has come.” The Twelve, on their brief mission, were never dragged before governors and kings, and the Gospels record them returning to Jesus soon after (Mark 6:30; Luke 9:10). So Jesus is deliberately looking past the immediate errand into the entire age of the church’s witness.",
           "This is how prophecy characteristically works — the near event and the far event stand on the same line of sight, like a mountain range where two peaks appear to touch though miles separate them. The little mission to Israel is the seed; the church’s mission to the nations, right up to the return of Christ, is the full-grown tree. Reading it this way, every promise here — the Spirit in the courtroom (v. 19-20), do not fear those who kill the body (v. 28), endure to the end and be saved (v. 22) — lands directly on David and on every believer, not only on twelve men in first-century Galilee."
         ]
       },
@@ -321,7 +419,7 @@
     "ntConnection": {
       "heading": "New Testament Connection",
       "paragraphs": [
-        "The engine of this whole chapter is the word in verse 1: Jesus “gave them authority” — exousia (G1849). They own nothing of their own; they carry a delegated warrant. That single word reaches its full flood at the end of the Gospel. Standing on another mountain after the resurrection, Jesus declares, “All authority has been given to me in heaven and on earth. Go therefore, and make disciples of all nations” (Matthew 28:18-19) — the same exousia, but now unlimited in scope. Matthew 10 is the trial run within Israel; Matthew 28 is the same sending unleashed on the world. The Mission Discourse is the seed of the Great Commission.",
+        "The engine of this whole chapter is the word in verse 1: Jesus “gave them authority” — exousia (G1849). They own nothing of their own; they carry a delegated warrant. That single word reaches its full flood at the end of the Gospel. Standing on another mountain after the resurrection, Jesus declares, “All authority has been given to me in heaven and on earth. Go, and make disciples of all nations” (Matthew 28:18-19) — the same exousia, but now unlimited in scope. Matthew 10 is the trial run within Israel; Matthew 28 is the same sending unleashed on the world. The Mission Discourse is the seed of the Great Commission.",
         "And the specific courtroom promise of verses 19-20 — “it is not you who speak, but the Spirit of your Father who speaks in you” — is fulfilled in living color in Acts 4. Peter and John are hauled before the very Sanhedrin that condemned Jesus. Peter, “filled with the Holy Spirit” (Acts 4:8), preaches Christ to their faces, and Luke records the council’s astonishment: “Now when they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus” (Acts 4:13). Ordinary men, no eloquence of their own, given the words in that hour — exactly as the King promised. What Jesus spoke over twelve nervous disciples in Galilee, the Spirit made good on in Jerusalem, and has kept making good on in every dock and dungeon since."
       ]
     }
@@ -431,7 +529,7 @@
       "title": "The Master Called Beelzebul",
       "ref": "Matthew 9:34; 12:24",
       "relatedVerses": "v. 24-25",
-      "summary": "Jesus told the disciples that if the world called “the master of the house Beelzebul, how much more those of his household” (v. 25). Matthew places that slander right in the same Gospel: when Jesus cast out a demon, the Pharisees sneered, “He casts out demons by the prince of the demons” (9:34), and repeated the charge in 12:24. The King was branded an agent of Satan for doing the works of God. So when his followers are misread, maligned, and accused of evil for doing good, they are not suffering something strange — they are being treated like their Master, which is honor enough."
+      "summary": "Jesus told the disciples that if the world called “the master of the house Beelzebul, how much more those of his household” (v. 25). Matthew places that slander right in the same Gospel: when Jesus cast out a demon, the Pharisees sneered, “By the prince of the demons, he casts out demons” (9:34), and repeated the charge in 12:24. The King was branded an agent of Satan for doing the works of God. So when his followers are misread, maligned, and accused of evil for doing good, they are not suffering something strange — they are being treated like their Master, which is honor enough."
     }
   ]
 }

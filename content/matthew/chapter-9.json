@@ -15,8 +15,18 @@
       "text": "Behold, they brought to him a man who was paralyzed, lying on a bed. Jesus, seeing their faith, said to the paralytic, “Son, cheer up! Your sins are forgiven you.”",
       "understanding": "Matthew notes that Jesus sees their faith — faith carried on four sets of hands, faith you can watch. Then He walks straight past the paralysis to the deeper cripple: sin. His first word is tenderness (\"Son, cheer up!\"), and His first gift is not walking but forgiveness.",
       "words": [
-        { "strongs": "G4102", "hebrew": "πίστις", "translit": "pístis", "english": "faith" },
-        { "strongs": "G863", "hebrew": "ἀφίημι", "translit": "aphíēmi", "english": "are forgiven" }
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "are forgiven"
+        }
       ]
     },
     {
@@ -24,7 +34,12 @@
       "text": "Behold, some of the scribes said to themselves, “This man blasphemes.”",
       "understanding": "The scribes are right about one thing: only God can forgive sins (Isaiah 43:25). Their silent verdict — \"blasphemes\" — is the exact charge that will one day nail Him to the cross, and the exact truth about who He is, missed by a hair's breadth.",
       "words": [
-        { "strongs": "G987", "hebrew": "βλασφημέω", "translit": "blasphēméō", "english": "blasphemes" }
+        {
+          "strongs": "G987",
+          "hebrew": "βλασφημέω",
+          "translit": "blasphēméō",
+          "english": "blasphemes"
+        }
       ]
     },
     {
@@ -42,8 +57,18 @@
       "text": "But that you may know that the Son of Man has authority on earth to forgive sins-” (then he said to the paralytic), “Get up, and take up your mat, and go to your house.”",
       "understanding": "Here is the beating heart of the chapter. The healing is a signed receipt for the forgiveness. \"Son of Man\" is Daniel's heavenly figure given everlasting dominion (Daniel 7:13-14) — and Jesus wields that authority not in some distant throne room but on earth, right now, in Capernaum.",
       "words": [
-        { "strongs": "G1849", "hebrew": "ἐξουσία", "translit": "exousía", "english": "authority" },
-        { "strongs": "G863", "hebrew": "ἀφίημι", "translit": "aphíēmi", "english": "to forgive" }
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "to forgive"
+        }
       ]
     },
     {
@@ -56,7 +81,12 @@
       "text": "But when the multitudes saw it, they marveled and glorified God, who had given such authority to men.",
       "understanding": "The crowd glorifies God for authority \"given to men\" — a quiet Matthew signpost that this same authority will one day be extended to Jesus' people (16:19; 18:18) and finally handed to the whole church in the Commission (28:18-20).",
       "words": [
-        { "strongs": "G1849", "hebrew": "ἐξουσία", "translit": "exousía", "english": "authority" }
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        }
       ]
     },
     {
@@ -84,9 +114,24 @@
       "text": "But you go and learn what this means: ‘I desire mercy, and not sacrifice,’ for I came not to call the righteous, but sinners to repentance.”",
       "understanding": "Jesus sends the Bible experts back to Bible school, quoting Hosea 6:6. God has always prized a heart that stoops to relieve misery over flawless ritual performance. He did not come to recruit the self-satisfied but to summon sinners into a changed life.",
       "words": [
-        { "strongs": "G1656", "hebrew": "ἔλεος", "translit": "éleos", "english": "mercy" },
-        { "strongs": "G2378", "hebrew": "θυσία", "translit": "thysía", "english": "sacrifice" },
-        { "strongs": "G3341", "hebrew": "μετάνοια", "translit": "metánoia", "english": "repentance" }
+        {
+          "strongs": "G1656",
+          "hebrew": "ἔλεος",
+          "translit": "éleos",
+          "english": "mercy"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifice"
+        },
+        {
+          "strongs": "G3341",
+          "hebrew": "μετάνοια",
+          "translit": "metánoia",
+          "english": "repentance"
+        }
       ]
     },
     {
@@ -124,8 +169,18 @@
       "text": "Behold, a woman who had an issue of blood for twelve years came behind him, and touched the fringe of his garment;",
       "understanding": "On the way, a woman ceremonially unclean for twelve years under the Law (Leviticus 15:25-27) — cut off from temple, touch, and community — reaches for the tassel of His prayer shawl from behind, hidden in the press of the crowd.",
       "words": [
-        { "strongs": "G680", "hebrew": "ἅπτομαι", "translit": "háptomai", "english": "touched" },
-        { "strongs": "G2899", "hebrew": "κράσπεδον", "translit": "kráspedon", "english": "fringe" }
+        {
+          "strongs": "G680",
+          "hebrew": "ἅπτομαι",
+          "translit": "háptomai",
+          "english": "touched"
+        },
+        {
+          "strongs": "G2899",
+          "hebrew": "κράσπεδον",
+          "translit": "kráspedon",
+          "english": "fringe"
+        }
       ]
     },
     {
@@ -133,7 +188,12 @@
       "text": "for she said within herself, “If I just touch his garment, I will be made well.”",
       "understanding": "Her entire theology is one whispered sentence: \"If I just touch His garment.\" It is faith reaching for the smallest possible point of contact with Him — and it is enough, because the power is in Him, not in the size of her grip.",
       "words": [
-        { "strongs": "G4982", "hebrew": "σώζω", "translit": "sṓzō", "english": "made well" }
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "made well"
+        }
       ]
     },
     {
@@ -141,8 +201,18 @@
       "text": "But Jesus, turning around and seeing her, said, “Daughter, cheer up! Your faith has made you well.” And the woman was made well from that hour.",
       "understanding": "He will not let her steal a healing and slip away unnamed. He turns, calls her \"Daughter,\" and tells her what saved her — her faith. The verb for \"made well\" is the same verb the New Testament uses for \"saved\"; her body and her soul are rescued in one word.",
       "words": [
-        { "strongs": "G4982", "hebrew": "σώζω", "translit": "sṓzō", "english": "made well" },
-        { "strongs": "G4102", "hebrew": "πίστις", "translit": "pístis", "english": "faith" }
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "made well"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
       ]
     },
     {
@@ -210,8 +280,18 @@
       "text": "Jesus went about all the cities and the villages, teaching in their synagogues, and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people.",
       "understanding": "A sweeping summary of the King touring His realm to mend it — teaching, preaching the Good News of the Kingdom, and healing every disease and every sickness. Word and power move together; the message and the mercy are one ministry.",
       "words": [
-        { "strongs": "G932", "hebrew": "βασιλεία", "translit": "basileía", "english": "Kingdom" },
-        { "strongs": "G2323", "hebrew": "θεραπεύω", "translit": "therapeúō", "english": "healing" }
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        },
+        {
+          "strongs": "G2323",
+          "hebrew": "θεραπεύω",
+          "translit": "therapeúō",
+          "english": "healing"
+        }
       ]
     },
     {
@@ -219,7 +299,12 @@
       "text": "But when he saw the multitudes, he was moved with compassion for them, because they were harassed and scattered, like sheep without a shepherd.",
       "understanding": "Here is the engine under all the miracles: a gut-level compassion. Jesus looks at the crowds and sees not a mass of people but exhausted, defenseless, shepherd-less sheep — and it churns Him in the depths. The Shepherd-King of Ezekiel 34 has finally come.",
       "words": [
-        { "strongs": "G4697", "hebrew": "σπλαγχνίζομαι", "translit": "splanchnízomai", "english": "moved with compassion" }
+        {
+          "strongs": "G4697",
+          "hebrew": "σπλαγχνίζομαι",
+          "translit": "splanchnízomai",
+          "english": "moved with compassion"
+        }
       ]
     },
     {
@@ -227,8 +312,18 @@
       "text": "Then he said to his disciples, “The harvest indeed is plentiful, but the laborers are few.",
       "understanding": "The problem is not a shortage of souls ready to be gathered — the field is ripe and heavy everywhere He looks. The bottleneck is the shortage of workers willing to go out and reap.",
       "words": [
-        { "strongs": "G2326", "hebrew": "θερισμός", "translit": "therismós", "english": "harvest" },
-        { "strongs": "G2040", "hebrew": "ἐργάτης", "translit": "ergátēs", "english": "laborers" }
+        {
+          "strongs": "G2326",
+          "hebrew": "θερισμός",
+          "translit": "therismós",
+          "english": "harvest"
+        },
+        {
+          "strongs": "G2040",
+          "hebrew": "ἐργάτης",
+          "translit": "ergátēs",
+          "english": "laborers"
+        }
       ]
     },
     {
@@ -236,8 +331,18 @@
       "text": "Pray therefore that the Lord of the harvest will send out laborers into his harvest.”",
       "understanding": "The command is not first to strategize but to pray — ask the Lord of the harvest to thrust out workers. Then read the very next line: in 10:1 He summons the twelve and sends them. Pray for laborers, and be ready to become the answer to your own prayer.",
       "words": [
-        { "strongs": "G2326", "hebrew": "θερισμός", "translit": "therismós", "english": "harvest" },
-        { "strongs": "G2040", "hebrew": "ἐργάτης", "translit": "ergátēs", "english": "laborers" }
+        {
+          "strongs": "G2326",
+          "hebrew": "θερισμός",
+          "translit": "therismós",
+          "english": "harvest"
+        },
+        {
+          "strongs": "G2040",
+          "hebrew": "ἐργάτης",
+          "translit": "ergátēs",
+          "english": "laborers"
+        }
       ]
     }
   ],
@@ -269,12 +374,30 @@
   ],
   "commentary": {
     "structure": [
-      { "label": "The Authority to Forgive (v. 1-8)", "body": "Jesus forgives a paralytic's sins, is charged with blasphemy, and proves His authority by healing the man's body." },
-      { "label": "The Call of Matthew and the Mercy Meal (v. 9-13)", "body": "Jesus calls a tax collector, eats with sinners, and answers the Pharisees with Hosea 6:6 — 'I desire mercy, and not sacrifice.'" },
-      { "label": "New Wine and Old Skins (v. 14-17)", "body": "Asked about fasting, Jesus declares the Bridegroom is here and that Kingdom life cannot be patched onto dead religion." },
-      { "label": "Two Interwoven Miracles (v. 18-26)", "body": "A dead girl is raised and a bleeding woman is healed by touch — faith and resurrection power braided into one scene." },
-      { "label": "Blind Eyes Opened and a Mute Tongue Freed (v. 27-34)", "body": "Two blind men confess Him as Son of David, a demon is cast out, and the Pharisees begin their blasphemous slander." },
-      { "label": "The Harvest and the Shepherd's Compassion (v. 35-38)", "body": "Jesus tours the villages healing all, is moved with compassion for the shepherd-less crowds, and commands prayer for laborers." }
+      {
+        "label": "The Authority to Forgive (v. 1-8)",
+        "body": "Jesus forgives a paralytic's sins, is charged with blasphemy, and proves His authority by healing the man's body."
+      },
+      {
+        "label": "The Call of Matthew and the Mercy Meal (v. 9-13)",
+        "body": "Jesus calls a tax collector, eats with sinners, and answers the Pharisees with Hosea 6:6 — 'I desire mercy, and not sacrifice.'"
+      },
+      {
+        "label": "New Wine and Old Skins (v. 14-17)",
+        "body": "Asked about fasting, Jesus declares the Bridegroom is here and that Kingdom life cannot be patched onto dead religion."
+      },
+      {
+        "label": "Two Interwoven Miracles (v. 18-26)",
+        "body": "A dead girl is raised and a bleeding woman is healed by touch — faith and resurrection power braided into one scene."
+      },
+      {
+        "label": "Blind Eyes Opened and a Mute Tongue Freed (v. 27-34)",
+        "body": "Two blind men confess Him as Son of David, a demon is cast out, and the Pharisees begin their blasphemous slander."
+      },
+      {
+        "label": "The Harvest and the Shepherd's Compassion (v. 35-38)",
+        "body": "Jesus tours the villages healing all, is moved with compassion for the shepherd-less crowds, and commands prayer for laborers."
+      }
     ],
     "sections": [
       {
@@ -314,7 +437,7 @@
       "english": "Forgive / Are Forgiven",
       "hebrew": "ἀφίημι",
       "translit": "aphíēmi",
-      "strongs": "G863 — must exist in the Strong's Greek dictionary",
+      "strongs": "G863",
       "verses": "v. 2, 5, 6",
       "insight": "The word literally means to send away, release, let go, hurl off. It is the same verb used for cancelling a debt — which is exactly right, since the next scene is the call of Matthew the debt-collector. When Jesus says 'your sins are forgiven,' He is not merely overlooking them; He is picking them up off the paralytic and hurling them away from him. Forgiveness in the Kingdom is not a feeling of leniency — it is a real transaction in which the debt is lifted off you and removed."
     },
@@ -322,7 +445,7 @@
       "english": "Authority",
       "hebrew": "ἐξουσία",
       "translit": "exousía",
-      "strongs": "G1849 — must exist in the Strong's Greek dictionary",
+      "strongs": "G1849",
       "verses": "v. 6, 8",
       "insight": "Not raw power (that would be dynamis) but delegated right — the legal authorization, the jurisdiction, to do a thing. Jesus does not claim He merely has the strength to forgive; He claims the right to forgive, the very right the scribes reserved for God alone. And in verse 8 the crowd glorifies God for authority 'given to men' — the same word Jesus will finally speak over His church: 'All authority (exousia) has been given to me... go therefore' (28:18-19). The chain of the whole Gospel is a chain of exousia."
     },
@@ -330,7 +453,7 @@
       "english": "Mercy",
       "hebrew": "ἔλεος",
       "translit": "éleos",
-      "strongs": "G1656 — must exist in the Strong's Greek dictionary",
+      "strongs": "G1656",
       "verses": "v. 13 (and the cry 'have mercy,' v. 27)",
       "insight": "Éleos is active compassion — pity that does not merely feel but stoops down to relieve. It is the Greek word chosen to carry Hosea's Hebrew hesed, God's loyal covenant kindness. When Jesus says 'I desire mercy, and not sacrifice,' He is declaring the whole priority order of God: a heart that stoops to help outranks a stack of flawless rituals. And when the two blind men cry 'have mercy on us, Son of David' (the related verb eleeō), they are asking Jesus for the exact thing He just said God most desires to give. Mercy is not God's soft side; it is His deepest desire."
     },
@@ -338,7 +461,7 @@
       "english": "Made Well / Saved",
       "hebrew": "σώζω",
       "translit": "sṓzō",
-      "strongs": "G4982 — must exist in the Strong's Greek dictionary",
+      "strongs": "G4982",
       "verses": "v. 21, 22",
       "insight": "One of the richest words in the New Testament. Sōzō means to save, to heal, to rescue, to make whole — all at once. When the bleeding woman thinks 'I will be made well' and Jesus says 'your faith has made you well,' the word is identical to the word for eternal salvation. Matthew is quietly telling us that what happened to her body is a picture of what Jesus does to a soul: reaches into twelve years of uncleanness and makes the untouchable whole. Physical healing and salvation are spoken with one breath, because in the Kingdom they are one work of the same Savior."
     },
@@ -346,7 +469,7 @@
       "english": "Moved With Compassion",
       "hebrew": "σπλαγχνίζομαι",
       "translit": "splanchnízomai",
-      "strongs": "G4697 — must exist in the Strong's Greek dictionary",
+      "strongs": "G4697",
       "verses": "v. 36",
       "insight": "This is the most visceral compassion word in the Greek language. It comes from splanchna, the inward organs — the guts, the bowels — the place the ancients located the deepest emotions. To be 'moved with compassion' is to feel your insides twist and churn at another's suffering. It is never used lightly in the Gospels; it is reserved almost entirely for Jesus, and it is always the trigger that moves Him to act. When He sees the shepherd-less crowd, He does not feel a polite sympathy — He feels it in His gut, and out of that gut-wrench comes the harvest call. Every miracle in this chapter is powered by this word."
     }

@@ -1,0 +1,495 @@
+{
+  "type": "chapterStudy",
+  "book": "Mark",
+  "chapter": 2,
+  "chapterTitle": "The Roof Torn Open and the Authority to Forgive",
+  "themeTitle": "\"By What Authority? The Son of Man Who Forgives Sins and Feasts With Sinners\"",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "When he entered again into Capernaum after some days, it was heard that he was in the house.",
+      "understanding": "Jesus returns to Capernaum, his ministry base on the north shore of Galilee, and the news spreads instantly that he is home. Mark is already moving at a sprint — no sooner has Jesus arrived than a crowd is forming."
+    },
+    {
+      "v": 2,
+      "text": "Immediately many were gathered together, so that there was no more room, not even around the door; and he spoke the word to them.",
+      "understanding": "The house is jammed to the doorframe and beyond. Notice what Jesus is actually doing before any miracle: \"he spoke the word to them.\" The preaching is the main event; the healing that follows is the proof.",
+      "words": [
+        {
+          "strongs": "G2117",
+          "hebrew": "εὐθύς",
+          "translit": "euthýs",
+          "english": "immediately"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Four people came, carrying a paralytic to him.",
+      "understanding": "Four friends carry a man who cannot carry himself. Mark's Roman readers see faith as action — people doing something for someone who can do nothing.",
+      "words": [
+        {
+          "strongs": "G3885",
+          "hebrew": "παραλυτικός",
+          "translit": "paralytikós",
+          "english": "paralytic"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "When they could not come near to him for the crowd, they removed the roof where he was. When they had broken it up, they let down the mat that the paralytic was lying on.",
+      "understanding": "Blocked by the crowd, the four climb the outside stairs to the flat mud-and-thatch roof and dig it open, raining debris on the room below, to lower their friend directly in front of Jesus. This is desperate, undignified, unstoppable faith that will not take the crowd for an answer."
+    },
+    {
+      "v": 5,
+      "text": "Jesus, seeing their faith, said to the paralytic,\n“Son, your sins are forgiven you.”",
+      "understanding": "Jesus sees their faith — plural, the whole team's — and goes for the deepest wound before the visible one. He calls the man \"child\" and speaks pardon before he speaks healing, treating sin as the real paralysis.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "are forgiven"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But there were some of the scribes sitting there, and reasoning in their hearts,",
+      "understanding": "The scribes — the professional theologians — say nothing aloud, but they begin a silent trial in their hearts. The opposition that will end in a death plot (3:6) starts here as an unspoken objection.",
+      "words": [
+        {
+          "strongs": "G1260",
+          "hebrew": "διαλογίζομαι",
+          "translit": "dialogízomai",
+          "english": "reasoning"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "“Why does this man speak blasphemies like that? Who can forgive sins but God alone?”",
+      "understanding": "Their objection is, on the surface, sound theology: only God can forgive sins. Their fatal error is that they have not reckoned with who is standing in front of them — the very God against whom all sin is committed.",
+      "words": [
+        {
+          "strongs": "G988",
+          "hebrew": "βλασφημία",
+          "translit": "blasphēmía",
+          "english": "blasphemies"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Immediately Jesus, perceiving in his spirit that they so reasoned within themselves, said to them,\n“Why do you reason these things in your hearts?",
+      "understanding": "Immediately Jesus reads their unspoken thoughts — itself an act only God performs — and drags their private courtroom into the open. He answers an argument they never said out loud.",
+      "words": [
+        {
+          "strongs": "G2117",
+          "hebrew": "εὐθύς",
+          "translit": "euthýs",
+          "english": "immediately"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Which is easier, to tell the paralytic, ‘Your sins are forgiven;’ or to say, ‘Arise, and take up your bed, and walk?’",
+      "understanding": "Jesus springs the trap-question. Anyone can SAY \"your sins are forgiven\" — it is invisible and unverifiable. To say \"get up and walk\" is instantly testable in front of everyone."
+    },
+    {
+      "v": 10,
+      "text": "But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralytic—",
+      "understanding": "Here is the hinge of the passage: he will perform the visible, verifiable miracle so they will KNOW he holds authority to do the invisible, eternal one. This is Mark's first \"Son of Man\" — the divine figure of Daniel 7 to whom everlasting dominion is given.",
+      "words": [
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "“I tell you, arise, take up your mat, and go to your house.”",
+      "understanding": "The command that proves the claim: get up, pick up the very mat that carried you, and walk home under your own power. The proof of the invisible pardon will be the visible legs."
+    },
+    {
+      "v": 12,
+      "text": "He arose, and immediately took up the mat, and went out in front of them all; so that they were all amazed, and glorified God, saying, “We never saw anything like this!”",
+      "understanding": "Immediately the man does exactly what he was told, in full view of the crowd. Their astonishment and praise show the point landed — the healing has publicly authenticated the forgiveness.",
+      "words": [
+        {
+          "strongs": "G2117",
+          "hebrew": "εὐθύς",
+          "translit": "euthýs",
+          "english": "immediately"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "He went out again by the seaside. All the multitude came to him, and he taught them.",
+      "understanding": "Jesus is back in motion by the Sea of Galilee, teaching the crowds. Mark never lets him sit still for long; the Servant is always on the move."
+    },
+    {
+      "v": 14,
+      "text": "As he passed by, he saw Levi, the son of Alphaeus, sitting at the tax office, and he said to him,\n“Follow me.” And he arose and followed him.",
+      "understanding": "Jesus calls Levi — a tax collector, a collaborator with Rome, the most despised kind of man in the room — with two words: \"Follow me.\" Levi leaves the money table and follows at once, an instant, total obedience that mirrors the fishermen of chapter 1.",
+      "words": [
+        {
+          "strongs": "G190",
+          "hebrew": "ἀκολουθέω",
+          "translit": "akolouthéō",
+          "english": "followed"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "He was reclining at the table in his house, and many tax collectors and sinners sat down with Jesus and his disciples, for there were many, and they followed him.",
+      "understanding": "Jesus reclines at a feast in Levi's house, surrounded by the exact people the religious world quarantined — tax collectors and sinners. He is completely at home in the room the righteous avoid.",
+      "words": [
+        {
+          "strongs": "G5057",
+          "hebrew": "τελώνης",
+          "translit": "telṓnēs",
+          "english": "tax collectors"
+        },
+        {
+          "strongs": "G268",
+          "hebrew": "ἁμαρτωλός",
+          "translit": "hamartōlós",
+          "english": "sinners"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "The scribes and the Pharisees, when they saw that he was eating with the sinners and tax collectors, said to his disciples, “Why is it that he eats and drinks with tax collectors and sinners?”",
+      "understanding": "The scribes and Pharisees are scandalized — a holy teacher does not share a table with the unclean, because in that culture the table meant acceptance and belonging. They aim the accusation at his disciples rather than confront Jesus directly."
+    },
+    {
+      "v": 17,
+      "text": "When Jesus heard it, he said to them,\n“Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance.”",
+      "understanding": "Jesus answers with the mission statement of grace: doctors are for the sick, not the well. He came for sinners — and the only qualification for his call is admitting you are one.",
+      "words": [
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "to call"
+        },
+        {
+          "strongs": "G3341",
+          "hebrew": "μετάνοια",
+          "translit": "metánoia",
+          "english": "repentance"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "John’s disciples and the Pharisees were fasting, and they came and asked him, “Why do John’s disciples and the disciples of the Pharisees fast, but your disciples don’t fast?”",
+      "understanding": "A new complaint arrives: the followers of John and the Pharisees fast, but Jesus' disciples feast. Why does his movement look like a celebration when true piety looks like abstinence?",
+      "words": [
+        {
+          "strongs": "G3522",
+          "hebrew": "νηστεύω",
+          "translit": "nēsteúō",
+          "english": "were fasting"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Jesus said to them,\n“Can the groomsmen fast while the bridegroom is with them? As long as they have the bridegroom with them, they can’t fast.",
+      "understanding": "Jesus reframes the whole question: you do not fast at a wedding. While the bridegroom is present, the only fitting response is joy — and he is quietly declaring himself the bridegroom, a title Scripture reserves for God."
+    },
+    {
+      "v": 20,
+      "text": "But the days will come when the bridegroom will be taken away from them, and then will they fast in that day.",
+      "understanding": "Then comes the shadow: he foretells his own removal — \"taken away\" is a word of violence, of being snatched off — and says that then his people will fast. The cross is already in view here in chapter 2."
+    },
+    {
+      "v": 21,
+      "text": "No one sews a piece of unshrunk cloth on an old garment, or else the patch shrinks and the new tears away from the old, and a worse hole is made.",
+      "understanding": "First parable: you cannot repair the old system with a scrap of the new. A raw, unshrunk patch will only shrink and rip the old garment worse. The gospel is not a patch stitched onto dead religion.",
+      "words": [
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "No one puts new wine into old wineskins, or else the new wine will burst the skins, and the wine pours out, and the skins will be destroyed; but they put new wine into fresh wineskins.”",
+      "understanding": "Second parable: still-fermenting new wine expands and bursts brittle old skins. The new life of the kingdom demands new forms; it cannot be poured back into the rigid containers of a religion that has stopped stretching.",
+      "words": [
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "new (wine)"
+        },
+        {
+          "strongs": "G779",
+          "hebrew": "ἀσκός",
+          "translit": "askós",
+          "english": "wineskins"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "He was going on the Sabbath day through the grain fields, and his disciples began, as they went, to pluck the ears of grain.",
+      "understanding": "On the Sabbath, Jesus' hungry disciples pluck heads of grain as they walk. The Law itself permitted this (Deuteronomy 23:25) — but the Pharisees classed the rubbing of grain as \"harvesting,\" one of their forbidden Sabbath labors.",
+      "words": [
+        {
+          "strongs": "G4521",
+          "hebrew": "σάββατον",
+          "translit": "sábbaton",
+          "english": "Sabbath"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "The Pharisees said to him, “Behold, why do they do that which is not lawful on the Sabbath day?”",
+      "understanding": "The Pharisees pounce: this is \"not lawful\" on the Sabbath. But it is unlawful only by their fence of traditions, not by anything God actually commanded."
+    },
+    {
+      "v": 25,
+      "text": "He said to them,\n“Did you never read what David did, when he had need, and was hungry—he, and those who were with him?",
+      "understanding": "Jesus answers the experts on their own turf — Scripture. \"Did you never read?\" is a pointed rebuke to men whose whole life was reading the text, and he sends them to their national hero, David."
+    },
+    {
+      "v": 26,
+      "text": "How he entered into God’s house at the time of Abiathar the high priest, and ate the show bread, which is not lawful to eat except for the priests, and gave also to those who were with him?”",
+      "understanding": "When David and his men were hungry, they ate the consecrated show bread reserved by law for priests — and Scripture does not condemn him. Human need, under God, outranked a ceremonial regulation. (On the naming of Abiathar, see the commentary.)"
+    },
+    {
+      "v": 27,
+      "text": "He said to them,\n“The Sabbath was made for man, not man for the Sabbath.",
+      "understanding": "Here is the principle that resets the whole argument: God gave the Sabbath as a gift FOR man's rest and flourishing. Man was not created to be its slave; the day was created to serve the person.",
+      "words": [
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "Therefore the Son of Man is lord even of the Sabbath.”",
+      "understanding": "The staggering conclusion: the Son of Man is Lord even of the Sabbath. The One who gave the day holds the right to define it — the same divine authority claimed over sin in verse 10, now claimed over the holiest day. This is Mark's second \"Son of Man,\" bookending the chapter.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "lord"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Roof Torn Open",
+      "verseRef": "v. 3-4",
+      "image": "Picture a small Capernaum house, packed wall to wall, the doorway a solid plug of shoulders and backs. Now hear a scraping overhead. Dust begins to sift down onto the crowd, then chunks of dried mud and straw, then daylight cracks open where there was ceiling. Four sweating men have hauled their friend up the outside stairs and are digging through the roof with their hands, and down through the ragged hole descends a mat on ropes, swinging, until it settles on the floor at Jesus' feet.",
+      "meaning": "This is what faith looks like when it refuses to be stopped by the crowd. These four could not fix their friend and would not accept the closed door, so they made their own opening. Jesus \"saw their faith\" — it was visible, it was loud, it made a mess. Real faith often looks less like folded hands and more like a torn-open roof."
+    },
+    {
+      "title": "Reclining at the Sinners' Table",
+      "verseRef": "v. 15-16",
+      "image": "Levi's house, lamps lit, low tables, and Jesus reclining on his elbow in the middle of a room full of the wrong people — tax collectors who bled their own neighbors for Rome, \"sinners\" the synagogue had written off. Cups are passed, laughter rises, and Jesus is at the center of it, at ease. And there in the doorway, refusing to cross the threshold, stand the scribes and Pharisees, arms folded, faces pinched, whispering to his disciples.",
+      "meaning": "In that world, to share a table was to share your life — to accept and belong to one another. The religious elite kept their tables pure by keeping sinners out. Jesus does the unthinkable: he brings the pure presence of God INTO the room of the unclean and makes himself at home there. The Physician has walked into the sick ward and sat down."
+    },
+    {
+      "title": "New Wine Bursting Old Skins",
+      "verseRef": "v. 22",
+      "image": "See a wineskin — a whole goat hide, sewn tight, that has already held one vintage. It is dark, cracked, hardened, stretched to its final limit. Now watch someone pour in wine that is still alive, still fermenting, still throwing off gas and swelling. The old skin has no give left. A seam splits, then bursts, and the new wine gushes out across the floor, wasted, while the ruined skin collapses.",
+      "meaning": "Jesus is explaining why his movement cannot simply be bolted onto the old religious system. The gospel is living, expanding, fermenting with new life — and the brittle containers of legalism cannot hold it. You cannot pour the kingdom into a heart that refuses to stretch. Grace needs new wineskins: hearts made fresh, willing to expand with what God is doing."
+    },
+    {
+      "title": "Grain in the Hand on the Sabbath",
+      "verseRef": "v. 23-24",
+      "image": "A golden field under an open sky, the disciples walking a footpath through standing grain on the day of rest. As they go, hungry, they reach out, snap off heads of wheat, roll them between their palms to loosen the chaff, blow it away, and eat. It is the most ordinary human gesture — hungry people getting a mouthful as they walk. And from the edge of the field, the Pharisees are already pointing: harvesting, threshing, unlawful.",
+      "meaning": "The Law God gave permitted exactly this (Deuteronomy 23:25). But the Pharisees had built a fence of rules around God's Law until the fence buried the Law itself, turning a day of gift into a day of dread. Jesus exposes the inversion: they have made hungry men servants of a rule that God designed to serve hungry men."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Paralytic and the Authority to Forgive (v. 1-12)",
+        "body": "Jesus forgives sins before he heals, then heals to prove he had the right — the first \"Son of Man\" claim."
+      },
+      {
+        "label": "The Call of Levi and the Feast With Sinners (v. 13-17)",
+        "body": "Jesus calls a tax collector and dines with outcasts: \"I came not to call the righteous, but sinners to repentance.\""
+      },
+      {
+        "label": "The Question About Fasting (v. 18-22)",
+        "body": "You do not fast at a wedding while the bridegroom is present; and the new cannot be patched onto the old — new wine needs new wineskins."
+      },
+      {
+        "label": "Lord of the Sabbath (v. 23-28)",
+        "body": "Grain plucked on the Sabbath; David and the show bread; \"The Sabbath was made for man\" — the second \"Son of Man\" claim."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "\"Who Can Forgive Sins but God Alone?\" — The Question the Whole Chapter Answers",
+        "paragraphs": [
+          "Mark 2 opens a new movement in the Gospel. Chapter 1 was almost pure momentum — call, cast out, heal, move. Now, from 2:1 to 3:6, Mark stacks five confrontations back to back, each one raising the stakes: forgiving sins (2:1-12), eating with sinners (2:13-17), not fasting (2:18-22), and two Sabbath clashes (2:23-28; 3:1-6). By the end the Pharisees are plotting with the Herodians to kill him. Chapter 2 is where the cross first casts its shadow, and every scene is circling one question: by what authority does this man act?",
+          "The scribes ask it out loud in verse 7: \"Who can forgive sins but God alone?\" And they are completely right. In Israel's theology, sin is ultimately an offense against God, so only God can release it. When Jesus tells the paralytic \"your sins are forgiven,\" he is not offering therapeutic comfort — he is stepping into a chair reserved for God alone. The scribes see it clearly. What they miss is that the chair fits him.",
+          "So Jesus offers proof no imposter could give. He asks which is easier: to pronounce forgiveness (invisible, unverifiable) or to command a paralyzed man to walk (instantly falsifiable). Then he does the hard, testable thing to authenticate the unseen thing: \"that you may know that the Son of Man has authority on earth to forgive sins.\" The healed legs are the receipt for the forgiven soul. And here Mark records Jesus' first use of his favorite self-title, \"Son of Man,\" drawn straight from Daniel 7:13-14, where \"one like a son of man\" is brought before the Ancient of Days and given everlasting dominion, glory, and a kingdom. Jesus is not claiming to be merely human — he is claiming to be the enthroned figure of Daniel's vision, exercising divine authority on earth. The same title bookends the chapter in verse 28, where he is \"lord even of the Sabbath.\""
+        ]
+      },
+      {
+        "heading": "The Physician, the Bridegroom, and the New Wine — Why Grace Cannot Be a Patch",
+        "paragraphs": [
+          "The second half of the chapter is one sustained collision between the old religion of the qualified and the new grace of Jesus. When the Pharisees are scandalized that he eats with sinners, Jesus does not apologize; he defines his mission: \"Those who are healthy have no need for a physician, but those who are sick. I came not to call the righteous, but sinners to repentance.\" The only people Jesus cannot help are those who insist they are well. The tax collector who knows he is a traitor gets a Savior; the Pharisee who is sure he is righteous locks himself out. Grace is a hospital, and the price of admission is admitting you are sick.",
+          "The fasting question and the two parables press the same truth from a different angle. Why don't Jesus' disciples fast? Because you cannot mourn at a wedding — and the bridegroom (a title the Old Testament gives to God as the husband of his people) has arrived. But Jesus immediately foreshadows verse 20: the bridegroom \"will be taken away,\" a violent word pointing to the cross, and then his people will fast. Then come the twin parables: you cannot sew raw new cloth onto an old garment, and you cannot pour new wine into old skins. Jesus is not here to reform Judaism, to patch the old system with a little grace. What he brings is so alive, so expansive, that it will burst any container built to hold the old religion of merit. The gospel demands new wineskins — hearts remade, not merely improved.",
+          "The Sabbath clash lands the whole argument. God gave the Sabbath as a gift — a weekly release from labor so that human beings could rest, worship, and breathe. The Pharisees had inverted it, turning the day of freedom into a cage of prohibitions so heavy that hungry men could not even eat. Jesus restores the original order: \"The Sabbath was made for man, not man for the Sabbath.\" Rules exist to serve people under God, never the reverse. And then, breathtakingly, he claims the right to say so: \"the Son of Man is lord even of the Sabbath.\" Only the One who gave the day may define it — and he has just told you who that is."
+        ]
+      },
+      {
+        "heading": "An Honest Word on Abiathar (v. 26)",
+        "paragraphs": [
+          "Verse 26 raises a real question that honest study should not dodge. Jesus says David ate the show bread \"at the time of Abiathar the high priest,\" but 1 Samuel 21 records that the priest who gave David the bread was Ahimelech, Abiathar's father; Abiathar becomes the prominent high priest a little later. So what is going on?",
+          "The strongest reading takes the Greek phrase (epi Abiathar archiereōs) not as a precise dating of the event but as a way of locating it in the well-known era and account associated with Abiathar — the priest who would go on to become the most famous high priest of David's reign and David's lifelong companion. Mark identifies the passage by its most memorable figure, much as we might say \"in the days of Abiathar\" to name a chapter of history by its leading name. It is a reference to the era and the narrative, not a claim that Abiathar personally handed over the loaves. Whether one finds that fully satisfying, the theological point Jesus is making is untouched: Scripture itself records human need lawfully overriding ceremonial restriction, and the Lord of the Sabbath has every right to interpret his own day."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "When Jesus declares in verse 17, \"I came not to call the righteous, but sinners to repentance,\" he is announcing the very heart of the gospel — and the New Testament never forgets it. Decades later the Apostle Paul takes that exact sentence and makes it his own testimony. In 1 Timothy 1:15 he writes: \"The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief.\"",
+        "Look at how precisely Paul echoes Mark 2:17. Jesus says he came for sinners; Paul says Christ came \"to save sinners.\" And Paul, the former persecutor, does not place himself among the righteous who need no physician — he names himself the chief of the sick. This is the difference between the scribes at the table and the tax collector at the table. The Pharisees stood in the doorway certain they were well, and Christ could do nothing for them. Paul fell to the ground on the Damascus road knowing he was the worst in the room, and Christ made him the greatest of the apostles. The whole New Testament runs on the logic Jesus laid down at Levi's feast: the door of grace opens only to those willing to walk through it as sinners."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Immediately",
+      "hebrew": "εὐθύς",
+      "translit": "euthýs",
+      "strongs": "G2117",
+      "verses": "v. 2, 8, 12",
+      "insight": "This is the heartbeat word of Mark's Gospel, appearing around forty times — and three times in this chapter alone. It means \"straightway, at once, without delay.\" The crowd gathers euthys (v. 2), Jesus perceives the scribes' thoughts euthys (v. 8), the healed man rises euthys (v. 12). Mark's Servant never dawdles and neither does grace: the moment Jesus speaks, things move. Even obedience in Mark tends to happen euthys — the man does not linger on his mat debating; he gets up at once."
+    },
+    {
+      "english": "Authority",
+      "hebrew": "ἐξουσία",
+      "translit": "exousía",
+      "strongs": "G1849",
+      "verses": "v. 10",
+      "insight": "Exousia means both the RIGHT and the POWER to act — delegated, rightful mastery. The scribes rightly know that only God holds the exousia to forgive sins; Jesus claims it \"on earth\" as the Son of Man. This is the single word the whole chapter turns on. By what exousia does he forgive (v. 10) and rule the Sabbath (v. 28)? By the authority given to the Danielic Son of Man, to whom dominion and a kingdom were given that shall never pass away."
+    },
+    {
+      "english": "Forgive / send away",
+      "hebrew": "ἀφίημι",
+      "translit": "aphíēmi",
+      "strongs": "G863",
+      "verses": "v. 5, 7, 9, 10",
+      "insight": "Literally aphiēmi means \"to send away, let go, release, remit a debt.\" Biblical forgiveness is not God merely feeling differently about you — it is God sending your sin away, releasing the debt, letting it go entirely. Watch what Jesus does to the paralytic: he sends away the man's guilt with the same word-power that he uses to send away the man's paralysis. He lets both go. What God releases through aphiēmi does not come creeping back."
+    },
+    {
+      "english": "Call",
+      "hebrew": "καλέω",
+      "translit": "kaléō",
+      "strongs": "G2564",
+      "verses": "v. 17",
+      "insight": "Kaleō means to summon aloud, to call someone by name to come. Jesus says he did not come to call (summon) the righteous, but sinners. It is the same summoning power that named Levi at the tax booth — \"Follow me\" — and lifted him out of his old life in a single sentence. The mission of Jesus is a call issued to the sick, not the smug. If you have ever felt too far gone to be summoned, this word is aimed straight at you: the call goes to sinners by name."
+    },
+    {
+      "english": "New / fresh",
+      "hebrew": "καινός",
+      "translit": "kainós",
+      "strongs": "G2537",
+      "verses": "v. 21, 22",
+      "insight": "Kainos means new not merely in time (that is the sister word neos) but new in KIND and quality — fresh, unprecedented, of a different order. The kingdom Jesus brings is kainos: it is not a renovation of the old religious system but a new kind of thing altogether. That is why it tears the old garment (v. 21) and bursts the old wineskins (v. 22). You cannot store the kingdom's new wine in palaios (old) forms. Grace is not a patch; it is a new creation, and it requires a heart made new to hold it."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the way you approach Jesus — what you actually bring him, whose company you are willing to keep, and whether your inner life has room for anything new.",
+    "items": [
+      {
+        "title": "The Sin Underneath the Symptom",
+        "body": "The four friends brought Jesus a paralyzed body; Jesus dealt first with a paralyzed soul. \"Son, your sins are forgiven you\" came before \"take up your mat.\" How often do you come to God asking him to fix the surface — the finances, the health, the situation — while he is reaching for the root beneath it? The Spirit asks: what is the sin under the symptom you keep praying about? Are you willing to let Jesus deal with the thing you did not come to talk about? He loves you too much to only heal your legs and leave your heart."
+      },
+      {
+        "title": "Whose Table Are You Willing to Sit At?",
+        "body": "Jesus reclined at Levi's table, at ease among tax collectors and sinners, while the religious stood scandalized in the doorway. The Pharisees kept themselves clean by keeping sinners out; Jesus carried holiness IN. Now be honest — which one are you? Is there a person, a family member, a group you have quietly written off as too far gone, too messy, too unclean to sit with? The Spirit presses the question: would you have been at the feast with Jesus, or folding your arms in the doorway with the scribes? Who is the one \"sinner\" Jesus is asking you to share a table with this week?"
+      },
+      {
+        "title": "Are You an Old Wineskin?",
+        "body": "New wine bursts old skins. The living, fermenting, expanding life of the Spirit cannot be contained in a heart that has hardened into rigid form — a faith reduced to routine, to rules, to \"the way we have always done it.\" The Pharisees knew every regulation and missed the God standing in front of them. The Spirit asks: has your walk with God become a brittle old skin that can no longer stretch? Is there room in you for God to do something new, or have you sealed yourself around the old? Will you let him make you a fresh wineskin — soft, expandable, alive?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Root-vs-Symptom Check",
+        "body": "Name the thing you have been begging God to change on the surface of your life. Now ask: is there a sin, a wound, or a heart-issue underneath it that you have been avoiding? Are you asking God to heal your legs while dodging his hand on your heart?"
+      },
+      {
+        "title": "The Doorway Test",
+        "body": "Is there a person or type of person you consider too sinful, too compromised, or too unclean to genuinely welcome? When you picture Jesus reclining at the sinners' feast, are you at the table with him — or standing in the doorway with your arms folded, asking \"why does he eat with them?\""
+      },
+      {
+        "title": "The Wineskin Audit",
+        "body": "Where has your faith calcified into rigid routine that leaves no room for God to do something new? Are you holding onto forms, habits, or opinions so tightly that the fresh wine of the Spirit has no space to expand in you? Where do you need to become soft and stretchable again?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Carry Someone's Mat",
+        "body": "Think of one person who cannot get themselves to Jesus right now — someone spiritually paralyzed, discouraged, or far off. This week, be one of the four. Physically do something for them: text them a specific Scripture, sit with them, offer to pray over them face to face, or simply show up. Faith that gets someone to Jesus sometimes has to dig through a roof. Do the inconvenient thing."
+      },
+      {
+        "title": "Set a Table",
+        "body": "Before this week ends, share a meal, a coffee, or an unhurried conversation with one person the \"righteous\" crowd would raise an eyebrow at — someone outside the church walls, someone messy, someone lonely. Do not preach at them; just welcome them the way Jesus welcomed Levi's guests. Let your table say what Jesus' table said: you belong here, and the Physician has come for the sick."
+      }
+    ]
+  },
+  "prayerReflection": "\"Lord Jesus, Son of Man, You have authority on earth to forgive sins — so I bring You mine. I am not standing in the doorway pretending I am well; I am the paralytic on the mat and the tax collector at the table, and I need the Physician. Send my sin away by Your word, aphiēmi, let it go, release the debt I could never pay. Thank You that You came not to call the righteous but sinners like me to repentance, and that You are at ease in the very room I was ashamed to enter. Make me a fresh wineskin, Lord — soften what has gone hard in me, stretch what has grown rigid, and pour Your new wine into a heart with room for what You are doing. Give me the faith of the four who tore open the roof, and the obedience of Levi who rose immediately and followed. You are Lord even of the Sabbath, Lord even of my calendar, my rules, and my routines — so be Lord of all of it. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "David and the Show Bread",
+      "ref": "1 Samuel 21:1-6",
+      "relatedVerses": "v. 25-26",
+      "summary": "This is the very story Jesus throws back at the Pharisees. Fleeing from Saul, hungry and with his men in desperate need, David came to the priest at Nob and was given the consecrated bread of the Presence — loaves that the Law reserved strictly for the priests. Scripture records the act without condemning David, because human need under God took priority over ceremonial restriction. Jesus uses their own beloved King David to shatter their Sabbath legalism: if David's hunger could lawfully bend the ritual, how much more can the Lord of the Sabbath himself judge what his day is for."
+    },
+    {
+      "title": "Zacchaeus, the Tax Collector Jesus Went Home With",
+      "ref": "Luke 19:1-10",
+      "relatedVerses": "v. 14-17",
+      "summary": "Levi is not the only tax collector Jesus refused to write off. In Jericho, Jesus invited himself to the house of Zacchaeus, a chief tax collector and a rich man everyone despised, and the crowd grumbled exactly as the Pharisees did in Mark 2: \"He has gone in to lodge with a man who is a sinner.\" But that meal changed Zacchaeus, who repented and repaid fourfold, and Jesus declared the mission of Mark 2:17 in different words: \"the Son of Man came to seek and to save that which was lost.\" The Physician keeps walking into the sick ward, and the sick keep getting well."
+    },
+    {
+      "title": "Daniel's Vision of the Son of Man",
+      "ref": "Daniel 7:13-14",
+      "relatedVerses": "v. 10, 28",
+      "summary": "When Jesus twice calls himself \"the Son of Man\" in this chapter — claiming authority to forgive sins (v. 10) and lordship over the Sabbath (v. 28) — he is reaching back to Daniel's night vision. Daniel saw \"one like a son of man\" coming with the clouds of heaven, brought before the Ancient of Days, and given dominion, glory, and a kingdom that all peoples would serve and that would never be destroyed. That is the figure Jesus claims to be. So when the scribes ask \"who can forgive sins but God alone?\" the answer standing in front of them is the enthroned Son of Man of Daniel 7, exercising the everlasting authority of heaven right there in a crowded Capernaum house."
+    }
+  ]
+}

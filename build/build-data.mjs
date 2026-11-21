@@ -83,6 +83,8 @@ function validateChapter(d, file, bookId) {
     const gotVerses = new Map((d.scripture ?? []).map(v => [v.v, norm(v.text)]));
     for (const [vn, txt] of srcVerses) {
       if (!gotVerses.has(vn)) errors.push(`${file}: verse ${vn} missing from scripture array`);
+      // A verse the WEB omits (empty in the source) may carry an editorial note instead.
+      else if (txt === '') warnings.push(`${file}: verse ${vn} omitted by WEB — editorial note shown`);
       else if (gotVerses.get(vn) !== txt) errors.push(`${file}: verse ${vn} text differs from WEB source`);
     }
     for (const vn of gotVerses.keys()) {

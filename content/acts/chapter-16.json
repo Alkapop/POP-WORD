@@ -1,0 +1,458 @@
+{
+  "type": "chapterStudy",
+  "book": "Acts",
+  "chapter": 16,
+  "chapterTitle": "The Macedonian Call and the Songs at Midnight",
+  "themeTitle": "When Closed Doors Lead to Opened Hearts",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "He came to Derbe and Lystra: and behold, a certain disciple was there, named Timothy, the son of a Jewess who believed; but his father was a Greek.",
+      "understanding": "Paul returns to Lystra — the city where he was stoned and left for dead (Acts 14:19) — and finds fruit growing out of that old wound: a young disciple named Timothy. The place of your worst suffering can become the place of your greatest recruit."
+    },
+    {
+      "v": 2,
+      "text": "The brothers who were at Lystra and Iconium gave a good testimony about him.",
+      "understanding": "Timothy's credential is not self-promotion but the verified testimony of believers in two cities. Character that is confirmed by community is the entrance requirement for apostolic ministry."
+    },
+    {
+      "v": 3,
+      "text": "Paul wanted to have him go out with him, and he took and circumcised him because of the Jews who were in those parts; for they all knew that his father was a Greek.",
+      "understanding": "Paul circumcises Timothy not for salvation — he flatly refused to circumcise Titus when the gospel itself was at stake (Galatians 2:3-5) — but for mission, removing a needless obstacle before Jewish audiences. This is strategy, not compromise: becoming all things to all men to save some (1 Corinthians 9:22)."
+    },
+    {
+      "v": 4,
+      "text": "As they went on their way through the cities, they delivered the decrees to them to keep which had been ordained by the apostles and elders who were at Jerusalem.",
+      "understanding": "They carry the Jerusalem council's verdict (Acts 15) from city to city: salvation is by grace through faith, not by becoming a Jew first. The churches are being anchored in a grace-based gospel with apostolic authority behind it."
+    },
+    {
+      "v": 5,
+      "text": "So the assemblies were strengthened in the faith, and increased in number daily.",
+      "understanding": "This is one of Luke's six growth refrains (6:7, 9:31, 12:24, 16:5, 19:20, 28:31) — depth and breadth together. The churches were strengthened in the faith AND increased in number; God's pattern is never one without the other."
+    },
+    {
+      "v": 6,
+      "text": "When they had gone through the region of Phrygia and Galatia, they were forbidden by the Holy Spirit to speak the word in Asia.",
+      "understanding": "The Holy Spirit forbids them to preach the word — a good thing — in Asia. God sometimes says no to good plans because He is steering you toward His plan; Asia will get its turn later (Acts 19), but not now, and not this way.",
+      "words": [
+        {
+          "strongs": "G2967",
+          "hebrew": "κωλύω",
+          "translit": "kōlyō",
+          "english": "forbidden"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "When they had come opposite Mysia, they tried to go into Bithynia, but the Spirit didn’t allow them.",
+      "understanding": "A second closed door. They tried Bithynia — real effort, real intention — and the Spirit blocked that too. Two refusals in a row is not rejection; it is navigation."
+    },
+    {
+      "v": 8,
+      "text": "Passing by Mysia, they came down to Troas.",
+      "understanding": "Squeezed between two closed doors, they end up at Troas — the port at the edge of the continent, where the land literally runs out. God often walks you to the end of your own map before He shows you His."
+    },
+    {
+      "v": 9,
+      "text": "A vision appeared to Paul in the night. There was a man of Macedonia standing, begging him, and saying, “Come over into Macedonia and help us.”",
+      "understanding": "Now comes the positive guidance: a night vision of a Macedonian man begging for help. This is one of the hinge moments of world history — the gospel is being summoned across the Aegean into Europe.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaleō",
+          "english": "begging"
+        },
+        {
+          "strongs": "G997",
+          "hebrew": "βοηθέω",
+          "translit": "boētheō",
+          "english": "help"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "When he had seen the vision, immediately we sought to go out to Macedonia, concluding that the Lord had called us to preach the Good News to them.",
+      "understanding": "Two things happen in this verse: the narrative shifts to \"we\" — Luke himself joins the team at Troas — and the team responds immediately. Notice also the word \"concluding\": the vision came to Paul alone, but the team reasoned it through together. Guidance is confirmed in community, then obeyed without delay."
+    },
+    {
+      "v": 11,
+      "text": "Setting sail therefore from Troas, we made a straight course to Samothrace, and the day following to Neapolis;",
+      "understanding": "A \"straight course\" — the winds were with them, and a crossing that later took five days in reverse (Acts 20:6) takes two. When God opens the door, even the weather cooperates."
+    },
+    {
+      "v": 12,
+      "text": "and from there to Philippi, which is a city of Macedonia, the foremost of the district, a Roman colony. We were staying some days in this city.",
+      "understanding": "Philippi was a Roman colony — a miniature Rome, populated by army veterans, proud of its citizenship and its Latin law. God plants the first church of Europe in Caesar's showcase city."
+    },
+    {
+      "v": 13,
+      "text": "On the Sabbath day we went outside of the city by a riverside, where we supposed there was a place of prayer, and we sat down, and spoke to the women who had come together.",
+      "understanding": "There is no synagogue in Philippi — Jewish custom required ten men, and Philippi could not muster them. So the great European mission begins with a handful of women praying by a river. The vision showed a man of Macedonia; the first congregation is women. God's openings rarely look like the preview."
+    },
+    {
+      "v": 14,
+      "text": "A certain woman named Lydia, a seller of purple, of the city of Thyatira, one who worshiped God, heard us; whose heart the Lord opened to listen to the things which were spoken by Paul.",
+      "understanding": "Lydia is a successful businesswoman in luxury goods — purple dye was the fabric of royalty. Watch the division of labor in this verse: Paul spoke, but the Lord opened her heart. Salvation is sovereign grace from first to last; the preacher supplies words, God supplies the opening.",
+      "words": [
+        {
+          "strongs": "G1272",
+          "hebrew": "διανοίγω",
+          "translit": "dianoigō",
+          "english": "opened"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "When she and her household were baptized, she begged us, saying, “If you have judged me to be faithful to the Lord, come into my house, and stay.” So she persuaded us.",
+      "understanding": "An opened heart immediately opens a home. Lydia is baptized with her household the same day, and her first act of discipleship is aggressive hospitality — her house becomes the base of the Philippian church (v. 40)."
+    },
+    {
+      "v": 16,
+      "text": "As we were going to prayer, a certain girl having a spirit of divination met us, who brought her masters much gain by fortune telling.",
+      "understanding": "Literally a \"python spirit\" — the serpent-spirit associated with the oracle at Delphi. This is real demonic power generating real profit, and the girl is doubly enslaved: owned by human masters and possessed by a spirit, exploited by both.",
+      "words": [
+        {
+          "strongs": "G4436",
+          "hebrew": "Πύθων",
+          "translit": "Pythōn",
+          "english": "divination"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Following Paul and us, she cried out, “These men are servants of the Most High God, who proclaim to us a way of salvation!”",
+      "understanding": "The demon tells the truth — every word is accurate. But truth from the wrong source is still a trap: unsolicited endorsement from darkness would chain the gospel to the occult in the public mind. Jesus silenced demons for the same reason (Mark 1:25, 34)."
+    },
+    {
+      "v": 18,
+      "text": "She was doing this for many days.\nBut Paul, becoming greatly annoyed, turned and said to the spirit, “I command you in the name of Jesus Christ to come out of her!” It came out that very hour.",
+      "understanding": "Paul endures it for many days — discernment first, then action in God's timing. When he moves, he addresses the spirit, not the girl, and the authority is not his own: \"in the name of Jesus Christ.\" One sentence, and a bondage the girl could never break is broken \"that very hour.\""
+    },
+    {
+      "v": 19,
+      "text": "But when her masters saw that the hope of their gain was gone, they seized Paul and Silas, and dragged them into the marketplace before the rulers.",
+      "understanding": "Here is the real god of Philippi exposed: money. Nobody cared that a girl was tormented; everybody cared that the profit stopped. When the gospel touches income, persecution follows — the same pattern repeats at Ephesus (Acts 19:24-27)."
+    },
+    {
+      "v": 20,
+      "text": "When they had brought them to the magistrates, they said, “These men, being Jews, are agitating our city,",
+      "understanding": "The charge is dressed up in patriotism and prejudice — \"being Jews\" plays on Roman anti-Jewish sentiment. The actual grievance, lost revenue, is never mentioned. Greed always finds a nobler-sounding costume."
+    },
+    {
+      "v": 21,
+      "text": "and advocate customs which it is not lawful for us to accept or to observe, being Romans.”",
+      "understanding": "The accusation is framed as Roman civic loyalty versus foreign religion. The irony is thick: they accuse Roman citizens (v. 37) of being un-Roman, and the court never checks."
+    },
+    {
+      "v": 22,
+      "text": "The multitude rose up together against them, and the magistrates tore their clothes from them, and commanded them to be beaten with rods.",
+      "understanding": "Mob pressure replaces due process. The magistrates strip them and hand them to the lictors' rods — this is one of the three rod-beatings Paul later lists in 2 Corinthians 11:25. No trial, no verdict, just violence."
+    },
+    {
+      "v": 23,
+      "text": "When they had laid many stripes on them, they threw them into prison, charging the jailer to keep them safely,",
+      "understanding": "\"Many stripes\" — their backs are torn open. The jailer receives a charge to keep them \"safely,\" and that professional command will become the doorway to his own salvation before the night is over."
+    },
+    {
+      "v": 24,
+      "text": "who, having received such a command, threw them into the inner prison, and secured their feet in the stocks.",
+      "understanding": "Maximum security: the inner dungeon, feet clamped in stocks that stretched the legs painfully apart. This is the treatment given to two men whose only crime was setting a slave girl free."
+    },
+    {
+      "v": 25,
+      "text": "But about midnight Paul and Silas were praying and singing hymns to God, and the prisoners were listening to them.",
+      "understanding": "Bleeding, sleepless, immobilized — and singing. Not after the earthquake; before it. And the prisoners were listening: worship in the dark is the loudest sermon a suffering believer ever preaches.",
+      "words": [
+        {
+          "strongs": "G5214",
+          "hebrew": "ὑμνέω",
+          "translit": "hymneō",
+          "english": "singing hymns"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "Suddenly there was a great earthquake, so that the foundations of the prison were shaken; and immediately all the doors were opened, and everyone’s bonds were loosened.",
+      "understanding": "God answers midnight praise with seismic power — and notice the reach of it: not just Paul's chains but \"everyone's bonds were loosened.\" When you worship in your prison, other people's chains fall off too."
+    },
+    {
+      "v": 27,
+      "text": "The jailer, being roused out of sleep and seeing the prison doors open, drew his sword and was about to kill himself, supposing that the prisoners had escaped.",
+      "understanding": "Roman law made a jailer answerable with his own life for escaped prisoners (compare Acts 12:19). Facing execution and disgrace, he chooses the sword — the world's answer to unbearable shame is self-destruction."
+    },
+    {
+      "v": 28,
+      "text": "But Paul cried with a loud voice, saying, “Don’t harm yourself, for we are all here!”",
+      "understanding": "The miracle inside the miracle: every prisoner who could have fled stayed. Free men sitting in an open prison — their freedom in chains gives the jailer a reason not to die. The gospel's first word to a man at the end of himself is: don't harm yourself."
+    },
+    {
+      "v": 29,
+      "text": "He called for lights, sprang in, fell down trembling before Paul and Silas,",
+      "understanding": "The man who locked them in the stocks now falls trembling at their feet. The earthquake shook the building, but it was the prisoners' behavior that shook the man."
+    },
+    {
+      "v": 30,
+      "text": "brought them out, and said, “Sirs, what must I do to be saved?”",
+      "understanding": "The question every human being eventually asks, stripped of all pretense. Hours earlier he was the one with the keys; now he knows the real prison was his, and these bleeding men hold the way out.",
+      "words": [
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sōzō",
+          "english": "saved"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "They said, “Believe in the Lord Jesus Christ, and you will be saved, you and your household.”",
+      "understanding": "The whole gospel in one sentence: believe — not perform, not pay, not earn — in the Lord Jesus Christ, and you will be saved. And the promise comes family-sized: \"you and your household.\" God's grace aims at whole houses, not isolated individuals.",
+      "words": [
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oikos",
+          "english": "household"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "text": "They spoke the word of the Lord to him, and to all who were in his house.",
+      "understanding": "Verse 31's promise is not automatic magic — verse 32 shows the mechanism. Each member of the household hears the word of the Lord personally; each one believes (v. 34). The promise creates the preaching, and the preaching creates the faith."
+    },
+    {
+      "v": 33,
+      "text": "He took them the same hour of the night, and washed their stripes, and was immediately baptized, he and all his household.",
+      "understanding": "A double washing in the same hour: the torturer's hands become a nurse's hands as he washes their wounds, and then they wash him in baptism. Repentance is not a feeling — it is a man cleaning the blood his own prison drew."
+    },
+    {
+      "v": 34,
+      "text": "He brought them up into his house, and set food before them, and rejoiced greatly, with all his household, having believed in God.",
+      "understanding": "The jail becomes a house church before sunrise. The man who threw them into the inner prison now sets food before them at his own table, and the sound in the house is rejoicing. Salvation always ends in a shared meal and joy."
+    },
+    {
+      "v": 35,
+      "text": "But when it was day, the magistrates sent the sergeants, saying, “Let those men go.”",
+      "understanding": "Morning comes and the magistrates — perhaps rattled by the earthquake, certainly finished with their mob appeasement — want the problem to quietly disappear. Embarrassed power always prefers a discreet ending."
+    },
+    {
+      "v": 36,
+      "text": "The jailer reported these words to Paul, saying, “The magistrates have sent to let you go; now therefore come out, and go in peace.”",
+      "understanding": "The jailer, now a brother, happily relays what sounds like good news: you are free, go in peace. But Paul is about to show that leaving quietly would abandon the new church to a dangerous legal precedent."
+    },
+    {
+      "v": 37,
+      "text": "But Paul said to them, “They have beaten us publicly, without a trial, men who are Romans, and have cast us into prison! Do they now release us secretly? No, most certainly, but let them come themselves and bring us out!”",
+      "understanding": "Paul finally plays the card he held all night: Roman citizenship. Beating an uncondemned Roman citizen was a grave crime. He demands a public escort — not to salvage his pride, but to put on public record that the gospel and its people broke no law, shielding the infant church at Lydia's house."
+    },
+    {
+      "v": 38,
+      "text": "The sergeants reported these words to the magistrates, and they were afraid when they heard that they were Romans,",
+      "understanding": "Now the magistrates tremble — the same fear that gripped the jailer at midnight grips the judges at daybreak, though theirs is only fear of Rome, not fear of God. They could lose their offices, or worse, for what they did without a trial."
+    },
+    {
+      "v": 39,
+      "text": "and they came and begged them. When they had brought them out, they asked them to depart from the city.",
+      "understanding": "Total reversal: the magistrates who ordered the beating now come in person and beg the men they beat. The chapter that began with a Macedonian begging \"come over\" ends with Roman officials begging \"please leave.\""
+    },
+    {
+      "v": 40,
+      "text": "They went out of the prison, and entered into Lydia’s house. When they had seen the brothers, they encouraged them, and departed.",
+      "understanding": "Notice who does the encouraging: the men with the shredded backs encourage the church, not the other way around. They leave behind them a congregation of firstfruits — a wealthy merchant, a delivered slave girl, a Roman jailer's family — the church Paul will later call his \"joy and crown\" (Philippians 4:1)."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Man of Macedonia",
+      "verseRef": "v. 9",
+      "image": "Paul lies down at Troas with two closed doors behind him and the black water of the Aegean in front of him — the land has literally run out. In the night a figure appears: a Macedonian man, standing, hands outstretched across the sea, begging: \"Come over into Macedonia and help us.\" One man's silhouette carrying the desperation of a whole continent that does not yet know it is desperate.",
+      "meaning": "Europe never sent a missionary request; heaven dramatized a need that no one in Macedonia had ever articulated. The vision reveals how God sees the unreached — not as people uninterested in the gospel, but as people begging for help they cannot name. Every closed door in verses 6–7 was steering Paul to this window."
+    },
+    {
+      "title": "The Opened Heart",
+      "verseRef": "v. 14",
+      "image": "A riverside outside the city walls. A businesswoman in the purple trade sits among praying women, successful, devout, and still locked. As Paul speaks, something no human hand can touch happens behind her eyes — the Lord opens her heart the way a gate is unbarred from the inside, and the words that were bouncing off suddenly go all the way in.",
+      "meaning": "The Greek word is dianoigō — to open thoroughly — the same word Luke uses when the risen Jesus \"opened their minds\" to understand the Scriptures (Luke 24:45). Conversion is not persuasion winning an argument; it is God performing surgery on a heart while a preacher merely speaks. This dismantles all boasting: Lydia's faith, and yours, began with an act of God."
+    },
+    {
+      "title": "Songs in the Inner Dungeon",
+      "verseRef": "v. 25",
+      "image": "Midnight in the inner prison: no light, no air, backs laid open by the rods and pressed against filthy stone, legs wrenched apart in the stocks. And out of that black hole rises — singing. Two voices, hoarse with pain, lifting hymns to God. Down the corridors, hardened prisoners lie awake in the dark, listening to a sound that has never been heard in that building before.",
+      "meaning": "Praise before the earthquake is faith; praise after would merely be gratitude. Paul and Silas worship with zero evidence of rescue, and their song becomes evangelism — \"the prisoners were listening.\" Your midnight worship is never private; captive people are always listening for a sound that proves God is real in the dark."
+    },
+    {
+      "title": "The Sword at His Own Throat",
+      "verseRef": "v. 27-30",
+      "image": "The jailer jolts awake to open doors — the one sight that means his own execution under Roman law. In one motion the sword is out and turned on himself. Then a voice roars out of the darkness: \"Don't harm yourself, for we are all here!\" Torchlight floods the corridor, and the man who fastened the stocks falls trembling at the feet of the men he chained, asking the only question that matters.",
+      "meaning": "In one night the jailer travels from the world's answer to despair — the sword — to God's answer: \"Believe in the Lord Jesus Christ, and you will be saved.\" What arrested him was not the earthquake but the prisoners who refused to escape; integrity in an open prison preached louder than the tremor. The man with the keys discovered he was the real prisoner, and the men in stocks held the way out."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Timothy Joins the Team (v. 1-5)",
+        "body": "At Lystra Paul recruits Timothy, circumcising him for mission-strategy (not salvation), and the churches are strengthened and grow daily."
+      },
+      {
+        "label": "Closed Doors and the Macedonian Call (v. 6-10)",
+        "body": "The Spirit forbids Asia and blocks Bithynia; at Troas a night vision calls the team — now including Luke (\"we\") — across the sea into Europe."
+      },
+      {
+        "label": "Lydia: The First Convert of Europe (v. 11-15)",
+        "body": "At a riverside prayer meeting in Philippi, the Lord opens the heart of a purple-merchant; she is baptized with her household and her home becomes the church's base."
+      },
+      {
+        "label": "The Python Spirit Cast Out (v. 16-18)",
+        "body": "After days of demonic \"endorsement,\" Paul commands the spirit of divination out of an exploited slave girl in the name of Jesus Christ."
+      },
+      {
+        "label": "Beaten and Jailed for Ruining a Business (v. 19-24)",
+        "body": "Her masters, their profit gone, incite mob and magistrates; Paul and Silas are stripped, rod-beaten without trial, and locked in stocks in the inner prison."
+      },
+      {
+        "label": "Midnight Praise, Earthquake, and a Saved Household (v. 25-34)",
+        "body": "Songs at midnight are answered by an earthquake; the suicidal jailer asks the great question and is saved, washed, and baptized with all his house before dawn."
+      },
+      {
+        "label": "Romans After All (v. 35-40)",
+        "body": "Paul invokes his citizenship, forcing the magistrates to escort them out publicly, legally vindicating the newborn church before the team departs from Lydia's house."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Guidance by Closed Doors",
+        "paragraphs": [
+          "Acts 16:6-10 is the Bible's clearest anatomy of divine guidance, and it demolishes the assumption that a blocked path means you heard God wrong. Paul's team is doing everything right — strengthening churches, preaching the word — and the Holy Spirit says no twice. Luke never explains HOW the Spirit forbade them (a prophetic word? circumstances? inner constraint?), because the how is not the point; the point is that the same Spirit who empowers preaching also vetoes itineraries. Asia was not wrong — Paul will spend over two years there later and all Asia will hear the word (Acts 19:10) — it was simply not yet. God's no is almost always a matter of sequence, not rejection.",
+          "Notice also the shape of the guidance: two negatives before one positive. God rarely hands over the full map; He narrows the corridor until only one door remains, and then He opens it decisively — a vision, a team consensus (\"concluding that the Lord had called us\"), and a wind at their backs. The result of this frustrating detour was nothing less than the evangelization of Europe. Every believer must reckon with this: the doors God closes in your life are load-bearing walls of a purpose you cannot yet see."
+        ]
+      },
+      {
+        "heading": "One Gospel, Three Impossible Converts",
+        "paragraphs": [
+          "Luke deliberately lines up the three Philippian conversions to span the entire social order of the Roman world: Lydia, a wealthy Asian businesswoman at the top; a demonized slave girl at the very bottom, owned as equipment; and a working-class Roman jailer in the middle, a functionary of the empire's machinery. A rich woman, a slave, a soldier-type — different genders, ethnicities, classes, and spiritual conditions — and each one reached differently: Lydia's heart is quietly opened during a Bible study; the girl is violently delivered by a command; the jailer is broken open by catastrophe and kindness. One gospel, three doorways. Galatians 3:28 — 'neither Jew nor Greek, slave nor free, male nor female' — was written before Luke published Acts, but Philippi is where you watch it happen in real time. The church that met in Lydia's house was living proof that the Good News crosses every boundary the world builds, and this remains the test of any true church: does it hold together people whom nothing but Jesus could hold together?"
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "This chapter has an entire New Testament book as its sequel: Philippians. Roughly a decade later, Paul — in chains again, this time in Rome — writes back to the church born in this jail cell, and the letter is saturated with the memory of Acts 16. He tells them, \"To you it has been granted on behalf of Christ, not only to believe in him, but also to suffer on his behalf, having the same conflict which you saw in me\" (Philippians 1:29-30) — 'which you saw in me' points straight back to the rods, the stocks, and the inner prison of this chapter. And the man who sang hymns at midnight with a torn back commands them from another prison: \"Rejoice in the Lord always! Again I will say, 'Rejoice!'\" (Philippians 4:4). That command is not theory — the Philippians heard it from the only man alive who had demonstrated it in their own town jail. Even Lydia's generosity echoes forward: Philippi became the one church Paul allowed to support him financially again and again (Philippians 4:15-16), the fruit of a heart the Lord opened by a riverside."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Forbidden",
+      "hebrew": "κωλύω",
+      "translit": "kōlyō",
+      "strongs": "G2967",
+      "verses": "v. 6",
+      "insight": "Kōlyō means to prevent, hinder, restrain — literally to cut off from something. Luke uses this blunt word for what the Holy Spirit did to Paul's preaching plans: He estopped them. This shatters the idea that the Spirit only ever says yes; the same Spirit who fills your mouth also, at times, shuts a door in your face — and both are guidance. In Acts, the Spirit's 'no' to Asia was the first step of the gospel's 'yes' to Europe."
+    },
+    {
+      "english": "Opened",
+      "hebrew": "διανοίγω",
+      "translit": "dianoigō",
+      "strongs": "G1272",
+      "verses": "v. 14",
+      "insight": "Dianoigō means to open thoroughly, all the way through — used of opening a womb, opening blind eyes, and by Luke of the risen Jesus opening the disciples' minds to understand the Scriptures (Luke 24:45). Lydia's conversion is described with this word: Paul supplied the speaking, but the Lord performed the opening. Salvation is not a sales close; it is a sovereign unlocking. Every time you understand the Word and it burns in you, dianoigō has happened again."
+    },
+    {
+      "english": "Divination",
+      "hebrew": "Πύθων",
+      "translit": "Pythōn",
+      "strongs": "G4436",
+      "verses": "v. 16",
+      "insight": "Pythōn names the serpent-spirit of the famous oracle at Delphi — in Greek religion, the python spirit spoke through entranced mediums, and Rome paid handsomely for its predictions. Luke is telling you this girl's power was neither fake nor harmless: a real spirit spoke real information and generated real money. The gospel's collision with her is a collision of kingdoms — and one sentence spoken in the name of Jesus Christ ended what all of Greek religion had enthroned for centuries."
+    },
+    {
+      "english": "Singing hymns",
+      "hebrew": "ὑμνέω",
+      "translit": "hymneō",
+      "strongs": "G5214",
+      "verses": "v. 25",
+      "insight": "Hymneō means to sing a religious ode, to celebrate God in song — the same word used of Jesus and the disciples singing after the Last Supper before Gethsemane (Matthew 26:30). It is celebration vocabulary, and Luke deliberately places it in the least celebratory location in Philippi: the inner dungeon, at midnight, from torn backs. Hymneō in the stocks is the Bible's definition of faith with a melody — praise offered on the basis of who God is, not what the circumstances are."
+    },
+    {
+      "english": "Saved",
+      "hebrew": "σώζω",
+      "translit": "sōzō",
+      "strongs": "G4982",
+      "verses": "v. 30-31",
+      "insight": "Sōzō means to save, deliver, protect, make whole — rescue in the fullest sense, body and soul. The jailer asks, \"What must I do to be sōzō'd?\" and the answer strips away every 'do': believe in the Lord Jesus Christ, and you WILL be saved. The verb is passive in force — salvation is something done to you and for you, not by you. And its reach in this verse is stunning: 'you and your household' — sōzō comes looking for whole families."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with how you interpret closed doors, and what comes out of your mouth at midnight.",
+    "items": [
+      {
+        "title": "When the Spirit Says No",
+        "body": "Paul was forbidden to preach — by the Holy Spirit. Sit with how strange that is: the Spirit blocked a good, godly plan, twice, without explanation. Have you been treating every closed door in your life as the devil's opposition or as evidence that you misheard God? Some of your closed doors are the Spirit's steering. The question the Spirit asks you through Troas is this: when your plans die, do you camp at the closed door demanding it open, or do you keep moving until the vision comes? Would you recognize your Macedonia if the road to your Asia had to be blocked first?"
+      },
+      {
+        "title": "The Midnight Test",
+        "body": "Midnight in the inner prison is where your real theology comes out. Anyone can sing on the shore with Lydia; what came out of Paul and Silas when their backs were shredded and their feet were in stocks was prayer and praise — because that is what was in them. Squeeze a sponge and you find out what it has been soaking in. What comes out of you at midnight — when the diagnosis lands, when the money fails, when the injustice wins the first round? Complaint is natural; worship at midnight is supernatural, and it is learned in advance. If your midnight came tonight, what song would you actually know well enough to sing in the dark? And who is in the cells around you, listening?"
+      },
+      {
+        "title": "Truth from the Wrong Spirit",
+        "body": "The python girl said nothing false — 'servants of the Most High God... a way of salvation' — and Paul still shut it down, because the source was demonic and the endorsement was a leash. The Spirit is sharpening your discernment: not everything that sounds spiritual, quotes truth, or promotes you comes from God. Flattery can be a chain; publicity can be a python. Do you test the spirit behind the voice, or only the accuracy of the words? Is there any 'endorsement' in your life — a connection, a platform, an income stream — that speaks well of you but is quietly attaching you to something unclean?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Closed Door Audit",
+        "body": "Name the door that has closed in your life that you are still pounding on. Have you ever asked whether the Holy Spirit Himself closed it — and what Troas He might be walking you toward? Are you willing to thank God for the last three doors that did NOT open?"
+      },
+      {
+        "title": "The Midnight Playlist Check",
+        "body": "Review your last painful season honestly: what came out of your mouth — prayer and praise, or complaint and blame? If the people 'in the cells around you' (your family, your coworkers, your friends) judged your God only by the sounds you make under pressure, what would they conclude He is worth?"
+      },
+      {
+        "title": "The Household Question",
+        "body": "The promise was 'you and your household' — and then the word was spoken to all in his house. Who in your household has never actually heard the word of the Lord from your mouth? Are you believing for your family's salvation while staying silent at your own table?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Singing Before the Breakthrough",
+        "body": "Choose the hardest, most unresolved situation in your life right now. Tonight — literally before you sleep — spend 15 minutes doing what Paul and Silas did: pray, then sing to God about who He is, out loud, with the problem still fully unsolved. No earthquake is required for the worship; the worship precedes the earthquake. Do this every night this week and write down what shifts, first in you, then around you."
+      },
+      {
+        "title": "Naming Your Macedonia",
+        "body": "Take 10 minutes with a journal and ask: 'Lord, who is my man of Macedonia?' Write down one person or group whose unspoken cry is 'come over and help us' — a family member, a friend in crisis, a neighbor. Then do what the team did in verse 10: immediately — within 48 hours — take one concrete step toward them: a call, a visit, an invitation, a spoken word about Jesus. Guidance obeyed immediately is how continents get reached."
+      }
+    ]
+  },
+  "prayerReflection": "\"Lord Jesus, I thank You for every door You have ever closed in my face. Forgive me for pounding on doors Your Spirit shut in love, and give me the grace to walk on to my Troas and wait for the vision. Open my ears to the Macedonian cry around me — the people begging for help they cannot name — and make me quick to go, concluding without delay that You have called me. Lord, do for the people I love what You did for Lydia: I cannot open a single heart, so open the hearts of my household to listen to Your word, and let my house become a house of Your presence. Give me discernment to silence every python voice — every flattering, profitable, spiritual-sounding thing that is not from You. And teach me to sing at midnight. When my back is torn and my feet are in the stocks and nothing has changed yet, put prayer and praise in my mouth, because the prisoners around me are listening. Shake foundations, loosen every chain, and save whole households — mine first. I believe in the Lord Jesus Christ, and I will be saved — I and my household. In the mighty name of Jesus, Amen!\"",
+  "storyConnections": [
+    {
+      "title": "Jehoshaphat's Singers Go First",
+      "ref": "2 Chronicles 20:1-30",
+      "relatedVerses": "v. 25-26",
+      "summary": "Facing an unbeatable coalition of armies, King Jehoshaphat received a strange battle plan: he appointed singers to march AHEAD of the army, praising the beauty of holiness and singing 'Give thanks to Yahweh, for his loving kindness endures forever.' As they began to sing and to praise, Yahweh set ambushes against the enemy, and the invaders destroyed each other before Judah ever drew a sword. Paul and Silas fought the same way in the Philippian dungeon: the singing came first, and the earthquake followed. In both stories, praise is not the celebration after the victory — praise IS the weapon that wins it."
+    },
+    {
+      "title": "Joseph: The Prison That Was a Doorway",
+      "ref": "Genesis 39-41",
+      "relatedVerses": "v. 23-24, 33-34",
+      "summary": "Joseph was thrown into prison on false charges after refusing sin — innocent, beaten down by injustice, and forgotten. But 'Yahweh was with Joseph' in the prison itself, gave him favor with the keeper, and used that very dungeon as the corridor to Pharaoh's throne and the saving of nations. Paul and Silas walked the same corridor in Philippi: unjustly beaten, wrongly jailed, yet God was so present in their cell that the prison became the birthplace of a church and the salvation of the very man who guarded it. When God's people are locked up unjustly, the prison stops being a dead end and becomes a delivery room."
+    },
+    {
+      "title": "Peter: The Church Prays a Prisoner Free",
+      "ref": "Acts 12:5-17",
+      "relatedVerses": "v. 25-26, 40",
+      "summary": "Just four chapters earlier in this same book, Peter sat chained between two soldiers awaiting execution, while the church prayed constantly for him. In the night an angel came, his chains fell off his hands, and iron gates opened by themselves — and Peter went straight to the house where believers were gathered praying. Acts 16 repeats the pattern with a twist: this time the prayer and praise rise from INSIDE the cell, the chains of every prisoner fall, and the freed men again end the story in a house of believers — Lydia's. Luke is teaching one unmissable lesson twice: no prison built by man can hold a purpose guarded by God, and prayer is the key that fits every lock."
+    }
+  ]
+}

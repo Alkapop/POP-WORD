@@ -1,0 +1,814 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Corinthians",
+  "chapter": 6,
+  "chapterTitle": "Open Wide Your Hearts — The Day of Salvation, the Nine Paradoxes, and the Yoke That Pulls Crooked",
+  "themeTitle": "“The Blockage Was Never on His Side”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Working together, we entreat also that you do not receive the grace of God in vain,",
+      "understanding": "There is no chapter break in what Paul wrote. This sentence runs straight out of “we beg you on behalf of Christ, be reconciled to God” (5:20) — and “working together,” synergeō, has no stated partner because the previous verse already named Him: God makes His appeal through Paul. Then the appeal turns and lands on the church itself. Notice the danger he names. Not that they might lose the grace of God, but that they might receive it “in vain” — eis kenon, into an empty place. Grace can arrive in a life, find nothing to fill, and run straight back out.",
+      "words": [
+        {
+          "strongs": "G4903",
+          "hebrew": "συνεργέω",
+          "translit": "synergéō",
+          "english": "working together"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "entreat"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2756",
+          "hebrew": "κενός",
+          "translit": "kenós",
+          "english": "in vain (lit. empty)"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "for he says,\n“At an acceptable time I listened to you,\nin a day of salvation I helped you.”\nBehold, now is the acceptable time. Behold, now is the day of salvation.",
+      "understanding": "Paul reaches for Isaiah 49:8 — and the context is everything. That is God's answer to the Servant who has just said, in 49:4, that he has laboured in vain and spent his strength for nothing. So the man who is afraid he has laboured over Corinth for nothing quotes the passage where God answers exactly that fear. Then watch what he does with the words. The quotation says the time was dektos, “approved, acceptable”; when Paul applies it he swaps in a stronger compound — euprosdektos, thoroughly well-received — and he stamps it twice with idou, “Behold!”, and twice with nyn: now. The window God opened in Isaiah's prophecy is standing open over your head at this moment.",
+      "words": [
+        {
+          "strongs": "G1184",
+          "hebrew": "δεκτός",
+          "translit": "dektós",
+          "english": "acceptable (in the quotation)"
+        },
+        {
+          "strongs": "G2144",
+          "hebrew": "εὐπρόσδεκτος",
+          "translit": "euprósdektos",
+          "english": "acceptable (in Paul's application)"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        },
+        {
+          "strongs": "G2400",
+          "hebrew": "ἰδού",
+          "translit": "idoú",
+          "english": "behold"
+        },
+        {
+          "strongs": "G3568",
+          "hebrew": "νῦν",
+          "translit": "nŷn",
+          "english": "now"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "We give no occasion of stumbling in anything, that our service may not be blamed,",
+      "understanding": "Proskopē is the loose stone in the road that trips a traveller. Paul is not protecting his reputation here — read the purpose clause: “that our service may not be blamed.” The diakonia, the ministry itself, is what he is guarding. He will let them say anything they like about him personally; what he will not do is hand the accusation a legitimate handhold on the message.",
+      "words": [
+        {
+          "strongs": "G4349",
+          "hebrew": "προσκοπή",
+          "translit": "proskopḗ",
+          "english": "occasion of stumbling"
+        },
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "service"
+        },
+        {
+          "strongs": "G3469",
+          "hebrew": "μωμάομαι",
+          "translit": "mōmáomai",
+          "english": "blamed"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "but in everything commending ourselves, as servants of God, in great endurance, in afflictions, in hardships, in distresses,",
+      "understanding": "Now the credentials — and synistaō, “commending,” is the root behind the “letters of commendation” his rivals carried into town (3:1). So Paul writes his own letter, and it is an itemised bill. It opens with hypomonē, which is not patience in the sense of waiting quietly; it is remaining under a weight without moving. Then three triads of three begin. Triad one is what life does to you: thlipsis (pressure), anankē (being forced into a corner with no choice left), stenochōria (narrowness — a place with no room to turn around).",
+      "words": [
+        {
+          "strongs": "G4921",
+          "hebrew": "συνιστάω",
+          "translit": "synistáō",
+          "english": "commending"
+        },
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "endurance"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "afflictions"
+        },
+        {
+          "strongs": "G318",
+          "hebrew": "ἀνάγκη",
+          "translit": "anánkē",
+          "english": "hardships"
+        },
+        {
+          "strongs": "G4730",
+          "hebrew": "στενοχωρία",
+          "translit": "stenochōría",
+          "english": "distresses"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "in beatings, in imprisonments, in riots, in labors, in watchings, in fastings;",
+      "understanding": "Triad two is what people do to you: beatings (plēgē, the blow, the open stripe), imprisonments, riots. Triad three is what you do to yourself for the sake of the work: labours (kopos, toil that reduces a man's strength), watchings (agrypnia, sleeplessness — nights on the road, nights praying, nights cutting leather to avoid taking their money), fastings. Nine items in all. Not one of them would have impressed a Corinthian.",
+      "words": [
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "beatings"
+        },
+        {
+          "strongs": "G5438",
+          "hebrew": "φυλακή",
+          "translit": "phylakḗ",
+          "english": "imprisonments"
+        },
+        {
+          "strongs": "G181",
+          "hebrew": "ἀκαταστασία",
+          "translit": "akatastasía",
+          "english": "riots"
+        },
+        {
+          "strongs": "G2873",
+          "hebrew": "κόπος",
+          "translit": "kópos",
+          "english": "labors"
+        },
+        {
+          "strongs": "G70",
+          "hebrew": "ἀγρυπνία",
+          "translit": "agrypnía",
+          "english": "watchings"
+        },
+        {
+          "strongs": "G3521",
+          "hebrew": "νηστεία",
+          "translit": "nēsteía",
+          "english": "fastings"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "in pureness, in knowledge, in perseverance, in kindness, in the Holy Spirit, in sincere love,",
+      "understanding": "The list turns without warning. Having named what he endures, Paul names what he brings — and every item is character, not competence. Purity, knowledge, makrothymia (a long temper, a slow fuse with people), kindness. Then, planted in the middle of a list of virtues, a Person: “in the Holy Spirit.” And love that is anypokritos — literally un-play-acted, without the mask an actor held over his face on the Greek stage.",
+      "words": [
+        {
+          "strongs": "G54",
+          "hebrew": "ἁγνότης",
+          "translit": "hagnótēs",
+          "english": "pureness"
+        },
+        {
+          "strongs": "G3115",
+          "hebrew": "μακροθυμία",
+          "translit": "makrothymía",
+          "english": "perseverance"
+        },
+        {
+          "strongs": "G5544",
+          "hebrew": "χρηστότης",
+          "translit": "chrēstótēs",
+          "english": "kindness"
+        },
+        {
+          "strongs": "G505",
+          "hebrew": "ἀνυπόκριτος",
+          "translit": "anypókritos",
+          "english": "sincere"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "in the word of truth, in the power of God; by the armor of righteousness on the right hand and on the left,",
+      "understanding": "The word of truth and the power of God — message and demonstration, never one without the other. Then the picture: hopla, weapons, “of righteousness on the right hand and on the left.” The right hand carried the sword, the left arm carried the shield. Righteousness arms him for attack and for defence at the same moment — and the very next verse tells you what is coming at him from each side.",
+      "words": [
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G3696",
+          "hebrew": "ὅπλον",
+          "translit": "hóplon",
+          "english": "armor"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G710",
+          "hebrew": "ἀριστερός",
+          "translit": "aristerós",
+          "english": "left"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "by glory and dishonor, by evil report and good report; as deceivers, and yet true;",
+      "understanding": "Two contrasts drawn with “by”: glory and dishonour, good report and bad. A man can be destroyed by either. Then the great series begins — seven pairs, each one “as… and yet.” The first is the sharpest: “as deceivers, and yet true.” That was an actual charge against him, and he throws it back at them in 12:16 — “being crafty, I caught you with deception.” Paul does not deny that this is how he looks. He simply refuses to let how it looks be the verdict.",
+      "words": [
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G819",
+          "hebrew": "ἀτιμία",
+          "translit": "atimía",
+          "english": "dishonor"
+        },
+        {
+          "strongs": "G1426",
+          "hebrew": "δυσφημία",
+          "translit": "dysphēmía",
+          "english": "evil report"
+        },
+        {
+          "strongs": "G2162",
+          "hebrew": "εὐφημία",
+          "translit": "euphēmía",
+          "english": "good report"
+        },
+        {
+          "strongs": "G4108",
+          "hebrew": "πλάνος",
+          "translit": "plános",
+          "english": "deceivers"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "as unknown, and yet well known; as dying, and behold, we live; as punished, and not killed;",
+      "understanding": "“As unknown, and yet well known” — nobody in the empire had heard of him; God knew him by name. “As dying, and behold, we live” — there is idou again, the same “Behold” as verse 2, now aimed at a grave that keeps failing to close. And “as punished, and not killed” is precision: paideuō is what a father does to a son, training by discipline, not what an executioner does. It is the language of Psalm 118:18, where the LORD chastens severely and refuses to hand the man over to death. Whatever is happening to you, if you are in Christ it is training, and it is not terminal.",
+      "words": [
+        {
+          "strongs": "G50",
+          "hebrew": "ἀγνοέω",
+          "translit": "agnoéō",
+          "english": "unknown"
+        },
+        {
+          "strongs": "G1921",
+          "hebrew": "ἐπιγινώσκω",
+          "translit": "epiginṓskō",
+          "english": "well known"
+        },
+        {
+          "strongs": "G3811",
+          "hebrew": "παιδεύω",
+          "translit": "paideúō",
+          "english": "punished (as a father disciplines)"
+        },
+        {
+          "strongs": "G2289",
+          "hebrew": "θανατόω",
+          "translit": "thanatóō",
+          "english": "killed"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.",
+      "understanding": "The last three pairs, and each one gets larger than the one before. “Sorrowful, yet always rejoicing” — read the word always; the joy is not taking turns with the grief, it is running underneath it the whole time. “Poor, yet making many rich” — ptōchos is the crouching beggar's word, not modest means. And then the sentence that ends the argument: “as having nothing, and yet possessing all things.” Katechō means to hold down fast, to hold in firm grip. The man who owns nothing has everything in his hands.",
+      "words": [
+        {
+          "strongs": "G3076",
+          "hebrew": "λυπέω",
+          "translit": "lypéō",
+          "english": "sorrowful"
+        },
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoicing"
+        },
+        {
+          "strongs": "G4434",
+          "hebrew": "πτωχός",
+          "translit": "ptōchós",
+          "english": "poor"
+        },
+        {
+          "strongs": "G4148",
+          "hebrew": "πλουτίζω",
+          "translit": "ploutízō",
+          "english": "making rich"
+        },
+        {
+          "strongs": "G2722",
+          "hebrew": "κατέχω",
+          "translit": "katéchō",
+          "english": "possessing"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Our mouth is open to you, Corinthians. Our heart is enlarged.",
+      "understanding": "The argument stops mid-stride and the voice changes completely. He says their name — “Corinthians” — the only time in the letter he does it, the way you use somebody's name when you are finally about to say the real thing. “Our mouth is open to you”: nothing withheld, nothing diplomatic. “Our heart is enlarged” is peplatyntai, perfect tense — widened, and standing wide open still. Whatever they have accused him of, narrowness is not available to them.",
+      "words": [
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G4115",
+          "hebrew": "πλατύνω",
+          "translit": "platýnō",
+          "english": "enlarged"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "You are not restricted by us, but you are restricted by your own affections.",
+      "understanding": "Here is the diagnosis, and the wordplay carries it. Paul has just described his own life as full of stenochōria — narrow places (v.4). Now he uses the verb form of that same word on them: you are not stenochōreisthe, cramped, hemmed into a tight space, by us. You are cramped in your own splanchna — the guts, the inward organs where the ancient world located feeling. The man whose life has no room in it is telling the comfortable church that they are the ones with no room, and that they did it to themselves.",
+      "words": [
+        {
+          "strongs": "G4729",
+          "hebrew": "στενοχωρέω",
+          "translit": "stenochōréō",
+          "english": "restricted"
+        },
+        {
+          "strongs": "G4698",
+          "hebrew": "σπλάγχνον",
+          "translit": "splánchnon",
+          "english": "affections (lit. bowels)"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Now in return, I speak as to my children, you also open your hearts.",
+      "understanding": "Antimisthia is a payment in kind, an exchange of like for like — he is asking for one thing back, and only one. “I speak as to my children”: he is not their rival teacher, he is their father, and he had already told them so (1 Corinthians 4:15). Then the command, and it is the same verb as verse 11 — platynthēte, be widened — in the passive: let yourselves be opened. He does not ask them to agree with him, or to admire him, or to give him money. He asks them to stop being narrow.",
+      "words": [
+        {
+          "strongs": "G489",
+          "hebrew": "ἀντιμισθία",
+          "translit": "antimisthía",
+          "english": "in return"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G4115",
+          "hebrew": "πλατύνω",
+          "translit": "platýnō",
+          "english": "open (be widened)"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Don’t be unequally yoked with unbelievers, for what fellowship have righteousness and iniquity? Or what fellowship has light with darkness?",
+      "understanding": "Heterozygeō is built from heteros, “of a different kind,” and zygos, the wooden yoke-beam — and it occurs nowhere else in the Greek Bible. Behind it stands the law of Deuteronomy 22:10: you shall not plough with an ox and a donkey together. Then the first two of five questions, and the nouns are precise. Metochē is having a share in common; koinōnia is partnership, the word for a business venture and for the fellowship of the church. He is not asking whether righteousness may speak to lawlessness. He is asking what they can jointly own.",
+      "words": [
+        {
+          "strongs": "G2086",
+          "hebrew": "ἑτεροζυγέω",
+          "translit": "heterozygéō",
+          "english": "unequally yoked"
+        },
+        {
+          "strongs": "G2218",
+          "hebrew": "ζυγός",
+          "translit": "zygós",
+          "english": "yoke (the root behind it)"
+        },
+        {
+          "strongs": "G571",
+          "hebrew": "ἄπιστος",
+          "translit": "ápistos",
+          "english": "unbelievers"
+        },
+        {
+          "strongs": "G3352",
+          "hebrew": "μετοχή",
+          "translit": "metochḗ",
+          "english": "fellowship"
+        },
+        {
+          "strongs": "G458",
+          "hebrew": "ἀνομία",
+          "translit": "anomía",
+          "english": "iniquity"
+        },
+        {
+          "strongs": "G2842",
+          "hebrew": "κοινωνία",
+          "translit": "koinōnía",
+          "english": "fellowship (partnership)"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "What agreement has Christ with Belial? Or what portion has a believer with an unbeliever?",
+      "understanding": "Symphōnēsis is literally a sounding-together — our word symphony — the question of whether two instruments can be played in the same key. And Belial is a Hebrew word, beliya'al, “worthlessness,” which by Paul's day had hardened into a proper name for Satan in Jewish writing; this is its only appearance in the entire New Testament. Then meris: a portion, a share of an inheritance or an estate. Not “may a believer speak to an unbeliever,” but “what estate can the two of them hold jointly.”",
+      "words": [
+        {
+          "strongs": "G4857",
+          "hebrew": "συμφώνησις",
+          "translit": "symphṓnēsis",
+          "english": "agreement"
+        },
+        {
+          "strongs": "G955",
+          "hebrew": "Βελίαλ",
+          "translit": "Belíal",
+          "english": "Belial"
+        },
+        {
+          "strongs": "G3310",
+          "hebrew": "μερίς",
+          "translit": "merís",
+          "english": "portion"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "What agreement has a temple of God with idols? For you are a temple of the living God. Even as God said, “I will dwell in them, and walk in them; and I will be their God, and they will be my people.”",
+      "understanding": "The fifth question, and the word is naos — not hieron, the temple complex with its courts and stalls, but the inner shrine, the room where God actually lives. Then the turn from question to declaration: you ARE that room. (The manuscripts divide here between “we are” and “you are”; the point stands either way.) And the quotation is a weld of Leviticus 26:11-12 and Ezekiel 37:27. Read the two verbs God uses of Himself: enoikeō, to take up residence, and emperipateō, to walk about among. He does not visit the sanctuary. He lives in it and moves around inside it.",
+      "words": [
+        {
+          "strongs": "G4783",
+          "hebrew": "συγκατάθεσις",
+          "translit": "synkatáthesis",
+          "english": "agreement"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple (inner shrine)"
+        },
+        {
+          "strongs": "G1497",
+          "hebrew": "εἴδωλον",
+          "translit": "eídōlon",
+          "english": "idols"
+        },
+        {
+          "strongs": "G1774",
+          "hebrew": "ἐνοικέω",
+          "translit": "enoikéō",
+          "english": "I will dwell in"
+        },
+        {
+          "strongs": "G1704",
+          "hebrew": "ἐμπεριπατέω",
+          "translit": "emperipatéō",
+          "english": "walk in"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Therefore\n“‘Come out from among them,\nand be separate,’ says the Lord.\n‘Touch no unclean thing.\nI will receive you.",
+      "understanding": "The call comes from Isaiah 52:11, and its original setting decides its meaning: that is the summons to the exiles to walk out of Babylon carrying the vessels of the temple, told to be clean because of what is in their hands. It was never “avoid contact with foreigners” — they had lived among Babylonians for seventy years. It was “stop living in Babylon's house.” And notice how the sentence ends — with a clause Isaiah never wrote. Paul splices on Ezekiel 20:34, God's promise to bring the exiles out from the peoples and gather them in: eisdechomai, I will take you into my favour. The command to come out is answered, in the same breath, by a promise to be taken in.",
+      "words": [
+        {
+          "strongs": "G1831",
+          "hebrew": "ἐξέρχομαι",
+          "translit": "exérchomai",
+          "english": "come out"
+        },
+        {
+          "strongs": "G873",
+          "hebrew": "ἀφορίζω",
+          "translit": "aphorízō",
+          "english": "be separate"
+        },
+        {
+          "strongs": "G680",
+          "hebrew": "ἅπτομαι",
+          "translit": "háptomai",
+          "english": "touch"
+        },
+        {
+          "strongs": "G169",
+          "hebrew": "ἀκάθαρτος",
+          "translit": "akáthartos",
+          "english": "unclean"
+        },
+        {
+          "strongs": "G1523",
+          "hebrew": "εἰσδέχομαι",
+          "translit": "eisdéchomai",
+          "english": "I will receive"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "I will be to you a Father.\nYou will be to me sons and daughters,’\nsays the Lord Almighty.”",
+      "understanding": "Now the reward is named, and it is not safety, reputation, or moral superiority. It is a Father. The line is lifted from the covenant God cut with David about his son — I will be his father, and he will be my son — and Paul does two things to it: he opens it to everyone, and he adds daughters — a word 2 Samuel never had, drawn in from Isaiah 43:6, where God calls for His sons from far away and His daughters from the ends of the earth. “The Lord Almighty” is pantokratōr, the Greek Old Testament's word for “Yahweh of Armies,” and in the New Testament it appears only here and in the book of Revelation. The One who commands the armies of heaven signs off on a sentence about being somebody's Dad.",
+      "words": [
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "sons"
+        },
+        {
+          "strongs": "G2364",
+          "hebrew": "θυγάτηρ",
+          "translit": "thygátēr",
+          "english": "daughters"
+        },
+        {
+          "strongs": "G3841",
+          "hebrew": "παντοκράτωρ",
+          "translit": "pantokrátōr",
+          "english": "Almighty"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Behold, Now — The Door That Is Standing Open",
+      "verseRef": "v. 1-2",
+      "image": "A door in a wall, and light already lying on the flagstones in front of it. Not a door that will open one day when you are ready, when the shame has worn off, when the season changes. It is open now, and a man is standing in the street shouting one word at you twice: Behold. Behold. Idou is the word you shout at somebody who is looking in the wrong direction — and Paul is not shouting it at pagans in a marketplace. He is shouting it at a church that has the doctrine, the gifts, the meetings, the arguments about which teacher is best, and a stack of unspent grace lying in the corner where it fell.",
+      "meaning": "Kenos means empty. To receive the grace of God “in vain” is not to have it taken back; it is to have it arrive in a life, find nothing to fill, and run out the other side. That is a danger for people who already believe — Paul was writing to a congregation he had personally founded. And the “now” he presses is borrowed from Isaiah 49:8, where God answers a Servant who has just said he laboured for nothing. Every time this verse is read at the end of a service to persuade a stranger to come forward it is being used well, but it was aimed first at the row of believers who have been sitting there for years. The acceptable time is not a future appointment. It is this evening, at this desk, with this open page."
+    },
+    {
+      "title": "Armed on the Right Hand and on the Left",
+      "verseRef": "v. 7-8",
+      "image": "A soldier alone in an open field, sword in his right hand, shield strapped to his left arm — and the attack is coming from both sides at once. From the left comes dishonour: his name in other men's mouths, the sentence that had already reached him in Corinth — “his bodily presence is weak, and his speech is despised” (10:10). From the right comes glory: a crowd calling him great, letters of praise, people telling him nobody teaches like he does. He turns to parry the slander and takes the flattery in his exposed side. So Paul says the armour is not strapped across his chest. It is on the right hand and on the left, and it is made of one material — righteousness.",
+      "meaning": "Almost every believer prepares for the attack from the left and walks into the one from the right with his guard down. Praise has buried more ministries than slander ever did, because slander drives a man to God and applause persuades him he has arrived. Paul refuses both readings of himself. “By glory and dishonour, by evil report and good report” — he takes them as weather, not as verdicts. Which is why the paradoxes can follow: he has already decided that what men call him is not what he is."
+    },
+    {
+      "title": "The Open Mouth and the Cramped Heart",
+      "verseRef": "v. 11-13",
+      "image": "Two rooms joined by a single door. In Paul's room the door stands wide open — his mouth open, his heart pushed out to its full width like a tent staked to the last peg, and the man himself standing in the doorway with everything he owns in his hands, bleeding from the list in verses 4 and 5. In the other room the Corinthians have not locked their door. They have simply stacked furniture against it: the grievance, the comparison, the new teachers' flattery, the memory of the letter that made them cry. And here is the cruelty of it — they are sitting behind the barricade complaining that Paul is distant.",
+      "meaning": "Paul's word choice makes the diagnosis unanswerable. In verse 4 he lists stenochōria among his sufferings — narrowness, a space with no room to turn. In verse 12 he turns the verb of that same word on them: you are not being cramped by us, you are cramped in your own splanchna, your own guts. The man with no room in his life is telling the comfortable church that they are the ones living in a narrow place. And that is the single most useful sentence in this chapter for anyone who feels God has gone quiet, because it relocates the pinch. The tap at heaven's end is fully open. Check the pipe on your side."
+    },
+    {
+      "title": "The Ox and the Donkey in One Yoke",
+      "verseRef": "v. 14-16",
+      "image": "Dawn on a Judean hillside. The farmer carries out the yoke — one beam, two collars — and puts an ox under one end and a donkey under the other. The ox is heavy, slow, enormously strong. The donkey is light, quick, stubborn. The moment the plough bites, the trouble begins: the donkey lunges ahead and is snapped back by the beam; the ox leans into the load and drags his partner sideways off his feet. Wood grinds on both necks. And behind them the furrow that was supposed to run straight down the field comes out crawling like a snake. By noon the crop line is ruined and both animals are raw under the wood.",
+      "meaning": "The law behind the word is Deuteronomy 22:10 — do not plough with an ox and a donkey together — and heterozygeō, which Paul appears to have coined, means exactly that: to be yoked with a different kind. Notice three things the picture insists on. A yoke is not a conversation; it is a binding arrangement in which two parties are locked to one beam and can no longer move independently. The damage is not moral contamination but direction — the furrow goes crooked. And both animals suffer; the ox is not superior to the donkey, he is simply built for a different pull. Then Paul names what you actually are: not a moral achiever with a clean record to protect, but a naos — the inner room of a sanctuary with the living God walking about inside it. That is why the yoke matters. It is not about your standards. It is about who is already living in the house."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Appeal: Do Not Let Grace Land in an Empty Place (v. 1-2)",
+        "body": "Paul's plea from 5:20 runs on without a break — receive this grace so that it actually lands, because Isaiah's promised “acceptable time” is standing open over you today."
+      },
+      {
+        "label": "The Credentials, Part One — What He Endures (v. 3-5)",
+        "body": "Instead of letters of commendation he offers nine hardships in three triads: what life does to him, what people do to him, and what he does to himself for the sake of the work."
+      },
+      {
+        "label": "The Credentials, Part Two — What He Brings (v. 6-7a)",
+        "body": "Purity, knowledge, long temper, kindness, the Holy Spirit Himself, unmasked love, the word of truth, and the power of God — every item is character or God, and not one is talent."
+      },
+      {
+        "label": "The Credentials, Part Three — The Nine Paradoxes (v. 7b-10)",
+        "body": "Armed on both flanks against praise and slander, Paul sets what men see against what is actually true, ending not at survival but at ownership: having nothing, and possessing all things."
+      },
+      {
+        "label": "The Sudden Tenderness: The Blockage Was Never on His Side (v. 11-13)",
+        "body": "He says their name, tells them his heart is standing wide open, and locates the restriction exactly where it is — in their own affections — then asks for one thing in return."
+      },
+      {
+        "label": "The Yoke and the Sanctuary (v. 14-16a)",
+        "body": "Five rhetorical questions dismantle the idea that a believer can be bound in covenant partnership with what is opposed to Christ, because of what a believer now is: the room where God lives."
+      },
+      {
+        "label": "The Promises: Come Out, and I Will Be a Father to You (v. 16b-18)",
+        "body": "A weld of Leviticus, Ezekiel, Isaiah and God's covenant with David — I will dwell in them, come out and be separate, I will receive you, I will be to you a Father — and the reward at the end of the separation is not safety but family."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Grace That Lands in an Empty Place",
+        "paragraphs": [
+          "The chapter division here is a medieval convenience and it hides the sentence. Paul has just written, “We are therefore ambassadors on behalf of Christ, as though God were entreating by us: we beg you on behalf of Christ, be reconciled to God” (5:20). Verse 1 continues in the same breath: “Working together, we entreat also that you do not receive the grace of God in vain.” Synergeō has no stated partner because the partner was named a sentence earlier — God makes His appeal through this man. And now the appeal, which has just been aimed at the world, swings round and lands on the church itself.",
+          "Say the hard thing about eis kenon. Kenos means empty, and the phrase means “into emptiness.” Paul is not saying that grace can be revoked; he is saying that grace can be received and produce nothing — that a man can genuinely take hold of the mercy of God and then live a life in which nothing whatsoever is different. Grace lands, finds no soil, and runs off. That is written to believers, by their own father in the faith, in a letter where he later tells them to examine themselves as to whether they are in the faith at all (13:5). It is not a threat designed to make you insecure. It is a warning that you can hold the most valuable thing in the universe loosely enough to drop it.",
+          "Then the “now,” and the source of it is the most moving thing in the paragraph. Isaiah 49 is a Servant Song, and in 49:4 the Servant says he has laboured in vain and spent his strength for nothing. God's answer in 49:8 is the line Paul quotes: at an acceptable time I listened to you, in a day of salvation I helped you. So the apostle who is terrified that he has laboured over Corinth for nothing reaches for the one passage in Scripture where God answers a servant with exactly that fear. And he does not quote it flatly. The Greek Old Testament calls the time dektos, approved; Paul, applying it, upgrades the word to euprosdektos — thoroughly welcome, well-received — and hammers it with idou twice and nyn twice. Behold, now. Behold, now. There is a way of reading your own history that turns the whole of it into a waiting room. Paul refuses. The day of salvation is not scheduled. It is open."
+        ]
+      },
+      {
+        "heading": "The Résumé That Would Have Been Thrown in the Bin",
+        "paragraphs": [
+          "Understand what Corinth valued and the list in verses 4 to 10 becomes an act of war. His rivals had arrived with “letters of commendation” (3:1), a polished delivery, and the confidence of paid professionals. The verdict circulating about Paul is on record in his own hand: “His letters are weighty and strong, but his bodily presence is weak, and his speech is despised” (10:10). He calls his opponents “the very best apostles” with acid on it — the Greek is hyperlian apostoloi, the super-extra apostles — and then flatly names them “false apostles, deceitful workers, masquerading as Christ's apostles” (11:5, 13). So when he says he is “commending ourselves,” reaching for the same root as those commendation letters, he is writing his own reference, and the referee is his scar tissue.",
+          "Look at how the catalogue is built, because the architecture is the argument. Verses 4 and 5 give nine hardships in three triads: afflictions, hardships and distresses — what life does to you; beatings, imprisonments and riots — what people do to you; labours, watchings and fastings — what you do to yourself for the sake of the work. Then verse 6 turns without warning from what he suffers to what he carries, and every single item is either character or God: pureness, knowledge, long-suffering, kindness, the Holy Spirit, unmasked love, the word of truth, the power of God. Nothing on that list can be bought, faked in a season, or acquired at a conference. Then the weapons, on the right hand and on the left, because the next verse names the two-sided attack: glory and dishonour, good report and evil report.",
+          "And then the compression. Two contrasts drawn with “by,” and seven pairs drawn with “as… and yet” — nine hammer blows, and the most concentrated description of Christian ministry in the Bible. As deceivers, and yet true. As unknown, and yet well known. As dying, and behold, we live. As punished, and not killed. As sorrowful, yet always rejoicing. As poor, yet making many rich. As having nothing, and yet possessing all things. In every pair the first half is how it looks from the street and the second half is what is actually the case, and Paul does not once dispute the first half. He never argues that he is stronger than they say. He lets the appearance stand and answers it with reality — which is precisely the argument he will make explicit six chapters later, when the Lord tells him, “My grace is sufficient for you, for my power is made perfect in weakness” (12:9). The catalogue does not climb toward respectability. It climbs toward ownership: the man with nothing holds everything."
+        ]
+      },
+      {
+        "heading": "6:14–7:1 — Say Exactly What It Means, and Exactly What It Does Not",
+        "paragraphs": [
+          "Deal with the scholarly question honestly and briefly. Some argue this paragraph is a fragment of another letter dropped in here, because six of its words occur nowhere else in the New Testament (heterozygeō, metochē, symphōnēsis, synkatathesis, Belial, and molysmos in 7:1) and because verse 13 seems to run smoothly into 7:2. The strongest reading is that it belongs exactly where it stands: no manuscript anywhere omits it or places it elsewhere, and far from interrupting the appeal, it supplies its content. Paul says their affections are cramped — and then he names what is taking up the room.",
+          "Now guard it from misuse, because this is one of the most abused paragraphs in Paul. It is not a command to avoid unbelievers; the same apostle had already written to the same church that he did not mean the immoral of this world, “for then you would have to leave the world” (1 Corinthians 5:10). It is not a licence to leave an unbelieving spouse; 1 Corinthians 7:12-13 says the opposite in plain words — if the unbeliever is content to live with you, do not leave. It cannot mean withdrawal, because four chapters earlier Paul said we are the aroma of Christ “in every place” (2:14-15) and one chapter earlier he made us ambassadors (5:20), and an ambassador by definition lives in the foreign country. Whatever an unequal yoke is, it is not the presence of unbelievers in your life.",
+          "What it is, is a binding partnership in which you have surrendered the power to move on your own. The yoke image carries the whole meaning: two creatures locked to one beam, unable to turn without the other's consent. In Corinth that was brutally concrete — the trade guild whose monthly dinner was eaten in a temple, the civic post that required a sacrifice, the household you married into and the gods on its shelf, the courtroom oath, and most sharply of all, the new teachers who preached “another Jesus” (11:4) and whom this church had taken on as its new partners. Notice the five questions: fellowship, fellowship, harmony, portion, agreement. Every one is about joint holding, joint direction, joint estate. Not proximity — jurisdiction.",
+          "So do not flatten this into a sermon about who to marry. Marriage is the clearest and most costly example, and it deserves to be said without apology to anyone still choosing: you cannot bind your one life to a person whose God is not your God and expect the furrow to run straight. But the text says unbelievers, plural, in a paragraph about temples, idols and covenant partners, and the honest application is wider and more uncomfortable: the business you cannot exit without doing what you know is wrong, the contract with a morality clause you had to agree to violate, the ministry alliance built on a teaching you privately do not believe, the friendship that has quietly acquired veto power over your obedience. The test is not “is this person a Christian.” The test is: has this arrangement taken away my freedom to obey God? And the closing note is not a fence. Verse 18 makes the whole separation an act of homecoming — come out, and I will be to you a Father."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Follow one word out of verse 16 and it lights up the whole New Testament: naos, the inner sanctuary. Paul quotes God's ancient promise — a weld of Leviticus 26:11-12 and Ezekiel 37:27, that He will dwell in them and walk among them and be their God — and then says the astonishing thing: you are that room. He had already said it to this same church twice. “Don't you know that you are a temple of God, and that God's Spirit lives in you?” (1 Corinthians 3:16), of the congregation; and “your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own, for you were bought with a price” (1 Corinthians 6:19-20), of the individual. Ephesians 2:21-22 completes the architecture: “in whom the whole building, fitted together, grows into a holy temple in the Lord; in whom you also are built together for a habitation of God in the Spirit.” The promise that Israel heard at Sinai and again in exile has come to rest inside people.",
+        "And the line runs all the way to the last page. In Revelation 21 the voice from the throne says over the new creation exactly what Leviticus said over the tabernacle — God's dwelling is with people, He will dwell with them, they will be His people, and He will be their God — and then John reports that he saw no temple in the city, because the Lord God the Almighty and the Lamb are its temple. That title, the Almighty, is pantokratōr, the same word Paul uses to sign off verse 18. The sentence that closes 2 Corinthians 6 is the sentence that closes the Bible: I will be their God, and they will be my people, and I will be to them a Father.",
+        "The other thread runs backwards from verse 2. Paul quotes the second Servant Song (Isaiah 49:8) and applies it to a church's today — and he had done the same thing with the same song in Acts 13:47, where he and Barnabas justified turning to the Gentiles by taking the Servant's commission to be a light to the nations and applying it to themselves. Jesus had established the pattern in the synagogue at Nazareth, reading Isaiah 61 about the acceptable year of the Lord, sitting down, and telling the room that today this Scripture had been fulfilled in their hearing (Luke 4:18-21). That is what Paul is doing to Corinth and what this chapter does to you. A promise spoken centuries ago is dated today. Behold, now."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Working together / co-operating",
+      "hebrew": "συνεργέω",
+      "translit": "synergéō",
+      "strongs": "G4903",
+      "verses": "v. 1",
+      "insight": "Strong's defines it “to be a fellow-worker, i.e. co-operate.” Paul leaves the partner unnamed, and the sentence before supplies it: God was “entreating by us” (5:20), so the co-worker is God Himself. This is the same verb standing under Romans 8:28 — “all things work together for good” — and here Paul uses it of a beaten, unimpressive man standing in a room making an appeal. That is the dignity buried in verse 1, and it comes before every hardship in the catalogue: whatever you look like, if you open your mouth for God you are working alongside Him, not for Him at a distance. Which is exactly why the next clause is so serious. A fellow-worker can watch grace land in an empty place and produce nothing."
+    },
+    {
+      "english": "Restricted / hemmed into a narrow place",
+      "hebrew": "στενοχωρέω",
+      "translit": "stenochōréō",
+      "strongs": "G4729",
+      "verses": "v. 12 (and the noun στενοχωρία, G4730, in v. 4)",
+      "insight": "Strong's is vivid: “to hem in closely, i.e. (figuratively) cramp.” The noun form, stenochōria, is literally narrowness of room — and Paul listed it in verse 4 among his own sufferings, translated “distresses.” Then in verse 12 he turns the verb of that same word on the Corinthians: you are not cramped by us; you are cramped in your own splanchna (G4698) — the intestines, where the ancient world located gut-level feeling. Set the two verses side by side and the rebuke is devastating and tender at once. The man who lives in narrow places is telling the comfortable church that they are the ones with no room, and that nobody did it to them. And the cure is the opposite verb, used twice: platynō (G4115), to make broad, to widen. “Our heart is enlarged” (v.11) is perfect tense — widened and still standing wide. “You also open your hearts” (v.13) is the same verb as a passive command: let yourselves be widened. You cannot pry your own heart open by effort; you can stop holding it shut."
+    },
+    {
+      "english": "Unequally yoked",
+      "hebrew": "ἑτεροζυγέω",
+      "translit": "heterozygéō",
+      "strongs": "G2086",
+      "verses": "v. 14",
+      "insight": "Strong's: “to yoke up differently, i.e. (figuratively) to associate discordantly,” built from heteros (G2087, of a different kind) and zygos (G2218, the wooden yoke-beam — Strong's calls it “a coupling”). The verb occurs nowhere else in the Greek Bible — Paul appears to have coined it off the adjective heterozygos, which stands in the Greek of Leviticus 19:19 forbidding Israel to breed her cattle with a different kind. Behind the picture is Deuteronomy 22:10 — you shall not plough with an ox and a donkey together — and the law was never about cruelty to donkeys. It was about a straight furrow. Two animals of different height, stride and temperament bound to one beam cannot pull one line, and the field pays for it. Everything hangs on what a yoke is: not company, not conversation, not affection, but a coupling in which neither party can move without dragging the other. That is why the five questions that follow are all about joint holding — a share in common, partnership, harmony, a portion of an estate, an agreement. The question this word asks is never “is this person good enough to be near me.” It is “have I bound myself into something that can now stop me obeying God.”"
+    },
+    {
+      "english": "Belial (worthlessness; a name for Satan)",
+      "hebrew": "Βελίαλ",
+      "translit": "Belíal",
+      "strongs": "G955",
+      "verses": "v. 15",
+      "insight": "Strong's traces it straight to the Hebrew: “worthlessness; Belial, as an epithet of Satan,” from beliya'al (H1100), which the Old Testament uses in phrases like “sons of Belial” — worthless men, men who are literally good for nothing. By the time of Paul the word had hardened in Jewish writing into a proper name for the prince of darkness who commands the sons of darkness, and this verse is its only appearance in the entire New Testament. Notice, then, what Paul does with the third of the five questions. He does not ask what agreement Christ has with sin, or with weakness, or with unbelievers as people. He asks what harmony — symphōnēsis (G4857), a sounding-together, our word symphony — Christ can have with a person. The choice being described is not between good habits and bad habits. It is between two lords, and one of them is called Worthlessness. That is the honest measure of what an unequal yoke can cost you: not embarrassment, but service to a name that means nothing at all."
+    },
+    {
+      "english": "Temple / inner sanctuary",
+      "hebrew": "ναός",
+      "translit": "naós",
+      "strongs": "G3485",
+      "verses": "v. 16",
+      "insight": "Strong's: “a fane, shrine, temple,” from a root meaning to dwell — and the New Testament distinguishes it sharply from hieron, which is the whole temple precinct with its courts, stalls and crowds. Naos is the sanctuary building itself — the house, holy place and most holy place together — the structure the courts existed to protect, where the lampstand burned, the incense went up, and behind the veil the Ark sat in the dark that only the high priest entered, once a year, with blood. Paul says you are that house. Not a worshipper standing in the courtyard — the sanctuary. And read the two verbs God attaches to it in the quotation: enoikeō (G1774), to inhabit, take up residence, and emperipateō (G1704), to walk about among. He does not visit the shrine on Sundays. He lives in it, and He moves around inside it. That is the whole logic of verses 14 to 18, and it turns the command inside out. Paul does not say “stay away from idols so that one day God may come to you.” He says God has already moved in — so what exactly are you planning to wheel into His room?"
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with four things in this chapter: the grace you received that has produced nothing, the résumé you are ashamed of, the heart you have quietly closed while blaming God for the silence, and the arrangement in your life that has taken away your freedom to obey.",
+    "items": [
+      {
+        "title": "The Grace That Landed in an Empty Place",
+        "body": "Think back over the last two years and name the graces. The sermon that undid you at 9 p.m. and changed nothing by Tuesday. The mercy you were shown by someone you had wronged, which you have never once extended to anyone else. The healing, the provision, the door that opened when it had no business opening, the forgiveness you begged for and received and never let touch how you speak to your family. Paul's fear for the Corinthians is not that God will take it back; it is that it will land in an empty place and drain away. So answer it directly: what has God given you that has produced nothing yet? Do not answer with a category — answer with a name, a date, and a thing that should have changed. Because grace received in vain is not a doctrinal problem. It is a wasted rescue."
+      },
+      {
+        "title": "Your Scars Are the Résumé",
+        "body": "You have a private list of the people you compare yourself to — the ones who are more articulate, better connected, further along, more obviously anointed, who make it look effortless while you are still fighting the same thing you were fighting in 2019. And you have concluded that God will use them and tolerate you. Read verses 4 to 10 again and see what Paul submits as his credentials: the beatings, the prison cells, the riots, the sleepless nights, the hunger, the humiliating charge that he was a fraud, the reputation for being unimpressive in person. Not one line of that would survive an interview. That is the point. He does not argue that he is stronger than his critics say — he lets the accusation stand and answers it with what is actually true underneath. So ask yourself honestly: what have you been hiding from God as a disqualification that He has been holding all along as a credential? And what would happen this month if you stopped waiting to become impressive before you made yourself available?"
+      },
+      {
+        "title": "The Restriction Is on Your End",
+        "body": "This is the sentence in the chapter with your name on it: “You are not restricted by us, but you are restricted by your own affections.” If God feels distant right now, run the diagnostic before you accuse heaven of narrowness. Whose name comes up in your chest with a small tightening? Who have you kept at a polite, correct, unbroken distance because of a thing they said or did not say? What did somebody do to you that you have technically forgiven and functionally filed? Paul's heart was standing wide open with nothing withheld — from a church that had believed slander about him. Theirs was cramped, and they thought the problem was his coldness. The command in verse 13 is passive: be widened. You cannot pry your own heart open by willpower; you can stop putting furniture against the door. So name the one person you have shut out, and then ask the harder question: is God on that list too?"
+      },
+      {
+        "title": "The Yoke You Cannot Admit To",
+        "body": "Somewhere in your life there is an arrangement you would not describe out loud the way you would describe it to God. A partnership, a contract, a relationship, a group, a debt, a role — and you already know that if obedience to Christ ever collided with it head-on, obedience would lose. That is what a yoke is: not company, but a coupling that has taken away your freedom to turn. The five questions of verses 14 to 16 are not asking whether you may associate with people who do not believe; Paul had already forbidden that reading (1 Corinthians 5:10). They are asking what has jurisdiction over you. And notice what Paul reaches for as the reason: not your standards, not your reputation, but your address — you are a temple of the living God, and He has moved in and is walking about inside. So say it plainly: what in your life currently has veto power over your obedience? What would it cost to break the beam? And which of those two prices are you actually more afraid of?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The “In Vain” Audit",
+        "body": "Write down three specific graces God has given you in the last two years — a mercy, a deliverance, a word that landed, a person He put in your path. Beside each one write what it produced. Not what it made you feel; what it changed in how you live, give, speak, or obey. If a line is blank, that is what eis kenon looks like — grace received into an empty place. Do not repent of the feeling. Repent of the blank."
+      },
+      {
+        "title": "The Comparison Ledger",
+        "body": "Name the people you measure yourself against, by name, on paper. Now write out your own credential list the way Paul wrote his in verses 4 to 10 — not achievements, but what following Jesus has actually cost you: what you have endured, what you kept doing when nobody clapped, what you refused when refusing was expensive. Read the two lists side by side and answer one question: whose scale have you been using?"
+      },
+      {
+        "title": "The Narrow Place Check",
+        "body": "Where is the pinch actually located? Say out loud, “I am not restricted by God; I am restricted in my own affections,” and then test whether it is true. List everyone you are keeping at a managed distance and what each one did. Then check the same list for God's name — because a heart that has been narrowed toward people is almost never wide toward Him."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "The Widening",
+        "body": "Take the first name from your Narrow Place Check — the one you thought of before you finished reading the question. Before you sleep tomorrow, do one concrete thing that moves the furniture off the door: send the message, make the call, say the sentence you have rehearsed and never delivered, or if the relationship cannot be safely reopened, write out the forgiveness in full on paper and burn it before God. Then pray verse 13 over yourself out loud, in the passive, exactly as Paul wrote it: “Lord, I am not asking to feel differently. I am asking You to widen me — open my heart wide.” Do it once for the person, and then do it once for God, naming the specific thing you have been holding against Him."
+      },
+      {
+        "title": "The Yoke Inventory",
+        "body": "This week, sit down with a page and list every binding arrangement in your life: contracts, partnerships, debts, group memberships, ministries, the relationship you are in or considering. Beside each, answer one question in writing — if obeying Christ required me to break with this tomorrow, could I? Circle every one where the answer is no. Do not act rashly and do not blow up a marriage; 1 Corinthians 7:12-13 is explicit that a believing spouse stays. But for every circled item that is a partnership rather than a person, take one step this week — a conversation, a renegotiation, a resignation letter drafted, a boundary stated out loud to the other party. Then finish by standing up and declaring verses 16 to 18 over yourself: “I am a temple of the living God. He said, I will dwell in them and walk in them. He said, come out from among them and be separate, and I will receive you. He said, I will be to you a Father, and you will be to me a son.”"
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I come as a son, and I come today — because You said, Behold, now is the acceptable time; behold, now is the day of salvation. Not one day. Now. Lord, I confess that grace has landed in me and found an empty place. You have forgiven me, provided for me, spoken to me, and rescued me, and I have let some of it run straight through and produce nothing. Forgive me for receiving Your grace in vain. Let nothing You give me from this day fall into emptiness. Jesus, I have been ashamed of my résumé. I have looked at people who are more impressive than me and quietly concluded that You will use them and put up with me. But You commend Your servants by what it costs them, not by how they present: in great endurance, in afflictions, in hardships, in distresses, as unknown and yet well known, as dying and behold we live, as sorrowful yet always rejoicing, as having nothing and yet possessing all things. So take what I have hidden as my disqualification and use it as my credential. Arm me with the armour of righteousness on the right hand and on the left, so that praise does not swell me and slander does not stop me. Holy Spirit, I have blamed heaven for a silence that was mine. I am not restricted by You; I am restricted in my own affections. I name the people I have shut out, and I name the place where I have shut You out, and I stop holding the door. Widen me. Enlarge my heart. Let my mouth be open and my heart be open wide. And Lord, search every arrangement in my life. Show me where I am yoked to something that has taken away my freedom to obey You, and give me the courage to break the beam even if it costs me. For I am a temple of the living God — You said You would dwell in me and walk in me, that You would be my God and I would be Your people. So I come out, and I am separate, and I take You at Your word: You will receive me, You will be to me a Father, and I will be to You a son, says the Lord Almighty. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Jehoshaphat and Ahab: The Good King Who Got Into the Yoke",
+      "ref": "2 Chronicles 18:1-3; 19:1-2; 20:35-37",
+      "relatedVerses": "v. 14-15",
+      "summary": "Jehoshaphat was one of the best kings Judah ever had — he tore down the high places and sent teachers through the country with the book of the law. Then he made a marriage alliance with Ahab, the worst king in the north, and went up with him to Ramoth Gilead against the word of the only honest prophet in the room; he nearly died in the battle and came home to be met by Jehu the seer with a question that has never stopped being asked: should you be helping the wicked and loving those who hate the LORD? He said yes to that question a second time, years later, joining Ahaziah of Israel to build a merchant fleet at Ezion Geber — and the ships were wrecked in the harbour before they ever sailed. This is heterozygeō in a crown. Jehoshaphat never stopped believing; he simply bound himself to a partner whose god was not his God, and every joint venture came apart. Note what it cost and who paid: his son married into that house, and Athaliah eventually slaughtered the royal family. A crooked furrow runs a long way."
+    },
+    {
+      "title": "Carrying the Vessels Out of Babylon",
+      "ref": "Isaiah 52:11; Ezra 1:5-11",
+      "relatedVerses": "v. 17",
+      "summary": "The line Paul quotes in verse 17 — come out from among them, be separate, touch no unclean thing — is lifted from Isaiah's summons to the exiles, and it was spoken to men who had lived their whole lives among Babylonians. It was never “avoid these people.” It was “depart, go out from there,” and the reason given was what they had in their hands: they were the ones carrying the vessels of the house of the LORD, so they were to be clean. When Cyrus finally issued the decree, Ezra records the count of those vessels being handed back, gold and silver, five thousand four hundred of them, carried up out of Babylon by men walking home. That is the shape of biblical separation: not a retreat from people, but a refusal to keep living in the empire's house — and it is a departure with something holy in your arms. You are not asked to leave the world. You are asked to stop belonging to it while you carry the presence of God through it."
+    },
+    {
+      "title": "The Riot in the Theatre at Ephesus",
+      "ref": "Acts 19:23-41",
+      "relatedVerses": "v. 5, 16",
+      "summary": "When Paul writes “in riots” in verse 5, he is not being poetic. In Ephesus a silversmith named Demetrius, who made shrines of Artemis, worked out that the gospel was destroying his trade, and the city erupted; the crowd seized Paul's travelling companions, dragged them into the great theatre, and chanted “Great is Artemis of the Ephesians” for about two hours. Paul wanted to walk in and address them; the disciples would not allow it, and some of the provincial officials of Asia who were his friends sent word begging him not to set foot in the theatre. That is the world behind the whole chapter — a city where a man's livelihood, his guild, his social standing and his idols were one single fabric, so that following Christ tore the fabric and people rioted. When Paul asks what agreement a temple of God has with idols, the Corinthians did not hear an abstraction. They heard the smell of a shrine and the sound of a mob, and they knew exactly what it would cost to walk out of it."
+    }
+  ]
+}

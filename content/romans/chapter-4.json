@@ -1,0 +1,632 @@
+{
+  "type": "chapterStudy",
+  "book": "Romans",
+  "chapter": 4,
+  "chapterTitle": "Abraham, the Test Case — Credited Righteous Before He Was Circumcised",
+  "themeTitle": "“When the Ledger Reads Righteous and the Womb Reads Dead”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "What then will we say that Abraham, our forefather, has found according to the flesh?",
+      "understanding": "Paul stakes the whole argument on one man — and not a neutral one. Abraham is the father of the nation, the friend of God, the man every rabbi held up as the model of obedience; if works can justify anybody, they justify him. And catch the pronoun: “our forefather,” spoken into a room of Jews and Gentiles who had been arguing over which of them really belonged. Paul hands them a shared father, then asks what that father actually found “according to the flesh” — by natural effort and natural descent."
+    },
+    {
+      "v": 2,
+      "text": "For if Abraham was justified by works, he has something to boast about, but not toward God.",
+      "understanding": "Paul grants the hypothetical for the sake of argument — if works did it, then a boast is legitimate — and then kills it in five words: “but not toward God.” Whatever Abraham could say to men, at God's face he had nothing to hold up. Romans 3:27 already ruled boasting out of court; this is the proof, taken from the one man most likely to have earned it.",
+      "words": [
+        {
+          "strongs": "G2745",
+          "hebrew": "καύχημα",
+          "translit": "kauchēma",
+          "english": "boast"
+        },
+        {
+          "strongs": "G1344",
+          "hebrew": "δικαιόω",
+          "translit": "dikaioō",
+          "english": "justified"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.”",
+      "understanding": "Paul does not settle the case with logic; he settles it with a text — Genesis 15:6. Read what is absent from that moment: no altar, no obedience, no sacrifice mentioned. God took a childless old man outside, showed him the stars, made a promise, and the man believed him. Righteousness arrived as an entry posted to an account, not as a wage placed in a hand.",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteuō",
+          "english": "believed"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logizomai",
+          "english": "accounted"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosynē",
+          "english": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Now to him who works, the reward is not counted as grace, but as something owed.",
+      "understanding": "Here is the everyday illustration that decides everything. A worker's pay is not a favor; when you have put in the hours, the envelope is not generosity, it is obligation — “not counted as grace, but as something owed.” Follow that to its end: if you could be justified by works, God would owe you, and you would stand before Him as a creditor rather than a child.",
+      "words": [
+        {
+          "strongs": "G3408",
+          "hebrew": "μισθός",
+          "translit": "misthos",
+          "english": "reward / wage"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "charis",
+          "english": "grace"
+        },
+        {
+          "strongs": "G3783",
+          "hebrew": "ὀφείλημα",
+          "translit": "opheilēma",
+          "english": "something owed"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "But to him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness.",
+      "understanding": "This is the most scandalous thing Paul ever wrote about God's character. Not “God justifies the repentant,” not “God justifies the sincere” — “him who justifies the ungodly.” The Law itself said God will not justify the wicked (Exodus 23:7), and Proverbs 17:15 called acquitting the guilty an abomination. Paul has already shown at 3:25-26 how God does it without lying — but he refuses to soften the shock. The man who gets credited righteous is a man who arrives with nothing but faith and a bad record.",
+      "words": [
+        {
+          "strongs": "G765",
+          "hebrew": "ἀσεβής",
+          "translit": "asebēs",
+          "english": "ungodly"
+        },
+        {
+          "strongs": "G1344",
+          "hebrew": "δικαιόω",
+          "translit": "dikaioō",
+          "english": "justifies"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pistis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Even as David also pronounces blessing on the man to whom God counts righteousness apart from works,",
+      "understanding": "Paul brings a second witness, exactly as the Law required for establishing a matter (Deuteronomy 19:15). Abraham testifies from the Torah; now David testifies from the Psalms. And listen to the phrase: God “counts righteousness apart from works.” It is not that God found a few works worth counting — righteousness is credited precisely where works are missing.",
+      "words": [
+        {
+          "strongs": "G3108",
+          "hebrew": "μακαρισμός",
+          "translit": "makarismos",
+          "english": "blessing"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logizomai",
+          "english": "counts"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "“Blessed are they whose iniquities are forgiven,\nwhose sins are covered.",
+      "understanding": "Psalm 32:1-2 — David's own song written after Bathsheba and Uriah. Two verbs of relief: iniquities “forgiven” (aphiēmi — sent away, released, dismissed) and sins “covered” (epikalyptō — concealed from view, the way blood covered the mercy seat). This is the testimony of a man whose works, if counted, would have hanged him.",
+      "words": [
+        {
+          "strongs": "G458",
+          "hebrew": "ἀνομία",
+          "translit": "anomia",
+          "english": "iniquities"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphiēmi",
+          "english": "forgiven"
+        },
+        {
+          "strongs": "G1943",
+          "hebrew": "ἐπικαλύπτω",
+          "translit": "epikalyptō",
+          "english": "covered"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Blessed is the man whom the Lord will by no means charge with sin.”",
+      "understanding": "The accounting word again — this time in the negative, and carrying the strongest denial the Greek language possesses (ou mē): the Lord will by no means, not ever, post sin to this man's account. Blessedness in David's mouth is not defined by what God gives you but by what God refuses to write down. The blessed man is the man with an empty column.",
+      "words": [
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logizomai",
+          "english": "charge (reckon)"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartia",
+          "english": "sin"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Is this blessing then pronounced on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness.",
+      "understanding": "Paul now turns the argument directly onto the open wound in the Roman church — the Jewish believers who had come back from Claudius's expulsion to find Gentile-majority congregations. The blessing is established; the question is who it belongs to. He restates the verdict on Abraham and prepares to prove the answer not with sentiment but with a calendar."
+    },
+    {
+      "v": 10,
+      "text": "How then was it counted? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.",
+      "understanding": "This is the question that wins the case, and it is devastatingly simple: not was it counted, but WHEN was it counted? The timing decides whether righteousness travels through the covenant badge or through faith — and the timing is on public record in Genesis for anyone who can read a chapter number.",
+      "words": [
+        {
+          "strongs": "G4061",
+          "hebrew": "περιτομή",
+          "translit": "peritomē",
+          "english": "circumcision"
+        },
+        {
+          "strongs": "G203",
+          "hebrew": "ἀκροβυστία",
+          "translit": "akrobystia",
+          "english": "uncircumcision"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision, that he might be the father of all those who believe, though they might be in uncircumcision, that righteousness might also be accounted to them.",
+      "understanding": "Genesis 15 comes before Genesis 17 by at least fourteen years, and the arithmetic is on public record: Abram entered Canaan at seventy-five (Genesis 12:4), and Genesis 16 opens ten years into that stay with Hagar (Genesis 16:3) — so the night of Genesis 15 falls no later than his eighty-fifth year. He was circumcised at ninety-nine (Genesis 17:24). So circumcision was a “sign” and a “seal”: a signet pressed into wax on a document already signed and dated. God arranged the calendar deliberately, so that the father of the faithful would be, at the very moment of his justification, an uncircumcised man — and every believing outsider since could claim him as father.",
+      "words": [
+        {
+          "strongs": "G4973",
+          "hebrew": "σφραγίς",
+          "translit": "sphragis",
+          "english": "seal"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logizomai",
+          "english": "accounted"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision.",
+      "understanding": "He fathers the circumcised too — but read the qualifier, because it is a scalpel. Not those who merely carry the mark, but those who “walk in the steps” (stoicheō — to march in rank, to keep step) of the faith Abraham had while he was still unmarked. Heritage lines you up behind him; only faith puts your feet in his footprints.",
+      "words": [
+        {
+          "strongs": "G4748",
+          "hebrew": "στοιχέω",
+          "translit": "stoicheō",
+          "english": "walk in the steps"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "For the promise to Abraham and to his offspring that he should be heir of the world wasn’t through the law, but through the righteousness of faith.",
+      "understanding": "Genesis promised Abraham a stretch of ground bounded by two rivers — from the river of Egypt to the Euphrates (Genesis 15:18). Paul says the promise was always bigger than the real estate: “heir of the world.” And note the chronology again — the promise was spoken centuries before Sinai existed (Paul dates the law four hundred thirty years later, Galatians 3:17). The inheritance came through the righteousness of faith, and law was never its channel.",
+      "words": [
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelia",
+          "english": "promise"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For if those who are of the law are heirs, faith is made void, and the promise is made of no effect.",
+      "understanding": "If the inheritance runs on law-keeping, two things die in the same breath: faith is “made void” (kenoō — emptied out, hollowed, drained of content) and the promise is “made of no effect” (katargeō — rendered idle, put out of operation, a signed document with no force). Attach one condition you must perform, and a promise quietly stops being a promise and becomes a contract.",
+      "words": [
+        {
+          "strongs": "G2758",
+          "hebrew": "κενόω",
+          "translit": "kenoō",
+          "english": "made void"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargeō",
+          "english": "made of no effect"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For the law produces wrath, for where there is no law, neither is there disobedience.",
+      "understanding": "Blunt, unpopular, and true: the law's output is wrath, not righteousness. Law draws the line, and drawing the line converts human sin into deliberate line-crossing (parabasis — a stepping over, a violation). The law does not create sinners; it creates transgressors, and what it hands them is a verdict, not a rescue.",
+      "words": [
+        {
+          "strongs": "G3847",
+          "hebrew": "παράβασις",
+          "translit": "parabasis",
+          "english": "disobedience / transgression"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "For this cause it is of faith, that it may be according to grace, to the end that the promise may be sure to all the offspring, not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all.",
+      "understanding": "Follow the chain, because this verse is the pastoral heart of the chapter: it is of faith, SO THAT it may be according to grace, SO THAT the promise may be “sure” — bebaios, firm, standing on a base that will hold. Only a gift can be guaranteed. The moment your inheritance depends on your performance, your inheritance is only ever as steady as your worst week.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "charis",
+          "english": "grace"
+        },
+        {
+          "strongs": "G949",
+          "hebrew": "βέβαιος",
+          "translit": "bebaios",
+          "english": "sure"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "As it is written, “I have made you a father of many nations.” This is in the presence of him whom he believed: God, who gives life to the dead, and calls the things that are not, as though they were.",
+      "understanding": "Genesis 17:5 — and God said “I HAVE made you” while the man still had one son by a slave woman and none by Sarah. Then Paul names the two facts about God that made Abraham's faith the only reasonable response: He “gives life to the dead,” and He “calls the things that are not, as though they were.” That is the God of Genesis 1 and the God of the empty tomb — the only Person in existence who can address a vacancy and get an answer.",
+      "words": [
+        {
+          "strongs": "G2227",
+          "hebrew": "ζωοποιέω",
+          "translit": "zōopoieō",
+          "english": "gives life"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteuō",
+          "english": "believed"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Besides hope, Abraham in hope believed, to the end that he might become a father of many nations, according to that which had been spoken, “So will your offspring be.”",
+      "understanding": "“Besides hope… in hope” — par' elpida ep' elpidi, against every natural ground for hope, resting on a supernatural one. The quotation is Genesis 15:5, spoken under a sky full of stars to a man with no children. His hope was never optimism about his body; it was confidence in a sentence God had said out loud.",
+      "words": [
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpis",
+          "english": "hope"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Without being weakened in faith, he didn’t consider his own body, already having been worn out, (he being about a hundred years old), and the deadness of Sarah’s womb.",
+      "understanding": "Faith is not denial. Paul himself names the facts in clinical language — a body worn out, about a hundred years old, and the “deadness” (nekrōsis, a dying-off) of Sarah's womb — and Genesis records Abraham falling on his face and laughing at the arithmetic (Genesis 17:17). The manuscripts divide over whether Paul wrote that he did not consider the facts or that he considered them and was not weakened; either way the sense holds: the medical report was accurate, and it was not given a vote.",
+      "words": [
+        {
+          "strongs": "G770",
+          "hebrew": "ἀσθενέω",
+          "translit": "astheneō",
+          "english": "weakened"
+        },
+        {
+          "strongs": "G2657",
+          "hebrew": "κατανοέω",
+          "translit": "katanoeō",
+          "english": "consider"
+        },
+        {
+          "strongs": "G3500",
+          "hebrew": "νέκρωσις",
+          "translit": "nekrōsis",
+          "english": "deadness"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,",
+      "understanding": "Two things happened in him at once, and together they are the anatomy of real faith: he was not divided against himself through unbelief (diakrinō — to be split in two, to argue with yourself), and he “grew strong” (endynamoō — was infused with power) through faith. And the timing of the worship is the whole lesson — he was giving glory to God while the womb was still dead. Praise offered before the answer arrives is faith's signature.",
+      "words": [
+        {
+          "strongs": "G1252",
+          "hebrew": "διακρίνω",
+          "translit": "diakrinō",
+          "english": "waver"
+        },
+        {
+          "strongs": "G1743",
+          "hebrew": "ἐνδυναμόω",
+          "translit": "endynamoō",
+          "english": "grew strong"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "doxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "and being fully assured that what he had promised, he was also able to perform.",
+      "understanding": "Look precisely at the content of his certainty. Not that he understood the mechanism. Not that he could name the date. That God “was also able (dynatos — powerful, capable) to perform” what He had promised. Faith is not certainty about the how; it is settled confidence in the ability and the character of the One who spoke.",
+      "words": [
+        {
+          "strongs": "G4135",
+          "hebrew": "πληροφορέω",
+          "translit": "plērophoreō",
+          "english": "fully assured"
+        },
+        {
+          "strongs": "G1415",
+          "hebrew": "δυνατός",
+          "translit": "dynatos",
+          "english": "able"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "Therefore it also was “credited to him for righteousness.”",
+      "understanding": "“Therefore” — this is why the credit was posted. Not because Abraham was flawless; Genesis keeps the record of his lies about Sarah in Egypt and Gerar and his detour through Hagar. The entry was made because he took God at His word about a promise he had no capacity to produce."
+    },
+    {
+      "v": 23,
+      "text": "Now it was not written that it was accounted to him for his sake alone,",
+      "understanding": "Paul reaches across two thousand years and takes you by the collar. That sentence in Genesis was not a historical footnote about one man's file. Scripture was written down with your name in view."
+    },
+    {
+      "v": 24,
+      "text": "but for our sake also, to whom it will be accounted, who believe in him who raised Jesus, our Lord, from the dead,",
+      "understanding": "Here is the transfer, and it is exact: same verb, same ledger, same God — “to whom it will be accounted.” And notice how faith's object is defined for us. Abraham believed the God who gives life to the dead; we believe the God who raised Jesus from the dead. It is the identical faith, now with a name and a date attached.",
+      "words": [
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logizomai",
+          "english": "accounted"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "who was delivered up for our trespasses, and was raised for our justification.",
+      "understanding": "The gospel in one line, and both halves are load-bearing. “Delivered up” — paradidōmi, the word for handing a prisoner over, used of Judas and used of the Father in Romans 8:32 — because of our trespasses. “Raised” — because of our justification. The cross paid the debt; the resurrection is the receipt God nailed to the door of history. If Jesus were still in the grave, you would have no proof the account ever cleared.",
+      "words": [
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradidōmi",
+          "english": "delivered up"
+        },
+        {
+          "strongs": "G3900",
+          "hebrew": "παράπτωμα",
+          "translit": "paraptōma",
+          "english": "trespasses"
+        },
+        {
+          "strongs": "G1347",
+          "hebrew": "δικαίωσις",
+          "translit": "dikaiōsis",
+          "english": "justification"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Payday, and the Two Men in the Line",
+      "verseRef": "v. 4-5",
+      "image": "End of the week at the paymaster's table. A man who has worked six days stands with his hand out. Nobody thanks him for coming; nobody is moved. The coins go into his palm because they are already his — earned, owed, calculated to the hour — and he turns and walks off without a word, because you do not thank a man for handing you what you have already worked for. Now watch the second man in the line. He did no work. There are no hours logged beside his name, no claim, no sheet. And the same amount is pressed into his hand — and he goes out into the street weeping.",
+      "meaning": "These are the only two ways anything ever passes from God to a man, and they cannot be mixed. If God owes you, He is your employer, you are His creditor, and salvation is a payroll transaction that will leave you cold and permanently anxious about your performance review. If God gives, He is your Father and you are an heir who never had a claim. Paul is not describing two kinds of Christian here. He is describing a Christian and a religious man. Which line have you been standing in this month?"
+    },
+    {
+      "title": "The Column He Would Not Write In",
+      "verseRef": "v. 7-8",
+      "image": "A counting house. A ledger open on a table, ruled into neat columns, and a name at the top of one page — yours. The clerk's pen is loaded with ink and hovering over the entry line. Everything that should go in that column is known, itemized, dated, and provable; nothing has been lost, nothing has been forgotten, and the evidence would survive any cross-examination. And then the pen lifts. The page stays white. “Blessed is the man whom the Lord will by no means charge with sin.”",
+      "meaning": "David wrote that line after adultery and a state-arranged murder, so no one can accuse the psalm of being naive about what belongs in the column. Blessing, in the mouth of the man who knew most about deserving judgment, is not measured by what heaven deposits but by what heaven declines to record. And the Greek negation is the strongest the language has — not “probably won't,” not “won't for now.” By no means. Ever."
+    },
+    {
+      "title": "Hot Wax on a Document Signed Fourteen Years Ago",
+      "verseRef": "v. 11",
+      "image": "A document, signed and dated fourteen years earlier, lying open on a table. The wax drips onto the page, the signet ring comes down, the seal is set. Everyone in the room watches the ring — that is the dramatic moment, the visible thing, the part that looks official and feels like the point. But when the wax cools, nothing in the document has changed. Every word was already there. The seal did not create the covenant. It certified one.",
+      "meaning": "Circumcision was Abraham's wax, not his righteousness. God deliberately timed the verdict of Genesis 15 to land years ahead of the knife of Genesis 17 so that nobody could ever claim the mark made the man. Now look at your own wax: the date of your baptism, your church membership, your years of service, the discipline you keep that others don't, the sin you have never committed. Real signs, every one of them — and not one of them is the signature. Do not build your standing before God on the seal."
+    },
+    {
+      "title": "An Old Man Under the Stars, and Twenty-Five Years of Sterile Sky",
+      "verseRef": "v. 18-21",
+      "image": "A childless man well past the age for it, ten years already gone since he walked out of Haran on a promise, standing outside a tent in the dark while God tells him to try to count the stars. He believes. And then the sky stays exactly the same for fifteen more years — twenty-five in all between the word and the boy. His body ages past every medical possibility. Sarah's womb becomes, in Paul's clinical word, a “deadness.” Every visible fact turns against the promise, one year at a time — and the old man keeps giving glory to God for a son who does not exist.",
+      "meaning": "This is what “against hope, in hope” actually costs. Faith did not shorten the wait, did not repair the biology, and did not spare him the laughter of Genesis 17:17. What faith did was refuse to let the deadness overrule the promise. And note where the strength came from: Paul says he grew strong THROUGH FAITH, not through the answer — the growth happened in the sterile years, not on the day Isaac was born."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Case of Abraham: Nothing to Boast Of (v. 1-5)",
+        "body": "Paul submits the one man most likely to have earned a verdict and proves from Genesis 15:6 that righteousness came to him as posted credit, not as a wage — from a God who justifies the ungodly."
+      },
+      {
+        "label": "The Second Witness: David and the Empty Column (v. 6-8)",
+        "body": "Psalm 32 is entered as corroborating testimony from the Writings: blessedness is God refusing to charge sin to a guilty man's account."
+      },
+      {
+        "label": "The Calendar That Wins the Case (v. 9-12)",
+        "body": "Genesis 15 precedes Genesis 17 by at least fourteen years, so circumcision is a seal on a righteousness already reckoned — which makes Abraham father of believers on both sides of the mark."
+      },
+      {
+        "label": "Promise, Not Law — Grace, So It Can Be Guaranteed (v. 13-17)",
+        "body": "A law-based inheritance empties faith, voids the promise, and produces wrath; the promise runs on grace so that it can be certain — resting on a God who raises the dead and calls the nonexistent by name."
+      },
+      {
+        "label": "The Anatomy of Abraham's Faith (v. 18-22)",
+        "body": "Against hope in hope; the dead body and the dead womb faced honestly; undivided, growing strong, giving glory before the answer, fully persuaded of God's ability — and therefore credited."
+      },
+      {
+        "label": "Written for Us: Delivered Up and Raised (v. 23-25)",
+        "body": "The same reckoning transfers to everyone who believes in the God who raised Jesus, handed over because of our trespasses and raised because of our justification."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Sentence That Should Not Be in the Bible",
+        "paragraphs": [
+          "Romans 4:5 says God “justifies the ungodly.” Set that beside Exodus 23:7, where God says of Himself that He will not justify the wicked, and Proverbs 17:15, which calls acquitting the guilty an abomination to the LORD. Paul knew both texts by heart; he had been trained by Gamaliel. He is not being careless — he is being deliberate. Justifying the ungodly is the exact thing the Law forbade a judge to do, and it is the exact thing God has done. If the sentence shocks you, you are reading it correctly. Every attempt to make it comfortable has ruined it.",
+          "Paul had already answered the objection one chapter earlier, and you should not read chapter 4 without chapter 3 in your hand: God set forth Jesus as “an atoning sacrifice, through faith in his blood… that he might himself be just, and the justifier of him who has faith in Jesus” (3:25-26). So the ungodly are not acquitted by a judge who shrugged, waived the standard, or looked the other way. They are acquitted by a Judge who paid the fine out of His own Son. Hold both halves without flinching: God did not lower the bar — He satisfied it Himself. And feel the pastoral edge of it. If the only people God has ever justified are ungodly ones, then “I'm not godly enough yet” is not humility. It is a disqualification God never issued, and it keeps you standing outside a door He opened for exactly your kind."
+        ]
+      },
+      {
+        "heading": "Credited To, Not Produced By: What logizomai Will and Will Not Bear",
+        "paragraphs": [
+          "The whole chapter is written in the vocabulary of a counting house — wage, debt, grace, credit, charge, account. Eleven times in twenty-five verses Paul reaches for one verb, logizomai, and Strong's renders its root sense exactly: to take an inventory, to estimate, to reckon a sum. That metaphor controls the meaning. In verse 4 the contrast is between a wage owed and a gift given. In verse 8 the same verb appears as a refusal to post an entry. That is bookkeeping, not biology. Righteousness in Romans 4 is credited to an account, not manufactured inside a character — what the Reformers called an alien righteousness, one that comes from outside you and is put to your name.",
+          "There is a real scholarly dispute here and it deserves one honest paragraph. Some read Genesis 15:6 as saying God accepted Abraham's act of believing as itself the righteousness — faith as a smaller, achievable substitute for obedience. The strongest textual reading rules that out, and verse 5 is why: the man being reckoned righteous is at that very moment described as “ungodly” and as one who “doesn't work.” If faith were being credited as a meritorious act, verse 4's entire wage-versus-gift argument collapses on itself, because faith would simply be the one work cheap enough for anyone to afford — and God would still owe. Faith in this chapter is not the payment. It is the empty hand. Verse 24 settles the matter: what gets accounted to us is accounted to those “who believe in HIM who raised Jesus.” Faith has no value of its own; its entire worth is located in its Object."
+        ]
+      },
+      {
+        "heading": "A Faith That Looks Straight at the Facts and Does Not Blink",
+        "paragraphs": [
+          "Verses 19-21 are routinely abused into a doctrine of denial, as though faith meant refusing to admit the diagnosis, the balance, or the report. Read what Paul actually wrote. He names the facts himself, in clinical language: a body “worn out,” about a hundred years old, and the “deadness” of Sarah's womb — nekrōsis, a dying-off. Genesis records Abraham falling on his face and laughing at the arithmetic (17:17) and Sarah laughing behind the tent door (18:12). The manuscripts themselves divide over whether verse 19 says he did not consider his body or that he considered it and was not weakened — and the honest thing to say is that the sense survives either reading, because Paul's point is not that Abraham was unaware. It is that the facts were real and were not decisive.",
+          "What faith did was assign the facts a rank. “Yet, looking to the promise of God, he didn't waver through unbelief, but grew strong through faith, giving glory to God.” Two verbs to live on: diakrinō — he was not split down the middle, not arguing himself out of it in the dark — and endynamoō, he was infused with power, the same verb behind “I can do all things through Christ, who strengthens me” (Philippians 4:13). And the timing of the worship is the entire lesson: he glorified God for a son he did not have. Praise offered before the evidence arrives is not pretending; it is the loudest statement a human being can make about who God is. Then verse 21 tells you the precise content of his certainty — not that he knew how, not that he knew when, but that God “was also able to perform.” That is the only certainty God has ever asked you to carry, and it is the only one that survives a twenty-five-year wait."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Watch Paul make this identical argument a second time, and watch what he welds it to. In Galatians 3 he quotes Genesis 15:6 — “Abraham believed God, and it was counted to him for righteousness” — then declares that “those who are of faith are children of Abraham,” and that the Scripture, foreseeing that God would justify the Gentiles by faith, “preached the Good News beforehand to Abraham.” Then, a few lines later, he clinches it with Habakkuk 2:4: “The righteous will live by faith.” That is the same verse stamped on the thesis of this whole letter at Romans 1:17 — the verse God told Habakkuk to write large on tablets so a runner could read it while running. So trace the line David has already walked: a prophet in a collapsing Judah is told that the just shall live by faith; Paul makes that sentence the headline of Romans; and Romans 4 is the chapter where he proves it from the Torah's own star-lit night. Habakkuk gave the principle. Abraham is the precedent.",
+        "Then there is the passage that looks like a contradiction, and David should be given the real answer rather than a soothing one. James 2 asks, “Wasn't Abraham our father justified by works, in that he offered up Isaac his son on the altar?” and says the Scripture — the same Genesis 15:6 — was “fulfilled” by that act. The two apostles are quoting one verse and reaching opposite-sounding conclusions because they are answering opposite questions and standing in different courtrooms. Paul is asking how a guilty man gets a verdict from God, and he points to Genesis 15, the night of the stars. James is asking what kind of faith is real, and he points to Genesis 22, the morning on Moriah — decades later, with the promised son grown enough to carry the wood up the hill himself. Genesis 15 is where Abraham was declared righteous; Genesis 22 is where that verdict was publicly vindicated in front of everyone, including Abraham. And look at what Hebrews says was actually running through his mind as he raised the knife — he went up that mountain “concluding that God is able to raise up even from the dead” (Hebrews 11:19). That is Romans 4:17 and 4:21 in the same man on the same mountain — the God who gives life to the dead, who is able to perform what He promised. Abraham's obedience on Moriah was not an alternative to his faith. It was resurrection faith with a knife in its hand."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Accounted / Counted / Credited",
+      "hebrew": "λογίζομαι",
+      "translit": "logizomai",
+      "strongs": "G3049",
+      "verses": "v. 3, 4, 5, 6, 8, 9, 10, 11, 22, 23, 24",
+      "insight": "Strong's defines it as “to take an inventory, i.e. estimate” — a bookkeeper's word: to post an entry, to reckon a sum into an account, to charge or credit a name. One verb, eleven appearances in twenty-five verses; every turn in the chapter swings on it. It is used both of what God writes IN (righteousness, v. 3) and of what God refuses to write in (sin, v. 8). And the metaphor has teeth: an accounting entry is not the same thing as a personal achievement. Nothing changed in Abraham's biography the night God posted righteousness to his name — a status was assigned. Which is why your standing before God is not a running total of how your week went. It is an entry made by Someone else, in ink you cannot smudge."
+    },
+    {
+      "english": "Something Owed / A Debt",
+      "hebrew": "ὀφείλημα",
+      "translit": "opheilēma",
+      "strongs": "G3783",
+      "verses": "v. 4",
+      "insight": "Literally “something owed, a due.” Paul sets it in direct opposition to χάρις (charis, G5485), grace or favour. He is not comparing two acceptable options; he is naming two incompatible economies. In one, God is an employer settling accounts and your obedience is an invoice. In the other, God is a Giver and you arrive with nothing to present. And weigh where this noun actually turns up, because it appears only twice in the whole New Testament. Once here — what a worker is owed. Once on the lips of Jesus, teaching you how to pray: “forgive us our debts” (Matthew 6:12). Set the two occurrences side by side and the whole economy is on the table. Scripture never once uses this word of something God owes you; both times the debt runs the other way, and the only instruction ever given about it is to ask the Father to cancel it. A debt like that is not worked off. It is forgiven, or it is carried."
+    },
+    {
+      "english": "Seal",
+      "hebrew": "σφραγίς",
+      "translit": "sphragis",
+      "strongs": "G4973",
+      "verses": "v. 11",
+      "insight": "A signet — the ring pressed into wax to mark ownership, privacy, and genuineness. A seal never creates the contents of a document; it certifies a document that already exists. Circumcision was Abraham's seal, and God fixed the dates so the two could never be confused: righteousness reckoned in Genesis 15, wax applied in Genesis 17, at least fourteen years apart. Carry the word forward, because Paul reuses this very root for what God did to you: after you heard the gospel and believed, you “were sealed” with the Holy Spirit of promise (Ephesians 1:13). Notice the order there too — the mark follows the believing. It authenticates; it does not achieve."
+    },
+    {
+      "english": "Promise",
+      "hebrew": "ἐπαγγελία",
+      "translit": "epangelia",
+      "strongs": "G1860",
+      "verses": "v. 13, 14, 16, 20",
+      "insight": "An announcement or pledge — Strong's calls it “especially a divine assurance of good.” Feel the grammar of the thing: a promise is made, not negotiated. It creates an obligation in the one who speaks it, not in the one who hears it, which is why there are no terms for you to meet. That is exactly why verse 16 argues that the promise can only be “sure” if it is by faith and according to grace. Add a single condition you must perform and the promise degrades into a contract — and a contract is only ever as reliable as its weakest signatory, which will always be you."
+    },
+    {
+      "english": "Fully Assured / Fully Persuaded",
+      "hebrew": "πληροφορέω",
+      "translit": "plērophoreō",
+      "strongs": "G4135",
+      "verses": "v. 21",
+      "insight": "Built from “full” and “to carry” — to be carried the whole way, borne fully, completely convinced. It is the picture of a ship under full sail, driven the entire distance by a wind it did not generate. Now notice precisely what Abraham was fully carried in. Not a feeling. Not a forecast. Not certainty about the timeline. The conviction that God “was also able to perform” what He had promised. This is where real assurance lives, and it is why assurance survives sterile decades. You will never be fully persuaded about the how or the when. You are being asked to be fully persuaded about the Who."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the ledger you secretly keep on yourself, the badge you are quietly leaning on instead of the blood, and the promise you stopped counting on when the circumstances went sterile.",
+    "items": [
+      {
+        "title": "Wages or Gift — Which One Are You Actually Living On?",
+        "body": "Answer verse 4 with your gut, not your doctrine. After a strong week — prayer kept, temper held, giving done — do you come to God with a slight straightening of the spine, as though something is now due to you? And after a bad week, do you come crouched, as though the account is overdrawn and you had better work it back up before you dare ask Him for anything? That reflex is opheilēma. It means that functionally, whatever your theology says, God is your employer. And understand why Paul chose Abraham as Exhibit A: the man had works to show. He walked out of Ur on a word. He refused to take a thread from the king of Sodom. He tithed to Melchizedek. And Paul says that before God he had no boast at all. So let the Spirit press it: if your salvation is a wage, why have you never once felt sure it was paid in full? And if it is a gift, why are you still working the shift?"
+      },
+      {
+        "title": "You Are Trusting the Seal Instead of the Signature",
+        "body": "Every religious person carries a mark. For Abraham's children it was circumcision — a genuine, God-given sign that they slowly converted into the ground of their confidence. Yours has a different name. It may be the date of your baptism, your years in the house, the position you hold, the tithe you have never missed, the sin you have never committed that other people do, or simply the fact that you are the one in your family who prays. Now watch how Paul dismantled it. He did not attack the mark. He checked the calendar. Righteousness was reckoned to Abraham at least fourteen years before a knife ever touched him — so the mark cannot be the thing that produced the standing. Which is why verse 12 lands where it hurts: you are not his child because you carry the sign, but because you “walk in the steps of that faith” he had before he had any sign at all. So name your seal, out loud and honestly. Then ask the question that exposes it: if that badge were stripped from you tomorrow — the position gone, the record broken, the reputation ruined — would you still know you were righteous before God? If the answer is no, you have been standing on wax."
+      },
+      {
+        "title": "What Went Dead While You Were Waiting?",
+        "body": "Paul will not spare you the clinical word. Sarah's womb was a nekrōsis — a dead thing, a dying-off. Abraham's body was worn out. And twenty-five years stood between the promise and Isaac. So say it plainly: what has gone sterile in your life while you were believing? The marriage that stopped improving. The calling that never opened. The child. The body. The business that keeps almost turning. The relative who will not come home. There is a promise you used to pray over that exact thing, and somewhere in the waiting you stopped mentioning it to God — not because you concluded He was a liar, but because it became humiliating to keep asking for something that never moved. That silence has a name, and verse 20 supplies it: wavering through unbelief, a man divided against himself. But now look at what Abraham did in the dead years. He gave glory to God before there was anything to point at, and he grew strong DURING the sterility, not after it. So the Spirit puts two questions to you tonight, and neither one is rhetorical: what is the dead thing you have quietly buried and stopped naming? And will you give God glory over it tonight, while it is still dead?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Boast Check",
+        "body": "If God asked you tonight what you have found “according to the flesh,” what would honestly come out of your mouth first — not the answer you know is theologically correct, but the one your heart reaches for? Whatever you would instinctively hold up is the thing you are still quietly trying to be justified by."
+      },
+      {
+        "title": "The Seal Audit",
+        "body": "Write down the three things that most make you feel secure with God. Now interrogate each one: is this a signature, or is it wax? A sign of a righteousness already credited to me, or the ground I am actually standing on? At least one of those three is load-bearing in your soul when God never designed it to carry weight."
+      },
+      {
+        "title": "The Abandoned Promise",
+        "body": "Name the specific promise you have stopped counting on. You will know it by this test: it is the thing you no longer bring up in prayer, because bringing it up hurts more than the silence does. When exactly did you stop — and what circumstance was it that made you stop?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Keeping the Ledger God Keeps",
+        "body": "Tonight, take one sheet of paper and rule it into two columns. Head the left one “What I have earned,” and write down honestly everything your works have actually purchased before God — then sit with what you wrote until it stops being an idea. Head the right one “What was credited,” and write out Romans 4:8 with your own name inside it: “Blessed is David, whom the Lord will by no means charge with sin.” Then read verse 5 aloud over yourself — “him who justifies the ungodly” — and pray it as a confession rather than a compliment: “Lord, that is the only category I have ever qualified for, and it is the only one You have ever needed.” Fold the paper into your Bible at Romans 4 and go back to it the next time your conscience tries to reopen the case."
+      },
+      {
+        "title": "Giving Glory Over the Dead Thing",
+        "body": "Take the promise you named in the audit and make a seven-day appointment with it — same time each day, out loud, alone. Do not beg for it. Do exactly what verses 20-21 record: give glory to God over it while it is still dead. Say the promise back to Him from Scripture, then say this and mean it — “I am not fully persuaded of how. I am not fully persuaded of when. I am fully persuaded that You are able to perform what You have promised.” Seven days, whether anything moves or not. And if your voice shakes, keep going; Abraham laughed at the arithmetic once too, and the Holy Spirit still had Paul call him strong in faith."
+      }
+    ]
+  },
+  "prayerReflection": "\"Father, I come to You the way Abraham came — with nothing found according to the flesh, and no boast to bring toward You. I confess that I have been working for a wage from You: the straightened spine on my good weeks, the crouch on my bad ones, the private ledger I keep on myself as though You were my employer and I were Your creditor. You are not my employer. You are my Father, and what I need from You could never be counted as something owed — only as grace. So I take my place in the only line You have ever justified anyone from: I am the ungodly one, and You are the God who justifies the ungodly. Thank You for the column You will by no means write in. Thank You that my iniquities are forgiven and my sins are covered, and that blessedness is not measured by what I have gathered but by what You have refused to charge to my account. Lord, strip the wax off me. I have leaned on my marks — the years, the service, the disciplines, the sins I have not committed — and I have called that assurance when it was never the signature. Let me stand where Abraham stood before any mark was made on him: on Your word alone, walking in the steps of that faith. And Father, You know the dead thing. You know the promise I stopped mentioning because it became humiliating to keep asking. I bring it back into the light tonight. I will not lie about the facts — the womb is dead, the years have gone, the report is accurate — but I refuse to let the deadness cast the deciding vote. You give life to the dead. You call the things that are not, as though they were. So I give You glory now, before there is anything to point at, and I ask You to make me grow strong in the waiting and not only in the answer. I am not fully persuaded of how, and I am not fully persuaded of when — I am fully persuaded that You are able to perform what You have promised. Jesus, You were delivered up for my trespasses and raised for my justification; the debt was settled at the cross and the receipt was signed at the empty tomb. Teach me to live like a man who has read the receipt. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "The Night God Walked Between the Pieces Alone",
+      "ref": "Genesis 15:1-21",
+      "relatedVerses": "v. 3, 16, 18",
+      "summary": "God brought a childless old man out under the night sky and told him to number the stars if he could — so will your offspring be. Abram believed the LORD, and the LORD counted it to him for righteousness: the one sentence Paul builds this entire chapter on. But read the rest of that chapter, because it is the reason verse 16 can call the promise “sure.” Abram asked how he could know he would inherit, and God had him cut animals in half and lay the pieces in two rows — the ancient covenant ceremony in which both parties walked the bloody aisle between them, effectively saying, “let this be done to me if I break my word.” Then God put Abram into a deep sleep. A smoking furnace and a flaming torch passed between the pieces alone. Only one Party walked, which means only one Party ever carried the penalty clause — and that is precisely why an inheritance resting on God's promise cannot be forfeited by the man who received it."
+    },
+    {
+      "title": "The Year David Said Nothing",
+      "ref": "Psalm 32; 2 Samuel 12:1-13",
+      "relatedVerses": "v. 6-8",
+      "summary": "Between the rooftop and the prophet, David said nothing — and Psalm 32 is his own report of what the silence cost him: his bones wasted away through his groaning all day long. He was still the king, still leading the nation's worship, still functioning in public, and rotting in private. It took a prophet God sent to his face to break the silence open; David finally said out loud that he had sinned against the LORD, and was told on the spot that the LORD had put his sin away. Out of that came the psalm Paul now enters as his second witness — and mark carefully who is testifying. Scripture's model of the blessed man is an adulterer and a murderer whose only qualification is that God would not charge sin to his account. If David is admissible as a witness, so are you."
+    },
+    {
+      "title": "Two Laughs and a Boy Named Laughter",
+      "ref": "Genesis 17:15-19; 18:9-15; 21:1-7",
+      "relatedVerses": "v. 19-21",
+      "summary": "When God announced that Sarah herself would bear a son, Abraham fell on his face and laughed and did the arithmetic out loud — a hundred years old, and Sarah ninety. Later Sarah laughed behind the tent door and then denied it, and God answered with the question this whole chapter turns on: is anything too hard for the LORD? That is Romans 4:21 in Genesis form — what He promised, He is able to perform. So God named the boy Isaac, which means “he laughs,” and wrote the memory of their unbelief into the child's name forever. And when he was born, Sarah said God had made her laugh — the same sound, converted. Take the comfort in it: Paul calls Abraham strong in faith knowing full well that Abraham laughed. Faith that trembles, staggers, and still refuses to let go of the promise is the faith God credits."
+    }
+  ]
+}

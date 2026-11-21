@@ -1,0 +1,645 @@
+{
+  "type": "chapterStudy",
+  "book": "Romans",
+  "chapter": 7,
+  "chapterTitle": "Dead to the Law, Married to Another — and the War in the Members",
+  "themeTitle": "“The Law Was Never the Problem. I Was.”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Or don’t you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives?",
+      "understanding": "Paul lays down a legal axiom his readers cannot dispute: law only has jurisdiction over the living. The verb is kyrieuō, ‘to lord it over’ — the same word he has just used twice, of death that ‘no more has dominion over him’ (6:9) and of sin that ‘will not have dominion over you’ (6:14). Death is the one event that cancels every claim a law can make on a person. A corpse cannot be prosecuted.",
+      "words": [
+        {
+          "strongs": "G2961",
+          "hebrew": "κυριεύω",
+          "translit": "kyrieuō",
+          "english": "has dominion"
+        },
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nomos",
+          "english": "law"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For the woman that has a husband is bound by law to the husband while he lives, but if the husband dies, she is discharged from the law of the husband.",
+      "understanding": "The illustration: a married woman is ‘bound’ (deō — tied, held in bonds) to her husband by law for exactly as long as he breathes. His death does not relax the bond; it dissolves it. She is ‘discharged’ — katargeō, rendered entirely idle, made of no effect — the very verb Paul will turn on you in verse 6. The obligation is not renegotiated. It is annulled at the root.",
+      "words": [
+        {
+          "strongs": "G1210",
+          "hebrew": "δέω",
+          "translit": "deō",
+          "english": "bound"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargeō",
+          "english": "discharged"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "So then if, while the husband lives, she is joined to another man, she would be called an adulteress. But if the husband dies, she is free from the law, so that she is no adulteress, though she is joined to another man.",
+      "understanding": "The same act, two opposite verdicts, and the only variable is a death. Joined to a second man while the first lives, she is an adulteress; joined to a second man after the first dies, she is innocent and free. Paul is establishing more than permission — a real death does not merely allow the new union, it makes the new union honorable.",
+      "words": [
+        {
+          "strongs": "G3428",
+          "hebrew": "μοιχαλίς",
+          "translit": "moichalis",
+          "english": "adulteress"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Therefore, my brothers, you also were made dead to the law through the body of Christ, that you would be joined to another, to him who was raised from the dead, that we might produce fruit to God.",
+      "understanding": "Here is the turn, and it is not the turn you expect. Paul does not say the law died. YOU did — ‘you were made dead’ (thanatoō, passive: this was done to you) ‘through the body of Christ,’ his literal crucified body, in which God included you. The death that freed you is a death you did not perform. And it had a purpose past release: remarriage. You were not widowed to be left alone; you were widowed to be joined to the risen One — and a marriage exists to bear fruit.",
+      "words": [
+        {
+          "strongs": "G2289",
+          "hebrew": "θανατόω",
+          "translit": "thanatoō",
+          "english": "made dead"
+        },
+        {
+          "strongs": "G2592",
+          "hebrew": "καρποφορέω",
+          "translit": "karpophoreō",
+          "english": "produce fruit"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For when we were in the flesh, the sinful passions which were through the law, worked in our members to bring out fruit to death.",
+      "understanding": "Read the opening clause slowly: ‘when we WERE in the flesh.’ It is a past address, and 8:9 will confirm it — ‘you are not in the flesh but in the Spirit.’ In that old marriage the passions were energized ‘through the law’: the rule did not restrain the appetite, it aroused it. And they went to work in the ‘members’ — melos, actual limbs, the hands and eyes and tongue. Both marriages bear fruit. The only question is which kind.",
+      "words": [
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sarx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G3804",
+          "hebrew": "πάθημα",
+          "translit": "pathēma",
+          "english": "passions"
+        },
+        {
+          "strongs": "G3196",
+          "hebrew": "μέλος",
+          "translit": "melos",
+          "english": "members"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But now we have been discharged from the law, having died to that in which we were held; so that we serve in newness of the spirit, and not in oldness of the letter.",
+      "understanding": "‘But now’ — Paul’s great hinge (3:21; 6:22; 7:6). We were ‘held’ by the law the way a prisoner is held in custody, and the release came by death, not by parole. Then notice what freedom is for. It is not the end of service: we still serve (douleuō, the verb for a slave’s labor). It is the change of the power source — the newness the Spirit makes, instead of the oldness of a written code we could read perfectly and never once keep.",
+      "words": [
+        {
+          "strongs": "G2538",
+          "hebrew": "καινότης",
+          "translit": "kainotēs",
+          "english": "newness"
+        },
+        {
+          "strongs": "G3821",
+          "hebrew": "παλαιότης",
+          "translit": "palaiotēs",
+          "english": "oldness"
+        },
+        {
+          "strongs": "G1121",
+          "hebrew": "γράμμα",
+          "translit": "gramma",
+          "english": "letter"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "What shall we say then? Is the law sin? May it never be! However, I wouldn’t have known sin, except through the law. For I wouldn’t have known coveting, unless the law had said, “You shall not covet.”",
+      "understanding": "Paul hears the objection his own words invite: if the law stirs up sinful passions, is the law itself sin? ‘May it never be!’ — mē genoito, the strongest negation in his vocabulary, fired ten times in this letter. Then the confession: the law is not the disease, it is the diagnosis. And watch which commandment he reaches for — the tenth, the only one of the ten that leaves no external evidence. Nine of them can be checked by a witness. The tenth is enforced entirely inside your own head, which is precisely where Paul is about to take you.",
+      "words": [
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymia",
+          "english": "coveting"
+        },
+        {
+          "strongs": "G1937",
+          "hebrew": "ἐπιθυμέω",
+          "translit": "epithymeō",
+          "english": "covet"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But sin, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, sin is dead.",
+      "understanding": "‘Occasion’ is aphormē — a starting point, a base of operations, the beachhead an army seizes to launch a campaign inland. Sin does not merely trip over the commandment; it captures it and stages an invasion from it. Notice too that Paul has stopped describing sin as an act and started describing it as an agent: sin finds, sin seizes, sin produces. And the yield is not one covetous thought — it is ‘all kinds,’ the whole catalogue, kicked awake by a single prohibition.",
+      "words": [
+        {
+          "strongs": "G874",
+          "hebrew": "ἀφορμή",
+          "translit": "aphormē",
+          "english": "occasion"
+        },
+        {
+          "strongs": "G1785",
+          "hebrew": "ἐντολή",
+          "translit": "entolē",
+          "english": "commandment"
+        },
+        {
+          "strongs": "G2716",
+          "hebrew": "κατεργάζομαι",
+          "translit": "katergazomai",
+          "english": "produced"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "I was alive apart from the law once, but when the commandment came, sin revived, and I died.",
+      "understanding": "There was a season of untroubled ‘life’ — the unexamined confidence of a man who had never yet been personally cornered by a commandment. Then it came near, and two things happened in opposite directions at the same instant: sin stood up and the man went down. That is not the law malfunctioning. That is the law doing precisely the job it was sent to do. Any religion that leaves you feeling alive has not yet let the commandment get close enough."
+    },
+    {
+      "v": 10,
+      "text": "The commandment, which was for life, this I found to be for death;",
+      "understanding": "The commandment was genuinely aimed at life — ‘You shall therefore keep my statutes and my ordinances, which if a man does, he shall live in them’ (Leviticus 18:5), the line Paul will quote again at 10:5. Nothing was wrong with the aim. But a perfect road map is lethal to a man with no legs. What was ordained for life delivered a death sentence, not because the promise lied, but because the man could not walk."
+    },
+    {
+      "v": 11,
+      "text": "for sin, finding occasion through the commandment, deceived me, and through it killed me.",
+      "understanding": "The verb is exapataō — to seduce wholly — the same word Paul uses of the serpent and Eve (2 Corinthians 11:3; 1 Timothy 2:14). This is Eden’s script running inside a Pharisee: a good command, a lying voice, a stolen thing, a death. Sin’s method has not changed in all the centuries between. It never argues that God is wrong; it whispers that God is withholding.",
+      "words": [
+        {
+          "strongs": "G1818",
+          "hebrew": "ἐξαπατάω",
+          "translit": "exapataō",
+          "english": "deceived"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Therefore the law indeed is holy, and the commandment holy, and righteous, and good.",
+      "understanding": "Verdict delivered — and Paul stacks the words so no one can misfile it: holy (hagios, set apart, belonging to God), righteous (dikaios, perfectly just in what it demands), good (agathos, good in its very nature). Everything catastrophic in verses 7 through 11 happened without a single flaw in the law. The murder weapon was clean.",
+      "words": [
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hagios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "dikaios",
+          "english": "righteous"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathos",
+          "english": "good"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Did then that which is good become death to me? May it never be! But sin, that it might be shown to be sin, was producing death in me through that which is good; that through the commandment sin might become exceedingly sinful.",
+      "understanding": "The second ‘may it never be’ — the law is acquitted twice in seven verses. Then Paul reveals the strategy behind the whole ordeal: God allowed sin to use a good thing as a murder weapon precisely so that sin would be caught in the open and identified for what it is. ‘Exceedingly sinful’ is kath’ hyperbolēn — hyperbolically, past all measure. Anything that can take what is holy, righteous and good and turn it into an instrument of death has just confessed its own nature.",
+      "words": [
+        {
+          "strongs": "G5236",
+          "hebrew": "ὑπερβολή",
+          "translit": "hyperbolē",
+          "english": "exceedingly"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For we know that the law is spiritual, but I am fleshly, sold under sin.",
+      "understanding": "The tense changes here and never changes back — from ‘I died’ to ‘I am,’ and the last twelve verses run in unbroken present tense. The contrast is total: the law is spiritual, belonging to the realm of the Spirit; I am fleshly. And ‘sold under sin’ renders pipraskō, a slave-market word for merchandise — or a human being — disposed of into slavery. This is not a man with a bad habit. This is a man with an owner.",
+      "words": [
+        {
+          "strongs": "G4152",
+          "hebrew": "πνευματικός",
+          "translit": "pneumatikos",
+          "english": "spiritual"
+        },
+        {
+          "strongs": "G4097",
+          "hebrew": "πιπράσκω",
+          "translit": "pipraskō",
+          "english": "sold"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For I don’t know what I am doing. For I don’t practice what I desire to do; but what I hate, that I do.",
+      "understanding": "The most honest sentence in the chapter: my own behavior has become unintelligible to me. And these are not weak intentions — Paul uses thelō (to will, to determine, to choose) and miseō (to detest). He genuinely wants the good, genuinely hates the evil, and does the evil anyway. Preachers often press a hard distinction between prassō (‘practice’) and poieō (‘do’), but Paul swaps their positions in verse 19 — the two verbs are simply hammering the same nail from both sides.",
+      "words": [
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thelō",
+          "english": "desire"
+        },
+        {
+          "strongs": "G3404",
+          "hebrew": "μισέω",
+          "translit": "miseō",
+          "english": "hate"
+        },
+        {
+          "strongs": "G4238",
+          "hebrew": "πράσσω",
+          "translit": "prassō",
+          "english": "practice"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "But if what I don’t desire, that I do, I consent to the law that it is good.",
+      "understanding": "A strange and brilliant argument: my frustration is a vote in the law’s favor. The fact that I hate what I just did proves I agree with the standard that condemns it — ‘I consent’ is sumphēmi, literally ‘I speak along with’ the law. And the word for good here is kalos, beautiful, noble, admirable. Even a man losing the war still salutes the flag.",
+      "words": [
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalos",
+          "english": "good"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "So now it is no more I that do it, but sin which dwells in me.",
+      "understanding": "This is not an alibi — Paul has already agreed the acts are his and said he hates them. It is a diagnosis: the acts are being driven by something resident. ‘Dwells’ is oikeō, to occupy a house, to reside, to inhere. Hold that verb tightly. In chapter 7 sin is the tenant (7:17, 18, 20); in chapter 8 the identical verb names a different resident — ‘the Spirit of God dwells in you’ (8:9), and again of the Spirit of Him who raised up Jesus (8:11). The entire cure is a change of who lives there.",
+      "words": [
+        {
+          "strongs": "G3611",
+          "hebrew": "οἰκέω",
+          "translit": "oikeō",
+          "english": "dwells"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartia",
+          "english": "sin"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For I know that in me, that is, in my flesh, dwells no good thing. For desire is present with me, but I don’t find it doing that which is good.",
+      "understanding": "Notice the precision of the qualifier — not ‘in me nothing good dwells,’ but ‘in me, that is, in my flesh.’ Paul is not despising his body or denying that man bears God’s image; he is locating the problem exactly. And here is the anatomy of every broken resolution you have ever made: the willing is present, the doing is missing. Desire was never your shortage. Power was.",
+      "words": [
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sarx",
+          "english": "flesh"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "For the good which I desire, I don’t do; but the evil which I don’t desire, that I practice.",
+      "understanding": "The same sentence again, deliberately — because this is not an idea you grasp once, it is a loop you live in. Paul circles back the way a man circles back at two in the morning after doing the thing he swore last week he would never do again. The good stays theoretical. The evil keeps getting practised."
+    },
+    {
+      "v": 20,
+      "text": "But if what I don’t desire, that I do, it is no more I that do it, but sin which dwells in me.",
+      "understanding": "The conclusion restated, with the same resident sin. Paul says ‘dwells in me’ three times in four verses because he wants one thing to be unmistakable: your problem is not a string of incidents, it is an occupant. You cannot repent your way out of a resident. Somebody has to evict him."
+    },
+    {
+      "v": 21,
+      "text": "I find then the law, that, to me, while I desire to do good, evil is present.",
+      "understanding": "Watch the word ‘law’ shift meaning under your feet. This is not Moses — this is a discovered principle, a rule of operation as consistent as gravity: every single time I reach for the good, evil is already standing there waiting. Paul is not reporting a mood. He is reporting a law of nature in fallen human flesh, and he found it the way you find a law — by running the experiment enough times.",
+      "words": [
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nomos",
+          "english": "law"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "For I delight in God’s law after the inward man,",
+      "understanding": "‘Delight’ is synēdomai — to feel a deep, glad satisfaction, to rejoice along with something. This man is no rebel; he is Psalm 1 and Psalm 119 in the flesh, genuinely loving what God commands, ‘after the inward man’ — esō anthrōpos, the real self behind the behavior. And here is the crushing lesson: sincere delight in God’s law has never once been sufficient to produce obedience. Which is exactly why a new nature and an indwelling Spirit are not spiritual luxuries.",
+      "words": [
+        {
+          "strongs": "G4913",
+          "hebrew": "συνήδομαι",
+          "translit": "synēdomai",
+          "english": "delight"
+        },
+        {
+          "strongs": "G2080",
+          "hebrew": "ἔσω",
+          "translit": "esō",
+          "english": "inward"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "anthrōpos",
+          "english": "man"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members.",
+      "understanding": "Three ‘laws’ in one sentence: a different law in the members (heteros — another of a different kind), the law of the mind, and the law of sin. ‘Warring against’ is antistrateuomai, to run a military campaign against; ‘bringing into captivity’ is aichmalōtizō, the word for marching prisoners of war off in chains. The battlefield is your own body — and in this chapter, the wrong side is taking prisoners.",
+      "words": [
+        {
+          "strongs": "G497",
+          "hebrew": "ἀντιστρατεύομαι",
+          "translit": "antistrateuomai",
+          "english": "warring against"
+        },
+        {
+          "strongs": "G163",
+          "hebrew": "αἰχμαλωτίζω",
+          "translit": "aichmalōtizō",
+          "english": "bringing into captivity"
+        },
+        {
+          "strongs": "G3563",
+          "hebrew": "νοῦς",
+          "translit": "nous",
+          "english": "mind"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "What a wretched man I am! Who will deliver me out of the body of this death?",
+      "understanding": "Talaipōros — worn out by enduring trial, miserable from the sheer strain of it. The only other person in the New Testament called this word is the church at Laodicea, which believed it needed nothing (Revelation 3:17). And catch the pronoun, because everything turns on it: not ‘what will deliver me,’ not ‘how do I deliver myself’ — WHO. The dead end of Romans 7 is the exact spot where a man stops shopping for a technique and starts crying out for a Person.",
+      "words": [
+        {
+          "strongs": "G5005",
+          "hebrew": "ταλαίπωρος",
+          "translit": "talaipōros",
+          "english": "wretched"
+        },
+        {
+          "strongs": "G4506",
+          "hebrew": "ῥύομαι",
+          "translit": "rhyomai",
+          "english": "deliver"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thanatos",
+          "english": "death"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "I thank God through Jesus Christ, our Lord! So then with the mind, I myself serve God’s law, but with the flesh, the sin’s law.",
+      "understanding": "The question of verse 24 is answered before the sentence can cool — and the answer is a Person, named out loud: ‘through Jesus Christ, our Lord.’ Then Paul writes one final summary of the plight he is walking out of, and he deliberately leaves it unresolved: mind on this side, flesh on that. He is not ending in defeat; he is holding a door open. The very next sentence out of his mouth is Romans 8:1 — ‘There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit.’ Read that last clause: the walk this chapter could not manage is named there, and it belongs to Somebody who has not been mentioned since verse 6.",
+      "words": [
+        {
+          "strongs": "G2168",
+          "hebrew": "εὐχαριστέω",
+          "translit": "eucharisteō",
+          "english": "I thank"
+        },
+        {
+          "strongs": "G1398",
+          "hebrew": "δουλεύω",
+          "translit": "douleuō",
+          "english": "serve"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Bound to a Husband Who Will Not Die",
+      "verseRef": "v. 2-3",
+      "image": "Picture a woman in a first-century house, legally welded to a man she cannot leave. He does not travel, he does not sicken, he does not age. Every morning he is standing in the doorway with the household rules in his hand, and every one of them is right. He never once asks her for anything unjust — that is what makes him unanswerable. She cannot divorce him for cruelty because he is not cruel. She cannot outlive him because he does not die. And a second man is standing outside in the street, alive from the dead, wanting to marry her — and while the first husband breathes, she cannot go to him without becoming an adulteress. There is exactly one door out of that house, and it is a funeral.",
+      "meaning": "This is your relationship to the law until Christ. You cannot argue your way out of a covenant with a righteous party — the law’s demands are holy, righteous and good, so there are no grounds for complaint and no legal exit. Then Paul detonates the analogy: the husband did not die, YOU did. God did not lower the law’s standard to release you; He put you to death in the crucified body of Christ and raised you to be married to Someone else. Which means every attempt to improve your marriage to the law — harder resolutions, tighter rules, better performance — is a widow negotiating with a grave."
+    },
+    {
+      "title": "The Beachhead",
+      "verseRef": "v. 8, 11",
+      "image": "Aphormē is a soldier’s word: the base of operations, the landing point, the strip of ground an invading force seizes so it has somewhere to put its boots down. Now watch what sin does with a commandment. God posts a holy word — ‘You shall not covet’ — like a boundary marker driven into the ground. And sin comes ashore right at that marker, digs in, and launches the whole campaign from there. Say to a child ‘do not touch the wet paint’ and watch what the child’s hand starts doing. The prohibition did not create the appetite. It gave the appetite an address.",
+      "meaning": "This is why the fence you built around your worst sin so often becomes the thing you think about all day. Sin is not merely disobedient; it is strategic. It takes what God gave for your protection and turns it into a launch site — and it is precisely because the commandment is good that the operation is so devastating. Understand this and you will stop being astonished at yourself, and start asking a different question: not ‘how do I try harder against the beachhead,’ but ‘who has the power to drive the occupying force out of my members?’"
+    },
+    {
+      "title": "A Counter-Army Camped in Your Own Body",
+      "verseRef": "v. 23",
+      "image": "Paul stops using moral language and starts using military language. There is a different law ‘in my members’ — in my hands, my eyes, my appetite — and it is antistrateuomai, running a counter-campaign against the law of my mind. This is not a bad mood or a weak moment. This is a standing army bivouacked inside the borders, with supply lines and objectives. And it is winning ground: aichmalōtizō, taking prisoners, roping the man who lost the battle and marching him away in the column of captives. The mind stands on the hill agreeing with God. The body is already being led off in chains.",
+      "meaning": "This is why sincerity keeps failing you. You are not fighting a habit; you are fighting an occupation, and the occupied territory is your own flesh. Notice that the mind is not neutral in this chapter — it delights in God’s law and it still loses, because agreement is not artillery. Romans 7 is a man trying to win a war with a conscience instead of a Deliverer. The siege is never broken by a better mind. It is broken in 8:2 by a stronger law — the law of the Spirit of life in Christ Jesus."
+    },
+    {
+      "title": "The Corpse Strapped to the Living Man",
+      "verseRef": "v. 24",
+      "image": "‘Who will deliver me out of the body of this death?’ The Roman poet Virgil describes the Etruscan tyrant Mezentius executing men by binding the living face to face with the dead — hand pressed to hand, mouth to mouth — and leaving them tied together until the decay of the corpse consumed the living man (Aeneid 8.485-488). Whether or not Paul had that horror in mind — and we cannot prove that he did — the phrase says it on its own: a man dragging around, strapped to himself, a dead thing he cannot unbuckle, cannot outrun, and cannot wash off. He can carry it to church. He can carry it into his prayers. He cannot carry it out of his own body.",
+      "meaning": "The cry is not self-pity, and it is not despair — it is the last thing a man says before he is saved from himself. Talaipōros is the word for exhaustion under long trial; this is the sound of a man who has finally stopped negotiating. And listen to the shape of the question: WHO, not how. Every self-improvement plan you have ever run answers ‘how.’ Only one answer has ever fit the question — and it arrives in the very next verse with a name on it."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Legal Axiom (v. 1)",
+        "body": "Law rules a man only as long as he lives — death ends every jurisdiction, a principle Paul’s law-literate readers cannot dispute."
+      },
+      {
+        "label": "The Marriage Illustration (v. 2-3)",
+        "body": "A wife is bound to her husband while he lives; his death discharges her from that law and makes a second marriage honorable rather than adulterous."
+      },
+      {
+        "label": "The Application: You Are the One Who Died (v. 4-6)",
+        "body": "You were put to death to the law through the crucified body of Christ, in order to be joined to the risen One and bear fruit to God — serving now in newness of the Spirit, not oldness of the letter."
+      },
+      {
+        "label": "Is the Law Sin? May It Never Be! (v. 7-12)",
+        "body": "The tenth commandment exposed coveting; sin seized the commandment as a beachhead, deceived and killed — and the law is pronounced holy, righteous and good."
+      },
+      {
+        "label": "The Purpose of the Ambush (v. 13)",
+        "body": "God allowed sin to weaponize a good commandment so that sin would be dragged into the open and shown to be sinful beyond all measure."
+      },
+      {
+        "label": "The War: I Do What I Hate (v. 14-20)",
+        "body": "Present tense, unbroken: the law is spiritual, the man is fleshly and sold under sin; the willing is present, the power is absent, and sin is diagnosed as a resident, not an incident."
+      },
+      {
+        "label": "The Law of the Members and the Law of the Mind (v. 21-23)",
+        "body": "A discovered principle: whenever the man reaches for good, evil is already present — a counter-army in the body waging war on a mind that genuinely delights in God’s law, and taking prisoners."
+      },
+      {
+        "label": "The Cry and the Answer (v. 24-25)",
+        "body": "‘What a wretched man I am! Who will deliver me?’ answered instantly by a Person — ‘I thank God through Jesus Christ, our Lord!’ — with the plight summarized one last time so that Romans 8:1 can land like a verdict."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Death Is the Only Thing That Ends a Marriage — and You Are the One Who Died",
+        "paragraphs": [
+          "Read verses 2-4 closely and you will notice Paul appears to break his own illustration. In the picture, the HUSBAND dies and the wife goes free. In the application, the law does not die — ‘you also were made dead to the law.’ This is not sloppiness. Paul’s point was never a tidy allegory with matching parts; it was a single legal principle he stated flatly in verse 1: law has jurisdiction only over the living. Once a death occurs, the bond is void. It does not matter which party the coffin holds. And Paul deliberately puts you in it — because the law is holy, righteous and good, and therefore the law is never the thing that has to go.",
+          "Feel the weight of that. God did not free you by lowering the standard. He did not amend the commandment, grade you on a curve, or quietly retire the tenth word from the ten. Every one of the law’s demands still stands exactly where it stood at Sinai. What God did was execute you in His Son — ‘through the body of Christ,’ that is, through the actual physical body nailed to the cross, in which God counted you present. Chapter 6 said you were buried with Him; chapter 7 says you were widowed by Him. Same death, two different legal consequences.",
+          "And notice the purpose clause, because it is where most people stop reading too early. You were made dead ‘THAT you would be joined to another.’ Freedom from the law is not the point; it is the paperwork. The point is a wedding. And a wedding has an expectation attached: ‘that we might produce fruit to God.’ Verse 5 says the old marriage bore fruit too — fruit to death. So there is no such thing as a sterile union in this chapter. The question is never whether your life is producing something. The question is whose house the children are being raised in."
+        ]
+      },
+      {
+        "heading": "Sin Is Not Only Something You Do — It Is Something That Lives There",
+        "paragraphs": [
+          "From verse 8 onward Paul stops writing about sin as behavior and starts writing about it as a being. Sin finds an occasion. Sin produces. Sin revives. Sin deceives. Sin kills. Sin dwells. These are the verbs of an agent with intelligence and intent, and Paul chose them on purpose — because a man who thinks his problem is a list of bad acts will always reach for a list of good acts as the cure, and the cure will fail every time.",
+          "The tactic is exposed in one word: aphormē, a military term for a base of operations. Sin never argues with a commandment; it occupies one. Watch the pattern show up in your own life: the fast that makes you think about food all day, the vow that makes the thing unforgettable, the accountability app that quietly becomes one more thing to be dishonest about. The law told the truth about the appetite, and the appetite used the truth as a map. Paul says it plainly in 5:20 — ‘The law came in besides, that the trespass might abound.’ That was not the law failing. That was the law working.",
+          "Then hold on to the verb of verses 17, 18 and 20: oikeō, to occupy a house, to reside. Sin is described as a tenant with a lease. And here is the detail that turns this chapter from a description into a doorway — Paul turns that exact same verb around in chapter 8, and the resident has changed: ‘the Spirit of God dwells in you’ (8:9), ‘the Spirit of him who raised up Jesus from the dead dwells in you’ (8:11). The problem of Romans 7 is an occupant. The answer of Romans 8 is a different Occupant. That is why no amount of moral effort has ever solved this chapter and never will: you do not defeat a resident with resolutions. You defeat him with a stronger Resident."
+        ]
+      },
+      {
+        "heading": "Who Is the ‘I’ of Romans 7 — and Why It Must Never Become Your Permission Slip",
+        "paragraphs": [
+          "Godly readers have divided over this for sixteen centuries — Augustine argued one side and then changed his own mind — so hold your conclusion with an open hand toward brothers who land elsewhere; the line here is not between faith and unbelief. But the question must be answered, so here is the reading the grammar and the context best support: verses 14-25 describe life under the law and in the flesh, told in the first person by a man who now knows Christ, re-entering the experience in the vivid present tense so his readers will feel it rather than merely file it.",
+          "The strongest evidence is contextual, and it is severe. Every single thing said of the ‘I’ in this chapter is explicitly denied of the believer in the chapters on either side of it. Here: ‘sold under sin’ (7:14). There: ‘being made free from sin, you became bondservants of righteousness’ (6:18). Here: ‘bringing me into captivity under the law of sin’ (7:23). There: ‘sin will not have dominion over you’ (6:14). Here: ‘when we were in the flesh’ (7:5). There: ‘you are not in the flesh but in the Spirit’ (8:9). And loudest of all is what is missing — across the nineteen verses of 7:7-25, the whole stretch about a man losing to sin, the Holy Spirit is never mentioned once; He drops out after 7:6 and does not surface again until the closing words of 8:1, in a letter where He is named some twenty times in that next chapter alone. A description of normal Christian living that forgets the Spirit entirely would be an astonishing thing for Paul to write.",
+          "The honest counter-evidence deserves naming rather than hiding: the present tenses of verses 14-25 are sustained and deliberate, and ‘the inward man’ of verse 22 is language Paul elsewhere uses of believers (2 Corinthians 4:16; Ephesians 3:16). That is why serious people read it the other way. But a devout Jew genuinely could delight in God’s law after the inward man — that is Psalm 1 and Psalm 119, and Paul himself was once ‘concerning the righteousness which is in the law, found blameless’ (Philippians 3:6). Delight was never the missing ingredient. Power was.",
+          "Now the pastoral edge, and it cuts both ways. If this is not a portrait of the normal Christian life, it IS an exact portrait of what the Christian life feels like the moment you try to live it on Romans 7 resources — by resolve, by rules, by white-knuckled sincerity, without the Spirit. Every believer recognizes this chapter because every believer still has flesh and can still choose to operate out of it. So take the comfort honestly: your struggle is not proof you are unconverted. But refuse the alibi absolutely. Verse 25b — ‘with the mind I serve God’s law, but with the flesh, the sin’s law’ — is Paul’s closing summary of the plight, not his resting place, and the ink was barely dry before he wrote ‘There is therefore now no condemnation.’ A man who quotes ‘wretched man that I am’ every time he sins and never quotes the rest of the sentence has stopped one clause short of the answer and one chapter short of the deliverance. Chapter 6 already asked the question and already answered it: ‘Shall we continue in sin, that grace may abound? May it never be!’ Romans 7 is an autopsy, not an alibi."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Paul had already compressed this entire chapter into two sentences about two years earlier, writing to Corinth: ‘The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ’ (1 Corinthians 15:56-57). Line it up against Romans 7 and the match is exact — sin killing (7:11), the law giving sin its power (7:8-13), and the cry answered not by a method but by thanksgiving to God through Jesus Christ our Lord (7:25). Romans 7 is that compressed statement opened out and lived through in the first person.",
+        "The war of verses 15-23 gets its permanent New Testament name in Galatians 5:17 — ‘For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, that you may not do the things that you desire.’ Notice what Galatians adds that Romans 7 conspicuously lacks: the Spirit is now on the field. In Romans 7 the flesh wars against a MIND and takes prisoners. In Galatians the flesh wars against the SPIRIT — and the very next command is ‘walk by the Spirit, and you won’t fulfill the lust of the flesh’ (Galatians 5:16). Same battlefield, different combatant, different outcome.",
+        "And the verdict of verse 12 became a settled formula in Paul’s last letters: ‘But we know that the law is good, if a man uses it lawfully’ (1 Timothy 1:8). The lawful use of the law is exactly what this chapter demonstrates — not as a ladder to climb, but as a mirror that shows you a corpse strapped to your back so that you will cry out for a Deliverer. Which is precisely where Paul takes you next. Do not read verse 25 and close the book: ‘There is therefore now no condemnation to those who are in Christ Jesus... For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death’ (Romans 8:1-2). Chapter 7 ends with a question mark and a Name. Chapter 8 spends the whole chapter unpacking what that Name did."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Coveting / Desire / Lust",
+      "hebrew": "ἐπιθυμία",
+      "translit": "epithymia",
+      "strongs": "G1939",
+      "verses": "v. 7, 8 (and the verb ἐπιθυμέω, epithymeō, G1937, in v. 7)",
+      "insight": "‘A longing, especially for what is forbidden.’ The verb behind it means to set the heart upon something — a whole-souled reaching, not a passing thought. Of all ten commandments Paul reaches for the tenth, and that choice is surgical: coveting is the only commandment with no external evidence. No one can subpoena your wanting. A man can go his entire life uncaught by the other nine and consider himself blameless — which is exactly what Paul once did (Philippians 3:6) — until ‘You shall not covet’ walks past the behavior and starts reading the appetite. Every other commandment governs what you do with your hands; this one governs what you do in the dark with nothing but your imagination. It is the commandment that finds you."
+    },
+    {
+      "english": "Occasion / Base of Operations",
+      "hebrew": "ἀφορμή",
+      "translit": "aphormē",
+      "strongs": "G874",
+      "verses": "v. 8, 11",
+      "insight": "‘A starting-point, i.e. an opportunity’ — and in ordinary Greek usage, the base of operations from which a military campaign is launched, the ground an army seizes so it has somewhere to land. This single word rewrites how you understand temptation. Sin does not merely disobey the commandment; it captures the commandment and invades from it. And notice where Paul twice says the landing happened — not in spite of the commandment but ‘through the commandment’ (v. 8, 11), the same phrase both times, like two dispatches filed from the same beach. Paul’s later counsel is the practical flip side: ‘make no provision for the flesh, for its lusts’ (Romans 13:14). You cannot argue an occupying force off a beachhead. You cut its supply line and you call in a stronger power."
+    },
+    {
+      "english": "Law",
+      "hebrew": "νόμος",
+      "translit": "nomos",
+      "strongs": "G3551",
+      "verses": "more than twenty times in v. 1-25",
+      "insight": "Strong’s itself flags the range: ‘law... specially, of Moses... or figuratively, a principle.’ Track the senses or this chapter will confuse you. (1) Law as legal jurisdiction — ‘the law has dominion over a man’ (v. 1), ‘the law of the husband’ (v. 2). (2) The Mosaic Torah — holy, righteous, good, spiritual, and delighted in (v. 7, 12, 14, 22). (3) A discovered operating principle — ‘I find then the law, that, to me, while I desire to do good, evil is present’ (v. 21), ‘the law of my mind,’ ‘the law of sin which is in my members’ (v. 23). Paul is not equivocating; he is showing you that everything in a person operates by some governing law, and the fight is over which law is actually in command of your body. Chapter 8 names the winner in the same vocabulary: ‘the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death’ (8:2). You will never be lawless. You will only ever change governments."
+    },
+    {
+      "english": "The Inward Man",
+      "hebrew": "ἔσω ἄνθρωπος",
+      "translit": "esō anthrōpos",
+      "strongs": "G2080 (ἔσω) + G444 (ἄνθρωπος)",
+      "verses": "v. 22",
+      "insight": "Esō means simply ‘inside, inward’; anthrōpos is the human being. Together: the man on the inside, the real self behind the conduct — and Paul says that self genuinely DELIGHTS in God’s law (synēdomai, G4913, ‘to rejoice in with oneself, feel satisfaction concerning’). This is the verse that makes Romans 7 unbearable rather than merely sad. The man is not a hypocrite. He is not faking his love for what God commands. He agrees with the standard, salutes the flag, hates his own failure — and loses anyway. Burn this in: sincerity is not sanctification. Delight in God’s word has never yet, on its own, produced a single act of obedience. The inward man can love the law all day long and still watch his own hands do something else — until the Spirit of Him who raised up Jesus from the dead comes to dwell in him and gives life to his mortal body (Romans 8:11)."
+    },
+    {
+      "english": "Wretched",
+      "hebrew": "ταλαίπωρος",
+      "translit": "talaipōros",
+      "strongs": "G5005",
+      "verses": "v. 24",
+      "insight": "‘Enduring trial, i.e. miserable’ — built from roots meaning to bear a weight and to be put through an ordeal. This is not the misery of a bad day; it is the exhaustion of a man who has been carrying something for years and has finally run out of strength to carry it. The word appears only twice in the New Testament, and the other occurrence is a scalpel: the risen Christ tells the church at Laodicea, ‘you say, I am rich... and don’t know that you are the wretched one’ (Revelation 3:17). One man knows he is wretched and cries out; a whole church is wretched and has no idea. Which means the cry of verse 24 is not the low point of this chapter — it is the breakthrough. The most dangerous condition in Scripture is not knowing you are dying. The safest place a man can stand is at the end of himself, asking WHO."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the thing you have been trying to fix by trying harder — your private wanting, your graveyard of broken resolutions, and the quiet lie that a struggle you have named is a struggle you have dealt with.",
+    "items": [
+      {
+        "title": "You Cannot Divorce What You Have To Die To",
+        "body": "Verse 4 will not let you off with an improvement plan. Paul does not say you were counselled about the law, or given a fresh start with the law, or shown how to keep it better. He says you were EXECUTED — put to death through the body of Christ — because there was no other legal way out of that marriage. So ask yourself what you are still trying to reform that God has already declared dead. How many times have you promised God the improved version of yourself? And here is the sharper question, because verse 4 has a second half: you were not widowed to be single. You were widowed to be married to Him who was raised. Are you living like a free man, or like a widow still keeping house for a dead husband — still measuring yourself by rules that no longer have jurisdiction over you, still flinching at a voice that has no legal standing in your life?"
+      },
+      {
+        "title": "Sin Is Using Your Own Standards Against You",
+        "body": "This is the most unnerving revelation in the chapter: sin took something holy, righteous and good and used it as a beachhead. Which means the boundary you drew, the fast you started, the app you installed, the promise you made out loud — sin will try to invade from every one of them, not because they are wrong, but because they are right and they tell it exactly where you are weak. Where has that already happened to you? Name the rule that has become an obsession. And then hear the correction carefully, because the Spirit is not telling you to tear the fences down — He is telling you that fences were never going to be your salvation. The law was given to expose the occupant, not to evict him. So stop asking your rules to do what only a Deliverer can do. What are you still asking a commandment to accomplish that only Christ can accomplish?"
+      },
+      {
+        "title": "Say the Whole Sentence",
+        "body": "There is a way of quoting Romans 7 that is really a way of surrendering. ‘I don’t practice what I desire to do’ becomes a shrug; ‘wretched man that I am’ becomes a shelter; ‘that’s just Romans 7, brother’ becomes the sentence you say instead of repenting. Refuse it. Paul did not stop at verse 24, and neither is he asking you to — the cry and the thanksgiving are in the SAME breath: ‘Who will deliver me out of the body of this death? I thank God through Jesus Christ, our Lord!’ And the very next thing he says is that there is now no condemnation. So examine it honestly this week. When you talk about your struggle, is it a confession that is driving you to Christ, or an explanation that is keeping you comfortable? Are you crying out ‘WHO will deliver me,’ or have you quietly settled for managing the corpse? And what have you called a weakness for so long that you have stopped calling it what God calls it — sin that a Deliverer died to remove?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Tenth Commandment Audit",
+        "body": "Coveting leaves no evidence, so nobody has ever confronted you about it. Sit with that. When your mind is idle — in traffic, before sleep, scrolling — what does it go shopping for? Whose life, whose marriage, whose money, whose platform, whose body? Write down the actual answer, not the respectable one. Everything you have kept hidden because it never showed up in your behavior is exactly what ‘You shall not covet’ was written to drag into the light."
+      },
+      {
+        "title": "The Resolution Graveyard",
+        "body": "List the promises you have made to God about one specific sin — the dates, the fasts, the accountability partners, the deleted apps, the vows made in tears. Now count them. If willpower were the cure, that list would have been enough by now. What have you actually been trusting: the finished work of Christ, or the quality of your own resolve? Verse 18 diagnoses the whole graveyard in eleven words — the willing is present, the doing is not."
+      },
+      {
+        "title": "The Alibi Check",
+        "body": "Here is the hard one. Is there a sin you have quietly reclassified as ‘my struggle’ so that you never have to cut it off? Look for the evidence: something you have scheduled around, protected access to, and never once taken a costly, concrete step to remove. If you have named it but never cut it, you have not confessed it — you have domesticated it. Paul says ‘what I hate, that I do.’ Do you hate it, or have you made peace with it?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Writing the Death Certificate and the Marriage Certificate",
+        "body": "Take one sheet of paper tonight. On the top half write the heading DEATH CERTIFICATE and copy Romans 7:4 with your own name inside it: ‘David, you also were made dead to the law through the body of Christ.’ Underneath it, list by name the specific standards, voices, and self-imposed sentences that still act as if they own you — the accusation you keep answering, the score you keep keeping, the person whose approval still functions as your law. On the bottom half write MARRIAGE CERTIFICATE and copy the rest of the verse: ‘that you would be joined to another, to him who was raised from the dead, that we might produce fruit to God.’ Then write one sentence naming the fruit you are asking Him to produce in you this month. Keep the paper in your Bible at Romans 7 and read it aloud every morning for a week."
+      },
+      {
+        "title": "Cutting the Beachhead",
+        "body": "Identify the single aphormē in your life — the one concrete access point sin keeps launching from. Not the sin: the beachhead. The phone in the bedroom after 11pm. The route home that passes a certain door. The account you follow. The conversation you keep having with a particular person. The hour you are always alone with nothing scheduled. Then do something physical about it within twenty-four hours, not something mental — move the charger to the kitchen, change the route, delete the account, tell one trusted brother the exact hour you are weakest and ask him to call you in it. And as you do it, say out loud what you are doing and why: ‘I am not saving myself by this. I am refusing to hand the enemy a landing site, because I belong to Him who was raised from the dead.’"
+      }
+    ]
+  },
+  "prayerReflection": "“Father, Your law is holy, and Your commandment is holy and righteous and good — and I confess that the problem has never been Your word. It has been me. I stop blaming the standard. Lord, I have spent years trying to reform a marriage You already ended: I have made promises, built fences, and set rules, and sin has used every one of them as a beachhead to invade my members. I am done negotiating with a grave. I thank You that I was made dead to the law through the body of Christ — that You did not lower Your holiness to release me, You executed me in Your Son. So I stand today as a man legally free and newly married, joined to Him who was raised from the dead, and I ask You: produce fruit to God in this body that used to bring out fruit to death. Jesus, I have said ‘what I hate, that I do’ too many times to count, and I have finally stopped asking how and started asking WHO. Who will deliver me out of the body of this death? You will. You already have. I thank God through Jesus Christ, my Lord! Holy Spirit, I do not want a resident I can manage — I want You to fill this house. Come and dwell where sin used to live. Make me serve in newness of the Spirit and never again in the oldness of the letter, and never let me use my struggle as an excuse when You have made Yourself my Deliverer. There is now no condemnation on me, and I refuse to live one more day under a sentence You have already lifted. In Jesus’ name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Roof, the Look, and the Tenth Commandment",
+      "ref": "2 Samuel 11:1-27; 12:1-9; Psalm 51",
+      "relatedVerses": "v. 7-8",
+      "summary": "A king who already had everything walked out on his roof in the evening, saw a woman bathing, and wanted what was not his. He sent, he took, and before that year was over he had broken the seventh commandment, the ninth, the eighth, the sixth — and it began with the tenth, the one nobody could see. When Nathan finally came, God’s own words through the prophet were devastating in their generosity: ‘I gave you your master’s house... and if that would have been too little, I would have added to you many more such things.’ The wanting was never about scarcity. This is Romans 7:7-8 in a crown: a good commandment stood in that man’s way, and sin used it as a beachhead to produce in him all kinds of coveting. And note where deliverance came from — not from David’s willpower, but from a confession and a mercy entirely outside himself, poured out in Psalm 51. That same forgiven king is the man Paul calls blessed in Romans 4:6-8, where he quotes David’s other psalm of pardon: ‘Blessed are they whose iniquities are forgiven, whose sins are covered’ (Psalm 32:1-2). The man who could not stop wanting was saved by being counted righteous apart from works — which is this whole letter in one life."
+    },
+    {
+      "title": "The Man Who Was Alive Apart From the Law",
+      "ref": "Mark 10:17-22",
+      "relatedVerses": "v. 9-11",
+      "summary": "A rich man — Matthew calls him young, Luke calls him a ruler — ran to Jesus, knelt in the road, and asked what he must do to inherit eternal life. Jesus listed the commandments and the man answered with complete sincerity: ‘Teacher, I have observed all these things from my youth.’ He was alive apart from the law once — genuinely, untroubled, blameless in his own accounting. Then Jesus looked at him, loved him, and let one commandment come near enough to touch the thing he actually worshipped: sell what you have, give to the poor, come follow me. And the man who had kept everything went away sorrowful, because he had great possessions. That is verse 9 acted out on a road in Judea: when the commandment came, sin revived and he died — and the terrible mercy of it is that he finally saw what he really loved."
+    },
+    {
+      "title": "The Courtyard, the Rooster, and the Fire on the Shore",
+      "ref": "Luke 22:31-34, 54-62; John 18:15-18; John 21:9, 15-19; Acts 2:14-41",
+      "relatedVerses": "v. 15-25",
+      "summary": "‘Lord, I am ready to go with you both to prison and to death!’ No one in the New Testament ever wanted the good more sincerely than Peter did that night — and within hours he was standing at a fire of coals in the high priest’s courtyard denying he had ever known the Man, three times, until a rooster crowed and a look across that courtyard broke him. That is Romans 7:15 in a human face: what I desire to do, I don’t practice; what I hate, that I do. And notice what did NOT fix him. Not resolve — he had more of that than anyone. Not shame — he wept bitterly and it changed nothing. What delivered Peter was a risen Christ meeting him at another fire of coals — this one on a beach at breakfast (John 21:9), the only other ‘fire of coals’ in the New Testament — and restoring him three times over, and then a Spirit poured out at Pentecost, after which the man who could not stand up to a servant girl stood up to Jerusalem and about three thousand souls were added in a day. Romans 7 to Romans 8, walked out by a fisherman. The deliverance was never a WHAT. It was always a WHO."
+    }
+  ]
+}

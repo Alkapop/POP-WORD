@@ -1,0 +1,564 @@
+{
+  "type": "chapterStudy",
+  "book": "Matthew",
+  "chapter": 22,
+  "chapterTitle": "The Wedding Feast and the Day the Questions Died",
+  "themeTitle": "The King Who Could Not Be Cornered",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Jesus answered and spoke to them again in parables, saying,",
+      "understanding": "The word answered tells you Jesus is still in the temple, still speaking to the chief priests and Pharisees who wanted to arrest Him in chapter 21. This is the third parable in a row aimed straight at the religious leadership."
+    },
+    {
+      "v": 2,
+      "text": "“The Kingdom of Heaven is like a certain king, who made a marriage feast for his son,",
+      "understanding": "God is the King, Jesus is the Son, and salvation is a wedding — not a courtroom summons but a celebration. The whole story turns on this: the Kingdom is an invitation to joy, and refusing it is the great insult.",
+      "words": [
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "kingdom"
+        },
+        {
+          "strongs": "G1062",
+          "hebrew": "γάμος",
+          "translit": "gámos",
+          "english": "marriage feast"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "and sent out his servants to call those who were invited to the marriage feast, but they would not come.",
+      "understanding": "The first servants are the prophets, and the invited guests are Israel — already on the list, long expected at the table. Their refusal is not ignorance; it is a deliberate will not.",
+      "words": [
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "to call"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Again he sent out other servants, saying, ‘Tell those who are invited, “Behold, I have prepared my dinner. My cattle and my fatlings are killed, and all things are ready. Come to the marriage feast!”’",
+      "understanding": "The King does not withdraw at the first rejection — He sends again, and this time He describes the feast in mouth-watering detail. The oxen are slaughtered, the table groans with food, everything is done. Grace pleads."
+    },
+    {
+      "v": 5,
+      "text": "But they made light of it, and went their ways, one to his own farm, another to his merchandise,",
+      "understanding": "The tragedy is not violent hatred here but casual indifference. A farm and a shop — ordinary, respectable, lawful things — become the excuse for despising the King's Son. Busyness damns as surely as rebellion."
+    },
+    {
+      "v": 6,
+      "text": "and the rest grabbed his servants, and treated them shamefully, and killed them.",
+      "understanding": "Indifference curdles into murder. This is the history of Israel toward the prophets — beaten, insulted, killed — and it foreshadows what these very leaders are about to do to the servants of the early church."
+    },
+    {
+      "v": 7,
+      "text": "When the king heard that, he was angry, and sent his armies, destroyed those murderers, and burned their city.",
+      "understanding": "A stunning prophecy hidden in a parable: within forty years Rome would march on Jerusalem, and in A.D. 70 the temple and city would burn to the ground. The King's patience is real, but so is His wrath."
+    },
+    {
+      "v": 8,
+      "text": "“Then he said to his servants, ‘The wedding is ready, but those who were invited weren’t worthy.",
+      "understanding": "The feast is not cancelled — the guest list is changed. Worthiness here is not merit but response; the first-invited proved unworthy by their contempt, not by their lack of qualifications."
+    },
+    {
+      "v": 9,
+      "text": "Go therefore to the intersections of the highways, and as many as you may find, invite to the marriage feast.’",
+      "understanding": "The doors of the Kingdom swing wide open to the streets. This is the Gentiles, the outsiders, the nobodies at the crossroads — the great turn in Matthew from Israel-first to all the nations."
+    },
+    {
+      "v": 10,
+      "text": "Those servants went out into the highways, and gathered together as many as they found, both bad and good. The wedding was filled with guests.",
+      "understanding": "Both bad and good — the net of the Kingdom drags in every kind of person. The hall gets filled; God will not let His Son's wedding sit empty. The invitation is indiscriminate, but as the next verses show, entry is not without condition."
+    },
+    {
+      "v": 11,
+      "text": "But when the king came in to see the guests, he saw there a man who didn’t have on wedding clothing,",
+      "understanding": "The King inspects. Among the gathered crowd is one man who came in on his own terms, refusing the garment the King provided for every guest. He is in the hall but not truly in the wedding."
+    },
+    {
+      "v": 12,
+      "text": "and he said to him, ‘Friend, how did you come in here not wearing wedding clothing?’ He was speechless.",
+      "understanding": "Called Friend, given a chance to answer, the man has no defense — the garments were offered freely at the door and he despised them. His silence is the silence of every soul that tried to enter God's presence dressed in its own righteousness."
+    },
+    {
+      "v": 13,
+      "text": "Then the king said to the servants, ‘Bind him hand and foot, take him away, and throw him into the outer darkness. That is where the weeping and grinding of teeth will be.’",
+      "understanding": "The gentle Friend becomes the Judge. Outer darkness is the region outside the lit banquet hall — exclusion from the joy of God. Jesus refuses to let grace be mistaken for the idea that how you come does not matter."
+    },
+    {
+      "v": 14,
+      "text": "For many are called, but few chosen.”",
+      "understanding": "The whole parable lands on one sentence. The call goes out to multitudes; the chosen are those who actually answer and are found clothed in the King's provision. Calling is wide, but genuine belonging is proven at the door.",
+      "words": [
+        {
+          "strongs": "G2822",
+          "hebrew": "κλητός",
+          "translit": "klētós",
+          "english": "called"
+        },
+        {
+          "strongs": "G1588",
+          "hebrew": "ἐκλεκτός",
+          "translit": "eklektós",
+          "english": "chosen"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Then the Pharisees went and took counsel how they might entrap him in his talk.",
+      "understanding": "Stung by the parable, the Pharisees do exactly what the murderous guests did — they plot. Entrap is a hunting word: they want to snare Him in His own words and hand Him over."
+    },
+    {
+      "v": 16,
+      "text": "They sent their disciples to him, along with the Herodians, saying, “Teacher, we know that you are honest, and teach the way of God in truth, no matter whom you teach, for you aren’t partial to anyone.",
+      "understanding": "An impossible alliance: the Pharisees hated Roman taxes, the Herodians supported Rome — but both hated Jesus more. Their flattery is the honey on the trap; every word they say about His fearless honesty is true, and they mean to weaponize it."
+    },
+    {
+      "v": 17,
+      "text": "Tell us therefore, what do you think? Is it lawful to pay taxes to Caesar, or not?”",
+      "understanding": "The perfect trap. Say yes, and He loses the crowds who despise the occupier's tax; say no, and the Herodians report Him to Rome as a rebel. There seems to be no safe answer."
+    },
+    {
+      "v": 18,
+      "text": "But Jesus perceived their wickedness, and said, “Why do you test me, you hypocrites?",
+      "understanding": "He is not fooled for a second. He names the mask — hypocrites, literally stage-actors — and exposes the true motive under the flattery. You cannot trap someone who sees your heart.",
+      "words": [
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "to test / tempt"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Show me the tax money.” They brought to him a denarius.",
+      "understanding": "He calls for the coin itself. A denarius was a day's wage stamped with the emperor's face and a blasphemous title claiming Caesar as divine son. By producing it, they admit they already use and profit from Caesar's system."
+    },
+    {
+      "v": 20,
+      "text": "He asked them, “Whose is this image and inscription?”",
+      "understanding": "Image is eikṓn — the same word Genesis uses for humanity made in the image of God. Jesus is quietly setting up a devastating contrast: the coin bears Caesar's image, but you bear God's.",
+      "words": [
+        {
+          "strongs": "G1504",
+          "hebrew": "εἰκών",
+          "translit": "eikṓn",
+          "english": "image"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "They said to him, “Caesar’s.” Then he said to them, “Give therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”",
+      "understanding": "Render is apodídōmi — to give back what is already owed, to pay a debt. The coin carries Caesar's image, so give it back to him; but you carry God's image, so give your whole self back to God. Civil duty is real, but it is dwarfed by the total claim of God on your life.",
+      "words": [
+        {
+          "strongs": "G591",
+          "hebrew": "ἀποδίδωμι",
+          "translit": "apodídōmi",
+          "english": "give back / render"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "When they heard it, they marveled, and left him, and went away.",
+      "understanding": "The trap snaps shut on empty air. They came to catch Him and leave astonished, defeated, unable even to argue. Round one to the King."
+    },
+    {
+      "v": 23,
+      "text": "On that day Sadducees (those who say that there is no resurrection) came to him. They asked him,",
+      "understanding": "Same day, second faction. The Sadducees were the wealthy temple aristocracy who accepted only the five books of Moses and denied any resurrection, angels, or afterlife. They come with a riddle designed to make resurrection look absurd.",
+      "words": [
+        {
+          "strongs": "G386",
+          "hebrew": "ἀνάστασις",
+          "translit": "anástasis",
+          "english": "resurrection"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "saying, “Teacher, Moses said, ‘If a man dies, having no children, his brother shall marry his wife, and raise up offspring for his brother.’",
+      "understanding": "They cite the levirate law of Deuteronomy 25, where a brother marries a childless widow to continue the dead man's line. It is a real command, and they intend to use it to trap the doctrine of resurrection in a knot of impossibility."
+    },
+    {
+      "v": 25,
+      "text": "Now there were with us seven brothers. The first married and died, and having no offspring left his wife to his brother.",
+      "understanding": "They build an extreme, almost comic scenario — one woman, seven successive husbands, all brothers, all childless, all dead. The story is engineered, not real; a philosopher's puzzle meant to expose resurrection as ridiculous."
+    },
+    {
+      "v": 26,
+      "text": "In the same way, the second also, and the third, to the seventh.",
+      "understanding": "One by one the brothers marry her and die, stacking the absurdity. The Sadducees are enjoying this; they think they have the perfect argument that raising the dead would create chaos."
+    },
+    {
+      "v": 27,
+      "text": "After them all, the woman died.",
+      "understanding": "Finally the woman herself dies, and the trap is fully set. Seven husbands, one wife, all supposedly to be raised together — surely, they think, this proves resurrection is nonsense."
+    },
+    {
+      "v": 28,
+      "text": "In the resurrection therefore, whose wife will she be of the seven? For they all had her.”",
+      "understanding": "Here is the sprung trap: whose wife will she be? They assume the life to come is just this life extended, with the same marriages and rivalries. Their whole error is a failure of imagination about God's power."
+    },
+    {
+      "v": 29,
+      "text": "But Jesus answered them, “You are mistaken, not knowing the Scriptures, nor the power of God.",
+      "understanding": "One sentence guts their entire argument. They are wrong on two fronts: they do not know the Scriptures they claim to guard, and they underestimate the power of God to raise the dead into a transformed existence."
+    },
+    {
+      "v": 30,
+      "text": "For in the resurrection they neither marry, nor are given in marriage, but are like God’s angels in heaven.",
+      "understanding": "Marriage belongs to this age of birth and death. In the resurrection life there is no death to replace, so no marrying; the redeemed live in a deathless, undivided love like the angels. Their riddle simply does not apply."
+    },
+    {
+      "v": 31,
+      "text": "But concerning the resurrection of the dead, haven’t you read that which was spoken to you by God, saying,",
+      "understanding": "Now Jesus meets them on their own turf — the books of Moses they accept. He will prove resurrection not from the Prophets or Psalms but from the Torah itself, at the burning bush."
+    },
+    {
+      "v": 32,
+      "text": "‘I am the God of Abraham, and the God of Isaac, and the God of Jacob?’ God is not the God of the dead, but of the living.”",
+      "understanding": "The whole proof hangs on a verb tense. God said I am — not I was — the God of the patriarchs, centuries after they died. If He is still their God, then they still live to Him; covenant love does not release its people to the grave."
+    },
+    {
+      "v": 33,
+      "text": "When the multitudes heard it, they were astonished at his teaching.",
+      "understanding": "The crowd, watching this contest, is stunned. Jesus has answered the intellectual elite of Israel from a single word of Scripture they thought they owned. Round two to the King."
+    },
+    {
+      "v": 34,
+      "text": "But the Pharisees, when they heard that he had silenced the Sadducees, gathered themselves together.",
+      "understanding": "Rather than rejoicing that their rivals the Sadducees were beaten, the Pharisees regroup for another assault. They rally like a wolfpack — one more question, one more attempt to trip Him."
+    },
+    {
+      "v": 35,
+      "text": "One of them, a lawyer, asked him a question, testing him.",
+      "understanding": "An expert in the Law steps forward, still testing — the same word for the tempter's work. The rabbis debated endlessly over which of the 613 commands was greatest; he wants to draw Jesus into that fight.",
+      "words": [
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "testing"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "text": "“Teacher, which is the greatest commandment in the law?”",
+      "understanding": "The question sounds academic but it is a trap of ranking — choose one command and you seem to demote the rest. Jesus will not shrink the Law; He will reveal its beating heart."
+    },
+    {
+      "v": 37,
+      "text": "Jesus said to him, “‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’",
+      "understanding": "He quotes the Shema of Deuteronomy 6, the prayer every faithful Jew recited daily. The command is not to fear or merely obey but to love — agapáō, a total, willed devotion — with the whole heart, soul, and mind. Nothing held back.",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "to love"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "soul"
+        },
+        {
+          "strongs": "G1271",
+          "hebrew": "διάνοια",
+          "translit": "diánoia",
+          "english": "mind"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "text": "This is the first and great commandment.",
+      "understanding": "Jesus settles the debate: loving God with everything is the first and greatest. Every other command is downstream of this one; if love for God is right, the rest follows."
+    },
+    {
+      "v": 39,
+      "text": "A second likewise is this, ‘You shall love your neighbor as yourself.’",
+      "understanding": "He was asked for one and gives two, because they cannot be separated. Quoting Leviticus 19:18, He binds vertical love for God to horizontal love for people — the same word agapáō, the same self-giving, now aimed at your neighbor.",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "to love"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "text": "The whole law and the prophets depend on these two commandments.”",
+      "understanding": "Depend is the picture of a door hanging on its hinges. The entire Old Testament — every law, every prophet — swings on these two loves. Strip love away and the whole structure collapses into dead rules."
+    },
+    {
+      "v": 41,
+      "text": "Now while the Pharisees were gathered together, Jesus asked them a question,",
+      "understanding": "The tables turn. Having endured question after question, the King now becomes the questioner. While His enemies are still assembled, He puts to them the one question their theology cannot answer."
+    },
+    {
+      "v": 42,
+      "text": "saying, “What do you think of the Christ? Whose son is he?” They said to him, “Of David.”",
+      "understanding": "This is the question of the whole Gospel of Matthew — who is the Christ? The Pharisees answer correctly but shallowly: the Messiah is the son of David, the royal heir. True, but only half the truth.",
+      "words": [
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ / Messiah"
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "text": "He said to them, “How then does David in the Spirit call him Lord, saying,",
+      "understanding": "Jesus presses the problem: David wrote Psalm 110 by inspiration of the Spirit, and in it David — the greatest king of Israel — calls the Messiah his own Lord. No father calls his descendant Lord."
+    },
+    {
+      "v": 44,
+      "text": "‘The Lord said to my Lord, sit on my right hand, until I make your enemies a footstool for your feet?’",
+      "understanding": "Quoting Psalm 110:1, the most-cited Old Testament verse in the New Testament. The LORD (Yahweh) speaks to David's Lord (the Messiah), seating Him at the place of supreme authority. The Messiah is not merely David's descendant but David's divine sovereign.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "text": "“If then David calls him Lord, how is he his son?”",
+      "understanding": "The answer they cannot give — but the Gospel gives it. The Christ is both David's son and David's Lord because He is both fully man (born in David's line) and fully God. The incarnation is the only answer to the riddle."
+    },
+    {
+      "v": 46,
+      "text": "No one was able to answer him a word, neither did any man dare ask him any more questions from that day forward.",
+      "understanding": "The debate is over. Every faction — Herodians, Sadducees, Pharisees, lawyers — has been answered and silenced. The questioners are done questioning; the next move belongs to the King, and it will be the cross."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Insulted Feast",
+      "verseRef": "v. 4-7",
+      "image": "Picture a palace lit for a royal wedding. The oxen have been slaughtered, the fattened calves roasted, the tables buried under food, the wine poured, the musicians tuned — everything is ready and waiting. The King's messengers run through the streets with the good news: come, it is all prepared! And the guests glance up from a ledger and a plow, shrug, and turn back to work. Some grab the messengers, spit on them, and cut their throats in the road. Then, on the horizon, you see the smoke — the King's armies marching, the guilty city going up in flame.",
+      "meaning": "This is the history of Israel toward God's invitation, and a warning to every generation. The greatest sin in the parable is not scandalous wickedness but casual indifference — a farm and a shop chosen over the King's Son. The burning city (v. 7) is a real prophecy of Jerusalem's destruction in A.D. 70. God's grace is patient and pleading, but it is not endless; contempt for the Son eventually meets the wrath of the King."
+    },
+    {
+      "title": "The Man Without a Garment",
+      "verseRef": "v. 11-13",
+      "image": "The hall is packed now — beggars, laborers, strangers pulled in off the crossroads, all of them radiant in the fresh wedding garments the King's stewards handed every guest at the door. The King moves through the celebration, His eyes warm — until they stop. One man stands in his own street clothes, road-dirt still on him, having pushed past the garment table on the way in. Friend, the King says, how did you get in here dressed like that? And the man's mouth opens and nothing comes out. There is no answer. Hands seize him; he is dragged from the light into the black cold outside where the music cannot reach.",
+      "meaning": "The garment is the righteousness God Himself provides — you cannot come to the wedding of the Son dressed in your own works. The terror of this image is that the man was inside the hall; proximity to the celebration is not the same as being clothed for it. Grace is free, but it is not cheap, and it will not be entered on your own terms. To refuse the provided righteousness of Christ and insist on your own is to be speechless before the King."
+    },
+    {
+      "title": "Whose Image Is This?",
+      "verseRef": "v. 19-21",
+      "image": "Jesus holds a small silver coin between His fingers, turning it so the light catches the face stamped on it — the sharp profile of Tiberius Caesar, ringed by an inscription hailing him as the divine son of the divine Augustus. Whose image is this? He asks. Caesar's, they mutter. Give it back to him, then, He says — and lets the sentence hang: and to God the things that are God's. The coin bears Caesar's face; but every person in that crowd bears the image of God stamped into their very being.",
+      "meaning": "In one masterstroke Jesus settles the relationship between the earthly and the heavenly. The coin is Caesar's — pay your taxes, honor legitimate authority, it is a real duty. But you are not Caesar's; you are God's, minted with His image (Genesis 1:27). Caesar can claim a coin; God claims you entirely. The tragedy is how many people scrupulously render their taxes to the government while withholding their very selves from the God whose image they carry."
+    },
+    {
+      "title": "The Lord at the Right Hand",
+      "verseRef": "v. 44",
+      "image": "Jesus quotes David's own psalm, and suddenly the throne room of heaven opens. The LORD, Yahweh, speaks to Another and says: Sit here, at My right hand, in the place of highest power — and stay there until I have taken every enemy that ever raised its head against You and laid them beneath Your feet like a stool for a king to rest His feet upon. And the One taking that seat is the Christ — the very Son that David called Lord.",
+      "meaning": "This is the exaltation of Jesus foretold a thousand years before He was born. The Messiah is not a mere earthly heir waiting to be crowned; He is the Lord already enthroned at God's right hand, with a guaranteed victory over every enemy. For the believer this is unshakable security: the King you serve is not fighting to win — He has already been seated, and history is simply the outworking of His enemies becoming His footstool."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Parable of the Wedding Feast (v. 1-14)",
+        "body": "The King invites, the invited refuse and murder His servants, the doors open to all, and one guest is cast out for despising the wedding garment — many are called, few chosen."
+      },
+      {
+        "label": "The Trap of the Coin (v. 15-22)",
+        "body": "Pharisees and Herodians try to snare Jesus on Roman taxes; He answers, render to Caesar what is Caesar's and to God what is God's, and they leave astonished."
+      },
+      {
+        "label": "The Sadducees and the Resurrection (v. 23-33)",
+        "body": "The Sadducees mock resurrection with a riddle of seven husbands; Jesus corrects them from the Torah — God is not the God of the dead but of the living."
+      },
+      {
+        "label": "The Greatest Commandment (v. 34-40)",
+        "body": "A lawyer asks which command is greatest; Jesus binds love for God and love for neighbor as the two hinges on which the whole Law and Prophets swing."
+      },
+      {
+        "label": "David's Son and David's Lord (v. 41-46)",
+        "body": "Jesus turns questioner and asks whose son the Christ is; from Psalm 110 He shows the Messiah is both David's descendant and David's Lord, and no one dares question Him again."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Wedding Garment: The Terror Hidden Inside Grace",
+        "paragraphs": [
+          "This chapter opens with one of the most misunderstood images Jesus ever gave. We love the wide-open invitation — the doors flung to the crossroads, both bad and good gathered in, the hall filled with the unlikely and the unworthy. That is gloriously true. But Jesus refuses to let us stop there, because there is a man in the hall who is not saved, and the King throws him into the outer darkness. If the invitation is pure grace, what is the garment?",
+          "In the ancient royal wedding, the host provided the festal garments; guests coming in off the highway could not possibly own wedding clothes, so the garment was a gift handed to each one at the door. To be found without it was not poverty — it was insult. It meant a man had been offered the King's provision and had pushed past it, insisting on entering the wedding of the King's Son dressed in his own clothes. The garment is the righteousness God provides in Christ. You cannot buy your way into the feast, but neither can you crash it in the rags of your own goodness. The one deadly option is to accept the invitation while refusing the provided righteousness.",
+          "This is why the man is speechless (v. 12). Before God, every self-made righteousness is struck dumb; there is simply no answer to the question, how did you come in here on your own terms? Verse 14 is the seal on the whole thing: many are called, but few chosen. The call of the gospel goes out indiscriminately to multitudes; the chosen are those who actually respond and are found clothed in Christ. Do not mistake being in the building for being in the wedding."
+        ]
+      },
+      {
+        "heading": "Render to Caesar: Two Kingdoms and the Image You Carry",
+        "paragraphs": [
+          "The tax question was a masterpiece of malice. The Pharisees and Herodians were natural enemies — one group loathed Roman taxation, the other depended on Roman favor — but they united to force Jesus onto the horns of a dilemma. Endorse the tax and He alienates the crowds who despised the occupier; reject it and the Herodians hand Him to Rome as a revolutionary. There was no third door. Except that Jesus opened one.",
+          "By asking for the coin and pointing to its image, Jesus grants the legitimacy of the civil order: the denarius bears Caesar's face, so give it back to Caesar. Human government is real, taxes are owed, and honoring earthly authority is a genuine duty (an idea Paul later develops fully in Romans 13:1-7). But the sentence does not end there, and its second half is the sledgehammer: and to God the things that are God's. The coin carries Caesar's image; you carry the image of God (Genesis 1:27). Caesar may lay claim to a piece of metal; God lays claim to your entire self.",
+          "The genius of the answer is that it neither pits the two kingdoms against each other nor collapses them into one. There is a limited, legitimate sphere for the state, and a total, unlimited claim of God over the whole of your life. The convicting truth is how easily we invert the two — meticulous about what we owe the government, careless about the far greater debt we owe the God whose image is stamped into our being. Render to God the things that are God's means everything."
+        ]
+      },
+      {
+        "heading": "The God of the Living: Resurrection Proved from the Torah",
+        "paragraphs": [
+          "The Sadducees denied the resurrection, and their riddle of the seven husbands was designed to make it look absurd. Jesus dismantles them in two moves. First, they misunderstand the nature of the resurrection life: they imagine it as merely this life stretched out, with the same marriages and rivalries intact. But the age to come is not the endless prolonging of this age; it is a transformed existence where death no longer reigns, so the institution of marriage — bound up with birth and death — no longer applies. The redeemed live like the angels, deathless and undivided. Their whole riddle rests on a failure to grasp the power of God.",
+          "Second, and more devastating, Jesus proves the resurrection from the very Torah the Sadducees claimed as their sole authority. He does not quote Daniel or Isaiah, which they would dismiss; He goes to the burning bush in Exodus 3, where God says, I am the God of Abraham, Isaac, and Jacob. The entire argument turns on a present-tense verb: God said I am, not I was, centuries after the patriarchs had died. God does not identify Himself as the God of dead men. If Abraham is dead and gone, then God is the God of a memory; but God is the God of the living, which means Abraham, Isaac, and Jacob are alive to Him, awaiting the resurrection of the body.",
+          "This is the truth of the truth: covenant love does not surrender its people to the grave. The God who bound Himself to you by name will not let death have the final word over that bond. Because He lives, and because He is your God, you will live."
+        ]
+      },
+      {
+        "heading": "Whose Son Is the Christ: The Question That Ends All Questions",
+        "paragraphs": [
+          "After absorbing trap after trap, Jesus goes on the offensive with one question that exposes the fatal gap in the leaders' theology: whose son is the Christ? Son of David, they answer — correct, but fatally incomplete. Jesus points them to Psalm 110, which David wrote in the Spirit, where David calls the Messiah my Lord. In that culture no father addressed his own descendant as Lord; authority flowed downward from ancestor to heir. So how can David's son be David's Lord?",
+          "The answer is the entire Christian faith, and the leaders could not give it because it required them to confess more than a human Messiah. The Christ is David's son according to the flesh — born in his royal line — and David's Lord according to His deity, the eternal Son of God enthroned at the Father's right hand. Only the incarnation solves the riddle: one Person, truly man and truly God. This is the hinge of Matthew's whole Gospel, which opened by naming Jesus the son of David and now reveals that this son of David is David's own Lord.",
+          "Verse 46 is the verdict: no one could answer Him a word, and no one dared ask Him anything more. The King has silenced every court of Israel — Herodian, Sadducee, Pharisee, lawyer. The season of questioning is over. From here the story bends toward the cross, where the enthroned Lord will make the greatest of His enemies, death itself, into a footstool for His feet."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "The wedding feast is not merely a parable — it is a preview of the end of the Bible. In Revelation 19:7-9 the angel cries, Let us rejoice and be exceedingly glad, and let us give the glory to him. For the marriage of the Lamb has come, and his wife has made herself ready. And it was given to her that she would array herself in bright, clean, fine linen: for the fine linen is the righteous acts of the saints. There is the wedding garment of Matthew 22, revealed in full: the pure linen is provided righteousness, and the verse ends, Blessed are those who are invited to the marriage supper of the Lamb. Jesus told the parable during Passion week; John saw its fulfillment at the consummation of all things. The King's feast really is coming, and the only question is whether you will be found clothed.",
+        "Even more directly, Jesus' quotation of Psalm 110:1 in verse 44 becomes the load-bearing text of the entire apostolic gospel. At Pentecost, Peter preaches, For David didn't ascend into the heavens, but he says himself, 'The Lord said to my Lord, sit by my right hand until I make your enemies a footstool for your feet.' Let all the house of Israel therefore know certainly that God has made him both Lord and Christ, this Jesus whom you crucified (Acts 2:34-36). The very riddle Jesus posed and no one could answer, Peter now answers with power: the Christ whom David called Lord has been raised, exalted, and enthroned. The writer of Hebrews returns to the same verse to prove Jesus superior to every angel (Hebrews 1:13), and Paul uses it to declare that Christ must reign until he has put all his enemies under his feet, the last enemy being death (1 Corinthians 15:25-26). The unanswerable question of Matthew 22 became the triumphant confession of the whole church."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Chosen",
+      "hebrew": "ἐκλεκτός",
+      "translit": "eklektós",
+      "strongs": "G1588 — from eklegomai, to pick out",
+      "verses": "v. 14",
+      "insight": "Paired with klētós (G2822, called), this word unlocks the whole parable. Kaléō / klētós is the wide, outward invitation shouted at every crossroad; eklektós is the select, the ones actually gathered in and found clothed. The verse is not saying God arbitrarily excludes most people from a feast He wanted them at; it is saying that the invitation is vast but genuine belonging is proven, that being called is not the same as being chosen. The chosen are those the King finds wearing the garment He provided."
+    },
+    {
+      "english": "Render / Give back",
+      "hebrew": "ἀποδίδωμι",
+      "translit": "apodídōmi",
+      "strongs": "G591 — from apo (back) and didomi (to give)",
+      "verses": "v. 21",
+      "insight": "Jesus does not use a neutral word for pay; He uses apodídōmi, to give back what is already owed, to return something to its rightful owner. The coin already belongs to Caesar — his image is on it — so giving it back is settling a debt, not making a gift. The verb quietly detonates the second half of the sentence: give God back the things that are God's. You bear God's image, so you already belong to Him; surrendering your whole self is not generosity but the repayment of a debt you were born owing."
+    },
+    {
+      "english": "Resurrection",
+      "hebrew": "ἀνάστασις",
+      "translit": "anástasis",
+      "strongs": "G386 — from anistēmi, to stand up again",
+      "verses": "v. 23, 28, 30, 31",
+      "insight": "The word literally means a standing-up-again, a rising of what had fallen. The Sadducees denied it entirely and built a riddle to mock it, but their error was imagining it as this life resumed. Anástasis is not the reanimation of the old order with its marriages and deaths; it is a transformed, deathless existence like the angels. Jesus grounds the reality of this standing-up-again in the character of God Himself: the God of the living cannot leave His covenant people lying in the grave."
+    },
+    {
+      "english": "Love",
+      "hebrew": "ἀγαπάω",
+      "translit": "agapáō",
+      "strongs": "G25 — to love in a moral, willed sense",
+      "verses": "v. 37, 39",
+      "insight": "When Jesus names the greatest commandment, the verb is agapáō — not warm feeling but a deliberate, self-giving devotion of the will. You are commanded to agapáō God with all your heart, soul, and mind, and to agapáō your neighbor with that same self-giving love. The staggering thing is that this love can be commanded at all; agapē is not an emotion that rises and falls but a choice you make and sustain. The whole Law hangs on two directions of this one love — upward to God with everything, outward to your neighbor as yourself."
+    },
+    {
+      "english": "Lord",
+      "hebrew": "κύριος",
+      "translit": "kýrios",
+      "strongs": "G2962 — supreme in authority, master",
+      "verses": "v. 43, 44, 45",
+      "insight": "Kýrios means supreme controller, master, the one with rightful authority — and it is the word the Greek Old Testament uses to translate the divine name Yahweh. In Psalm 110 the LORD (Yahweh) speaks to David's kýrios, and David himself calls the Messiah his kýrios. That is the trap Jesus sets for the leaders: if the Christ is merely David's son, why does David call Him his Lord? The only answer is that the son of David is also the divine Lord — the eternal Son enthroned at God's right hand. The whole deity of Christ is packed into that one royal title."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the difference between being near the Kingdom and belonging to it — and with the total claim of God on a life that likes to keep Him in a compartment.",
+    "items": [
+      {
+        "title": "Are You Wearing the Garment?",
+        "body": "You can be in the hall and still be cast out. You can grow up in church, know the songs, sit at the feast, and still be found in your own clothes because you never truly received the righteousness God provided in Christ. The man in the parable was not an obvious sinner off the street — he made it inside. But he came on his own terms, and when the King looked at him he had no answer. The Spirit asks you plainly: are you trusting your own decency, your church attendance, your good record — or are you clothed in Christ? Have you ever actually received the garment, or have you just been standing in the room?"
+      },
+      {
+        "title": "What Are You Rendering to God?",
+        "body": "You are careful to render to Caesar. You pay your taxes, obey the laws, meet your obligations to the systems of this world. But the coin bears Caesar's image, and you bear God's. The Spirit presses the harder half of the sentence: what are you rendering to God? Not a slice of Sunday, not a tithe of your money while your heart, your ambitions, your Monday-to-Saturday life stays firmly your own — but the whole self, stamped with His image, given back to its rightful Owner. Where have you been paying God in coins while withholding the one thing He actually asked for: you?"
+      },
+      {
+        "title": "Is Your Love Whole, or Is It Rationed?",
+        "body": "The greatest commandment is not a suggestion to admire but a command to obey with all your heart, all your soul, all your mind. God is not asking for a portion; He is asking for the total devotion of your inner life. And He cannot be loved in isolation — the second command hangs on the first, so a person who claims to love God while despising a neighbor is exposed as a liar. The Spirit searches you: is there a chamber of your heart you have walled off from God? Is there a neighbor your love conveniently skips? A love for God that has no reach toward people is not the love this chapter commands."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Garment Check",
+        "body": "If the King walked the hall of your life today, would He find you clothed in the righteousness of Christ, or in the good clothes you sewed yourself? Are you resting in what He provided, or quietly counting on your own record to get you through the door?"
+      },
+      {
+        "title": "The Render Audit",
+        "body": "Make an honest list of what you actually give God — your time, your money, your decisions, your body, your future. Where are you rendering God a small, safe token while keeping the controlling share for yourself? What have you refused to give back to the One whose image you carry?"
+      },
+      {
+        "title": "The Two-Directions Test",
+        "body": "Jesus fused love for God and love for neighbor into one command. Name the person your love currently skips. Can you honestly claim to love God with all your heart while that name sits unforgiven and unloved on your list? Where does your vertical love fail to travel horizontally?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Praying the Shema Daily This Week",
+        "body": "Every morning this week, before you touch your phone, say out loud the words of verse 37: Lord, I will love You with all my heart, with all my soul, and with all my mind. Then name one specific way you will do it that day — one thing you will surrender, one thing you will render back to God. Do not let it stay a recited line; turn it into a concrete act before you leave the house."
+      },
+      {
+        "title": "Rendering One Withheld Thing",
+        "body": "Identify the single area you have been giving God tokens instead of surrender — the relationship, the money, the ambition, the habit, the fear about your future. Tonight, name it before Him out loud and hand it back: This bears Your image and belongs to You; I render it to God. Then take one visible action this week that proves the surrender is real, not just spoken."
+      }
+    ]
+  },
+  "prayerReflection": "“My King, You made a feast for Your Son and You called me in off the highway — undeserving, unworthy, one of the both bad and good You gathered by grace. I do not want to stand in Your hall wearing my own righteousness and be found speechless before You. Clothe me in Christ; let me be not only called but chosen, found wearing the garment You provided. Lord, I confess how carefully I render to Caesar and how carelessly I have rendered to You. But I bear Your image, and I belong to You — so today I give myself back to my rightful Owner, all of me. Teach me to love You with all my heart, with all my soul, and with all my mind, and to let that love travel out to my neighbor as myself. You are not the God of the dead but of the living, and You are the Lord that David called Lord, seated at the right hand of power. Reign over me until every enemy in my own heart is a footstool beneath Your feet. In the mighty name of Jesus, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Servants They Killed: The Stoning of Zechariah",
+      "ref": "2 Chronicles 24:20-22",
+      "relatedVerses": "v. 3, 6",
+      "summary": "In the parable, the King sends servant after servant and the invited guests beat and murder them (v. 6). This is exactly the history of Israel toward God's messengers. When the priest Zechariah, filled with the Spirit of God, stood in the court of the temple and rebuked the people, they conspired against him and stoned him to death by the king's command — in the very house of the LORD. As he died he cried, May the LORD see and avenge. Jesus, telling this parable in that same temple, is naming a centuries-long pattern: the King keeps sending, and His people keep killing the ones He sends — a pattern that would climax in a few days on a cross outside the city."
+    },
+    {
+      "title": "The Levirate Law Lived Out: Ruth and the Kinsman-Redeemer",
+      "ref": "Ruth 4:1-17",
+      "relatedVerses": "v. 24-28",
+      "summary": "The Sadducees built their trap on the levirate law — a brother marrying a childless widow to raise up offspring for the dead (v. 24). The Book of Ruth is that law lived out in real life, not as a riddle but as redemption. Boaz, a kinsman-redeemer, marries the widow Ruth and raises up a line for her dead husband. The irony is exquisite: the Sadducees used levirate marriage to mock resurrection and the line of David, but the real levirate story of Ruth produced Obed, the grandfather of David — and therefore the ancestry of the very Christ standing in front of them, the Son of David who is also David's Lord."
+    },
+    {
+      "title": "The Riddle Answered: Peter Preaches Psalm 110 at Pentecost",
+      "ref": "Acts 2:29-36",
+      "relatedVerses": "v. 42-46",
+      "summary": "Jesus asked whose son the Christ is and left the leaders unable to answer a word (v. 46). Fifty days after the resurrection, Peter stands in Jerusalem and answers the unanswerable question in the power of the Spirit. He quotes the same Psalm 110: The Lord said to my Lord, sit by my right hand. David did not ascend to heaven, Peter argues, so the Lord David spoke of is greater than David — and Peter names Him: God has made this Jesus, whom you crucified, both Lord and Christ. The question that silenced the temple became the sermon that pierced three thousand hearts and launched the church."
+    }
+  ]
+}

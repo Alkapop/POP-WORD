@@ -1,0 +1,691 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Corinthians",
+  "chapter": 3,
+  "chapterTitle": "Ministers of a New Covenant — The Letter That Kills, the Veil That Lifts, and the Face That Is Being Changed",
+  "themeTitle": "“You Are Not Being Changed By Trying Harder. You Are Being Changed By Looking.”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Are we beginning again to commend ourselves? Or do we need, as do some, letters of commendation to you or from you?",
+      "understanding": "Paul is not asking an innocent question; he is quoting an accusation back at the people who made it. A travelling teacher in the first century carried systatikai epistolai — sealed letters of introduction from a recognised church or patron, the ancient equivalent of a CV with three references attached. The men who had arrived in Corinth carried a folder of them and made sure the room saw it, and their unspoken question was: where are Paul's? Hear the restraint in “as do some” — he refuses to name them. And hear what he refuses to do: he will not compete on paperwork.",
+      "words": [
+        {
+          "strongs": "G4921",
+          "hebrew": "συνιστάω",
+          "translit": "synistáō",
+          "english": "commend"
+        },
+        {
+          "strongs": "G4956",
+          "hebrew": "συστατικός",
+          "translit": "systatikós",
+          "english": "of commendation"
+        },
+        {
+          "strongs": "G1992",
+          "hebrew": "ἐπιστολή",
+          "translit": "epistolḗ",
+          "english": "letters"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "You are our letter, written in our hearts, known and read by all men;",
+      "understanding": "His answer is to point at them. The credential is not a document, it is a congregation — and the very people demanding his references ARE his references. Note where the letter is kept: “in our hearts,” carried on his person, not filed in a satchel. And note the pun he cannot resist in the Greek — ginōskomenē kai anaginōskomenē, known and read — because a changed life is a public document that strangers read without being handed anything. Other men produce a page. Paul produces people.",
+      "words": [
+        {
+          "strongs": "G1992",
+          "hebrew": "ἐπιστολή",
+          "translit": "epistolḗ",
+          "english": "letter"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G314",
+          "hebrew": "ἀναγινώσκω",
+          "translit": "anaginṓskō",
+          "english": "read"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "being revealed that you are a letter of Christ, served by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh.",
+      "understanding": "The authorship changes hands mid-sentence: it is a letter OF CHRIST, and Paul is only the courier — “served by us,” diakoneō, the word for waiting on tables. Then two contrasts every Jewish reader would feel in his chest. Not ink, but the Spirit of the living God. And not tablets of stone — that is Sinai, the two tablets written with the finger of God (Exodus 31:18) — but “tablets that are hearts of flesh,” which is Ezekiel 36:26 almost word for word: “I will take away the stony heart out of your flesh, and I will give you a heart of flesh,” welded to Jeremiah 31:33, “I will put my law in their inward parts, and I will write it in their heart.” Paul's claim is enormous and he makes it quietly: the new covenant the prophets promised has actually happened, and the evidence is the people sitting in front of him.",
+      "words": [
+        {
+          "strongs": "G3188",
+          "hebrew": "μέλαν",
+          "translit": "mélan",
+          "english": "ink"
+        },
+        {
+          "strongs": "G4109",
+          "hebrew": "πλάξ",
+          "translit": "pláx",
+          "english": "tablets"
+        },
+        {
+          "strongs": "G3035",
+          "hebrew": "λίθινος",
+          "translit": "líthinos",
+          "english": "of stone"
+        },
+        {
+          "strongs": "G4560",
+          "hebrew": "σάρκινος",
+          "translit": "sárkinos",
+          "english": "of flesh"
+        },
+        {
+          "strongs": "G1247",
+          "hebrew": "διακονέω",
+          "translit": "diakonéō",
+          "english": "served"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Such confidence we have through Christ toward God;",
+      "understanding": "Pepoithēsis is reliance — a confidence that leans its whole weight on something outside itself. Paul has just made a colossal claim about his ministry, so he immediately names where the nerve comes from: “through Christ toward God.” Not through Christ toward the Corinthians. His confidence faces God first, which is exactly why the opinion polls in Corinth cannot destroy it. And the next verse makes sure nobody mistakes confidence for self-confidence.",
+      "words": [
+        {
+          "strongs": "G4006",
+          "hebrew": "πεποίθησις",
+          "translit": "pepoíthēsis",
+          "english": "confidence"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "not that we are sufficient of ourselves, to account anything as from ourselves; but our sufficiency is from God;",
+      "understanding": "This is the answer to the question he asked one chapter earlier and deliberately left hanging: “Who is sufficient for these things?” (2:16). The answer is nobody. Hikanos means competent, adequate, up to the job — and Paul disqualifies himself so completely that he will not even “account” (logizomai, the accountant's verb) one item on the ledger as originating with him. Read it slowly, because it dismantles pride and despair in the same breath: sufficiency is not something you possess, it is something that arrives from God.",
+      "words": [
+        {
+          "strongs": "G2425",
+          "hebrew": "ἱκανός",
+          "translit": "hikanós",
+          "english": "sufficient"
+        },
+        {
+          "strongs": "G2426",
+          "hebrew": "ἱκανότης",
+          "translit": "hikanótēs",
+          "english": "sufficiency"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logízomai",
+          "english": "account"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "who also made us sufficient as servants of a new covenant; not of the letter, but of the Spirit. For the letter kills, but the Spirit gives life.",
+      "understanding": "God did not find Paul sufficient. God MADE him sufficient — hikanoō, to enable, to qualify — a verb whose whole point is that the qualification was manufactured by Someone else. And what he was qualified for is diakonos, a table-waiter, of a kainē diathēkē, a new covenant. Then the sentence people quote most and understand least: “the letter kills, but the Spirit gives life.” Gramma is not the plain sense of Scripture; it is the written law-code chiselled at Sinai. It kills not because it is bad but because it is holy and you are not — it names the sin, pronounces the sentence, and hands you no power to obey. “The commandment, which was for life, this I found to be for death” (Romans 7:10). The Spirit does what ink never could: He makes alive.",
+      "words": [
+        {
+          "strongs": "G2427",
+          "hebrew": "ἱκανόω",
+          "translit": "hikanóō",
+          "english": "made us sufficient"
+        },
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G1121",
+          "hebrew": "γράμμα",
+          "translit": "grámma",
+          "english": "letter"
+        },
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "kills"
+        },
+        {
+          "strongs": "G2227",
+          "hebrew": "ζωοποιέω",
+          "translit": "zōopoiéō",
+          "english": "gives life"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "But if the service of death, written engraved on stones, came with glory, so that the children of Israel could not look steadfastly on the face of Moses for the glory of his face, which was passing away;",
+      "understanding": "Paul now begins an argument from lesser to greater, and he opens it by paying the old covenant an enormous compliment. He calls it “the service of death” and in the same breath says it came with glory — real, visible, terrifying glory. Exodus 34:29-30: Moses comes down from the mountain, the skin of his face is shining, and the people are afraid to come near him. Atenizō means to fix the eyes and stare; they could not manage it. Then comes the detail Paul builds the whole chapter on — that glory “was passing away,” katargeō, being rendered inoperative, going out like a lamp with the fuel running low.",
+      "words": [
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "service"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G1795",
+          "hebrew": "ἐντυπόω",
+          "translit": "entypóō",
+          "english": "engraved"
+        },
+        {
+          "strongs": "G816",
+          "hebrew": "ἀτενίζω",
+          "translit": "atenízō",
+          "english": "look steadfastly"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "passing away"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "won’t service of the Spirit be with much more glory?",
+      "understanding": "The whole argument compressed into one line. If the ministry that could only diagnose and condemn arrived with a glory too bright for human eyes to hold, what must the ministry that actually gives life look like? Paul does not say the new covenant has some glory too. He says “much more.” The comparison is never between a dull thing and a bright thing — it is between a bright thing and something brighter still.",
+      "words": [
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "service"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "For if the service of condemnation has glory, the service of righteousness exceeds much more in glory.",
+      "understanding": "Now the two ministries are named by what they actually produce. Katakrisis is the act of sentencing someone adversely — and that is the honest job description of the law. Over against it stands “the service of righteousness,” a ministry whose output is people declared right with God. And perisseuō is a word for overflow, superabundance, more than the vessel can hold. The old covenant had glory. The new one spills over the sides.",
+      "words": [
+        {
+          "strongs": "G2633",
+          "hebrew": "κατάκρισις",
+          "translit": "katákrisis",
+          "english": "condemnation"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G4052",
+          "hebrew": "περισσεύω",
+          "translit": "perisseúō",
+          "english": "exceeds"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For most certainly that which has been made glorious has not been made glorious in this respect, by reason of the glory that surpasses.",
+      "understanding": "The sentence is awkward in English because Paul is straining for a comparison large enough to carry the weight. His meaning: what was genuinely glorious is not glorious any more — not because it dimmed on its own, but because something arrived that outshines it. Hyperballō means to throw beyond the mark, to overshoot. It is the candle at midday. Nothing happened to the candle. The sun came up.",
+      "words": [
+        {
+          "strongs": "G1392",
+          "hebrew": "δοξάζω",
+          "translit": "doxázō",
+          "english": "made glorious"
+        },
+        {
+          "strongs": "G5235",
+          "hebrew": "ὑπερβάλλω",
+          "translit": "hyperbállō",
+          "english": "surpasses"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For if that which passes away was with glory, much more that which remains is in glory.",
+      "understanding": "Here the real contrast finally surfaces, and it is not bright versus dull — it is temporary versus permanent. Katargeō (that which passes away) set against menō (that which remains, abides, stays put). The glory of Sinai had an expiry date built into it from the day it was given; it was scaffolding, not the building. The glory you are being invited into does not fade, does not need renewing, and will never be outshone by anything that comes after it.",
+      "words": [
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "passes away"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remains"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Having therefore such a hope, we use great boldness of speech,",
+      "understanding": "The word is parrhēsia — literally “all-speech,” saying everything, holding nothing back. It was the free citizen's right to speak plainly in the public assembly, the exact opposite of a slave's careful tongue. Because his ministry is not fading, Paul has nothing to hide and no image to manage. This is his real answer to men who sneered that his bodily presence was weak and his speech despised (10:10): he is not polished. He is unveiled.",
+      "words": [
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G3954",
+          "hebrew": "παῤῥησία",
+          "translit": "parrhēsía",
+          "english": "boldness of speech"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "and not as Moses, who put a veil on his face, that the children of Israel wouldn’t look steadfastly on the end of that which was passing away.",
+      "understanding": "Here is the veil, and here is what Paul says it was for. Exodus 34:33-35 records that Moses veiled himself after he had spoken to the people and lifted the veil whenever he went back in before Yahweh — a rhythm that only makes sense if the shine needed renewing. Exodus never states the reason. Paul, reading it in the Spirit, says the cloth kept Israel from watching the glory die on his face. Be honest that this is Paul's inspired reading and not a line Exodus prints — and then feel its weight. Even Moses covered a fading glory rather than let people watch it go out.",
+      "words": [
+        {
+          "strongs": "G2571",
+          "hebrew": "κάλυμα",
+          "translit": "kályma",
+          "english": "veil"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "télos",
+          "english": "the end"
+        },
+        {
+          "strongs": "G816",
+          "hebrew": "ἀτενίζω",
+          "translit": "atenízō",
+          "english": "look steadfastly"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "But their minds were hardened, for until this very day at the reading of the old covenant the same veil remains, because in Christ it passes away.",
+      "understanding": "The veil moves. It began as cloth on a prophet's face; now it is something over the mind. Pōroō means to petrify, to turn to callus or stone — and stone is precisely what Ezekiel said God would have to cut out of a man before anything could be written on him. And Paul says the cloth is still hanging in the synagogue at the public reading of “the old covenant” — the earliest surviving use of that phrase anywhere, and the seed from which the church's later name for the Hebrew Scriptures grew, though Paul himself means the covenant being read aloud, not a shelf of books. Then the hinge of the whole chapter: the veil is not torn down by argument, education, or debate. In Christ it is abolished — katargeō again, the identical verb used of the fading glory.",
+      "words": [
+        {
+          "strongs": "G3540",
+          "hebrew": "νόημα",
+          "translit": "nóēma",
+          "english": "minds"
+        },
+        {
+          "strongs": "G4456",
+          "hebrew": "πωρόω",
+          "translit": "pōróō",
+          "english": "hardened"
+        },
+        {
+          "strongs": "G3820",
+          "hebrew": "παλαιός",
+          "translit": "palaiós",
+          "english": "old"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "But to this day, when Moses is read, a veil lies on their heart.",
+      "understanding": "He says it a second time and moves the veil one layer deeper — not on the text, not even on the mind, but on the heart. This is why a man can read the same chapter for thirty years and see nothing in it, then read it once after Christ and weep over it. The problem was never the amount of light in the room. It was the covering on the organ built to receive it.",
+      "words": [
+        {
+          "strongs": "G2571",
+          "hebrew": "κάλυμα",
+          "translit": "kályma",
+          "english": "veil"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G314",
+          "hebrew": "ἀναγινώσκω",
+          "translit": "anaginṓskō",
+          "english": "is read"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "But whenever one turns to the Lord, the veil is taken away.",
+      "understanding": "The verse lifts straight out of Exodus 34:34, where Moses took the veil off whenever he went in before Yahweh — Paul takes what one man did and makes it the pattern for anyone alive. Notice three things. “Whenever”: no deadline, no expiry, no case too old or too repeated. “Turns”: epistrephō, a full turn of the body, the standard New Testament word for conversion. And “is taken away” is passive — you do not tear your own veil; it is removed for you. Periaireō means to strip off all round, the word used for cutting away the anchors so a ship can finally move.",
+      "words": [
+        {
+          "strongs": "G1994",
+          "hebrew": "ἐπιστρέφω",
+          "translit": "epistréphō",
+          "english": "turns"
+        },
+        {
+          "strongs": "G4014",
+          "hebrew": "περιαιρέω",
+          "translit": "periairéō",
+          "english": "taken away"
+        },
+        {
+          "strongs": "G2571",
+          "hebrew": "κάλυμα",
+          "translit": "kályma",
+          "english": "veil"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Now the Lord is the Spirit and where the Spirit of the Lord is, there is liberty.",
+      "understanding": "Paul is not collapsing the Persons of the Godhead into one. He is identifying the Lord of the Exodus 34 passage he has been quoting — the One Moses turned to — as the same Lord whose Spirit governs the ministry we now live under. And then a result clause that sounds like a prison door swinging: eleutheria, freedom, the legal standing of a person who is not a slave. Where the Spirit of the Lord is, there is no veil, no fading, no crouching, no performance. Not licence. Liberty. The slave's careful tongue of verse 12 is gone.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G1657",
+          "hebrew": "ἐλευθερία",
+          "translit": "eleuthería",
+          "english": "liberty"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "But we all, with unveiled face seeing the glory of the Lord as in a mirror, are transformed into the same image from glory to glory, even as from the Lord, the Spirit.",
+      "understanding": "Take it apart word by word, because the whole letter turns on this sentence. “We ALL” — not Moses alone, not apostles only, everyone. “With unveiled face” — anakalyptō, the covering permanently off. “Seeing as in a mirror” — katoptrizomai; ancient mirrors were polished bronze, so the image is real but not yet face to face (1 Corinthians 13:12). “Are transformed” — metamorphoō, the Transfiguration verb (Matthew 17:2) and the Romans 12:2 verb, and here it stands in the PRESENT tense and the PASSIVE voice: not “transform yourself,” not once, but you are being changed, continuously, by Someone else. The mechanism is not effort but attention — you become what you behold. And “from glory to glory” has no ceiling in it: the old glory ran from brightness down to nothing, and this one runs from brightness to brightness.",
+      "words": [
+        {
+          "strongs": "G343",
+          "hebrew": "ἀνακαλύπτω",
+          "translit": "anakalýptō",
+          "english": "unveiled"
+        },
+        {
+          "strongs": "G2734",
+          "hebrew": "κατοπτρίζομαι",
+          "translit": "katoptrízomai",
+          "english": "seeing as in a mirror"
+        },
+        {
+          "strongs": "G3339",
+          "hebrew": "μεταμορφόω",
+          "translit": "metamorphóō",
+          "english": "transformed"
+        },
+        {
+          "strongs": "G1504",
+          "hebrew": "εἰκών",
+          "translit": "eikṓn",
+          "english": "image"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Reference Letter Nobody Can Forge",
+      "verseRef": "v. 1-3",
+      "image": "Picture the room in Corinth. The new teachers arrive and the first thing out of the bag is paper — sealed letters from important churches and important names, wax and signatures passed round the assembly while everyone nods and is impressed. Then Paul walks in with nothing in his hands. No letter, no seal, no endorsement, no one important vouching for him. He looks around the room — at a woman who used to sell her body in a temple and is now somebody's faithful wife, at a slave who has stopped stealing, at a man who has been sober for three years — and he says: this is my letter. You are. The ink is the Spirit of the living God and the parchment is the muscle beating in your chest.",
+      "meaning": "Paul refuses to fight for his credibility on his rivals' terms. He does not produce better paperwork; he changes what counts as evidence. And notice the audacity of it — the very people questioning his apostleship are the proof of his apostleship, which means their accusation refutes itself the moment they read it. For you the point is sharper than it looks: the ministry God has given you will never be validated by a certificate. It is validated by human beings who are different because you were in their life, and that kind of letter cannot be forged, revoked, or lost in a fire."
+    },
+    {
+      "title": "The Face That Was Going Out",
+      "verseRef": "v. 7, 13",
+      "image": "Moses comes down Sinai and does not know that his own face is burning. Aaron and the elders take one look and back away. So he speaks everything God commanded — and then, in a detail Exodus records almost in passing, he pulls a cloth over his face and wears it in the camp, lifting it only when he goes back in before Yahweh. Now sit in that camp for a moment. Watch your leader's covered face day after day and understand what the cloth is really for: underneath it the light is going out, a little more each day, until he climbs the mountain again to be re-lit.",
+      "meaning": "This was the very best the old covenant could do — borrowed light, on one man's face, needing constant renewal, and finally hidden while it died. And even THAT was so glorious that a nation could not stare at it. Paul's argument is never that Sinai was small; it is that Sinai was a candle, and a candle was never meant to stay lit forever. So stop measuring the covenant you live under against a fading one. The question is not whether God's glory can shine on a human face. It is whether anything can keep it from going out — and only one covenant has ever answered that."
+    },
+    {
+      "title": "The Veil That Moved",
+      "verseRef": "v. 13-16",
+      "image": "Track one piece of cloth through this chapter and watch it travel. First it is on Moses' face. Then it is over a nation's mind at the public reading. Then it is lying on the human heart, so that a man's eyes can move across the very words of God and see nothing at all. And in the temple another curtain hung for centuries — a hand-woven wall between God and everybody — until Friday afternoon, when it was torn from the top down by hands nobody could see (Matthew 27:51).",
+      "meaning": "The veil is not first an intellectual problem, and it never comes off by argument. Paul says two things about its removal and both of them are done to you, not by you: “in Christ it passes away” (v. 14) and “the veil is taken away” (v. 16). The temple curtain is a different Greek word — katapetasma, not kalyma — so do not force the vocabulary; but it is the same God removing the same obstruction, and He tore that one from the top down, which is the direction that tells you whose hands did it. Your part in the whole transaction is one verb: turn. You do not tear a veil. You turn your face, and it is lifted off you."
+    },
+    {
+      "title": "The Mirror That Changes the Face Looking Into It",
+      "verseRef": "v. 18",
+      "image": "You know exactly what a mirror does. It shows you what you already are — the tiredness, the years, the face you have made peace with — and you walk away unchanged and usually a little discouraged. Now imagine a mirror that works the other way round. You look into it and you do not see yourself; you see the face of Christ. And the longer you stand there, the more the face doing the looking begins to resemble the face in the glass. You cannot feel it happening. You cannot hurry it. You can only stay in front of it — and the people who have not seen you in a year can see exactly what has changed.",
+      "meaning": "This is the mechanism of Christian change, and it is nothing like what most believers are attempting. The verb is passive: you are BEING transformed. Your contribution is not effort but attention — an unveiled face, turned toward Him, looking. That is why what you habitually gaze at is never a neutral question; you are always being conformed to something. And here is the mercy in it: Moses did not know his own face was shining (Exodus 34:29). You will very likely be the last person to notice what God is doing to you."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Credentials Made Out of People (v. 1-3)",
+        "body": "Against rivals waving letters of recommendation, Paul points to a changed congregation as a letter of Christ written by the Spirit on hearts of flesh — Jeremiah 31 and Ezekiel 36 fulfilled in a Greek port city."
+      },
+      {
+        "label": "The Sufficiency That Was Never Yours (v. 4-6)",
+        "body": "The question of 2:16 — “Who is sufficient for these things?” — is answered: nobody is, of himself; God makes men sufficient as servants of a new covenant, of the Spirit and not of the letter."
+      },
+      {
+        "label": "Lesser to Greater: If the Fading Was Glorious (v. 7-11)",
+        "body": "Three times Paul argues from the smaller to the larger — death against Spirit, condemnation against righteousness, fading against remaining — all built on the shining, veiled face of Moses in Exodus 34."
+      },
+      {
+        "label": "The Veil: From Moses' Face to the Human Heart (v. 12-16)",
+        "body": "Because his ministry does not fade, Paul speaks with nothing held back; and the veil that hid a dying glory is now shown lying on hardened minds and hearts, removed only when a person turns to the Lord."
+      },
+      {
+        "label": "Liberty, and the Slow Change of a Looking Face (v. 17-18)",
+        "body": "Where the Spirit of the Lord is there is freedom — and unveiled people, simply by beholding the glory of the Lord, are continuously and passively transformed into that same image, from glory to glory."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "“The Letter Kills” — and What That Sentence Does Not Mean",
+        "paragraphs": [
+          "This is one of the most abused verses in Paul, so handle it precisely. It has been used to excuse careless treatment of Scripture — as though “the letter” meant the plain sense of the text and “the Spirit” meant whatever a reader feels the passage should say. Paul means nothing remotely like that. Gramma is the written law-code of Sinai, the same word he uses in Romans 2:29 and Romans 7:6. And notice precisely what it is set against in this verse: not “the spirit of the text,” but pneuma — the Holy Spirit Himself. Gramma and pneuma are here the shorthand for the two administrations Paul has just named: the code cut into stone at Sinai, and the kainē diathēkē Jeremiah promised. The contrast is between two COVENANTS — two ways God deals with human beings — not between two ways of reading a book. The man who uses this verse to escape what the Bible actually says has been killed by the letter in a way Paul never even imagined.",
+          "Then the honest question: why would a good law kill anybody? Paul answers it elsewhere without flinching — “the law indeed is holy, and the commandment holy, and righteous, and good” (Romans 7:12), and in the same chapter, “The commandment, which was for life, this I found to be for death” (Romans 7:10). The law is a mirror and a sentence in one instrument. It shows you the dirt on your face with perfect accuracy and hands you no water. It is flawless diagnostics with no medicine attached, and a diagnosis with no cure is a death certificate. That is precisely why the ministry of Moses is called here “the service of death” and “the service of condemnation” — not because it was evil, but because it was accurate about people who could not fix themselves.",
+          "Now bring it where you live. Any Christianity you are running on willpower is gramma-Christianity, whatever page it is printed on. A man can take the Sermon on the Mount, or a discipleship checklist, or the standard of the believer he most admires, turn it into a code, and be killed by it just as thoroughly as Israel at Sinai — because a demand without a supply always kills. The test of which covenant you are actually living under is not which text you are holding. It is which power you are drawing on. If your obedience this week is being generated by fear, comparison, and gritted teeth, you have moved back to the mountain — and the mountain has no life in it."
+        ]
+      },
+      {
+        "heading": "The Glory That Was Built to Fade",
+        "paragraphs": [
+          "Everything from verse 7 to verse 11 rests on Exodus 34:29-35. Moses comes down from forty days with God, unaware that the skin of his face is shining; the people are afraid to come near; he speaks God's words to them, then covers his face with a veil, and lifts that veil only when he goes back in before Yahweh. Now be honest about the text: Exodus never says the shine faded. Paul says it. What the Exodus narrative does give us is a rhythm — in to be re-lit, out to speak, cover, in again — that plainly assumes something needed renewing, and Paul, writing under the same Spirit who inspired Exodus, names the theology the ritual implies. That is not sleight of hand; it is exactly the kind of reading he says in verse 16 only an unveiled man can make.",
+          "The argument itself is qal wahomer — light and heavy, from the lesser to the greater — the standard rabbinic move Paul learned at Gamaliel's feet and that Jesus used constantly (“If you then, being evil, know how to give good gifts to your children…”). He runs it three times in five verses. If the ministry of death came with glory, how much more the ministry of the Spirit (v. 7-8). If the ministry of condemnation had glory, how much more the ministry that produces righteousness (v. 9). If what was passing away came with glory, how much more what remains (v. 11). Notice that every one of these depends on granting the old covenant real, blinding glory. Paul is not running down Sinai. He is using its brightness as his measuring stick.",
+          "And this settles something for a struggling believer. The old covenant was never a mistake, it was scaffolding — glorious, necessary, and temporary. God is not embarrassed by scaffolding; He simply takes it down when the building stands. So when you feel the pull back toward performance religion, toward earning your standing with a good week, understand what you are reaching for: a glory with an expiry date, a light that must be re-kindled every time you come down the mountain. Verse 11 puts one word against it — menō, remains. What you have in Christ is not brighter merely. It is permanent."
+        ]
+      },
+      {
+        "heading": "Transformed By Looking: The Grammar of Verse 18",
+        "paragraphs": [
+          "Metamorphoumetha is present tense, passive voice, first person plural, and every one of those three facts is pastoral dynamite. Present: this is not a crisis you had at a conference in 2019, it is happening now, continuously, in increments too small to feel. Passive: it is being done TO you — you are not the surgeon, you are the patient on the table. Plural: “we ALL,” which quietly demolishes the idea that transfiguration is for spiritual celebrities. Moses went up a mountain alone and came back shining; under the new covenant the whole church stands unveiled in the presence and comes away changed.",
+          "The means is katoptrizomenoi, and here is one honest ambiguity worth naming: the participle can mean “beholding as in a mirror” or “reflecting as a mirror does.” Both are true of a believer, and the grammar allows either. The context decides it — unveiled faces, the glory of the Lord, Moses going in to LOOK at God — so beholding is the stronger reading, and the reflecting follows automatically and unconsciously, exactly as it did for Moses, who did not know his face shone. Note the qualifier too: as in a MIRROR. Ancient mirrors were polished bronze, and Paul has already told this same church that we now see “in a mirror, dimly” and one day face to face (1 Corinthians 13:12). This is real sight, not yet full sight.",
+          "So the practical machinery of Christian change is this: you become what you gaze at. That is why the question the Spirit asks you is not “why are you not better yet?” but “what have you been looking at?” A few lines further on, in the very next chapter, Paul says plainly where he thinks the glory actually lands: “God… has shone in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ” (4:6) — and then, immediately, “we have this treasure in clay vessels” (4:7). Hold those together and the whole letter opens up. The glory is genuine and increasing; the container is cracked pottery. And that is not a contradiction — it is the entire point of a book that ends at “my power is made perfect in weakness” (12:9)."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Follow one verb out of verse 18 and the New Testament lights up. Metamorphoō occurs exactly four times in the Greek New Testament: twice of Jesus on the mountain — “He was transfigured before them. His face shone like the sun, and his garments became as white as the light” (Matthew 17:2; also Mark 9:2) — once in Romans 12:2, “Don't be conformed to this world, but be transformed by the renewing of your mind,” and once here. Put the four side by side and notice what Paul has done. He has taken the word used for the unveiled, blazing glory of the Son of God on a mountaintop, and applied it to what is happening to ordinary believers with unveiled faces. And in Romans 12:2 the verb is passive again, and the site of the change is named: the MIND — the very organ 2 Corinthians 3:14 says was hardened and veiled.",
+        "Then look at who was standing on that mountain in Matthew 17. Moses. The man whose face once shone with borrowed light that had to be re-lit and then hidden, now standing beside a Face whose light is its own and never needs renewing. Peter, terrified and talking anyway, offers to build three shelters as though all three deserved the same tent — and the cloud cuts him off mid-sentence: “This is my beloved Son… Listen to him.” When it lifts, they see no one except Jesus alone. That is 2 Corinthians 3 acted out on a hillside: the fading glory and the abiding glory standing side by side, and a voice from heaven telling you which one to look at.",
+        "The chapter's other line runs into Hebrews. Hebrews 8:8-12 quotes Jeremiah 31:31-34 at full length — the same promise Paul is alluding to in verse 3 — and then 8:13 draws precisely Paul's verdict from verse 11: by calling one covenant “new,” God has made the first one old, and what is growing old is “near to vanishing away.” Be exact about the overlap, though, because it is not a shared word: Hebrews never reuses Paul's katargeō for the fading. It says palaioō, to make old — the cognate of the palaios Paul attaches to the covenant in verse 14 — and then reaches for a noun Paul never uses at all, aphanismos, disappearance. Different vocabulary, identical verdict, reached independently by two writers: the moment God calls something new, the thing it replaced is already on its way out. And the whole trajectory terminates a few lines past this chapter, in 2 Corinthians 4:6: “seeing it is God who said, ‘Light will shine out of darkness,’ who has shone in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.” The glory Israel could not bear to look at on Moses' face is now shining out of the face of Jesus — into your heart. Paul cannot leave the image alone, because it is the best news he knows."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Covenant",
+      "hebrew": "διαθήκη",
+      "translit": "diathḗkē",
+      "strongs": "G1242",
+      "verses": "v. 6, 14",
+      "insight": "Strong's defines it as “properly, a disposition, i.e. (specially) a contract (especially a devisory will)” — and the second half of that definition is the whole point. The ordinary Greek word for a negotiated agreement between equals was synthēkē, and the New Testament never uses it once. Diathēkē is the word for a will, a testament — a disposition drawn up by ONE party which the other can only receive or refuse. That is why the two halves of your Bible are called Testaments. God did not sit down with you and hammer out terms you were free to renegotiate; He drew up a will, named you in it, and then died to make it take effect. Note also the adjective Paul chooses: kainē (G2537), new in kind and quality, not merely next in sequence. And note where the phrase comes from — Jeremiah 31:31 is the only place in the Old Testament the words “new covenant” appear, and they are the exact words Jesus spoke over the cup."
+    },
+    {
+      "english": "Sufficiency / adequacy",
+      "hebrew": "ἱκανότης",
+      "translit": "hikanótēs",
+      "strongs": "G2426",
+      "verses": "v. 5 (with the adjective hikanos, v. 5, and the verb hikanoō, v. 6)",
+      "insight": "Strong's gives it in a single word: “ability.” The whole root family runs straight through this passage, and Paul planted it one chapter earlier: 2:16 ends with the unanswered cry “Who is sufficient (hikanos) for these things?” Then 3:5-6 answers it — we are not sufficient of ourselves, our hikanotēs is from God, and He hikanōsen us, MADE us sufficient. That verb means to enable, to qualify. So competence for God's work is not discovered in you; it is manufactured in you by God. One honest note: when Paul finally reaches 12:9 — “My grace is sufficient for you” — he uses a different verb (arkeō, G714, to be enough), so do not build a word-chain that is not there. But it is one theology and it is the spine of this entire letter. God does not use qualified men. He qualifies the men He uses."
+    },
+    {
+      "english": "Veil",
+      "hebrew": "κάλυμα",
+      "translit": "kályma",
+      "strongs": "G2571",
+      "verses": "v. 13, 14, 15, 16",
+      "insight": "Strong's: “a cover, i.e. veil.” The noun appears four times in the whole New Testament and all four are in this chapter — this is THE veil passage of the Bible. Watch Paul move it. In verse 13 it is cloth on Moses' face. In verse 14 it “remains” over the reading of the old covenant. In verse 15 it “lies on their heart.” A physical covering becomes a mental one and finally a spiritual one, and by the end it is not over the book at all but over the organ built to receive the book. Two statements about its removal are decisive, and both are passive: “in Christ it passes away” (v. 14) and “the veil is taken away” (v. 16). Nowhere in the chapter are you commanded to tear it. You are given one active verb — turn (v. 16) — and the covering is lifted off you. (The temple curtain of Matthew 27:51 is a different Greek word, katapetasma, G2665, so do not fuse the vocabulary; but it is the same God, removing the same obstruction, and He tore that one from the top down.)"
+    },
+    {
+      "english": "Transformed",
+      "hebrew": "μεταμορφόω",
+      "translit": "metamorphóō",
+      "strongs": "G3339",
+      "verses": "v. 18",
+      "insight": "Strong's: “to transform (literally or figuratively, ‘metamorphose’)” — and English borrowed the word for what happens inside a chrysalis, where a creature is not improved but remade. Nothing is bolted onto a caterpillar from outside; the same life comes out wearing a different body. That is the word Paul reached for, and it is deliberate — it is the word Matthew uses when the light broke out of Jesus on the mountain until even His clothing went white (Matthew 17:2). Same verb, same direction: inside outwards. Two differences, though, and both are for you. Moses' shine had to be re-kindled every time he climbed back up; this one runs “from glory to glory,” each stage brighter than the last, with no ceiling written into it anywhere. And where the mountain took a few minutes, this takes a life — which is why you will almost never feel it on any given Tuesday. Do not measure a metamorphosis by how you feel today. Measure it by the direction of travel over years, and by whether your face is still turned."
+    },
+    {
+      "english": "Glory",
+      "hebrew": "δόξα",
+      "translit": "dóxa",
+      "strongs": "G1391",
+      "verses": "v. 7, 8, 9, 10, 11, 18",
+      "insight": "Strong's: “glory (as very apparent), in a wide application.” In ordinary Greek doxa meant opinion or reputation — what people think of you — but the Greek Old Testament pressed it into service for the visible weight and splendour of God Himself, the thing that filled the tabernacle so densely that Moses could not go in. That is Paul's sense here: not reputation, but the manifest weight of God resting somewhere. Track the word and you have the chapter in miniature. The old covenant had it (v. 7). The new has “much more” of it (v. 8). The new makes the old look unglorious by sheer comparison (v. 10). The old kind was passing away, this kind remains (v. 11). And then verse 18 does the thing nobody saw coming: that same glory is now being reproduced in ordinary people, “from glory to glory,” by looking. The glory a whole nation could not bear to stare at on one man's face is being deposited, slowly, into you — and one chapter later Paul cheerfully admits where he keeps it: in clay jars (4:7)."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with four things in this chapter: the credentials you cannot produce, the sufficiency you have been waiting to feel, the veil you have learned to live behind, and the exhausting belief that your transformation is your own job.",
+    "items": [
+      {
+        "title": "The Folder You Cannot Produce",
+        "body": "There is a room in your head where you are always the one without the paperwork. Somebody else has the training you never got, the platform, the eloquence, the family that prayed properly, a testimony that sounds better than yours. You have watched people with half your hunger get twice your hearing, and you have quietly concluded that you are not credentialed for anything. So read verse 2 again and notice what Paul does NOT do: he does not answer the accusation by producing better credentials. He answers it by pointing at people. Who is different because you were in their life? Name them out loud. The friend who prayed for the first time after a conversation with you. The sibling still standing because you kept showing up. The colleague who saw you refuse the money. Those are your letters, “known and read by all men,” and no committee issued them and no committee can revoke them. Now ask it honestly: are you actually unqualified — or are you simply uncertified by people whose approval you have made far too important?"
+      },
+      {
+        "title": "Sufficiency Is Not Something You Own",
+        "body": "Here is the trap you keep walking back into. You assume that one day you will finally be enough — enough discipline, enough Bible knowledge, enough healing from the thing that happened to you — and THEN God will use you properly. Paul closes that door and turns the key: “not that we are sufficient of ourselves, to account ANYTHING as from ourselves.” Not the gifting. Not the good days. Not the one time it went well. Nothing on the ledger originates with you. And that same sentence which executes your pride also executes your despair, because if sufficiency never came from you in the first place, then your insufficiency was never the obstacle you thought it was. God does not need you adequate; He hikanōsen — He qualifies. So finish the sentence: “I'll be ready when I finally…” And then notice you have been waiting on something the Bible says will never come out of you anyway."
+      },
+      {
+        "title": "Take the Cloth Off",
+        "body": "Moses had a reason for the veil, and if you are honest, so do you. There is a version of you that goes to church, a version that goes to work, and a version that only comes out at two in the morning. Nobody knows the actual condition of your prayer life. Nobody knows what you look at, what you owe, or what you privately fear is true about you. And the veil is exhausting, because a covered face has to be maintained every single day. Paul says his ministry runs on parrhēsia — all-speech, nothing held back, no image to manage — precisely because he has nothing in his hands that is fading and therefore nothing to hide. So what is your veil actually protecting? And who is the one person you could tell the truth to this week? Note carefully what verse 16 asks for first. Not repair. Not a clean record. A turn of the face."
+      },
+      {
+        "title": "Stop Straining. Start Looking.",
+        "body": "You have already tried the other way. The resolutions, the plan you downloaded, the 4 a.m. prayer of desperate self-improvement — and every time the change held for about eleven days before the old thing walked back in. Verse 18 says the transformation is passive: you ARE BEING transformed. It never says transform yourself. And it names the only thing you contribute — an unveiled face, turned toward Him, looking. Which is why the Spirit's question for you today is not “why are you not further along?” but “what have you been looking at?” What has held your gaze this month — the person you keep measuring yourself against, the injustice you keep re-reading, the screen, the wound, the failure? Because you are already being changed. The only live question is into whose image."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Reference Letter Audit",
+        "body": "Take a sheet of paper. Do not write your qualifications — write NAMES. Who is genuinely different because God used you in their life, even in a small way, even years ago? Now sit with whatever the page looks like. If it is short, ask the harder follow-up: is it short because God has not used me, or because I have spent so long comparing my credentials to somebody else's that I stopped actually serving people?"
+      },
+      {
+        "title": "The Sufficiency Check",
+        "body": "Finish this sentence in writing: “I will be ready to serve God properly when I finally ______.” Whatever you wrote is where you believe your sufficiency comes from. Now set verse 5 beside it: “not that we are sufficient of ourselves, to account anything as from ourselves.” How many years have you been waiting for a qualification God never once said He required?"
+      },
+      {
+        "title": "The Veil Check",
+        "body": "Name the one thing about your life right now that nobody knows — not to broadcast it, but to face it. Then ask two questions: what would it cost me if this were seen, and what is it already costing me to keep it covered? Verse 16 does not say “whenever a man cleans himself up.” It says “whenever one turns to the Lord, the veil is taken away.” The turning comes first. The uncovering is His work, not yours."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Ten Unveiled Minutes",
+        "body": "Set a timer for ten minutes, at the same time every day, for the next seven days. No phone, no music, no list of requests. Open to one passage about Christ Himself — begin with 2 Corinthians 3:18, then Matthew 17:1-8, then 2 Corinthians 4:6 — and do exactly one thing: look. Read slowly and hold your attention on HIM, not on your problems, not on your performance, not on your failures. Every time your mind slides back to yourself, turn it back deliberately, the way you would turn a face. You are not trying to manufacture a feeling and you are not trying to change yourself; you are obeying verse 18 literally — beholding. At the end of the week, ask someone who lives with you whether anything is different, because Moses did not know his own face was shining."
+      },
+      {
+        "title": "Writing the Letter",
+        "body": "This week, pick one person God has clearly used you in — and write to them. A message, a letter, a phone call. Tell them specifically what you have watched God do in them, and thank God for it out loud in front of them. This does two things at once: it makes your “letter” visible to you on the day the accusation comes back, and it feeds the very thing that makes it a letter in the first place. Then keep what you wrote. On the day you feel most unqualified, read it again — and remember that Paul answered the same accusation with the same evidence."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I come with nothing in my hands. No letters of commendation, no credentials to lay on the table beside the people I keep comparing myself to. So I come the way Paul came — with nothing but what You have done through me. Lord, I confess that I have been waiting to be sufficient. I have been holding back obedience until I felt qualified, until the wound healed, until I sounded like the people I admire. But I am not sufficient of myself to account anything as coming from myself — and today I stop pretending I ever was. My sufficiency is from You. You are the One who makes servants of a new covenant, so make me one. Thank You that You did not write Your law for me on stone and then leave me to keep it. You wrote it with the Spirit of the living God, on a tablet that is a heart of flesh — my heart, the stony thing You had to replace before it could receive anything at all. Where I have been living under the letter, straining to satisfy a demand with no supply, set me free, because the letter kills but the Spirit gives life. Lord Jesus, I turn to You now, and I ask You to take the veil away. Take it off my mind, where I read Your Word and see nothing. Take it off my heart, where I have hidden the things I never wanted anyone to see. Give me the boldness of a man who has nothing to hide because he carries nothing that is fading. Holy Spirit, where You are there is liberty — so let there be liberty here, in this room, in me. And Father, I stop straining today. I cannot transform myself and I am finished trying. With unveiled face I look at the glory of the Lord, and I trust You to change me into that same image, from glory to glory, while I am simply looking. Not by my effort. By Your Spirit. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Face That Came Down the Mountain",
+      "ref": "Exodus 34:29-35",
+      "relatedVerses": "v. 7, 13, 16",
+      "summary": "Moses comes down from forty days with God carrying two freshly cut tablets of stone, and he does not know that the skin of his face is shining. Aaron and the elders see him and back away, afraid to come near, until he calls them over and delivers everything God commanded. Then he puts a veil on his face — and from that day he wears it in the camp and lifts it only when he goes back in before Yahweh. Read the rhythm carefully: in to be lit, out to speak, cover the face, back in again. Exodus never tells us why, but Paul, standing unveiled on the other side of the cross, tells us the thing the narrative only implies: under that cloth the light was going out. And notice what Paul does with Moses' one habit of lifting the veil in God's presence — he makes it the pattern for every believer alive: “whenever one turns to the Lord, the veil is taken away.”"
+    },
+    {
+      "title": "The Promise Made to Hearts of Stone",
+      "ref": "Jeremiah 31:31-34; Ezekiel 36:24-28",
+      "relatedVerses": "v. 3, 6, 14",
+      "summary": "Jeremiah watched Jerusalem fall and wrote the only occurrence of the phrase “new covenant” in the whole Old Testament: a day was coming when God would put His law in their inward parts and write it on their heart, and they would all know Him, from the least to the greatest. Ezekiel, deported to Babylon with the rubble still smoking behind him, was given the mechanism — “I will take away the stony heart out of your flesh, and I will give you a heart of flesh” — and then the power source: “I will put my Spirit within you.” Both men made that promise to a nation that had comprehensively failed and was sitting in the ruins of its own disobedience. Now read 2 Corinthians 3:3 again: written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets that are hearts of flesh. Paul is telling a messy, divided, immoral church in a Greek port city that they are the fulfilment of what two exiled prophets saw through their tears — which means the promise was never aimed at impressive people in the first place."
+    },
+    {
+      "title": "The Mountain Where Moses Saw the Unfading Glory",
+      "ref": "Matthew 17:1-8; Mark 9:2-8",
+      "relatedVerses": "v. 7, 11, 18",
+      "summary": "Jesus takes Peter, James and John up a high mountain, and He is transfigured before them — metamorphoō, the identical verb Paul uses in verse 18 — and His face shines like the sun and His garments become as white as the light. Then Moses and Elijah appear, talking with Him. Consider who is standing there: the man whose face once shone with borrowed light that had to be re-kindled and then hidden, now standing next to the Source, whose glory is His own and never dims. Peter, terrified and talking anyway, offers to build three shelters as though all three men on that hillside deserved the same tent — and the cloud cuts him off mid-sentence: “This is my beloved Son… Listen to him.” When it lifts, they see no one except Jesus alone. That is the entire argument of 2 Corinthians 3 acted out on a hillside: the fading glory and the abiding glory standing side by side, and the voice from heaven telling you exactly which one to keep your eyes on."
+    }
+  ]
+}

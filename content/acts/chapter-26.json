@@ -1,0 +1,627 @@
+{
+  "type": "chapterStudy",
+  "book": "Acts",
+  "chapter": 26,
+  "chapterTitle": "Before Agrippa: I Was Not Disobedient to the Heavenly Vision",
+  "themeTitle": "Not Guilty — and Still in Chains, Because the Chains Were the Road",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Agrippa said to Paul, “You may speak for yourself.”\nThen Paul stretched out his hand, and made his defense.",
+      "understanding": "Agrippa II — the last of the Herods in Luke's two volumes — gives the prisoner the floor. No Gentile alive was better qualified to weigh a Jewish dispute (Acts 25:14). Paul answers with the orator's gesture, hand outstretched — except this hand carries a chain (v. 29).",
+      "words": [
+        {
+          "strongs": "G626",
+          "hebrew": "ἀπολογέομαι",
+          "translit": "apologéomai",
+          "english": "made his defense"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "“I think myself happy, King Agrippa, that I am to make my defense before you today concerning all the things that I am accused by the Jews,",
+      "understanding": "A man in his third year of unjust confinement opens by calling himself blessed. Not because the court is fair — Festus has already admitted he has nothing to write (Acts 25:26) — but because the audience is finally right. Paul does not measure a day by his comfort; he measures it by who is about to hear the gospel.",
+      "words": [
+        {
+          "strongs": "G3107",
+          "hebrew": "μακάριος",
+          "translit": "makários",
+          "english": "happy / blessed"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "especially because you are expert in all customs and questions which are among the Jews. Therefore I beg you to hear me patiently.",
+      "understanding": "Where Tertullus flattered Felix with lies (Acts 24:2-3), every word Paul says here is verifiable: Agrippa genuinely was an expert in Jewish custom and controversy. Paul honors the office with truth instead of purchasing goodwill with praise — and then asks for patience, because what is coming is not a legal brief but a testimony."
+    },
+    {
+      "v": 4,
+      "text": "“Indeed, all the Jews know my way of life from my youth up, which was from the beginning among my own nation and at Jerusalem;",
+      "understanding": "Paul begins his defense where his accusers began their lives: in public view. He was not a foreign agitator who drifted into Judaism; he was raised in Jerusalem and known by sight since boyhood (Acts 22:3). His entire past is on the record, and he invites the record to be checked."
+    },
+    {
+      "v": 5,
+      "text": "having known me from the first, if they are willing to testify, that after the strictest sect of our religion I lived a Pharisee.",
+      "understanding": "'The strictest sect' is akribestatos — the most exact school in Israel. Paul did not leave Pharisaism because it was too demanding; he was at the top of it. And note the quiet blade: 'if they are willing to testify.' His accusers could confirm this in a sentence and will not, because an honest account of his past destroys their portrait of his present.",
+      "words": [
+        {
+          "strongs": "G196",
+          "hebrew": "ἀκριβέστατος",
+          "translit": "akribéstatos",
+          "english": "strictest"
+        },
+        {
+          "strongs": "G139",
+          "hebrew": "αἵρεσις",
+          "translit": "haíresis",
+          "english": "sect"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Now I stand here to be judged for the hope of the promise made by God to our fathers,",
+      "understanding": "Here is the pivot of the whole trial. The indictment says sedition and temple desecration; Paul says the real charge is hope — the hope of the promise God made to the fathers. He is not on trial for abandoning Israel's faith. He is on trial for believing it came true.",
+      "words": [
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "which our twelve tribes, earnestly serving night and day, hope to attain. Concerning this hope I am accused by the Jews, King Agrippa!",
+      "understanding": "'Our twelve tribes' — Paul still speaks of Israel whole, not written off. Night-and-day worship in the temple exists to reach the very hope he is chained for. The absurdity is complete: the nation praying for the promise is prosecuting the man who announces it has arrived."
+    },
+    {
+      "v": 8,
+      "text": "Why is it judged incredible with you, if God does raise the dead?",
+      "understanding": "Paul suddenly breaks off from the king and addresses the whole hall — 'with you' is plural in the Greek. The word 'incredible' is apistos, literally un-believable. And the question is unanswerable: if God is God, resurrection is not a category problem. The One who assembled a body from dust the first time is not strained by doing it a second.",
+      "words": [
+        {
+          "strongs": "G571",
+          "hebrew": "ἄπιστος",
+          "translit": "ápistos",
+          "english": "incredible"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "“I myself most certainly thought that I ought to do many things contrary to the name of Jesus of Nazareth.",
+      "understanding": "Paul answers the objection before anyone raises it: if resurrection is so reasonable, why did you not always believe it? Because he did not — he opens his testimony by confessing he was once the chief prosecutor of the name he now preaches. He believed opposing Jesus was a moral duty. Sincerity is not salvation; a man can be entirely convinced and entirely wrong."
+    },
+    {
+      "v": 10,
+      "text": "This I also did in Jerusalem. I both shut up many of the saints in prisons, having received authority from the chief priests, and when they were put to death I gave my vote against them.",
+      "understanding": "He tells the worst of it in a king's court without softening a syllable. He locked believers in prison with warrants signed by the chief priests, and when they were executed he cast his pebble against them — the voting stone that meant death. And note the plural: 'when they were put to death.' Stephen was not the only one.",
+      "words": [
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Punishing them often in all the synagogues, I tried to make them blaspheme. Being exceedingly enraged against them, I persecuted them even to foreign cities.",
+      "understanding": "This is the ugliest line in Paul's testimony, and he refuses to leave it out: he tortured believers synagogue after synagogue to force them to curse the name of Jesus. 'Exceedingly enraged' is emmainomai — raving mad, the same root Festus will fling at Paul in verse 24. Paul really was insane once. It was religion that made him so.",
+      "words": [
+        {
+          "strongs": "G1693",
+          "hebrew": "ἐμμαίνομαι",
+          "translit": "emmaínomai",
+          "english": "exceedingly enraged"
+        },
+        {
+          "strongs": "G987",
+          "hebrew": "βλασφημέω",
+          "translit": "blasphēméō",
+          "english": "blaspheme"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "“Whereupon as I traveled to Damascus with the authority and commission from the chief priests,",
+      "understanding": "He was carrying paperwork. A licensed, funded, officially commissioned operation, extending the purge well over a hundred miles north into Syria. Saul was on assignment from the highest religious authority in Israel when the highest authority in the universe stepped into the road."
+    },
+    {
+      "v": 13,
+      "text": "at noon, O king, I saw on the way a light from the sky, brighter than the sun, shining around me and those who traveled with me.",
+      "understanding": "Acts 22:6 already gave the hour; only this telling measures the light against it. It was noon — the sun at its absolute zenith — and this brightness beat it. You do not out-shine midday with a hallucination or a heat mirage, and it fell on the whole traveling company, not on Paul alone. There were witnesses to the light.",
+      "words": [
+        {
+          "strongs": "G2987",
+          "hebrew": "λαμπρότης",
+          "translit": "lamprótēs",
+          "english": "brightness"
+        },
+        {
+          "strongs": "G5457",
+          "hebrew": "φῶς",
+          "translit": "phōs",
+          "english": "light"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "When we had all fallen to the earth, I heard a voice saying to me in the Hebrew language,\n‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’",
+      "understanding": "Everyone hit the dirt, but only one man understood the words — and they came in Hebrew, his mother language, the language of his zeal. Jesus does not say 'why are you persecuting my church.' He says 'me': the Head feels every blow struck against the Body. Then the line found nowhere else in Acts, drawn from the ploughing field — an ox that kicks the goad only drives the point deeper into its own leg.",
+      "words": [
+        {
+          "strongs": "G2759",
+          "hebrew": "κέντρον",
+          "translit": "kéntron",
+          "english": "goads"
+        },
+        {
+          "strongs": "G2979",
+          "hebrew": "λακτίζω",
+          "translit": "laktízō",
+          "english": "kick"
+        },
+        {
+          "strongs": "G4642",
+          "hebrew": "σκληρός",
+          "translit": "sklērós",
+          "english": "hard"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "“I said, ‘Who are you, Lord?’\n“He said,\n‘I am Jesus, whom you are persecuting.",
+      "understanding": "The most consequential question a Pharisee ever asked, and the answer that demolished his entire system: the crucified Nazarene is alive, speaking out of glory, and calling the persecution of his followers an assault on himself. In one sentence resurrection stopped being a doctrine Paul defended and became a Person who addressed him by name."
+    },
+    {
+      "v": 16,
+      "text": "But arise, and stand on your feet, for I have appeared to you for this purpose: to appoint you a servant and a witness both of the things which you have seen, and of the things which I will reveal to you;",
+      "understanding": "This is what the third telling adds. In Acts 9 and 22 the commission arrives days later through Ananias; here Jesus speaks it directly on the road, for a king who needs the substance, not the itinerary. 'Servant' is hypēretēs, an under-rower at the oar below deck; 'witness' is martys, the word that became 'martyr.' That is the job description, and it has not changed.",
+      "words": [
+        {
+          "strongs": "G5257",
+          "hebrew": "ὑπηρέτης",
+          "translit": "hypērétēs",
+          "english": "servant"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witness"
+        },
+        {
+          "strongs": "G4400",
+          "hebrew": "προχειρίζομαι",
+          "translit": "procheirízomai",
+          "english": "appoint"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "delivering you from the people, and from the Gentiles, to whom I send you,",
+      "understanding": "The commission comes with a rescue clause, and notice what it does not promise. Jesus does not say Paul will be safe; he says Paul will be delivered. Stoned at Lystra, flogged five times, shipwrecked, ambushed by forty assassins — and pulled out every time, because the assignment was not finished. As he speaks this verse in a Roman hall, it is being fulfilled around him.",
+      "words": [
+        {
+          "strongs": "G1807",
+          "hebrew": "ἐξαιρέω",
+          "translit": "exairéō",
+          "english": "delivering"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive remission of sins and an inheritance among those who are sanctified by faith in me.’",
+      "understanding": "This one verse is the mission statement of the entire book of Acts. Watch the order: eyes opened first, then a double turning — from darkness to light, from Satan's jurisdiction to God's — then two gifts: the release of sins and a klēros, an allotted portion among the sanctified. And the last three words carry everything: by faith in me.",
+      "words": [
+        {
+          "strongs": "G1994",
+          "hebrew": "ἐπιστρέφω",
+          "translit": "epistréphō",
+          "english": "turn"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        },
+        {
+          "strongs": "G859",
+          "hebrew": "ἄφεσις",
+          "translit": "áphesis",
+          "english": "remission"
+        },
+        {
+          "strongs": "G2819",
+          "hebrew": "κλῆρος",
+          "translit": "klēros",
+          "english": "inheritance"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "“Therefore, King Agrippa, I was not disobedient to the heavenly vision,",
+      "understanding": "The hinge of the chapter, and Paul's whole answer to the indictment: everything since that road is one long obedience. 'Disobedient' is apeithēs — literally un-persuadable, a man argument cannot move. Paul is testifying that heaven persuaded him and he did not refuse. Hold that word; in verse 28 Agrippa meets the same root and chooses the other way.",
+      "words": [
+        {
+          "strongs": "G3701",
+          "hebrew": "ὀπτασία",
+          "translit": "optasía",
+          "english": "vision"
+        },
+        {
+          "strongs": "G545",
+          "hebrew": "ἀπειθής",
+          "translit": "apeithḗs",
+          "english": "disobedient"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "but declared first to them of Damascus, at Jerusalem, and throughout all the country of Judea, and also to the Gentiles, that they should repent and turn to God, doing works worthy of repentance.",
+      "understanding": "Twenty-five years of ministry in one sentence, and it runs the arc Jesus drew in Acts 1:8 — Jerusalem, Judea, the ends of the earth — with Damascus added at the front, because that is where Paul's obedience began. Notice the shape: repent (change the mind), turn (change the direction), then works worthy of that repentance. Repentance that leaves the life unchanged was regret.",
+      "words": [
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoéō",
+          "english": "repent"
+        },
+        {
+          "strongs": "G1994",
+          "hebrew": "ἐπιστρέφω",
+          "translit": "epistréphō",
+          "english": "turn"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "For this reason the Jews seized me in the temple, and tried to kill me.",
+      "understanding": "'For this reason.' Not for sedition, not for defiling the temple, not for a Greek in the inner court. They tried to lynch him for the last four words of verse 20 — 'and also to the Gentiles.' The riot of Acts 21 was never about the temple. It was about who God is willing to save."
+    },
+    {
+      "v": 22,
+      "text": "Having therefore obtained the help that is from God, I stand to this day testifying both to small and great, saying nothing but what the prophets and Moses said would happen,",
+      "understanding": "'I stand to this day.' After stonings, lashings, an assassination oath and two years in a Caesarean cell, the man is still on his feet, and he credits none of it to his own toughness. The word is epikouria, the help of an ally who comes to your side in the fight. And his message never adjusted itself to the room.",
+      "words": [
+        {
+          "strongs": "G1947",
+          "hebrew": "ἐπικουρία",
+          "translit": "epikouría",
+          "english": "help"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "how the Christ must suffer, and how, by the resurrection of the dead, he would be first to proclaim light both to these people and to the Gentiles.”",
+      "understanding": "Paul's entire alleged heresy reduces to two things Moses and the prophets already wrote: the Messiah had to suffer (Isaiah 53; Psalm 22), and by rising he would be first to carry light to Israel and the nations (Isaiah 42:6; 49:6). Christianity is not a new religion competing with the old one. It is the promised ending of the oldest one.",
+      "words": [
+        {
+          "strongs": "G386",
+          "hebrew": "ἀνάστασις",
+          "translit": "anástasis",
+          "english": "resurrection"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "As he thus made his defense, Festus said with a loud voice, “Paul, you are crazy! Your great learning is driving you insane!”",
+      "understanding": "Festus cannot absorb one more sentence about a dead man rising, and he interrupts a legal defense by shouting. 'You are crazy' is mainomai — raving, out of your mind — and his diagnosis is that scholarship has broken Paul's brain. This is the world's oldest defense against the gospel: diagnose the messenger instead of examining the message.",
+      "words": [
+        {
+          "strongs": "G3105",
+          "hebrew": "μαίνομαι",
+          "translit": "maínomai",
+          "english": "crazy"
+        },
+        {
+          "strongs": "G3130",
+          "hebrew": "μανία",
+          "translit": "manía",
+          "english": "insanity"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "But he said, “I am not crazy, most excellent Festus, but boldly declare words of truth and reasonableness.",
+      "understanding": "Paul does not shout back; he answers a scream with courtesy and an insult with evidence. 'Truth' is alētheia, what corresponds to reality; 'reasonableness' is sōphrosynē, a mind that is sound and working — the exact opposite of the word Festus just threw. And 'boldly declare' is apophthengomai, the verb Luke used at Pentecost of Spirit-given utterance.",
+      "words": [
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G4997",
+          "hebrew": "σωφροσύνη",
+          "translit": "sōphrosýnē",
+          "english": "reasonableness"
+        },
+        {
+          "strongs": "G669",
+          "hebrew": "ἀποφθέγγομαι",
+          "translit": "apophthéngomai",
+          "english": "boldly declare"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "For the king knows of these things, to whom also I speak freely. For I am persuaded that none of these things is hidden from him, for this has not been done in a corner.",
+      "understanding": "Paul turns from the man who called him mad to the man who knows the facts, and speaks 'freely' — parrhēsiazomai, nothing held back. 'I am persuaded' is peithō, the positive form of the word behind 'not disobedient' in verse 19. Then the great apologetic sentence of Acts: this has not been done in a corner. These are public events with living witnesses.",
+      "words": [
+        {
+          "strongs": "G3955",
+          "hebrew": "παῤῥησιάζομαι",
+          "translit": "parrhēsiázomai",
+          "english": "speak freely"
+        },
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "persuaded"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "King Agrippa, do you believe the prophets? I know that you believe.”",
+      "understanding": "Paul springs the trap he has been building since verse 22, and it is airtight. Agrippa is publicly a Jew; he cannot answer no without forfeiting his standing with the nation, and he cannot answer yes without conceding the whole case, because the prophets say the Christ must suffer and rise. The prisoner is now cross-examining the king."
+    },
+    {
+      "v": 28,
+      "text": "Agrippa said to Paul, “With a little persuasion are you trying to make me a Christian?”",
+      "understanding": "Cornered by a question he cannot answer either way, Agrippa escapes through humour — and the verb he reaches for is peithō, the same root Paul used in verse 19. 'Christian' appears only three times in the whole New Testament, and here a king uses it as a punchline about a faith he will not enter. Nothing in Agrippa changes.",
+      "words": [
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "persuasion"
+        },
+        {
+          "strongs": "G5546",
+          "hebrew": "Χριστιανός",
+          "translit": "Christianós",
+          "english": "Christian"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "Paul said, “I pray to God, that whether with little or with much, not only you, but also all that hear me today, might become such as I am, except for these bonds.”",
+      "understanding": "One of the most beautiful sentences ever spoken by a prisoner. Paul does not want the throne, the release, or the vindication — he wants the man's soul, and everyone else's in the room: soldiers, secretaries, Bernice, Festus. Then he lifts his shackled hands: 'except for these bonds.' He has priced his own portion correctly.",
+      "words": [
+        {
+          "strongs": "G1199",
+          "hebrew": "δεσμόν",
+          "translit": "desmón",
+          "english": "bonds"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "The king rose up with the governor, and Bernice, and those who sat with them.",
+      "understanding": "The session ends the instant the gospel gets personal. Agrippa rises — the ancient signal that a hearing is closed — and the whole assembly stands with him. Not one person in that hall is recorded as converted. But not one person in that hall will ever be able to say they were not told."
+    },
+    {
+      "v": 31,
+      "text": "When they had withdrawn, they spoke to one another, saying, “This man does nothing worthy of death or of bonds.”",
+      "understanding": "Off the record, in private, the verdict is unanimous: innocent. This is the third official acquittal in three chapters — Lysias (23:29), Festus (25:25), now Agrippa and his whole council — and Luke is deliberately stacking Roman testimony that following Jesus is not a crime. He is also replaying his Master's trial, where the same finding preceded the same handover."
+    },
+    {
+      "v": 32,
+      "text": "Agrippa said to Festus, “This man might have been set free if he had not appealed to Caesar.”",
+      "understanding": "The final line lands like a door closing: an innocent man who now cannot be released, because he asked for Caesar. Read that as tragedy and you have misread the book. The appeal was what turned a provincial dead end into a funded voyage to Rome. The verdict was never the point. The road was."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Chained Hand That Stretched Out",
+      "verseRef": "v. 1",
+      "image": "The great audience hall at Caesarea, filled with the great pomp of the previous chapter (Acts 25:23) — every seat in it representing money, rank, or a sword. Then a weathered, sun-scarred man is walked in between guards and given leave to speak. He lifts his arm in the orator's gesture, and the iron on his wrist catches the light.",
+      "meaning": "Every ounce of visible authority in that hall belonged to the seated; every ounce of real authority belonged to the man in irons, because he had been commissioned by the risen Christ and they had not. This is how the gospel enters the halls of power — not as a petitioner asking for tolerance, but as an ambassador wearing the host country's handcuffs. The chain does not weaken the message. It authenticates it."
+    },
+    {
+      "title": "Kicking Against the Goads",
+      "verseRef": "v. 14",
+      "image": "A Palestinian field at ploughing time. Behind the ox walks the farmer, and in his hand is a goad — a long shaft of hard wood tipped with a sharpened iron point. When the animal drifts, a touch of the point corrects it. But some oxen resent the line they are kept on and lash backward at the thing pricking them. The result is never freedom. The result is the iron driven deeper by the force of its own kick — bleeding, limping, and still going exactly where the ploughman steers.",
+      "meaning": "Jesus tells Saul that this has been the shape of his life. The prodding had been going on long before Damascus, and every fresh act of violence was Saul kicking back at it, driving the point deeper into his own conscience. Understand what that reveals about God: he had been pursuing his persecutor patiently for years, and the pain Saul felt was never punishment. It was direction."
+    },
+    {
+      "title": "Eyes Opened in Somebody Else's Kingdom",
+      "verseRef": "v. 18",
+      "image": "A man stands in a dark room and does not know it is dark; he has been blind since birth, so darkness is simply the color of everything. A hand touches his eyes. Sight floods in — and the first thing he sees is not scenery. It is that he is standing in a territory belonging to somebody else, under a flag he never chose, in chains he never noticed. Then the door opens, he is carried across a border, handed a pardon for everything he did in there, and handed a surveyed portion of land in the country he has just entered.",
+      "meaning": "Jesus defines conversion in one sentence, four movements in this order: sight given, direction reversed, jurisdiction transferred, inheritance granted. Notice what is not in the list — 'try harder,' 'clean yourself up first,' 'become religious.' Notice too that nobody in the dark ever asks to be rescued; the eyes must be opened before the turn is possible. And the last three words decide who gets in: 'by faith in me.'"
+    },
+    {
+      "title": "Except for These Bonds",
+      "verseRef": "v. 29",
+      "image": "The king has just deflected with a joke, and the room is enjoying it. Then the prisoner answers, and the laughter dies. He does not defend himself. He does not ask for release. He says he has been praying — for the king, for the governor who called him mad, for Bernice, for the officers, for the clerks along the wall — that they would all become exactly what he is. Then he raises both hands together, the way a shackled man must, so the whole hall can see the iron.",
+      "meaning": "A man who owns nothing, who has been in custody over two years, who is about to be shipped across the sea under guard, looks at a king on a throne and offers to trade — on the one condition that the king keep the crown and take the Christ. He rates his own portion so far above Agrippa's that the only thing he subtracts is the metal on his wrists."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Courtesy and the Real Charge (v. 1-8)",
+        "body": "Paul honors Agrippa with truth rather than flattery, then reframes the case: he is on trial not for sedition but for the hope of the promise."
+      },
+      {
+        "label": "The Confession of a Persecutor (v. 9-11)",
+        "body": "Before defending his faith, Paul indicts himself: he imprisoned believers, voted for their executions, tortured them to force blasphemy, and hunted them into foreign cities."
+      },
+      {
+        "label": "The Road, the Voice, and the Commission (v. 12-18)",
+        "body": "At noon a light brighter than the sun, a Hebrew voice, the goad saying, and — spoken by Jesus himself here — the commission that defines the whole book: opened eyes, a double turn out of darkness and out of Satan's power, forgiveness, and an inheritance by faith."
+      },
+      {
+        "label": "The Obedience and the Reason for the Chains (v. 19-23)",
+        "body": "Paul answers the indictment with one word, obedience, and names the true offense: he preached repentance to Gentiles, and nothing beyond what Moses and the prophets already said."
+      },
+      {
+        "label": "The Interruption, the King, and the Acquittal That Changed Nothing (v. 24-32)",
+        "body": "Festus shouts that Paul is insane; Paul answers with truth and soundness of mind; Agrippa deflects with a joke; and in private the court agrees the man is innocent — and sends him to Caesar anyway."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "What the Third Telling Adds",
+        "paragraphs": [
+          "Luke gives us Paul's conversion three times — narrated in chapter 9, preached to a Jerusalem mob in chapter 22, argued before a Gentile king here — and he is not padding. Each telling is shaped for the room. To the mob, Paul foregrounded Ananias, 'a devout man according to the law, well reported of by all the Jews who lived in Damascus' (Acts 22:12), because a hostile Jewish crowd needed to know a Torah-keeper had vouched for him. To a king who cares nothing for a Damascus disciple's credentials, Paul drops Ananias entirely. That is not contradiction; it is compression.",
+          "Two things belong to this telling alone. The first is the goad saying, which the oldest Greek manuscripts place only here and nowhere else in Acts; it reveals that Damascus was not a bolt from a clear sky but the end of a long pursuit. The second is that the commission comes straight from Christ's mouth rather than through a human messenger. Agrippa is not being told what a disciple in Damascus once said about Paul. He is being told what the risen Jesus said, in the first person, in a Roman courtroom."
+        ]
+      },
+      {
+        "heading": "The Real Charge: Does God Raise the Dead?",
+        "paragraphs": [
+          "Strip away the politics and this trial has exactly one subject, and Paul names it four times: he is judged 'for the hope of the promise' (v. 6), accused 'concerning this hope' (v. 7), asks why it is 'judged incredible... if God does raise the dead' (v. 8), and sums up his preaching as the Christ suffering and rising 'by the resurrection of the dead' (v. 23). Even Festus diagnosed it correctly: the quarrel concerns 'one Jesus, who was dead, whom Paul affirmed to be alive' (Acts 25:19). Everything else is scaffolding around that single claim.",
+          "Notice that verse 8 is a question, not an assertion. Paul is not asking the court to accept a miracle on sentiment; he is exposing a hidden contradiction. Every Jew in the room professes a God who made the human body out of dust — and if that God exists, restarting a body is not a bigger act than starting one. The 'incredible' verdict was never forced on them by evidence; it was a decision made in advance and now defended. And Paul will not let it retreat into mystery: this has not been done in a corner."
+        ]
+      },
+      {
+        "heading": "Persuaded, Unpersuadable, and the Verdict That Sent Him",
+        "paragraphs": [
+          "Watch one Greek root run through the last half of this chapter like a thread pulled tight. In verse 19 Paul was not apeithēs — not un-persuadable — toward the heavenly vision. In verse 26 he is 'persuaded' (peithō) that the king knows these things. In verse 28 Agrippa answers with the very same verb. Two men, the same evidence, opposite outcomes: heaven argued with Saul on a road and he surrendered on the spot; heaven argues with Agrippa in his own throne room, through a witness he cannot refute, and he escapes through a joke. Honesty requires a note — the Greek of verse 28 is genuinely difficult, and the King James Version's tender 'almost thou persuadest me' is a possible but generous reading. The polished sarcasm of the World English Bible fits the grammar and the room better, and it is the more sobering reading: Agrippa did not come close and slip. He simply would not.",
+          "Then comes the ending, which is the doctrine of this whole section of Acts in one sentence. The private verdict is innocent, and it changes absolutely nothing: Agrippa's closing line grants that the man could have gone free and leaves him bound in the same breath (v. 32). But the destination had been fixed in a Jerusalem cell long before the appeal was ever spoken (Acts 23:11), and the appeal was simply the lawful means of reaching it. God's sovereignty does not cancel injustice, corruption, or two wasted years in a cell. It walks straight through all of it and arrives on time. The verdict that could not free him was the verdict that sent him."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Acts 26 is not merely a good day for Paul; it is a prophecy of Jesus being cashed in front of witnesses. On the Mount of Olives, Jesus told his disciples exactly what was coming: 'they will lay their hands on you and will persecute you, delivering you up to synagogues and prisons, bringing you before kings and governors for my name's sake. It will turn out as a testimony for you' (Luke 21:12-13). Read that against this chapter and it is a checklist. Synagogues — Paul was beaten in them. Prisons — Caesarea, two years. Governors — Felix, then Festus. Kings — Agrippa, seated in purple. Jesus never promised his witnesses an acquittal. He promised the courtroom would become a pulpit.",
+        "The commission of verse 18 leaves its fingerprint elsewhere in the New Testament, and the fingerprint is Paul's own. Writing years later from another imprisonment, he told the Colossians to give thanks to the Father 'who made us fit to be partakers of the inheritance of the saints in light, who delivered us out of the power of darkness, and translated us into the Kingdom of the Son of his love, in whom we have our redemption, the forgiveness of our sins' (Colossians 1:12-14). Every element of Damascus is there. And 'proclaim light both to these people and to the Gentiles' (v. 23) is Isaiah's servant song, used exactly as Paul used it at Pisidian Antioch (Acts 13:47). Damascus gave Paul the key that unlocked the religion he already had."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Vision",
+      "hebrew": "ὀπτασία",
+      "translit": "optasía",
+      "strongs": "G3701",
+      "verses": "v. 19",
+      "insight": "From the root behind 'to see' — a visuality, something genuinely seen, an appearance that presents itself to the eye. Luke uses it of Zacharias in the temple (Luke 1:22) and of the women at the empty tomb (Luke 24:23); it is the vocabulary of objective appearing, not of imagination or trance. That matters here, because Festus is about to argue that Paul's mind produced this — and Paul's word says the opposite: he did not generate it, he received it. What has God shown you that you have been treating as inspiration instead of instruction?"
+    },
+    {
+      "english": "Goad",
+      "hebrew": "κέντρον",
+      "translit": "kéntron",
+      "strongs": "G2759",
+      "verses": "v. 14",
+      "insight": "A sharp point — a sting, a prick, the iron tip on a ploughman's staff. Paul pairs it with laktizō (G2979), 'to kick with the heel,' and sklēros (G4642), 'hard, rough going.' Jesus' sentence is agricultural and merciless: an ox that kicks the goad wounds nothing but itself and still walks the furrow. Two truths sit inside the word. First, God had been prodding Saul long before the road, so Damascus ended a pursuit rather than starting one. Second, resistance to God is self-injury, not rebellion with a chance of success."
+    },
+    {
+      "english": "Turn",
+      "hebrew": "ἐπιστρέφω",
+      "translit": "epistréphō",
+      "strongs": "G1994",
+      "verses": "v. 18, 20",
+      "insight": "Literally to turn around, to face the other way — a word about the body and the feet, not the feelings. It is deliberately paired in verse 20 with metanoeō (G3340), 'to think differently afterward,' which is the mind changing. Together they are the anatomy of biblical repentance: metanoeō turns the head, epistrephō turns the feet, and then come 'works worthy of repentance' — the hands. And note who does the turning in verse 18: God opens the eyes, and then 'they may turn.' Grace opens the eye; the will still has to move the feet."
+    },
+    {
+      "english": "Inheritance / Allotted portion",
+      "hebrew": "κλῆρος",
+      "translit": "klēros",
+      "strongs": "G2819",
+      "verses": "v. 18",
+      "insight": "Originally the lot — the pebble cast to decide a matter — and from there the portion the lot assigns you: a patrimony, a marked-out piece of land. This is the word Israel used for the tribal allotments in Canaan, and Jesus deliberately drops it on Gentiles. The commission promises that people with no ancestry in Abraham will be handed a surveyed portion 'among those who are sanctified,' and names the sole title deed: 'by faith in me.' Agrippa holds a kingdom by Roman grant, revocable whenever Nero changes his mind; Paul holds a klēros granted by the risen Christ."
+    },
+    {
+      "english": "Soundness of mind",
+      "hebrew": "σωφροσύνη",
+      "translit": "sōphrosýnē",
+      "strongs": "G4997",
+      "verses": "v. 25",
+      "insight": "Sanity — literally a safe, sound, unimpaired mind, and by extension the self-mastery a clear head produces. Paul picks it as the precise antonym of the word Festus has just screamed at him, mainomai (G3105), 'to rave like a maniac.' It is the sharpest irony in the chapter, because that same root was used of Paul once already: in verse 11 he was emmainomai, raving mad, torturing believers into blasphemy — and nobody in the empire diagnosed him then. When the world calls your obedience madness, do not raise your voice. Raise your evidence."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the distance between what heaven has shown you and what you have actually obeyed — and with the polite ways we say no to God without using the word.",
+    "items": [
+      {
+        "title": "The Goad You Keep Kicking",
+        "body": "Before Damascus there were years of prodding, and Saul answered every one of them with more violence. Now look at your own life honestly. There is a conviction that keeps coming back — the same one in different clothes, through a sermon, a friend's offhand comment, a verse that will not leave you alone, a situation that repeats until you cannot call it coincidence. You have been kicking it. And here is the thing about goads: the kick never removes the point, it only drives it further in. How long has God been prodding you about that exact thing, and what has kicking already cost you in peace, in money, in relationships, in years?"
+      },
+      {
+        "title": "The Only Verdict Paul Cared About",
+        "body": "Standing before a king with his life in the balance, Paul's entire defense reduced to five words: 'I was not disobedient.' Not 'I was successful.' Not 'I was appreciated.' Not 'I was treated fairly.' Obedient. That was the only category he lived in, and it made him unafraid of every other verdict in the room. So answer plainly: what is your heavenly vision? Not a feeling — the actual thing God has made unmistakably clear to you. The person to forgive. The ministry to start. The job to leave. Write it in one sentence, then ask: if you had to give an account today, could you say 'I was not disobedient to it'?"
+      },
+      {
+        "title": "The Joke You Use to Escape God",
+        "body": "Agrippa was not an atheist. He believed the prophets — Paul said so publicly and the king did not deny it. He had the facts, the Scriptures, the eyewitness, and a direct question. And he escaped through humor. The room laughed, the session ended, and a man who knew better walked out unchanged. That deflection is alive and well. Watch yourself the next time God gets specific: do you change the subject, make a joke, suddenly get busy, or promise yourself you will deal with it on a quieter day? Almost is not a category God recognizes. The difference between the prisoner and the king was not information. It was surrender."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Goad Audit",
+        "body": "What is the one thing God has been prodding you about for more than a year? List what your resistance has already cost — the peace you lost, the relationship it strained, the time you will not get back. A goad kicked for years leaves a wound you can name."
+      },
+      {
+        "title": "The 'Not Disobedient' Check",
+        "body": "Name the last three things you are certain God told you to do. For each one write 'obeyed,' 'partly,' or 'not yet.' Paul could stand before a king on that list. What does yours say about you — and which item has been sitting at 'not yet' the longest?"
+      },
+      {
+        "title": "The Corner Test",
+        "body": "Paul said, 'this has not been done in a corner.' Is your faith lived in the open or in a corner? Name three people who see you most days and ask honestly whether any of them could describe what you actually believe. If the answer is no, your faith is not private. It is hidden."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Writing Your Acts 26",
+        "body": "Tonight, take one page and three headings, in Paul's exact order. (1) 'What I was' — write it honestly, the way he wrote verses 9-11, without softening it or making yourself the victim. (2) 'What happened' — the moment, season, or slow dawn when Christ became real to you. (3) 'What I have obeyed since' — and this is the one that matters. Read the page out loud, standing up. If section three is thin, do not rewrite it. Go and fill it: take the first irreversible step within seventy-two hours."
+      },
+      {
+        "title": "The 'Except for These Bonds' List",
+        "body": "Write down five names: one person with authority over you, one you find difficult, and one you would never expect to come to Christ. Every day this week, pray Paul's verse 29 prayer over that list by name and out loud: 'Lord, whether with little or with much, let them become such as I am — except for these bonds.' Then add the sentence that costs you something: 'And Lord, use my chains as the pulpit.'"
+      }
+    ]
+  },
+  "prayerReflection": "\"Lord Jesus, You are alive. You spoke from the light on a road to a man who was hunting You, and You called him by name — so I know You are not far from me. Father, I confess the goads. You have been prodding me about the same thing for a long time, and I have been kicking, and every kick has only driven the point deeper into my own life. I stop kicking today. Open my eyes as You opened his — I do not want to be a man standing in darkness and calling it normal. Turn me from darkness to light and from the power of Satan to God. Thank You for the remission of my sins and for a portion among those who are sanctified — not by my precision, my family, or my record, but by faith in You. Now make me a servant and a witness. Show me my heavenly vision plainly, and give me the courage to say what Paul said before a king: I was not disobedient to it. Deliver me from Agrippa's escape — from laughing off what You have said seriously, from deflecting the moment You get specific, from 'almost.' When the world calls my obedience madness, let me answer with words of truth and reasonableness. And about the chains I did not choose and cannot remove: I will not waste them. Make my closed door a pulpit and my dead end the road to where You already said I would stand. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "Stephen: The Goad Saul Could Not Shake Loose",
+      "ref": "Acts 6:15; 7:54-8:3",
+      "relatedVerses": "v. 10-11, 14",
+      "summary": "Years before Damascus, a young Pharisee named Saul stood outside the city wall while men stoned Stephen, and the executioners laid their coats at his feet; Luke records that he consented to the killing. He saw more than stones. He saw a man whose face had shone in the council 'like it was the face of an angel' (Acts 6:15), who said he could see the Son of Man standing at God's right hand, and who died praying, 'Lord, don't hold this sin against them!' Saul answered that memory by ravaging the church house by house. Augustine's line has never been improved: if Stephen had not prayed, the church would not have Paul. A dying man's prayer pricked Saul's conscience for years, until a light at noon finished what it had started."
+    },
+    {
+      "title": "Jesus Before Pilate and Herod: The Innocent Verdict That Changed Nothing",
+      "ref": "Luke 23:1-25",
+      "relatedVerses": "v. 30-32",
+      "summary": "Luke tells this story twice on purpose. In his Gospel, Jesus is accused by the religious leadership before a Roman governor, shuffled sideways to a Herod who wanted to see him and got nothing, examined, and declared innocent — 'I find no basis for a charge against this man' (Luke 23:4) — and handed over anyway. In Acts, Paul is accused by the same leadership before a Roman governor, shuffled sideways to another Herod who wanted to hear him, declared innocent, and shipped to Caesar anyway. The servant is walking his Master's road, and the road runs through an acquittal that saves nobody. But the endings differ. Jesus' innocent verdict led to a cross that opened the graves; Paul's led to a ship that carried the gospel into the capital of the world."
+    },
+    {
+      "title": "Jonah: The Man Who Was Disobedient to the Heavenly Vision",
+      "ref": "Jonah 1:1-17; 3:1-10",
+      "relatedVerses": "v. 19-20",
+      "summary": "Set Jonah beside Paul and the whole point of verse 19 comes into focus. Both men received a direct commission from God to carry His word to Gentiles who did not deserve it. Paul said, 'I was not disobedient to the heavenly vision,' and spent the rest of his life on the road, in prisons, and finally on a ship to Rome. Jonah heard the same kind of word and paid his fare to Tarshish in the opposite direction — and still ended up preaching in Nineveh, after a storm that terrified a whole crew and three days inside a fish. The commission was fulfilled either way; God's word does not fail. The only variable was whether the messenger walked to his assignment or was dragged there. You will not out-run the vision. You will only decide how much water you swallow."
+    }
+  ]
+}

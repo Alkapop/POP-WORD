@@ -1,0 +1,449 @@
+{
+  "type": "chapterStudy",
+  "book": "Luke",
+  "chapter": 5,
+  "chapterTitle": "The Miraculous Catch and the Call of Sinners",
+  "themeTitle": "I Have Not Come to Call the Righteous, but Sinners to Repentance",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now while the multitude pressed on him and heard the word of God, he was standing by the lake of Gennesaret.",
+      "understanding": "The crowds are so hungry for the word of God that they press against Jesus at the water's edge, and the lake of Gennesaret — the Sea of Galilee — becomes his open-air classroom. Luke sets the scene not in a temple but where working men earn their bread."
+    },
+    {
+      "v": 2,
+      "text": "He saw two boats standing by the lake, but the fishermen had gone out of them, and were washing their nets.",
+      "understanding": "The fishermen have quit for the day, empty-handed, washing their nets after a fruitless night. This is the ordinary, disappointing world of failed labor that Jesus is about to step into."
+    },
+    {
+      "v": 3,
+      "text": "He entered into one of the boats, which was Simon’s, and asked him to put out a little from the land. He sat down and taught the multitudes from the boat.",
+      "understanding": "Jesus commandeers Simon's boat as a floating pulpit, pushing off just far enough that the crowd on the shore becomes his congregation. Before he ever calls Simon, he simply uses what Simon has."
+    },
+    {
+      "v": 4,
+      "text": "When he had finished speaking, he said to Simon,\n“Put out into the deep, and let down your nets for a catch.”",
+      "understanding": "The sermon over, Jesus gives a fisherman's command to a fisherman — go to the deep, let down the nets. He asks Peter to do again, in the wrong light of day, the very thing that failed all night."
+    },
+    {
+      "v": 5,
+      "text": "Simon answered him, “Master, we worked all night, and took nothing; but at your word I will let down the net.”",
+      "understanding": "Simon's “we worked all night, and took nothing” is honest exhaustion — yet “but at your word I will let down the net” is the hinge of the whole chapter. Obedience overrides experience."
+    },
+    {
+      "v": 6,
+      "text": "When they had done this, they caught a great multitude of fish, and their net was breaking.",
+      "understanding": "The reward of word-driven obedience is a catch so massive the net itself cannot hold it. Where skill failed all night, Christ's word overflows in an instant."
+    },
+    {
+      "v": 7,
+      "text": "They beckoned to their partners in the other boat, that they should come and help them. They came, and filled both boats, so that they began to sink.",
+      "understanding": "One boat cannot contain the blessing; it takes partners, and even two boats begin to sink under the weight. Grace embarrasses human capacity."
+    },
+    {
+      "v": 8,
+      "text": "But Simon Peter, when he saw it, fell down at Jesus’ knees, saying, “Depart from me, for I am a sinful man, Lord.”",
+      "understanding": "The miracle does not make Peter proud — it makes him fall. The nearness of holiness exposes his sinfulness, and his first instinct is to beg Jesus to leave.",
+      "words": [
+        {
+          "strongs": "G268",
+          "hebrew": "ἁμαρτωλός",
+          "translit": "hamartōlós",
+          "english": "sinful"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "For he was amazed, and all who were with him, at the catch of fish which they had caught;",
+      "understanding": "Peter's confession is not moralism but astonishment — he and everyone with him are stunned by the sheer size of the catch. Amazement becomes the doorway to worship."
+    },
+    {
+      "v": 10,
+      "text": "and so also were James and John, sons of Zebedee, who were partners with Simon.\nJesus said to Simon,\n“Don’t be afraid. From now on you will be catching people alive.”",
+      "understanding": "Jesus answers Peter's “Depart from me” with “Don't be afraid” and a promotion: the man who catches fish that die will now catch people alive.",
+      "words": [
+        {
+          "strongs": "G2221",
+          "hebrew": "ζωγρέω",
+          "translit": "zōgréō",
+          "english": "catching alive"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "When they had brought their boats to land, they left everything, and followed him.",
+      "understanding": "They leave the greatest catch of their lives lying on the shore to follow the One who gave it. The call costs them everything, and they pay it gladly."
+    },
+    {
+      "v": 12,
+      "text": "While he was in one of the cities, behold, there was a man full of leprosy. When he saw Jesus, he fell on his face, and begged him, saying, “Lord, if you want to, you can make me clean.”",
+      "understanding": "A man “full of leprosy” — advanced, unclean, cut off from society — throws himself down. His faith is total (“you can”) but his fear of rejection is real (“if you want to”)."
+    },
+    {
+      "v": 13,
+      "text": "He stretched out his hand, and touched him, saying,\n“I want to. Be made clean.”\nImmediately the leprosy left him.",
+      "understanding": "Jesus does the unthinkable: he stretches out his hand and touches the untouchable. Instead of the leprosy defiling Jesus, Jesus's cleanness overpowers the leprosy — and immediately it is gone.",
+      "words": [
+        {
+          "strongs": "G2511",
+          "hebrew": "καθαρίζω",
+          "translit": "katharízō",
+          "english": "be made clean"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "He commanded him to tell no one,\n“But go your way, and show yourself to the priest, and offer for your cleansing according to what Moses commanded, for a testimony to them.”",
+      "understanding": "Jesus sends the healed man to the priest to fulfill the law of Moses, providing legal proof of his cleansing “for a testimony.” Grace does not bypass obedience; it fulfills it."
+    },
+    {
+      "v": 15,
+      "text": "But the report concerning him spread much more, and great multitudes came together to hear, and to be healed by him of their infirmities.",
+      "understanding": "The command to silence cannot contain the news; crowds swell to hear and to be healed. Fame is the by-product of his mercy, never its goal."
+    },
+    {
+      "v": 16,
+      "text": "But he withdrew himself into the desert, and prayed.",
+      "understanding": "At the height of his popularity, Jesus withdraws to the wilderness to pray. Luke, who names prayer at every turning point, shows the secret engine of Jesus's power: solitude with the Father."
+    },
+    {
+      "v": 17,
+      "text": "On one of those days, he was teaching; and there were Pharisees and teachers of the law sitting by, who had come out of every village of Galilee, Judea, and Jerusalem. The power of the Lord was with him to heal them.",
+      "understanding": "The stage is set for confrontation — Pharisees and law-teachers from every region gather, and “the power of the Lord was with him to heal.” The healing about to happen is a test case staged before the experts."
+    },
+    {
+      "v": 18,
+      "text": "Behold, men brought a paralyzed man on a cot, and they sought to bring him in to lay before Jesus.",
+      "understanding": "Men carry their paralyzed friend on a cot, determined to get him to Jesus. Here faith has hands and shoulders."
+    },
+    {
+      "v": 19,
+      "text": "Not finding a way to bring him in because of the multitude, they went up to the housetop, and let him down through the tiles with his cot into the middle before Jesus.",
+      "understanding": "Blocked by the crowd, they climb the roof and tear it open, lowering their friend through the tiles into the middle of the room. Desperate faith will not accept a locked door."
+    },
+    {
+      "v": 20,
+      "text": "Seeing their faith, he said to him,\n“Man, your sins are forgiven you.”",
+      "understanding": "Jesus sees “their faith” — the friends' and the man's together — and speaks to the deepest paralysis first: “your sins are forgiven you.” He heals the soul before the legs.",
+      "words": [
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "are forgiven"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "The scribes and the Pharisees began to reason, saying, “Who is this that speaks blasphemies? Who can forgive sins, but God alone?”",
+      "understanding": "The scribes and Pharisees correctly grasp the claim: only God can forgive sins, so this is either blasphemy or deity. They ask exactly the right question with entirely the wrong hearts."
+    },
+    {
+      "v": 22,
+      "text": "But Jesus, perceiving their thoughts, answered them,\n“Why are you reasoning so in your hearts?",
+      "understanding": "Jesus reads their unspoken reasoning like an open book — itself a divine act — and answers the very thoughts they never voiced aloud."
+    },
+    {
+      "v": 23,
+      "text": "Which is easier to say, ‘Your sins are forgiven you;’ or to say, ‘Arise and walk?’",
+      "understanding": "The question exposes them: anyone can claim “your sins are forgiven” because no one can verify it, while “arise and walk” is instantly testable. Jesus offers to prove the invisible by the visible."
+    },
+    {
+      "v": 24,
+      "text": "But that you may know that the Son of Man has authority on earth to forgive sins” (he said to the paralyzed man),\n“I tell you, arise, and take up your cot, and go to your house.”",
+      "understanding": "“That you may know that the Son of Man has authority on earth to forgive sins” — Jesus stakes his deity on a miracle he then performs. The healing is the public receipt for the forgiveness.",
+      "words": [
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Immediately he rose up before them, and took up that which he was laying on, and departed to his house, glorifying God.",
+      "understanding": "Immediately the man stands, folds up the very cot that carried him, and walks home glorifying God. The proof walks out on its own two feet.",
+      "words": [
+        {
+          "strongs": "G1392",
+          "hebrew": "δοξάζω",
+          "translit": "doxázō",
+          "english": "glorifying"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "Amazement took hold on all, and they glorified God. They were filled with fear, saying, “We have seen strange things today.”",
+      "understanding": "Amazement and holy fear grip everyone; they glorify God and confess, “We have seen strange things today.” Even the witnesses cannot deny what they saw with their own eyes."
+    },
+    {
+      "v": 27,
+      "text": "After these things he went out, and saw a tax collector named Levi sitting at the tax office, and said to him,\n“Follow me!”",
+      "understanding": "Jesus walks straight to a tax booth — the office of a collaborator and a cheat — and gives Levi a single word: “Follow me!” He recruits from the most despised profession in Israel.",
+      "words": [
+        {
+          "strongs": "G190",
+          "hebrew": "ἀκολουθέω",
+          "translit": "akolouthéō",
+          "english": "follow"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "He left everything, and rose up and followed him.",
+      "understanding": "Levi left everything — the lucrative booth, the ledger, the security — rose, and followed. Unlike a fisherman who can return to the water, a tax collector who walks away can never get his post back."
+    },
+    {
+      "v": 29,
+      "text": "Levi made a great feast for him in his house. There was a great crowd of tax collectors and others who were reclining with them.",
+      "understanding": "Levi throws a great feast and fills his house with his own kind — tax collectors and outsiders. His very first act as a disciple is to bring his old friends to Jesus's table."
+    },
+    {
+      "v": 30,
+      "text": "Their scribes and the Pharisees murmured against his disciples, saying, “Why do you eat and drink with the tax collectors and sinners?”",
+      "understanding": "The Pharisees are scandalized by the table fellowship: “Why do you eat and drink with the tax collectors and sinners?” To them holiness means separation; to Jesus it means rescue."
+    },
+    {
+      "v": 31,
+      "text": "Jesus answered them,\n“Those who are healthy have no need for a physician, but those who are sick do.",
+      "understanding": "Jesus answers with the physician's logic — the doctor belongs at the bedside of the sick, not in the company of the well. Luke the beloved physician preserves the image with obvious delight."
+    },
+    {
+      "v": 32,
+      "text": "I have not come to call the righteous, but sinners to repentance.”",
+      "understanding": "Here is the thesis of the chapter and of the whole Gospel: “I have not come to call the righteous, but sinners to repentance.” The self-righteous exclude themselves; only those who admit they are sick get healed.",
+      "words": [
+        {
+          "strongs": "G3341",
+          "hebrew": "μετάνοια",
+          "translit": "metánoia",
+          "english": "repentance"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "text": "They said to him, “Why do John’s disciples often fast and pray, likewise also the disciples of the Pharisees, but yours eat and drink?”",
+      "understanding": "The critics shift from company to conduct — why do Jesus's disciples feast while John's and the Pharisees' fast? To them, joy looks like irreverence."
+    },
+    {
+      "v": 34,
+      "text": "He said to them,\n“Can you make the friends of the bridegroom fast, while the bridegroom is with them?",
+      "understanding": "Jesus reframes his ministry as a wedding: you cannot make the groom's friends fast while the groom is at the party. His presence is cause for celebration, not mourning."
+    },
+    {
+      "v": 35,
+      "text": "But the days will come when the bridegroom will be taken away from them. Then they will fast in those days.”",
+      "understanding": "But he foretells the cross in a single line — “the bridegroom will be taken away” — and then fasting will have its proper season. Joy now, grief coming, and joy again beyond it."
+    },
+    {
+      "v": 36,
+      "text": "He also told a parable to them.\n“No one puts a piece from a new garment on an old garment, or else he will tear the new, and also the piece from the new will not match the old.",
+      "understanding": "The parable begins: no one tears a patch from a new garment to mend an old one, ruining both. The new covenant is not a patch sewn onto the old religious system."
+    },
+    {
+      "v": 37,
+      "text": "No one puts new wine into old wine skins, or else the new wine will burst the skins, and it will be spilled, and the skins will be destroyed.",
+      "understanding": "New wine, still fermenting, bursts old and brittle wineskins. The living, expanding force of the Kingdom cannot be contained inside the hardened forms of legalistic religion."
+    },
+    {
+      "v": 38,
+      "text": "But new wine must be put into fresh wine skins, and both are preserved.",
+      "understanding": "New wine needs fresh, flexible skins so that both wine and vessel are preserved. Jesus brings not a reform of the old but a new vessel — new hearts — to hold new life."
+    },
+    {
+      "v": 39,
+      "text": "No man having drunk old wine immediately desires new, for he says, ‘The old is better.’”",
+      "understanding": "Jesus names the human problem honestly: those comfortable with the “old” resist the new, insisting “the old is better.” Familiar religion is the hardest addiction to walk away from."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Nets Breaking in the Deep",
+      "verseRef": "v. 4-7",
+      "image": "Picture the night's total failure — empty boats, aching arms, exhausted men crouched on the shore rinsing nets they are done with. Then, at a word, they row back out over water they already fished and let the net sink into the deep. Suddenly the water beneath the boat boils silver. The net groans, the cords strain and begin to rip, and two boats wallow down to the waterline under a living, thrashing weight of fish so heavy the vessels start to go under.",
+      "meaning": "Christ's word does in a moment of daylight what all their skill could not do in a whole night. The abundance is not a fishing tip; it is a self-revelation — the same voice that called light out of nothing calls fish into a net. The overflow is designed to drive Peter to his knees, and it does."
+    },
+    {
+      "title": "The Hand That Touches the Untouchable",
+      "verseRef": "v. 12-13",
+      "image": "See a man eaten alive by leprosy — skin ulcerated, fingers gone, the required cry of “Unclean! Unclean!” rasping from his throat. He has not felt the warmth of a human hand in years; everyone keeps their distance, and that distance is the law. He falls on his face. And Jesus, before he says a single word, reaches out and lays a bare hand directly on the rotting flesh.",
+      "meaning": "By every rule of Moses, touching a leper made you unclean — defilement flowed from the sick to the well. But when Jesus touches this man, the current runs backwards: cleanness flows out of Christ into the disease, and immediately the leprosy is gone. This one gesture is the whole gospel — the Holy One takes hold of our uncleanness and it does not stain him; it heals us."
+    },
+    {
+      "title": "The Roof Torn Open",
+      "verseRef": "v. 18-19",
+      "image": "Four men shoulder a cot through a crowd that will not part, then give up on the door entirely and haul their friend up onto the flat roof. You can hear the scraping as they claw up the clay tiles, dust and debris sifting down onto the scribes seated below, until a hole opens in the ceiling and a cot swings down on ropes into the stunned circle gathered around Jesus.",
+      "meaning": "This is faith that refuses the locked door and is willing to damage a house to get a friend to Jesus. When Jesus looks up at the wrecked roof and the man dangling through it, he does not call it vandalism — he calls it faith, and he acts on it. Some people will only reach Jesus because someone else refused to be stopped."
+    },
+    {
+      "title": "The Wrong People at the Table",
+      "verseRef": "v. 29",
+      "image": "Levi's house is lit and loud — lamps burning, wine poured, a great crowd of tax collectors and “sinners” reclining shoulder to shoulder with Jesus, laughter and conversation spilling out into the street. And there, frozen at the doorway, stand the Pharisees, unable to cross the threshold, scandalized that a holy man is inside eating and drinking with the very people they have spent their lives avoiding.",
+      "meaning": "Jesus is forever at meals with the wrong people. The table is not an accident of his ministry; it is his strategy — mercy that eats and drinks with those the religious have already written off. Where the Pharisees drew a line to keep sinners out, Jesus set a table to bring them in."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Deep-Water Catch and the Call of Peter (v. 1-11)",
+        "body": "Jesus turns a fisherman's total failure into the calling of a fisher of men — and Peter's confession of sin becomes the doorway to discipleship."
+      },
+      {
+        "label": "The Cleansing of the Leper (v. 12-16)",
+        "body": "A touch that reverses defilement makes the unclean clean, followed by Jesus withdrawing to the wilderness to pray."
+      },
+      {
+        "label": "The Paralytic Forgiven and Healed (v. 17-26)",
+        "body": "The Son of Man proves his authority to forgive sins by commanding a paralyzed man to rise and walk."
+      },
+      {
+        "label": "The Call of Levi and the Feast (v. 27-32)",
+        "body": "Grace recruits at a tax booth and dines with sinners, because the Physician has come for the sick."
+      },
+      {
+        "label": "The Question of Fasting and the New Wine (v. 33-39)",
+        "body": "Jesus explains why his joy cannot be patched onto old religion: new wine demands new wineskins."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Authority to Forgive: Deity on Trial",
+        "paragraphs": [
+          "The scribes' logic in verse 21 is airtight — “Who can forgive sins, but God alone?” They have correctly identified the claim buried in Jesus's words. When a carpenter looks a paralyzed man in the eye and pronounces his sins sent away, he is either committing blasphemy or he is God in the flesh. There is no third option, and the religious leaders know it.",
+          "Jesus does not soften the claim or correct their theology; he validates it and then proves it. He offers the visible, testable miracle (“arise, and take up your cot”) as public evidence of the invisible, unverifiable one (“your sins are forgiven you”). The healing is the receipt for the forgiveness. And notice the title he chooses — “the Son of Man,” the figure of Daniel 7:13-14 who is given everlasting dominion and a kingdom that shall not be destroyed. Luke is laying his opening argument on the table: Jesus of Nazareth has come to do on earth the one thing only heaven can do — forgive."
+        ]
+      },
+      {
+        "heading": "New Wine and Old Skins: Grace Is Not a Patch",
+        "paragraphs": [
+          "The chapter ends with its own interpretive key. Every scene has shown grace refusing to fit the old religious categories: a holy man touching a leper without becoming unclean, forgiveness pronounced by a Galilean carpenter, a rabbi reclining at a feast full of tax collectors. The Pharisees want Jesus to sew his new movement onto the old garment of ritual religion, to pour his new life into the brittle skins of their system. He refuses.",
+          "New wine ferments; it expands and presses outward, and rigid old skins split under the pressure and are lost. The gospel is not Judaism improved or the law renovated; it is a new covenant that requires new hearts to hold it. And verse 39 is the sober warning at the end: those who have grown comfortable with the “old” instinctively resist the new and say, “The old is better.” Familiarity, not hostility, is often what keeps a religious person from the very grace standing in front of them."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Verse 32 — “I have not come to call the righteous, but sinners to repentance” — becomes the personal testimony of the greatest convert in church history. Paul, who had been a violent persecutor breathing threats against the church, writes in 1 Timothy 1:15: “The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners; of whom I am chief.” Paul took Jesus's word from Luke 5:32 and signed his own name under the word “sinner.” The call issued at Levi's table is the same call that struck Paul on the Damascus road, and it reaches every reader who will stop pretending to be well and admit that they are sick.",
+        "And the promise of verse 10 — “From now on you will be catching people alive” — is fulfilled in Acts 2. The same Simon Peter who begged Jesus to depart because he was a sinful man stands up on the day of Pentecost, lets down the net of the gospel over a crowd, and “there were added that day about three thousand souls” (Acts 2:41). The empty-handed fisherman who took nothing all night became the man whose single sermon filled the boat to the point of sinking."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Sinner",
+      "hebrew": "ἁμαρτωλός",
+      "translit": "hamartōlós",
+      "strongs": "G268",
+      "verses": "v. 8, 30, 32",
+      "insight": "The word literally pictures one who has “missed the mark” — failed to hit the target of God's righteousness. Watch it travel through the chapter: Peter uses it of himself in self-accusation (“I am a sinful man”), the Pharisees hurl it as an insult at Levi's guests (“tax collectors and sinners”), and Jesus takes it up as the very people he came to call. Self-accusation, slur, and invitation — the same word carries all three, and only those willing to wear it get the invitation."
+    },
+    {
+      "english": "To Catch Alive",
+      "hebrew": "ζωγρέω",
+      "translit": "zōgréō",
+      "strongs": "G2221",
+      "verses": "v. 10",
+      "insight": "A compound of “living” and “to catch or hunt,” it means to take alive, to capture a prisoner without killing him. It is the exact opposite of ordinary fishing, where the entire point is that the catch dies. Jesus is telling Peter: you have spent your life dragging fish out of the water to their death; from now on you will drag people out of death and into life."
+    },
+    {
+      "english": "To Cleanse",
+      "hebrew": "καθαρίζω",
+      "translit": "katharízō",
+      "strongs": "G2511",
+      "verses": "v. 12, 13",
+      "insight": "To make clean, to purge, to declare ceremonially pure. Both the leper's request (“make me clean”) and Jesus's word (“Be made clean”) use this root — not merely “heal.” Leprosy was not just a disease; it was a state of defilement that barred a man from the temple and from human touch. Jesus does not simply cure the sickness — he restores the man to God, to worship, and to the community."
+    },
+    {
+      "english": "To Forgive / Send Away",
+      "hebrew": "ἀφίημι",
+      "translit": "aphíēmi",
+      "strongs": "G863",
+      "verses": "v. 20, 21, 23, 24",
+      "insight": "The root meaning is “to send away, to release, to let go.” To forgive sins is to send them away from the sinner, to cancel the debt and release the prisoner. When Jesus says “your sins are forgiven you,” he is not offering a warm sentiment — he is performing a release, actively sending the guilt away, which the scribes rightly insist only God has the power to do."
+    },
+    {
+      "english": "Repentance",
+      "hebrew": "μετάνοια",
+      "translit": "metánoia",
+      "strongs": "G3341",
+      "verses": "v. 32",
+      "insight": "From meta (change) and nous (mind) — a change of mind so deep it reverses the entire direction of a life. Jesus calls sinners not merely to feel sorry but to turn around. The goal of his table fellowship with tax collectors is never to leave them as they are; the meal is the means, but metanoia — the U-turn of the heart — is the destination."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the lie that you must clean yourself up before you are allowed to come to Jesus.",
+    "items": [
+      {
+        "title": "“Depart From Me” Is Not the End of the Story",
+        "body": "When the catch overwhelmed Peter, his gut reaction was to send Jesus away: “Depart from me, for I am a sinful man.” Have you ever felt so exposed by God's goodness that your instinct was to put distance between you and Him — because His holiness made your sin unbearable to look at? Notice Jesus's answer. It is not “You're right, I'll go.” It is “Don't be afraid.” The revelation of your sin is not meant to drive you from Christ but to drive you to your knees in front of Him, which is exactly where the call gets issued. Will you let your unworthiness push you away, or pull you down at His feet?"
+      },
+      {
+        "title": "He Touches What Everyone Else Avoids",
+        "body": "The leper had not felt a human hand in years. Everyone kept their distance — that is precisely what “unclean” meant. But Jesus reached straight into the thing that repels everyone else, and touched it before He even spoke a word. What is the part of you that you are certain would make Jesus recoil — the addiction, the secret, the shame, the thing you have never once said out loud? Here is the revelation: He does not catch your uncleanness; you catch His cleanness. The question is not whether you are too defiled for His hand. The question is: will you let Him touch it?"
+      },
+      {
+        "title": "Grace Recruits at the Tax Booth",
+        "body": "Jesus did not wait for Levi to quit his corrupt job, make restitution, and prove himself worthy. He walked up to the booth — mid-sin, mid-career, ledger still open — and said, “Follow me.” Then He went to Levi's party and ate with his friends. The Spirit presses two questions on you. First: are you still waiting to become “good enough” before you will fully follow, when the call comes to you exactly as you are? And second, harder: who are the “tax collectors and sinners” in your own life that you have quietly written off — and would Jesus be eating dinner at their house tonight?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The “At Your Word” Test",
+        "body": "Where has your own experience — “we worked all night and took nothing” — been telling you to quit, while Christ's word is telling you to let the net down one more time? Are you obeying your track record of failure, or His living voice?"
+      },
+      {
+        "title": "The “Old Wine” Check",
+        "body": "What familiar religious form, comfort, or routine are you clinging to and defending as “better” simply because it is old and safe? Is there new wine the Spirit is pouring right now that your brittle, hardened wineskin is quietly refusing to hold?"
+      },
+      {
+        "title": "The Table Audit",
+        "body": "Who have you labeled a “sinner” and kept off your guest list, out of your prayers, and beyond the reach of your friendship? If Jesus were walking through your week, whose house would He be eating in that would scandalize the religious people around you?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Let Down the Net Again",
+        "body": "Identify the one area where you gave up because your own effort failed. This week, do the thing again — but this time openly on His word. Before you act, pray out loud: “Master, we worked all night and took nothing, but at Your word I will let down the net.” Then act, and watch what His word does that your strength could not."
+      },
+      {
+        "title": "Set a Table for a “Sinner”",
+        "body": "Before this week ends, deliberately invite one person the religious crowd would frown at — someone far from God, awkward, or already written off — to share a meal or a coffee with you. Follow Levi's example: do not lecture them, host them. Let the mercy of Jesus do at your table what it did at Levi's."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, Master of the deep, I have worked all night in my own strength and taken nothing. Tonight I let down the net at Your word alone. Like Peter, when I truly see who You are, everything in me wants to say, ‘Depart from me, for I am a sinful man’ — but I hear You answer, ‘Don't be afraid.’ So I fall at Your knees not to send You away, but to follow You. Stretch out Your hand and touch the leprosy I have hidden; I believe that if You want to, You can make me clean — and I hear You say, ‘I want to.’ Speak over the paralyzed places of my life, ‘Your sins are forgiven you,’ and then command, ‘Arise and walk,’ that I may rise up glorifying God. You did not come to call the righteous, and I thank You that I do not have to pretend to be well to come to the Physician — I come to You sick, and You receive me. Pour Your new wine into me and make me a fresh wineskin, willing to hold everything You are doing and unwilling ever to say ‘the old is better.’ Make me a catcher of people alive, and seat me at a table with the very ones the world has written off. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Call of Elisha",
+      "ref": "1 Kings 19:19-21",
+      "relatedVerses": "v. 11, 28",
+      "summary": "When Elijah found Elisha plowing with twelve yoke of oxen, he walked past and threw his mantle over him. Elisha ran after him, then went back, slaughtered his oxen, and burned his plowing equipment to cook the meat — deliberately destroying the tools of his old life so there could be no going back — and rose and followed Elijah as his servant. It is the same total, irreversible break we see when Peter and John leave the greatest catch of their lives lying on the sand, and when Levi walks away from a tax booth he can never reclaim. To follow God's call is to burn the plow behind you."
+    },
+    {
+      "title": "Naaman the Leper Cleansed",
+      "ref": "2 Kings 5:1-14",
+      "relatedVerses": "v. 12-13",
+      "summary": "Naaman was a great Syrian commander and a leper who had to swallow his pride, dip seven times in the muddy Jordan at the prophet's word, and came up with his flesh restored like the flesh of a little child, clean at last. In Scripture leprosy is the living picture of sin — defiling, isolating, and utterly beyond human cure. Jesus Himself points back to Naaman (Luke 4:27) as proof that God's cleansing mercy reaches even the outsider. The leper of Luke 5 is Naaman's heir: cut off, incurable, and made clean by the word of the Lord."
+    },
+    {
+      "title": "Zacchaeus, the Other Tax Collector",
+      "ref": "Luke 19:1-10",
+      "relatedVerses": "v. 27-32",
+      "summary": "Later in this same Gospel, Jesus stops beneath a sycamore tree, calls up to another despised tax collector named Zacchaeus, and invites Himself to the man's house — and endures the identical murmur: “He has gone in to lodge with a man who is a sinner.” Zacchaeus repents on the spot, pledging half his goods to the poor and fourfold restitution to anyone he has cheated. Jesus answers with the theme verse of the whole book: “For the Son of Man came to seek and to save that which was lost.” Levi in chapter 5 and Zacchaeus in chapter 19 are the twin bookends of Luke's gospel of mercy to the outsider."
+    }
+  ]
+}

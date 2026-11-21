@@ -1,0 +1,673 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Corinthians",
+  "chapter": 10,
+  "chapterTitle": "Weapons Not of the Flesh — Strongholds Made of Arguments, and the Ruler That Always Says You Measure Up",
+  "themeTitle": "“The Fortress Is Built Out of Reasonings — and the Ruler You Are Measuring Yourself With Is Rigged”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now I Paul, myself, entreat you by the humility and gentleness of Christ; I who in your presence am lowly among you, but being absent am bold toward you.",
+      "understanding": "The tone snaps, and everyone can feel it. “Now I Paul, myself” — autos de egō Paulos, as emphatic as Greek gets — and after nine chapters of speaking as “we,” he steps out from behind the plural and puts his own name in the sentence like a man rolling up his sleeves. Then watch what he reaches for first. Not authority, not credentials: the praiótēs and epieikeia of Christ — πρᾳότης is the older lemma Strong's files under G4236 and the critical editions print it πραΰτης, but the sense is one thing either way — the meekness of the One who would not break a bruised reed, joined to the clemency of a judge who has every right to press charges and does not. He begins the fiercest four chapters he ever wrote by appealing to the gentleness of Jesus. And he ends the verse by quoting his enemies' caricature back at them whole: in your presence lowly — tapeinos, and they did not mean it kindly; they meant grovelling, cringing, a small man in the room — but brave from a safe distance. He repeats the jibe without flinching, and then spends the chapter answering it.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "entreat"
+        },
+        {
+          "strongs": "G4236",
+          "hebrew": "πρᾳότης",
+          "translit": "praiótēs",
+          "english": "humility (meekness)"
+        },
+        {
+          "strongs": "G1932",
+          "hebrew": "ἐπιείκεια",
+          "translit": "epieíkeia",
+          "english": "gentleness"
+        },
+        {
+          "strongs": "G5011",
+          "hebrew": "ταπεινός",
+          "translit": "tapeinós",
+          "english": "lowly"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Yes, I beg you that I may not, when present, show courage with the confidence with which I intend to be bold against some, who consider us to be walking according to the flesh.",
+      "understanding": "Deomai — he begs. Read the strange shape of the sentence slowly, because it is a pastor's heart in one line: he is pleading with them not to make him use the boldness he fully intends to use. He would rather not arrive swinging. And here the charge is finally named out loud: some “consider us to be walking according to the flesh” — kata sarka, as though Paul's whole ministry ran on ordinary human motives, ordinary human methods, ordinary human ambition dressed in religious clothes. That accusation is what the entire chapter answers.",
+      "words": [
+        {
+          "strongs": "G1189",
+          "hebrew": "δέομαι",
+          "translit": "déomai",
+          "english": "beg"
+        },
+        {
+          "strongs": "G5111",
+          "hebrew": "τολμάω",
+          "translit": "tolmáō",
+          "english": "be bold"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walking"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For though we walk in the flesh, we don’t wage war according to the flesh;",
+      "understanding": "He concedes half the charge in the first breath. Yes — we walk IN the flesh. Paul never pretends to be a spiritual being hovering above ordinary life; he gets tired, he gets sick, he gets afraid, he catches colds and loses sleep. What he denies is one preposition: we do not wage war KATA sarka, according to the flesh, by its standards, with its resources, for its rewards. Strateuomai is a soldier's word — enlisted service, a campaign with orders and a supply line. Living in a body is not the same thing as fighting like one.",
+      "words": [
+        {
+          "strongs": "G4754",
+          "hebrew": "στρατεύομαι",
+          "translit": "strateúomai",
+          "english": "wage war"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "for the weapons of our warfare are not of the flesh, but mighty before God to the throwing down of strongholds,",
+      "understanding": "Hopla is the soldier's kit — the working gear of a man in the field. Ours, Paul says, are not sarkika: not charisma, not credentials, not sarcasm, not the letters of recommendation his rivals were carrying around Corinth. They are dynata tō theō — “powerful for God,” a Hebrew way of saying divinely powerful, powerful with a strength that is not ours. And then the target: ochyrōma, a fortified position. Strong's defines it flatly — “a castle (figuratively, argument).” No Corinthian needed that explained; the Acrocorinth stood over their marketplace, a rock with its own spring inside the walls that armies preferred to starve rather than storm.",
+      "words": [
+        {
+          "strongs": "G3696",
+          "hebrew": "ὅπλον",
+          "translit": "hóplon",
+          "english": "weapons"
+        },
+        {
+          "strongs": "G4752",
+          "hebrew": "στρατεία",
+          "translit": "strateía",
+          "english": "warfare"
+        },
+        {
+          "strongs": "G4559",
+          "hebrew": "σαρκικός",
+          "translit": "sarkikós",
+          "english": "of the flesh"
+        },
+        {
+          "strongs": "G3794",
+          "hebrew": "ὀχύρωμα",
+          "translit": "ochýrōma",
+          "english": "strongholds"
+        },
+        {
+          "strongs": "G2506",
+          "hebrew": "καθαίρεσις",
+          "translit": "kathaíresis",
+          "english": "throwing down"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "throwing down imaginations and every high thing that is exalted against the knowledge of God, and bringing every thought into captivity to the obedience of Christ;",
+      "understanding": "Here is the verse, and it must not be allowed to drift into vagueness, because Paul names his own targets. Logismos: computations, reasonings, arguments — the fortress is built out of ideas. Not fog in the ceiling, not a mood in the room: fortified conclusions a person assembled out of experience and pain and now lives inside. On top of that wall sits “every high thing exalted” — hypsōma, a raised barrier, the proud rampart of thought that stands between a man and the knowledge of God. And then comes the strangest military order in Scripture. The captured thought is not executed. Aichmalōtizō — take it at spear point and march it away — into the obedience of Christ. You do not delete the thought. You arrest it and walk it up the road until it stands in front of Jesus and takes orders.",
+      "words": [
+        {
+          "strongs": "G3053",
+          "hebrew": "λογισμός",
+          "translit": "logismós",
+          "english": "imaginations"
+        },
+        {
+          "strongs": "G5313",
+          "hebrew": "ὕψωμα",
+          "translit": "hýpsōma",
+          "english": "high thing"
+        },
+        {
+          "strongs": "G1869",
+          "hebrew": "ἐπαίρω",
+          "translit": "epaírō",
+          "english": "exalted"
+        },
+        {
+          "strongs": "G1108",
+          "hebrew": "γνῶσις",
+          "translit": "gnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G3540",
+          "hebrew": "νόημα",
+          "translit": "nóēma",
+          "english": "thought"
+        },
+        {
+          "strongs": "G163",
+          "hebrew": "αἰχμαλωτίζω",
+          "translit": "aichmalōtízō",
+          "english": "bringing into captivity"
+        },
+        {
+          "strongs": "G5218",
+          "hebrew": "ὑπακοή",
+          "translit": "hypakoḗ",
+          "english": "obedience"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "and being in readiness to avenge all disobedience, when your obedience will be made full.",
+      "understanding": "The order of operations here is pastorally beautiful, and most readers run past it. Paul is holding fire. He stands hetoimos — ready, weapon loaded, entirely capable — to deal with parakoē, a word that literally means hearing-alongside: the disobedience of a man who heard perfectly well and simply did not act on it. But he will not fire until the loyal majority have completed their own obedience. He refuses to bomb a whole church to reach a faction. Discipline that cannot wait for the innocent is not discipline; it is temper.",
+      "words": [
+        {
+          "strongs": "G2092",
+          "hebrew": "ἕτοιμος",
+          "translit": "hétoimos",
+          "english": "readiness"
+        },
+        {
+          "strongs": "G1556",
+          "hebrew": "ἐκδικέω",
+          "translit": "ekdikéō",
+          "english": "avenge"
+        },
+        {
+          "strongs": "G3876",
+          "hebrew": "παρακοή",
+          "translit": "parakoḗ",
+          "english": "disobedience"
+        },
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "made full"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Do you look at things only as they appear in front of your face? If anyone trusts in himself that he is Christ’s, let him consider this again with himself, that, even as he is Christ’s, so also we are Christ’s.",
+      "understanding": "Kata prosōpon — “according to the face.” Do you assess things at surface level, by what presents itself? This is the hinge of the chapter: Corinth had begun evaluating ministry the way you evaluate a product, by presentation. And notice how small Paul's answer is to the man who is confident he belongs to Christ. He does not counter-claim superiority, does not list his visions or his scars. He says: fine — then so do we. He asks for nothing higher than parity. He already told them in 5:12 that some “boast in appearance, and not in heart” — same word, prosōpon, and the same disease.",
+      "words": [
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face (appearance)"
+        },
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "trusts"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "For though I should boast somewhat abundantly concerning our authority, (which the Lord gave for building you up, and not for casting you down) I will not be disappointed,",
+      "understanding": "He admits he has exousia and admits he could boast about it — and then he defines it before he uses it, and the definition is a fence. Authority given for oikodomē, actual construction, building a thing up, and NOT for kathairesis — the very demolition word from verse 4. Read those two verses side by side and the whole ethic of this chapter appears: the tearing down is aimed at arguments; it is never aimed at people. Any authority that dismantles a human being has stopped being the authority Christ handed out. “I will not be disappointed” is literally “I will not be put to shame” — the boast would hold up.",
+      "words": [
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        },
+        {
+          "strongs": "G3619",
+          "hebrew": "οἰκοδομή",
+          "translit": "oikodomḗ",
+          "english": "building you up"
+        },
+        {
+          "strongs": "G2506",
+          "hebrew": "καθαίρεσις",
+          "translit": "kathaíresis",
+          "english": "casting you down"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "that I may not seem as if I desire to terrify you by my letters.",
+      "understanding": "Ekphobeō is to frighten a person out of his wits. They had accused him of ruling Corinth by post — brave with a pen, timid in the room. Paul's answer is not to soften the letters. It is to tell them plainly that terrifying them was never the aim. He had already told them what the severe letter cost him: “out of much affliction and anguish of heart I wrote to you with many tears” (2:4). Those were not the tears of a man trying to intimidate anyone.",
+      "words": [
+        {
+          "strongs": "G1629",
+          "hebrew": "ἐκφοβέω",
+          "translit": "ekphobéō",
+          "english": "terrify"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For, “His letters”, they say, “are weighty and strong, but his bodily presence is weak, and his speech is despised.”",
+      "understanding": "Here it is — the insult, quoted verbatim in his opponents' own words, and then copied by Paul's own hand into the letter he knew would be read aloud to the whole congregation. Barys, weighty; ischyros, strong. But the man himself: asthenēs, strengthless, the ordinary word for a sick man. And his logos, his speaking, is exouthenēmenos — set at nothing, counted as of no account, the word you use for what people throw away. In a Greek city that judged a speaker the way we judge a performer, that was the killing blow. Paul does not deny one syllable of it.",
+      "words": [
+        {
+          "strongs": "G926",
+          "hebrew": "βαρύς",
+          "translit": "barýs",
+          "english": "weighty"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "strong"
+        },
+        {
+          "strongs": "G772",
+          "hebrew": "ἀσθενής",
+          "translit": "asthenḗs",
+          "english": "weak"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "speech"
+        },
+        {
+          "strongs": "G1848",
+          "hebrew": "ἐξουθενέω",
+          "translit": "exouthenéō",
+          "english": "despised"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Let such a person consider this, that what we are in word by letters when we are absent, such are we also in deed when we are present.",
+      "understanding": "This is the one clause of the charge he will not let stand: the alleged gap between the man on paper and the man in the room. There is none. What he is in logos he is in ergon — in word, so in deed. Notice exactly what he is claiming, because it is not what a defensive man would claim. He never says he is impressive. He says he is the same. The absent Paul and the present Paul are one man, and that is a different virtue altogether from being formidable.",
+      "words": [
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For we are not bold to number or compare ourselves with some of those who commend themselves. But they themselves, measuring themselves by themselves, and comparing themselves with themselves, are without understanding.",
+      "understanding": "The irony is thick enough to cut: “we do not DARE to classify ourselves” with them — he mocks his own supposed inferiority. Then comes the sentence that exposes the entire system. Metrountes... synkrinontes: measuring themselves by themselves, comparing themselves with themselves. It is a closed circuit with no external input. A ruler you carved out of your own timber will always report that your timber is exactly the right length. And read Paul's verdict carefully, because it is not the one you expect. He does not say they are proud. He says ou syniasin — they are without understanding, they cannot put things together. Self-referential measurement does not merely inflate a man. It makes him stupid.",
+      "words": [
+        {
+          "strongs": "G4921",
+          "hebrew": "συνιστάω",
+          "translit": "synistáō",
+          "english": "commend themselves"
+        },
+        {
+          "strongs": "G3354",
+          "hebrew": "μετρέω",
+          "translit": "metréō",
+          "english": "measuring"
+        },
+        {
+          "strongs": "G4793",
+          "hebrew": "συγκρίνω",
+          "translit": "synkrínō",
+          "english": "comparing"
+        },
+        {
+          "strongs": "G4920",
+          "hebrew": "συνίημι",
+          "translit": "syníēmi",
+          "english": "without understanding"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But we will not boast beyond proper limits, but within the boundaries with which God appointed to us, which reach even to you.",
+      "understanding": "Against boasting that is ametros — literally without measure, off the scale — Paul sets a kanōn: a straight reed, a surveyor's measuring rod, and by extension the field that rod marked out. And merizō means to apportion, to deal out a share. So Paul's ministry has borders, and God drew them, and Corinth happens to fall inside them. That is the entirety of his claim. He is not the greatest apostle in the Mediterranean. He is the apostle assigned to them — which is a far harder thing to argue with, and a far more restful thing to be.",
+      "words": [
+        {
+          "strongs": "G280",
+          "hebrew": "ἄμετρος",
+          "translit": "ámetros",
+          "english": "beyond proper limits"
+        },
+        {
+          "strongs": "G2583",
+          "hebrew": "κανών",
+          "translit": "kanṓn",
+          "english": "boundaries"
+        },
+        {
+          "strongs": "G3307",
+          "hebrew": "μερίζω",
+          "translit": "merízō",
+          "english": "appointed"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For we don’t stretch ourselves too much, as though we didn’t reach to you. For we came even as far as to you with the Good News of Christ,",
+      "understanding": "Hyperekteinō — to stretch beyond, the word for a fabric pulled past its own width until the weave gives. Paul is not inflating a claim to reach Corinth; he is stating plain history. He got there first. He came down from Athens on his own, found Aquila and Priscilla newly turned out of Rome, worked with his own hands in their tent-shop because they shared the trade, and stayed teaching in that city a year and six months (Acts 18:1-3, 11). The rivals with the recommendation letters arrived to find a church that already existed. Somebody had already paid for the door they walked through.",
+      "words": [
+        {
+          "strongs": "G5239",
+          "hebrew": "ὑπερεκτείνω",
+          "translit": "hyperekteínō",
+          "english": "stretch ourselves too much"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "not boasting beyond proper limits in other men’s labors, but having hope that as your faith grows, we will be abundantly enlarged by you in our sphere of influence,",
+      "understanding": "Now the quiet accusation lands: they are boasting in other men's kopos — labour to the point of exhaustion, work that costs you strength you do not get back. They built nothing in Corinth. They moved into a house Paul bled to raise and put their own name on the deed. And then Paul states an ambition that no self-promoter could counterfeit: he wants THEIR faith to grow so that HIS assigned field can be enlarged. His advancement is chained to their maturity. He cannot get bigger unless they get deeper.",
+      "words": [
+        {
+          "strongs": "G2873",
+          "hebrew": "κόπος",
+          "translit": "kópos",
+          "english": "labors"
+        },
+        {
+          "strongs": "G837",
+          "hebrew": "αὐξάνω",
+          "translit": "auxánō",
+          "english": "grows"
+        },
+        {
+          "strongs": "G3170",
+          "hebrew": "μεγαλύνω",
+          "translit": "megalýnō",
+          "english": "abundantly enlarged"
+        },
+        {
+          "strongs": "G2583",
+          "hebrew": "κανών",
+          "translit": "kanṓn",
+          "english": "sphere of influence"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "so as to preach the Good News even to the parts beyond you, not to boast in what someone else has already done.",
+      "understanding": "Hyperekeina — the regions still further on. Paul is already looking past Corinth toward country where the name of Christ has never been spoken; he says the same thing in Romans 15:20, “making it my aim to preach the Good News, not where Christ was already named, that I might not build on another’s foundation.” His whole drive is forward into unclaimed ground, never sideways into ground somebody else has already cleared. That is the difference between a builder and a squatter.",
+      "words": [
+        {
+          "strongs": "G5238",
+          "hebrew": "ὑπερέκεινα",
+          "translit": "hyperékeina",
+          "english": "the parts beyond"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "But “he who boasts, let him boast in the Lord.”",
+      "understanding": "Paul reaches for Jeremiah 9:24 — the same line he had already thrown at this same church in 1 Corinthians 1:31 — and he does not use it to abolish boasting. Look at what he actually does: kauchaomai stands. You are permitted to be loud. You are permitted to glory in something out loud, in public, without apology. He simply moves the object of the sentence. Boast — just not about yourself.",
+      "words": [
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boasts"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For it isn’t he who commends himself who is approved, but whom the Lord commends.",
+      "understanding": "The chapter ends by taking the pen out of your hand. Synistanō — the form standing here, from synistáō, G4921 — is to place together, to set someone alongside another and introduce him favourably — a letter of recommendation was literally a standing-together document, and Paul's rivals had arrived carrying theirs (3:1). His point is not that commendation is worthless; it is that self-issued commendation is. Dokimos is the assayer's word for metal that has been tested and passed, proved genuine under fire. You may not stamp your own coin as approved. Only the assayer's mark counts, and the assayer is the Lord.",
+      "words": [
+        {
+          "strongs": "G4921",
+          "hebrew": "συνιστάω",
+          "translit": "synistáō",
+          "english": "commends"
+        },
+        {
+          "strongs": "G1384",
+          "hebrew": "δόκιμος",
+          "translit": "dókimos",
+          "english": "approved"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Rock Above the Marketplace",
+      "verseRef": "v. 4",
+      "image": "Paul's readers never had to imagine a stronghold. They lived underneath one. Directly behind their city stood the Acrocorinth, a limestone mass climbing to almost nineteen hundred feet above the sea — better than fifteen hundred feet of rock straight up from the marketplace at its foot — with a perennial spring bubbling inside its own walls, so that a garrison up there could drink while an army below went thirsty. There was one practical approach, a narrow ascent where numbers meant nothing. Rome levelled Corinth in 146 BC and Julius Caesar rebuilt it a century later, and through every one of those turnovers the rock kept doing the one thing a stronghold does: it made attack pointless. Now put an unimpressive tentmaker in its shadow — later tradition remembers him short and balding, and his own critics said his presence was weak — no siege tower, no ram, no army, telling the city that he carries weapons which bring that kind of thing down.",
+      "meaning": "Strong's defines ochyrōma with startling directness: “a castle (figuratively, argument).” Paul is not being poetic, and the very next verse tells you what the walls are made of: reasonings. A stronghold in your life is not a bad day and it is not a bad season. It is a conclusion so well defended that evidence bounces off it, a fortified idea with a water supply of its own, and you have been living inside it so long that you call it realism. Fleshly weapons — willpower, argument, image management, trying harder — are men throwing rocks at a cliff. Something else brings that wall down."
+    },
+    {
+      "title": "The Prisoner Marched Up the Road",
+      "verseRef": "v. 5",
+      "image": "A Roman column comes back down the road from a campaign, and in the middle of it, roped at the wrists, walk the prisoners. They are filthy, exhausted, and going somewhere they did not choose, with spear points at their backs. Nobody asks their opinion about the route. They are not killed on the field and they are not released at the border; they are walked, step after step, all the way into the presence of the one who now owns them. Now take the sentence that shows up in your head at three in the morning — “you will always be this,” “you have already used up your chances,” “if they knew, they would leave” — and put it in that line.",
+      "meaning": "Aichmalōtizō means to take at spear point and lead away captive, and it is the most surprising verb in the chapter, because it is not an execution order. Paul does not tell you to destroy the thought. He tells you to arrest it and march it to Christ, and let Christ deal with it there. That is why “just stop thinking about it” has never worked for you a single time in your life — suppression is not the command. Every thought is taken, none is exempted, and the destination is not the bin but the obedience of Christ. A captured thought does not have to be silenced. It has to be made to take orders."
+    },
+    {
+      "title": "The Ruler You Carved Yourself",
+      "verseRef": "v. 12",
+      "image": "A man in a workshop cuts a length of timber. Then he takes a second piece of wood and carves his measuring rule from the first piece — same wood, same length, same hand. He measures. Perfect. He measures again the next morning: still perfect. Every board in the house comes out flawless, every day, forever, because the ruler IS the timber. Then a surveyor walks in from the city, lays an iron standard along the beam, and every joint in the building is out. The house was never straight. It was only ever agreeing with itself.",
+      "meaning": "Metrountes heautous en heautois — measuring themselves by themselves. It is a closed circuit, and a closed measuring system produces exactly one result: a ruler that always says you are the right length. That is why Paul's verdict is not “they are arrogant” but ou syniasin — they are without understanding, unable to put things together. Comparison feels like clear-eyed self-assessment; it is actually a broken instrument. And notice it fails in both directions with equal reliability. Measure yourself against someone smaller and the ruler flatters you. Measure yourself against someone larger and the same ruler destroys you. Both readings are false, because in both cases a human being is still the standard."
+    },
+    {
+      "title": "The Review Read Aloud",
+      "verseRef": "v. 10",
+      "image": "Picture the worst assessment of your life read out in a room where everyone you serve is listening. Three clauses, and each one lands somewhere different: strong on paper — weak the moment you walk in — and when you open your mouth, it is worth nothing. Now picture yourself writing that assessment down, word for word, unedited, in your own handwriting, and handing it to the congregation to read. That is what verse 10 is. Paul quotes the sneer, keeps the quotation marks on it, and does not add a rebuttal.",
+      "meaning": "He denies one clause only — the gap between the letters and the man (v. 11). Everything else he lets stand, because he has no intention of arguing that he is stronger than they say. Two chapters later he will explain why: “My grace is sufficient for you, for my power is made perfect in weakness” (12:9). A second-century account describes Paul as short, bald and bandy-legged with meeting eyebrows; it is a tradition, not Scripture, but nothing in his own letters contradicts it, and he himself says in 11:6, “though I am unskilled in speech, yet I am not unskilled in knowledge.” The credential was never the presence. The credential was the assignment."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Appeal by the Meekness of Christ (v. 1-2)",
+        "body": "Paul names himself, reaches first for the gentleness of Jesus, and finally states the charge out loud — that he walks according to the flesh."
+      },
+      {
+        "label": "Weapons Not of the Flesh (v. 3-6)",
+        "body": "He concedes he lives in a body and denies he fights like one; the strongholds are reasonings, the high things are pretensions, and every captured thought is marched to the obedience of Christ."
+      },
+      {
+        "label": "The Insult Quoted in Their Own Words (v. 7-11)",
+        "body": "Judging by appearance is the disease; Paul defines his authority as construction rather than demolition, prints his opponents' sneer verbatim, and disputes only the gap between his letters and his life."
+      },
+      {
+        "label": "The Closed Measuring System (v. 12)",
+        "body": "Men who measure themselves by themselves and compare themselves with themselves are not merely conceited — Paul says they are without understanding."
+      },
+      {
+        "label": "The Assigned Field (v. 13-16)",
+        "body": "Paul boasts only inside the boundary God apportioned him, refuses credit for work done on another man's foundation, and aims at the regions beyond."
+      },
+      {
+        "label": "The Only Commendation That Counts (v. 17-18)",
+        "body": "Boasting is not abolished but relocated: let him boast in the Lord, because the approved man is the one the Lord commends, not the one who commends himself."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Tone That Changes at 10:1 — and Whether This Is a Separate Letter",
+        "paragraphs": [
+          "Be honest about the seam before you read a word: the shift from the warmth of chapters 8-9 to the raw combat of chapter 10 is so violent that a number of scholars argue chapters 10-13 are a separate letter — some identifying them with the “severe letter” of 2:4, others with a later note written after fresh bad news from Corinth. That is the honest state of the discussion, and it is worth exactly one sentence, because every surviving manuscript of this letter, back to P46 around AD 200, contains all thirteen chapters in this order, and no copy of a shorter 2 Corinthians has ever been found. So we read it as it stands.",
+          "And read as it stands, the change of tone is not a puzzle; it is the sound of a man turning from the church to the men who have been working it. Chapters 1-9 are addressed to a congregation that has repented, and Paul is gentle with them. Chapter 10 turns and faces the intruders standing behind them, and no honest pastor speaks to a wolf in the voice he uses for the sheep. Notice, too, that the very first thing he reaches for as he turns is the praiótēs and epieikeia of Christ. He goes to war by way of the meekness of Jesus, which is exactly the argument the rest of the chapter is making.",
+          "There is also hard internal evidence that this letter is stitched across its own seam. The charge Paul answers in 10:2 — that he walks “according to the flesh” — is already on the table in 1:17, where he asks whether the things he purposes are purposed “according to the flesh.” The self-commendation he dismantles in 10:12 and 10:18 is the argument he has been having since 3:1, “do we need, as do some, letters of commendation to you or from you?”, and since 5:12, where the rivals “boast in appearance, and not in heart” — prosōpon, the very word he fires at Corinth in 10:7. And the obedience he is waiting on in 10:6 is the obedience he tested in 2:9 and rejoiced over in 7:15. The vocabulary is continuous, the opponents are the same men, and the wound has not changed. What changes at 10:1 is not the subject. It is the direction Paul is facing."
+        ]
+      },
+      {
+        "heading": "The Strongholds Are Arguments — Say It Plainly",
+        "paragraphs": [
+          "Verses 4-5 are among the most quoted and most vaporised sentences in the New Testament. They get shouted over cities and territories and atmospheres until “pulling down strongholds” means anything anybody wants it to mean. But Paul does not leave his own terms undefined. He names his targets in the very next clause: logismoi, reasonings and calculations and arguments, and hypsōma, every high thing lifted up against the knowledge of God. The stronghold in this text is a fortified idea. It is the conclusion a man built out of his own experience, reinforced against contradiction, and now lives inside — and the pretension raised on top of it that refuses to submit to what God has said.",
+          "This is not a retreat from spiritual warfare into psychology. Ephesians 6:12 is true and stays true: “our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world’s rulers of the darkness of this age.” There is a real enemy and a real war. But notice how the enemy actually operates in the Corinthian situation Paul is addressing: not by rattling furniture, but by installing a way of assessing reality. Someone taught that church to evaluate an apostle by presence, polish and self-promotion, and once that measure was installed it did more damage than any haunting could. The devil's most effective weapon in Corinth was a criterion. That is why Paul goes after arguments — and why the one offensive weapon in that armour, “the sword of the Spirit” of Ephesians 6:17, is the word of God — a truth-weapon issued for a war fought over what people believe.",
+          "Then comes the clause that changes how you fight your own head. The captured thought is not annihilated; it is escorted. Aichmalōtizō is the verb for taking a prisoner alive and walking him away — and the destination Paul names is “the obedience of Christ.” So the target is not a mind with no thoughts in it. The target is a mind whose thoughts have been made to take orders. Practically, that means the fight is never “stop thinking that,” which no human being has ever successfully done on command. It is: take that specific sentence, say it out loud in daylight where it can be examined, stand it in front of what Christ has actually said, and hold it there until it either dies or changes sides. Notice also that these are the same weapons that “throw down” and the same authority that verse 8 says is for building up and not for casting down. Arguments get demolished. People get built."
+        ]
+      },
+      {
+        "heading": "Weakness as Credential — Why Paul Never Says He Is Stronger Than They Claim",
+        "paragraphs": [
+          "The most extraordinary thing in this chapter is what Paul does not do. He is told that his bodily presence is weak and his speech is worth nothing, and he never once answers, “that is not true.” Watch him elsewhere in the same letter and the pattern is deliberate: “though I am unskilled in speech, yet I am not unskilled in knowledge” (11:6); “If I must boast, I will boast of the things that concern my weakness” (11:30); “I ought to have been commended by you... though I am nothing” (12:11). He had already told this church the terms on which he first arrived: “I was with you in weakness, in fear, and in much trembling. My speech and my preaching were not in persuasive words of human wisdom, but in demonstration of the Spirit and of power” (1 Corinthians 2:3-4). He is not conceding the charge reluctantly. He is holding it up as evidence.",
+          "And the reason is theological, not temperamental. 13:4 gives it away: “he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.” The shape of the minister has to match the shape of the message. A crucified Christ cannot be adequately represented by an impressive man, because an impressive man makes the wrong argument with his life. That is the whole logic of the clay jar in 4:7 — “that the exceeding greatness of the power may be of God, and not from ourselves” — and it terminates in 12:9: “My grace is sufficient for you, for my power is made perfect in weakness.”",
+          "So do not read this chapter as a bruised man defending his ego. Read it as a man refusing to compete in a category that should not exist. His opponents wanted a contest of presence, polish and platform, and Paul will not enter it — not because he would lose, but because winning it would prove their point. The one thing he genuinely defends is a boundary: God gave him Corinth (v. 13), he was there first (v. 14), and no one else may bill for his labour (v. 15). Everything else — the physique, the voice, the room presence, the comparison — he hands over without a fight. If your credential is your impressiveness, then every stronger person in the room is a threat to your calling. If your credential is your assignment, they are not competitors at all."
+        ]
+      },
+      {
+        "heading": "Three Verbs, a Measuring Rod, and Who Gets to Publish the Verdict (v. 12-18)",
+        "paragraphs": [
+          "Verse 12 is built out of a pun that does not survive translation, and it is worth seeing. Three of its verbs are syn- compounds, words for doing something together: the rivals stand-themselves-together (synistanontōn — they commend themselves), they judge-themselves-together (synkrinontes — they compare), and Paul's verdict is that they do not put-together at all, ou syniasin. Everything in their world is joined to themselves, so nothing in it can finally be understood. And notice which verb he uses to refuse them. In verse 2 he says he fully intends to be bold — tolmaō. In verse 12 he says that of the comparison league “we are not bold” — the same verb, deadpan. He has courage in abundance; he simply has none for that particular competition. He had already told this church where he filed every human assessment, his own included: “with me it is a very small thing that I should be judged by you, or by man’s judgment. Yes, I don’t judge my own self... he who judges me is the Lord” (1 Corinthians 4:3-4). Three courts closed in two sentences — theirs, the world’s, and his own.",
+          "So how does a man know his boundary, if he is not allowed to work it out by ranking himself against other men? Paul's answer in verse 14 is embarrassingly concrete: “we came even as far as to you with the Good News of Christ.” The rod is drawn by where God actually sent him and what God actually did there — not by the reach he feels entitled to, not by the influence he could plausibly claim, and certainly not by the size of the platform he would like. That is why he uses merizō in verse 13, the verb for dealing out a share, and it is the same verb he uses in Romans 12:3: the cure for thinking of yourself more highly than you ought is not thinking worse of yourself, it is knowing what God “has apportioned to each person.” Comparison asks, how do I rank? The kanōn asks, where was I sent? Only the second question has an answer, and it is one you can actually go and obey on Monday morning.",
+          "Then the close, which repeats the move Paul made back in verse 5 — because he almost never deletes anything, he redirects it. The captured thought is not executed, it is marched to Christ. The boast is not banned either; it is turned around to face God. That is one habit of mind running through the whole chapter: the answer to a disordered thing is not to kill it but to march it to its rightful owner. And verse 18 settles who publishes the result — not the rivals with their references, not a congregation grading presence and polish, and not Paul. Yet look closely, because he never says approval is unavailable. He says it is not self-issued, and it is not yet issued: “judge nothing before the time, until the Lord comes... Then each man will get his praise from God” (1 Corinthians 4:5). Praise is coming. It is simply coming late, from the only Person whose reading of you is accurate — and He is not taking submissions."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Verse 17 is not Paul's own line. “He who boasts, let him boast in the Lord” is a compressed quotation of Jeremiah 9:23-24, where God forbids the wise man to boast in his wisdom, the strong man in his strength, and the rich man in his riches, and permits exactly one boast: that a man understands and knows the LORD. Paul had already fired that same verse into this same church years earlier, and the setting there is the key to reading 2 Corinthians 10. In 1 Corinthians 1:26-31 he tells them to look around at themselves: “not many are wise according to the flesh, not many mighty, and not many noble; but God chose the foolish things of the world that he might put to shame those who are wise. God chose the weak things of the world that he might put to shame the things that are strong” — and he states the purpose without decoration: “that no flesh should boast before God... that, according as it is written, ‘He who boasts, let him boast in the Lord.’”",
+        "So the two letters lock together. In 1 Corinthians the principle is applied to the congregation: God deliberately chose unimpressive people so that the glory would have nowhere else to land. In 2 Corinthians 10 the same principle is applied to the apostle himself: the man they call weak in presence and worthless in speech is the living demonstration of the doctrine he taught them. His rivals had reversed it — they were boasting in the flesh, comparing themselves with themselves, arriving with letters of recommendation (3:1) and asking Corinth to grade ministry by appearance. Paul's answer is to quote Jeremiah back over the whole argument and let it stand: the only legitimate boast in the universe has God as its object.",
+        "Then trace it two chapters forward and the entire book resolves. Paul takes the sneer of 10:10 — weak presence, despised speech — and by 12:9 he has heard God's own verdict on it: “My grace is sufficient for you, for my power is made perfect in weakness.” His response is not resignation but delight: “Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me... For when I am weak, then am I strong.” The same movement runs out into Galatians 6:14, where Paul reduces all permissible boasting to one object: “far be it from me to boast, except in the cross of our Lord Jesus Christ.” The cross is the place where God's power looked exactly like weakness — which is precisely why a man with a weak presence and a despised voice was the right man to preach it."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Stronghold / fortress",
+      "hebrew": "ὀχύρωμα",
+      "translit": "ochýrōma",
+      "strongs": "G3794",
+      "verses": "v. 4",
+      "insight": "Strong's traces it to a root meaning “to fortify, through the idea of holding safely,” and then defines it with unusual bluntness: “a castle (figuratively, argument).” That parenthesis is the whole battle. A stronghold is not a mood, a bad season, or a vague oppression; it is a position that has been fortified so that ordinary attack accomplishes nothing. And the reason it was fortified is that it once kept you safe — the conclusion you reached after the betrayal, the rule you made for yourself after the failure, the story you assembled to explain why you are the way you are. It has a water supply of its own, which is why it survives every sermon. Paul's claim is not that you will argue your way out of it. He says the weapons are “not of the flesh, but mighty before God” — the demolition is God's work, done with God's instruments, on a wall that human effort cannot scratch."
+    },
+    {
+      "english": "Imagination / reasoning / argument",
+      "hebrew": "λογισμός",
+      "translit": "logismós",
+      "strongs": "G3053",
+      "verses": "v. 5",
+      "insight": "From logizomai, the accountant's verb — to reckon, to compute. Strong's: “computation, i.e. (figuratively) reasoning (conscience, conceit).” So a logismos is not a stray thought; it is a calculation, a sum you have already done and filed as settled. That is what the fortress is made of. “I have burned too many bridges to be used by God.” “Everyone eventually leaves.” “If I stop performing, I am nothing.” Each of those is a completed piece of arithmetic that now runs your behaviour without ever being audited again. Paul's point is precise: the war is not against feelings, it is against conclusions. And because they are conclusions, they can be brought out and re-examined against the knowledge of God — which is exactly the demolition verse 5 describes."
+    },
+    {
+      "english": "To take captive at spear point",
+      "hebrew": "αἰχμαλωτίζω",
+      "translit": "aichmalōtízō",
+      "strongs": "G163",
+      "verses": "v. 5",
+      "insight": "Built from aichmē, a spear, and halōtos, taken — Strong's: “to make captive,” and the King James renders it “lead away captive, bring into captivity.” Everything hangs on the fact that this is not a killing word. The prisoner is taken alive and walked somewhere. That single detail rewrites how most believers fight their own minds: you have spent years trying to delete thoughts and calling the failure a lack of faith, when the command was never deletion. It was arrest and escort. And notice which way the same verb runs elsewhere in Paul — in Romans 7:23 it is what sin does to him: “bringing me into captivity under the law of sin which is in my members.” The identical word, with the man as the prisoner. Here in 2 Corinthians 10:5 the captivity is reversed and handed back to you: the thing that used to march you off now goes in chains itself. Note too that the scope is total — “every thought,” noēma, with no exemptions for the ones you are ashamed of — and the destination is not truth in the abstract but “the obedience of Christ.” The goal is a mind that takes orders."
+    },
+    {
+      "english": "Measuring rod / boundary / assigned field",
+      "hebrew": "κανών",
+      "translit": "kanṓn",
+      "strongs": "G2583",
+      "verses": "v. 13, 15, 16",
+      "insight": "From a word for a straight reed used as a rule — Strong's: “a rule (‘canon’), i.e. (figuratively) a standard... by implication, a boundary, i.e. (figuratively) a sphere (of activity).” This is the word that answers verse 12, and the contrast is exact. His rivals measure with themselves; Paul accepts a rod that God cut, and God “apportioned” (merizō) the field it marks out. Everything settles once you take that in: Paul does not claim to be the best apostle alive, only the one assigned to Corinth. He is not competing for territory, he is occupying an allotment. A man with a kanōn can watch someone more gifted succeed without dying inside, because he was never assigned that ground and so has not lost anything — and he can also stop pretending to a reach he does not have. The same rod that limits your boasting protects your peace."
+    },
+    {
+      "english": "To commend / place alongside",
+      "hebrew": "συνιστάω",
+      "translit": "synistáō",
+      "strongs": "G4921",
+      "verses": "v. 12, 18 (the New Testament also spells it συνίστημι / συνιστάνω)",
+      "insight": "Literally “to set together” — from syn (with) and histēmi (to stand) — hence, as Strong's puts it, “to introduce (favorably).” It is a social and legal word: you stand a man next to yourself and vouch for him, which is exactly what a letter of recommendation did in the ancient world, and exactly what Paul's opponents carried into Corinth (3:1). Paul uses it twice like a pair of bookends. In verse 12 they “commend themselves”; in verse 18 he closes the whole chapter by removing self-commendation from the table entirely — the approved man is dokimos, the assayer's term for metal tested by fire and found genuine. You cannot stamp your own coin. And there is enormous rest in that: if the Lord's commendation is the only one that counts, then no one else's assessment of you — including the one you give yourself at midnight — is the verdict."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with four things in this chapter: the fortified argument you have been living inside, the thoughts you have been trying to delete instead of arrest, the rigged ruler you keep measuring yourself with, and the fear that because you are not impressive, God cannot really use you.",
+    "items": [
+      {
+        "title": "Name the Wall You Are Living Inside",
+        "body": "Somewhere in you is a sentence you no longer argue with. You do not experience it as a thought; you experience it as reality. “I have already disqualified myself.” “I am the one who always ruins things.” “If they saw the real version, they would go.” “God helps other people.” That is a logismos — a sum you finished a long time ago and filed as settled, and everything since has been built on it. It is a stronghold precisely because it once protected you: it explains your failures in advance so that nothing can hurt you by surprise. But look at what verse 4 says about the weapons that take that kind of wall down — not of the flesh. Which means every year you have spent trying to think positively, discipline yourself out of it, or outperform it, you have been throwing rocks at a cliff. So say it out loud: what is the sentence? Write it in words a stranger could read. You cannot demolish a fortress you have never been willing to name."
+      },
+      {
+        "title": "You Were Never Told to Delete the Thought",
+        "body": "Here is where most sincere believers wear themselves out. The thought arrives, you try to force it down, it comes back louder, and you conclude you are spiritually weak. But read verse 5 again: bringing every thought into CAPTIVITY. Not execution. Not suppression. Aichmalōtizō is what soldiers do to a living prisoner — they take him and they walk him somewhere. So stop demanding of yourself a silence God never asked for, and start doing the escorting. When the sentence comes, do not fight it in the dark where it has been ruling unchallenged; take it into the light and stand it in front of Christ. Ask it three things: Who first said this to me? Does the cross of Christ agree with it? What has Jesus actually said about me? Do you notice what happens? In the dark the thought is a fortress. In front of Christ it is a prisoner. Which of your thoughts has never once been made to stand there?"
+      },
+      {
+        "title": "Whose Face Appears When You Feel Small?",
+        "body": "Be brutally specific here, because verse 12 is describing something you did this week. When you feel like you are behind, whose face comes to mind? The friend whose life moved faster. The man with the platform you do not have. The brother who speaks with an ease you have never had in your mouth. That comparison feels like honest self-assessment. Paul calls it being without understanding — and look at what that rigged ruler is quietly doing to you. The man behind you makes you feel safe. The man ahead of you makes you feel finished. God has said nothing at all in either measurement, and you have spent your week reacting to both. And here is the mercy in it: God never assigned you their kanōn. He gave you a field with borders on it (v. 13), and no part of their harvest was ever inside your fence. So answer honestly — how much of your discouragement this month was actually about your obedience, and how much was just arithmetic done against someone else's life?"
+      },
+      {
+        "title": "Weak Presence, Despised Speech — and Still the Apostle",
+        "body": "This is the verse to sit with when you are tired of being the unimpressive one. They said his letters were strong and the man was not: no presence in a room, and a voice not worth listening to. Paul copies the insult into his own letter and does not argue. He never claims to be more impressive than they say — because the credential in this chapter is not presence, it is assignment. God apportioned him a field, and that is a fact no critic can revise. So what are you actually afraid of? That your scars have disqualified you? That if people knew how weak you are, the work would be taken away? Read the verdict the Lord gave this same man two chapters later: “My grace is sufficient for you, for my power is made perfect in weakness.” Not despite. Perfected in. The thing you have been asking God to remove before He uses you may be the very thing through which He intends to be seen."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Stronghold Inventory",
+        "body": "Write down the one sentence about yourself that you no longer bother to argue with — the one that feels less like a belief and more like a fact. Now answer two questions in writing: when did I first accept it, and what has it protected me from having to try? A stronghold always pays you something, which is why it survives so many sermons. Until you can say what it pays, you will keep re-fortifying it in the dark."
+      },
+      {
+        "title": "The Rigged Ruler Check",
+        "body": "Name the three people you measure yourself against most often — actual names, not categories. Then ask: did God ever assign me their kanōn? Verse 13 says God apportioned Paul a specific field with specific borders, and Paul's entire boast was that he stayed inside it. If your sense of being behind comes from measuring your allotment against someone else's, you are not being humble. You are using a broken instrument and calling the reading truth."
+      },
+      {
+        "title": "The Commendation Audit",
+        "body": "Whose approval were you actually working for this week? Picture the specific person whose nod would have made the work feel worth it. Now put verse 18 next to that face: “it isn't he who commends himself who is approved, but whom the Lord commends.” If that person had said nothing at all, would you still have done it the same way? Your honest answer tells you which court you have been performing in."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Marching One Thought to Christ",
+        "body": "Tonight, take one index card. On the front, write the exact sentence from your Stronghold Inventory, in the words your own head uses — no spiritual softening. On the back, write out one thing Christ has actually said that speaks directly to it, in full, with the reference. Then do the escorting out loud: read the front, and say, “You are under arrest. Come with me.” Read the back, and say, “Now obey Him.” Do this every time the sentence arrives this week — not to feel something, but to establish the habit of never letting that thought rule in the dark again. Verse 5 does not tell you to have no thoughts. It tells you where every thought must be made to stand."
+      },
+      {
+        "title": "Drawing Your Kanōn",
+        "body": "This week, take one page and write your assigned field at the top: “What God has actually given me.” Under it list the real names and the real work — the people in your house, the job you have, the ones who have asked you for help, the room you are actually in on Sunday. That page is your boundary line, and everything on it is your only legitimate boast. Then do the hard half: identify the one feed, group chat, or comparison habit that runs the measuring, and mute it for seven days. On day seven, read your page again and ask what God did inside your borders while you were not looking at anyone else's."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, I come to You by Your own humility and gentleness — the meekness of the One who had every right to be impressive and chose a cross instead. Father, I confess that I have been fighting the wrong war with the wrong weapons. I have tried to think my way out, discipline my way out, and perform my way out of walls that the flesh has never once been able to touch. Today I stop throwing rocks at a cliff. I bring You the fortress by name: the reasoning I no longer argue with, the sum I finished long ago and filed as settled — the one that says I am not the kind of person You use. Throw it down, Lord. Throw down every imagination and every high thing that has lifted itself up against the knowledge of God in my mind, and bring every thought into captivity to the obedience of Christ. Not silence, Lord — surrender. Let every thought I have be made to stand in front of You and take orders. Father, forgive me for measuring myself by myself and comparing myself with people You never asked me to be. Forgive me for a ruler I carved out of my own timber and the false readings I have believed from it — both the ones that flattered me and the ones that crushed me. Show me the boundary You appointed for me, and let me be faithful and glad inside it, refusing to boast in another man's labour and refusing to despise the field You gave me. And Lord, when I am weak in presence and my words come out small, when I am the unimpressive one in the room, remind me that Your power is made perfect in weakness. I will not defend an image; I will do the work You assigned. I take my hand off my own commendation. I am not approved because I commend myself — I am approved because You commend me. So let it be true of my whole life: he who boasts, let him boast in the Lord. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Wall That Fell Without a Battering Ram",
+      "ref": "Joshua 6:1-20",
+      "relatedVerses": "v. 3-5",
+      "summary": "Jericho was shut up tight, and Israel had nothing to open it with — no siege towers, no rams, no engineers, an entire generation whose only trade was surviving in a desert. The orders they received were militarily absurd: walk, say nothing, carry the ark, and do it again tomorrow. Six days of circling in front of watching defenders with no sound from the ranks at all, nothing but the priests' rams' horns, and then on the seventh day, seven circuits, the long blast, and a shout — and the first fortified city standing between Israel and the land came down flat. That is the exact claim of verse 4: weapons not of the flesh, mighty before God, for the throwing down of strongholds. And the point is not that Israel found a clever tactic; it is that no fleshly weapon was involved at any stage, so that the wall's collapse could only be credited to one Person."
+    },
+    {
+      "title": "The Man God Measured Differently",
+      "ref": "1 Samuel 16:1-13; 17:38-51",
+      "relatedVerses": "v. 7, 10, 12",
+      "summary": "Samuel walked into Jesse's house, saw the eldest son Eliab — tall, impressive, exactly what a king is supposed to look like — and was certain. God stopped him with the sentence that governs 2 Corinthians 10:7: “Don't look on his face, or on the height of his stature, because I have rejected him; for I don't see as man sees. For man looks at the outward appearance, but Yahweh looks at the heart.” The youngest was not even called in from the sheep. Later, in the valley, Saul tried to dress that boy in his own armour — the tallest man in Israel's equipment strapped to the smallest — and David took it off, because he could not walk in weapons that were not his. Goliath then made the Corinthian mistake and assessed him kata prosōpon, by what showed: “Am I a dog, that you come to me with sticks?” Everything anyone could measure was on the giant's side. The giant lost anyway."
+    },
+    {
+      "title": "Unlearned and Ignorant Men",
+      "ref": "Acts 4:1-22",
+      "relatedVerses": "v. 10, 18",
+      "summary": "Peter and John stand before the highest court in Israel — rulers, elders, scribes, the high-priestly family — two fishermen with no rabbinic training and Galilean accents. Luke records the council's assessment in the same register as the Corinthian sneer: they perceived that they were unlearned and ignorant men, agrammatoi kai idiōtai, and they marvelled, and they recognised that these men had been with Jesus. It is the very word Paul uses of himself in 11:6, “though I am unskilled in speech” — idiōtēs. And standing there beside the apostles was a man over forty years old who had never walked, now on his feet, so that the court “could say nothing against it.” That is the shape of this chapter: the speech was despised, the credentials were absent, the evidence was undeniable, and the commendation came from the Lord rather than from the bench."
+    }
+  ]
+}

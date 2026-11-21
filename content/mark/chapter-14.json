@@ -1,0 +1,721 @@
+{
+  "type": "chapterStudy",
+  "book": "Mark",
+  "chapter": 14,
+  "chapterTitle": "The Broken Jar, the New Covenant, and the Cup He Would Not Refuse",
+  "themeTitle": "“Not What I Desire, But What You Desire”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "It was now two days before the feast of the Passover and the unleavened bread, and the chief priests and the scribes sought how they might seize him by deception, and kill him.",
+      "understanding": "The countdown to the cross begins. Two days before Passover, the religious leaders are already plotting murder — but by deception, not openly, because they fear the crowds more than they fear God."
+    },
+    {
+      "v": 2,
+      "text": "For they said, “Not during the feast, because there might be a riot among the people.”",
+      "understanding": "Their only concern is timing. They will kill the Son of God, but not during the feast, lest the mob riot — proof that political calculation, not justice, is driving them."
+    },
+    {
+      "v": 3,
+      "text": "While he was at Bethany, in the house of Simon the leper, as he sat at the table, a woman came having an alabaster jar of ointment of pure nard—very costly. She broke the jar, and poured it over his head.",
+      "understanding": "Into the shadow of the plot steps a woman with a fortune in her hands. She does not measure out a drop; she shatters the sealed jar over Jesus' head — an act of total, irreversible devotion, for a broken flask can never be resealed.",
+      "words": [
+        {
+          "strongs": "G211",
+          "hebrew": "ἀλάβαστρον",
+          "translit": "alábastron",
+          "english": "alabaster jar"
+        },
+        {
+          "strongs": "G4101",
+          "hebrew": "πιστικός",
+          "translit": "pistikós",
+          "english": "pure (genuine)"
+        },
+        {
+          "strongs": "G4937",
+          "hebrew": "συντρίβω",
+          "translit": "syntríbō",
+          "english": "broke"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "But there were some who were indignant among themselves, saying, “Why has this ointment been wasted?",
+      "understanding": "The fragrance has not even settled before the criticism rises. 'Wasted' — they measure worship by arithmetic and find her love unaccountable."
+    },
+    {
+      "v": 5,
+      "text": "For this might have been sold for more than three hundred denarii, and given to the poor.” They grumbled against her.",
+      "understanding": "Three hundred denarii — nearly a year's wages — and they grumble that it should have gone to the poor. The complaint sounds spiritual; John tells us the mouth behind it belonged to Judas."
+    },
+    {
+      "v": 6,
+      "text": "But Jesus said, “Leave her alone. Why do you trouble her? She has done a good work for me.",
+      "understanding": "Jesus defends her against the whole room. What they call waste, He calls a good work — beautiful, noble, and done for Him."
+    },
+    {
+      "v": 7,
+      "text": "For you always have the poor with you, and whenever you want to, you can do them good; but you will not always have me.",
+      "understanding": "The poor are a permanent mandate; He is a passing moment. There is a season for extravagance toward Christ that will never come again."
+    },
+    {
+      "v": 8,
+      "text": "She has done what she could. She has anointed my body beforehand for the burying.",
+      "understanding": "'She has done what she could' is among the highest praise Jesus ever gives. She alone grasped what the Twelve kept refusing — that He was going to die — and she anointed His body for burial while it could still be received.",
+      "words": [
+        {
+          "strongs": "G4301",
+          "hebrew": "προλαμβάνω",
+          "translit": "prolambánō",
+          "english": "done beforehand"
+        },
+        {
+          "strongs": "G1780",
+          "hebrew": "ἐνταφιασμός",
+          "translit": "entaphiasmós",
+          "english": "burying"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Most certainly I tell you, wherever this Good News may be preached throughout the whole world, that which this woman has done will also be spoken of for a memorial of her.”",
+      "understanding": "Her unnamed act is fixed forever into the gospel itself. Wherever the Good News (euangelion) travels, her story travels with it — an eternal memorial to lavish love.",
+      "words": [
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Judas Iscariot, who was one of the twelve, went away to the chief priests, that he might deliver him to them.",
+      "understanding": "The contrast is deliberate and brutal. She pours out a fortune for Him; Judas, one of the Twelve, walks out to sell Him.",
+      "words": [
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "deliver / betray"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "They, when they heard it, were glad, and promised to give him money. He sought how he might conveniently deliver him.",
+      "understanding": "The priests are 'glad' and offer silver. Judas now hunts for the convenient moment — the betrayal of the Son of God has become a scheduling problem."
+    },
+    {
+      "v": 12,
+      "text": "On the first day of unleavened bread, when they sacrificed the Passover, his disciples asked him, “Where do you want us to go and prepare that you may eat the Passover?”",
+      "understanding": "The disciples ask where to prepare the Passover — the feast of the lamb whose blood spared Israel — now to be eaten by the true Lamb on the very eve of His own slaughter."
+    },
+    {
+      "v": 13,
+      "text": "He sent two of his disciples, and said to them, “Go into the city, and there you will meet a man carrying a pitcher of water. Follow him,",
+      "understanding": "Jesus sends them with a sign: a man carrying a water jar, normally a woman's task and therefore unmistakable. His foreknowledge governs even the smallest detail of this night."
+    },
+    {
+      "v": 14,
+      "text": "and wherever he enters in, tell the master of the house, ‘The Teacher says, “Where is the guest room, where I may eat the Passover with my disciples?”’",
+      "understanding": "They are to speak of the guest room the Teacher has already arranged. Nothing about this night takes Jesus by surprise; He is preparing His own last meal."
+    },
+    {
+      "v": 15,
+      "text": "He will himself show you a large upper room furnished and ready. Get ready for us there.”",
+      "understanding": "A large upper room, furnished and ready. Everything is prepared in advance — the table is already set for the last supper before the cross."
+    },
+    {
+      "v": 16,
+      "text": "His disciples went out, and came into the city, and found things as he had said to them, and they prepared the Passover.",
+      "understanding": "The disciples find it exactly as He said. His word proves precise down to the detail; their obedience simply confirms what was already true."
+    },
+    {
+      "v": 17,
+      "text": "When it was evening he came with the twelve.",
+      "understanding": "Evening falls and Jesus arrives with the Twelve — including the betrayer who will share His bread within the hour."
+    },
+    {
+      "v": 18,
+      "text": "As they sat and were eating, Jesus said, “Most certainly I tell you, one of you will betray me—he who eats with me.”",
+      "understanding": "At the table Jesus drops the bombshell: one of them, one eating with Him, will betray Him. To betray a man whose bread you share was the deepest treachery the ancient world knew.",
+      "words": [
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "betray"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "They began to be sorrowful, and to ask him one by one, “Surely not I?” And another said, “Surely not I?”",
+      "understanding": "Grief spreads around the table. Each man asks 'Surely not I?' — and the fact that none of them is certain of his own loyalty is itself a warning."
+    },
+    {
+      "v": 20,
+      "text": "He answered them, “It is one of the twelve, he who dips with me in the dish.",
+      "understanding": "He narrows it: one of the Twelve, dipping in the same bowl. The betrayer is not an outsider who slipped in, but an intimate who has shared every meal."
+    },
+    {
+      "v": 21,
+      "text": "For the Son of Man goes, even as it is written about him, but woe to that man by whom the Son of Man is betrayed! It would be better for that man if he had not been born.”",
+      "understanding": "The cross is 'written' — ordained Scripture — yet the betrayer bears full guilt. Divine sovereignty never cancels human responsibility; the woe is real and terrible.",
+      "words": [
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "betrayed"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "As they were eating, Jesus took bread, and when he had blessed, he broke it, and gave to them, and said, “Take, eat. This is my body.”",
+      "understanding": "In the middle of the ancient meal Jesus redefines the Passover bread: 'This is my body.' The bread He breaks in His hands is Himself, given away."
+    },
+    {
+      "v": 23,
+      "text": "He took the cup, and when he had given thanks, he gave to them. They all drank of it.",
+      "understanding": "He takes the cup, gives thanks, and they all drink — all of them, including Judas and the eleven who will scatter before dawn.",
+      "words": [
+        {
+          "strongs": "G4221",
+          "hebrew": "ποτήριον",
+          "translit": "potḗrion",
+          "english": "cup"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "He said to them, “This is my blood of the new covenant, which is poured out for many.",
+      "understanding": "'My blood of the new covenant, poured out for many.' Covenants were sealed in blood; the new covenant Jeremiah promised is now sealed in His own.",
+      "words": [
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Most certainly I tell you, I will no more drink of the fruit of the vine, until that day when I drink it anew in God’s Kingdom.”",
+      "understanding": "He will not drink wine again until the Kingdom feast. Even facing the cross, He looks straight past death to the certain joy waiting on the other side."
+    },
+    {
+      "v": 26,
+      "text": "When they had sung a hymn, they went out to the Mount of Olives.",
+      "understanding": "They sing the Passover Hallel (Psalms 113–118) and walk out to Olivet — worship on the very road that leads to Gethsemane and arrest."
+    },
+    {
+      "v": 27,
+      "text": "Jesus said to them, “All of you will be made to stumble because of me tonight, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’",
+      "understanding": "Jesus predicts total collapse: every one of them will stumble tonight. He quotes Zechariah 13:7 — strike the Shepherd, and the sheep scatter into the dark."
+    },
+    {
+      "v": 28,
+      "text": "However, after I am raised up, I will go before you into Galilee.”",
+      "understanding": "But the sentence does not end at the cross. 'After I am raised up' — resurrection and reunion are promised before the denial has even happened."
+    },
+    {
+      "v": 29,
+      "text": "But Peter said to him, “Although all will be offended, yet I will not.”",
+      "understanding": "Peter singles himself out from the rest: whatever the others do, not me. Self-confidence is always loudest just before the fall."
+    },
+    {
+      "v": 30,
+      "text": "Jesus said to him, “Most certainly I tell you, that you today, even this night, before the rooster crows twice, you will deny me three times.”",
+      "understanding": "Jesus is devastatingly specific: this very night, before the rooster crows twice, three denials. The precision leaves Peter no room to reinterpret it away later."
+    },
+    {
+      "v": 31,
+      "text": "But he spoke all the more, “If I must die with you, I will not deny you.” They all said the same thing.",
+      "understanding": "Peter doubles down — he would die first — and all the others echo him. They genuinely mean it; they will genuinely fail to do it."
+    },
+    {
+      "v": 32,
+      "text": "They came to a place which was named Gethsemane. He said to his disciples, “Sit here, while I pray.”",
+      "understanding": "Gethsemane means 'oil press.' Fittingly, the place where olives are crushed to oil becomes the place where the Son is pressed to His breaking point."
+    },
+    {
+      "v": 33,
+      "text": "He took with him Peter, James, and John, and began to be greatly troubled and distressed.",
+      "understanding": "He takes the inner three and begins to be 'greatly troubled and distressed.' Mark's words are violent — the full horror of the coming cup lands on Jesus like a wave.",
+      "words": [
+        {
+          "strongs": "G1568",
+          "hebrew": "ἐκθαμβέω",
+          "translit": "ekthambéō",
+          "english": "greatly troubled"
+        },
+        {
+          "strongs": "G85",
+          "hebrew": "ἀδημονέω",
+          "translit": "adēmonéō",
+          "english": "distressed"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "text": "He said to them, “My soul is exceedingly sorrowful, even to death. Stay here, and watch.”",
+      "understanding": "'My soul is exceedingly sorrowful, even to death.' This is not stoic calm; it is genuine anguish that could kill. He asks only that they stay awake and watch with Him.",
+      "words": [
+        {
+          "strongs": "G1127",
+          "hebrew": "γρηγορεύω",
+          "translit": "grēgoreúō",
+          "english": "watch"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "text": "He went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass away from him.",
+      "understanding": "He falls face-down on the ground and prays that, if possible, the hour might pass. The strongest will in the universe is pressed flat into the dirt."
+    },
+    {
+      "v": 36,
+      "text": "He said, “Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.”",
+      "understanding": "'Abba, Father, all things are possible to you. Remove this cup.' He asks honestly for another way — then surrenders completely: 'not what I desire, but what you desire.' This is the hinge on which the whole Gospel turns.",
+      "words": [
+        {
+          "strongs": "G5",
+          "hebrew": "Ἀββᾶ",
+          "translit": "Abbâ",
+          "english": "Abba (Father)"
+        },
+        {
+          "strongs": "G4221",
+          "hebrew": "ποτήριον",
+          "translit": "potḗrion",
+          "english": "cup"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "text": "He came and found them sleeping, and said to Peter, “Simon, are you sleeping? Couldn’t you watch one hour?",
+      "understanding": "He returns to find them asleep. He calls Peter 'Simon' — the old, natural-man name — and asks the question that will haunt the courtyard: could you not watch one hour?"
+    },
+    {
+      "v": 38,
+      "text": "Watch and pray, that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.”",
+      "understanding": "The remedy for the coming test is to watch and pray. 'The spirit is willing, but the flesh is weak' names the exact fault line along which Peter will crack.",
+      "words": [
+        {
+          "strongs": "G4289",
+          "hebrew": "πρόθυμος",
+          "translit": "próthymos",
+          "english": "willing"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "text": "Again he went away, and prayed, saying the same words.",
+      "understanding": "He goes back and prays the same words again. Persistent surrender is not weak repetition; it is the real fight of faith fought all the way through."
+    },
+    {
+      "v": 40,
+      "text": "Again he returned, and found them sleeping, for their eyes were very heavy, and they didn’t know what to answer him.",
+      "understanding": "He finds them sleeping a second time, eyes heavy, and now they have nothing to say. Shame has silenced the men who swore they would die with Him."
+    },
+    {
+      "v": 41,
+      "text": "He came the third time, and said to them, “Sleep on now, and take your rest. It is enough. The hour has come. Behold, the Son of Man is betrayed into the hands of sinners.",
+      "understanding": "The battle is already won in prayer. He can now say 'Sleep on' — the hour has come, the Son of Man is delivered into the hands of sinners.",
+      "words": [
+        {
+          "strongs": "G3860",
+          "hebrew": "παραδίδωμι",
+          "translit": "paradídōmi",
+          "english": "betrayed / delivered"
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "text": "Arise, let us be going. Behold, he who betrays me is at hand.”",
+      "understanding": "The prayer is finished and the fight is over. 'Arise' — He walks toward the betrayer, no longer recoiling but advancing to meet the cross head-on."
+    },
+    {
+      "v": 43,
+      "text": "Immediately, while he was still speaking, Judas, one of the twelve, came—and with him a multitude with swords and clubs, from the chief priests, the scribes, and the elders.",
+      "understanding": "'Immediately' — Mark's signature word (euthys) drives even this moment. Judas arrives with an armed mob dispatched by the entire Sanhedrin to take one unarmed Teacher.",
+      "words": [
+        {
+          "strongs": "G2117",
+          "hebrew": "εὐθύς",
+          "translit": "euthýs",
+          "english": "immediately"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "text": "Now he who betrayed him had given them a sign, saying, “Whomever I will kiss, that is he. Seize him, and lead him away safely.”",
+      "understanding": "The prearranged signal is a kiss — the gesture of affection and respect weaponized into the sign of betrayal."
+    },
+    {
+      "v": 45,
+      "text": "When he had come, immediately he came to him, and said, “Rabbi! Rabbi!” and kissed him.",
+      "understanding": "Judas comes 'immediately,' calls Him 'Rabbi! Rabbi!' and kisses Him warmly. The most tender gesture in the culture masks the deadliest act in history."
+    },
+    {
+      "v": 46,
+      "text": "They laid their hands on him, and seized him.",
+      "understanding": "No struggle, no resistance. They lay hands on the One who could summon legions of angels — and He lets them."
+    },
+    {
+      "v": 47,
+      "text": "But a certain one of those who stood by drew his sword, and struck the servant of the high priest, and cut off his ear.",
+      "understanding": "A bystander — John names Peter — draws a sword and takes off the high priest's servant's ear. The flesh fights the wrong battle with the wrong weapon at the wrong time."
+    },
+    {
+      "v": 48,
+      "text": "Jesus answered them, “Have you come out, as against a robber, with swords and clubs to seize me?",
+      "understanding": "Jesus exposes their cowardice: they came armed and by night, as if hunting a violent robber, to arrest a Teacher who never lifted a hand."
+    },
+    {
+      "v": 49,
+      "text": "I was daily with you in the temple teaching, and you didn’t arrest me. But this is so that the Scriptures might be fulfilled.”",
+      "understanding": "Every day He taught openly in the temple and they never touched Him. This midnight ambush is unfolding only 'so that the Scriptures might be fulfilled' — He is in control even of His own arrest."
+    },
+    {
+      "v": 50,
+      "text": "They all left him, and fled.",
+      "understanding": "The prediction of verse 27 comes true in an instant. 'They all left him, and fled' — every last one of the men who swore to stand."
+    },
+    {
+      "v": 51,
+      "text": "A certain young man followed him, having a linen cloth thrown around himself over his naked body. The young men grabbed him,",
+      "understanding": "Mark alone records a young man following, wrapped only in a linen sheet. Many take this vivid, needless detail as Mark's own hidden signature in his Gospel."
+    },
+    {
+      "v": 52,
+      "text": "but he left the linen cloth, and fled from them naked.",
+      "understanding": "The mob grabs him; he wriggles free of the sheet and runs off naked into the night. It is the picture of total abandonment — even a curious follower flees, leaving everything behind."
+    },
+    {
+      "v": 53,
+      "text": "They led Jesus away to the high priest. All the chief priests, the elders, and the scribes came together with him.",
+      "understanding": "Jesus is led to the high priest, where the whole council has assembled by night — an illegal, rushed trial engineered to reach a verdict already decided."
+    },
+    {
+      "v": 54,
+      "text": "Peter had followed him from a distance, until he came into the court of the high priest. He was sitting with the officers, and warming himself in the light of the fire.",
+      "understanding": "Peter follows 'at a distance' into the courtyard and sits down with the guards, warming himself at their fire. He is close enough to watch, but far too close to the enemy's warmth to stand."
+    },
+    {
+      "v": 55,
+      "text": "Now the chief priests and the whole council sought witnesses against Jesus to put him to death, and found none.",
+      "understanding": "The council actively hunts for evidence to justify a sentence already chosen — and finds none. Even a rigged court cannot manufacture guilt in the sinless One."
+    },
+    {
+      "v": 56,
+      "text": "For many gave false testimony against him, and their testimony didn’t agree with each other.",
+      "understanding": "Witness after witness lies, but the lies will not line up. Truth has an unfakeable consistency that the false witnesses simply cannot invent."
+    },
+    {
+      "v": 57,
+      "text": "Some stood up, and gave false testimony against him, saying,",
+      "understanding": "Some rise with a more specific charge — a twisted version of something Jesus really did say about the temple."
+    },
+    {
+      "v": 58,
+      "text": "“We heard him say, ‘I will destroy this temple that is made with hands, and in three days I will build another made without hands.’”",
+      "understanding": "They distort His words about destroying and raising 'this temple.' He spoke of the temple of His body and His resurrection; they hear only a threat against the building."
+    },
+    {
+      "v": 59,
+      "text": "Even so, their testimony did not agree.",
+      "understanding": "Even this charge collapses; their stories will not agree. The prosecution against the Son of God has, in the end, nothing."
+    },
+    {
+      "v": 60,
+      "text": "The high priest stood up in the middle, and asked Jesus, “Have you no answer? What is it which these testify against you?”",
+      "understanding": "Frustrated that the witnesses have failed, the high priest stands and demands an answer. He needs Jesus to incriminate Himself since no one else can."
+    },
+    {
+      "v": 61,
+      "text": "But he stayed quiet, and answered nothing. Again the high priest asked him, “Are you the Christ, the Son of the Blessed?”",
+      "understanding": "Jesus stays silent — the silent Lamb of Isaiah 53:7. Then comes the direct, sworn question the whole Gospel has been building toward: 'Are you the Christ, the Son of the Blessed?'"
+    },
+    {
+      "v": 62,
+      "text": "Jesus said, “I am. You will see the Son of Man sitting at the right hand of Power, and coming with the clouds of the sky.”",
+      "understanding": "'I am.' The first half of Mark asked 'Who is this?' — now, under oath and facing death, He says it plainly and stacks Daniel 7 and Psalm 110 on top: the Son of Man enthroned at God's right hand."
+    },
+    {
+      "v": 63,
+      "text": "The high priest tore his clothes, and said, “What further need have we of witnesses?",
+      "understanding": "The high priest tears his robes — the ritual reaction to blasphemy — and declares that no more witnesses are needed. Jesus' own confession has become the 'crime.'"
+    },
+    {
+      "v": 64,
+      "text": "You have heard the blasphemy! What do you think?” They all condemned him to be worthy of death.",
+      "understanding": "They all condemn Him to death for the 'blasphemy' of telling the truth about who He is. The verdict was written long before the trial ever began.",
+      "words": [
+        {
+          "strongs": "G988",
+          "hebrew": "βλασφημία",
+          "translit": "blasphēmía",
+          "english": "blasphemy"
+        }
+      ]
+    },
+    {
+      "v": 65,
+      "text": "Some began to spit on him, and to cover his face, and to beat him with fists, and to tell him, “Prophesy!” The officers struck him with the palms of their hands.",
+      "understanding": "The abuse begins — spitting, blindfolding, fists, mockery. They taunt the true Prophet to 'prophesy,' while in the courtyard below His prophecy about Peter is coming true word for word."
+    },
+    {
+      "v": 66,
+      "text": "As Peter was in the courtyard below, one of the maids of the high priest came,",
+      "understanding": "The scene cuts down to the courtyard, below the trial. A servant girl of the high priest — not a soldier, only a girl — approaches Peter."
+    },
+    {
+      "v": 67,
+      "text": "and seeing Peter warming himself, she looked at him, and said, “You were also with the Nazarene, Jesus!”",
+      "understanding": "She recognizes him by the firelight: 'You were also with the Nazarene, Jesus.' The very fire that warms his hands is the light that exposes his face."
+    },
+    {
+      "v": 68,
+      "text": "But he denied it, saying, “I neither know, nor understand what you are saying.” He went out on the porch, and the rooster crowed.",
+      "understanding": "The first denial: he claims not even to understand her. He retreats toward the porch — and the rooster crows the first time, exactly as Jesus foretold."
+    },
+    {
+      "v": 69,
+      "text": "The maid saw him, and began again to tell those who stood by, “This is one of them.”",
+      "understanding": "The girl will not let it go, telling the bystanders again: 'This is one of them.' The pressure only intensifies."
+    },
+    {
+      "v": 70,
+      "text": "But he again denied it. After a little while again those who stood by said to Peter, “You truly are one of them, for you are a Galilean, and your speech shows it.”",
+      "understanding": "The second denial. Then the crowd presses in: his Galilean accent gives him away. Peter cannot disguise the fact that he belongs to Jesus."
+    },
+    {
+      "v": 71,
+      "text": "But he began to curse, and to swear, “I don’t know this man of whom you speak!”",
+      "understanding": "The third denial escalates into cursing and oaths — 'I don't know this man.' The apostle who swore to die with Jesus now swears he never even knew Him."
+    },
+    {
+      "v": 72,
+      "text": "The rooster crowed the second time. Peter remembered the word, how that Jesus said to him, “Before the rooster crows twice, you will deny me three times.” When he thought about that, he wept.",
+      "understanding": "The rooster crows the second time and the word of Jesus detonates in Peter's memory. He breaks — and weeps. Godly sorrow over the fall is the first true step back home."
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Alabaster Jar Broken",
+      "verseRef": "v. 3",
+      "image": "Simon's house, guests reclining low around the table, oil lamps throwing gold across the walls. A woman moves through them holding a sealed flask of pale, translucent alabaster, and locked inside is pure nard — perfume carried down from the mountains of India, worth a labourer's entire year. She does not tip out a careful, measured drop. She snaps the slender neck of the jar so it can never be closed again, and the whole fortune runs down over Jesus' head and hair, the fragrance flooding into every corner of the room.",
+      "meaning": "Alabaster flasks were sealed for a single use, often kept back for a burial. Once broken open, the perfume cannot be saved, resold, or half-given — and that is the anatomy of true worship: irreversible, uncalculated, entirely poured out. While the men around the table do arithmetic, she does devotion, and Jesus reads her act as a prophecy: she has embalmed Him for a tomb the Twelve still refuse to believe in."
+    },
+    {
+      "title": "The Bread and the Cup",
+      "verseRef": "v. 22–24",
+      "image": "The Passover table: the roasted lamb, the bitter herbs, the flat unleavened bread that has fed this feast for fourteen centuries. Jesus lifts the bread, gives thanks, and tears it apart in His own hands — and instead of the ancient words about Egypt, He says, 'This is my body.' Then the cup, dark and full, lifted and passed from hand to hand around the circle: 'This is my blood of the new covenant, poured out for many.'",
+      "meaning": "For 1,400 years the Passover had retold one old rescue — blood on the doorposts, death passing over the house. Now the Host of the meal makes Himself the meal. He is the Lamb; His blood is the blood on the door; His death is the Passover the first one only pictured. Every element of the oldest feast in Israel had been quietly pointing at this Man all along, and tonight He tells them so."
+    },
+    {
+      "title": "The Ground of Gethsemane",
+      "verseRef": "v. 35–36",
+      "image": "An olive grove at night, moonlight breaking through gnarled branches, a heavy stone press nearby where olives are crushed until the oil runs out. Three men sleep against the trunks. A stone's throw away the Son of God is not standing in serene, folded-hand prayer — He is face-down in the dirt, sweating, shaking, begging. The strongest will in the universe is pressed flat to the earth, pleading for the cup to pass.",
+      "meaning": "Gethsemane means 'oil press,' and here the Anointed One is crushed until surrender flows out of Him like oil under the stone. The agony is real — He genuinely recoils from the cup — and that is exactly what makes the next words the bravest ever spoken: 'not what I desire, but what you desire.' Your salvation was not won by a God who felt nothing, but by a Man who felt everything and obeyed anyway."
+    },
+    {
+      "title": "Peter at the Enemy's Fire",
+      "verseRef": "v. 54, 66–72",
+      "image": "The high priest's courtyard, cold, well past midnight. A charcoal fire snaps in the centre, and Peter — who hours ago swore to die fighting — edges in among the guards and torturers to warm his hands. The same firelight that takes the chill off his fingers throws his face into the open, and a servant girl, not a soldier, only a girl, looks at him and knows him. Three times the courtyard closes in; three times he swears himself free of the Man on trial upstairs. Then — a rooster.",
+      "meaning": "Peter's collapse did not begin with the girl; it began the moment he chose the enemy's fire over the garden's watch. He wanted the warmth of the crowd without the cost of the confession — and warmth at the wrong fire will always, eventually, expose you. Yet the rooster's cry is not the end of Peter's story. The tears are the beginning of his return."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Plot and the Anointing (v. 1–11)",
+        "body": "Betrayal frames a woman's worship — the devoted outsider set against the treacherous insider."
+      },
+      {
+        "label": "Passover and the New Covenant (v. 12–26)",
+        "body": "The true Lamb prepares the ancient meal and makes Himself its bread and its cup."
+      },
+      {
+        "label": "The Prediction of Falling (v. 27–31)",
+        "body": "Jesus foretells the scattering of all and the three denials of Peter."
+      },
+      {
+        "label": "Gethsemane (v. 32–42)",
+        "body": "The agony, the honest request, the total surrender, and the sleeping three."
+      },
+      {
+        "label": "Betrayal and Arrest (v. 43–52)",
+        "body": "The kiss, the drawn sword, the fleeing disciples, and the young man who runs naked."
+      },
+      {
+        "label": "The Trial before the Sanhedrin (v. 53–65)",
+        "body": "False witnesses fail, and the 'I am' seals the death sentence."
+      },
+      {
+        "label": "Peter's Denials (v. 66–72)",
+        "body": "Three denials, the second rooster, and bitter tears."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Markan Sandwich: Loyalty Framed by Betrayal",
+        "paragraphs": [
+          "Mark loves to split one story open and wrap it around another, so that the two interpret each other. Here the plot to kill Jesus (v. 1–2) and Judas' bargain for silver (v. 10–11) are the two slices of bread, and the woman's extravagant anointing (v. 3–9) is set inside them as the filling. Read side by side, the two panels judge each other. An unnamed woman 'wastes' a year's wages on Jesus and is remembered forever; a named apostle sells Him for a handful of coins and is remembered forever too — for the exact opposite reason.",
+          "The insider betrays; the outsider adores. The one who has walked with Jesus for three years hands Him over, while the one the room barely notices pours out everything she has. Mark presses the question onto every reader who leans over this table: of these two, which one are you? Proximity to Jesus is not the same as love for Him, and the difference will show up in what you are willing to pour out."
+        ]
+      },
+      {
+        "heading": "The Cup He Would Not Refuse",
+        "paragraphs": [
+          "Two cups dominate this night, and in the Greek they are the very same word (potērion). At the table Jesus lifts the cup of the new covenant and gives it away to His friends. In the garden He falls on His face and begs the Father to take a cup away. In the Old Testament the 'cup' in God's hand is a fixed and terrible image — the cup of His wrath, poured out full-strength on sin (Psalm 75:8; Isaiah 51:17; Jeremiah 25:15). That is what makes Gethsemane so violent.",
+          "Jesus is not trembling at Roman nails; braver men have faced worse deaths calmly. He is recoiling from drinking down the undiluted wrath of God against the sin of the whole world. The horror is real, the request is honest — 'all things are possible to you, remove this cup' — and the surrender is total: 'not what I desire, but what you desire.' He drank the cup of wrath to its bitter dregs so that the only cup ever left in your hand would be the cup of blessing He handed across the table."
+        ]
+      },
+      {
+        "heading": "'I AM': The Confession That Cost Him His Life",
+        "paragraphs": [
+          "For eight chapters Mark had driven relentlessly toward one question: 'Who is this?' Peter answered it at Caesarea Philippi — 'You are the Christ' — and yet again and again Jesus silenced the disclosure, hushing demons and healed men alike (the so-called 'messianic secret'). Now, under oath, before the highest court in Israel, with His life on the line, the silence finally ends.",
+          "Asked point-blank, 'Are you the Christ, the Son of the Blessed?', Jesus answers with the covenant name of God itself — 'I am' — and then stacks Daniel 7:13 and Psalm 110:1 on top of it: the Son of Man seated at the right hand of Power, coming with the clouds of heaven. The high priest tears his robes not because Jesus has lied, but because He has told the naked truth. The council condemns Him for the one thing that is gloriously, eternally true: He is exactly who He has always said He is."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Around the year 55 — before a single one of the four Gospels was written down — the Apostle Paul handed the Corinthian church the oldest surviving written record of this very night. 'For I received from the Lord that which also I delivered to you, that the Lord Jesus on the night in which he was betrayed took bread. When he had given thanks, he broke it and said, “Take, eat. This is my body, which is broken for you”' (1 Corinthians 11:23–24). Then the cup: 'This cup is the new covenant in my blood' (1 Corinthians 11:25) — almost word for word the saying of Mark 14:24.",
+        "Paul then adds the command Mark leaves implicit: 'Do this in memory of me… you proclaim the Lord's death until he comes' (1 Corinthians 11:25–26). What Jesus instituted in that upper room had become the church's central act of worship within twenty years — and it still is, every time believers break bread. And the covenant He sealed that night is precisely the one Jeremiah 31:31 had promised centuries earlier and that Hebrews 9:15 declares now fulfilled: 'For this reason he is the mediator of a new covenant.' The bread He broke and the cup He poured were not a ritual He borrowed; they were the will He signed in His own blood."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Cup",
+      "hebrew": "ποτήριον",
+      "translit": "potḗrion",
+      "strongs": "G4221",
+      "verses": "v. 23, 36",
+      "insight": "A drinking-vessel, and by extension its contents — but Scripture also uses it figuratively for one's appointed lot or fate. It is the same word for the covenant cup they all drank at the table and the cup Jesus begged to have removed in the garden. In the Old Testament the 'cup' in God's hand is the cup of His wrath (Psalm 75:8; Isaiah 51:17; Jeremiah 25:15). Jesus takes the bitter cup of wrath in the garden so that we may drink the blessed cup of the new covenant at the table."
+    },
+    {
+      "english": "Covenant",
+      "hebrew": "διαθήκη",
+      "translit": "diathḗkē",
+      "strongs": "G1242",
+      "verses": "v. 24",
+      "insight": "Not a negotiated contract between equals, but a disposition — specifically a last will and testament that takes effect only through death (Hebrews 9:16–17). When Jesus says 'my blood of the new covenant,' He is announcing that the covenant Jeremiah 31:31 promised is now being enacted, signed and sealed by His own blood 'poured out for many.'"
+    },
+    {
+      "english": "Abba (Father)",
+      "hebrew": "Ἀββᾶ",
+      "translit": "Abbâ",
+      "strongs": "G5",
+      "verses": "v. 36",
+      "insight": "The Aramaic word a child used for a father — intimate, trusting, close. In the worst hour of history Jesus does not lose His grip on the Father's heart; He wrestles with God not as a terrified slave but as a beloved Son. By the Spirit, Romans 8:15 and Galatians 4:6 put this very same cry — 'Abba, Father' — into the mouths of the redeemed."
+    },
+    {
+      "english": "Watch",
+      "hebrew": "γρηγορεύω",
+      "translit": "grēgoreúō",
+      "strongs": "G1127",
+      "verses": "v. 34, 37, 38",
+      "insight": "To keep awake, to stay vigilant, literally and spiritually. Three times Jesus commands His disciples to watch, and three times they fall asleep; their slumber is the flesh losing the very fight the willing spirit meant to win. The command carries straight through to us: watch and pray, because the test always comes at the hour you feel least able to stand."
+    },
+    {
+      "english": "Betray / Deliver up",
+      "hebrew": "παραδίδωμι",
+      "translit": "paradídōmi",
+      "strongs": "G3860",
+      "verses": "v. 10, 11, 18, 21, 41, 42, 44",
+      "insight": "To hand over, to surrender, to deliver up. Judas 'hands Jesus over' for money — but the same word says the Son of Man 'is delivered' into the hands of sinners, and Romans 8:32 says God 'delivered him up for us all.' Judas' betrayal and the Father's gift of His Son are, mysteriously, the same act seen from two sides: what man meant for evil, God meant for salvation."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with the gap between what we swear at the table and what we do at the fire — with divided hearts that mean well and then fold under pressure.",
+    "items": [
+      {
+        "title": "The Broken Jar or the Counted Coins",
+        "body": "Every heart in this chapter is pouring out something. The woman pours out a fortune and Jesus calls it beautiful; Judas pours out his Lord for thirty pieces of silver; the disciples pour out promises they cannot keep. The Spirit asks you plainly: what are you actually pouring your one life onto? Is your devotion carefully measured — a safe drop, kept back, calculable — or is it a broken flask that can never be resealed? What would it cost you, this week, to worship Jesus in a way the room around you would call 'wasteful'?"
+      },
+      {
+        "title": "The Watch You Keep at Midnight",
+        "body": "'Watch and pray, that you may not enter into temptation.' Peter's denial did not begin in the courtyard; it began in the garden, when he slept through the one hour he most needed to pray. The battle you lose at noon was usually surrendered the night before — on your knees, or off them. Where is the Spirit calling you to 'watch' — the prayer you keep postponing, the vigilance you keep outsourcing to raw willpower? The flesh is weak. Will you fight it with prayer, or discover its weakness the hard way, at some fire, in front of some servant girl?"
+      },
+      {
+        "title": "From the Fire Back to the Feast",
+        "body": "Peter is the honest mirror Mark holds up. He loved Jesus genuinely and denied Him profanely, and the Gospel refuses to hide it. But notice how the chapter ends — not with a curse, but with tears. The difference between Peter and Judas was never the size of the sin; it was the direction of the sorrow. When you fail — and you will — does your guilt drive you deeper into hiding, or does it break you back toward home? The tears that fall at the rooster's cry are the sound of a man already on his way back."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The 'Wasted' Worship Check",
+        "body": "When was the last time you gave Jesus something the people around you would call a waste — of money, of time, of dignity, of comfort? Or is all your devotion carefully within budget: nothing broken, nothing that cannot quietly be undone?"
+      },
+      {
+        "title": "The 'At a Distance' Audit",
+        "body": "Peter followed 'at a distance' and warmed himself at the enemy's fire. Where in your life are you following Jesus closely enough to watch, but too far off to be counted — near the church, near the truth, but warming your hands at the world's fire?"
+      },
+      {
+        "title": "The Boast-and-Sleep Test",
+        "body": "Peter's loud loyalty ('I will not deny you') and his heavy sleeping in the garden were the same disease: a spirit that means it, and a flesh that will not fight for it. Where are you trusting your good intentions instead of your intercession — sure you would stand, but not actually on your knees?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Break One Jar This Week",
+        "body": "Choose one deliberately extravagant act of worship and do it before the week ends: give the gift that stretches you, spend the hour you cannot spare, publicly honor Jesus where it costs you comfort or reputation. Make it something that, like the woman's alabaster flask, cannot be taken back once it is poured out."
+      },
+      {
+        "title": "Keep the Garden Watch",
+        "body": "Tonight, before you sleep, take fifteen minutes you would normally spend numbing yourself, and pray one honest Gethsemane prayer. Name the 'cup' you wish God would remove. Ask Him honestly to remove it. Then say out loud, 'not what I desire, but what you desire.' Let the last thing you do awake be the watch that Peter failed to keep."
+      }
+    ]
+  },
+  "prayerReflection": "“Abba, Father, all things are possible to You. I come to Your table tonight and I see myself in every seat — the woman with the broken jar and the man counting the coins, Peter swearing he will never fall and Peter weeping in the dark. Thank You that Jesus took the cup I could never drink, the cup of Your wrath against my sin, and drained it to the very last drop, so that the only cup left in my hand is the cup of the new covenant in His blood. Forgive me for the devotion I keep on a budget, for the fire I warm myself at when I should be watching in the garden, for the loud promises I make and the quiet prayers I skip. Teach me to break the jar. Teach me to watch one hour. And when I fail You — Lord, when I deny You at some midnight fire — let me be Peter and not Judas: let my sin drive me to tears, and my tears drive me home. Not what I desire, but what You desire. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The First Passover",
+      "ref": "Exodus 12:1–13",
+      "relatedVerses": "v. 12, 22–24",
+      "summary": "On the night Israel walked out of Egypt, every household killed a lamb, painted its blood on the doorframe, and ate it roasted in haste — and death 'passed over' every home marked by blood. For fourteen centuries Israel re-ate that meal each spring in memory. In Mark 14 Jesus keeps that very feast, then quietly reveals He is its meaning: He is the Lamb, His blood is the blood on the door, His death is the death the destroyer passes over. The first Passover saved a nation from Pharaoh for one night; this one saves the world from sin forever."
+    },
+    {
+      "title": "David Betrayed by Ahithophel",
+      "ref": "2 Samuel 15:31; Psalm 41:9",
+      "relatedVerses": "v. 10, 18, 20",
+      "summary": "King David's most trusted counselor, Ahithophel, turned traitor and joined Absalom's rebellion, plotting the death of his own king — a betrayal by a man who had eaten at David's table. David wrote of it, 'Even my own familiar friend, in whom I trusted, who ate bread with me, has lifted up his heel against me' (Psalm 41:9). At the Last Supper Jesus, the Son of David, deliberately echoes that psalm: 'one of you will betray me — he who eats with me.' The pattern set in David's court is fulfilled in David's greater Son, betrayed by an apostle who dipped in His dish."
+    },
+    {
+      "title": "Zechariah's Struck Shepherd",
+      "ref": "Zechariah 13:7",
+      "relatedVerses": "v. 27–28",
+      "summary": "Centuries before Gethsemane, Zechariah recorded a strange divine command: 'Awake, sword, against my shepherd… Strike the shepherd, and the sheep will be scattered.' Jesus quotes it on the walk to the garden as the very script of the night unfolding around Him. The Shepherd is struck — arrested, condemned, crucified — and the sheep scatter into the dark exactly as written. But Zechariah's oracle ends in restoration, and so does Jesus': 'after I am raised up, I will go before you into Galilee.' The struck Shepherd will gather His scattered flock again."
+    }
+  ]
+}

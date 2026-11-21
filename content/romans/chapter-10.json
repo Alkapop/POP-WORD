@@ -1,0 +1,622 @@
+{
+  "type": "chapterStudy",
+  "book": "Romans",
+  "chapter": 10,
+  "chapterTitle": "The Word Near You and the Feet That Must Carry It",
+  "themeTitle": "“The Word Is Near You — and Somebody Had to Carry It There”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Brothers, my heart’s desire and my prayer to God is for Israel, that they may be saved.",
+      "understanding": "Read this verse against the chapter that just ended. Paul has just handed you the potter and the clay, the hardening of Pharaoh, and vessels prepared for destruction — and his very next breath is not a shrug, it is a prayer. Sovereignty never once closed his mouth; it opened it wider. 'Heart's desire' is eudokia, the settled good-pleasure of a man's will, and 'prayer' is deēsis, a specific petition brought to a specific God about specific people — and the whole content of the petition is one word: saved.",
+      "words": [
+        {
+          "strongs": "G2107",
+          "hebrew": "εὐδοκία",
+          "translit": "eudokia",
+          "english": "heart's desire"
+        },
+        {
+          "strongs": "G1162",
+          "hebrew": "δέησις",
+          "translit": "deēsis",
+          "english": "prayer"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For I testify about them that they have a zeal for God, but not according to knowledge.",
+      "understanding": "Paul takes the witness stand for his own persecutors: they have zēlos — real heat, genuine fervor, costly religion — but it is 'not according to epignōsis,' full recognition. He is describing his own résumé; he told a Jerusalem mob he had been 'zealous for God, even as you all are today' (Acts 22:3). Sincerity is not a saving category. You can be white-hot and headed the wrong way.",
+      "words": [
+        {
+          "strongs": "G2205",
+          "hebrew": "ζῆλος",
+          "translit": "zēlos",
+          "english": "zeal"
+        },
+        {
+          "strongs": "G1922",
+          "hebrew": "ἐπίγνωσις",
+          "translit": "epignōsis",
+          "english": "knowledge"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For being ignorant of God’s righteousness, and seeking to establish their own righteousness, they didn’t subject themselves to the righteousness of God.",
+      "understanding": "Here is the actual diagnosis in three clauses: ignorant of God's righteousness, busy establishing their own, and therefore not subject to His. 'Establish' is histēmi — to set a thing up, to stand it on its feet like a monument. 'Subject' is hypotassō, a military word for falling in under orders. Self-righteousness is not high standards and it is not modesty; it is insubordination wearing a prayer shawl.",
+      "words": [
+        {
+          "strongs": "G50",
+          "hebrew": "ἀγνοέω",
+          "translit": "agnoeō",
+          "english": "being ignorant"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "histēmi",
+          "english": "establish"
+        },
+        {
+          "strongs": "G5293",
+          "hebrew": "ὑποτάσσω",
+          "translit": "hypotassō",
+          "english": "subject themselves"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosynē",
+          "english": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For Christ is the fulfillment of the law for righteousness to everyone who believes.",
+      "understanding": "The hinge of the chapter. Christ is the telos of the law — the point the whole thing was aimed at — and because He is the destination, the road ends at Him for everyone who believes. Do not skip the limiting phrase: 'for righteousness.' Paul is not deleting God's moral will (he just wrote 'we establish the law,' 3:31); he is closing the law forever as a route to being declared right with God.",
+      "words": [
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "telos",
+          "english": "fulfillment / end"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christos",
+          "english": "Christ"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For Moses writes about the righteousness of the law, “The one who does them will live by them.”",
+      "understanding": "Paul quotes Leviticus 18:5 and lets the law speak in its own voice. The law's offer is not cruel; it is simply exact — do them and you will live by them. No discount, no partial credit, no clemency for effort, no allowance for a hard week. The terms were never the problem. The problem is that there has never once been a doer.",
+      "words": [
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "zaō",
+          "english": "will live"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But the righteousness which is of faith says this, “Don’t say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down);",
+      "understanding": "Now faith's righteousness speaks — Paul personifies it — and it speaks in Moses' own words from Deuteronomy 30:12. Watch the target: 'Don't say in your HEART.' This is a command against a specific sentence you rehearse inwardly. 'Who will ascend into heaven?' means somebody has to climb up and drag God down here. Paul's parenthesis kills it: Christ already came down. The incarnation cancels the climb."
+    },
+    {
+      "v": 7,
+      "text": "or, ‘Who will descend into the abyss?’ (that is, to bring Christ up from the dead.)”",
+      "understanding": "Deuteronomy's second impossible errand was crossing the sea; Paul makes it the abyssos — the bottomless deep, the realm of the dead. 'Who will descend into the abyss?' means somebody has to go down there and bring life back up. Cancelled again: Christ already came up. Both directions of the impossible journey are closed — not because the trip is too hard, but because it has already been made.",
+      "words": [
+        {
+          "strongs": "G12",
+          "hebrew": "ἄβυσσος",
+          "translit": "abyssos",
+          "english": "abyss"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But what does it say? “The word is near you, in your mouth, and in your heart”; that is, the word of faith, which we preach:",
+      "understanding": "Deuteronomy 30:14 — 'the word is very near to you, in your mouth and in your heart.' Moses said it of the commandment; Paul says it of the gospel, and that is not a hijacking: Deuteronomy 30 is spoken about the day after exile, when the LORD Himself circumcises the heart (30:6), so Moses was already describing grace. And notice where the word has been placed. Not on a shelf you have to reach — in the two places closest to you, your mouth and your chest. Rhēma is the spoken utterance: the gospel is a word within speaking distance.",
+      "words": [
+        {
+          "strongs": "G4487",
+          "hebrew": "ῥῆμα",
+          "translit": "rhēma",
+          "english": "word"
+        },
+        {
+          "strongs": "G1451",
+          "hebrew": "ἐγγύς",
+          "translit": "engys",
+          "english": "near"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "that if you will confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.",
+      "understanding": "The most quoted verse in the chapter, and it is usually stripped of its danger. 'Confess with your mouth that Jesus is Lord' — homologeō, to say the same thing, to agree out loud in public — and in the city where Nero lived, kyrios was already a title the empire used of its emperor, with an army standing behind it. 'Believe in your heart that God raised him from the dead' gives the confession its content: not sincerity in general, but resurrection in particular. And mouth-then-heart follows the exact order Moses gave in verse 8.",
+      "words": [
+        {
+          "strongs": "G3670",
+          "hebrew": "ὁμολογέω",
+          "translit": "homologeō",
+          "english": "confess"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kyrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1453",
+          "hebrew": "ἐγείρω",
+          "translit": "egeirō",
+          "english": "raised"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sōzō",
+          "english": "saved"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For with the heart, one believes unto righteousness; and with the mouth confession is made unto salvation.",
+      "understanding": "Verse 9's two halves are now explained in reverse — heart first, then mouth. This is not a two-stage salvation where believing gets you halfway in and speaking finishes the paperwork. It is one salvation described from its root and from its fruit: faith that will never open its mouth has not yet become faith, and a mouth with no heart behind it is only noise.",
+      "words": [
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardia",
+          "english": "heart"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stoma",
+          "english": "mouth"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For the Scripture says, “Whoever believes in him will not be disappointed.”",
+      "understanding": "Isaiah 28:16 again — the verse that closed chapter 9 (9:33) now reopens chapter 10 — and Paul adds a word Isaiah's line did not carry: 'whoever,' pas, every single one. Kataischynō means to be shamed down, disgraced, made to blush. Everyone who leans his full weight on this Stone will find that it holds; nobody will be left standing there humiliated.",
+      "words": [
+        {
+          "strongs": "G2617",
+          "hebrew": "καταισχύνω",
+          "translit": "kataischynō",
+          "english": "disappointed"
+        },
+        {
+          "strongs": "G3956",
+          "hebrew": "πᾶς",
+          "translit": "pas",
+          "english": "whoever"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For there is no distinction between Jew and Greek; for the same Lord is Lord of all, and is rich to all who call on him.",
+      "understanding": "'No distinction' is diastolē — the exact phrase Paul used in 3:22, where it meant there is no distinction in sin. Now the same phrase means there is no distinction in salvation. Both times it levels the same two groups. And the same Lord is 'rich' toward all who call — plouteō, wealthy — which means He does not run low on mercy because a new nation showed up at the table.",
+      "words": [
+        {
+          "strongs": "G1293",
+          "hebrew": "διαστολή",
+          "translit": "diastolē",
+          "english": "distinction"
+        },
+        {
+          "strongs": "G4147",
+          "hebrew": "πλουτέω",
+          "translit": "plouteō",
+          "english": "is rich"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "For, “Whoever will call on the name of the Lord will be saved.”",
+      "understanding": "Joel 2:32 — and the ground shifts under your feet. Joel wrote, 'whoever will call on Yahweh's name shall be saved,' using the covenant name of God Himself. Paul has just defined the Lord of this passage in verse 9 as Jesus. Now he takes Joel's line about Yahweh and hands it to Him without one syllable of apology or explanation. Read it slowly and ask what a trained Pharisee had to have become certain of before he would put a sentence like that in writing.",
+      "words": [
+        {
+          "strongs": "G1941",
+          "hebrew": "ἐπικαλέομαι",
+          "translit": "epikaleomai",
+          "english": "call on"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "onoma",
+          "english": "name"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "How then will they call on him in whom they have not believed? How will they believe in him whom they have not heard? How will they hear without a preacher?",
+      "understanding": "Salvation comes by calling on a name — therefore Paul reasons backward down the chain: calling requires believing, believing requires hearing, hearing requires a preacher. And the grammar of the middle link is startling: not 'heard about him' but heard HIM. Christ Himself is what is heard in the preacher's voice. This is not a missions slogan bolted onto a doctrine chapter; it is the doctrine's own logic.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akouō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G2784",
+          "hebrew": "κηρύσσω",
+          "translit": "kēryssō",
+          "english": "preacher"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "And how will they preach unless they are sent? As it is written:\n“How beautiful are the feet of those who preach the Good News of peace,\nwho bring glad tidings of good things!”",
+      "understanding": "The last link, and it belongs to God: 'how will they preach unless they are sent?' — apostellō, the verb behind the word apostle. Then Isaiah 52:7, where a runner crests the hills above a ruined city with the news that the war is over. Heaven's aesthetic is strange: the beautiful thing in that picture is not the face or the voice but the dusty, split, blistered FEET — because the feet are the part of a messenger that had to go.",
+      "words": [
+        {
+          "strongs": "G649",
+          "hebrew": "ἀποστέλλω",
+          "translit": "apostellō",
+          "english": "sent"
+        },
+        {
+          "strongs": "G2097",
+          "hebrew": "εὐαγγελίζω",
+          "translit": "euangelizō",
+          "english": "preach the Good News"
+        },
+        {
+          "strongs": "G5611",
+          "hebrew": "ὡραῖος",
+          "translit": "hōraios",
+          "english": "beautiful"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "pous",
+          "english": "feet"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "But they didn’t all listen to the glad news. For Isaiah says, “Lord, who has believed our report?”",
+      "understanding": "Now the honest sentence: 'they didn't all listen.' The verb is hypakouō — to hear-under, to obey — because good news announced by God arrives with the weight of a command. And Paul reaches for Isaiah 53:1, the doorway into the Suffering Servant song: 'who has believed our report?' The message nobody believed was the message of a Savior crushed for our sins. Rejection is not proof that the preaching failed.",
+      "words": [
+        {
+          "strongs": "G5219",
+          "hebrew": "ὑπακούω",
+          "translit": "hypakouō",
+          "english": "listen / obey"
+        },
+        {
+          "strongs": "G189",
+          "hebrew": "ἀκοή",
+          "translit": "akoē",
+          "english": "report"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "So faith comes by hearing, and hearing by the word of God.",
+      "understanding": "The conclusion of the whole chain, and it is the mechanics of how faith actually appears in a human being. Faith comes out of akoē — the hearing, the report, the thing heard — and that report comes out of a rhēma, a spoken word from God. (Many of the oldest manuscripts read 'the word of Christ' here; the WEB follows the reading 'the word of God.' The point stands either way: God's own speech creates faith.) You cannot manufacture belief by wanting it harder. Put your ears back under the word.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pistis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G189",
+          "hebrew": "ἀκοή",
+          "translit": "akoē",
+          "english": "hearing"
+        },
+        {
+          "strongs": "G4487",
+          "hebrew": "ῥῆμα",
+          "translit": "rhēma",
+          "english": "word"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "But I say, didn’t they hear? Yes, most certainly,\n“Their sound went out into all the earth,\ntheir words to the ends of the world.”",
+      "understanding": "Did they never hear? Paul answers with Psalm 19:4 — the psalm about the heavens preaching without words to every longitude on earth. Their 'sound' is phthongos, a musical note; their words reach the oikoumenē, the whole inhabited world. Paul is saying the gospel has become as unavoidable as sunrise. Nobody will stand before God pleading a postal error.",
+      "words": [
+        {
+          "strongs": "G5353",
+          "hebrew": "φθόγγος",
+          "translit": "phthongos",
+          "english": "sound"
+        },
+        {
+          "strongs": "G3625",
+          "hebrew": "οἰκουμένη",
+          "translit": "oikoumenē",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "But I ask, didn’t Israel know? First Moses says,\n“I will provoke you to jealousy with that which is no nation,\nwith a nation void of understanding I will make you angry.”",
+      "understanding": "Did Israel not know? Moses said it in his own farewell song, Deuteronomy 32:21: God would provoke His people to jealousy by 'no nation,' a people with no covenant standing at all. Parazēloō means to stir rivalry alongside someone, to make them want back what they let go. This is the lit fuse of chapter 11: Gentile salvation is not an accident of history, it is a deliberate provocation of love.",
+      "words": [
+        {
+          "strongs": "G3863",
+          "hebrew": "παραζηλόω",
+          "translit": "parazēloō",
+          "english": "provoke to jealousy"
+        },
+        {
+          "strongs": "G801",
+          "hebrew": "ἀσύνετος",
+          "translit": "asynetos",
+          "english": "void of understanding"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Isaiah is very bold, and says,\n“I was found by those who didn’t seek me.\nI was revealed to those who didn’t ask for me.”",
+      "understanding": "'Isaiah is very bold' — apotolmaō, he dares, he throws caution away — and quotes God saying He was found by people who were not even looking for Him. Grace is not the prize for a successful search. Somebody reading this verse was not seeking God at all on the day He showed up; in Scripture that is the normal testimony, not the exception.",
+      "words": [
+        {
+          "strongs": "G662",
+          "hebrew": "ἀποτολμάω",
+          "translit": "apotolmaō",
+          "english": "is very bold"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heuriskō",
+          "english": "was found"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "But as to Israel he says, “All day long I stretched out my hands to a disobedient and contrary people.”",
+      "understanding": "Isaiah 65:2 closes the chapter, and it is not a slammed door — it is a God with His arms open. 'All day long I stretched out my hands' is ekpetannymi, to spread wide, to extend fully. Israel is described with two participles — apeitheō (disobedient — wilfully unpersuaded) and antilegō (contrary — talking back, contradicting to His face). Read the posture, hour after hour, day after day: a God with outstretched hands toward people arguing with Him. And when you look in history for what those outstretched hands finally looked like, you find them nailed open.",
+      "words": [
+        {
+          "strongs": "G1600",
+          "hebrew": "ἐκπετάννυμι",
+          "translit": "ekpetannymi",
+          "english": "stretched out"
+        },
+        {
+          "strongs": "G544",
+          "hebrew": "ἀπειθέω",
+          "translit": "apeitheō",
+          "english": "disobedient"
+        },
+        {
+          "strongs": "G483",
+          "hebrew": "ἀντιλέγω",
+          "translit": "antilegō",
+          "english": "contrary"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Zeal That Burned the Wrong House Down",
+      "verseRef": "v. 2-3",
+      "image": "A young Pharisee on the Damascus road, letters from the high priest folded inside his robe, riding hard through the noon heat because he cannot stand the thought of blasphemers going unpunished one more week. He is not lazy. He is not lukewarm. He prays, he fasts, he has the Torah by heart, and he will spend himself down to the last coin for the honor of God. And every mile of that ride is carrying him further from God — hunting the very Messiah he believes he is defending.",
+      "meaning": "Paul is not writing about strangers in verse 2; he is reading his own file out loud. Zeal is fire, and fire does not know what it is burning. Heat without knowledge does not leave you neutral — it leaves you dangerous, and it leaves you exhausted. On the day Stephen was stoned, the most sincere man in Jerusalem was the man holding the coats."
+    },
+    {
+      "title": "The Expedition Nobody Has to Fund",
+      "verseRef": "v. 6-8",
+      "image": "Two impossible journeys, running in opposite directions. In the first, a man is building a ladder into the clouds — rung after rung, higher and higher until the air thins and the ground disappears — trying to reach up and haul God down where he can finally see Him. In the second, a man stands over black water at the mouth of the abyss, roping himself to descend into the place of the dead and drag life back up. Both men are wrecked with effort. Both projects are already obsolete. Because Christ came down that staircase Himself, and Christ came up out of that pit Himself — and the word about it is lying in the mouth of the man who was about to jump.",
+      "meaning": "Every religion on earth is one of those two expeditions: climb high enough, or dig deep enough, and you will make yourself right with God. The gospel forbids both — not because they are too difficult, but because they are finished. The distance was closed from the other side. What is left for you is not a journey but a sentence you can say from exactly where you are standing."
+    },
+    {
+      "title": "Beautiful Feet on the Mountain Road",
+      "verseRef": "v. 15",
+      "image": "A city in ruins. Watchmen on broken walls. A people who have heard nothing but silence for years. Then, far out on the ridge, a shape moves — a runner, cresting the hill in the early light, coming down the mountain road. He is filthy. His legs are streaked with dust, his feet split open on stone. And he is already shouting before he arrives: it is over, peace, your God reigns. Isaiah looks at that ruined runner and says the most beautiful thing on the mountain is his feet.",
+      "meaning": "Heaven's aesthetic is not the polished platform, the voice, or the size of the crowd. It is feet — the part of a messenger that had to move, that got dirty, that went where the people without the news were. And notice the verb standing in front of it: sent. Nobody in this chain appoints himself. Beautiful feet are sent feet, and they are always dirty."
+    },
+    {
+      "title": "The Hands Stretched Out All Day Long",
+      "verseRef": "v. 21",
+      "image": "Not a throne. Not a raised fist. Not a slammed door. A figure standing in an open doorway with both arms spread wide — from sunrise to sunset, hour after hour — while the people He is calling stand a few feet away arguing, contradicting, turning their shoulders, walking off and coming back to argue some more. The arms never come down. All day long.",
+      "meaning": "This is the last picture Romans 10 leaves in your hands, and it is a picture of God's heart, not merely His verdict. He is not indifferent to the lost; He is aching over them with His arms in the air. And when you ask what those outstretched hands finally looked like in history, you find them stretched out on a Roman cross — still open, still reaching for a disobedient and contrary people."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Paul's Prayer and Israel's Misfired Zeal (v. 1-4)",
+        "body": "His heart's desire is their salvation; their zeal is genuine but uninformed, their righteousness is self-built and therefore insubordinate, and Christ is the telos of the law for righteousness to everyone who believes."
+      },
+      {
+        "label": "Moses Cross-Examined: The Word Came Down and Came Up (v. 5-8)",
+        "body": "The law's righteousness says 'do them and live'; faith's righteousness forbids both impossible expeditions and announces that the word is already in your mouth and in your heart."
+      },
+      {
+        "label": "Mouth, Heart, and Whoever (v. 9-13)",
+        "body": "Confess Jesus as Lord and believe the resurrection and you will be saved; nobody who believes is put to shame; there is no distinction between Jew and Greek; and Joel's 'whoever calls on the name of the LORD' is applied to Jesus."
+      },
+      {
+        "label": "The Chain of Sending (v. 14-17)",
+        "body": "Call, believe, hear, preach, be sent — with Isaiah's beautiful feet at the far end; not all obeyed the report, and faith itself comes out of hearing a word from God."
+      },
+      {
+        "label": "Did They Not Hear? Did They Not Know? (v. 18-21)",
+        "body": "Psalm 19, Deuteronomy 32, and Isaiah 65 answer in order: the sound went everywhere, the jealousy was prophesied, God was found by non-seekers — and His hands are still stretched out."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Telos: Goal, Completion, or Terminus?",
+        "paragraphs": [
+          "The word in verse 4 is telos (G5056), and Strong's defines it precisely: 'the point aimed at as a limit.' That single definition already contains the whole debate, because a point you aim at is both where you are going and where you stop. Translators split three ways — 'end' (the law terminates here), 'fulfillment' (the law is completed here), and 'goal' (the law was always aiming here). Which one does Paul's own argument support? Look at what he wrote one paragraph earlier: 'Israel, following after a law of righteousness, didn't arrive at the law of righteousness' (9:31). He has already put a runner on a track with a finish line at the end of it. Verse 4 simply tells you what that finish line was: Christ. The leading sense is goal and completion — the law was never a treadmill, it was a road with a destination, and the destination has a name.",
+          "But do not let anyone use that to blunt the second edge, because Paul means that too. Read the limiting phrase carefully: Christ is the telos of the law 'FOR RIGHTEOUSNESS to everyone who believes.' That draws the boundary exactly. As a road to being declared right with God, the law is finished — closed, terminated, no traffic — because 'by the works of the law, no flesh will be justified in his sight' (3:20). And yet in the same letter: 'Do we then nullify the law through faith? May it never be! No, we establish the law' (3:31). Both statements stand, and the order between them matters: Christ terminates the law as a way of getting righteous precisely because He completes the law as a witness pointing to righteousness — 'a righteousness of God has been revealed, being testified by the law and the prophets' (3:21). And what the law could never produce in you, God produced through His Son 'that the ordinance of the law might be fulfilled in us' (8:3-4).",
+          "So here is the honest summary, without hedging: goal is the primary sense, completion is what happened when He arrived, and terminus is the consequence for everyone who believes. Now feel what that does to your religion. Every command in Leviticus, every sacrifice, every scarlet thread, every Day of Atonement was a signpost with an arrow on it, and the arrow pointed at a Man. When you keep trying to earn what He finished, you are not honoring the law — you are sprinting past the finish line with the tape already broken across your chest, refusing to believe the race is over."
+        ]
+      },
+      {
+        "heading": "Joel's Yahweh, Paul's Jesus: The Quiet Detonation of Verse 13",
+        "paragraphs": [
+          "Follow verses 9 through 13 slowly, because something enormous happens and it happens without a raised voice. Verse 9 defines the saving confession: 'Jesus is Lord' — kyrios. Verse 12 says 'the same Lord is Lord of all, and is rich to all who call on him.' Verse 13 then quotes Scripture as the proof: 'Whoever will call on the name of the Lord will be saved.' There is no change of subject anywhere in that stretch. The Lord of verse 13 is the Lord of verse 9.",
+          "Now go and read what Paul is quoting. Joel 2:32 does not say 'the Lord' in some vague, generic sense. In Hebrew it uses the covenant name, YHWH — whoever calls on the name of Yahweh will be saved. Paul, a Pharisee trained at the feet of Gamaliel, a man raised never to pronounce that Name carelessly, lifts a Yahweh text straight out of the prophets and lays it over Jesus of Nazareth as though it had always belonged to Him. This is not a hint and it is not poetic license. If Jesus is not God, Romans 10:13 is blasphemy in print. Because He is, it is the widest door in all of Scripture, and it swings on one word: whoever.",
+          "And this is not a conclusion the church argued its way into decades later — it was in the bloodstream from the beginning. The earliest believers were identified by a single phrase describing the thing they habitually did: they were 'all who call on the name of our Lord Jesus Christ' (1 Corinthians 1:2). A formula reserved for Yahweh had become the ordinary name badge of ordinary Christians. And it is the exact description Saul once carried warrants against — he had 'authority from the chief priests to bind all who call on your name' (Acts 9:14). The man who writes verse 13 had spent years arresting people for doing verse 13. So take the weight of it personally: when you call on Jesus you are not appealing to a good teacher or a religious founder or a distant historical figure. You are calling on the Name that burned in the bush and split the sea — which is exactly why the promise can afford to be as reckless as 'whoever.'"
+        ]
+      },
+      {
+        "heading": "The Chain — and the Link That Is Missing",
+        "paragraphs": [
+          "Verses 14-15 are usually preached as a missionary appeal bolted onto a doctrinal chapter. They are nothing of the sort. They are the unavoidable consequence of verse 13. If salvation comes to 'whoever calls on the name,' then the name has to be announced, because no one calls on a name he has never been given. So Paul builds the chain backwards, link by link, and each link exposes the one behind it: they cannot call unless they believe, they cannot believe unless they hear, they cannot hear without a preacher, and there is no preacher unless someone is sent. Mark this carefully, because it is where many believers go quietly wrong: the sovereign election of chapter 9 does not make preaching optional in chapter 10. Same book, same author, same breath. God's appointing and God's sending are one plan, not two competing ones — which is why the man who wrote about the potter and the clay opened this chapter on his knees.",
+          "Verse 17 then gives the mechanics — 'faith comes by hearing' — and the direction of that sentence is everything. Faith travels toward you. It is not something you generate by intensity, squeeze out of willpower, or earn by wanting it badly enough; every one of those is just another attempt to ascend into heaven. Notice what Scripture therefore never does: it never tells a struggling believer to try harder to believe. It tells him where to stand so the word can reach his ears. So when your faith feels thin this month, stop interrogating your feelings and go put yourself back under the word — preached, read, spoken aloud in your own mouth. Faith is not a muscle you strengthen in private. It is a harvest that grows from a seed somebody else had to carry to you and sow.",
+          "Then comes the sentence Paul will not let you walk past. He has just built an unbreakable chain — sent, preach, hear, believe, call, saved. Somewhere near you is a person who cannot reach the end of that chain because the link closest to them is missing, and the link closest to them is you. And in case you are tempted to imagine God as reluctant in this arrangement, the chapter's final verse settles it: 'All day long I stretched out my hands.' The arms of God are not the bottleneck. The mouths of His people are."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "New Testament Connection",
+      "paragraphs": [
+        "Romans 10 does not merely quote the Old Testament — it is quoted, obeyed and lived out across the New. Start at Pentecost. Peter stands in Jerusalem fifty days after the crucifixion and reaches for the same verse of Joel that Paul reaches for here: 'It will be that whoever will call on the name of the Lord will be saved' (Acts 2:21). He then spends the whole sermon establishing the identity of that Lord: 'God has made him both Lord and Christ, this Jesus whom you crucified' (Acts 2:36). When the crowd is cut to the heart, three thousand people do precisely what Romans 10:9-13 describes — they believe that God raised Him, and they call on His name. Paul writes the doctrine in Corinth around AD 57; Peter had already preached it in Jerusalem around AD 30.",
+        "Then track the confession itself. 'Jesus is Lord' was not Paul's private formula — it was the church's earliest creed and its most expensive one, especially in a city whose own emperor was already being addressed as lord. Philippians 2:11 carries it to its final destination: 'every tongue should confess that Jesus Christ is Lord, to the glory of God the Father' — and Paul draws that line from Isaiah 45:23, yet another passage where Yahweh swears by Himself that every knee will bow to Him alone. Two separate Yahweh texts, one Man. The confession you make out loud at your kitchen table this morning is the confession the entire universe will make one day, and it will be too late then to make it for the first time.",
+        "Finally, watch Paul obey his own chain in this very letter. Having written 'how will they preach unless they are sent,' he tells the Roman church his life's ambition five chapters later: 'making it my aim to preach the Good News, not where Christ was already named' (15:20), quoting Isaiah again — 'They will see, to whom no news of him came. They who haven't heard will understand' (15:21). Romans 10 was never theory for him. It is the reason this letter exists at all: he wants Rome to send him on to Spain (15:24), to the far end of the known world where there is no preacher. The doctrine of verse 14 is the travel itinerary of chapter 15."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Zeal",
+      "hebrew": "ζῆλος",
+      "translit": "zēlos",
+      "strongs": "G2205",
+      "verses": "v. 2",
+      "insight": "The root idea is heat — Strong's traces it to zeō, to boil. It is the same word used for a husband's jealousy and for an enemy's malice: ardor that can run in either direction. Paul concedes that Israel's zeal for God is genuine; this is not hypocrisy or apathy but boiling, costly, sincere religion. And it damns them, because heat with nothing to aim it is a fire in the wrong building. He knew it from the inside: 'concerning zeal, persecuting the assembly' (Philippians 3:6). So temperature is not the test. The question verse 2 forces on you is not how hot your religion runs but what it is aimed at — because zeal is the accelerant, never the compass."
+    },
+    {
+      "english": "Fulfillment / End / Goal",
+      "hebrew": "τέλος",
+      "translit": "telos",
+      "strongs": "G5056",
+      "verses": "v. 4",
+      "insight": "Strong's defines it as 'the point aimed at as a limit' — which is exactly the tension the verse carries. It is where a thing is heading, and therefore where it stops. It is the root of 'teleology,' the study of what a thing is for. So what was the law for? Him. Chapter 9 already pictured Israel running the law like a racecourse and failing to arrive (9:31); verse 4 names the finish line. And because Christ is the destination, He is also the terminus — 'for righteousness to everyone who believes,' the law is now closed as a route to being made right with God. The law is not abolished as God's revealed will; it is completed as a signpost, because the One it pointed at has arrived."
+    },
+    {
+      "english": "Confess",
+      "hebrew": "ὁμολογέω",
+      "translit": "homologeō",
+      "strongs": "G3670",
+      "verses": "v. 9, 10",
+      "insight": "Literally 'to say the same thing' — homou (together) and logos (word). To confess is to stop negotiating with God's verdict and start repeating it out loud. Hear what that means: confession is not you informing heaven of a decision you have made; it is you audibly agreeing with what God has already said about His Son. Strong's also gives 'covenant' and 'acknowledge' — this is treaty language, the public naming of whose authority you have come under. And the empire already used kyrios of its own emperor: within seven years of this letter Nero was burning Christians in Rome, and by the next century 'Caesar is Lord' was the exact sentence a magistrate demanded and a martyr refused. That is precisely why God attached salvation to a spoken word and not to a private thought — a private thought costs nothing, and He knew what this one would cost."
+    },
+    {
+      "english": "Hearing / Report",
+      "hebrew": "ἀκοή",
+      "translit": "akoē",
+      "strongs": "G189",
+      "verses": "v. 16, 17",
+      "insight": "One of the richest words in the chapter, because it holds three meanings at once: the act of hearing, the faculty of hearing, and the thing heard — the report itself. Verse 16 uses it for Isaiah's cry, 'who has believed our report?' and verse 17 says faith comes out of it. So 'faith comes by hearing' is not primarily an exhortation to listen well; it is a statement about a message being carried, spoken, and landed in somebody's ear. Faith is never something you generate inside yourself by trying harder to believe. It is created in you by a report from outside you — which is exactly why you never graduate from sitting under the word, and exactly why somebody has to go."
+    },
+    {
+      "english": "Preach Good News",
+      "hebrew": "εὐαγγελίζω",
+      "translit": "euangelizō",
+      "strongs": "G2097",
+      "verses": "v. 15",
+      "insight": "Eu (good) plus angelos (messenger) — to announce good news; the verb behind 'evangelize' and behind euangelion, 'gospel.' In the Greek world it was the word for a herald arriving from the battlefield with word that the war had been won: the announcement of a finished event, not advice on how to fight. That is the entire difference between the gospel and religion. Religion tells you what to do; euangelizō tells you what has been done. And Isaiah 52:7, the verse Paul quotes, uses it of a runner coming over the hills toward a city in ruins — which means this news sounds most beautiful exactly where the situation looks most hopeless."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the difference between your religious temperature and any real knowledge of God, the exhausting expeditions you keep funding to make yourself acceptable, and the name of the person you still have not told.",
+    "items": [
+      {
+        "title": "Your Zeal Is Not the Evidence You Think It Is",
+        "body": "You can be busy for God and ignorant of God at the same time. Verse 2 is Paul's sworn testimony about people who prayed more than you do, fasted more than you do, gave more than you do, and were lost. So run the test honestly on yourself: is your spiritual life built on knowing Him, or on activity about Him? Do you feel close to God on the weeks you performed well and distant on the weeks you slipped — and if so, whose righteousness have you actually been standing on all this time? Verse 3 uses a soldier's word: they 'did not subject themselves,' hypotassō, would not fall in under orders. That is what self-righteousness really is. Not high standards. Not humility. A refusal to submit to God's righteousness because you would rather stand on something you built with your own hands. So name it out loud: what have you been building? And are you willing to watch God pull it down?"
+      },
+      {
+        "title": "Stop Climbing — the Word Is Already in Your Mouth",
+        "body": "Read verses 6 and 7 as a diagnosis of your inner life, because that is what they are. 'Who will ascend into heaven?' is the voice that says God is far off and you must work your way up to Him — more discipline, more fasting, more clean days in a row, and then perhaps He will draw near. 'Who will descend into the abyss?' is the voice that says your sin is too deep and your past is too far down, and someone would have to go into that pit and haul you out. And the Holy Spirit forbids both sentences — not because they are too humble but because they call the finished work of Christ insufficient. He already came down. He already came up. The word is not on a mountain; it is in your mouth. So tonight, when the accusation starts again, do not climb and do not dig. Open your mouth where you are standing and say what God has already said about His Son. How long have you been funding an expedition Jesus already made?"
+      },
+      {
+        "title": "The Person You Are Not Telling",
+        "body": "Paul builds a chain in verses 14-15 and your name is one of the links. They cannot call unless they believe. They cannot believe unless they hear. They cannot hear without a preacher. There is no preacher unless somebody is sent. Now stop reading and put a face to it — you already know whose it is. The relative you have prayed for silently for years and never once spoken to directly. The friend who knows you are religious but has never heard you say plainly what Jesus did for you. The person at work you can talk to about anything except this. Be honest about the reason: you have believed the doctrine of God's sovereignty and quietly used it as permission to stay quiet. But God's sovereignty in chapter 9 did not stop Paul from praying in 10:1, and it does not excuse your feet from verse 15. Then let the last verse of the chapter burn where it needs to burn: 'All day long I stretched out my hands.' His arms are not the problem. Whose voice is missing — and what exactly are you waiting for?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Temperature Check",
+        "body": "Where is your zeal actually aimed? Write down what you have been most fervent about in the last three months — a ministry, a standard you enforce, an argument you keep having, a habit you are trying to conquer, a reputation you are defending. Now ask of each item: is this heat producing more knowledge of Christ in me, or only more heat? Israel's zeal was genuine, expensive, and lost."
+      },
+      {
+        "title": "The 'My Own Righteousness' Audit",
+        "body": "Finish this sentence honestly, out loud: 'God is pleased with me this week because ______.' If anything other than Christ finishes that sentence, you have just located the monument you have been trying to establish. What is it — your consistency, your giving, your clean record, your service, your reputation for being the strong one? Verse 3 does not call that modesty. It calls it insubordination."
+      },
+      {
+        "title": "The Unspoken Name",
+        "body": "Who is the person closest to you who has never heard you clearly say what Jesus has done for you? Write the name down; do not keep it vague. Then answer the real question underneath it: what precisely are you afraid of — losing the relationship, being thought strange, or being asked something you cannot answer? Name the fear, because a fear you refuse to name is a fear you will keep obeying."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Confessing Out Loud, Every Morning",
+        "body": "Verse 10 says confession is made with the MOUTH — so stop doing this silently. For the next seven mornings, before you touch your phone, say this out loud where you can hear yourself: 'Jesus is Lord. God raised Him from the dead. I am not establishing my own righteousness today — I am subject to the righteousness of God, and it is a gift. The word is near me. It is in my mouth and in my heart.' Then, the moment accusation shows up during the day, say it again right there instead of trying to climb your way back to God."
+      },
+      {
+        "title": "Being the Missing Link This Week",
+        "body": "Take the name you wrote down in the audit and do three things in this order. Tonight: pray Romans 10:1 out loud with their name inside it — 'my heart's desire and my prayer to God is for ______, that they may be saved.' This week: send one honest message or start one honest conversation, and keep it to your own testimony rather than an argument — what you were, what Jesus did, what changed. Then within seven days, ask them one direct question, such as: 'Has anyone ever actually told you what the gospel is?' You are not responsible for their answer. You are responsible for the link. Beautiful feet are sent feet — and they are always dirty."
+      }
+    ]
+  },
+  "prayerReflection": "\"Father, I come to You with my mouth open, because You put Your word close enough to speak. Search my zeal — I confess that I have had heat without knowledge, that I have been busy about You and starving for You at the same time. Forgive me for every stone I have laid trying to establish my own righteousness, and for calling it discipline when it was really insubordination. Today I subject myself to Your righteousness. Lord Jesus, You are the goal the whole law was running toward; the road ends at You, and I stop sprinting past a finish line You already crossed for me. I will not ask who will ascend into heaven — You came down. I will not ask who will descend into the abyss — You came up, and God raised You from the dead. So I say it where I can hear myself say it: Jesus is Lord. I believe in my heart that God raised Him, and I call on His name, and Your word says that whoever calls on the name of the Lord will be saved, and that whoever believes in Him will never be put to shame. Now, Father, do something with my feet. Faith comes by hearing, and there are people within arm's reach of me who cannot hear because nobody has spoken. Send me. Give me the courage to say the Name I have been avoiding, to the person I have been avoiding, this week. And make my heart like Yours — the God who stretches out His hands all day long to a disobedient and contrary people, and refuses to bring them down. In Jesus' name, Amen.\"",
+  "storyConnections": [
+    {
+      "title": "The Zealot on the Damascus Road",
+      "ref": "Acts 9:1-19; Acts 22:3-16; Philippians 3:4-9",
+      "relatedVerses": "v. 2-4",
+      "summary": "When Paul writes that Israel has 'a zeal for God, but not according to knowledge,' he is describing the man he used to be. He had studied at the feet of Gamaliel and, in his own words to a Jerusalem mob, was 'zealous for God, even as you all are today' — and that zeal carried him out of the city with arrest warrants in his coat and murder in his breath. Then light knocked him into the dust of the Damascus road, and a voice asked the one question that dismantled a lifetime of religion: 'Why do you persecute me?' He had been fighting for God against God. Everything he had spent his life establishing as his own righteousness he later called garbage, so 'that I may gain Christ and be found in him, not having a righteousness of my own' (Philippians 3:8-9). Verses 2-4 are not an apostle looking down on Israel. They are an apostle looking in a mirror — which is exactly why verse 1 opens with tears instead of contempt."
+    },
+    {
+      "title": "Moses on the Plains of Moab",
+      "ref": "Deuteronomy 30:1-14",
+      "relatedVerses": "v. 6-8",
+      "summary": "Moses is at the end of his life, standing with a new generation on the plains of Moab, and he does something remarkable: he preaches straight past their conquest, past their kings, past a catastrophe that has not happened yet, all the way to the far side of exile. He tells them that when everything has come apart and they are scattered among the nations, God will gather them and 'circumcise your heart' (30:6). And then, standing inside that grace, he says the words Paul quotes: this commandment is not too hard for you — not up in heaven so that someone must ascend and fetch it, not across the sea — 'the word is very near to you, in your mouth and in your heart' (30:14). So Paul is not stealing Moses' words when he applies them to the gospel; he is finishing Moses' sentence. The nearness Moses promised on the far side of exile turned out to have a name."
+    },
+    {
+      "title": "The Four Lepers Who Could Not Keep Quiet",
+      "ref": "2 Kings 7:3-11",
+      "relatedVerses": "v. 14-16",
+      "summary": "Samaria was under siege and starving so badly that mothers had begun eating their own children. Four lepers sat outside the gate and reasoned that they would die either way, so they walked into the Syrian camp to surrender — and found it empty. God had made the enemy hear the sound of a great army in the night; the Syrians had fled and left everything standing. The lepers ate, drank, and began carrying off silver and gold and hiding it. Then their consciences caught them: 'We aren't doing right. Today is a day of good news, and we keep silent.' So they turned around in the dark and walked back to a city that had never given them anything, to tell people who had never wanted them near, that the war was over and the tables were full. That is Romans 10:14-15 in a single story: the victory was already won, and the only thing between a starving city and a loaded table was somebody willing to go back and say it."
+    }
+  ]
+}
