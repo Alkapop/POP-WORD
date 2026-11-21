@@ -56,6 +56,7 @@ only marked ✅ when its checks actually ran and passed.
 | Chapter 1 | 53KB | 31/31 | ✅ | ✅ (38) | Caught & fixed: “mending their nets” is Matthew 4:21, not Mark 1:19 |
 | Chapter 2 | 41KB | 16/16 | ✅ | ✅ (48 total) | Caught & fixed: Colossians 2:15 wording (“stripped”, not “disarmed”); 1 Peter 1:10 ref
 | Chapter 3 | 46KB | 23/23 | ✅ | ✅ (59 total) | Purgatory reading of 3:15 addressed honestly |
+| Chapter 4 | 46KB | 21/21 | ✅ | ✅ (68 total) | |
 
 ### CP-05 ⚠️ Data bug found: single-chapter books fetched as one verse
 - `sources/bible/{philemon,2john,3john,jude}-1.json` each hold only verse 1 (bible-api read
