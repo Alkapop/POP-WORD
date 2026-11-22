@@ -1,0 +1,807 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Thessalonians",
+  "chapter": 4,
+  "chapterTitle": "Holy Bodies, Quiet Hands and a Shout From Heaven — How to Live and How to Grieve",
+  "themeTitle": "“So We Will Be With the Lord Forever”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more.",
+      "understanding": "λοιπόν, “Finally” — not ‘in conclusion’, but ‘as for the rest’: Paul turns to what remains to be taught. A pray-family word appears in a human setting: ἐρωτῶμεν, “we beg,” is ἐρωτάω, the word for asking as an equal, brother to brother (the word Jesus uses for asking the Father in John 14:16). Paul also παρακαλοῦμεν, “exhort,” urges. They παρελάβετε, “received,” instruction in πῶς δεῖ, “how you ought,” περιπατεῖν, “to walk,” and ἀρέσκειν θεῷ, “to please God.” They are already doing it; now Paul wants them to περισσεύητε μᾶλλον, “abound more and more.” Growth never stops.",
+      "words": [
+        {
+          "strongs": "G3063",
+          "hebrew": "λοιπόν",
+          "translit": "loipón",
+          "english": "Finally"
+        },
+        {
+          "strongs": "G2065",
+          "hebrew": "ἐρωτάω",
+          "translit": "erōtáō",
+          "english": "beg"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G3880",
+          "hebrew": "παραλαμβάνω",
+          "translit": "paralambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        },
+        {
+          "strongs": "G700",
+          "hebrew": "ἀρέσκω",
+          "translit": "aréskō",
+          "english": "please"
+        },
+        {
+          "strongs": "G4052",
+          "hebrew": "περισσεύω",
+          "translit": "perisseúō",
+          "english": "abound"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For you know what instructions we gave you through the Lord Jesus.",
+      "understanding": "“For you know (οἴδατε) what instructions (παραγγελίας) we gave you through the Lord Jesus.” παραγγελία is a military word for commands passed down the line from a commanding officer. Paul's ethical teaching did not come from his own preferences; it came ‘through the Lord Jesus’, with His authority behind it.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G3852",
+          "hebrew": "παραγγελία",
+          "translit": "parangelía",
+          "english": "instructions"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "gave"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For this is the will of God: your sanctification, that you abstain from sexual immorality,",
+      "understanding": "“For this is the will of God: your sanctification.” τὸ θέλημα τοῦ θεοῦ — believers often wonder what God's will is for their lives; here it is stated plainly. ἁγιασμός, “sanctification,” is the process of being made holy, set apart for God. The first application: ἀπέχεσθαι, “abstain,” hold yourself away, ἀπὸ τῆς πορνείας, “from sexual immorality” — every sexual relationship outside marriage between a man and a woman. In a Greek city where sexual freedom was assumed, this was radical.",
+      "words": [
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmós",
+          "english": "sanctification"
+        },
+        {
+          "strongs": "G567",
+          "hebrew": "ἀπέχομαι",
+          "translit": "apéchomai",
+          "english": "abstain"
+        },
+        {
+          "strongs": "G4202",
+          "hebrew": "πορνεία",
+          "translit": "porneía",
+          "english": "sexual immorality"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "that each one of you know how to control his own body in sanctification and honor,",
+      "understanding": "“That each one of you know (εἰδέναι) how to control his own body.” Here is a real question of translation: the Greek is τὸ ἑαυτοῦ σκεῦος κτᾶσθαι, literally ‘to acquire / possess his own vessel’. σκεῦος can mean one's body (as the WEB takes it, compare 2 Corinthians 4:7) or one's wife (compare 1 Peter 3:7, ‘the weaker vessel’). Both readings call for the same thing: sexual life governed ἐν ἁγιασμῷ καὶ τιμῇ, “in sanctification and honor” — holy before God, honourable toward the other person.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G4632",
+          "hebrew": "σκεῦος",
+          "translit": "skeûos",
+          "english": "body"
+        },
+        {
+          "strongs": "G2932",
+          "hebrew": "κτάομαι",
+          "translit": "ktáomai",
+          "english": "control"
+        },
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmós",
+          "english": "sanctification"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "not in the passion of lust, even as the Gentiles who don’t know God;",
+      "understanding": "Not ἐν πάθει ἐπιθυμίας, “in the passion of lust” — πάθος is passion that masters a person, ἐπιθυμία is craving. That is how τὰ ἔθνη, “the Gentiles,” live — “who don’t know God.” The verb is οἶδα again: they do not even have basic knowledge of who God is. Sexual chaos is a symptom of not knowing God. Believers, who have come to know Him, are called to something different.",
+      "words": [
+        {
+          "strongs": "G3806",
+          "hebrew": "πάθος",
+          "translit": "páthos",
+          "english": "passion"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "lust"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "Gentiles"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "that no one should take advantage of and wrong a brother or sister in this matter; because the Lord is an avenger in all these things, as also we forewarned you and testified.",
+      "understanding": "Sexual sin is never private. It means to ὑπερβαίνειν, “take advantage of” — overstep a boundary — and πλεονεκτεῖν, “wrong” — defraud, take more than is yours. Sexual immorality steals from a brother or sister: their purity, their marriage, their future spouse. ἐν τῷ πράγματι, “in this matter,” the matter of sexual conduct. “Because the Lord is an avenger (ἔκδικος) in all these things” — the One who executes justice for the wronged. Paul had προείπαμεν, “forewarned,” and διεμαρτυράμεθα, “testified” solemnly.",
+      "words": [
+        {
+          "strongs": "G5233",
+          "hebrew": "ὑπερβαίνω",
+          "translit": "hyperbaínō",
+          "english": "take advantage of"
+        },
+        {
+          "strongs": "G4122",
+          "hebrew": "πλεονεκτέω",
+          "translit": "pleonektéō",
+          "english": "wrong"
+        },
+        {
+          "strongs": "G4229",
+          "hebrew": "πρᾶγμα",
+          "translit": "prâgma",
+          "english": "matter"
+        },
+        {
+          "strongs": "G1558",
+          "hebrew": "ἔκδικος",
+          "translit": "ékdikos",
+          "english": "avenger"
+        },
+        {
+          "strongs": "G4277",
+          "hebrew": "προέπω",
+          "translit": "proépō",
+          "english": "forewarned"
+        },
+        {
+          "strongs": "G1263",
+          "hebrew": "διαμαρτύρομαι",
+          "translit": "diamartýromai",
+          "english": "testified"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For God called us not for uncleanness, but in sanctification.",
+      "understanding": "The reason rests on God's calling: “For God called (ἐκάλεσεν) us not for uncleanness (ἀκαθαρσίᾳ), but in sanctification (ἁγιασμῷ).” Holiness is not an optional extra for serious Christians; it is the purpose of the call. The same God who called them into His kingdom and glory (2:12) called them into a holy life.",
+      "words": [
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G167",
+          "hebrew": "ἀκαθαρσία",
+          "translit": "akatharsía",
+          "english": "uncleanness"
+        },
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmós",
+          "english": "sanctification"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Therefore he who rejects this doesn’t reject man, but God, who has also given his Holy Spirit to you.",
+      "understanding": "ὁ ἀθετῶν, “he who rejects” — sets aside, treats as void, like cancelling a contract — this teaching, “doesn’t reject man, but God.” Sexual ethics is not Paul's opinion. And this is the God “who has also given his Holy Spirit to you.” The present tense in many manuscripts (‘gives’) stresses the ongoing gift. The Spirit who lives in you is called the Holy Spirit; sexual sin grieves the One who makes your body His temple (1 Corinthians 6:19).",
+      "words": [
+        {
+          "strongs": "G114",
+          "hebrew": "ἀθετέω",
+          "translit": "athetéō",
+          "english": "rejects"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "given"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "Holy"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "But concerning brotherly love, you have no need that one write to you. For you yourselves are taught by God to love one another,",
+      "understanding": "A love-family verse with two members side by side. περὶ δὲ τῆς φιλαδελφίας, “But concerning brotherly love” — φιλαδελφία, the warm love of brothers and sisters in a family. Then: “For you yourselves are taught by God to love one another” — εἰς τὸ ἀγαπᾶν, ἀγαπάω, the self-giving love God shows. Family warmth (φιλ-) and self-giving choice (ἀγαπ-) belong together in the church. They are θεοδίδακτοι, “taught by God” — a word Paul seems to have coined — echoing Jesus' quotation, “They will all be taught by God” (John 6:45).",
+      "words": [
+        {
+          "strongs": "G5360",
+          "hebrew": "φιλαδελφία",
+          "translit": "philadelphía",
+          "english": "brotherly love"
+        },
+        {
+          "strongs": "G2312",
+          "hebrew": "θεοδίδακτος",
+          "translit": "theodídaktos",
+          "english": "taught by God"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "love"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "for indeed you do it toward all the brothers who are in all Macedonia. But we exhort you, brothers, that you abound more and more;",
+      "understanding": "Their love was not theory: they showed it “toward all the brothers who are in all Macedonia” — the churches of Philippi, Berea and beyond. Still Paul says, “we exhort you … that you abound more and more” — περισσεύειν μᾶλλον, the same phrase as verse 1. Love is never finished. There is always more to give.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G3109",
+          "hebrew": "Μακεδονία",
+          "translit": "Makedonía",
+          "english": "Macedonia"
+        },
+        {
+          "strongs": "G4052",
+          "hebrew": "περισσεύω",
+          "translit": "perisseúō",
+          "english": "abound"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "and that you make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands, even as we instructed you;",
+      "understanding": "φιλοτιμεῖσθαι, “make it your ambition” — literally ‘to love honour’, to strive eagerly — and Paul's surprising ambition is ἡσυχάζειν, “to lead a quiet life”: calm, not restless, not stirring up trouble. Then πράσσειν τὰ ἴδια, “to do your own business,” mind your own affairs, and a work-family word: ἐργάζεσθαι ταῖς χερσὶν ὑμῶν, “to work with your own hands.” Greek culture often despised manual work; Paul honours it. Some in Thessalonica seem to have stopped working, perhaps expecting the Lord's immediate return (2 Thessalonians 3:11).",
+      "words": [
+        {
+          "strongs": "G5389",
+          "hebrew": "φιλοτιμέομαι",
+          "translit": "philotiméomai",
+          "english": "make it your ambition"
+        },
+        {
+          "strongs": "G2270",
+          "hebrew": "ἡσυχάζω",
+          "translit": "hēsycházō",
+          "english": "lead a quiet life"
+        },
+        {
+          "strongs": "G4238",
+          "hebrew": "πράσσω",
+          "translit": "prássō",
+          "english": "do"
+        },
+        {
+          "strongs": "G2398",
+          "hebrew": "ἴδιος",
+          "translit": "ídios",
+          "english": "own"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "work"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hands"
+        },
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "instructed"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "that you may walk properly toward those who are outside, and may have need of nothing.",
+      "understanding": "Two reasons. First, “that you may walk properly (εὐσχημόνως) toward those who are outside (τοὺς ἔξω)” — decently, becomingly, in a way that commands respect. Unbelievers watch how Christians handle work and money. Second, “may have need (χρείας) of nothing” — not dependent on others' charity when you are able to work. A quiet, hardworking, self-supporting life is itself a witness.",
+      "words": [
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        },
+        {
+          "strongs": "G2156",
+          "hebrew": "εὐσχημόνως",
+          "translit": "euschēmónōs",
+          "english": "properly"
+        },
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outside"
+        },
+        {
+          "strongs": "G5532",
+          "hebrew": "χρεία",
+          "translit": "chreía",
+          "english": "need"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But we don’t want you to be ignorant, brothers, concerning those who have fallen asleep, so that you don’t grieve like the rest, who have no hope.",
+      "understanding": "Now the question that troubled them most. “But we don’t want you to be ignorant (ἀγνοεῖν)” — not knowing, through lack of information. Paul had not had time to teach them about believers who die before Christ returns. τῶν κοιμωμένων, “those who have fallen asleep” — the sleep family's gentle word for believers who have died, because they will wake. So that you do not λυπῆσθε, “grieve,” καθὼς καὶ οἱ λοιποί, “like the rest, who have no hope (ἐλπίδα).” Paul does not forbid grief; he forbids hopeless grief.",
+      "words": [
+        {
+          "strongs": "G50",
+          "hebrew": "ἀγνοέω",
+          "translit": "agnoéō",
+          "english": "ignorant"
+        },
+        {
+          "strongs": "G2837",
+          "hebrew": "κοιμάω",
+          "translit": "koimáō",
+          "english": "fallen asleep"
+        },
+        {
+          "strongs": "G3076",
+          "hebrew": "λυπέω",
+          "translit": "lypéō",
+          "english": "grieve"
+        },
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus.",
+      "understanding": "The foundation of hope: “For if we believe (πιστεύομεν) that Jesus died (ἀπέθανεν) and rose again (ἀνέστη).” Notice: Jesus ‘died’ — Paul does not soften His death to ‘sleep’; He bore death in full so that for His people death becomes sleep. ἀνέστη is from the rise family, ἀνίστημι: He stood up again. “Even so God will bring (ἄξει) with him those who have fallen asleep in Jesus” — literally ‘through Jesus’. When Jesus comes, the believers who have died will come with Him.",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believe"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "died"
+        },
+        {
+          "strongs": "G450",
+          "hebrew": "ἀνίστημι",
+          "translit": "anístēmi",
+          "english": "rose"
+        },
+        {
+          "strongs": "G71",
+          "hebrew": "ἄγω",
+          "translit": "ágō",
+          "english": "bring"
+        },
+        {
+          "strongs": "G2837",
+          "hebrew": "κοιμάω",
+          "translit": "koimáō",
+          "english": "fallen asleep"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For this we tell you by the word of the Lord, that we who are alive, who are left until the coming of the Lord, will in no way precede those who have fallen asleep.",
+      "understanding": "“For this we tell you by the word of the Lord (ἐν λόγῳ κυρίου)” — either a saying of Jesus passed down orally, or a direct revelation to Paul. Either way it carries the Lord's authority. “We who are alive, who are left (περιλειπόμενοι) until the coming (παρουσίαν) of the Lord, will in no way precede (φθάσωμεν) those who have fallen asleep.” The Thessalonians feared that their dead would miss out; Paul says the reverse: the dead will not be left behind, and the living will have no advantage.",
+      "words": [
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G4035",
+          "hebrew": "περιλείπω",
+          "translit": "perileípō",
+          "english": "left"
+        },
+        {
+          "strongs": "G3952",
+          "hebrew": "παρουσία",
+          "translit": "parousía",
+          "english": "coming"
+        },
+        {
+          "strongs": "G5348",
+          "hebrew": "φθάνω",
+          "translit": "phthánō",
+          "english": "precede"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first,",
+      "understanding": "“For the Lord himself” — αὐτὸς ὁ κύριος, not an angel or a messenger, but the Lord in person — “will descend (καταβήσεται) from heaven.” Three sounds: a κέλευσμα, “shout” — a command, like an officer's order or a charioteer's cry; “the voice of the archangel” (ἀρχαγγέλου); and σάλπιγγι θεοῦ, “God’s trumpet,” which in Scripture signals God's coming and the gathering of His people (Matthew 24:31). Then: “The dead (νεκροί) in Christ will rise (ἀναστήσονται) first” — the rise family again: they will stand up.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2597",
+          "hebrew": "καταβαίνω",
+          "translit": "katabaínō",
+          "english": "descend"
+        },
+        {
+          "strongs": "G2752",
+          "hebrew": "κέλευμα",
+          "translit": "kéleuma",
+          "english": "shout"
+        },
+        {
+          "strongs": "G743",
+          "hebrew": "ἀρχάγγελος",
+          "translit": "archángelos",
+          "english": "archangel"
+        },
+        {
+          "strongs": "G4536",
+          "hebrew": "σάλπιγξ",
+          "translit": "sálpinx",
+          "english": "trumpet"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G450",
+          "hebrew": "ἀνίστημι",
+          "translit": "anístēmi",
+          "english": "rise"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "then we who are alive, who are left, will be caught up together with them in the clouds, to meet the Lord in the air. So we will be with the Lord forever.",
+      "understanding": "“Then we who are alive, who are left, will be caught up (ἁρπαγησόμεθα)” — ἁρπάζω means to seize, snatch suddenly, by force; the Latin translation's ‘rapiemur’ gives us the word ‘rapture’. They are taken ‘together with them’ ἐν νεφέλαις, in the clouds — as Jesus left in a cloud (Acts 1:9). “To meet the Lord” — εἰς ἀπάντησιν, a word used for a city's citizens going out to greet a visiting king and escort him in (as the believers did for Paul, Acts 28:15). Christians debate the timing of this meeting; the text itself stresses not the timetable but the reunion. “So we will be with the Lord forever.”",
+      "words": [
+        {
+          "strongs": "G726",
+          "hebrew": "ἁρπάζω",
+          "translit": "harpázō",
+          "english": "caught up"
+        },
+        {
+          "strongs": "G3507",
+          "hebrew": "νεφέλη",
+          "translit": "nephélē",
+          "english": "clouds"
+        },
+        {
+          "strongs": "G529",
+          "hebrew": "ἀπάντησις",
+          "translit": "apántēsis",
+          "english": "meet"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G109",
+          "hebrew": "ἀήρ",
+          "translit": "aḗr",
+          "english": "air"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Therefore comfort one another with these words.",
+      "understanding": "“Therefore comfort (παρακαλεῖτε) one another with these words (λόγοις).” The purpose of this teaching is not speculation or charts; it is comfort. Paul expects the church to repeat these words to each other at gravesides and in grief. Doctrine about Christ's return is meant to dry tears.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "comfort"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "words"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Sleepers Will Wake",
+      "verseRef": "v. 13-14",
+      "image": "Picture a dormitory before dawn. Rows of people are sleeping, some on their sides, some on their backs, breathing slowly. Nobody standing at the door would call them gone. They are resting, and morning is coming. Now picture a graveyard outside Thessalonica, where a few believers have been buried in the months since Paul left. Their families stand there weeping, wondering if they will ever see them again. Then a letter arrives and is read aloud in the house church: those who have died in Jesus have only fallen asleep. Morning is coming, and the King will wake them.",
+      "meaning": "Paul writes, “But we don’t want you to be ignorant, brothers, concerning those who have fallen asleep, so that you don’t grieve like the rest, who have no hope” (v. 13). The sleep-family word κοιμάω is the word Jesus used of Lazarus: “Our friend, Lazarus, has fallen asleep, but I am going so that I may awake him out of sleep” (John 11:11). Death is real, and Jesus wept at Lazarus' tomb. But for believers it is not the end. “For if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus” (v. 14). We grieve, but we grieve as people who expect a morning."
+    },
+    {
+      "title": "Going Out to Meet the King",
+      "verseRef": "v. 16-17",
+      "image": "Picture an ancient city on the day the emperor is coming. Word has arrived that he is near. The gates are thrown open, and the whole population pours out onto the road — magistrates in their robes, families, children, old people helped along by their grandchildren. They go out a mile beyond the walls to meet him, cheering, and then they turn and escort him back into the city in triumph. Now lift your eyes: the sky splits with a shout, an archangel's voice and a trumpet blast. The Lord Himself descends. The graves of believers open first, and then all who belong to Him, living and dead together, rise to meet Him in the air.",
+      "meaning": "“For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first” (v. 16), and then “we who are alive, who are left, will be caught up together with them in the clouds, to meet the Lord in the air. So we will be with the Lord forever” (v. 17). The word ‘meet’ (ἀπάντησις) was used for this kind of royal welcome. Whatever view believers hold of the timing, the heart of the passage is clear: a reunion with those we have lost, and a meeting with the King that will never end."
+    },
+    {
+      "title": "Quiet Hands",
+      "verseRef": "v. 11-12",
+      "image": "Picture a carpenter's workshop in a busy city street. Outside, people are shouting, arguing about politics, spreading rumours, rushing about. Some believers have even stopped working, saying, ‘Why bother? The Lord is coming soon.’ But inside the workshop a believer is planing a beam, steadily and carefully. He pays his debts, helps a neighbour, speaks kindly to customers, and goes home to pray with his family. He is not loud. He is not anxious. His hands are busy and his heart is ready.",
+      "meaning": "Paul says, “make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands, even as we instructed you; that you may walk properly toward those who are outside, and may have need of nothing” (vv. 11–12). Expecting Jesus' return should make believers more faithful in ordinary life, not less. A quiet, honest, hardworking life is a powerful witness to watching neighbours. The surprising ambition Paul gives is not fame or influence but quiet faithfulness."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Walk to Please God (v. 1-2)",
+        "body": "Paul urges them to keep growing in the way of life they learned from him — walking to please God — according to the instructions given through the Lord Jesus."
+      },
+      {
+        "label": "God's Will: Sexual Holiness (v. 3-8)",
+        "body": "God's will is their sanctification: abstaining from sexual immorality, controlling one's body in holiness and honour, not wronging a brother or sister; God called us to holiness, and rejecting this rejects God who gives His Holy Spirit."
+      },
+      {
+        "label": "Brotherly Love and Quiet Work (v. 9-12)",
+        "body": "Taught by God to love one another, they already love all the believers in Macedonia but must abound more, aiming to live quietly, mind their own affairs and work with their hands, so as to earn outsiders' respect and depend on no one."
+      },
+      {
+        "label": "Hope for Those Who Have Fallen Asleep (v. 13-14)",
+        "body": "Believers should not grieve like those without hope: since Jesus died and rose again, God will bring with Him those who have fallen asleep in Jesus."
+      },
+      {
+        "label": "The Coming of the Lord (v. 15-18)",
+        "body": "By the word of the Lord: the living will not precede the dead; the Lord will descend with a shout, an archangel's voice and God's trumpet; the dead in Christ will rise first, then the living will be caught up with them to meet the Lord in the air and be with Him forever. Comfort one another with these words."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "God's Will Is Your Sanctification",
+        "paragraphs": [
+          "Chapter 4 begins the second half of the letter: instruction for a young church. Paul starts with how to live, and he begins gently: “we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more” (v. 1). They are already on the right road; Paul simply wants them to keep going further. The Christian life is never static. And its aim is not to please ourselves or others, but to please God.",
+          "Then Paul says plainly what many believers spend years asking: “For this is the will of God: your sanctification, that you abstain from sexual immorality” (v. 3). In the Greek city, sexual freedom was expected for men: prostitutes, slaves and mistresses were part of life, and temple worship sometimes included sexual rituals. Into that world the gospel brought a new standard: sexual faithfulness within marriage and purity outside it. Paul asks each believer to “know how to control his own body in sanctification and honor, not in the passion of lust, even as the Gentiles who don’t know God” (vv. 4–5). Sexual holiness is not prudishness; it is the fruit of knowing God.",
+          "Paul gives three reasons. First, sexual sin wrongs others: “that no one should take advantage of and wrong a brother or sister in this matter” (v. 6). Second, God takes it seriously: “the Lord is an avenger in all these things” (v. 6). Third, holiness is the purpose of our calling: “For God called us not for uncleanness, but in sanctification” (v. 7). And to reject this teaching is to reject God Himself, “who has also given his Holy Spirit to you” (v. 8). The Spirit who lives in believers is holy, and He empowers holiness. As Paul wrote to Corinth, “your body is a temple of the Holy Spirit who is in you” (1 Corinthians 6:19)."
+        ]
+      },
+      {
+        "heading": "Love More, Work Quietly",
+        "paragraphs": [
+          "From holiness Paul moves to love. “But concerning brotherly love, you have no need that one write to you. For you yourselves are taught by God to love one another” (v. 9). This verse joins two words from the love family: φιλαδελφία, the warm affection of a family, and ἀγαπάω, the self-giving love God shows. Both are needed. A church can be warm and friendly but unwilling to sacrifice; or it can do duties of love with no real affection. God teaches both, and the Thessalonians had learned well: “for indeed you do it toward all the brothers who are in all Macedonia” (v. 10). Yet Paul still urges them to “abound more and more” (v. 10).",
+          "Then a surprising instruction: “make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands, even as we instructed you” (v. 11). Ambition and quietness seem opposites, but Paul joins them. The best ambition is to live a calm, responsible life. Some of the Thessalonians had apparently stopped working, perhaps because they expected Jesus to return any day, and were living off others. In his second letter Paul will address this more sharply: “For we hear of some who walk among you in rebellion, who don’t work at all, but are busybodies” (2 Thessalonians 3:11).",
+          "The purpose of quiet work is witness and independence: “that you may walk properly toward those who are outside, and may have need of nothing” (v. 12). Outsiders were watching this new group in the city. A church full of idle people living off charity would bring shame on the gospel. A church of honest, hardworking, generous people commends it. Ephesians says the same: “let him labor, producing with his hands something that is good, that he may have something to give to him who has need” (Ephesians 4:28). Waiting for Jesus never excuses laziness."
+        ]
+      },
+      {
+        "heading": "We Will Be With the Lord Forever",
+        "paragraphs": [
+          "Now the question at the centre of the letter. In the months since Paul left, some Thessalonian believers had died. Their families were devastated, wondering whether their loved ones had missed out on Christ's return. Paul answers: “But we don’t want you to be ignorant, brothers, concerning those who have fallen asleep, so that you don’t grieve like the rest, who have no hope” (v. 13). He does not say ‘don't grieve’. Jesus Himself wept at Lazarus' tomb (John 11:35). He says, don't grieve like those with no hope. Christian grief is real, but it has a horizon.",
+          "The foundation is the resurrection of Jesus: “For if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus” (v. 14). Notice the language: Jesus ‘died’; believers ‘fall asleep’. He went through death in all its darkness so that for His people it becomes sleep. And sleep implies waking. Paul then gives a revelation from the Lord: “we who are alive, who are left until the coming of the Lord, will in no way precede those who have fallen asleep” (v. 15). The dead will not be at a disadvantage; if anything, they go first.",
+          "Then comes the description: “For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God’s trumpet. The dead in Christ will rise first, then we who are alive, who are left, will be caught up together with them in the clouds, to meet the Lord in the air. So we will be with the Lord forever” (vv. 16–17). Believers hold different views about how this event relates to other end-time events, and the passage does not settle every question. But its main points are unmistakable: Jesus will come personally and visibly; dead believers will be raised; living believers will be transformed and gathered; and the church, reunited, will be with the Lord forever. The application is not a chart but comfort: “Therefore comfort one another with these words” (v. 18)."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Resurrection Hope Across the New Testament",
+      "paragraphs": [
+        "Paul expands on this in 1 Corinthians 15, written a few years later: “Behold, I tell you a mystery. We will not all sleep, but we will all be changed” (1 Corinthians 15:51), “in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised incorruptible, and we will be changed” (1 Corinthians 15:52). The same elements appear: sleep as a picture of death, the trumpet, the raising of the dead and the change of the living. And the foundation is the same: “But now Christ has been raised from the dead. He became the first fruits of those who are asleep” (1 Corinthians 15:20).",
+        "Jesus Himself spoke of His coming with the same images: “they will see the Son of Man coming on the clouds of the sky with power and great glory” (Matthew 24:30), and “He will send out his angels with a great sound of a trumpet, and they will gather together his chosen ones from the four winds” (Matthew 24:31). At His ascension the angels promised, “This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky” (Acts 1:11). And He promised His disciples personally, “I will come again, and will receive you to myself; that where I am, you may be there also” (John 14:3).",
+        "The sleep image for believers' death runs throughout the New Testament. Jesus said of Jairus' daughter, “The child is not dead, but is asleep” (Mark 5:39), and of His friend, “Our friend, Lazarus, has fallen asleep” (John 11:11). When Stephen was stoned, he prayed for his killers, and “When he had said this, he fell asleep” (Acts 7:60). And Jesus' great declaration at Lazarus' tomb is the ground of all of it: “I am the resurrection and the life. He who believes in me will still live, even if he dies” (John 11:25)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Sanctification / holiness (in process)",
+      "hebrew": "ἁγιασμός",
+      "translit": "hagiasmós",
+      "strongs": "G38",
+      "verses": "v. 3, 4, 7",
+      "insight": "Strong's: “properly, purification, i.e. (the state) purity; concretely (by Hebraism) a purifier.” It appears three times in verses 3–7. ἁγιασμός is the process and result of being set apart for God and made holy. It is related to ἁγιωσύνη in 3:13 (holiness as a quality) and to ἁγιάζω in 5:23 (God sanctifies you). Paul calls sanctification ‘the will of God’ (v. 3). Holiness is not optional for advanced Christians; it is what God is doing in every believer, beginning with the body."
+    },
+    {
+      "english": "Taught by God",
+      "hebrew": "θεοδίδακτος",
+      "translit": "theodídaktos",
+      "strongs": "G2312",
+      "verses": "v. 9",
+      "insight": "Strong's: “divinely instructed.” The word combines θεός, God, and διδακτός, taught. It appears only here in the New Testament and may be Paul's own coinage, echoing Isaiah's promise that all God's children will be taught by the LORD, which Jesus quoted: “They will all be taught by God” (John 6:45). Love for one another is not merely learned from human teachers; God Himself teaches it, by His Spirit and by showing His love in Christ."
+    },
+    {
+      "english": "Fall asleep (believers' death)",
+      "hebrew": "κοιμάω",
+      "translit": "koimáō",
+      "strongs": "G2837",
+      "verses": "v. 13, 14, 15",
+      "insight": "Strong's: “to put to sleep, i.e. (passively or reflexively) to slumber; figuratively, to decease.” From this word comes κοιμητήριον, ‘sleeping place’, our word ‘cemetery’. The New Testament uses it for believers who have died: Lazarus (John 11:11), Stephen (Acts 7:60), the dead in Christ. It does not teach that the soul is unconscious; Paul elsewhere says to be away from the body is to be at home with the Lord. It teaches that death is temporary for believers. A cemetery, for Christians, is a dormitory waiting for morning."
+    },
+    {
+      "english": "Catch up / seize / snatch away",
+      "hebrew": "ἁρπάζω",
+      "translit": "harpázō",
+      "strongs": "G726",
+      "verses": "v. 17",
+      "insight": "Strong's: “to seize (in various applications).” It describes sudden, forceful seizing: a wolf snatching sheep (John 10:12), Philip being snatched away by the Spirit (Acts 8:39), Paul being caught up to the third heaven (2 Corinthians 12:2). The Latin translation rapiemur gives English the word ‘rapture’. In verse 17, the living believers will be snatched up suddenly by God's power to meet the Lord. Nothing will be able to hold them back."
+    },
+    {
+      "english": "Meeting / going out to meet",
+      "hebrew": "ἀπάντησις",
+      "translit": "apántēsis",
+      "strongs": "G529",
+      "verses": "v. 17",
+      "insight": "Strong's: “a (friendly) encounter.” In the Greek world it was the technical term for the formal welcome given to a visiting dignitary: citizens went out of the city to meet him and escort him back in. Acts 28:15 uses it when believers came out from Rome to meet Paul. In Matthew 25:6 the bridesmaids go out ‘to meet’ the bridegroom. In verse 17 the church goes out to meet its King. The emphasis is not on escape but on welcome: a people going joyfully to meet the One they love."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the holiness of your body, the quietness of your daily life, and the way you grieve.",
+    "items": [
+      {
+        "title": "This Is God's Will for You",
+        "body": "Many believers ask anxiously, ‘What is God's will for my life?’ Here it is: “your sanctification” (v. 3). The Spirit may be putting His finger on your sexual life: thoughts, screen habits, relationships, secrets. He is not condemning you; He is calling you into the holiness He designed you for. Remember that sexual sin always wrongs someone (v. 6), and that the Holy Spirit lives in you (v. 8). Bring whatever He shows you into the light, receive His forgiveness, and ask for His power to walk in purity and honour."
+      },
+      {
+        "title": "The Ambition of a Quiet Life",
+        "body": "Our culture prizes being noticed, busy and influential. The Spirit is offering you a different ambition: “to lead a quiet life, and to do your own business, and to work with your own hands” (v. 11). Is your life restless, noisy or overextended? Are you too absorbed in other people's affairs? Or have you drifted into idleness? Ask the Spirit to give you the holy ambition of quiet faithfulness, so that your ordinary life wins the respect of those outside."
+      },
+      {
+        "title": "Grief With a Horizon",
+        "body": "Perhaps you are grieving someone who has died in Christ. The Spirit does not ask you to pretend you are not sad; Jesus wept too. But He wants to lift your eyes to the horizon: “So we will be with the Lord forever” (v. 17). Let Him replace hopeless grief with hope-filled grief. Speak these words to yourself, and then speak them to someone else who is grieving: “Therefore comfort one another with these words” (v. 18)."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Holiness Check",
+        "body": "Read verses 3–8 slowly. Is there any area of your sexual life — thoughts, media, relationships — that does not reflect sanctification and honour? Write it down privately, confess it to God, and decide on one practical boundary that will help you walk in holiness this week."
+      },
+      {
+        "title": "The Daily-Work Check",
+        "body": "Look at verses 11–12. Is your daily life quiet or restless? Are you minding your own affairs or absorbed in others'? Are you working diligently, and would an unbeliever who watched your work respect it? Choose one change to make."
+      },
+      {
+        "title": "The Hope Check",
+        "body": "Think of a believer you have lost. When you think of them, is your grief hopeless or hope-filled (v. 13)? Read verses 13–18 aloud, and write down one phrase that comforts you most."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Comfort Someone With These Words",
+        "body": "Paul says, “Therefore comfort one another with these words” (v. 18). This week, think of someone who has lost a believing family member or friend, recently or long ago. Contact them. Listen to them talk about the person they lost. Then gently share verses 13–18, or write them out in a card. Do not try to fix their grief; point them to the hope of resurrection and reunion. Pray with them if they are open to it."
+      },
+      {
+        "title": "A Quiet-Life Week",
+        "body": "For one week, practise verse 11. Each morning, ask God to help you do your work well and quietly. Avoid gossip and getting involved in others' affairs. Do your work with care, as for the Lord. At the end of each day, write down one way your work served someone else. On the last day, reflect: how did a quieter, more focused life affect your peace, your relationships and your witness?"
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I want to walk in a way that pleases You, and to abound more and more. Your will is my sanctification. Make me holy in body and in heart. Teach me to control my body in holiness and honour, not in the passion of lust like those who do not know You. Keep me from wronging any brother or sister. Thank You for giving me Your Holy Spirit. You have taught me to love; let my love grow warmer and more self-giving, toward all my brothers and sisters. Give me the ambition of a quiet life, honest work and a good witness to those outside. Lord Jesus, You died and rose again. Thank You that those who have fallen asleep in You will rise. I believe that You Yourself will descend from heaven with a shout, with the voice of the archangel and the trumpet of God, that the dead in Christ will rise, and that we will be caught up together to meet You. Let me live today as one who will be with You forever. Use me to comfort others with these words. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Lazarus Has Fallen Asleep",
+      "ref": "John 11:1-44",
+      "relatedVerses": "v. 13-14",
+      "summary": "When Lazarus, the brother of Mary and Martha, became sick and died, Jesus told His disciples, “Our friend, Lazarus, has fallen asleep, but I am going so that I may awake him out of sleep” (John 11:11). The disciples misunderstood, so Jesus told them plainly that Lazarus had died. At Bethany, Martha met Him, and He said, “I am the resurrection and the life. He who believes in me will still live, even if he dies” (John 11:25). Then, standing at the tomb, “Jesus wept” (John 11:35). He wept, and then He called Lazarus out of the grave. This is the pattern of 1 Thessalonians 4: real grief, the sleep of believers, and the One who will wake them with His voice."
+    },
+    {
+      "title": "The Believers Come Out to Meet Paul",
+      "ref": "Acts 28:11-16",
+      "relatedVerses": "v. 17",
+      "summary": "After shipwreck on Malta, Paul finally travelled toward Rome as a prisoner. When the believers in Rome heard he was coming, they went out along the Appian Way to welcome him: “From there the brothers, when they heard of us, came to meet us as far as The Market of Appius and The Three Taverns. When Paul saw them, he thanked God, and took courage” (Acts 28:15). The word for ‘meet’ is the same word Paul used in 1 Thessalonians 4:17: ἀπάντησις, going out of the city to welcome an arriving guest and escort him back. If believers did this for a chained apostle, how much more will the whole church go out to meet its returning King."
+    },
+    {
+      "title": "Jesus Taken Up in a Cloud",
+      "ref": "Acts 1:6-11",
+      "relatedVerses": "v. 16-17",
+      "summary": "Forty days after His resurrection, Jesus gathered His disciples on the Mount of Olives. He told them they would receive power when the Holy Spirit came on them and would be His witnesses to the ends of the earth. “When he had said these things, as they were looking, he was taken up, and a cloud received him out of their sight” (Acts 1:9). As they stared upward, two men in white appeared and said, “This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky” (Acts 1:11). 1 Thessalonians 4 describes that return: the Lord Himself descending from heaven, and His people caught up in the clouds to meet Him."
+    }
+  ]
+}

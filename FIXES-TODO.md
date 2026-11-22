@@ -29,11 +29,13 @@ node -e "for (const b of ['philemon','2john','3john','jude']) console.log(b, req
 
 ---
 
-## 2. Quotations printed in non-WEB wording (33 items) — real errors
+## 2. Quotations printed in non-WEB wording (42 items) — real errors
 
 These quotation marks contain words that do not appear anywhere in the WEB text (usually
 KJV/NIV wording or a paraphrase written as a quotation). Fix each by replacing the quoted words
 with the exact WEB wording, or by removing the quotation marks if it is meant as a paraphrase.
+
+On 2026-11-22 the verifier began checking quotations followed by “(v. N)”, which it had been skipping. That found 14 more; the 5 in 1 Corinthians, Philippians and Colossians were fixed at once, and the rest are listed here.
 
 To see the list again at any time:
 
@@ -41,6 +43,7 @@ To see the list again at any time:
 node build/verify-content.mjs
 ```
 
+- [ ] `2corinthians/chapter-2.json .scripture[v9]` — “forgive him, comfort him” → (v. 7) and
 - [ ] `2corinthians/chapter-2.json commentary.sections[0].paragraphs[0]` — “fightings outside, fear inside” → 7:5
 - [ ] `2corinthians/chapter-4.json commentary.sections[0].paragraphs[0]` — “his letters are weighty and strong, but his bodily presence is weak, and his speech is des…” → 10:10
 - [ ] `2corinthians/chapter-5.json visualMeditations[1].image` — “we must all be revealed before the bēma of Christ,” (reference before quote: Acts 18:12)
@@ -48,17 +51,23 @@ node build/verify-content.mjs
 - [ ] `2corinthians/chapter-6.json commentary.sections[1].paragraphs[0]` — “His letters are weighty and strong, but his bodily presence is weak, and his speech is des…” → 10:10
 - [ ] `2corinthians/chapter-10.json storyConnections[1].summary` — “Don't look on his face, or on the height of his stature, because I have rejected him; for ” (reference before quote: 2 Corinthians 10:7)
 - [ ] `2corinthians/chapter-11.json lifeApplication.practices[0].body` — “This is where the power of Christ rests on me” → 12:9
+- [ ] `acts/chapter-17.json commentary.sections[1].paragraphs[0]` — “they act contrary to the decrees of Caesar, saying that there is another king, Jesus” → (v. 7) — and a
 - [ ] `ephesians/chapter-4.json lexicon[4].insight` — “he began to be sorrowful and severely troubled” → Matthew 26:37
 - [ ] `john/chapter-1.json commentary.ntConnection.paragraphs[0]` — “For by him all things were created... all things have been created through him and for him…” → Colossians 1:16-17
 - [ ] `john/chapter-1.json commentary.ntConnection.paragraphs[0]` — “upholds all things by the word of his power” → Hebrews 1:2-3
 - [ ] `john/chapter-14.json commentary.ntConnection.paragraphs[1]` — “there is no other name under heaven, given among men, by which we must be saved” → Acts 4:12
+- [ ] `john/chapter-14.json storyConnections[1].summary` — “teach all things and remind” → (v. 26) turned
 - [ ] `john/chapter-18.json commentary.sections[0].paragraphs[1]` — “No one takes it from me, but I lay it down of myself,” → 10:18
 - [ ] `john/chapter-19.json commentary.sections[1].paragraphs[1]` — “No one takes it from me, but I lay it down of myself” → John 10:18
 - [ ] `john/chapter-19.json commentary.ntConnection.paragraphs[1]` — “wiped out the handwriting in ordinances which was against us... having nailed it to the cr…” → Colossians 2:14
 - [ ] `luke/chapter-9.json commentary.ntConnection.paragraphs[0]` — “we did not follow cunningly devised fables, when we made known to you the power and coming” (reference before quote: 2 Peter 1:16)
+- [ ] `malachi/chapter-1.json lexicon[1].insight` — “great beyond the border of Israel” → (v. 5); His na
 - [ ] `mark/chapter-5.json commentary.ntConnection.paragraphs[1]` — “Christ has been raised from the dead, the first fruits of those who are asleep” → 1 Corinthians 15:20
 - [ ] `mark/chapter-7.json commentary.ntConnection.paragraphs[0]` — “What God has cleansed, you must not call common” → Acts 10:15
 - [ ] `mark/chapter-7.json commentary.ntConnection.paragraphs[1]` — “God has shown me that I should not call any man common or unclean” → Acts 10:28
+- [ ] `matthew/chapter-10.json lexicon[3].insight` — “are not able to kill the psyche” → (v. 28), so th
+- [ ] `matthew/chapter-10.json holySpiritRevelation.items[2].body` — “Everyone who confesses me before men, him I will also confess… but whoever denies me befor” → (v. 32-33). Th
+- [ ] `matthew/chapter-16.json commentary.ntConnection.paragraphs[1]` — “take up your cross” → (v. 24) is ans
 - [ ] `matthew/chapter-24.json commentary.ntConnection.paragraphs[0]` — “the Lord himself will descend from heaven with... the trumpet of God... and... we... will ” (reference before quote: 1 Thessalonians 4:16)
 - [ ] `matthew/chapter-24.json commentary.ntConnection.paragraphs[1]` — “scoffers will come... saying, ‘Where is the promise of his coming?’... But the day of the …” → 2 Peter 3:3-10
 - [ ] `matthew/chapter-24.json storyConnections[0].summary` — “dash you to the ground... and not leave in you one stone on another” → Luke 19:44
@@ -70,9 +79,11 @@ node build/verify-content.mjs
 - [ ] `romans/chapter-6.json commentary.ntConnection.paragraphs[0]` — “I have been crucified with Christ, and it is no longer I who live, but Christ lives in me.” (reference before quote: Galatians 2:20)
 - [ ] `romans/chapter-6.json commentary.ntConnection.paragraphs[0]` — “put to death your members which are on the earth” → 3:5
 - [ ] `romans/chapter-6.json commentary.ntConnection.paragraphs[1]` — “his own self bore our sins in his body on the tree, that we, having died to sins, might li…” → 1 Peter 2:24
+- [ ] `romans/chapter-8.json lifeApplication.practices[0].body` — “I am a debtor, but not to you” → (v. 12), and t
 - [ ] `romans/chapter-8.json storyConnections[2].summary` — “As for you, you meant evil against me, but God meant it for good, to save many people aliv…” → Romans 8:28
 - [ ] `romans/chapter-15.json lexicon[0].insight` — “bear one another’s burdens, and so fulfil the law of Christ” → Galatians 6:2
 - [ ] `romans/chapter-15.json lexicon[1].insight` — “receive him as you would receive me” → Romans 15:7
+- [ ] `romans/chapter-15.json lifeApplication.audit[1].body` — “even as Christ also received you” → (v. 7). Which 
 - [ ] `romans/chapter-16.json lexicon[0].insight` — “diakonos of the assembly that is at Cenchreae” (reference before quote: Romans 15:8)
 
 ---
@@ -118,7 +129,7 @@ or by citing each word of a phrase with its own Strong's number.
 
 ---
 
-## 4. Possibly wrong reference (29 items) — review only, mostly false alarms
+## 4. Possibly wrong reference (28 items) — review only, mostly false alarms
 
 The quoted words are genuine WEB text, but the nearest reference after them points somewhere
 else. Usually that reference belongs to a *different* quotation in the same sentence, so most of
@@ -143,7 +154,6 @@ these need no change. Glance at each; fix only where the reference really is wro
 - [ ] `galatians/chapter-5.json lexicon[1].insight` — “neither our fathers nor we were able to bear” → Matthew 11:29-30
 - [ ] `galatians/chapter-6.json commentary.ntConnection.paragraphs[1]` — “Behold, I am making all things new.” → Galatians 6:15
 - [ ] `galatians/final-review.json map.sections[1].body` — “Now that no man is justified by the law before God is evident, for, ‘The righteous will li…” → Romans 1:17
-- [ ] `john/chapter-19.json commentary.ntConnection.paragraphs[0]` — “They will look on him whom they pierced” → Zechariah 12:10
 - [ ] `john/chapter-19.json commentary.ntConnection.paragraphs[0]` — “This is he who came by water and blood, Jesus Christ; not with the water only, but with th…” → John 19:3
 - [ ] `luke/chapter-5.json commentary.ntConnection.paragraphs[0]` — “The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world…” → Luke 5:32
 - [ ] `malachi/chapter-2.json commentary.ntConnection.paragraphs[0]` — “the two shall become one flesh; so that they are no more two, but one flesh. What therefor…” → Malachi 2:15

@@ -1,0 +1,893 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Thessalonians",
+  "chapter": 2,
+  "chapterTitle": "Like a Nursing Mother, Like a Father — Ministry That Gives Its Own Soul",
+  "themeTitle": "“Not the Good News of God Only, but Also Our Own Souls”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "For you yourselves know, brothers, our visit to you wasn’t in vain,",
+      "understanding": "Paul now defends the way he ministered among them. Opponents in Thessalonica seem to have been saying that he was just another travelling preacher who talked big, took people's money and ran when trouble came. Paul answers by appealing to what they saw: “For you yourselves know.” His εἴσοδος, “visit” or arrival — the same word as ‘reception’ in 1:9 — was not κενή, empty, “in vain.” It produced a church.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G1529",
+          "hebrew": "εἴσοδος",
+          "translit": "eísodos",
+          "english": "visit"
+        },
+        {
+          "strongs": "G2756",
+          "hebrew": "κενός",
+          "translit": "kenós",
+          "english": "in vain"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "but having suffered before and been shamefully treated, as you know, at Philippi, we grew bold in our God to tell you the Good News of God in much conflict.",
+      "understanding": "Paul came to Thessalonica straight from Philippi, where he had προπαθόντες, “suffered before,” and been ὑβρισθέντες, “shamefully treated” — stripped, beaten with rods and thrown into the stocks, though a Roman citizen (Acts 16:22–23). ὑβρίζω is the root of ‘hubris’: insolent, humiliating abuse. Yet ἐπαρρησιασάμεθα, “we grew bold” — παρρησία is freedom of speech, plain-spoken courage — ‘in our God’. The boldness did not come from Paul's temperament; it came from God. And they preached ἐν πολλῷ ἀγῶνι, “in much conflict” — ἀγών, the word for an athletic contest or a fight.",
+      "words": [
+        {
+          "strongs": "G4310",
+          "hebrew": "προπάσχω",
+          "translit": "propáschō",
+          "english": "suffered before"
+        },
+        {
+          "strongs": "G5195",
+          "hebrew": "ὑβρίζω",
+          "translit": "hybrízō",
+          "english": "shamefully treated"
+        },
+        {
+          "strongs": "G5375",
+          "hebrew": "Φίλιπποι",
+          "translit": "Phílippoi",
+          "english": "Philippi"
+        },
+        {
+          "strongs": "G3955",
+          "hebrew": "παῤῥησιάζομαι",
+          "translit": "parrhēsiázomai",
+          "english": "grew bold"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        },
+        {
+          "strongs": "G73",
+          "hebrew": "ἀγών",
+          "translit": "agṓn",
+          "english": "conflict"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For our exhortation is not of error, nor of uncleanness, nor in deception.",
+      "understanding": "Three denials. Paul's παράκλησις, appeal or “exhortation,” did not come ἐκ πλάνης, “of error” — from a wrong message; nor ἐξ ἀκαθαρσίας, “of uncleanness” — from impure motives (some itinerant religious teachers were known for sexual exploitation); nor ἐν δόλῳ, “in deception” — δόλος is bait, a trick to catch someone. The gospel was not a trap.",
+      "words": [
+        {
+          "strongs": "G3874",
+          "hebrew": "παράκλησις",
+          "translit": "paráklēsis",
+          "english": "exhortation"
+        },
+        {
+          "strongs": "G4106",
+          "hebrew": "πλάνη",
+          "translit": "plánē",
+          "english": "error"
+        },
+        {
+          "strongs": "G167",
+          "hebrew": "ἀκαθαρσία",
+          "translit": "akatharsía",
+          "english": "uncleanness"
+        },
+        {
+          "strongs": "G1388",
+          "hebrew": "δόλος",
+          "translit": "dólos",
+          "english": "deception"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "But even as we have been approved by God to be entrusted with the Good News, so we speak; not as pleasing men, but God, who tests our hearts.",
+      "understanding": "Instead, Paul has been δεδοκιμάσμεθα, “approved,” tested and found genuine by God — the word for testing metals. So God πιστευθῆναι, “entrusted” him with the gospel, like a valuable deposit. Therefore he speaks “not as pleasing men, but God, who tests our hearts” — the same verb δοκιμάζω again. God tested him before sending him, and God keeps testing his heart now. Compare Galatians 1:10: “if I were still pleasing men, I wouldn’t be a servant of Christ.”",
+      "words": [
+        {
+          "strongs": "G1381",
+          "hebrew": "δοκιμάζω",
+          "translit": "dokimázō",
+          "english": "approved"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "entrusted"
+        },
+        {
+          "strongs": "G700",
+          "hebrew": "ἀρέσκω",
+          "translit": "aréskō",
+          "english": "pleasing"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For neither were we at any time found using words of flattery, as you know, nor a cloak of covetousness (God is witness),",
+      "understanding": "Paul never used κολακεία, “flattery” — telling people what they want to hear to get something from them; nor a πρόφασις πλεονεξίας, “a cloak of covetousness” — a pretext, a mask covering greed. He calls God as μάρτυς, “witness,” because only God can see motives. The Thessalonians could check his words; only God could check his heart.",
+      "words": [
+        {
+          "strongs": "G2850",
+          "hebrew": "κολακεία",
+          "translit": "kolakeía",
+          "english": "flattery"
+        },
+        {
+          "strongs": "G4392",
+          "hebrew": "πρόφασις",
+          "translit": "próphasis",
+          "english": "cloak"
+        },
+        {
+          "strongs": "G4124",
+          "hebrew": "πλεονεξία",
+          "translit": "pleonexía",
+          "english": "covetousness"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witness"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "nor seeking glory from men (neither from you nor from others), when we might have claimed authority as apostles of Christ.",
+      "understanding": "Nor did they seek δόξα, “glory,” honour and reputation, from people. They could have made demands ἐν βάρει, literally ‘with weight’ — “claimed authority,” insisting on their importance or on financial support — as ἀπόστολοι, “apostles of Christ.” But they laid that weight aside. Real authority does not need to throw its weight around.",
+      "words": [
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G922",
+          "hebrew": "βάρος",
+          "translit": "báros",
+          "english": "authority"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostles"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "But we were gentle among you, like a nursing mother cherishes her own children.",
+      "understanding": "“But we were gentle among you.” Here is a real textual question, stated honestly: most manuscripts read ἤπιοι, ‘gentle’ (followed by the WEB); some of the oldest read νήπιοι, ‘infants’ — the Greek words differ by one letter. Either way, the image that follows is clear: ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα, “like a nursing mother cherishes her own children.” τροφός is a nurse who feeds; θάλπω means to keep warm, as a bird broods over its chicks. Paul, the fearless apostle, describes himself as a mother nursing her baby.",
+      "words": [
+        {
+          "strongs": "G2261",
+          "hebrew": "ἤπιος",
+          "translit": "ḗpios",
+          "english": "gentle"
+        },
+        {
+          "strongs": "G5162",
+          "hebrew": "τροφός",
+          "translit": "trophós",
+          "english": "nursing mother"
+        },
+        {
+          "strongs": "G2282",
+          "hebrew": "θάλπω",
+          "translit": "thálpō",
+          "english": "cherishes"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Even so, affectionately longing for you, we were well pleased to impart to you, not the Good News of God only, but also our own souls, because you had become very dear to us.",
+      "understanding": "ὁμειρόμενοι — Strong's lists the form ἱμείρομαι — “affectionately longing,” a rare and tender word for yearning. Paul's team εὐδοκοῦμεν, “were well pleased,” to μεταδοῦναι, “impart,” share, not only the Good News but τὰς ἑαυτῶν ψυχάς, “our own souls” — ψυχή, the word of the life family for one's very self, one's life (as when the Good Shepherd lays down His ψυχή, John 10:11). They did not just deliver a message; they gave themselves. Why? “Because you had become very dear to us” — ἀγαπητοί, beloved.",
+      "words": [
+        {
+          "strongs": "G2442",
+          "hebrew": "ἱμείρομαι",
+          "translit": "himeíromai",
+          "english": "affectionately longing"
+        },
+        {
+          "strongs": "G2106",
+          "hebrew": "εὐδοκέω",
+          "translit": "eudokéō",
+          "english": "well pleased"
+        },
+        {
+          "strongs": "G3330",
+          "hebrew": "μεταδίδωμι",
+          "translit": "metadídōmi",
+          "english": "impart"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "souls"
+        },
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "dear"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "For you remember, brothers, our labor and travail; for working night and day, that we might not burden any of you, we preached to you the Good News of God.",
+      "understanding": "A verse that uses three words from the work family at once. “Our labor” is κόπος, toil to the point of weariness; “and travail” is μόχθος, hardship, hard struggle; and “working” is ἐργαζόμενοι, the ordinary verb for earning a living. Paul worked νυκτὸς καὶ ἡμέρας, “night and day” — probably at his trade of tent-making (Acts 18:3) — so as not to ἐπιβαρῆσαι, “burden,” be a financial weight on anyone. And he still ἐκηρύξαμεν, “preached,” like a herald. The gospel was free, so Paul paid the cost himself.",
+      "words": [
+        {
+          "strongs": "G3421",
+          "hebrew": "μνημονεύω",
+          "translit": "mnēmoneúō",
+          "english": "remember"
+        },
+        {
+          "strongs": "G2873",
+          "hebrew": "κόπος",
+          "translit": "kópos",
+          "english": "labor"
+        },
+        {
+          "strongs": "G3449",
+          "hebrew": "μόχθος",
+          "translit": "móchthos",
+          "english": "travail"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "working"
+        },
+        {
+          "strongs": "G1912",
+          "hebrew": "ἐπιβαρέω",
+          "translit": "epibaréō",
+          "english": "burden"
+        },
+        {
+          "strongs": "G2784",
+          "hebrew": "κηρύσσω",
+          "translit": "kērýssō",
+          "english": "preached"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "You are witnesses with God, how holy, righteously, and blamelessly we behaved ourselves toward you who believe.",
+      "understanding": "Paul calls two witnesses: the Thessalonians, who saw his conduct, and God, who saw his heart. Three adverbs: ὁσίως, “holy” — devoutly, toward God; δικαίως, “righteously” — justly, toward people; ἀμέμπτως, “blamelessly” — so that no one could fairly accuse them. A minister's life is part of his message.",
+      "words": [
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witnesses"
+        },
+        {
+          "strongs": "G3743",
+          "hebrew": "ὁσίως",
+          "translit": "hosíōs",
+          "english": "holy"
+        },
+        {
+          "strongs": "G1346",
+          "hebrew": "δικαίως",
+          "translit": "dikaíōs",
+          "english": "righteously"
+        },
+        {
+          "strongs": "G274",
+          "hebrew": "ἀμέμπτως",
+          "translit": "amémptōs",
+          "english": "blamelessly"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "As you know, we exhorted, comforted, and implored every one of you, as a father does his own children,",
+      "understanding": "The image changes from mother to father. A mother nurtures (v. 7); a father trains and urges forward. Three verbs: παρακαλοῦντες, “exhorted” — urged, called alongside; παραμυθούμενοι, “comforted” — encouraged, especially those who are discouraged or grieving; μαρτυρόμενοι, “implored” — solemnly charged, as one who testifies. And ἕνα ἕκαστον, “every one of you”: individual, personal care, not just crowd preaching.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhorted"
+        },
+        {
+          "strongs": "G3888",
+          "hebrew": "παραμυθέομαι",
+          "translit": "paramythéomai",
+          "english": "comforted"
+        },
+        {
+          "strongs": "G3143",
+          "hebrew": "μαρτύρομαι",
+          "translit": "martýromai",
+          "english": "implored"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "father"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "to the end that you should walk worthily of God, who calls you into his own Kingdom and glory.",
+      "understanding": "The goal of all this fathering: that they would περιπατεῖν ἀξίως τοῦ θεοῦ, “walk worthily of God” — live in a way that fits the God they belong to, like an ambassador who represents his king well. And this God is τοῦ καλοῦντος, “who calls you” — present tense, continually calling — εἰς τὴν ἑαυτοῦ βασιλείαν καὶ δόξαν, “into his own Kingdom and glory.” The calling has a destination: God's own reign and splendour.",
+      "words": [
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        },
+        {
+          "strongs": "G516",
+          "hebrew": "ἀξίως",
+          "translit": "axíōs",
+          "english": "worthily"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "calls"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "For this cause we also thank God without ceasing, that, when you received from us the word of the message of God, you accepted it not as the word of men, but, as it is in truth, the word of God, which also works in you who believe.",
+      "understanding": "Paul thanks God ἀδιαλείπτως, “without ceasing,” that when they παραλαβόντες, “received,” the λόγον ἀκοῆς, “the word of the message” (literally, the word heard), they ἐδέξασθε, “accepted” it — welcomed it — not as λόγον ἀνθρώπων, “the word of men,” but καθώς ἐστιν ἀληθῶς, “as it is in truth, the word of God.” Then a power-family word: ὃς καὶ ἐνεργεῖται, “which also works in you who believe.” ἐνεργέω is the verb of ἐνέργεια: God's power actively at work. The word of God is not inert information; it operates inside those who believe it.",
+      "words": [
+        {
+          "strongs": "G2168",
+          "hebrew": "εὐχαριστέω",
+          "translit": "eucharistéō",
+          "english": "thank"
+        },
+        {
+          "strongs": "G3880",
+          "hebrew": "παραλαμβάνω",
+          "translit": "paralambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G189",
+          "hebrew": "ἀκοή",
+          "translit": "akoḗ",
+          "english": "message"
+        },
+        {
+          "strongs": "G1209",
+          "hebrew": "δέχομαι",
+          "translit": "déchomai",
+          "english": "accepted"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G230",
+          "hebrew": "ἀληθῶς",
+          "translit": "alēthōs",
+          "english": "in truth"
+        },
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For you, brothers, became imitators of the assemblies of God which are in Judea in Christ Jesus; for you also suffered the same things from your own countrymen, even as they did from the Jews;",
+      "understanding": "The proof that the word was working: they became μιμηταί, “imitators,” of the churches of God ἐν τῇ Ἰουδαίᾳ, “in Judea” — the first Jewish churches, who suffered at the hands of their own people. The Thessalonians ἐπάθετε, “suffered,” the same things from their own συμφυλετῶν, “countrymen,” fellow citizens. Persecution did not mean they had gone wrong; it meant they were walking the same road as the first believers.",
+      "words": [
+        {
+          "strongs": "G3402",
+          "hebrew": "μιμητής",
+          "translit": "mimētḗs",
+          "english": "imitators"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assemblies"
+        },
+        {
+          "strongs": "G2449",
+          "hebrew": "Ἰουδαία",
+          "translit": "Ioudaía",
+          "english": "Judea"
+        },
+        {
+          "strongs": "G3958",
+          "hebrew": "πάσχω",
+          "translit": "páschō",
+          "english": "suffered"
+        },
+        {
+          "strongs": "G4853",
+          "hebrew": "συμφυλέτης",
+          "translit": "symphylétēs",
+          "english": "countrymen"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "who killed both the Lord Jesus and their own prophets, and drove us out, and didn’t please God, and are contrary to all men;",
+      "understanding": "These verses (15–16) are hard and must be read carefully. Paul, himself a Jew who said he could wish himself “accursed from Christ for my brothers’ sake” (Romans 9:3), is describing specific opponents in Judea who persecuted the church, as Jesus Himself had said Jerusalem ‘kills the prophets’ (Matthew 23:37). ἀποκτεινάντων, “killed”: the leaders who handed Jesus over and the long history of rejecting προφῆται, prophets. ἐκδιωξάντων, “drove us out” — persecuted relentlessly. This is not a verdict on the Jewish people as a whole, and it can never justify hatred; Paul insists that God has not rejected His people (Romans 11:1).",
+      "words": [
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "killed"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G1559",
+          "hebrew": "ἐκδιώκω",
+          "translit": "ekdiṓkō",
+          "english": "drove us out"
+        },
+        {
+          "strongs": "G700",
+          "hebrew": "ἀρέσκω",
+          "translit": "aréskō",
+          "english": "please"
+        },
+        {
+          "strongs": "G1727",
+          "hebrew": "ἐναντίος",
+          "translit": "enantíos",
+          "english": "contrary"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "forbidding us to speak to the Gentiles that they may be saved; to fill up their sins always. But wrath has come on them to the uttermost.",
+      "understanding": "The heart of their opposition: κωλυόντων, “forbidding us to speak to the Gentiles (ἔθνη) that they may be saved (σωθῶσιν).” Blocking others from salvation is the gravest offence. The result: εἰς τὸ ἀναπληρῶσαι αὐτῶν τὰς ἁμαρτίας, “to fill up their sins always” — echoing Jesus' words, “Fill up, then, the measure of your fathers” (Matthew 23:32). And ἔφθασεν δὲ ἐπ᾽ αὐτοὺς ἡ ὀργὴ εἰς τέλος, “But wrath has come on them to the uttermost” — or ‘at last’, ‘completely’. Paul may be pointing ahead to the judgment that fell on Jerusalem in AD 70.",
+      "words": [
+        {
+          "strongs": "G2967",
+          "hebrew": "κωλύω",
+          "translit": "kōlýō",
+          "english": "forbidding"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "Gentiles"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        },
+        {
+          "strongs": "G378",
+          "hebrew": "ἀναπληρόω",
+          "translit": "anaplēróō",
+          "english": "fill up"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "télos",
+          "english": "uttermost"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "But we, brothers, being bereaved of you for a short season, in presence, not in heart, tried even harder to see your face with great desire,",
+      "understanding": "Now the tone softens completely. ἀπορφανισθέντες, “being bereaved of you” — literally ‘being orphaned’. Paul feels like a parent torn away from his children, or a child torn from parents. Then a word-family pair for time: πρὸς καιρὸν ὥρας, “for a short season” — καιρός, a period, an occasion, and ὥρα, an hour: ‘for the space of an hour’. The separation was short in time, but it felt long. Absent “in presence, not in heart” — literally ‘in face, not in heart’ — he longed to see their πρόσωπον, face, ἐν πολλῇ ἐπιθυμίᾳ, “with great desire.” ἐπιθυμία is usually ‘lust’; here it is holy longing.",
+      "words": [
+        {
+          "strongs": "G642",
+          "hebrew": "ἀπορφανίζω",
+          "translit": "aporphanízō",
+          "english": "bereaved"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "season"
+        },
+        {
+          "strongs": "G5610",
+          "hebrew": "ὥρα",
+          "translit": "hṓra",
+          "english": "short"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "desire"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "because we wanted to come to you—indeed, I, Paul, once and again—but Satan hindered us.",
+      "understanding": "“We wanted (ἠθελήσαμεν) to come to you — indeed, I, Paul, once and again — but Satan hindered us.” ἐνέκοψεν, “hindered,” is a military word for breaking up a road to stop an advancing army. Paul does not say how Satan did it — perhaps through the bond Jason had to give the city rulers (Acts 17:9), which may have prevented Paul's return. Paul sees spiritual opposition behind circumstances, yet he is not defeated by it: he sends Timothy instead (3:2).",
+      "words": [
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "wanted"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        },
+        {
+          "strongs": "G1465",
+          "hebrew": "ἐγκόπτω",
+          "translit": "enkóptō",
+          "english": "hindered"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "For what is our hope, or joy, or crown of rejoicing? Isn’t it even you, before our Lord Jesus at his coming?",
+      "understanding": "“For what is our hope (ἐλπίς), or joy (χαρά), or crown (στέφανος) of rejoicing (καυχήσεως)?” The στέφανος was the victor's wreath at the games, and καύχησις is boasting, exultation. Paul's answer: “Isn’t it even you, before our Lord Jesus at his coming?” This is the first use of παρουσία in the letter — the ‘presence’ or ‘arrival’ of a king on a royal visit. When Jesus comes, Paul wants to stand before Him with these believers as his prize.",
+      "words": [
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        },
+        {
+          "strongs": "G4735",
+          "hebrew": "στέφανος",
+          "translit": "stéphanos",
+          "english": "crown"
+        },
+        {
+          "strongs": "G2746",
+          "hebrew": "καύχησις",
+          "translit": "kaúchēsis",
+          "english": "rejoicing"
+        },
+        {
+          "strongs": "G3952",
+          "hebrew": "παρουσία",
+          "translit": "parousía",
+          "english": "coming"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "For you are our glory and our joy.",
+      "understanding": "“For you are our glory (δόξα) and our joy (χαρά).” The men who refused to seek δόξα from people (v. 6) find their δόξα in the people themselves. A pastor's glory is not his reputation; it is the believers he has served, standing firm in Christ. As Paul says to the Philippians, “my joy and crown, so stand firm in the Lord” (Philippians 4:1).",
+      "words": [
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Nursing Mother and the Father",
+      "verseRef": "v. 7-12",
+      "image": "Picture a young mother at night, holding her newborn close against her to keep the child warm. She is exhausted, yet she would not be anywhere else. Every cry draws her near; she feeds the child from her own body. Now picture a father years later, walking beside his growing son, one hand on his shoulder. He encourages him when he succeeds, comforts him when he fails, and looks him in the eye to charge him with the kind of life he must live. Both pictures are of one person: the apostle Paul, describing how he cared for a group of new believers in Thessalonica.",
+      "meaning": "Paul says, “But we were gentle among you, like a nursing mother cherishes her own children” (v. 7), and “we exhorted, comforted, and implored every one of you, as a father does his own children” (v. 11). True spiritual leadership combines both: the gentle, self-giving care of a mother and the steady, purposeful training of a father. It is not a performance from a platform; it is family. And it costs: they shared “not the Good News of God only, but also our own souls” (v. 8). Who has been a spiritual mother or father to you? Whom is God asking you to nurture?"
+    },
+    {
+      "title": "The Tent-Maker's Lamp",
+      "verseRef": "v. 9",
+      "image": "Picture a small workshop in Thessalonica long after dark. An oil lamp flickers on a bench. A man in his forties sits with a heavy needle and thick goat-hair cloth, stitching a tent seam by seam. His fingers are calloused, his back aches, and his eyes are tired. Tomorrow at dawn he will be at the bench again, and between customers he will talk to anyone who comes in about Jesus the Messiah. In the evenings he will teach the believers who crowd into Jason's house. He will not take a coin from them.",
+      "meaning": "Paul writes, “For you remember, brothers, our labor and travail; for working night and day, that we might not burden any of you, we preached to you the Good News of God” (v. 9). Three work-family words in one verse: κόπος (toil that wears you out), μόχθος (hardship) and ἐργάζομαι (working for a living). Paul had every right to be supported, but he gave it up so that no one could say he preached for money. The gospel is free; the messenger sometimes pays the price to keep it that way."
+    },
+    {
+      "title": "The Word That Keeps Working",
+      "verseRef": "v. 13",
+      "image": "Picture a seed dropped into dark soil. Nothing seems to happen. Days pass. Under the surface, though, it is splitting, sending down roots and pushing up a shoot. It is alive, and it is working. Now picture a dockworker in Thessalonica who heard Paul speak in the synagogue weeks ago. He went home and carried on with his life. But the words would not leave him. Slowly, his anger toward his family softened, his drinking stopped, he began to pray. Something he could not explain was working in him from the inside.",
+      "meaning": "Paul thanks God that “when you received from us the word of the message of God, you accepted it not as the word of men, but, as it is in truth, the word of God, which also works in you who believe” (v. 13). The verb is ἐνεργέω, from the power family — power in operation. The word of God is “living and active” (Hebrews 4:12). When you receive it as God's word, not just a human opinion, it keeps working long after you have closed your Bible. The key is how you receive it: as the word of men, or as the word of God."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "A Visit That Was Not in Vain (v. 1-2)",
+        "body": "Fresh from abuse in Philippi, Paul's team boldly preached the gospel in Thessalonica in the midst of great conflict."
+      },
+      {
+        "label": "Pure Motives, Approved by God (v. 3-6)",
+        "body": "Their message was not error, impurity or a trick; entrusted by God, they spoke to please Him, not people — no flattery, no greed, no seeking glory or using apostolic weight."
+      },
+      {
+        "label": "Mother and Father (v. 7-12)",
+        "body": "They were gentle like a nursing mother, shared their own lives, worked night and day not to burden anyone, lived blamelessly, and urged each one like a father to walk worthy of God who calls them into His kingdom and glory."
+      },
+      {
+        "label": "The Word at Work in Suffering (v. 13-16)",
+        "body": "The Thessalonians received the message as the word of God, which works in believers, and suffered from their own people as the Judean churches did from those who killed the Lord Jesus and the prophets and hindered the gospel."
+      },
+      {
+        "label": "Longing to See Them (v. 17-20)",
+        "body": "Torn away from them like an orphan, Paul longed to return but Satan hindered him; they are his hope, joy and crown before the Lord Jesus at His coming."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "A Ministry Opened to Inspection",
+        "paragraphs": [
+          "Chapter 2 is Paul's defence of his ministry, and it shows what genuine gospel ministry looks like. After Paul left Thessalonica in a hurry, his opponents seem to have spread suspicion: he was a fraud, a travelling preacher out for money and admirers, who disappeared when danger came. The ancient world was full of such wandering teachers. So Paul opens his life for inspection, appealing again and again to what the Thessalonians themselves saw: “For you yourselves know” (v. 1), “as you know” (v. 2), “as you know” (v. 5), “For you remember” (v. 9), “You are witnesses” (v. 10).",
+          "His first point is courage. Paul arrived in Thessalonica with fresh wounds from Philippi, where he “suffered before and been shamefully treated” (v. 2). A man in ministry for selfish reasons would have chosen an easier town. Instead, “we grew bold in our God to tell you the Good News of God in much conflict” (v. 2). The source of his boldness is ‘in our God’. Courage in ministry is not a personality trait; it is a gift from God to those who know they have been sent.",
+          "His second point is motive. Paul denies error, impurity and deception (v. 3), and flattery, greed and glory-seeking (vv. 5–6). Positively, he has been tested and entrusted with the gospel by God, so he speaks “not as pleasing men, but God, who tests our hearts” (v. 4). Paul makes the same point to the Corinthians: “For we are not as so many, peddling the word of God” (2 Corinthians 2:17). Every preacher, teacher and witness is tempted to please people. The cure is remembering who tests the heart."
+        ]
+      },
+      {
+        "heading": "Mother, Father and Labourer",
+        "paragraphs": [
+          "Paul uses two surprising family pictures for his ministry. First: “But we were gentle among you, like a nursing mother cherishes her own children” (v. 7). The apostle who faced mobs and beatings describes himself in the most tender image possible. His affection was real: “Even so, affectionately longing for you, we were well pleased to impart to you, not the Good News of God only, but also our own souls, because you had become very dear to us” (v. 8). The gospel was not a product he delivered; it came wrapped in his own life.",
+          "That self-giving was costly. “For you remember, brothers, our labor and travail; for working night and day, that we might not burden any of you, we preached to you the Good News of God” (v. 9). Paul was a tent-maker by trade (Acts 18:3). He supported himself so that no one could say he preached for profit. He later told the Ephesian elders, “these hands served my necessities” (Acts 20:34), and he repeated the point to the Thessalonians themselves (2 Thessalonians 3:8). The three words for work in verse 9 — κόπος, μόχθος, ἐργάζομαι — make the same point three times: this ministry cost Paul sweat and sleep.",
+          "Then the second picture: “we exhorted, comforted, and implored every one of you, as a father does his own children” (v. 11). A mother nurtures; a father directs. Paul urged them forward with a purpose: “that you should walk worthily of God, who calls you into his own Kingdom and glory” (v. 12). Gentle care without direction produces comfortable but immature believers. Direction without gentleness produces fearful ones. Paul gave both, and he gave them to “every one of you” (v. 11) — personal, not just public, ministry."
+        ]
+      },
+      {
+        "heading": "The Word at Work, the Enemy at Work",
+        "paragraphs": [
+          "Verse 13 turns from the messengers to the message: “you accepted it not as the word of men, but, as it is in truth, the word of God, which also works in you who believe.” This is one of the clearest statements in the New Testament about the nature of the apostolic preaching. It came through human words, but it was God's word. And it ‘works’ — the verb ἐνεργέω, God's power in action — in those who believe. The evidence was that the Thessalonians kept going under persecution: they became imitators of the Judean churches, suffering from their own countrymen (v. 14).",
+          "Verses 15–16 are among the hardest in Paul's letters, and they must be read with care. Paul, a Jew who loved his people deeply (Romans 9:3), speaks of those Judeans who opposed the gospel: they killed the Lord Jesus and the prophets, drove out the apostles and tried to stop the Gentiles hearing the message of salvation. He is describing the actions of particular opponents in his own generation, as the Jewish prophets and Jesus Himself had rebuked Israel's leaders. These words have been terribly misused to justify hatred of Jewish people; that misuse contradicts Paul, who insisted that God had not rejected His people (Romans 11:1) and looked forward to the day when “all Israel will be saved” (Romans 11:26).",
+          "The chapter ends with longing. Paul felt “bereaved” (v. 17) — orphaned — from them. He tried “once and again” to return, “but Satan hindered us” (v. 18). Paul recognised spiritual opposition, but he was not paralysed by it. His heart was fixed on the future: “For what is our hope, or joy, or crown of rejoicing? Isn’t it even you, before our Lord Jesus at his coming?” (v. 19). The first mention of Christ's παρουσία in the letter is personal: Paul pictures the day of Jesus' return as the day he will stand with these believers before the King."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Paul's Pattern of Ministry Across His Letters",
+      "paragraphs": [
+        "The principles of chapter 2 reappear wherever Paul defends his ministry. On pleasing God rather than people: “For am I now seeking the favor of men, or of God? Or am I striving to please men? For if I were still pleasing men, I wouldn’t be a servant of Christ” (Galatians 1:10). On honest handling of the message: “not walking in craftiness, nor handling the word of God deceitfully; but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God” (2 Corinthians 4:2).",
+        "On supporting himself so as not to hinder the gospel: “Nevertheless we did not use this right, but we bear all things, that we may cause no hindrance to the Good News of Christ” (1 Corinthians 9:12). And to the Ephesian elders: “In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, ‘It is more blessed to give than to receive’” (Acts 20:35). Paul's working hands were part of his message.",
+        "On spiritual parenthood: “For though you have ten thousand tutors in Christ, you don’t have many fathers. For in Christ Jesus, I became your father through the Good News” (1 Corinthians 4:15). And to the Galatians he even uses a mother's image: “My little children, of whom I am again in travail until Christ is formed in you” (Galatians 4:19). And on the living power of the word received as God's word: “For the word of God is living and active, and sharper than any two-edged sword” (Hebrews 4:12)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Test / approve",
+      "hebrew": "δοκιμάζω",
+      "translit": "dokimázō",
+      "strongs": "G1381",
+      "verses": "v. 4",
+      "insight": "Strong's: “to test (literally or figuratively); by implication, to approve.” The word was used for assaying metals and coins: testing them to prove they were genuine. Paul uses it twice in verse 4: God approved him (tested and found him genuine), and God keeps testing his heart. Ministry is not self-appointed; it is a trust from God, given after testing and held under continuing examination. The question for every servant of God is not ‘What do people think of me?’ but ‘What does God find when He tests my heart?’"
+    },
+    {
+      "english": "Nursing mother / nurse",
+      "hebrew": "τροφός",
+      "translit": "trophós",
+      "strongs": "G5162",
+      "verses": "v. 7",
+      "insight": "Strong's: “a nourisher, i.e. nurse.” From τρέφω, to feed, nourish. It is used only here in the New Testament. With the phrase ‘her own children’, it points to a mother nursing her own babies, not a hired nurse caring for someone else's. Paul chooses the most tender, self-giving image of care he can find. Combined with θάλπω — to keep warm, as a bird broods over its young — it shows that the apostle's authority was expressed through gentleness, not domination."
+    },
+    {
+      "english": "Travail / hardship",
+      "hebrew": "μόχθος",
+      "translit": "móchthos",
+      "strongs": "G3449",
+      "verses": "v. 9",
+      "insight": "Strong's: “toil, i.e. (by implication) sadness.” μόχθος always appears with κόπος in the New Testament (2 Corinthians 11:27; 2 Thessalonians 3:8). κόπος stresses the weariness that labour produces; μόχθος stresses the hardship and struggle involved. Together they describe work that is both exhausting and difficult. Paul chose this kind of labour so that his gospel would cost his hearers nothing. Love in action often looks like tired hands."
+    },
+    {
+      "english": "Work / be at work (effectively)",
+      "hebrew": "ἐνεργέω",
+      "translit": "energéō",
+      "strongs": "G1754",
+      "verses": "v. 13",
+      "insight": "Strong's: “to be active, efficient.” It is the verb of ἐνέργεια, ‘energy’, and belongs to the power family: not power in potential but power in operation. Paul uses it of God who “works in you both to will and to work, for his good pleasure” (Philippians 2:13). In verse 13 it is the word of God that works in believers. The same word that created the universe keeps working inside those who receive it as God's word — reshaping desires, building endurance, producing fruit."
+    },
+    {
+      "english": "Coming / arrival / royal visit",
+      "hebrew": "παρουσία",
+      "translit": "parousía",
+      "strongs": "G3952",
+      "verses": "v. 19",
+      "insight": "Strong's: “a being near, i.e. advent (often, return; specially, of Christ to punish Jerusalem, or finally the wicked).” Literally ‘presence’ (παρά, beside, + εἰμί, to be). In the Greek world it was used for the official visit of a king or emperor to a city, with crowds going out to meet him. 1 Thessalonians uses it four times for Jesus' return (2:19; 3:13; 4:15; 5:23). Christians are not waiting for an event but for the arrival of their King."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: whose approval you are living for, what your service is costing you, and how you are receiving God's word.",
+    "items": [
+      {
+        "title": "Who Tests Your Heart?",
+        "body": "Paul spoke “not as pleasing men, but God, who tests our hearts” (v. 4). The Spirit wants to show you where the approval of people has become your hidden motive: in how you serve, what you post, what you say yes to, what you avoid saying. Flattery, the hunger for recognition and the fear of disapproval all grow quietly. Ask Him: ‘Where am I performing for an audience instead of serving You?’ Then bring that area to the One who sees the heart and loves you anyway."
+      },
+      {
+        "title": "Gospel Only, or Gospel and Soul?",
+        "body": "Paul shared “not the Good News of God only, but also our own souls” (v. 8). It is possible to give people correct information about Jesus while keeping your own life at a safe distance. The Spirit may be calling you to open your life: your home, your time, your honest struggles. Discipleship happens most powerfully when someone sees the gospel lived out in a real person who loves them. Whom is He asking you to share your life with, not just your opinions?"
+      },
+      {
+        "title": "The Word of Men or the Word of God?",
+        "body": "The difference in Thessalonica was how they received the message: “not as the word of men, but, as it is in truth, the word of God” (v. 13). When you read Scripture or hear it preached, do you treat it as advice to consider, or as God speaking to you? The Spirit wants to restore reverence and expectancy. Receive the word as God's, and it will work in you."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Motive Check",
+        "body": "Read verses 3–6 slowly. Which of these hidden motives do you recognise in yourself: wanting to please people, using flattery to get what you want, a hidden desire for gain, seeking glory or throwing your weight around? Name one honestly before God."
+      },
+      {
+        "title": "The Cost Check",
+        "body": "Paul's ministry involved toil and hardship, night and day (v. 9). What is your service to others costing you right now — time, money, sleep, comfort? If the answer is ‘nothing’, ask God where He is calling you to give more of yourself."
+      },
+      {
+        "title": "The Receiving Check",
+        "body": "Think of the last sermon or passage of Scripture that really challenged you. Did you receive it as the word of God (v. 13), or did you treat it as one opinion among many? What would change if you received it as God's word to you?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Mother and Father to One Person",
+        "body": "Choose one younger believer — someone newer in faith or younger in years — and for the next month try to be to them what Paul was to the Thessalonians. Be gentle like a nursing mother: listen, encourage, care for practical needs. Be purposeful like a father: pray for them, gently challenge them, help them see what it means to walk worthy of God. Share your life, not only your advice. Meet or call at least once a week. Ask God each time for the grace to give your own soul."
+      },
+      {
+        "title": "Read the Word as God's Word",
+        "body": "For one week, before you open your Bible, pray verse 13 in your own words: ‘Lord, I receive this not as the word of men but as Your word. Let it work in me.’ After reading, write down one sentence about what God said and one specific way you will act on it that day. At the end of the week, look back and notice how the word has been working in you."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord, You test my heart. Keep me from speaking to please people instead of You. Root out flattery, greed and the hunger for human glory. Make me bold in You to speak the gospel even in conflict. Give me the gentleness of a nursing mother and the steady purpose of a father toward those You place in my care. Teach me to share not only Your word but my own life. Let me work hard and willingly so that the gospel costs others nothing. Help me walk worthily of You, who call me into Your own kingdom and glory. Thank You for Your word, which is not the word of men but truly the word of God. Let it keep working in me. When I suffer for You, let me remember that Your people have walked this road before me. When Satan hinders, let me trust You and keep going. And let the people I have loved and served be my joy and crown before the Lord Jesus at His coming. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Beaten and Singing in Philippi",
+      "ref": "Acts 16:16-40",
+      "relatedVerses": "v. 2",
+      "summary": "Just before Thessalonica, Paul and Silas were in Philippi. After Paul cast a spirit of divination out of a slave girl, her owners lost their income and dragged the missionaries to the authorities. “The multitude rose up together against them, and the magistrates tore their clothes from them, and commanded them to be beaten with rods” (Acts 16:22). Then “When they had laid many stripes on them, they threw them into prison” (Acts 16:23). They sang hymns at midnight, an earthquake opened the prison, and the jailer believed. But the next day they were asked to leave the city. This is the ‘shameful treatment’ of 1 Thessalonians 2:2. With their backs still healing, they walked about a hundred miles along the Roman road to Thessalonica — and preached boldly again."
+    },
+    {
+      "title": "The Tent-Makers of Corinth",
+      "ref": "Acts 18:1-4",
+      "relatedVerses": "v. 9",
+      "summary": "After leaving Thessalonica and passing through Athens, Paul arrived in Corinth — probably the place where he wrote 1 Thessalonians. There he met Aquila and Priscilla, Jewish believers recently expelled from Rome, “and because he practiced the same trade, he lived with them and worked, for by trade they were tent makers” (Acts 18:3). Every Sabbath he reasoned in the synagogue. The apostle who wrote much of the New Testament spent his weekdays cutting and stitching leather and goat-hair cloth. This was the ‘labour and travail, working night and day’ the Thessalonians remembered (2:9). Paul did not see manual work as beneath the gospel; it was part of how he made the gospel free."
+    },
+    {
+      "title": "John Mark's Mother and the Praying Church",
+      "ref": "Acts 12:12-17",
+      "relatedVerses": "v. 7-8, 17",
+      "summary": "When Herod imprisoned Peter, the Jerusalem church gathered to pray in the house of Mary, the mother of John Mark. In the night an angel led Peter out of prison, and he went to that house and knocked. The servant girl Rhoda recognised his voice and, overjoyed, ran to tell the others without opening the door. The believers could hardly believe it, but they let him in, and he told them how the Lord had rescued him. The scene shows the early church as a family that opened its homes and its hearts to one another, just as Paul did in Thessalonica. Like the Judean churches Paul mentions in 2:14, they suffered for Christ, and they survived by prayer, by love and by God's power."
+    }
+  ]
+}
