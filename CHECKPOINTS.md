@@ -184,13 +184,13 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 
 | Doc | Size | Verses | G1 Build | G2 Deep | Notes |
 |-----|------|--------|----------|---------|-------|
-| Master Introduction | 15KB | — | ✅ | ✅ (20 quotes) | Bridge from Colossians (matches its Road Ahead) |
+| Master Introduction | 12KB | — | ✅ | ✅ (20 quotes) | Bridge from Colossians (matches its Road Ahead) |
 | Chapter 1 | 32KB | 10/10 | ✅ | ✅ | 1:3 ἔργον / κόπος; 1:5 λόγος / δύναμις. New **work** family |
 | Chapter 2 | 41KB | 20/20 | ✅ | ✅ | 2:9 three work words; 2:13 ἐνεργέω added to **power**; 2:7 ἤπιοι/νήπιοι and 2:14–16 handled honestly |
 | Chapter 3 | 33KB | 13/13 | ✅ | ✅ | 3:10 δέομαι added to **pray**; ‘exceedingly’ left untagged (no single Strong's entry) |
 | Chapter 4 | 39KB | 18/18 | ✅ | ✅ | 4:9 φιλαδελφία / ἀγαπάω; new **rise** and **sleep** families. Caught & fixed: Greek inside a quote (v. 17) |
 | Chapter 5 | 45KB | 28/28 | ✅ | ✅ | 5:1 χρόνος / καιρός; 5:6 καθεύδω / γρηγορέω; 5:15 ἀγαθός vs 5:21 καλός; new **evil** family |
-| Final Masterclass Review | 18KB | — | ✅ | ✅ (251 quotes) | Road Ahead → 2 Thessalonians, 1 Timothy |
+| Final Masterclass Review | 16KB | — | ✅ | ✅ (251 quotes) | Road Ahead → 2 Thessalonians, 1 Timothy |
 
 - **Book total:** 5 chapters, 89/89 verses, 25 lexicon entries, 251 referenced quotations checked.
 - **Word families:** 19 → 23 families, 77 → 93 words (work, rise, sleep, evil; ἐνεργέω, δέομαι, κοπιάω).
