@@ -389,6 +389,12 @@
           "en": "labor"
         },
         {
+          "strongs": "G2872",
+          "sense": "To labour, to toil to weariness — the verb of κόπος, used of those who work hard in ministry.",
+          "anchor": "1 Thessalonians 5:12",
+          "en": "labor"
+        },
+        {
           "strongs": "G3449",
           "sense": "Hardship, travail — exhausting toil with difficulty and struggle.",
           "anchor": "1 Thessalonians 2:9",
@@ -446,6 +452,37 @@
           "sense": "Debt — something owed; sin pictured as an unpaid debt to God.",
           "anchor": "Matthew 6:12",
           "en": "debts"
+        }
+      ]
+    },
+    {
+      "id": "evil",
+      "name": "Evil & Malice",
+      "lang": "Greek",
+      "english": [
+        "evil",
+        "malice",
+        "wicked"
+      ],
+      "intro": "English ‘evil’ hides two main Greek words. κακός describes what is bad in itself — worthless, harmful in nature. πονηρός describes evil that is active and aggressive, actively doing harm; it is used of ‘the evil one’. 1 Thessalonians 5 uses both: do not repay κακός for κακός (5:15), and abstain from every form of πονηρός (5:22).",
+      "members": [
+        {
+          "strongs": "G2556",
+          "sense": "Bad, evil in nature — worthless, harmful; what is wrong in itself.",
+          "anchor": "1 Thessalonians 5:15",
+          "en": "evil"
+        },
+        {
+          "strongs": "G4190",
+          "sense": "Evil in action — malicious, actively doing harm; ‘the evil one’.",
+          "anchor": "1 Thessalonians 5:22",
+          "en": "evil"
+        },
+        {
+          "strongs": "G2549",
+          "sense": "Malice — badness of heart, ill will that wants harm for others.",
+          "anchor": "Colossians 3:8",
+          "en": "malice"
         }
       ]
     },
