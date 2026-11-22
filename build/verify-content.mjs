@@ -78,6 +78,16 @@ function checkQuotes(text, defaultBook, where, out) {
   const re = /“([^“”]{14,}?)”([^“]{0,40})/g;
   let m;
   while ((m = re.exec(text))) {
+    // “…” (v. 5) / (vv. 9–10): a quotation of the chapter being studied. The chapter is not
+    // known here, so check the words exist in the WEB, and never pair the quote with a later
+    // reference that merely follows it in the same sentence.
+    if (/^\s*\(vv?\.\s*\d/.test(m[2])) {
+      const frags = m[1].replace(/\([^)]*\)|\[[^\]]*\]/g, ' ').split(/…|\.\.\./).map(words).filter(f => f.split(' ').length >= 3);
+      if (!frags.length || /[Ͱ-Ͽἀ-῿]/.test(m[1])) continue;
+      checkedQuotes++;
+      if (frags.some(f => !corpus().includes(f))) out.push(`${where}: NOT-IN-WEB “${m[1].slice(0, 90)}” → ${m[2].trim().slice(0, 14)}`);
+      continue;
+    }
     let r = m[2].match(REF);
     if (!r) {
       // Reference written BEFORE the quotation: “…in 1 Peter 1:5 believers are “…””.

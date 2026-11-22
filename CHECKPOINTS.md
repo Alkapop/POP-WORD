@@ -151,8 +151,8 @@ only marked ✅ when its checks actually ran and passed.
 ### Book queue
 | # | Book | Status |
 |---|------|--------|
-| 51 | Colossians | ✅ built & verified |
-| 52 | 1 Thessalonians (5 ch.) | next — bridge from Colossians; Road Ahead → 2 Thessalonians, 1 Timothy |
+| 51 | Colossians | ✅ live |
+| 52 | 1 Thessalonians | ✅ built & verified |
 
 ---
 
@@ -177,3 +177,32 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 - **Gates:** G1 ✅ · G2 ✅ (backlog unchanged 33/32/29) · G3 ✅ all 16 books · feature test
   20/20 (Ephesians 1:19 siblings, family, concordance, show-all, sibling tap, jump to Acts 19:20,
   Zechariah 4:6 Hebrew family, phone width with no overflow, no console errors).
+
+---
+
+## 2026-11-22 — 1 Thessalonians (first book under the word-family rule)
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 15KB | — | ✅ | ✅ (20 quotes) | Bridge from Colossians (matches its Road Ahead) |
+| Chapter 1 | 32KB | 10/10 | ✅ | ✅ | 1:3 ἔργον / κόπος; 1:5 λόγος / δύναμις. New **work** family |
+| Chapter 2 | 41KB | 20/20 | ✅ | ✅ | 2:9 three work words; 2:13 ἐνεργέω added to **power**; 2:7 ἤπιοι/νήπιοι and 2:14–16 handled honestly |
+| Chapter 3 | 33KB | 13/13 | ✅ | ✅ | 3:10 δέομαι added to **pray**; ‘exceedingly’ left untagged (no single Strong's entry) |
+| Chapter 4 | 39KB | 18/18 | ✅ | ✅ | 4:9 φιλαδελφία / ἀγαπάω; new **rise** and **sleep** families. Caught & fixed: Greek inside a quote (v. 17) |
+| Chapter 5 | 45KB | 28/28 | ✅ | ✅ | 5:1 χρόνος / καιρός; 5:6 καθεύδω / γρηγορέω; 5:15 ἀγαθός vs 5:21 καλός; new **evil** family |
+| Final Masterclass Review | 18KB | — | ✅ | ✅ (251 quotes) | Road Ahead → 2 Thessalonians, 1 Timothy |
+
+- **Book total:** 5 chapters, 89/89 verses, 25 lexicon entries, 251 referenced quotations checked.
+- **Word families:** 19 → 23 families, 77 → 93 words (work, rise, sleep, evil; ἐνεργέω, δέομαι, κοπιάω).
+- **Verifier improved:** quotations followed by “(v. N)” were being skipped or paired with a later
+  reference. They are now checked against the WEB. This found 14 more misquotes site-wide; the 5 in
+  1 Corinthians, Philippians and Colossians were fixed, the rest are in `FIXES-TODO.md`
+  (now 42 NOT-IN-WEB / 32 LEMMA / 28 WRONG-REF).
+- **G3** ✅ all 7 documents render; 1 Corinthians, Philippians and Colossians re-rendered after fixes.
+  Word-panel spot checks 7/7 (5:1, 4:9, 2:9, 5:6, 4:14, 5:22); word-study regression test 20/20.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 52 | 1 Thessalonians | ✅ built & verified |
+| 53 | 2 Thessalonians (3 ch.) | next — bridge from 1 Thessalonians; Road Ahead → 1 Timothy, 2 Timothy |

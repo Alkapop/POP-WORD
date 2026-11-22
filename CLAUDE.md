@@ -21,8 +21,8 @@ copy of `app/` after every change here.
 ## Word families — always say WHICH original word
 English hides several original words behind one word: power (δύναμις, ἐνέργεια, κράτος,
 ἰσχύς, ἐξουσία, ἀρχή), time (χρόνος, καιρός, ὥρα, αἰών, ἡμέρα), love (ἀγαπάω, φιλέω…),
-know, word, life, new, another, world, servant, sin, pray, good, see, and Hebrew names of
-God, sin, love, strength, time. The list is `sources/word-families.json`.
+know, word, life, new, another, world, servant, work, sin, evil, pray, good, see, rise, sleep,
+and Hebrew names of God, sin, love, strength, time. The list is `sources/word-families.json`.
 - Tag the word with its Strong's id and the exact English it renders (`english`).
 - The verse's understanding note names which word it is and how it differs from its siblings.
 - A verse with two or more members of one family: tag them all and make the contrast the point.
@@ -34,7 +34,9 @@ God, sin, love, strength, time. The list is `sources/word-families.json`.
 ## Verification gates — run all before publishing
 1. **G1** `node build/build-data.mjs` — structure, exact WEB text, Strong's ids, word families.
 2. **G2** `node build/verify-content.mjs <bookId> --strict` — lemmas, every referenced quote
-   against the WEB (NOT-IN-WEB, WRONG-REF, reference-before-quote).
+   against the WEB (NOT-IN-WEB, WRONG-REF, reference-before-quote, and quotes marked “(v. N)”).
+   Check its exit code, not just its last line. It cannot catch a wrong Strong's id (the lemma
+   is filled from the id), so look each id up before using it.
 3. **G3** `NODE_PATH=$(npm root -g) node build/render-check.cjs app <bookId> [shotDir]` —
    every document renders in Chromium, verse tap + lexicon panel work, no console errors.
 4. **G4** copy `app/css`, `app/data`, `app/js`, `app/index.html` into POP-WORD-PAGES, then
