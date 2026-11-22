@@ -561,6 +561,72 @@
       ]
     },
     {
+      "id": "rise",
+      "name": "Rise, Raise & Resurrection",
+      "lang": "Greek",
+      "english": [
+        "raise",
+        "raised",
+        "rise",
+        "rose",
+        "resurrection"
+      ],
+      "intro": "Two Greek verbs lie behind ‘raise’ and ‘rise’. ἐγείρω pictures waking someone up; ἀνίστημι pictures standing up again. 1 Thessalonians uses both: God ‘raised’ Jesus (1:10), Jesus ‘rose’ (4:14) and the dead in Christ will ‘rise’ (4:16). The noun ἀνάστασις, resurrection, comes from the second.",
+      "members": [
+        {
+          "strongs": "G1453",
+          "sense": "To wake, to rouse, to raise — often God raising Jesus, as one wakes a sleeper.",
+          "anchor": "1 Thessalonians 1:10",
+          "en": "raised"
+        },
+        {
+          "strongs": "G450",
+          "sense": "To stand up, to rise again — the body standing up out of death.",
+          "anchor": "1 Thessalonians 4:14",
+          "en": "rose"
+        },
+        {
+          "strongs": "G386",
+          "sense": "Resurrection — a standing up again from the dead.",
+          "anchor": "John 11:25",
+          "en": "resurrection"
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep & Wakefulness",
+      "lang": "Greek",
+      "english": [
+        "sleep",
+        "asleep",
+        "sleeping",
+        "watch",
+        "wake"
+      ],
+      "intro": "The New Testament uses two words for ‘sleep’. κοιμάω is the gentle word for believers who have died — they will wake. καθεύδω is ordinary sleep, and in 1 Thessalonians 5 the spiritual drowsiness of those who are not ready. Its opposite is γρηγορέω, to stay awake and watch. In 5:10 Paul uses ‘wake or sleep’ to mean living or having died.",
+      "members": [
+        {
+          "strongs": "G2837",
+          "sense": "To fall asleep — used of believers who have died, because death for them is temporary.",
+          "anchor": "John 11:11",
+          "en": "asleep"
+        },
+        {
+          "strongs": "G2518",
+          "sense": "To sleep, lie down to rest — ordinary sleep; figuratively, spiritual drowsiness.",
+          "anchor": "Mark 5:39",
+          "en": "asleep"
+        },
+        {
+          "strongs": "G1127",
+          "sense": "To stay awake, to watch — alert and ready; the opposite of spiritual sleep.",
+          "anchor": "Colossians 4:2",
+          "en": "watching"
+        }
+      ]
+    },
+    {
       "id": "god-names",
       "name": "Names and Titles of God",
       "lang": "Hebrew",
