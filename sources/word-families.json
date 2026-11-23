@@ -615,6 +615,12 @@
           "sense": "Debt — something owed; sin pictured as an unpaid debt to God.",
           "anchor": "Matthew 6:12",
           "en": "debts"
+        },
+        {
+          "strongs": "G3876",
+          "sense": "‘Mis-hearing’ — παρά + ἀκούω: refusing to listen, disobedience that begins with not hearing. Paired with παράβασις (stepping over the line) in Hebrews 2:2.",
+          "anchor": "Hebrews 2:2",
+          "en": "disobedience"
         }
       ]
     },
@@ -652,6 +658,55 @@
           "sense": "‘Worthless, base’ — the shabby, good-for-nothing kind of wrong: deeds that cannot stand the light (John 3:20) and accusations an opponent might make (Titus 2:8).",
           "anchor": "John 3:20",
           "en": "evil"
+        }
+      ]
+    },
+    {
+      "id": "image",
+      "name": "Image, Form & Likeness",
+      "lang": "Greek",
+      "english": [
+        "image",
+        "form",
+        "likeness"
+      ],
+      "intro": "English ‘image’ and ‘form’ hide several Greek words. εἰκών is a true image or portrait that shares in what it shows (Colossians 1:15); χαρακτήρ is the exact imprint a seal or die leaves (Hebrews 1:3). μορφή is the form that expresses what a thing really is (Philippians 2:6), while σχῆμα is outward appearance and ὁμοίωμα likeness. μόρφωσις can be a mere outward shape without the reality (2 Timothy 3:5).",
+      "members": [
+        {
+          "strongs": "G1504",
+          "sense": "Image, portrait — a likeness that truly represents and shares in its original.",
+          "anchor": "Colossians 1:15",
+          "en": "image"
+        },
+        {
+          "strongs": "G5481",
+          "sense": "Exact imprint — the mark a seal or stamp leaves, matching it line for line.",
+          "anchor": "Hebrews 1:3",
+          "en": "image"
+        },
+        {
+          "strongs": "G3444",
+          "sense": "Form — the outward expression of an inner, essential nature.",
+          "anchor": "Philippians 2:6",
+          "en": "form"
+        },
+        {
+          "strongs": "G3667",
+          "sense": "Likeness — resemblance, being made like something.",
+          "anchor": "Philippians 2:7",
+          "en": "likeness"
+        },
+        {
+          "strongs": "G4976",
+          "sense": "Outward fashion, appearance — the way something presents to the eye.",
+          "anchor": "Philippians 2:8",
+          "en": "form"
+        },
+        {
+          "strongs": "G3446",
+          "sense": "Outward shape — a form that may lack the reality (a ‘form of godliness’).",
+          "anchor": "2 Timothy 3:5",
+          "en": "form"
         }
       ]
     },
@@ -786,6 +841,69 @@
       ]
     },
     {
+      "id": "perfect",
+      "name": "Perfect, Complete & Mature",
+      "lang": "Greek",
+      "english": [
+        "perfect",
+        "perfection",
+        "perfecter",
+        "complete",
+        "full grown"
+      ],
+      "intro": "English ‘perfect’ usually means flawless, but the Greek τέλειος family means reaching the goal (τέλος): complete, mature, fully grown. Hebrews uses it again and again: Christ was ‘made perfect’ — fully qualified as Saviour — through suffering (2:10), and is the ‘perfecter’ of faith (12:2). The law could not bring τελείωσις (7:11). A different root, καταρτίζω / ἄρτιος, means fitted, equipped, mended; ὁλόκληρος means whole in every part.",
+      "members": [
+        {
+          "strongs": "G5048",
+          "sense": "To bring to the goal — complete, make fully qualified, bring to maturity.",
+          "anchor": "Hebrews 2:10",
+          "en": "perfect"
+        },
+        {
+          "strongs": "G5046",
+          "sense": "Complete, mature, full-grown — having reached the goal.",
+          "anchor": "Matthew 5:48",
+          "en": "perfect"
+        },
+        {
+          "strongs": "G5047",
+          "sense": "Maturity, completeness — growing up in the faith.",
+          "anchor": "Hebrews 6:1",
+          "en": "perfection"
+        },
+        {
+          "strongs": "G5050",
+          "sense": "Completion, bringing to the goal — what the old priesthood could not achieve.",
+          "anchor": "Hebrews 7:11",
+          "en": "perfection"
+        },
+        {
+          "strongs": "G5051",
+          "sense": "Completer — one who brings something to its goal (only in Hebrews 12:2).",
+          "anchor": "Hebrews 12:2",
+          "en": "perfecter"
+        },
+        {
+          "strongs": "G2675",
+          "sense": "To fit out, mend, equip completely — like repairing nets or setting a bone.",
+          "anchor": "1 Peter 5:10",
+          "en": "perfect"
+        },
+        {
+          "strongs": "G739",
+          "sense": "Fitted, fully capable — exactly suited for the task.",
+          "anchor": "2 Timothy 3:17",
+          "en": "complete"
+        },
+        {
+          "strongs": "G3648",
+          "sense": "Whole in every part — nothing missing.",
+          "anchor": "James 1:4",
+          "en": "complete"
+        }
+      ]
+    },
+    {
       "id": "pray",
       "name": "Prayer, Asking & Intercession",
       "lang": "Greek",
@@ -900,7 +1018,7 @@
         "saw",
         "look"
       ],
-      "intro": "John 20:5–8 uses three different verbs that the WEB translates ‘saw’: a glance, a careful gaze, and seeing that leads to understanding — ‘he saw and believed’.",
+      "intro": "John 20:5–8 uses three different verbs that the WEB translates ‘saw’: a glance, a careful gaze, and seeing that leads to understanding — ‘he saw and believed’. Hebrews 2:8–9 puts ὁράω and βλέπω side by side.",
       "members": [
         {
           "strongs": "G991",
@@ -925,6 +1043,12 @@
           "sense": "To behold — looking intently and taking in what is seen.",
           "anchor": "John 1:14",
           "en": "saw"
+        },
+        {
+          "strongs": "G3708",
+          "sense": "To see with the eyes or the mind — to perceive, take in. Hebrews 2:8–9 sets it beside βλέπω: we do not yet ‘see’ (ὁράω) everything subject to Him, but we do ‘see’ (βλέπω) Jesus.",
+          "anchor": "Hebrews 2:8",
+          "en": "see"
         }
       ]
     },
@@ -1041,6 +1165,56 @@
           "sense": "To stay awake, to watch — alert and ready; the opposite of spiritual sleep.",
           "anchor": "Colossians 4:2",
           "en": "watching"
+        }
+      ]
+    },
+    {
+      "id": "rest",
+      "name": "Rest & Relief",
+      "lang": "Greek",
+      "english": [
+        "rest",
+        "rested",
+        "Sabbath rest",
+        "relief"
+      ],
+      "intro": "Hebrews 3–4 uses several words for ‘rest’. κατάπαυσις / καταπαύω is settling down to stay — the rest of Canaan and of God’s own rest. σαββατισμός (only in Hebrews 4:9) is a Sabbath-keeping, the rest that celebrates finished work. ἀνάπαυσις / ἀναπαύω is refreshment, a break from toil (Matthew 11:28–29). ἄνεσις is relief, the loosening of pressure.",
+      "members": [
+        {
+          "strongs": "G2663",
+          "sense": "A settling down, a place of rest — the promised land and God’s own rest.",
+          "anchor": "Hebrews 4:1",
+          "en": "rest"
+        },
+        {
+          "strongs": "G2664",
+          "sense": "To bring to rest, to cause to settle; also to cease from work.",
+          "anchor": "Hebrews 4:8",
+          "en": "rest"
+        },
+        {
+          "strongs": "G4520",
+          "sense": "A Sabbath-keeping — the rest that remains for the people of God.",
+          "anchor": "Hebrews 4:9",
+          "en": "Sabbath rest"
+        },
+        {
+          "strongs": "G372",
+          "sense": "Refreshment, a pause from labour.",
+          "anchor": "Matthew 11:29",
+          "en": "rest"
+        },
+        {
+          "strongs": "G373",
+          "sense": "To give rest, refresh; to take one’s rest.",
+          "anchor": "Matthew 11:28",
+          "en": "rest"
+        },
+        {
+          "strongs": "G425",
+          "sense": "Relief — loosening, release from pressure or affliction.",
+          "anchor": "2 Thessalonians 1:7",
+          "en": "relief"
         }
       ]
     },
