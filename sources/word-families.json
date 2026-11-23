@@ -451,7 +451,8 @@
         "transgressions",
         "trespass",
         "lawlessness",
-        "debts"
+        "debts",
+        "unrighteousness"
       ],
       "intro": "The New Testament describes sin from several angles: missing the mark, a false step, crossing a line, living without law, and owing a debt. Ephesians 2:1 uses two of these words together.",
       "members": [
@@ -478,6 +479,12 @@
           "sense": "Lawlessness — living as if no law applied; rebellion against God's rule.",
           "anchor": "1 John 3:4",
           "en": "lawlessness"
+        },
+        {
+          "strongs": "G93",
+          "sense": "Unrighteousness, injustice — what is not right before God or toward people; ‘All unrighteousness is sin’.",
+          "anchor": "1 John 5:17",
+          "en": "unrighteousness"
         },
         {
           "strongs": "G3783",
