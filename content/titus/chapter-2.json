@@ -1,0 +1,880 @@
+{
+  "type": "chapterStudy",
+  "book": "Titus",
+  "chapter": 2,
+  "chapterTitle": "Lives That Adorn the Gospel",
+  "themeTitle": "“The Grace of God Has Appeared”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "But say the things which fit sound doctrine,",
+      "understanding": "σὺ δὲ λάλει ἃ πρέπει τῇ ὑγιαινούσῃ διδασκαλίᾳ, “But say the things which fit sound doctrine.” The ‘but you’ contrasts Titus with the empty talkers of chapter 1. πρέπω means to be fitting, to suit — like clothes that suit the wearer. ὑγιαίνω, ‘sound’, is healthy. Titus is not only to teach correct doctrine but to describe the kind of life that fits it. What follows is not a list of rules but a portrait of healthy believers in every stage of life.",
+      "words": [
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "say"
+        },
+        {
+          "strongs": "G4241",
+          "hebrew": "πρέπω",
+          "translit": "prépō",
+          "english": "fit"
+        },
+        {
+          "strongs": "G5198",
+          "hebrew": "ὑγιαίνω",
+          "translit": "hygiaínō",
+          "english": "sound"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "doctrine"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "that older men should be temperate, sensible, sober minded, sound in faith, in love, and in perseverance:",
+      "understanding": "πρεσβύτας νηφαλίους εἶναι, “that older men should be temperate” — νηφάλιος from the self-control family: clear-headed, not clouded by wine. σεμνούς, “sensible” — dignified, worthy of respect. σώφρονας, “sober minded” — σώφρων, a second member of the same family: a sound, sensible mind. Two kinds of soberness: free from intoxication and free from foolishness. Then: ὑγιαίνοντας τῇ πίστει, τῇ ἀγάπῃ, τῇ ὑπομονῇ, “sound in faith, in love, and in perseverance” — healthy in the great trio, with endurance in place of hope, because old age needs staying power.",
+      "words": [
+        {
+          "strongs": "G4246",
+          "hebrew": "πρεσβύτης",
+          "translit": "presbýtēs",
+          "english": "older men"
+        },
+        {
+          "strongs": "G3524",
+          "hebrew": "νηφάλεος",
+          "translit": "nēpháleos",
+          "english": "temperate"
+        },
+        {
+          "strongs": "G4586",
+          "hebrew": "σεμνός",
+          "translit": "semnós",
+          "english": "sensible"
+        },
+        {
+          "strongs": "G4998",
+          "hebrew": "σώφρων",
+          "translit": "sṓphrōn",
+          "english": "sober minded"
+        },
+        {
+          "strongs": "G5198",
+          "hebrew": "ὑγιαίνω",
+          "translit": "hygiaínō",
+          "english": "sound"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "perseverance"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "and that older women likewise be reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good;",
+      "understanding": "πρεσβύτιδας ὡσαύτως ἐν καταστήματι ἱεροπρεπεῖς, “and that older women likewise be reverent in behavior” — ἱεροπρεπής, ‘fitting for a temple’: their whole demeanour is priestly, as if daily life were worship. μὴ διαβόλους, “not slanderers” — διάβολος, the devil's own name; μὴ οἴνῳ πολλῷ δεδουλωμένας, “nor enslaved to much wine” — δουλόω, from the servant family: to be made a slave. Believers are slaves of God (1:1), not of wine. καλοδιδασκάλους, “teachers of that which is good” — καλός from the good family: teachers of what is beautiful and right, by word and example.",
+      "words": [
+        {
+          "strongs": "G4247",
+          "hebrew": "πρεσβῦτις",
+          "translit": "presbŷtis",
+          "english": "older women"
+        },
+        {
+          "strongs": "G2412",
+          "hebrew": "ἱεροπρεπής",
+          "translit": "hieroprepḗs",
+          "english": "reverent"
+        },
+        {
+          "strongs": "G2688",
+          "hebrew": "κατάστημα",
+          "translit": "katástēma",
+          "english": "behavior"
+        },
+        {
+          "strongs": "G1228",
+          "hebrew": "διάβολος",
+          "translit": "diábolos",
+          "english": "slanderers"
+        },
+        {
+          "strongs": "G1402",
+          "hebrew": "δουλόω",
+          "translit": "doulóō",
+          "english": "enslaved"
+        },
+        {
+          "strongs": "G3631",
+          "hebrew": "οἶνος",
+          "translit": "oînos",
+          "english": "wine"
+        },
+        {
+          "strongs": "G2567",
+          "hebrew": "καλοδιδάσκαλος",
+          "translit": "kalodidáskalos",
+          "english": "teachers of that which is good"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "that they may train the young wives to love their husbands, to love their children,",
+      "understanding": "ἵνα σωφρονίζωσιν τὰς νέας, “that they may train the young wives” — σωφρονίζω from the self-control family: to bring someone to a sound mind, to coach them in good sense. The older women mentor the younger. And the first lessons are love-family words: φιλάνδρους εἶναι, “to love their husbands” — φίλανδρος, husband-loving; φιλοτέκνους, “to love their children” — φιλότεκνος, child-loving. Both are the warm, affectionate φιλ- kind of love. Even natural love needs to be taught and nurtured.",
+      "words": [
+        {
+          "strongs": "G4994",
+          "hebrew": "σωφρονίζω",
+          "translit": "sōphronízō",
+          "english": "train"
+        },
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "young"
+        },
+        {
+          "strongs": "G5362",
+          "hebrew": "φίλανδρος",
+          "translit": "phílandros",
+          "english": "love their husbands"
+        },
+        {
+          "strongs": "G5388",
+          "hebrew": "φιλότεκνος",
+          "translit": "philóteknos",
+          "english": "love their children"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "to be sober minded, chaste, workers at home, kind, being in subjection to their own husbands, that God’s word may not be blasphemed.",
+      "understanding": "σώφρονας, “to be sober minded” — σώφρων again; ἁγνάς, “chaste” — pure; οἰκουρούς, “workers at home” — caring for the household (the oldest manuscripts read οἰκουργούς, ‘working at home’); ἀγαθάς, “kind” — ἀγαθός from the good family: good-hearted, generous. ὑποτασσομένας τοῖς ἰδίοις ἀνδράσιν, “being in subjection to their own husbands” — ‘their own’: not to men in general. Paul's reason is missionary: ἵνα μὴ ὁ λόγος τοῦ θεοῦ βλασφημῆται, “that God’s word may not be blasphemed.” Paul also commands husbands to love their wives as Christ loved the church (Ephesians 5:25); the call is never one-sided.",
+      "words": [
+        {
+          "strongs": "G4998",
+          "hebrew": "σώφρων",
+          "translit": "sṓphrōn",
+          "english": "sober minded"
+        },
+        {
+          "strongs": "G53",
+          "hebrew": "ἁγνός",
+          "translit": "hagnós",
+          "english": "chaste"
+        },
+        {
+          "strongs": "G3626",
+          "hebrew": "οἰκουρός",
+          "translit": "oikourós",
+          "english": "workers at home"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "kind"
+        },
+        {
+          "strongs": "G5293",
+          "hebrew": "ὑποτάσσω",
+          "translit": "hypotássō",
+          "english": "subjection"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "husbands"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G987",
+          "hebrew": "βλασφημέω",
+          "translit": "blasphēméō",
+          "english": "blasphemed"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Likewise, exhort the younger men to be sober minded;",
+      "understanding": "τοὺς νεωτέρους ὡσαύτως παρακάλει σωφρονεῖν, “Likewise, exhort the younger men to be sober minded” — σωφρονέω, yet another self-control word: to think straight, to be in one's right mind (the healed demoniac of Mark 5:15). For young men Paul gives only one command, because it includes all the others: control yourselves. Every group in this chapter is called to the σώφρων life — older men, younger women, younger men, and all believers (v. 12).",
+      "words": [
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "younger men"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G4993",
+          "hebrew": "σωφρονέω",
+          "translit": "sōphronéō",
+          "english": "sober minded"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "in all things showing yourself an example of good works; in your teaching showing integrity, seriousness, incorruptibility,",
+      "understanding": "περὶ πάντα σεαυτὸν παρεχόμενος τύπον καλῶν ἔργων, “in all things showing yourself an example of good works” — τύπος, a pattern stamped out like a die; καλός from the good family and ἔργον from the work family: beautiful, admirable deeds. Titus, probably young himself, must model what he teaches. ἐν τῇ διδασκαλίᾳ ἀδιαφθορίαν, σεμνότητα, ἀφθαρσίαν, “in your teaching showing integrity, seriousness, incorruptibility” — teaching that is uncorrupted, dignified and pure in motive. (The last word is in the manuscripts the WEB follows; many older ones omit it.)",
+      "words": [
+        {
+          "strongs": "G5179",
+          "hebrew": "τύπος",
+          "translit": "týpos",
+          "english": "example"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G90",
+          "hebrew": "ἀδιαφθορία",
+          "translit": "adiaphthoría",
+          "english": "integrity"
+        },
+        {
+          "strongs": "G4587",
+          "hebrew": "σεμνότης",
+          "translit": "semnótēs",
+          "english": "seriousness"
+        },
+        {
+          "strongs": "G861",
+          "hebrew": "ἀφθαρσία",
+          "translit": "aphtharsía",
+          "english": "incorruptibility"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "and soundness of speech that can’t be condemned; that he who opposes you may be ashamed, having no evil thing to say about us.",
+      "understanding": "λόγον ὑγιῆ ἀκατάγνωστον, “and soundness of speech that can’t be condemned” — ὑγιής, healthy, the adjective of the letter's favourite word. ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ, “that he who opposes you may be ashamed,” μηδὲν ἔχων λέγειν περὶ ἡμῶν φαῦλον, “having no evil thing to say about us.” φαῦλος is a third member of the evil family, beside κακός and πονηρός: the worthless, shabby kind of wrong. The aim is a life so clean that critics are left with nothing to say.",
+      "words": [
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "speech"
+        },
+        {
+          "strongs": "G5199",
+          "hebrew": "ὑγιής",
+          "translit": "hygiḗs",
+          "english": "soundness"
+        },
+        {
+          "strongs": "G176",
+          "hebrew": "ἀκατάγνωστος",
+          "translit": "akatágnōstos",
+          "english": "can’t be condemned"
+        },
+        {
+          "strongs": "G1727",
+          "hebrew": "ἐναντίος",
+          "translit": "enantíos",
+          "english": "opposes"
+        },
+        {
+          "strongs": "G1788",
+          "hebrew": "ἐντρέπω",
+          "translit": "entrépō",
+          "english": "ashamed"
+        },
+        {
+          "strongs": "G5337",
+          "hebrew": "φαῦλος",
+          "translit": "phaûlos",
+          "english": "evil"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Exhort servants to be in subjection to their own masters, and to be well-pleasing in all things; not contradicting;",
+      "understanding": "δούλους ἰδίοις δεσπόταις ὑποτάσσεσθαι, “Exhort servants to be in subjection to their own masters” — δοῦλος from the servant family: slaves, who made up a large part of the early church. Paul does not endorse slavery (he condemns slave-traders in 1 Timothy 1:10 and urges slaves to gain freedom when they can, 1 Corinthians 7:21), but he addresses believers where they are. ἐν πᾶσιν εὐαρέστους εἶναι, “and to be well-pleasing in all things” — the word normally used of pleasing God; μὴ ἀντιλέγοντας, “not contradicting” — not answering back.",
+      "words": [
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G2398",
+          "hebrew": "ἴδιος",
+          "translit": "ídios",
+          "english": "own"
+        },
+        {
+          "strongs": "G1203",
+          "hebrew": "δεσπότης",
+          "translit": "despótēs",
+          "english": "masters"
+        },
+        {
+          "strongs": "G5293",
+          "hebrew": "ὑποτάσσω",
+          "translit": "hypotássō",
+          "english": "subjection"
+        },
+        {
+          "strongs": "G2101",
+          "hebrew": "εὐάρεστος",
+          "translit": "euárestos",
+          "english": "well-pleasing"
+        },
+        {
+          "strongs": "G483",
+          "hebrew": "ἀντιλέγω",
+          "translit": "antilégō",
+          "english": "contradicting"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "not stealing, but showing all good fidelity; that they may adorn the doctrine of God, our Savior, in all things.",
+      "understanding": "μὴ νοσφιζομένους, “not stealing” — pilfering, as Ananias kept back part of the price (Acts 5:2). ἀλλὰ πᾶσαν πίστιν ἐνδεικνυμένους ἀγαθήν, “but showing all good fidelity” — ἀγαθός from the good family; πίστις here is faithfulness, trustworthiness. And the glorious purpose: ἵνα τὴν διδασκαλίαν τὴν τοῦ σωτῆρος ἡμῶν θεοῦ κοσμῶσιν ἐν πᾶσιν, “that they may adorn the doctrine of God, our Savior, in all things.” κοσμέω, to put in order, to decorate (our ‘cosmetic’). The lowest members of society can make the gospel beautiful.",
+      "words": [
+        {
+          "strongs": "G3557",
+          "hebrew": "νοσφίζομαι",
+          "translit": "nosphízomai",
+          "english": "stealing"
+        },
+        {
+          "strongs": "G1731",
+          "hebrew": "ἐνδείκνυμι",
+          "translit": "endeíknymi",
+          "english": "showing"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "fidelity"
+        },
+        {
+          "strongs": "G2885",
+          "hebrew": "κοσμέω",
+          "translit": "kosméō",
+          "english": "adorn"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "doctrine"
+        },
+        {
+          "strongs": "G4990",
+          "hebrew": "σωτήρ",
+          "translit": "sōtḗr",
+          "english": "Savior"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For the grace of God has appeared, bringing salvation to all men,",
+      "understanding": "Now the reason for everything: ἐπεφάνη γὰρ ἡ χάρις τοῦ θεοῦ, “For the grace of God has appeared” — ἐπιφαίνω from the appear family: to shine forth, as the dawn breaks over the horizon. Grace is not an idea but an event, the coming of Christ. ἡ σωτήριος πᾶσιν ἀνθρώποις, “bringing salvation to all men” — not only to the old or the young, the free or the slave, but to every kind of person in the list just given.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2014",
+          "hebrew": "ἐπιφαίνω",
+          "translit": "epiphaínō",
+          "english": "appeared"
+        },
+        {
+          "strongs": "G4992",
+          "hebrew": "σωτήριον",
+          "translit": "sōtḗrion",
+          "english": "bringing salvation"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "men"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age;",
+      "understanding": "παιδεύουσα ἡμᾶς, “instructing us” — παιδεύω, to train a child: grace is a tutor. It teaches a no and a yes. The no: ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας, “denying ungodliness and worldly lusts.” The yes: σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν, “we would live soberly, righteously, and godly.” Two families meet. From the godliness family: ἀσέβεια, irreverence, and εὐσεβῶς, reverently — the very opposites in one verse. From the self-control family: σωφρόνως, ‘soberly’, the chapter's key word. Three directions: toward self (soberly), toward others (righteously), toward God (godly). ἐν τῷ νῦν αἰῶνι, “in this present age” — αἰών from the time and world families: this passing age.",
+      "words": [
+        {
+          "strongs": "G3811",
+          "hebrew": "παιδεύω",
+          "translit": "paideúō",
+          "english": "instructing"
+        },
+        {
+          "strongs": "G720",
+          "hebrew": "ἀρνέομαι",
+          "translit": "arnéomai",
+          "english": "denying"
+        },
+        {
+          "strongs": "G763",
+          "hebrew": "ἀσέβεια",
+          "translit": "asébeia",
+          "english": "ungodliness"
+        },
+        {
+          "strongs": "G2886",
+          "hebrew": "κοσμικός",
+          "translit": "kosmikós",
+          "english": "worldly"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "lusts"
+        },
+        {
+          "strongs": "G4996",
+          "hebrew": "σωφρόνως",
+          "translit": "sōphrónōs",
+          "english": "soberly"
+        },
+        {
+          "strongs": "G1346",
+          "hebrew": "δικαίως",
+          "translit": "dikaíōs",
+          "english": "righteously"
+        },
+        {
+          "strongs": "G2153",
+          "hebrew": "εὐσεβῶς",
+          "translit": "eusebōs",
+          "english": "godly"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "live"
+        },
+        {
+          "strongs": "G3568",
+          "hebrew": "νῦν",
+          "translit": "nŷn",
+          "english": "present"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "age"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ;",
+      "understanding": "προσδεχόμενοι τὴν μακαρίαν ἐλπίδα, “looking for the blessed hope” — eagerly waiting to welcome it — καὶ ἐπιφάνειαν τῆς δόξης, “and appearing of the glory.” ἐπιφάνεια from the appear family: the same root as ‘appeared’ in verse 11. The first appearing was grace; the second will be glory. τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, “of our great God and Savior, Jesus Christ.” One Greek article governs both ‘God’ and ‘Savior’, so the most natural reading names Jesus Christ as ‘our great God and Savior’ — as in 2 Peter 1:1. Some translate ‘the great God and our Savior Jesus Christ’; but the grammar, and the fact that ‘appearing’ is always used of Christ, favour the first.",
+      "words": [
+        {
+          "strongs": "G4327",
+          "hebrew": "προσδέχομαι",
+          "translit": "prosdéchomai",
+          "english": "looking for"
+        },
+        {
+          "strongs": "G3107",
+          "hebrew": "μακάριος",
+          "translit": "makários",
+          "english": "blessed"
+        },
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G2015",
+          "hebrew": "ἐπιφάνεια",
+          "translit": "epipháneia",
+          "english": "appearing"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4990",
+          "hebrew": "σωτήρ",
+          "translit": "sōtḗr",
+          "english": "Savior"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "who gave himself for us, that he might redeem us from all iniquity, and purify for himself a people for his own possession, zealous for good works.",
+      "understanding": "ὃς ἔδωκεν ἑαυτὸν ὑπὲρ ἡμῶν, “who gave himself for us” — not merely something, but Himself. Two purposes. First, ἵνα λυτρώσηται ἡμᾶς ἀπὸ πάσης ἀνομίας, “that he might redeem us from all iniquity” — λυτρόω, to set free by paying a ransom; ἀνομία from the sin family: lawlessness, sin as rebellion against God's law. Second, καὶ καθαρίσῃ ἑαυτῷ λαὸν περιούσιον, “and purify for himself a people for his own possession” — περιούσιος echoes God's ‘treasured possession’ language for Israel at Sinai. ζηλωτὴν καλῶν ἔργων, “zealous for good works” — a ‘zealot’ for beautiful deeds (καλός, good family; ἔργον, work family). Redemption from sin always aims at good works.",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "gave"
+        },
+        {
+          "strongs": "G3084",
+          "hebrew": "λυτρόω",
+          "translit": "lytróō",
+          "english": "redeem"
+        },
+        {
+          "strongs": "G458",
+          "hebrew": "ἀνομία",
+          "translit": "anomía",
+          "english": "iniquity"
+        },
+        {
+          "strongs": "G2511",
+          "hebrew": "καθαρίζω",
+          "translit": "katharízō",
+          "english": "purify"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        },
+        {
+          "strongs": "G4041",
+          "hebrew": "περιούσιος",
+          "translit": "perioúsios",
+          "english": "own possession"
+        },
+        {
+          "strongs": "G2207",
+          "hebrew": "ζηλωτής",
+          "translit": "zēlōtḗs",
+          "english": "zealous"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Say these things and exhort and reprove with all authority. Let no man despise you.",
+      "understanding": "ταῦτα λάλει καὶ παρακάλει καὶ ἔλεγχε, “Say these things and exhort and reprove” — teach, encourage, correct. μετὰ πάσης ἐπιταγῆς, “with all authority.” A word-family point: ‘authority’ here is ἐπιταγή, the authority of a command (the same word as ‘commandment’ in 1:3), not ἐξουσία, the right or power to act. Titus speaks with the weight of God's command behind him. μηδείς σου περιφρονείτω, “Let no man despise you” — περιφρονέω, to think around, to disregard. Compare ‘Let no man despise your youth’ to Timothy.",
+      "words": [
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "Say"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G1651",
+          "hebrew": "ἐλέγχω",
+          "translit": "elénchō",
+          "english": "reprove"
+        },
+        {
+          "strongs": "G2003",
+          "hebrew": "ἐπιταγή",
+          "translit": "epitagḗ",
+          "english": "authority"
+        },
+        {
+          "strongs": "G4065",
+          "hebrew": "περιφρονέω",
+          "translit": "periphronéō",
+          "english": "despise"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Jewels on the Gospel",
+      "verseRef": "v. 9-10",
+      "image": "Picture a plain wooden box containing a priceless gift. On its own, the box draws no attention. Then picture someone setting jewels into its lid — a ruby, an emerald, a pearl — until the box itself shines and everyone wants to see what is inside. Now picture the jewels: a slave who refuses to steal from his master, an older woman gently teaching a young mother, a young man who keeps his temper, a teacher whose life matches his words.",
+      "meaning": "Paul wants slaves to show “all good fidelity; that they may adorn the doctrine of God, our Savior, in all things” (v. 10). κοσμέω means to decorate, to set in order. The gospel is beautiful in itself, but the world often sees it first through the lives of believers. Ordinary faithfulness in ordinary places makes the teaching about God attractive. Ask the Spirit: is my life setting jewels on the gospel, or hiding it?"
+    },
+    {
+      "title": "Grace the Tutor",
+      "verseRef": "v. 11-12",
+      "image": "Picture a wealthy family in the ancient world with a trusted household tutor who walks beside the child every day. He takes the boy's hand when he wanders toward danger and says, ‘No, not that way.’ He points out the right path and says, ‘This way.’ He teaches manners, letters, courage and kindness. Day by day, the child grows to be like the household he belongs to. Now picture that tutor's name: Grace.",
+      "meaning": "“For the grace of God has appeared, bringing salvation to all men, instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age” (vv. 11–12). Grace does not only forgive; it trains. It teaches us to say no to ungodliness and yes to a sound-minded, upright and godly life. Thank God that His grace is patient with you as a teacher, and ask Him to make you teachable."
+    },
+    {
+      "title": "Two Dawns",
+      "verseRef": "v. 11-14",
+      "image": "Picture a traveller who has walked through a long, dark night. At last, a thin line of light appears on the eastern horizon: the first dawn. Its light shows him the path and warms him. But it is only the beginning. He walks on toward the east, watching the sky, because he knows that soon the full sun will rise in all its splendour and the whole land will be flooded with light.",
+      "meaning": "Paul uses the same word family for both comings of Christ. “For the grace of God has appeared” (v. 11): the first dawn, Christ's coming in grace. And we are “looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ” (v. 13): the full sunrise of His return in glory. Between the two dawns, we walk in the light of grace, “zealous for good works” (v. 14), with our faces toward the coming glory."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Healthy Teaching for Every Age (v. 1-8)",
+        "body": "Titus must teach what fits sound doctrine: older men to be clear-headed, dignified, sensible and healthy in faith, love and endurance; older women to be reverent, not slanderers or slaves of wine, teaching what is good and training younger women in love, self-control, purity, care for their homes, kindness and submission to their husbands; younger men to be self-controlled; and Titus himself to model good works and sound, uncorrupted teaching."
+      },
+      {
+        "label": "Slaves Who Adorn the Gospel (v. 9-10)",
+        "body": "Believing slaves are to be submissive, pleasing, not answering back or stealing, but showing complete faithfulness, so that they adorn the teaching of God our Saviour in every way."
+      },
+      {
+        "label": "The Grace That Trains (v. 11-15)",
+        "body": "The grace of God has appeared, bringing salvation and training us to reject ungodliness and live sensibly, righteously and godly while we wait for the appearing of the glory of our great God and Saviour Jesus Christ, who gave Himself to redeem and purify a people zealous for good works; Titus must teach this with full authority."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "A Life That Fits the Truth",
+        "paragraphs": [
+          "After exposing the false teachers, Paul turns to Titus: “But say the things which fit sound doctrine” (v. 1). Healthy teaching produces healthy lives, and Paul describes them group by group. The older men are to be “temperate, sensible, sober minded, sound in faith, in love, and in perseverance” (v. 2). The older women are to be “reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good” (v. 3). Age is not a reason to retire from discipleship; it is a calling to model and mentor.",
+          "The older women are to train the younger women “to love their husbands, to love their children, to be sober minded, chaste, workers at home, kind, being in subjection to their own husbands, that God’s word may not be blasphemed” (vv. 4–5). Some of these instructions are hard for modern readers. Notice that the reason given is the reputation of the gospel in that culture, that the qualities listed are mostly character, and that elsewhere Paul calls husbands to sacrificial love. The heart of the passage is women discipling women, and families shaped by love.",
+          "The younger men receive one comprehensive command: “to be sober minded” (v. 6). Then Titus himself must be the pattern: “in all things showing yourself an example of good works; in your teaching showing integrity, seriousness, incorruptibility, and soundness of speech that can’t be condemned” (vv. 7–8). His life and teaching must leave critics with “no evil thing to say about us” (v. 8). The repeated σώφρων words — temperate, sober minded, train, soberly — show that self-control is not a single virtue for one group but the shape of the whole Christian life."
+        ]
+      },
+      {
+        "heading": "Adorning the Teaching",
+        "paragraphs": [
+          "Paul then addresses slaves, who made up a large part of the early church: “Exhort servants to be in subjection to their own masters, and to be well-pleasing in all things; not contradicting; not stealing, but showing all good fidelity” (vv. 9–10). As in his other letters, he neither ignores their situation nor endorses the system. Elsewhere he condemns slave-traders, tells slaves to take freedom if they can (1 Corinthians 7:21), and commands masters, “give to your servants that which is just and equal, knowing that you also have a Master in heaven” (Colossians 4:1).",
+          "The purpose is breathtaking: “that they may adorn the doctrine of God, our Savior, in all things” (v. 10). The word κοσμέω means to arrange beautifully, to decorate. The people with the least power in the ancient world are given the highest calling: to make the teaching about God beautiful by their faithfulness. Jesus said the same about all His followers: “let your light shine before men; that they may see your good works, and glorify your Father who is in heaven” (Matthew 5:16).",
+          "Throughout the passage, the gospel's reputation is at stake: “that God’s word may not be blasphemed” (v. 5), that opponents may have “no evil thing to say about us” (v. 8), that believers may “adorn the doctrine” (v. 10). Paul knew the opposite could happen, quoting Scripture to the Romans: “the name of God is blasphemed among the Gentiles because of you” (Romans 2:24). Our conduct either decorates or disgraces the gospel."
+        ]
+      },
+      {
+        "heading": "The Grace That Trains",
+        "paragraphs": [
+          "Why should believers live this way? “For the grace of God has appeared, bringing salvation to all men” (v. 11). The ‘for’ makes grace the reason and power for everything above. Grace appeared in the person of Jesus Christ, like the dawn. It brings salvation to all kinds of people — old and young, men and women, slave and free. No group is outside its reach.",
+          "And grace trains: “instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age” (v. 12). The verb παιδεύω means to train a child. Grace says no to ungodliness and worldly desires, and yes to a life that is sensible toward self, just toward others and devoted toward God. Two word families shape the verse: ungodliness and godliness, and the sober-minded life that runs through the whole chapter.",
+          "Grace also points forward: we are “looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ” (v. 13). Christ is called ‘our great God and Savior’ — one of the clearest statements of His deity in the New Testament. He “gave himself for us, that he might redeem us from all iniquity, and purify for himself a people for his own possession, zealous for good works” (v. 14). Redemption has a goal: not only a forgiven people, but a people passionate about doing good. Titus must teach this “with all authority” (v. 15), the authority of God's command."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Grace, Redemption and a People for God's Possession",
+      "paragraphs": [
+        "Titus 2:11–14 echoes the whole New Testament gospel. Christ “gave himself for our sins, that he might deliver us out of this present evil age” (Galatians 1:4). Paul told Timothy that Christ “gave himself as a ransom for all” (1 Timothy 2:6), and Jesus Himself came “to give his life as a ransom for many” (Mark 10:45). Peter writes that believers were redeemed “with precious blood, as of a lamb without blemish or spot, the blood of Christ” (1 Peter 1:19).",
+        "The church is God's treasured people: “But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession” (1 Peter 2:9). Its purpose is good works: “For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them” (Ephesians 2:10). And its hope is Christ's return: “For our citizenship is in heaven, from where we also wait for a Savior, the Lord Jesus Christ” (Philippians 3:20). Christ “will appear a second time, without sin, to those who are eagerly waiting for him for salvation” (Hebrews 9:28).",
+        "The confession that Jesus is ‘our great God and Savior’ is shared across the New Testament. Peter writes almost the same words: “the righteousness of our God and Savior, Jesus Christ” (2 Peter 1:1). Thomas, seeing the risen Lord, cried, “My Lord and my God!” (John 20:28). And John says that this hope transforms the present: “Everyone who has this hope set on him purifies himself, even as he is pure” (1 John 3:3)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Instruct / train as a child",
+      "hebrew": "παιδεύω",
+      "translit": "paideúō",
+      "strongs": "G3811",
+      "verses": "v. 12",
+      "insight": "Strong's: “to train up a child, i.e. educate, or (by implication), discipline (by punishment).” It comes from παῖς, a child. The word covers the whole of a child's upbringing: teaching, guiding and, when needed, correcting. Hebrews uses it of the Lord's loving discipline. In Titus 2:12 grace itself is the trainer. God's grace does not leave us as we are; it patiently raises us to maturity."
+    },
+    {
+      "english": "Adorn / put in order",
+      "hebrew": "κοσμέω",
+      "translit": "kosméō",
+      "strongs": "G2885",
+      "verses": "v. 10",
+      "insight": "Strong's: “to put in proper order, i.e. decorate (literally or figuratively); specially, to snuff (a wick).” It is related to κόσμος, ordered arrangement, and gives us the word ‘cosmetic’. It is used of decorating the temple with gifts and of a bride adorned for her husband. In Titus 2:10 slaves adorn the teaching of God. Faithful lives arrange the gospel beautifully before watching eyes."
+    },
+    {
+      "english": "Appear / shine forth",
+      "hebrew": "ἐπιφαίνω",
+      "translit": "epiphaínō",
+      "strongs": "G2014",
+      "verses": "v. 11",
+      "insight": "Strong's: “to shine upon, i.e. become (literally) visible or (figuratively) known.” It is used of stars appearing in the sky and of light dawning on those in darkness. Titus uses it twice of Christ's first coming (2:11; 3:4) and its noun ἐπιφάνεια of His return (2:13). Both comings are a shining-forth of God: first of grace, then of glory. This study tags it in the new appear family."
+    },
+    {
+      "english": "Train to sound-mindedness",
+      "hebrew": "σωφρονίζω",
+      "translit": "sōphronízō",
+      "strongs": "G4994",
+      "verses": "v. 4",
+      "insight": "Strong's: “to make of sound mind, i.e. (figuratively) to discipline or correct.” It is the verb of the σώφρων family: to help someone become sensible and self-controlled. Older women are to do this for younger women. Sound-mindedness is caught as well as taught — passed on through relationships, example and patient encouragement from those further along the road."
+    },
+    {
+      "english": "One's own special possession",
+      "hebrew": "περιούσιος",
+      "translit": "perioúsios",
+      "strongs": "G4041",
+      "verses": "v. 14",
+      "insight": "Strong's: “being beyond usual, i.e. special (one's own).” In the Greek Old Testament it translates the word for God's ‘treasured possession’ when He called Israel at Sinai. Paul applies it to the church that Christ redeemed: a people who belong to Him in a special way. Believers are not only forgiven; they are treasured. And His treasured people are to be zealous for good works."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "Through this chapter the Holy Spirit speaks about your place in God's family, the beauty of ordinary faithfulness, and the training power of grace.",
+    "items": [
+      {
+        "title": "Every Season of Life Has a Calling",
+        "body": "Whether you are old or young, the Spirit has a calling for you in this season. Older believers are to model and mentor; younger believers are to learn and grow in self-control. Ask Him who you should be learning from, and who you should be investing in. No one is too old to serve or too young to be an example."
+      },
+      {
+        "title": "Your Faithfulness Adorns the Gospel",
+        "body": "You may feel that your daily work is ordinary or unseen. The Spirit says it can adorn the teaching about God. Honesty, reliability, kindness and self-control in small things make the gospel beautiful to watching eyes. Ask Him where your conduct can become a jewel on the gospel this week."
+      },
+      {
+        "title": "Let Grace Train You",
+        "body": "The grace that saved you is now training you. It says ‘no’ to some things and ‘yes’ to others. Rather than resisting, yield to the Spirit's training. Ask Him what He is teaching you to deny, and what He is teaching you to embrace, as you wait for the appearing of Jesus Christ."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Self-Control Check",
+        "body": "Every group in this chapter is called to be σώφρων. Where is your life least sober-minded — in your temper, appetites, spending, screen time or words? Name one area and ask God for grace to train you there (vv. 2, 6, 12)."
+      },
+      {
+        "title": "The Mentoring Check",
+        "body": "Who is older in the faith who could mentor you? Who is younger whom you could encourage? Write one name in each column and pray about taking a step this month (vv. 3–4)."
+      },
+      {
+        "title": "The Workplace Check",
+        "body": "Think about your work or study. Are you honest, reliable and respectful, so that your conduct adorns the gospel (vv. 9–10)? Identify one way you can show ‘all good fidelity’ this week."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "The Two-Sided Prayer of Grace",
+        "body": "Each morning for a month, pray through Titus 2:12. First, the ‘no’: name one ungodly attitude or worldly desire and ask grace to help you deny it today. Then the ‘yes’: choose one way to live soberly (toward yourself), righteously (toward others) and godly (toward God) that day. In the evening, give thanks for how grace trained you."
+      },
+      {
+        "title": "A Zeal for Good Works",
+        "body": "Christ redeemed a people ‘zealous for good works’ (v. 14). Plan one good work each week for the next six weeks — practical help for a neighbour, an encouraging visit, a meal, a gift, an act of service at church. Do them not to earn grace but because you have received it, and look for chances to say why."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, thank You that Your grace has appeared, bringing salvation to all people — old and young, men and women, servants and masters. Thank You that Your grace does not leave me as I am but trains me. Teach me to deny ungodliness and worldly desires, and to live soberly, righteously and godly in this present age. Make me sound in faith, in love and in perseverance. Make me reverent, free from slander and from every kind of slavery to appetite. Help me to learn from those who are older in the faith and to encourage those who are younger. Let me be an example of good works, with teaching and speech that are sound and above reproach. Wherever I work, let my faithfulness adorn the teaching about You. I am looking for the blessed hope, the appearing of the glory of our great God and Saviour, Jesus Christ, who gave Himself for me to redeem me from all lawlessness and to purify me as His own treasured possession. Make me zealous for good works. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Anna, a Reverent Older Woman",
+      "ref": "Luke 2:36-38",
+      "relatedVerses": "v. 3",
+      "summary": "When Mary and Joseph brought the baby Jesus to the temple, they met Anna, a prophetess who had been widowed young and had lived for decades in God's house. She “didn’t depart from the temple, worshiping with fastings and petitions night and day” (Luke 2:37). Her whole life was reverent, as Titus 2:3 describes. When she saw Jesus, she gave thanks to God and “spoke of him to all those who were looking for redemption in Jerusalem” (Luke 2:38). Anna is a picture of the older woman whose behaviour is fit for a temple, who looks for redemption, and who teaches others what is good."
+    },
+    {
+      "title": "Priscilla Teaches Apollos",
+      "ref": "Acts 18:24-28",
+      "relatedVerses": "v. 3-5, 7",
+      "summary": "Apollos was an eloquent preacher in Ephesus who knew the Scriptures well but understood only the baptism of John. “But when Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately” (Acts 18:26). This married couple, who worked with Paul as tentmakers, discipled a gifted younger preacher privately and humbly, and Apollos went on to strengthen the churches in Achaia. Their home was a place of ministry and their marriage a partnership in the gospel. They show that teaching ‘that which is good’ often happens in homes, around tables, through patient mentoring."
+    },
+    {
+      "title": "God's Treasured Possession at Sinai",
+      "ref": "Exodus 19:3-6",
+      "relatedVerses": "v. 14",
+      "summary": "Three months after the Exodus, Israel camped at the foot of Mount Sinai. God called Moses up the mountain and gave him a message for the people: He had carried them on eagles' wings and brought them to Himself. If they obeyed His voice and kept His covenant, they would be His own treasured possession among all peoples, a kingdom of priests and a holy nation. Paul takes up this language in Titus 2:14: Christ gave Himself to purify for Himself ‘a people for his own possession, zealous for good works’. Peter does the same, calling the church ‘a people for God’s own possession’. The redeemed people of God in Christ inherit the calling of Sinai."
+    }
+  ]
+}
