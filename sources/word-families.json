@@ -380,7 +380,7 @@
       "english": [
         "new"
       ],
-      "intro": "Greek has one word for ‘new in kind’ and another for ‘new in time’. ἀνακαίνωσις, ‘renewal’, is built on καινός: the Spirit makes us new in kind, not merely recent. Hebrews calls the covenant ‘new’ with both words: καινός (8:8, new in kind) and νέος (12:24, freshly given).",
+      "intro": "Greek has one word for ‘new in kind’ and another for ‘new in time’. ἀνακαίνωσις, ‘renewal’, is built on καινός: the Spirit makes us new in kind, not merely recent. Hebrews calls the covenant ‘new’ with both words: καινός (8:8, new in kind) and νέος (12:24, freshly given). Hebrews 10:20 adds a third word, πρόσφατος, originally ‘freshly slain’: the new way opened through Christ’s sacrifice.",
       "members": [
         {
           "strongs": "G2537",
@@ -399,6 +399,12 @@
           "sense": "‘Renewal’ — ἀνά (again) + καινός: being made new in quality, renovated from within by the Holy Spirit (Titus 3:5), the renewing of the mind (Romans 12:2).",
           "anchor": "Romans 12:2",
           "en": "renewing"
+        },
+        {
+          "strongs": "G4372",
+          "sense": "‘Freshly slain’, then simply ‘fresh, recent’ — the ‘new and living way’ opened by Christ’s death (Hebrews 10:20).",
+          "anchor": "Hebrews 10:20",
+          "en": "new"
         }
       ]
     },

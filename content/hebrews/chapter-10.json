@@ -1,0 +1,2010 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 10,
+  "chapterTitle": "One Sacrifice Forever — Therefore Draw Near and Hold Fast",
+  "themeTitle": "“A New and Living Way”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near.",
+      "understanding": "σκιὰν γὰρ ἔχων ὁ νόμος τῶν μελλόντων ἀγαθῶν, “For the law, having a shadow of the good to come” — σκιά from the pattern family. οὐκ αὐτὴν τὴν εἰκόνα τῶν πραγμάτων, “not the very image of the things” — εἰκών from the image family: the true likeness, the reality itself. Two picture-words set against each other: a shadow is an outline; an image is the real form. κατ᾽ ἐνιαυτὸν ταῖς αὐταῖς θυσίαις ἃς προσφέρουσιν εἰς τὸ διηνεκές, “can never with the same sacrifices year by year, which they offer continually,” οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι, “make perfect those who draw near” — τελειόω from the perfect family.",
+      "words": [
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "law"
+        },
+        {
+          "strongs": "G4639",
+          "hebrew": "σκιά",
+          "translit": "skiá",
+          "english": "shadow"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        },
+        {
+          "strongs": "G3195",
+          "hebrew": "μέλλω",
+          "translit": "méllō",
+          "english": "to come"
+        },
+        {
+          "strongs": "G1504",
+          "hebrew": "εἰκών",
+          "translit": "eikṓn",
+          "english": "image"
+        },
+        {
+          "strongs": "G4229",
+          "hebrew": "πρᾶγμα",
+          "translit": "prâgma",
+          "english": "things"
+        },
+        {
+          "strongs": "G1763",
+          "hebrew": "ἐνιαυτός",
+          "translit": "eniautós",
+          "english": "year by year"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifices"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offer"
+        },
+        {
+          "strongs": "G1336",
+          "hebrew": "διηνεκής",
+          "translit": "diēnekḗs",
+          "english": "continually"
+        },
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "can"
+        },
+        {
+          "strongs": "G5048",
+          "hebrew": "τελειόω",
+          "translit": "teleióō",
+          "english": "make perfect"
+        },
+        {
+          "strongs": "G4334",
+          "hebrew": "προσέρχομαι",
+          "translit": "prosérchomai",
+          "english": "draw near"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Or else wouldn’t they have ceased to be offered, because the worshipers, having been once cleansed, would have had no more consciousness of sins?",
+      "understanding": "ἐπεὶ οὐκ ἂν ἐπαύσαντο προσφερόμεναι, “Or else wouldn’t they have ceased to be offered” — the very repetition proves the inadequacy. διὰ τὸ μηδεμίαν ἔχειν ἔτι συνείδησιν ἁμαρτιῶν τοὺς λατρεύοντας ἅπαξ κεκαθαρισμένους, “because the worshipers, having been once cleansed, would have had no more consciousness of sins?” λατρεύω from the servant family. If a sacrifice really dealt with sin, the conscience would be at rest and no more would be needed.",
+      "words": [
+        {
+          "strongs": "G3973",
+          "hebrew": "παύω",
+          "translit": "paúō",
+          "english": "ceased"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offered"
+        },
+        {
+          "strongs": "G3000",
+          "hebrew": "λατρεύω",
+          "translit": "latreúō",
+          "english": "worshipers"
+        },
+        {
+          "strongs": "G530",
+          "hebrew": "ἅπαξ",
+          "translit": "hápax",
+          "english": "once"
+        },
+        {
+          "strongs": "G2511",
+          "hebrew": "καθαρίζω",
+          "translit": "katharízō",
+          "english": "cleansed"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "consciousness"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "But in those sacrifices there is a yearly reminder of sins.",
+      "understanding": "ἀλλ᾽ ἐν αὐταῖς ἀνάμνησις ἁμαρτιῶν κατ᾽ ἐνιαυτόν, “But in those sacrifices there is a yearly reminder of sins.” ἀνάμνησις, remembrance — the same word Jesus used at the Last Supper: ‘Do this in memory of me.’ The old sacrifices brought sins to mind every year; the Lord's Supper brings Christ to mind, the One who removed them.",
+      "words": [
+        {
+          "strongs": "G364",
+          "hebrew": "ἀνάμνησις",
+          "translit": "anámnēsis",
+          "english": "reminder"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G1763",
+          "hebrew": "ἐνιαυτός",
+          "translit": "eniautós",
+          "english": "yearly"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For it is impossible that the blood of bulls and goats should take away sins.",
+      "understanding": "ἀδύνατον γὰρ αἷμα ταύρων καὶ τράγων ἀφαιρεῖν ἁμαρτίας, “For it is impossible that the blood of bulls and goats should take away sins.” A blunt statement. Animal blood was God's appointed picture and pledge, but it could never itself remove human guilt. Only a human, sinless, willing sacrifice could do that.",
+      "words": [
+        {
+          "strongs": "G102",
+          "hebrew": "ἀδύνατος",
+          "translit": "adýnatos",
+          "english": "impossible"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G5022",
+          "hebrew": "ταῦρος",
+          "translit": "taûros",
+          "english": "bulls"
+        },
+        {
+          "strongs": "G5131",
+          "hebrew": "τράγος",
+          "translit": "trágos",
+          "english": "goats"
+        },
+        {
+          "strongs": "G851",
+          "hebrew": "ἀφαιρέω",
+          "translit": "aphairéō",
+          "english": "take away"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Therefore when he comes into the world, he says, “Sacrifice and offering you didn’t desire, but you prepared a body for me.",
+      "understanding": "διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει, “Therefore when he comes into the world, he says” — the writer hears the Son speaking Psalm 40 at His incarnation. κόσμος from the world family. “Sacrifice and offering you didn’t desire, but you prepared a body for me.” Two offering-family words: θυσία, a slain sacrifice, and προσφορά, an offering. The writer quotes the Greek Old Testament, which reads ‘a body you prepared’; the Hebrew reads ‘my ears you have opened’ — a willing, listening servant. Both point to the same truth: God wanted obedience, and the Son came in a body to obey to the end.",
+      "words": [
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "comes"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "Sacrifice"
+        },
+        {
+          "strongs": "G4376",
+          "hebrew": "προσφορά",
+          "translit": "prosphorá",
+          "english": "offering"
+        },
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "desire"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G2675",
+          "hebrew": "καταρτίζω",
+          "translit": "katartízō",
+          "english": "prepared"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "You had no pleasure in whole burnt offerings and sacrifices for sin.",
+      "understanding": "“You had no pleasure in whole burnt offerings and sacrifices for sin.” A third offering-family word: ὁλοκαύτωμα, the whole burnt offering, entirely consumed; and ‘sacrifices for sin’ (περὶ ἁμαρτίας), the sin offering. εὐδοκέω, to take delight. God commanded these sacrifices, but they were never what He ultimately wanted.",
+      "words": [
+        {
+          "strongs": "G3646",
+          "hebrew": "ὁλοκαύτωμα",
+          "translit": "holokaútōma",
+          "english": "whole burnt offerings"
+        },
+        {
+          "strongs": "G2106",
+          "hebrew": "εὐδοκέω",
+          "translit": "eudokéō",
+          "english": "pleasure"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Then I said, ‘Behold, I have come (in the scroll of the book it is written of me) to do your will, O God.’”",
+      "understanding": "“Then I said, ‘Behold, I have come (in the scroll of the book it is written of me) to do your will, O God.’” κεφαλίδι βιβλίου, ‘in the roll of the book’ — the Scriptures were written about Him. θέλημα, will. What God desired was not more animals but a perfectly obedient Son.",
+      "words": [
+        {
+          "strongs": "G2240",
+          "hebrew": "ἥκω",
+          "translit": "hḗkō",
+          "english": "come"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "scroll"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "written"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "do"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Previously saying, “Sacrifices and offerings and whole burnt offerings and sacrifices for sin you didn’t desire, neither had pleasure in them” (those which are offered according to the law),",
+      "understanding": "The writer repeats the quotation, now listing all four offering-family words together: “Sacrifices and offerings and whole burnt offerings and sacrifices for sin you didn’t desire, neither had pleasure in them” — θυσίαι, προσφοραί, ὁλοκαυτώματα, περὶ ἁμαρτίας. Every kind of offering in the Levitical system is named, and every one is set aside. αἵτινες κατὰ νόμον προσφέρονται, ‘(those which are offered according to the law)’ — even though the law itself commanded them.",
+      "words": [
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "Sacrifices"
+        },
+        {
+          "strongs": "G4376",
+          "hebrew": "προσφορά",
+          "translit": "prosphorá",
+          "english": "offerings"
+        },
+        {
+          "strongs": "G3646",
+          "hebrew": "ὁλοκαύτωμα",
+          "translit": "holokaútōma",
+          "english": "whole burnt offerings"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        },
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "desire"
+        },
+        {
+          "strongs": "G2106",
+          "hebrew": "εὐδοκέω",
+          "translit": "eudokéō",
+          "english": "pleasure"
+        },
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "law"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offered"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "then he has said, “Behold, I have come to do your will.” He takes away the first, that he may establish the second,",
+      "understanding": "τότε εἴρηκεν, “then he has said, ‘Behold, I have come to do your will.’” ἀναιρεῖ τὸ πρῶτον ἵνα τὸ δεύτερον στήσῃ, “He takes away the first, that he may establish the second.” ἀναιρέω, to take away, abolish. The first (the system of animal sacrifices) is removed; the second (the will of God done by Christ) is established.",
+      "words": [
+        {
+          "strongs": "G2240",
+          "hebrew": "ἥκω",
+          "translit": "hḗkō",
+          "english": "come"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "do"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G337",
+          "hebrew": "ἀναιρέω",
+          "translit": "anairéō",
+          "english": "takes away"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "establish"
+        },
+        {
+          "strongs": "G1208",
+          "hebrew": "δεύτερος",
+          "translit": "deúteros",
+          "english": "second"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "by which will we have been sanctified through the offering of the body of Jesus Christ once for all.",
+      "understanding": "ἐν ᾧ θελήματι ἡγιασμένοι ἐσμέν, “by which will we have been sanctified” — perfect tense: made holy, set apart for God, a completed act with lasting effect. διὰ τῆς προσφορᾶς τοῦ σώματος Ἰησοῦ Χριστοῦ ἐφάπαξ, “through the offering of the body of Jesus Christ once for all.” προσφορά from the offering family: the ‘body prepared’ (v. 5) was the offering. ἐφάπαξ, once for all.",
+      "words": [
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "sanctified"
+        },
+        {
+          "strongs": "G4376",
+          "hebrew": "προσφορά",
+          "translit": "prosphorá",
+          "english": "offering"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        },
+        {
+          "strongs": "G2178",
+          "hebrew": "ἐφάπαξ",
+          "translit": "ephápax",
+          "english": "once for all"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Every priest indeed stands day by day serving and often offering the same sacrifices, which can never take away sins,",
+      "understanding": "καὶ πᾶς μὲν ἱερεὺς ἕστηκεν καθ᾽ ἡμέραν λειτουργῶν, “Every priest indeed stands day by day serving” — standing, because the work was never done. καὶ τὰς αὐτὰς πολλάκις προσφέρων θυσίας, “and often offering the same sacrifices,” αἵτινες οὐδέποτε δύνανται περιελεῖν ἁμαρτίας, “which can never take away sins” — περιαιρέω, to strip off, remove entirely.",
+      "words": [
+        {
+          "strongs": "G2409",
+          "hebrew": "ἱερεύς",
+          "translit": "hiereús",
+          "english": "priest"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "stands"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day by day"
+        },
+        {
+          "strongs": "G3008",
+          "hebrew": "λειτουργέω",
+          "translit": "leitourgéō",
+          "english": "serving"
+        },
+        {
+          "strongs": "G4178",
+          "hebrew": "πολλάκις",
+          "translit": "pollákis",
+          "english": "often"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offering"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifices"
+        },
+        {
+          "strongs": "G4014",
+          "hebrew": "περιαιρέω",
+          "translit": "periairéō",
+          "english": "take away"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God;",
+      "understanding": "οὗτος δὲ μίαν ὑπὲρ ἁμαρτιῶν προσενέγκας θυσίαν εἰς τὸ διηνεκές, “but he, when he had offered one sacrifice for sins forever” — μία, one, against the ‘often’ of verse 11. ἐκάθισεν ἐν δεξιᾷ τοῦ θεοῦ, “sat down on the right hand of God.” The priests stood; Christ sat. The contrast between verses 11 and 12 is the whole gospel in two postures.",
+      "words": [
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offered"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifice"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G1336",
+          "hebrew": "διηνεκής",
+          "translit": "diēnekḗs",
+          "english": "forever"
+        },
+        {
+          "strongs": "G2523",
+          "hebrew": "καθίζω",
+          "translit": "kathízō",
+          "english": "sat down"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "from that time waiting until his enemies are made the footstool of his feet.",
+      "understanding": "τὸ λοιπὸν ἐκδεχόμενος ἕως τεθῶσιν οἱ ἐχθροὶ αὐτοῦ ὑποπόδιον τῶν ποδῶν αὐτοῦ, “from that time waiting until his enemies are made the footstool of his feet” — Psalm 110 again (1:13). His sacrifice is finished; His victory is certain; He waits for its full display.",
+      "words": [
+        {
+          "strongs": "G1551",
+          "hebrew": "ἐκδέχομαι",
+          "translit": "ekdéchomai",
+          "english": "waiting"
+        },
+        {
+          "strongs": "G2190",
+          "hebrew": "ἐχθρός",
+          "translit": "echthrós",
+          "english": "enemies"
+        },
+        {
+          "strongs": "G5087",
+          "hebrew": "τίθημι",
+          "translit": "títhēmi",
+          "english": "made"
+        },
+        {
+          "strongs": "G5286",
+          "hebrew": "ὑποπόδιον",
+          "translit": "hypopódion",
+          "english": "footstool"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For by one offering he has perfected forever those who are being sanctified.",
+      "understanding": "μιᾷ γὰρ προσφορᾷ τετελείωκεν εἰς τὸ διηνεκὲς τοὺς ἁγιαζομένους, “For by one offering he has perfected forever those who are being sanctified.” Two tenses held together. τετελείωκεν, perfect tense of τελειόω from the perfect family: He has already brought them to the goal — fully and permanently accepted before God. ἁγιαζομένους, present tense: they are being made holy in daily life. Our standing is complete; our growth continues.",
+      "words": [
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G4376",
+          "hebrew": "προσφορά",
+          "translit": "prosphorá",
+          "english": "offering"
+        },
+        {
+          "strongs": "G5048",
+          "hebrew": "τελειόω",
+          "translit": "teleióō",
+          "english": "perfected"
+        },
+        {
+          "strongs": "G1336",
+          "hebrew": "διηνεκής",
+          "translit": "diēnekḗs",
+          "english": "forever"
+        },
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "being sanctified"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "The Holy Spirit also testifies to us, for after saying,",
+      "understanding": "μαρτυρεῖ δὲ ἡμῖν καὶ τὸ πνεῦμα τὸ ἅγιον, “The Holy Spirit also testifies to us” — again Scripture is the Spirit's present testimony. μετὰ γὰρ τὸ εἰρηκέναι, “for after saying” — the writer returns to Jeremiah 31 from chapter 8.",
+      "words": [
+        {
+          "strongs": "G3140",
+          "hebrew": "μαρτυρέω",
+          "translit": "martyréō",
+          "english": "testifies"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "Holy"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "“This is the covenant that I will make with them: ‘After those days,’ says the Lord, ‘I will put my laws on their heart, I will also write them on their mind;’” then he says,",
+      "understanding": "“This is the covenant that I will make with them: ‘After those days,’ says the Lord, ‘I will put my laws on their heart, I will also write them on their mind;’” then he says — the inner law of the new covenant (8:10), now quoted to make a different point: what comes next.",
+      "words": [
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G1303",
+          "hebrew": "διατίθεμαι",
+          "translit": "diatíthemai",
+          "english": "make"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "put"
+        },
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "laws"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G1271",
+          "hebrew": "διάνοια",
+          "translit": "diánoia",
+          "english": "mind"
+        },
+        {
+          "strongs": "G1924",
+          "hebrew": "ἐπιγράφω",
+          "translit": "epigráphō",
+          "english": "write"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "“I will remember their sins and their iniquities no more.”",
+      "understanding": "“I will remember their sins and their iniquities no more.” Two sin-family words: ἁμαρτία, missing the mark, and ἀνομία, lawlessness. This is the promise the writer wanted to reach.",
+      "words": [
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G458",
+          "hebrew": "ἀνομία",
+          "translit": "anomía",
+          "english": "iniquities"
+        },
+        {
+          "strongs": "G3415",
+          "hebrew": "μνάομαι",
+          "translit": "mnáomai",
+          "english": "remember"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Now where remission of these is, there is no more offering for sin.",
+      "understanding": "ὅπου δὲ ἄφεσις τούτων, “Now where remission of these is” — ἄφεσις, release, forgiveness (9:22). οὐκέτι προσφορὰ περὶ ἁμαρτίας, “there is no more offering for sin.” If God has forgiven and will not remember, there is nothing left to sacrifice for. The argument of chapters 7–10 is complete.",
+      "words": [
+        {
+          "strongs": "G859",
+          "hebrew": "ἄφεσις",
+          "translit": "áphesis",
+          "english": "remission"
+        },
+        {
+          "strongs": "G3765",
+          "hebrew": "οὐκέτι",
+          "translit": "oukéti",
+          "english": "no more"
+        },
+        {
+          "strongs": "G4376",
+          "hebrew": "προσφορά",
+          "translit": "prosphorá",
+          "english": "offering"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus,",
+      "understanding": "Now the great ‘therefore’. ἔχοντες οὖν, ἀδελφοί, παρρησίαν εἰς τὴν εἴσοδον τῶν ἁγίων ἐν τῷ αἵματι Ἰησοῦ, “Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus” — παρρησία, confidence, freedom. What only the high priest could do once a year, all believers may do at any time.",
+      "words": [
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "Having"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G3954",
+          "hebrew": "παῤῥησία",
+          "translit": "parrhēsía",
+          "english": "boldness"
+        },
+        {
+          "strongs": "G1529",
+          "hebrew": "εἴσοδος",
+          "translit": "eísodos",
+          "english": "enter"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy place"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh;",
+      "understanding": "ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν, “by the way which he dedicated for us, a new and living way” — πρόσφατος, added to the new family: originally ‘freshly slain’, then ‘new, recent’. A way opened by a fresh sacrifice, and yet ‘living’, because the One who opened it is alive. διὰ τοῦ καταπετάσματος, τοῦτ᾽ ἔστιν τῆς σαρκὸς αὐτοῦ, “through the veil, that is to say, his flesh” — when His body was torn, the curtain was torn.",
+      "words": [
+        {
+          "strongs": "G3598",
+          "hebrew": "ὁδός",
+          "translit": "hodós",
+          "english": "way"
+        },
+        {
+          "strongs": "G1457",
+          "hebrew": "ἐγκαινίζω",
+          "translit": "enkainízō",
+          "english": "dedicated"
+        },
+        {
+          "strongs": "G4372",
+          "hebrew": "πρόσφατος",
+          "translit": "prósphatos",
+          "english": "new"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "living"
+        },
+        {
+          "strongs": "G2665",
+          "hebrew": "καταπέτασμα",
+          "translit": "katapétasma",
+          "english": "veil"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "and having a great priest over God’s house,",
+      "understanding": "καὶ ἱερέα μέγαν ἐπὶ τὸν οἶκον τοῦ θεοῦ, “and having a great priest over God’s house” — the Son over the house (3:6).",
+      "words": [
+        {
+          "strongs": "G2409",
+          "hebrew": "ἱερεύς",
+          "translit": "hiereús",
+          "english": "priest"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "let’s draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience, and having our body washed with pure water,",
+      "understanding": "Three ‘let us’ commands follow, built on faith, hope and love. First, faith: προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως, “let’s draw near with a true heart in fullness of faith.” ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς, “having our hearts sprinkled from an evil conscience” — πονηρός from the evil family: a guilty conscience; the sprinkling echoes the priests' consecration. καὶ λελουσμένοι τὸ σῶμα ὕδατι καθαρῷ, “and having our body washed with pure water” — probably pointing to baptism, the outward sign of inward cleansing.",
+      "words": [
+        {
+          "strongs": "G4334",
+          "hebrew": "προσέρχομαι",
+          "translit": "prosérchomai",
+          "english": "draw near"
+        },
+        {
+          "strongs": "G228",
+          "hebrew": "ἀληθινός",
+          "translit": "alēthinós",
+          "english": "true"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G4136",
+          "hebrew": "πληροφορία",
+          "translit": "plērophoría",
+          "english": "fullness"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G4472",
+          "hebrew": "ῥαντίζω",
+          "translit": "rhantízō",
+          "english": "sprinkled"
+        },
+        {
+          "strongs": "G4190",
+          "hebrew": "πονηρός",
+          "translit": "ponērós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        },
+        {
+          "strongs": "G3068",
+          "hebrew": "λούω",
+          "translit": "loúō",
+          "english": "washed"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        },
+        {
+          "strongs": "G5204",
+          "hebrew": "ὕδωρ",
+          "translit": "hýdōr",
+          "english": "water"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "let us hold fast the confession of our hope without wavering; for he who promised is faithful.",
+      "understanding": "Second, hope: κατέχωμεν τὴν ὁμολογίαν τῆς ἐλπίδος ἀκλινῆ, “let us hold fast the confession of our hope without wavering” — κατέχω from the hold family; ἀκλινής, not leaning to either side. πιστὸς γὰρ ὁ ἐπαγγειλάμενος, “for he who promised is faithful.” We hold on because He holds firm.",
+      "words": [
+        {
+          "strongs": "G2722",
+          "hebrew": "κατέχω",
+          "translit": "katéchō",
+          "english": "hold fast"
+        },
+        {
+          "strongs": "G3671",
+          "hebrew": "ὁμολογία",
+          "translit": "homología",
+          "english": "confession"
+        },
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G186",
+          "hebrew": "ἀκλινής",
+          "translit": "aklinḗs",
+          "english": "without wavering"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G1861",
+          "hebrew": "ἐπαγγέλλω",
+          "translit": "epangéllō",
+          "english": "promised"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "Let us consider how to provoke one another to love and good works,",
+      "understanding": "Third, love: καὶ κατανοῶμεν ἀλλήλους, “Let us consider” one another — the word used of considering Jesus (3:1). εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, “how to provoke one another to love and good works.” παροξυσμός usually means a sharp quarrel (used of Paul and Barnabas, Acts 15:39) — here it is turned to good: stir each other up! Three families meet: ἀγάπη (love), καλός (good), ἔργον (work).",
+      "words": [
+        {
+          "strongs": "G2657",
+          "hebrew": "κατανοέω",
+          "translit": "katanoéō",
+          "english": "consider"
+        },
+        {
+          "strongs": "G240",
+          "hebrew": "ἀλλήλων",
+          "translit": "allḗlōn",
+          "english": "one another"
+        },
+        {
+          "strongs": "G3948",
+          "hebrew": "παροξυσμός",
+          "translit": "paroxysmós",
+          "english": "provoke"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "not forsaking our own assembling together, as the custom of some is, but exhorting one another; and so much the more, as you see the Day approaching.",
+      "understanding": "μὴ ἐγκαταλείποντες τὴν ἐπισυναγωγὴν ἑαυτῶν, “not forsaking our own assembling together” — ἐπισυναγωγή, gathering together (the same word Paul uses for our ‘gathering together to him’ at Christ's coming). καθὼς ἔθος τισίν, “as the custom of some is” — some had already stopped coming. ἀλλὰ παρακαλοῦντες, “but exhorting one another;” καὶ τοσούτῳ μᾶλλον ὅσῳ βλέπετε ἐγγίζουσαν τὴν ἡμέραν, “and so much the more, as you see the Day approaching” — ἡμέρα from the time family: the Day of Christ's return.",
+      "words": [
+        {
+          "strongs": "G1459",
+          "hebrew": "ἐγκαταλείπω",
+          "translit": "enkataleípō",
+          "english": "forsaking"
+        },
+        {
+          "strongs": "G1997",
+          "hebrew": "ἐπισυναγωγή",
+          "translit": "episynagōgḗ",
+          "english": "assembling together"
+        },
+        {
+          "strongs": "G1485",
+          "hebrew": "ἔθος",
+          "translit": "éthos",
+          "english": "custom"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhorting"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "see"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "Day"
+        },
+        {
+          "strongs": "G1448",
+          "hebrew": "ἐγγίζω",
+          "translit": "engízō",
+          "english": "approaching"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins,",
+      "understanding": "The fifth and sternest warning. ἑκουσίως γὰρ ἁμαρτανόντων ἡμῶν, “For if we sin willfully” — present tense: keep on deliberately sinning, a settled choice; ἁμαρτάνω from the sin family. μετὰ τὸ λαβεῖν τὴν ἐπίγνωσιν τῆς ἀληθείας, “after we have received the knowledge of the truth” — ἐπίγνωσις from the know family: full knowledge. οὐκέτι περὶ ἁμαρτιῶν ἀπολείπεται θυσία, “there remains no more a sacrifice for sins.” The context (v. 29) shows the sin in view: rejecting Christ Himself. If you reject the only sacrifice, there is no other.",
+      "words": [
+        {
+          "strongs": "G1596",
+          "hebrew": "ἑκουσίως",
+          "translit": "hekousíōs",
+          "english": "willfully"
+        },
+        {
+          "strongs": "G264",
+          "hebrew": "ἁμαρτάνω",
+          "translit": "hamartánō",
+          "english": "sin"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G1922",
+          "hebrew": "ἐπίγνωσις",
+          "translit": "epígnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G3765",
+          "hebrew": "οὐκέτι",
+          "translit": "oukéti",
+          "english": "no more"
+        },
+        {
+          "strongs": "G620",
+          "hebrew": "ἀπολείπω",
+          "translit": "apoleípō",
+          "english": "remains"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifice"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries.",
+      "understanding": "φοβερὰ δέ τις ἐκδοχὴ κρίσεως, “but a certain fearful expectation of judgment,” καὶ πυρὸς ζῆλος ἐσθίειν μέλλοντος τοὺς ὑπεναντίους, “and a fierceness of fire which will devour the adversaries” — ζῆλος, zeal: God's jealous holiness pictured as fire. Those who make themselves God's enemies by rejecting His Son face His judgement.",
+      "words": [
+        {
+          "strongs": "G5398",
+          "hebrew": "φοβερός",
+          "translit": "phoberós",
+          "english": "fearful"
+        },
+        {
+          "strongs": "G1561",
+          "hebrew": "ἐκδοχή",
+          "translit": "ekdochḗ",
+          "english": "expectation"
+        },
+        {
+          "strongs": "G2920",
+          "hebrew": "κρίσις",
+          "translit": "krísis",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G2205",
+          "hebrew": "ζῆλος",
+          "translit": "zēlos",
+          "english": "fierceness"
+        },
+        {
+          "strongs": "G2068",
+          "hebrew": "ἐσθίω",
+          "translit": "esthíō",
+          "english": "devour"
+        },
+        {
+          "strongs": "G5227",
+          "hebrew": "ὑπεναντίος",
+          "translit": "hypenantíos",
+          "english": "adversaries"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "A man who disregards Moses’ law dies without compassion on the word of two or three witnesses.",
+      "understanding": "ἀθετήσας τις νόμον Μωϋσέως, “A man who disregards Moses’ law” — ἀθετέω, to set aside, reject (as in the case of idolatry in Deuteronomy 17). χωρὶς οἰκτιρμῶν ἐπὶ δυσὶν ἢ τρισὶν μάρτυσιν ἀποθνῄσκει, “dies without compassion on the word of two or three witnesses.”",
+      "words": [
+        {
+          "strongs": "G114",
+          "hebrew": "ἀθετέω",
+          "translit": "athetéō",
+          "english": "disregards"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "law"
+        },
+        {
+          "strongs": "G5565",
+          "hebrew": "χωρίς",
+          "translit": "chōrís",
+          "english": "without"
+        },
+        {
+          "strongs": "G3628",
+          "hebrew": "οἰκτιρμός",
+          "translit": "oiktirmós",
+          "english": "compassion"
+        },
+        {
+          "strongs": "G1417",
+          "hebrew": "δύο",
+          "translit": "dýo",
+          "english": "two"
+        },
+        {
+          "strongs": "G5140",
+          "hebrew": "τρεῖς",
+          "translit": "treîs",
+          "english": "three"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witnesses"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "dies"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "How much worse punishment do you think he will be judged worthy of who has trodden under foot the Son of God, and has counted the blood of the covenant with which he was sanctified an unholy thing, and has insulted the Spirit of grace?",
+      "understanding": "πόσῳ δοκεῖτε χείρονος ἀξιωθήσεται τιμωρίας, “How much worse punishment do you think he will be judged worthy of” — three charges. ὁ τὸν υἱὸν τοῦ θεοῦ καταπατήσας, “who has trodden under foot the Son of God” — treated Him with contempt; καὶ τὸ αἷμα τῆς διαθήκης κοινὸν ἡγησάμενος ἐν ᾧ ἡγιάσθη, “and has counted the blood of the covenant with which he was sanctified an unholy thing” — κοινός, common, ordinary; καὶ τὸ πνεῦμα τῆς χάριτος ἐνυβρίσας, “and has insulted the Spirit of grace.” This is not a believer struggling with sin, but a deliberate, contemptuous rejection of the Son, His blood and His Spirit. As with 6:4–6, Christians differ on whether such a person was ever truly born again (‘with which he was sanctified’ may describe the outward setting apart of a member of the covenant community); all agree the warning is real.",
+      "words": [
+        {
+          "strongs": "G5501",
+          "hebrew": "χείρων",
+          "translit": "cheírōn",
+          "english": "worse"
+        },
+        {
+          "strongs": "G5098",
+          "hebrew": "τιμωρία",
+          "translit": "timōría",
+          "english": "punishment"
+        },
+        {
+          "strongs": "G515",
+          "hebrew": "ἀξιόω",
+          "translit": "axióō",
+          "english": "judged worthy"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G2662",
+          "hebrew": "καταπατέω",
+          "translit": "katapatéō",
+          "english": "trodden under foot"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G2840",
+          "hebrew": "κοινόω",
+          "translit": "koinóō",
+          "english": "unholy"
+        },
+        {
+          "strongs": "G2233",
+          "hebrew": "ἡγέομαι",
+          "translit": "hēgéomai",
+          "english": "counted"
+        },
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "sanctified"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G1796",
+          "hebrew": "ἐνυβρίζω",
+          "translit": "enybrízō",
+          "english": "insulted"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "For we know him who said, “Vengeance belongs to me,” says the Lord, “I will repay.” Again, “The Lord will judge his people.”",
+      "understanding": "οἴδαμεν γὰρ τὸν εἰπόντα, “For we know him who said” — οἶδα from the know family. Two quotations from the Song of Moses (Deuteronomy 32): “Vengeance belongs to me,” says the Lord, “I will repay.” Again, “The Lord will judge his people.” Paul quotes the first to tell believers not to take revenge (Romans 12:19). Here it warns that God Himself will judge those who despise His Son — even among His people.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G1557",
+          "hebrew": "ἐκδίκησις",
+          "translit": "ekdíkēsis",
+          "english": "Vengeance"
+        },
+        {
+          "strongs": "G467",
+          "hebrew": "ἀνταποδίδωμι",
+          "translit": "antapodídōmi",
+          "english": "repay"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judge"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "It is a fearful thing to fall into the hands of the living God.",
+      "understanding": "φοβερὸν τὸ ἐμπεσεῖν εἰς χεῖρας θεοῦ ζῶντος, “It is a fearful thing to fall into the hands of the living God.” The living God is not an idea to be managed, but a holy Person. For those who reject His mercy, His hands mean judgement; for those who trust Him, the same hands mean safety (John 10:29).",
+      "words": [
+        {
+          "strongs": "G5398",
+          "hebrew": "φοβερός",
+          "translit": "phoberós",
+          "english": "fearful"
+        },
+        {
+          "strongs": "G1706",
+          "hebrew": "ἐμπίπτω",
+          "translit": "empíptō",
+          "english": "fall"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hands"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "living"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "text": "But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings;",
+      "understanding": "Then encouragement. ἀναμιμνῄσκεσθε δὲ τὰς πρότερον ἡμέρας, “But remember the former days” — ἀναμιμνῄσκω, call to mind. ἐν αἷς φωτισθέντες, “in which, after you were enlightened” — the same word as 6:4: they had received the light. πολλὴν ἄθλησιν ὑπεμείνατε παθημάτων, “you endured a great struggle with sufferings” — ἄθλησις, an athletic contest (our ‘athlete’). They had already competed well.",
+      "words": [
+        {
+          "strongs": "G363",
+          "hebrew": "ἀναμιμνήσκω",
+          "translit": "anamimnḗskō",
+          "english": "remember"
+        },
+        {
+          "strongs": "G4387",
+          "hebrew": "πρότερος",
+          "translit": "próteros",
+          "english": "former"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G5461",
+          "hebrew": "φωτίζω",
+          "translit": "phōtízō",
+          "english": "enlightened"
+        },
+        {
+          "strongs": "G5278",
+          "hebrew": "ὑπομένω",
+          "translit": "hypoménō",
+          "english": "endured"
+        },
+        {
+          "strongs": "G119",
+          "hebrew": "ἄθλησις",
+          "translit": "áthlēsis",
+          "english": "struggle"
+        },
+        {
+          "strongs": "G3804",
+          "hebrew": "πάθημα",
+          "translit": "páthēma",
+          "english": "sufferings"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "text": "partly, being exposed to both reproaches and oppressions; and partly, becoming partakers with those who were treated so.",
+      "understanding": "τοῦτο μὲν ὀνειδισμοῖς τε καὶ θλίψεσιν θεατριζόμενοι, “partly, being exposed to both reproaches and oppressions” — θεατρίζω, made a public spectacle, as in a theatre. τοῦτο δὲ κοινωνοὶ τῶν οὕτως ἀναστρεφομένων γενηθέντες, “and partly, becoming partakers with those who were treated so” — they stood with others who suffered, rather than distancing themselves.",
+      "words": [
+        {
+          "strongs": "G3680",
+          "hebrew": "ὀνειδισμός",
+          "translit": "oneidismós",
+          "english": "reproaches"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "oppressions"
+        },
+        {
+          "strongs": "G2301",
+          "hebrew": "θεατρίζω",
+          "translit": "theatrízō",
+          "english": "exposed"
+        },
+        {
+          "strongs": "G2844",
+          "hebrew": "κοινωνός",
+          "translit": "koinōnós",
+          "english": "partakers"
+        },
+        {
+          "strongs": "G390",
+          "hebrew": "ἀναστρέφω",
+          "translit": "anastréphō",
+          "english": "treated"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "text": "For you both had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession and an enduring one in the heavens.",
+      "understanding": "καὶ γὰρ τοῖς δεσμοῖς μου συνεπαθήσατε, “For you both had compassion on me in my chains” — συμπαθέω, the word used of Jesus sympathising with our weakness (4:15). (Many manuscripts read ‘on the prisoners’ rather than ‘on me in my chains’.) καὶ τὴν ἁρπαγὴν τῶν ὑπαρχόντων ὑμῶν μετὰ χαρᾶς προσεδέξασθε, “and joyfully accepted the plundering of your possessions” — they let their goods be seized with joy! γινώσκοντες ἔχειν ἑαυτοῖς κρείττονα ὕπαρξιν καὶ μένουσαν, “knowing that you have for yourselves a better possession and an enduring one in the heavens” — κρείττων, ‘better’; γινώσκω from the know family.",
+      "words": [
+        {
+          "strongs": "G4834",
+          "hebrew": "συμπαθέω",
+          "translit": "sympathéō",
+          "english": "had compassion"
+        },
+        {
+          "strongs": "G1199",
+          "hebrew": "δεσμόν",
+          "translit": "desmón",
+          "english": "chains"
+        },
+        {
+          "strongs": "G724",
+          "hebrew": "ἁρπαγή",
+          "translit": "harpagḗ",
+          "english": "plundering"
+        },
+        {
+          "strongs": "G5224",
+          "hebrew": "ὑπάρχοντα",
+          "translit": "hypárchonta",
+          "english": "possessions"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joyfully"
+        },
+        {
+          "strongs": "G4327",
+          "hebrew": "προσδέχομαι",
+          "translit": "prosdéchomai",
+          "english": "accepted"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "knowing"
+        },
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "better"
+        },
+        {
+          "strongs": "G5223",
+          "hebrew": "ὕπαρξις",
+          "translit": "hýparxis",
+          "english": "possession"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "enduring"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heavens"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "text": "Therefore don’t throw away your boldness, which has a great reward.",
+      "understanding": "μὴ ἀποβάλητε οὖν τὴν παρρησίαν ὑμῶν, “Therefore don’t throw away your boldness” — ἀποβάλλω, to fling away, like a soldier throwing away his shield in panic. ἥτις ἔχει μεγάλην μισθαποδοσίαν, “which has a great reward.” The same confidence (παρρησία) that lets us enter God's presence (v. 19) must not be discarded.",
+      "words": [
+        {
+          "strongs": "G577",
+          "hebrew": "ἀποβάλλω",
+          "translit": "apobállō",
+          "english": "throw away"
+        },
+        {
+          "strongs": "G3954",
+          "hebrew": "παῤῥησία",
+          "translit": "parrhēsía",
+          "english": "boldness"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G3405",
+          "hebrew": "μισθαποδοσία",
+          "translit": "misthapodosía",
+          "english": "reward"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "text": "For you need endurance so that, having done the will of God, you may receive the promise.",
+      "understanding": "ὑπομονῆς γὰρ ἔχετε χρείαν, “For you need endurance” — ὑπομονή, staying power under pressure. ἵνα τὸ θέλημα τοῦ θεοῦ ποιήσαντες κομίσησθε τὴν ἐπαγγελίαν, “so that, having done the will of God, you may receive the promise.” Like Christ, who came ‘to do your will’ (v. 7), believers do God's will and wait for the promise.",
+      "words": [
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "endurance"
+        },
+        {
+          "strongs": "G5532",
+          "hebrew": "χρεία",
+          "translit": "chreía",
+          "english": "need"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "done"
+        },
+        {
+          "strongs": "G2865",
+          "hebrew": "κομίζω",
+          "translit": "komízō",
+          "english": "receive"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promise"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "text": "“In a very little while, he who comes will come, and will not wait.",
+      "understanding": "Now Habakkuk 2, in its Greek form: “In a very little while, he who comes will come, and will not wait.” μικρὸν ὅσον ὅσον, ‘a little, how little!’ — the wait is short. χρονίζω, to delay — from χρόνος in the time family. He will not take more time than necessary.",
+      "words": [
+        {
+          "strongs": "G3397",
+          "hebrew": "μικρόν",
+          "translit": "mikrón",
+          "english": "little while"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "comes"
+        },
+        {
+          "strongs": "G5549",
+          "hebrew": "χρονίζω",
+          "translit": "chronízō",
+          "english": "wait"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "text": "But the righteous will live by faith. If he shrinks back, my soul has no pleasure in him.”",
+      "understanding": "“But the righteous will live by faith.” The verse Paul used to show that righteousness comes by faith (Romans 1:17; Galatians 3:11); here it describes the life of faith that endures. “If he shrinks back, my soul has no pleasure in him.” ὑποστέλλω, to draw back, like sailors shortening sail in fear of a storm. ψυχή from the life family.",
+      "words": [
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "live"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G5288",
+          "hebrew": "ὑποστέλλω",
+          "translit": "hypostéllō",
+          "english": "shrinks back"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "soul"
+        },
+        {
+          "strongs": "G2106",
+          "hebrew": "εὐδοκέω",
+          "translit": "eudokéō",
+          "english": "pleasure"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "text": "But we are not of those who shrink back to destruction, but of those who have faith to the saving of the soul.",
+      "understanding": "ἡμεῖς δὲ οὐκ ἐσμὲν ὑποστολῆς εἰς ἀπώλειαν, “But we are not of those who shrink back to destruction,” ἀλλὰ πίστεως εἰς περιποίησιν ψυχῆς, “but of those who have faith to the saving of the soul.” The warning ends in confidence: ‘we’ — the writer includes himself with the readers among those who believe. And this leads straight into the great chapter on faith.",
+      "words": [
+        {
+          "strongs": "G5289",
+          "hebrew": "ὑποστολή",
+          "translit": "hypostolḗ",
+          "english": "shrink back"
+        },
+        {
+          "strongs": "G684",
+          "hebrew": "ἀπώλεια",
+          "translit": "apṓleia",
+          "english": "destruction"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G4047",
+          "hebrew": "περιποίησις",
+          "translit": "peripoíēsis",
+          "english": "saving"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "soul"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Standing and Sitting",
+      "verseRef": "v. 11-14",
+      "image": "Picture the temple court at sunset. A priest stands at the altar, exhausted, sleeves stained, the smoke of the evening sacrifice rising. Tomorrow he will stand here again, and the day after, offering the same sacrifices that never quite finish the job. There is no chair for him. Now picture a throne in heaven. On it sits One who made one offering, once, and then sat down — not from tiredness, but because the work was complete.",
+      "meaning": "“Every priest indeed stands day by day serving and often offering the same sacrifices, which can never take away sins” (v. 11), “but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God” (v. 12). “For by one offering he has perfected forever those who are being sanctified” (v. 14). Your acceptance before God does not depend on daily sacrifices. Rest in the One who sat down."
+    },
+    {
+      "title": "The Curtain Torn, the Way Open",
+      "verseRef": "v. 19-22",
+      "image": "Picture a great curtain hanging in a dark temple, thick and heavy, embroidered with cherubim. For centuries it has barred the way. Then picture it ripped from top to bottom, and light flooding out from the inner room. A crowd of ordinary people — not priests — walk forward, hesitant at first, then confident, into the presence of God.",
+      "meaning": "“Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus” (v. 19), “by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh” (v. 20), “let’s draw near with a true heart in fullness of faith” (v. 22). Jesus' torn body opened the way. You are invited in. Do not stand outside."
+    },
+    {
+      "title": "Don't Throw Away Your Shield",
+      "verseRef": "v. 32-39",
+      "image": "Picture an ancient battlefield. Early in the fight a soldier stood firm, shield raised, taking blow after blow. Now, hours later, exhausted and wounded, he is tempted to fling his shield away and run. His commander shouts across the field: ‘Remember how you stood at the beginning! Don't throw it away! Reinforcements are coming — hold on a little longer!’",
+      "meaning": "“But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings” (v. 32). “Therefore don’t throw away your boldness, which has a great reward” (v. 35). “For you need endurance so that, having done the will of God, you may receive the promise” (v. 36). “In a very little while, he who comes will come, and will not wait” (v. 37). Remember God's past faithfulness, hold your confidence, and endure."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Law's Shadow and Its Limits (v. 1-4)",
+        "body": "The law had only a shadow of the good things to come, not their true form, so its repeated yearly sacrifices could never perfect worshippers; otherwise they would have stopped, since cleansed worshippers would have no more consciousness of sin; instead the sacrifices were a yearly reminder of sin, because animal blood cannot take sins away."
+      },
+      {
+        "label": "The Obedient Son's Single Sacrifice (v. 5-18)",
+        "body": "Coming into the world, Christ said in Psalm 40 that God did not desire sacrifices and offerings but prepared a body for Him to do God's will; He removes the first to establish the second, and by God's will we are sanctified through the once-for-all offering of His body; the priests stand daily offering sacrifices that cannot remove sins, but Christ offered one sacrifice and sat down at God's right hand, perfecting forever those being sanctified, as the Spirit testifies in the new-covenant promise that God will remember sins no more — so no further offering for sin remains."
+      },
+      {
+        "label": "Draw Near, Hold Fast, Stir Up (v. 19-25)",
+        "body": "Since we have confidence to enter the holy place by Jesus' blood through the new and living way of His flesh, and a great priest over God's house, let us draw near with true hearts in full assurance of faith, hold fast the confession of our hope without wavering, and consider how to stir one another to love and good works, not neglecting to meet together but encouraging one another, all the more as the Day approaches."
+      },
+      {
+        "label": "The Fifth Warning (v. 26-31)",
+        "body": "If we go on sinning deliberately after receiving the knowledge of the truth, no sacrifice for sins remains, only a fearful expectation of judgement; if rejecting Moses' law brought death, how much worse for one who has trampled the Son of God, profaned the covenant blood and insulted the Spirit of grace; it is fearful to fall into the hands of the living God."
+      },
+      {
+        "label": "Remember, Endure, Believe (v. 32-39)",
+        "body": "Remember the earlier days when, after being enlightened, you endured hard struggles, public insults and the seizure of property with joy, knowing you had a better and lasting possession; do not throw away your confidence, but endure, because the coming One will come soon, the righteous live by faith, and we are not those who shrink back to destruction but those who believe and are saved."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Shadow and Substance, Standing and Sitting",
+        "paragraphs": [
+          "Chapter 10 completes the argument about sacrifice. “For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near” (v. 1). Two picture-words make the contrast: the law was a σκιά, a shadow, not the εἰκών, the real form. The proof is repetition: if the sacrifices had worked, they would have stopped. Instead, “in those sacrifices there is a yearly reminder of sins” (v. 3), because “it is impossible that the blood of bulls and goats should take away sins” (v. 4).",
+          "What God wanted was not more animals but a perfectly obedient person. So the Son, coming into the world, says in Psalm 40, “Sacrifice and offering you didn’t desire, but you prepared a body for me” (v. 5), and “Behold, I have come (in the scroll of the book it is written of me) to do your will, O God” (v. 7). All four offering-family words appear in verse 8, and all are set aside. “He takes away the first, that he may establish the second” (v. 9). “by which will we have been sanctified through the offering of the body of Jesus Christ once for all” (v. 10).",
+          "The contrast between the old priests and Christ is captured in their posture: “Every priest indeed stands day by day serving and often offering the same sacrifices, which can never take away sins” (v. 11), “but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God” (v. 12). The result: “For by one offering he has perfected forever those who are being sanctified” (v. 14). Believers are already perfected in standing, and are being sanctified in practice. Because God promises, “I will remember their sins and their iniquities no more” (v. 17), “there is no more offering for sin” (v. 18)."
+        ]
+      },
+      {
+        "heading": "Draw Near, Hold Fast, Stir One Another Up",
+        "paragraphs": [
+          "Now comes the great application. “Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus” (v. 19), “by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh” (v. 20), and “a great priest over God’s house” (v. 21) — three ‘let us’ commands follow, shaped by faith, hope and love.",
+          "Faith: “let’s draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience, and having our body washed with pure water” (v. 22). Hope: “let us hold fast the confession of our hope without wavering; for he who promised is faithful” (v. 23). Love: “Let us consider how to provoke one another to love and good works” (v. 24). The hold-family word κατέχω calls for a firm grip; the word for ‘provoke’ usually describes quarrels, but here it means stirring each other up to love.",
+          "And this happens in community: “not forsaking our own assembling together, as the custom of some is, but exhorting one another; and so much the more, as you see the Day approaching” (v. 25). Some had stopped meeting. The writer knows that isolated believers drift; gathered believers encourage each other. The early church “continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and prayer” (Acts 2:42)."
+        ]
+      },
+      {
+        "heading": "A Fearful Warning and a Confident Hope",
+        "paragraphs": [
+          "The fifth warning is the most severe: “For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins” (v. 26), “but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries” (v. 27). This does not describe ordinary sins that believers confess, but a settled, deliberate rejection: one who “has trodden under foot the Son of God, and has counted the blood of the covenant with which he was sanctified an unholy thing, and has insulted the Spirit of grace” (v. 29). If you reject the only sacrifice, there is no other. “It is a fearful thing to fall into the hands of the living God” (v. 31). As with chapter 6, sincere Christians interpret the passage differently, but its warning is plain and real.",
+          "Then the writer turns, as he did in chapter 6, to encouragement. “But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings” (v. 32). They had been publicly insulted, had stood with those in prison, and had “joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession and an enduring one in the heavens” (v. 34). Jesus said, “Rejoice, and be exceedingly glad, for great is your reward in heaven” (Matthew 5:12).",
+          "So: “Therefore don’t throw away your boldness, which has a great reward” (v. 35). “For you need endurance so that, having done the will of God, you may receive the promise” (v. 36). The Lord is coming soon, and “the righteous will live by faith” (v. 38). The chapter ends with confidence: “But we are not of those who shrink back to destruction, but of those who have faith to the saving of the soul” (v. 39). That word ‘faith’ opens the door to chapter 11."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Remembrance, Faith and Endurance",
+      "paragraphs": [
+        "The ‘reminder of sins’ (ἀνάμνησις) in 10:3 is the same word Jesus used at the Last Supper: “This is my body which is given for you. Do this in memory of me” (Luke 22:19). Paul records, “This is my body, which is broken for you. Do this in memory of me” (1 Corinthians 11:24). The old sacrifices reminded people of their sins; the Lord's Supper reminds believers of the One who took them away.",
+        "The verse “the righteous will live by faith” (10:38) is quoted by Paul as the heart of the gospel: “But the righteous shall live by faith” (Romans 1:17), and “The righteous will live by faith” (Galatians 3:11). The words about vengeance in 10:30 are used by Paul to tell believers not to retaliate: “Don’t seek revenge yourselves, beloved, but give place to God’s wrath” (Romans 12:19). Judgement belongs to God, not to us.",
+        "The call to endure suffering with joy echoes throughout the New Testament. The apostles left the council “rejoicing that they were counted worthy to suffer dishonor for Jesus’ name” (Acts 5:41). Peter says trials prove faith “more precious than gold that perishes” (1 Peter 1:7). Jesus said, “lay up for yourselves treasures in heaven, where neither moth nor rust consume” (Matthew 6:20). And James urges, “You also be patient. Establish your hearts, for the coming of the Lord is at hand” (James 5:8)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Reminder / remembrance",
+      "hebrew": "ἀνάμνησις",
+      "translit": "anámnēsis",
+      "strongs": "G364",
+      "verses": "v. 3",
+      "insight": "Strong's: “recollection.” It is used only four times in the New Testament: three times in Jesus' words at the Last Supper, ‘Do this in memory of me’, and here in Hebrews 10:3. The contrast is striking. The old sacrifices were a yearly remembrance of sins, keeping guilt in view. The Lord's Supper is a remembrance of Christ, keeping His finished sacrifice in view."
+    },
+    {
+      "english": "New / freshly made",
+      "hebrew": "πρόσφατος",
+      "translit": "prósphatos",
+      "strongs": "G4372",
+      "verses": "v. 20",
+      "insight": "Strong's: “previously (recently) slain (fresh), i.e. (figuratively) lately made.” Its original meaning was ‘freshly slaughtered’, though by New Testament times it usually meant simply ‘new’ or ‘recent’. Either sense fits Hebrews 10:20: the way into God's presence was opened by a fresh sacrifice, and it is always new — never stale, never closed. This study adds it to the new family beside καινός and νέος."
+    },
+    {
+      "english": "Without wavering / unbending",
+      "hebrew": "ἀκλινής",
+      "translit": "aklinḗs",
+      "strongs": "G186",
+      "verses": "v. 23",
+      "insight": "Strong's: “not leaning, i.e. (figuratively) firm.” It appears only here in the New Testament. It pictures something standing upright, not tilting to one side under pressure. Believers are to hold the confession of their hope without leaning toward doubt or compromise — not because they are strong, but because ‘he who promised is faithful’."
+    },
+    {
+      "english": "Provoke / stir up",
+      "hebrew": "παροξυσμός",
+      "translit": "paroxysmós",
+      "strongs": "G3948",
+      "verses": "v. 24",
+      "insight": "Strong's: “incitement (to good), or dispute (in anger).” Its only other New Testament use is the ‘sharp contention’ between Paul and Barnabas (Acts 15:39). Hebrews turns a word for conflict into a word for love: believers should put as much energy into stirring each other up to love and good works as people usually put into arguments."
+    },
+    {
+      "english": "Shrink back / draw back",
+      "hebrew": "ὑποστέλλω",
+      "translit": "hypostéllō",
+      "strongs": "G5288",
+      "verses": "v. 38",
+      "insight": "Strong's: “to withhold under (out of sight), i.e. (reflexively) to cower or shrink, (figuratively) to conceal (reserve).” Paul used it when he said he had ‘not shrunk back’ from declaring the whole counsel of God (Acts 20:27). It pictures timid retreat when faith is costly. The writer is confident that his readers are not those who shrink back, but those who believe."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit shows you a finished sacrifice, an open way, and the endurance faith requires.",
+    "items": [
+      {
+        "title": "He Sat Down — So Can You",
+        "body": "Christ's work is finished; He sat down. The Spirit wants you to stop standing anxiously before God as if your acceptance still depended on your offerings. You have been perfected forever by His one offering. Rest in that, and let your sanctification flow from security rather than fear."
+      },
+      {
+        "title": "Come Near, Hold On, Stir Up",
+        "body": "The Spirit calls you to three actions: draw near to God in faith, hold fast to your hope, and stir up others to love. Ask Him which of these you are neglecting. Is there someone you should invite back into fellowship this week?"
+      },
+      {
+        "title": "Do Not Throw Away Your Confidence",
+        "body": "Perhaps you are weary after a long struggle. The Spirit reminds you of past faithfulness — yours and His — and urges you not to throw away your confidence now. The One who is coming will come. Ask Him for fresh endurance today."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Rest Check",
+        "body": "Do you still feel you must ‘do something’ to stay acceptable to God? Read verses 12 and 14 slowly, and thank Christ for His finished work."
+      },
+      {
+        "title": "The Fellowship Check",
+        "body": "Have you been neglecting to meet with other believers (v. 25)? What would it take to be consistently present? Who could you encourage to come with you?"
+      },
+      {
+        "title": "The Endurance Check",
+        "body": "Where are you tempted to throw away your confidence or shrink back (vv. 35, 38)? Write down one way God has been faithful in the past, and let it strengthen you now."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Provoke Someone to Love",
+        "body": "Each week this month, deliberately ‘provoke’ one believer to love and good works (v. 24): invite them to serve with you, share a need they could meet, or simply tell them how you have seen God use them. Keep track and pray for each one."
+      },
+      {
+        "title": "Remember the Former Days",
+        "body": "Write a short account of your early days of faith — what drew you to Christ, what you endured, how God sustained you (v. 32). Read it when you feel weary. Share it with a younger believer as an encouragement to endure."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, thank You that the law's shadows have given way to the reality in Christ. Animal blood could never take away sins, but Your Son came into the world, saying, ‘I have come to do your will,’ and offered His body once for all. Thank You that I have been sanctified by that offering, and that by one offering He has perfected forever those who are being sanctified. He sat down, because His work is finished. You remember my sins and lawless deeds no more. So I come with confidence into Your presence by the blood of Jesus, through the new and living way He opened through His flesh. I draw near with a sincere heart in full assurance of faith. I hold fast the confession of my hope without wavering, because You who promised are faithful. Help me stir up others to love and good works, and never to neglect meeting with Your people. Keep me from ever trampling the Son of God or insulting the Spirit of grace. When I grow weary, help me remember the former days, refuse to throw away my confidence, and endure until I receive what You have promised. I am not one who shrinks back, but one who believes. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Psalm 40: ‘I Have Come to Do Your Will’",
+      "ref": "Psalm 40:6-8",
+      "relatedVerses": "v. 5-10",
+      "summary": "In Psalm 40 David praises God for lifting him out of a pit and putting a new song in his mouth. Then he says that God did not delight in sacrifices and offerings; instead, he comes willingly to do God's will, for God's law is within his heart. Hebrews 10 hears the Son speaking these words as He enters the world. What David desired imperfectly, Jesus did perfectly: He came in a body prepared for Him, delighted to do the Father's will, and offered that body once for all."
+    },
+    {
+      "title": "Gethsemane: ‘Not My Will, But Yours’",
+      "ref": "Luke 22:39-46",
+      "relatedVerses": "v. 7, 9-10",
+      "summary": "On the night before the cross, Jesus knelt in the garden and prayed, ‘Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.’ An angel strengthened Him, and in anguish He prayed more earnestly. Then He rose to face His betrayer. Hebrews 10 says, ‘Behold, I have come to do your will.’ In Gethsemane we see the cost of that obedience, and on the cross we see its fulfilment: ‘by which will we have been sanctified through the offering of the body of Jesus Christ once for all’ (v. 10)."
+    },
+    {
+      "title": "The Apostles Rejoice in Suffering",
+      "ref": "Acts 5:17-42",
+      "relatedVerses": "v. 32-35",
+      "summary": "The high priest had the apostles arrested for preaching about Jesus. An angel released them, and they went straight back to teaching in the temple. Brought before the council again, Peter declared that they must obey God rather than men. After advice from Gamaliel, the council had them beaten and ordered them not to speak in Jesus' name. “They therefore departed from the presence of the council, rejoicing that they were counted worthy to suffer dishonor for Jesus’ name” (Acts 5:41). Like the readers of Hebrews in their early days, they accepted suffering with joy, knowing they had a better possession."
+    }
+  ]
+}
