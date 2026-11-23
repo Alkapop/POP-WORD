@@ -267,7 +267,7 @@
     {
       "v": 8,
       "text": "However, if you fulfill the royal law, according to the Scripture, “You shall love your neighbor as yourself,” you do well.",
-      "understanding": "εἰ μέντοι νόμον τελεῖτε βασιλικόν, “However, if you fulfill the royal law” — τελέω, from the perfect family: to carry out fully. βασιλικός, royal — the law of the King, the law that rules all others, as Jesus taught that all the law hangs on love. “You shall love your neighbor as yourself” comes from Leviticus 19:18, and only a few verses earlier, Leviticus 19:15 forbids showing partiality to the poor or the great. καλῶς ποιεῖτε, “you do well” — καλῶς, the adverb of καλός, from the good family.",
+      "understanding": "εἰ μέντοι νόμον τελεῖτε βασιλικόν, “However, if you fulfill the royal law” — τελέω, from the perfect family: to carry out fully. βασιλικός, royal — the law of the King, the law that rules all others, as Jesus taught that all the law hangs on love. “You shall love your neighbor as yourself” — ἀγαπάω, from the love family — comes from Leviticus 19:18, and only a few verses earlier, Leviticus 19:15 forbids showing partiality to the poor or the great. καλῶς ποιεῖτε, “you do well” — καλῶς, the adverb of καλός, from the good family.",
       "words": [
         {
           "strongs": "G5055",
@@ -323,6 +323,12 @@
           "hebrew": "προσωποληπτέω",
           "translit": "prosōpolēptéō",
           "english": "show partiality"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "commit"
         },
         {
           "strongs": "G266",
@@ -384,7 +390,7 @@
     {
       "v": 11,
       "text": "For he who said, “Do not commit adultery,” also said, “Do not commit murder.” Now if you do not commit adultery, but murder, you have become a transgressor of the law.",
-      "understanding": "“For he who said, ‘Do not commit adultery,’ also said, ‘Do not commit murder.’” The commandments come from one Person. Obeying one while breaking another still makes you παραβάτης, “a transgressor of the law” — the same sin-family word as verse 9.",
+      "understanding": "“For he who said, ‘Do not commit adultery,’ also said, ‘Do not commit murder.’” The commandments come from one Person. Obeying one while breaking another still makes you παραβάτης, “a transgressor of the law” — from the sin family, the same word as verse 9.",
       "words": [
         {
           "strongs": "G3431",
@@ -489,7 +495,7 @@
     {
       "v": 14,
       "text": "What good is it, my brothers, if a man says he has faith, but has no works? Can faith save him?",
-      "understanding": "τί τὸ ὄφελος, “What good is it” — ὄφελος, profit, use. ἐὰν πίστιν λέγῃ τις ἔχειν, “if a man says he has faith” — notice the word ‘says’. James is not attacking faith but a claim to faith. ἔργα δὲ μὴ ἔχῃ, “but has no works” — ἔργον, from the work family: deeds of love and obedience, not ceremonies. “Can faith save him?” — in Greek, ἡ πίστις, ‘that faith’, the kind just described. The question expects the answer ‘No.’",
+      "understanding": "τί τὸ ὄφελος, “What good is it” — ὄφελος, profit, use. ἐὰν πίστιν λέγῃ τις ἔχειν, “if a man says he has faith” — notice the word ‘says’. James is not attacking faith but a claim to faith. ἔργα δὲ μὴ ἔχῃ, “but has no works” — ἔργον, from the work family: deeds of love and obedience, not ceremonies. “Can faith save him?” — σῴζω, from the heal family, means to rescue and make whole; and in Greek it is ἡ πίστις, ‘that faith’, the kind just described. The question expects the answer ‘No.’",
       "words": [
         {
           "strongs": "G3786",
@@ -606,7 +612,7 @@
     {
       "v": 17,
       "text": "Even so faith, if it has no works, is dead in itself.",
-      "understanding": "οὕτως καὶ ἡ πίστις, ἐὰν μὴ ἔχῃ ἔργα, νεκρά ἐστιν καθ᾽ ἑαυτήν, “Even so faith, if it has no works, is dead in itself” — νεκρός, a corpse. Not weak, not immature, but dead ‘in itself’ — inwardly lifeless, whatever it claims.",
+      "understanding": "οὕτως καὶ ἡ πίστις, ἐὰν μὴ ἔχῃ ἔργα, νεκρά ἐστιν καθ᾽ ἑαυτήν, “Even so faith, if it has no works, is dead in itself” — ἔργα, from the work family, are missing, and the faith is νεκρός, a corpse. Not weak, not immature, but dead ‘in itself’ — inwardly lifeless, whatever it claims.",
       "words": [
         {
           "strongs": "G4102",
@@ -631,7 +637,7 @@
     {
       "v": 18,
       "text": "Yes, a man will say, “You have faith, and I have works.” Show me your faith without works, and I by my works will show you my faith.",
-      "understanding": "“Yes, a man will say, ‘You have faith, and I have works.’” An objector suggests that faith and works are separate gifts — some people have one, some the other. James refuses: “Show me your faith without works, and I by my works will show you my faith.” δείκνυμι, to display. Faith is invisible; works make it visible. A faith that cannot be shown cannot be proven to exist.",
+      "understanding": "“Yes, a man will say, ‘You have faith, and I have works.’” An objector suggests that faith and works are separate gifts — some people have one, some the other. James refuses: “Show me your faith without works, and I by my works will show you my faith.” δείκνυμι, to display. Faith is invisible; works (ἔργα, from the work family) make it visible. A faith that cannot be shown cannot be proven to exist.",
       "words": [
         {
           "strongs": "G4102",
@@ -699,7 +705,7 @@
     {
       "v": 20,
       "text": "But do you want to know, vain man, that faith apart from works is dead?",
-      "understanding": "“But do you want to know, vain man” — κενός, empty, hollow. “that faith apart from works is dead?” The WEB here follows manuscripts that read νεκρά, ‘dead’. Many early manuscripts read ἀργή instead — ‘idle, useless’ — from ἀ- (‘not’) and ἔργον (‘work’): ‘faith without works doesn't work.’ Either reading makes the same point.",
+      "understanding": "“But do you want to know, vain man” — κενός, empty, hollow. “that faith apart from works is dead?” The WEB here follows manuscripts that read νεκρά, ‘dead’. Many early manuscripts read ἀργή instead — ‘idle, useless’ — from ἀ- (‘not’) and ἔργον (‘work’): ‘faith without works doesn't work.’ Either reading makes the same point about ἔργα, from the work family.",
       "words": [
         {
           "strongs": "G2756",
@@ -736,7 +742,7 @@
     {
       "v": 21,
       "text": "Wasn’t Abraham our father justified by works, in that he offered up Isaac his son on the altar?",
-      "understanding": "Ἀβραὰμ ὁ πατὴρ ἡμῶν οὐκ ἐξ ἔργων ἐδικαιώθη, “Wasn’t Abraham our father justified by works” — δικαιόω, to declare or show to be righteous. ἀνενέγκας Ἰσαὰκ … ἐπὶ τὸ θυσιαστήριον, “in that he offered up Isaac his son on the altar” — ἀναφέρω, from the offering family: to carry up onto the altar, the same verb Hebrews uses of Christ offering Himself (Hebrews 7:27). Genesis 22 came many years after Genesis 15:6.",
+      "understanding": "Ἀβραὰμ ὁ πατὴρ ἡμῶν οὐκ ἐξ ἔργων ἐδικαιώθη, “Wasn’t Abraham our father justified by works” — ἔργα, from the work family; δικαιόω, to declare or show to be righteous. ἀνενέγκας Ἰσαὰκ … ἐπὶ τὸ θυσιαστήριον, “in that he offered up Isaac his son on the altar” — ἀναφέρω, from the offering family: to carry up onto the altar, the same verb Hebrews uses of Christ offering Himself (Hebrews 7:27). Genesis 22 came many years after Genesis 15:6.",
       "words": [
         {
           "strongs": "G11",
@@ -779,7 +785,7 @@
     {
       "v": 22,
       "text": "You see that faith worked with his works, and by works faith was perfected;",
-      "understanding": "βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ, “You see that faith worked with his works” — συνεργέω, from the work family: to work together. Faith and works were partners, not rivals. καὶ ἐκ τῶν ἔργων ἡ πίστις ἐτελειώθη, “and by works faith was perfected” — τελειόω, from the perfect family: brought to its goal, matured. Faith was there first; works brought it to its full expression.",
+      "understanding": "βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ, “You see that faith worked with his works” — βλέπω, from the see family; συνεργέω, from the work family: to work together. Faith and works were partners, not rivals. καὶ ἐκ τῶν ἔργων ἡ πίστις ἐτελειώθη, “and by works faith was perfected” — τελειόω, from the perfect family: brought to its goal, matured. Faith was there first; works brought it to its full expression.",
       "words": [
         {
           "strongs": "G991",
@@ -859,7 +865,7 @@
     {
       "v": 24,
       "text": "You see then that by works, a man is justified, and not only by faith.",
-      "understanding": "ὁρᾶτε, “You see then” — ὁράω, from the see family: here, to perceive the conclusion. “that by works, a man is justified, and not only by faith.” Notice ‘not only’. James does not say faith is unnecessary; he denies that faith alone — the bare, workless faith of verses 14–19 — justifies. Here δικαιόω means shown and vindicated as righteous before God and people, the righteousness God credited now demonstrated.",
+      "understanding": "ὁρᾶτε, “You see then” — ὁράω, from the see family: here, to perceive the conclusion. “that by works, a man is justified, and not only by faith.” ἔργα, from the work family. Notice ‘not only’. James does not say faith is unnecessary; he denies that faith alone — the bare, workless faith of verses 14–19 — justifies. Here δικαιόω means shown and vindicated as righteous before God and people, the righteousness God credited now demonstrated.",
       "words": [
         {
           "strongs": "G3708",
@@ -890,7 +896,7 @@
     {
       "v": 25,
       "text": "In the same way, wasn’t Rahab the prostitute also justified by works, in that she received the messengers, and sent them out another way?",
-      "understanding": "“In the same way, wasn’t Rahab the prostitute also justified by works” — Ῥαάβ ἡ πόρνη, a Canaanite woman with a shameful past, the opposite of Abraham in every way except one: her faith acted. ὑποδεξαμένη τοὺς ἀγγέλους, “in that she received the messengers” — ὑποδέχομαι, to welcome under one's roof. καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα, “and sent them out another way” — ἕτερος, from the another family: a different road, not the one the soldiers were watching.",
+      "understanding": "“In the same way, wasn’t Rahab the prostitute also justified by works” — Ῥαάβ ἡ πόρνη, a Canaanite woman with a shameful past, the opposite of Abraham in every way except one: her faith acted, in ἔργα, from the work family. ὑποδεξαμένη τοὺς ἀγγέλους, “in that she received the messengers” — ὑποδέχομαι, to welcome under one's roof. καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα, “and sent them out another way” — ἕτερος, from the another family: a different road, not the one the soldiers were watching.",
       "words": [
         {
           "strongs": "G4460",
@@ -951,7 +957,7 @@
     {
       "v": 26,
       "text": "For as the body apart from the spirit is dead, even so faith apart from works is dead.",
-      "understanding": "ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν, “For as the body apart from the spirit is dead” — πνεῦμα, here the breath of life. A body without breath may look complete, but it is a corpse. “even so faith apart from works is dead” — the third time James has said it (vv. 17, 20, 26).",
+      "understanding": "ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν, “For as the body apart from the spirit is dead” — πνεῦμα, here the breath of life. A body without breath may look complete, but it is a corpse. “even so faith apart from works is dead” — faith without ἔργα, from the work family, for the third time (vv. 17, 20, 26).",
       "words": [
         {
           "strongs": "G4983",
