@@ -21,7 +21,8 @@ copy of `app/` after every change here.
 ## Word families — always say WHICH original word
 English hides several original words behind one word: power (δύναμις, ἐνέργεια, κράτος,
 ἰσχύς, ἐξουσία, ἀρχή), time (χρόνος, καιρός, ὥρα, αἰών, ἡμέρα), love (ἀγαπάω, φιλέω…),
-know, word, life, new, another, world, servant, work, sin, evil, pray, good, see, rise, sleep,
+signs & wonders, know, word, life, new, another, world, servant, work, sin, evil, pray, good,
+see, rise, sleep,
 and Hebrew names of God, sin, love, strength, time. The list is `sources/word-families.json`.
 - Tag the word with its Strong's id and the exact English it renders (`english`).
 - The verse's understanding note names which word it is and how it differs from its siblings.

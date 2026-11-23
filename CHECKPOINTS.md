@@ -204,5 +204,29 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 ### Book queue
 | # | Book | Status |
 |---|------|--------|
-| 52 | 1 Thessalonians | ✅ built & verified |
-| 53 | 2 Thessalonians (3 ch.) | next — bridge from 1 Thessalonians; Road Ahead → 1 Timothy, 2 Timothy |
+| 52 | 1 Thessalonians | ✅ live |
+| 53 | 2 Thessalonians | ✅ built & verified |
+
+---
+
+## 2026-11-23 — 2 Thessalonians
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 10KB | — | ✅ | ✅ (19 quotes) | Bridge from 1 Thessalonians (matches its Road Ahead) |
+| Chapter 1 | 33KB | 12/12 | ✅ | ✅ | 1:9 judgment stated plainly; new **signs & wonders** family. Caught & fixed: a Strong's quote paired with the next reference. Caught by hand: G1460 (ἐγκατοικέω) → G2744 καυχάομαι |
+| Chapter 2 | 42KB | 17/17 | ✅ | ✅ | 2:3 ἁμαρτία / ἀνομία variant; the restrainer's main views given without speculation; 2:9 δύναμις + σημεῖον + τέρας; ἀδικία added to **sin** |
+| Chapter 3 | 36KB | 18/18 | ✅ | ✅ | 3:8 work triple; 3:11 ἐργάζομαι / περιεργάζομαι (added to **work**); 3:9 ἐξουσία ‘right’; 3:17 σημεῖον |
+| Final Masterclass Review | 14KB | — | ✅ | ✅ (168 quotes) | Road Ahead → 1 Timothy, 2 Timothy |
+
+- **Book total:** 3 chapters, 47/47 verses, 15 lexicon entries, 168 referenced quotations checked (exit 0).
+- **Word families:** 23 → 24 families, 93 → 98 words.
+- **G3** ✅ all 5 documents; word-panel spot checks 8/8 (2:9 ×2, 2:7, 3:8, 3:11, 3:9, 3:3).
+  Word-study regression 21/21 (now checks that δύναμις shows both of its families).
+- Backlog unchanged: 42 NOT-IN-WEB / 32 LEMMA / 28 WRONG-REF.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 53 | 2 Thessalonians | ✅ built & verified |
+| 54 | 1 Timothy (6 ch.) | next — bridge from 2 Thessalonians; Road Ahead → 2 Timothy, Titus |
