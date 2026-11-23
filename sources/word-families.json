@@ -81,6 +81,18 @@
           "sense": "Active, effective, at work — the adjective of ἐνέργεια: God’s word is not inert but operating.",
           "anchor": "Hebrews 4:12",
           "en": "active"
+        },
+        {
+          "strongs": "G1412",
+          "sense": "To be made strong, empowered — from δύναμις: the heroes of faith ‘from weakness were made strong’ (Hebrews 11:34).",
+          "anchor": "Hebrews 11:34",
+          "en": "strong"
+        },
+        {
+          "strongs": "G2478",
+          "sense": "Strong, mighty — the adjective of ἰσχύς: physical or moral strength (Hebrews 11:34 ‘mighty in war’).",
+          "anchor": "Hebrews 11:34",
+          "en": "mighty"
         }
       ]
     },
@@ -176,6 +188,12 @@
           "sense": "Well-timed — εὖ + καιρός: help that arrives at exactly the right moment.",
           "anchor": "Hebrews 4:16",
           "en": "time of need"
+        },
+        {
+          "strongs": "G4340",
+          "sense": "For a season, temporary — πρός + καιρός: lasting only for a time, like the ‘pleasures of sin for a time’ Moses refused (Hebrews 11:25).",
+          "anchor": "Hebrews 11:25",
+          "en": "time"
         }
       ]
     },
@@ -316,6 +334,12 @@
           "sense": "Full, precise knowledge — ἐπί (upon) + γνῶσις: knowledge that grips and transforms.",
           "anchor": "Colossians 1:9",
           "en": "knowledge"
+        },
+        {
+          "strongs": "G1987",
+          "sense": "To know well, understand, be acquainted with — Abraham went out ‘not knowing’ where he was going (Hebrews 11:8).",
+          "anchor": "Hebrews 11:8",
+          "en": "knowing"
         }
       ]
     },
@@ -944,6 +968,12 @@
           "strongs": "G2124",
           "sense": "Reverent awe — careful, God-fearing reverence. Jesus was heard ‘for his godly fear’ (Hebrews 5:7); believers serve God ‘with reverence’ (12:28).",
           "anchor": "Hebrews 5:7",
+          "en": "godly fear"
+        },
+        {
+          "strongs": "G2125",
+          "sense": "To act with reverent caution, to be moved by godly fear — the verb of εὐλάβεια (Noah, Hebrews 11:7).",
+          "anchor": "Hebrews 11:7",
           "en": "godly fear"
         }
       ]

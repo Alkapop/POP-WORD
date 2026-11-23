@@ -1,0 +1,2365 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 11,
+  "chapterTitle": "The Great Cloud of Faith",
+  "themeTitle": "“Faith Is Assurance of Things Hoped For”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now faith is assurance of things hoped for, proof of things not seen.",
+      "understanding": "ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις, “Now faith is assurance of things hoped for” — ὑπόστασις, the same word as ‘substance’ in 1:3 and ‘confidence’ in 3:14: the solid ground beneath, the title deed. Faith treats God's future promises as present realities. πραγμάτων ἔλεγχος οὐ βλεπομένων, “proof of things not seen” — ἔλεγχος, conviction, evidence that convinces (the ‘reproof’ word of 2 Timothy 3:16). βλέπω from the see family: what cannot yet be seen with the eyes. This is not a full definition of faith but a description of what it does.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G5287",
+          "hebrew": "ὑπόστασις",
+          "translit": "hypóstasis",
+          "english": "assurance"
+        },
+        {
+          "strongs": "G1679",
+          "hebrew": "ἐλπίζω",
+          "translit": "elpízō",
+          "english": "hoped for"
+        },
+        {
+          "strongs": "G1650",
+          "hebrew": "ἔλεγχος",
+          "translit": "élenchos",
+          "english": "proof"
+        },
+        {
+          "strongs": "G4229",
+          "hebrew": "πρᾶγμα",
+          "translit": "prâgma",
+          "english": "things"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "seen"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For by this, the elders obtained testimony.",
+      "understanding": "ἐν ταύτῃ γὰρ ἐμαρτυρήθησαν οἱ πρεσβύτεροι, “For by this, the elders obtained testimony” — οἱ πρεσβύτεροι, the people of old, the ancestors. μαρτυρέω, God bore witness about them, approving them. The rest of the chapter shows how.",
+      "words": [
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G3140",
+          "hebrew": "μαρτυρέω",
+          "translit": "martyréō",
+          "english": "obtained testimony"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "By faith, we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible.",
+      "understanding": "πίστει νοοῦμεν κατηρτίσθαι τοὺς αἰῶνας ῥήματι θεοῦ, “By faith, we understand that the universe has been framed by the word of God.” Three word-family points. αἰών, here ‘universe’ — the ages, the whole created order (as ‘worlds’ in 1:2). καταρτίζω from the perfect family: fitted together, set in order. ῥῆμα from the word family: God's spoken command (‘Let there be light’), not λόγος, the message. εἰς τὸ μὴ ἐκ φαινομένων τὸ βλεπόμενον γεγονέναι, “so that what is seen has not been made out of things which are visible” — φαίνω from the appear family and βλέπω from the see family. The visible world came from the invisible word.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G3539",
+          "hebrew": "νοιέω",
+          "translit": "noiéō",
+          "english": "understand"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "universe"
+        },
+        {
+          "strongs": "G2675",
+          "hebrew": "καταρτίζω",
+          "translit": "katartízō",
+          "english": "framed"
+        },
+        {
+          "strongs": "G4487",
+          "hebrew": "ῥῆμα",
+          "translit": "rhēma",
+          "english": "word"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "seen"
+        },
+        {
+          "strongs": "G5316",
+          "hebrew": "φαίνω",
+          "translit": "phaínō",
+          "english": "visible"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "By faith, Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks.",
+      "understanding": "πίστει πλείονα θυσίαν Ἄβελ παρὰ Κάϊν προσήνεγκεν τῷ θεῷ, “By faith, Abel offered to God a more excellent sacrifice than Cain” — θυσία and προσφέρω from the offering family. Genesis does not say exactly why Abel's was better; Hebrews says it was faith, and John adds that Cain's ‘deeds were evil’. δι᾽ ἧς ἐμαρτυρήθη εἶναι δίκαιος, “through which he had testimony given to him that he was righteous.” καὶ δι᾽ αὐτῆς ἀποθανὼν ἔτι λαλεῖ, “and through it he, being dead, still speaks.”",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G6",
+          "hebrew": "Ἄβελ",
+          "translit": "Ábel",
+          "english": "Abel"
+        },
+        {
+          "strongs": "G4119",
+          "hebrew": "πλείων",
+          "translit": "pleíōn",
+          "english": "more excellent"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifice"
+        },
+        {
+          "strongs": "G2535",
+          "hebrew": "Κάϊν",
+          "translit": "Káïn",
+          "english": "Cain"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offered"
+        },
+        {
+          "strongs": "G3140",
+          "hebrew": "μαρτυρέω",
+          "translit": "martyréō",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous"
+        },
+        {
+          "strongs": "G1435",
+          "hebrew": "δῶρον",
+          "translit": "dōron",
+          "english": "gifts"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "dead"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "speaks"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "By faith, Enoch was taken away, so that he wouldn’t see death, and he was not found, because God translated him. For he has had testimony given to him that before his translation he had been well pleasing to God.",
+      "understanding": "πίστει Ἐνὼχ μετετέθη τοῦ μὴ ἰδεῖν θάνατον, “By faith, Enoch was taken away, so that he wouldn’t see death” — μετατίθημι, transferred, translated. Genesis 5 says only that ‘Enoch walked with God, and he was not, for God took him’. εὐηρεστηκέναι τῷ θεῷ, “he had been well pleasing to God” — the Greek Old Testament's way of saying he ‘walked with God’.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1802",
+          "hebrew": "Ἐνώχ",
+          "translit": "Enṓch",
+          "english": "Enoch"
+        },
+        {
+          "strongs": "G3346",
+          "hebrew": "μετατίθημι",
+          "translit": "metatíthēmi",
+          "english": "taken away"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "see"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        },
+        {
+          "strongs": "G3331",
+          "hebrew": "μετάθεσις",
+          "translit": "metáthesis",
+          "english": "translation"
+        },
+        {
+          "strongs": "G2100",
+          "hebrew": "εὐαρεστέω",
+          "translit": "euarestéō",
+          "english": "well pleasing"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.",
+      "understanding": "χωρὶς δὲ πίστεως ἀδύνατον εὐαρεστῆσαι, “Without faith it is impossible to be well pleasing to him” — the conclusion from Enoch. πιστεῦσαι γὰρ δεῖ τὸν προσερχόμενον τῷ θεῷ ὅτι ἔστιν, “for he who comes to God must believe that he exists,” καὶ τοῖς ἐκζητοῦσιν αὐτὸν μισθαποδότης γίνεται, “and that he is a rewarder of those who seek him.” Faith believes two things: that God is, and that God is good to those who seek Him.",
+      "words": [
+        {
+          "strongs": "G5565",
+          "hebrew": "χωρίς",
+          "translit": "chōrís",
+          "english": "Without"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G102",
+          "hebrew": "ἀδύνατος",
+          "translit": "adýnatos",
+          "english": "impossible"
+        },
+        {
+          "strongs": "G2100",
+          "hebrew": "εὐαρεστέω",
+          "translit": "euarestéō",
+          "english": "well pleasing"
+        },
+        {
+          "strongs": "G4334",
+          "hebrew": "προσέρχομαι",
+          "translit": "prosérchomai",
+          "english": "comes"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believe"
+        },
+        {
+          "strongs": "G3406",
+          "hebrew": "μισθαποδότης",
+          "translit": "misthapodótēs",
+          "english": "rewarder"
+        },
+        {
+          "strongs": "G1567",
+          "hebrew": "ἐκζητέω",
+          "translit": "ekzētéō",
+          "english": "seek"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "By faith, Noah, being warned about things not yet seen, moved with godly fear, prepared a ship for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith.",
+      "understanding": "πίστει χρηματισθεὶς Νῶε περὶ τῶν μηδέπω βλεπομένων, “By faith, Noah, being warned about things not yet seen” — no one had ever seen a flood like it. εὐλαβηθείς, “moved with godly fear” — εὐλαβέομαι, added to the godliness family: reverent awe that acts. κατεσκεύασεν κιβωτόν εἰς σωτηρίαν τοῦ οἴκου αὐτοῦ, “prepared a ship for the saving of his house.” δι᾽ ἧς κατέκρινεν τὸν κόσμον, “through which he condemned the world” — κόσμος from the world family: his obedience exposed their unbelief. καὶ τῆς κατὰ πίστιν δικαιοσύνης ἐγένετο κληρονόμος, “and became heir of the righteousness which is according to faith.”",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G3575",
+          "hebrew": "Νῶε",
+          "translit": "Nōe",
+          "english": "Noah"
+        },
+        {
+          "strongs": "G5537",
+          "hebrew": "χρηματίζω",
+          "translit": "chrēmatízō",
+          "english": "warned"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "seen"
+        },
+        {
+          "strongs": "G2125",
+          "hebrew": "εὐλαβέομαι",
+          "translit": "eulabéomai",
+          "english": "godly fear"
+        },
+        {
+          "strongs": "G2680",
+          "hebrew": "κατασκευάζω",
+          "translit": "kataskeuázō",
+          "english": "prepared"
+        },
+        {
+          "strongs": "G2787",
+          "hebrew": "κιβωτός",
+          "translit": "kibōtós",
+          "english": "ship"
+        },
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "saving"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2632",
+          "hebrew": "κατακρίνω",
+          "translit": "katakrínō",
+          "english": "condemned"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G2818",
+          "hebrew": "κληρονόμος",
+          "translit": "klēronómos",
+          "english": "heir"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "By faith, Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went.",
+      "understanding": "πίστει καλούμενος Ἀβραὰμ ὑπήκουσεν ἐξελθεῖν, “By faith, Abraham, when he was called, obeyed to go out” — the call and the obedience come together; ὑπακούω, to listen and obey. εἰς τόπον ὃν ἤμελλεν λαμβάνειν εἰς κληρονομίαν, “to the place which he was to receive for an inheritance.” καὶ ἐξῆλθεν μὴ ἐπιστάμενος ποῦ ἔρχεται, “He went out, not knowing where he went” — ἐπίσταμαι, added to the know family: to know well, to understand. He did not know the destination, but he knew the One who called.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G11",
+          "hebrew": "Ἀβραάμ",
+          "translit": "Abraám",
+          "english": "Abraham"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G5219",
+          "hebrew": "ὑπακούω",
+          "translit": "hypakoúō",
+          "english": "obeyed"
+        },
+        {
+          "strongs": "G1831",
+          "hebrew": "ἐξέρχομαι",
+          "translit": "exérchomai",
+          "english": "go out"
+        },
+        {
+          "strongs": "G2817",
+          "hebrew": "κληρονομία",
+          "translit": "klēronomía",
+          "english": "inheritance"
+        },
+        {
+          "strongs": "G1987",
+          "hebrew": "ἐπίσταμαι",
+          "translit": "epístamai",
+          "english": "knowing"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "By faith, he lived as an alien in the land of promise, as in a land not his own, dwelling in tents, with Isaac and Jacob, the heirs with him of the same promise.",
+      "understanding": "πίστει παρῴκησεν εἰς γῆν τῆς ἐπαγγελίας ὡς ἀλλοτρίαν, “By faith, he lived as an alien in the land of promise, as in a land not his own” — παροικέω, to live as a resident foreigner. ἐν σκηναῖς κατοικήσας μετὰ Ἰσαὰκ καὶ Ἰακώβ, “dwelling in tents, with Isaac and Jacob, the heirs with him of the same promise.” Three generations lived in the promised land in tents, never owning it.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G3939",
+          "hebrew": "παροικέω",
+          "translit": "paroikéō",
+          "english": "lived as an alien"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "land"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promise"
+        },
+        {
+          "strongs": "G245",
+          "hebrew": "ἀλλότριος",
+          "translit": "allótrios",
+          "english": "not his own"
+        },
+        {
+          "strongs": "G4633",
+          "hebrew": "σκηνή",
+          "translit": "skēnḗ",
+          "english": "tents"
+        },
+        {
+          "strongs": "G2464",
+          "hebrew": "Ἰσαάκ",
+          "translit": "Isaák",
+          "english": "Isaac"
+        },
+        {
+          "strongs": "G2384",
+          "hebrew": "Ἰακώβ",
+          "translit": "Iakṓb",
+          "english": "Jacob"
+        },
+        {
+          "strongs": "G4789",
+          "hebrew": "συγκληρονόμος",
+          "translit": "synklēronómos",
+          "english": "heirs with him"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For he looked for the city which has the foundations, whose builder and maker is God.",
+      "understanding": "ἐξεδέχετο γὰρ τὴν τοὺς θεμελίους ἔχουσαν πόλιν, “For he looked for the city which has the foundations” — tents have pegs; this city has foundations. ἧς τεχνίτης καὶ δημιουργὸς ὁ θεός, “whose builder and maker is God” — τεχνίτης, a craftsman, architect; δημιουργός, a builder. Abraham looked beyond Canaan to God's eternal city.",
+      "words": [
+        {
+          "strongs": "G1551",
+          "hebrew": "ἐκδέχομαι",
+          "translit": "ekdéchomai",
+          "english": "looked for"
+        },
+        {
+          "strongs": "G2310",
+          "hebrew": "θεμέλιος",
+          "translit": "themélios",
+          "english": "foundations"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G5079",
+          "hebrew": "τεχνίτης",
+          "translit": "technítēs",
+          "english": "builder"
+        },
+        {
+          "strongs": "G1217",
+          "hebrew": "δημιουργός",
+          "translit": "dēmiourgós",
+          "english": "maker"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "By faith, even Sarah herself received power to conceive, and she bore a child when she was past age, since she counted him faithful who had promised.",
+      "understanding": "πίστει καὶ αὐτὴ Σάρρα δύναμιν εἰς καταβολὴν σπέρματος ἔλαβεν, “By faith, even Sarah herself received power to conceive” — δύναμις from the power family. καὶ παρὰ καιρὸν ἡλικίας, “and she bore a child when she was past age” — καιρός from the time family: past the season. ἐπεὶ πιστὸν ἡγήσατο τὸν ἐπαγγειλάμενον, “since she counted him faithful who had promised.” (Some read the sentence with Abraham as the subject: ‘By faith Abraham, with Sarah herself, received power...’. Sarah had laughed in unbelief at first, but she came to trust.)",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G4564",
+          "hebrew": "Σάῤῥα",
+          "translit": "Sárrha",
+          "english": "Sarah"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G2602",
+          "hebrew": "καταβολή",
+          "translit": "katabolḗ",
+          "english": "conceive"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "past"
+        },
+        {
+          "strongs": "G2244",
+          "hebrew": "ἡλικία",
+          "translit": "hēlikía",
+          "english": "age"
+        },
+        {
+          "strongs": "G5088",
+          "hebrew": "τίκτω",
+          "translit": "tíktō",
+          "english": "bore a child"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G1861",
+          "hebrew": "ἐπαγγέλλω",
+          "translit": "epangéllō",
+          "english": "promised"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Therefore as many as the stars of the sky in multitude, and as innumerable as the sand which is by the sea shore, were fathered by one man, and him as good as dead.",
+      "understanding": "διὸ καὶ ἀφ᾽ ἑνὸς ἐγεννήθησαν, καὶ ταῦτα νενεκρωμένου, “Therefore... were fathered by one man, and him as good as dead” — νεκρόω, deadened: Abraham was about a hundred. καθὼς τὰ ἄστρα τοῦ οὐρανοῦ τῷ πλήθει, “as many as the stars of the sky in multitude, and as innumerable as the sand which is by the sea shore” — God's promise fulfilled from a body that was ‘as good as dead’: a picture of resurrection.",
+      "words": [
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G1080",
+          "hebrew": "γεννάω",
+          "translit": "gennáō",
+          "english": "fathered"
+        },
+        {
+          "strongs": "G3499",
+          "hebrew": "νεκρόω",
+          "translit": "nekróō",
+          "english": "as good as dead"
+        },
+        {
+          "strongs": "G798",
+          "hebrew": "ἄστρον",
+          "translit": "ástron",
+          "english": "stars"
+        },
+        {
+          "strongs": "G285",
+          "hebrew": "ἄμμος",
+          "translit": "ámmos",
+          "english": "sand"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G382",
+          "hebrew": "ἀναρίθμητος",
+          "translit": "anaríthmētos",
+          "english": "innumerable"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "These all died in faith, not having received the promises, but having seen them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth.",
+      "understanding": "κατὰ πίστιν ἀπέθανον οὗτοι πάντες, “These all died in faith” — they did not die in disappointment but in faith. μὴ λαβόντες τὰς ἐπαγγελίας, “not having received the promises,” ἀλλὰ πόρρωθεν αὐτὰς ἰδόντες καὶ ἀσπασάμενοι, “but having seen them and embraced them from afar” — ἀσπάζομαι, to greet, like travellers waving to a city on the horizon. ὅτι ξένοι καὶ παρεπίδημοί εἰσιν ἐπὶ τῆς γῆς, “and having confessed that they were strangers and pilgrims on the earth.”",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "died"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promises"
+        },
+        {
+          "strongs": "G4206",
+          "hebrew": "πόῤῥω",
+          "translit": "pórrhō",
+          "english": "afar"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "seen"
+        },
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "embraced"
+        },
+        {
+          "strongs": "G3670",
+          "hebrew": "ὁμολογέω",
+          "translit": "homologéō",
+          "english": "confessed"
+        },
+        {
+          "strongs": "G3581",
+          "hebrew": "ξένος",
+          "translit": "xénos",
+          "english": "strangers"
+        },
+        {
+          "strongs": "G3927",
+          "hebrew": "παρεπίδημος",
+          "translit": "parepídēmos",
+          "english": "pilgrims"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For those who say such things make it clear that they are seeking a country of their own.",
+      "understanding": "οἱ γὰρ τοιαῦτα λέγοντες ἐμφανίζουσιν, “For those who say such things make it clear” — ἐμφανίζω from the appear family: show openly. ὅτι πατρίδα ἐπιζητοῦσιν, “that they are seeking a country of their own” — πατρίς, a fatherland, home.",
+      "words": [
+        {
+          "strongs": "G1718",
+          "hebrew": "ἐμφανίζω",
+          "translit": "emphanízō",
+          "english": "make it clear"
+        },
+        {
+          "strongs": "G3968",
+          "hebrew": "πατρίς",
+          "translit": "patrís",
+          "english": "country"
+        },
+        {
+          "strongs": "G1934",
+          "hebrew": "ἐπιζητέω",
+          "translit": "epizētéō",
+          "english": "seeking"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "If indeed they had been thinking of that country from which they went out, they would have had enough time to return.",
+      "understanding": "καὶ εἰ μὲν ἐκείνης ἐμνημόνευον ἀφ᾽ ἧς ἐξέβησαν, “If indeed they had been thinking of that country from which they went out” — Ur, Haran, Mesopotamia. εἶχον ἂν καιρὸν ἀνακάμψαι, “they would have had enough time to return” — καιρός, opportunity. They could have gone back, but they did not. Faith refuses to return to the old life (as the readers were tempted to do).",
+      "words": [
+        {
+          "strongs": "G3421",
+          "hebrew": "μνημονεύω",
+          "translit": "mnēmoneúō",
+          "english": "thinking of"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        },
+        {
+          "strongs": "G344",
+          "hebrew": "ἀνακάμπτω",
+          "translit": "anakámptō",
+          "english": "return"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "But now they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them.",
+      "understanding": "νῦν δὲ κρείττονος ὀρέγονται, τοῦτ᾽ ἔστιν ἐπουρανίου, “But now they desire a better country, that is, a heavenly one” — κρείττων, ‘better’ again; ὀρέγομαι, to stretch out toward. διὸ οὐκ ἐπαισχύνεται αὐτοὺς ὁ θεὸς θεὸς ἐπικαλεῖσθαι αὐτῶν, “Therefore God is not ashamed of them, to be called their God” — as Jesus is not ashamed to call us brothers (2:11). ἡτοίμασεν γὰρ αὐτοῖς πόλιν, “for he has prepared a city for them.”",
+      "words": [
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "better"
+        },
+        {
+          "strongs": "G3713",
+          "hebrew": "ὀρέγομαι",
+          "translit": "orégomai",
+          "english": "desire"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly"
+        },
+        {
+          "strongs": "G1870",
+          "hebrew": "ἐπαισχύνομαι",
+          "translit": "epaischýnomai",
+          "english": "ashamed"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2090",
+          "hebrew": "ἑτοιμάζω",
+          "translit": "hetoimázō",
+          "english": "prepared"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his one and only son,",
+      "understanding": "πίστει προσενήνοχεν Ἀβραὰμ τὸν Ἰσαὰκ πειραζόμενος, “By faith, Abraham, being tested, offered up Isaac” — προσφέρω from the offering family; perfect tense: as good as done. καὶ τὸν μονογενῆ προσέφερεν ὁ τὰς ἐπαγγελίας ἀναδεξάμενος, “Yes, he who had gladly received the promises was offering up his one and only son” — μονογενής, unique, only, the word John uses of Jesus. The test was agonising: the son of promise was the one he was asked to give.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G11",
+          "hebrew": "Ἀβραάμ",
+          "translit": "Abraám",
+          "english": "Abraham"
+        },
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tested"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offered up"
+        },
+        {
+          "strongs": "G2464",
+          "hebrew": "Ἰσαάκ",
+          "translit": "Isaák",
+          "english": "Isaac"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promises"
+        },
+        {
+          "strongs": "G324",
+          "hebrew": "ἀναδέχομαι",
+          "translit": "anadéchomai",
+          "english": "received"
+        },
+        {
+          "strongs": "G3439",
+          "hebrew": "μονογενής",
+          "translit": "monogenḗs",
+          "english": "one and only"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "to whom it was said, “your offspring will be accounted as from Isaac”;",
+      "understanding": "πρὸς ὃν ἐλαλήθη ὅτι, “to whom it was said,” “your offspring will be accounted as from Isaac” (Genesis 21). The promise depended on Isaac living. Abraham faced an apparent contradiction between God's promise and God's command.",
+      "words": [
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "said"
+        },
+        {
+          "strongs": "G2464",
+          "hebrew": "Ἰσαάκ",
+          "translit": "Isaák",
+          "english": "Isaac"
+        },
+        {
+          "strongs": "G4690",
+          "hebrew": "σπέρμα",
+          "translit": "spérma",
+          "english": "offspring"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "accounted"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead.",
+      "understanding": "λογισάμενος ὅτι καὶ ἐκ νεκρῶν ἐγείρειν δυνατὸς ὁ θεός, “concluding that God is able to raise up even from the dead” — λογίζομαι, he reckoned, he worked it out. ἐγείρω from the rise family. Abraham resolved the contradiction by believing in resurrection. ὅθεν αὐτὸν καὶ ἐν παραβολῇ ἐκομίσατο, “Figuratively speaking, he also did receive him back from the dead” — παραβολή from the pattern family: in a figure, a picture. Isaac's rescue on the altar was a picture of the resurrection of God's own Son.",
+      "words": [
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logízomai",
+          "english": "concluding"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1415",
+          "hebrew": "δυνατός",
+          "translit": "dynatós",
+          "english": "able"
+        },
+        {
+          "strongs": "G1453",
+          "hebrew": "ἐγείρω",
+          "translit": "egeírō",
+          "english": "raise up"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G3850",
+          "hebrew": "παραβολή",
+          "translit": "parabolḗ",
+          "english": "Figuratively"
+        },
+        {
+          "strongs": "G2865",
+          "hebrew": "κομίζω",
+          "translit": "komízō",
+          "english": "receive"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "By faith, Isaac blessed Jacob and Esau, even concerning things to come.",
+      "understanding": "πίστει περὶ μελλόντων εὐλόγησεν Ἰσαὰκ τὸν Ἰακὼβ καὶ τὸν Ἡσαῦ, “By faith, Isaac blessed Jacob and Esau, even concerning things to come.” Even though Isaac was deceived about which son he was blessing (Genesis 27), his blessing looked forward in faith to God's future.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G2464",
+          "hebrew": "Ἰσαάκ",
+          "translit": "Isaák",
+          "english": "Isaac"
+        },
+        {
+          "strongs": "G2127",
+          "hebrew": "εὐλογέω",
+          "translit": "eulogéō",
+          "english": "blessed"
+        },
+        {
+          "strongs": "G2384",
+          "hebrew": "Ἰακώβ",
+          "translit": "Iakṓb",
+          "english": "Jacob"
+        },
+        {
+          "strongs": "G2269",
+          "hebrew": "Ἠσαῦ",
+          "translit": "Ēsaû",
+          "english": "Esau"
+        },
+        {
+          "strongs": "G3195",
+          "hebrew": "μέλλω",
+          "translit": "méllō",
+          "english": "to come"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "By faith, Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped, leaning on the top of his staff.",
+      "understanding": "πίστει Ἰακὼβ ἀποθνῄσκων, “By faith, Jacob, when he was dying, blessed each of the sons of Joseph” — Ephraim and Manasseh (Genesis 48). καὶ προσεκύνησεν ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ, “and worshiped, leaning on the top of his staff.” The Hebrew of Genesis 47:31 reads ‘the head of the bed’; the Greek Old Testament reads ‘staff’ — the same consonants with different vowels. The writer follows the Greek. Either way, the dying pilgrim worshipped.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G2384",
+          "hebrew": "Ἰακώβ",
+          "translit": "Iakṓb",
+          "english": "Jacob"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "dying"
+        },
+        {
+          "strongs": "G2127",
+          "hebrew": "εὐλογέω",
+          "translit": "eulogéō",
+          "english": "blessed"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "sons"
+        },
+        {
+          "strongs": "G2501",
+          "hebrew": "Ἰωσήφ",
+          "translit": "Iōsḗph",
+          "english": "Joseph"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worshiped"
+        },
+        {
+          "strongs": "G206",
+          "hebrew": "ἄκρον",
+          "translit": "ákron",
+          "english": "top"
+        },
+        {
+          "strongs": "G4464",
+          "hebrew": "ῥάβδος",
+          "translit": "rhábdos",
+          "english": "staff"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "By faith, Joseph, when his end was near, made mention of the departure of the children of Israel; and gave instructions concerning his bones.",
+      "understanding": "πίστει Ἰωσὴφ τελευτῶν περὶ τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐμνημόνευσεν, “By faith, Joseph, when his end was near, made mention of the departure of the children of Israel” — ἔξοδος, the exodus, four centuries before it happened. καὶ περὶ τῶν ὀστέων αὐτοῦ ἐνετείλατο, “and gave instructions concerning his bones” — that they be carried to Canaan. Though he ruled Egypt, his heart was in the land of promise.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G2501",
+          "hebrew": "Ἰωσήφ",
+          "translit": "Iōsḗph",
+          "english": "Joseph"
+        },
+        {
+          "strongs": "G5053",
+          "hebrew": "τελευτάω",
+          "translit": "teleutáō",
+          "english": "end was near"
+        },
+        {
+          "strongs": "G1841",
+          "hebrew": "ἔξοδος",
+          "translit": "éxodos",
+          "english": "departure"
+        },
+        {
+          "strongs": "G2474",
+          "hebrew": "Ἰσραήλ",
+          "translit": "Israḗl",
+          "english": "Israel"
+        },
+        {
+          "strongs": "G3421",
+          "hebrew": "μνημονεύω",
+          "translit": "mnēmoneúō",
+          "english": "made mention"
+        },
+        {
+          "strongs": "G3747",
+          "hebrew": "ὀστέον",
+          "translit": "ostéon",
+          "english": "bones"
+        },
+        {
+          "strongs": "G1781",
+          "hebrew": "ἐντέλλομαι",
+          "translit": "entéllomai",
+          "english": "gave instructions"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "By faith, Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child, and they were not afraid of the king’s commandment.",
+      "understanding": "πίστει Μωϋσῆς γεννηθεὶς ἐκρύβη τρίμηνον ὑπὸ τῶν πατέρων αὐτοῦ, “By faith, Moses, when he was born, was hidden for three months by his parents” — the faith here is his parents'. διότι εἶδον ἀστεῖον τὸ παιδίον, “because they saw that he was a beautiful child” — ἀστεῖος, fine, well-favoured (Stephen says ‘exceedingly handsome’). καὶ οὐκ ἐφοβήθησαν τὸ διάταγμα τοῦ βασιλέως, “and they were not afraid of the king’s commandment” — Pharaoh's order to kill Hebrew boys.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G1080",
+          "hebrew": "γεννάω",
+          "translit": "gennáō",
+          "english": "born"
+        },
+        {
+          "strongs": "G2928",
+          "hebrew": "κρύπτω",
+          "translit": "krýptō",
+          "english": "hidden"
+        },
+        {
+          "strongs": "G5150",
+          "hebrew": "τρίμηνον",
+          "translit": "trímēnon",
+          "english": "three months"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G791",
+          "hebrew": "ἀστεῖος",
+          "translit": "asteîos",
+          "english": "beautiful"
+        },
+        {
+          "strongs": "G3813",
+          "hebrew": "παιδίον",
+          "translit": "paidíon",
+          "english": "child"
+        },
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "afraid"
+        },
+        {
+          "strongs": "G1297",
+          "hebrew": "διάταγμα",
+          "translit": "diátagma",
+          "english": "commandment"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "king"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "By faith, Moses, when he had grown up, refused to be called the son of Pharaoh’s daughter,",
+      "understanding": "πίστει Μωϋσῆς μέγας γενόμενος, “By faith, Moses, when he had grown up” — Stephen says he was about forty years old. ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ, “refused to be called the son of Pharaoh’s daughter” — ἀρνέομαι, renounced. He gave up royal status, wealth and power.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "grown up"
+        },
+        {
+          "strongs": "G720",
+          "hebrew": "ἀρνέομαι",
+          "translit": "arnéomai",
+          "english": "refused"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "son"
+        },
+        {
+          "strongs": "G2364",
+          "hebrew": "θυγάτηρ",
+          "translit": "thygátēr",
+          "english": "daughter"
+        },
+        {
+          "strongs": "G5328",
+          "hebrew": "Φαραώ",
+          "translit": "Pharaṓ",
+          "english": "Pharaoh"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "choosing rather to share ill treatment with God’s people, than to enjoy the pleasures of sin for a time;",
+      "understanding": "μᾶλλον ἑλόμενος συγκακουχεῖσθαι τῷ λαῷ τοῦ θεοῦ, “choosing rather to share ill treatment with God’s people” — αἱρέομαι, a deliberate choice. ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν, “than to enjoy the pleasures of sin for a time” — πρόσκαιρος, added to the time family: built on καιρός, ‘for a season’, temporary. Sin's pleasures are real, but they are seasonal; they do not last.",
+      "words": [
+        {
+          "strongs": "G138",
+          "hebrew": "αἱρέομαι",
+          "translit": "hairéomai",
+          "english": "choosing"
+        },
+        {
+          "strongs": "G4778",
+          "hebrew": "συγκακουχέω",
+          "translit": "synkakouchéō",
+          "english": "share ill treatment"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4340",
+          "hebrew": "πρόσκαιρος",
+          "translit": "próskairos",
+          "english": "time"
+        },
+        {
+          "strongs": "G619",
+          "hebrew": "ἀπόλαυσις",
+          "translit": "apólausis",
+          "english": "pleasures"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "accounting the reproach of Christ greater riches than the treasures of Egypt; for he looked to the reward.",
+      "understanding": "μείζονα πλοῦτον ἡγησάμενος τῶν Αἰγύπτου θησαυρῶν τὸν ὀνειδισμὸν τοῦ Χριστοῦ, “accounting the reproach of Christ greater riches than the treasures of Egypt.” Moses suffered the kind of reproach that God's anointed people — and ultimately the Messiah — would bear; identifying with God's people was identifying with Christ. ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν, “for he looked to the reward” — ἀποβλέπω, to look away from everything else and fix the eyes on one thing.",
+      "words": [
+        {
+          "strongs": "G2233",
+          "hebrew": "ἡγέομαι",
+          "translit": "hēgéomai",
+          "english": "accounting"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "greater"
+        },
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "riches"
+        },
+        {
+          "strongs": "G125",
+          "hebrew": "Αἴγυπτος",
+          "translit": "Aígyptos",
+          "english": "Egypt"
+        },
+        {
+          "strongs": "G2344",
+          "hebrew": "θησαυρός",
+          "translit": "thēsaurós",
+          "english": "treasures"
+        },
+        {
+          "strongs": "G3680",
+          "hebrew": "ὀνειδισμός",
+          "translit": "oneidismós",
+          "english": "reproach"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        },
+        {
+          "strongs": "G578",
+          "hebrew": "ἀποβλέπω",
+          "translit": "apoblépō",
+          "english": "looked"
+        },
+        {
+          "strongs": "G3405",
+          "hebrew": "μισθαποδοσία",
+          "translit": "misthapodosía",
+          "english": "reward"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "By faith, he left Egypt, not fearing the wrath of the king; for he endured, as seeing him who is invisible.",
+      "understanding": "πίστει κατέλιπεν Αἴγυπτον, μὴ φοβηθεὶς τὸν θυμὸν τοῦ βασιλέως, “By faith, he left Egypt, not fearing the wrath of the king” — probably the Exodus itself, when he left boldly. τὸν γὰρ ἀόρατον ὡς ὁρῶν ἐκαρτέρησεν, “for he endured, as seeing him who is invisible.” ὁράω from the see family, joined with ἀόρατος, ‘invisible’ — a deliberate paradox. Faith sees the One no eye can see. καρτερέω, to be strong, steadfast.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G2641",
+          "hebrew": "καταλείπω",
+          "translit": "kataleípō",
+          "english": "left"
+        },
+        {
+          "strongs": "G125",
+          "hebrew": "Αἴγυπτος",
+          "translit": "Aígyptos",
+          "english": "Egypt"
+        },
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "fearing"
+        },
+        {
+          "strongs": "G2372",
+          "hebrew": "θυμός",
+          "translit": "thymós",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "king"
+        },
+        {
+          "strongs": "G2594",
+          "hebrew": "καρτερέω",
+          "translit": "karteréō",
+          "english": "endured"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "seeing"
+        },
+        {
+          "strongs": "G517",
+          "hebrew": "ἀόρατος",
+          "translit": "aóratos",
+          "english": "invisible"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "By faith, he kept the Passover, and the sprinkling of the blood, that the destroyer of the firstborn should not touch them.",
+      "understanding": "πίστει πεποίηκεν τὸ πάσχα καὶ τὴν πρόσχυσιν τοῦ αἵματος, “By faith, he kept the Passover, and the sprinkling of the blood” — on the doorposts. ἵνα μὴ ὁ ὀλοθρεύων τὰ πρωτότοκα θίγῃ αὐτῶν, “that the destroyer of the firstborn should not touch them.” Faith trusted God's word that blood would protect. Christ is ‘our Passover’ (1 Corinthians 5:7).",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "kept"
+        },
+        {
+          "strongs": "G3957",
+          "hebrew": "πάσχα",
+          "translit": "páscha",
+          "english": "Passover"
+        },
+        {
+          "strongs": "G4378",
+          "hebrew": "πρόσχυσις",
+          "translit": "próschysis",
+          "english": "sprinkling"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G3645",
+          "hebrew": "ὀλοθρεύω",
+          "translit": "olothreúō",
+          "english": "destroyer"
+        },
+        {
+          "strongs": "G4416",
+          "hebrew": "πρωτότοκος",
+          "translit": "prōtótokos",
+          "english": "firstborn"
+        },
+        {
+          "strongs": "G2345",
+          "hebrew": "θιγγάνω",
+          "translit": "thingánō",
+          "english": "touch"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "By faith, they passed through the Red Sea as on dry land. When the Egyptians tried to do so, they were swallowed up.",
+      "understanding": "πίστει διέβησαν τὴν ἐρυθρὰν θάλασσαν ὡς διὰ ξηρᾶς γῆς, “By faith, they passed through the Red Sea as on dry land.” ἧς πεῖραν λαβόντες οἱ Αἰγύπτιοι κατεπόθησαν, “When the Egyptians tried to do so, they were swallowed up.” The same sea was a road for faith and a grave for unbelief.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1224",
+          "hebrew": "διαβαίνω",
+          "translit": "diabaínō",
+          "english": "passed through"
+        },
+        {
+          "strongs": "G2063",
+          "hebrew": "ἐρυθρός",
+          "translit": "erythrós",
+          "english": "Red"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "Sea"
+        },
+        {
+          "strongs": "G3584",
+          "hebrew": "ξηρός",
+          "translit": "xērós",
+          "english": "dry"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "land"
+        },
+        {
+          "strongs": "G124",
+          "hebrew": "Αἰγύπτιος",
+          "translit": "Aigýptios",
+          "english": "Egyptians"
+        },
+        {
+          "strongs": "G3984",
+          "hebrew": "πεῖρα",
+          "translit": "peîra",
+          "english": "tried"
+        },
+        {
+          "strongs": "G2666",
+          "hebrew": "καταπίνω",
+          "translit": "katapínō",
+          "english": "swallowed up"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "text": "By faith, the walls of Jericho fell down, after they had been encircled for seven days.",
+      "understanding": "πίστει τὰ τείχη Ἰεριχὼ ἔπεσαν κυκλωθέντα ἐπὶ ἑπτὰ ἡμέρας, “By faith, the walls of Jericho fell down, after they had been encircled for seven days.” Marching and shouting are not military strategy; they are obedience to a strange command, trusting God to act.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G5038",
+          "hebrew": "τεῖχος",
+          "translit": "teîchos",
+          "english": "walls"
+        },
+        {
+          "strongs": "G2410",
+          "hebrew": "Ἱεριχώ",
+          "translit": "Hierichṓ",
+          "english": "Jericho"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell down"
+        },
+        {
+          "strongs": "G2944",
+          "hebrew": "κυκλόω",
+          "translit": "kyklóō",
+          "english": "encircled"
+        },
+        {
+          "strongs": "G2033",
+          "hebrew": "ἑπτά",
+          "translit": "heptá",
+          "english": "seven"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "text": "By faith, Rahab the prostitute, didn’t perish with those who were disobedient, having received the spies in peace.",
+      "understanding": "πίστει Ῥαὰβ ἡ πόρνη οὐ συναπώλετο τοῖς ἀπειθήσασιν, “By faith, Rahab the prostitute, didn’t perish with those who were disobedient” — a Gentile woman with a sinful past, listed among the heroes. Her unbelieving neighbours ‘disobeyed’ (ἀπειθέω); she believed. δεξαμένη τοὺς κατασκόπους μετ᾽ εἰρήνης, “having received the spies in peace.” Matthew's genealogy lists her among the ancestors of Jesus.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G4460",
+          "hebrew": "Ῥαάβ",
+          "translit": "Rhaáb",
+          "english": "Rahab"
+        },
+        {
+          "strongs": "G4204",
+          "hebrew": "πόρνη",
+          "translit": "pórnē",
+          "english": "prostitute"
+        },
+        {
+          "strongs": "G4881",
+          "hebrew": "συναπόλλυμι",
+          "translit": "synapóllymi",
+          "english": "perish"
+        },
+        {
+          "strongs": "G544",
+          "hebrew": "ἀπειθέω",
+          "translit": "apeithéō",
+          "english": "disobedient"
+        },
+        {
+          "strongs": "G1209",
+          "hebrew": "δέχομαι",
+          "translit": "déchomai",
+          "english": "received"
+        },
+        {
+          "strongs": "G2685",
+          "hebrew": "κατάσκοπος",
+          "translit": "katáskopos",
+          "english": "spies"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "text": "What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets;",
+      "understanding": "καὶ τί ἔτι λέγω; “What more shall I say?” ἐπιλείψει με γὰρ διηγούμενον ὁ χρόνος, “For the time would fail me if I told” — χρόνος from the time family: the preacher is running out of time. Then names, not in order: Γεδεών, Βαράκ, Σαμψών, Ἰεφθάε, “Gideon, Barak, Samson, Jephthah” — flawed judges, some deeply so; Δαυίδ τε καὶ Σαμουὴλ καὶ τῶν προφητῶν, “David, Samuel, and the prophets.” God counts faith even in imperfect people.",
+      "words": [
+        {
+          "strongs": "G2089",
+          "hebrew": "ἔτι",
+          "translit": "éti",
+          "english": "more"
+        },
+        {
+          "strongs": "G3004",
+          "hebrew": "λέγω",
+          "translit": "légō",
+          "english": "say"
+        },
+        {
+          "strongs": "G1952",
+          "hebrew": "ἐπιλείπω",
+          "translit": "epileípō",
+          "english": "fail"
+        },
+        {
+          "strongs": "G5550",
+          "hebrew": "χρόνος",
+          "translit": "chrónos",
+          "english": "time"
+        },
+        {
+          "strongs": "G1066",
+          "hebrew": "Γεδεών",
+          "translit": "Gedeṓn",
+          "english": "Gideon"
+        },
+        {
+          "strongs": "G913",
+          "hebrew": "Βαράκ",
+          "translit": "Barák",
+          "english": "Barak"
+        },
+        {
+          "strongs": "G4546",
+          "hebrew": "Σαμψών",
+          "translit": "Sampsṓn",
+          "english": "Samson"
+        },
+        {
+          "strongs": "G2422",
+          "hebrew": "Ἰεφθάε",
+          "translit": "Iephtháe",
+          "english": "Jephthah"
+        },
+        {
+          "strongs": "G1138",
+          "hebrew": "Δαβίδ",
+          "translit": "Dabíd",
+          "english": "David"
+        },
+        {
+          "strongs": "G4545",
+          "hebrew": "Σαμουήλ",
+          "translit": "Samouḗl",
+          "english": "Samuel"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "text": "who, through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions,",
+      "understanding": "οἳ διὰ πίστεως κατηγωνίσαντο βασιλείας, “who, through faith subdued kingdoms” — David; εἰργάσαντο δικαιοσύνην, “worked out righteousness” — ἐργάζομαι from the work family: administered justice; ἐπέτυχον ἐπαγγελιῶν, “obtained promises”; ἔφραξαν στόματα λεόντων, “stopped the mouths of lions” — Daniel.",
+      "words": [
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G2610",
+          "hebrew": "καταγωνίζομαι",
+          "translit": "katagōnízomai",
+          "english": "subdued"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "kingdoms"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "worked out"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G2013",
+          "hebrew": "ἐπιτυγχάνω",
+          "translit": "epitynchánō",
+          "english": "obtained"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promises"
+        },
+        {
+          "strongs": "G5420",
+          "hebrew": "φράσσω",
+          "translit": "phrássō",
+          "english": "stopped"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouths"
+        },
+        {
+          "strongs": "G3023",
+          "hebrew": "λέων",
+          "translit": "léōn",
+          "english": "lions"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "text": "quenched the power of fire, escaped the edge of the sword, from weakness were made strong, grew mighty in war, and caused foreign armies to flee.",
+      "understanding": "ἔσβεσαν δύναμιν πυρός, “quenched the power of fire” — Daniel's three friends in the furnace; ἔφυγον στόματα μαχαίρης, “escaped the edge of the sword” — Elijah, David. Then three power-family words in a row: ἐδυναμώθησαν ἀπὸ ἀσθενείας, “from weakness were made strong” — δυναμόω, added to the family: given δύναμις (Samson, Gideon); ἐγενήθησαν ἰσχυροὶ ἐν πολέμῳ, “grew mighty in war” — ἰσχυρός, also added: strength in action; παρεμβολὰς ἔκλιναν ἀλλοτρίων, “and caused foreign armies to flee.” δύναμις, δυναμόω, ἰσχυρός: God's power given to weak people through faith.",
+      "words": [
+        {
+          "strongs": "G4570",
+          "hebrew": "σβέννυμι",
+          "translit": "sbénnymi",
+          "english": "quenched"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G5343",
+          "hebrew": "φεύγω",
+          "translit": "pheúgō",
+          "english": "escaped"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "edge"
+        },
+        {
+          "strongs": "G3162",
+          "hebrew": "μάχαιρα",
+          "translit": "máchaira",
+          "english": "sword"
+        },
+        {
+          "strongs": "G1412",
+          "hebrew": "δυναμόω",
+          "translit": "dynamóō",
+          "english": "made strong"
+        },
+        {
+          "strongs": "G769",
+          "hebrew": "ἀσθένεια",
+          "translit": "asthéneia",
+          "english": "weakness"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G4171",
+          "hebrew": "πόλεμος",
+          "translit": "pólemos",
+          "english": "war"
+        },
+        {
+          "strongs": "G3925",
+          "hebrew": "παρεμβολή",
+          "translit": "parembolḗ",
+          "english": "armies"
+        },
+        {
+          "strongs": "G2827",
+          "hebrew": "κλίνω",
+          "translit": "klínō",
+          "english": "flee"
+        },
+        {
+          "strongs": "G245",
+          "hebrew": "ἀλλότριος",
+          "translit": "allótrios",
+          "english": "foreign"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "text": "Women received their dead by resurrection. Others were tortured, not accepting their deliverance, that they might obtain a better resurrection.",
+      "understanding": "ἔλαβον γυναῖκες ἐξ ἀναστάσεως τοὺς νεκροὺς αὐτῶν, “Women received their dead by resurrection” — the widow of Zarephath and the Shunammite woman, whose sons Elijah and Elisha raised. ἀνάστασις from the rise family. ἄλλοι δὲ ἐτυμπανίσθησαν, “Others were tortured” — stretched on a wheel or beaten to death. οὐ προσδεξάμενοι τὴν ἀπολύτρωσιν, “not accepting their deliverance” — they could have been freed by denying God. ἵνα κρείττονος ἀναστάσεως τύχωσιν, “that they might obtain a better resurrection” — ἀνάστασις again, with κρείττων: not a return to this life, but resurrection to eternal life. Faith does not always rescue from suffering; sometimes it carries through it.",
+      "words": [
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "Women"
+        },
+        {
+          "strongs": "G386",
+          "hebrew": "ἀνάστασις",
+          "translit": "anástasis",
+          "english": "resurrection"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G243",
+          "hebrew": "ἄλλος",
+          "translit": "állos",
+          "english": "Others"
+        },
+        {
+          "strongs": "G5178",
+          "hebrew": "τυμπανίζω",
+          "translit": "tympanízō",
+          "english": "tortured"
+        },
+        {
+          "strongs": "G4327",
+          "hebrew": "προσδέχομαι",
+          "translit": "prosdéchomai",
+          "english": "accepting"
+        },
+        {
+          "strongs": "G629",
+          "hebrew": "ἀπολύτρωσις",
+          "translit": "apolýtrōsis",
+          "english": "deliverance"
+        },
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "better"
+        },
+        {
+          "strongs": "G5177",
+          "hebrew": "τυγχάνω",
+          "translit": "tynchánō",
+          "english": "obtain"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "text": "Others were tried by mocking and scourging, yes, moreover by bonds and imprisonment.",
+      "understanding": "ἕτεροι δὲ ἐμπαιγμῶν καὶ μαστίγων πεῖραν ἔλαβον, “Others were tried by mocking and scourging” — ἕτερος, others of a different lot. ἔτι δὲ δεσμῶν καὶ φυλακῆς, “yes, moreover by bonds and imprisonment” — Jeremiah, Micaiah.",
+      "words": [
+        {
+          "strongs": "G2087",
+          "hebrew": "ἕτερος",
+          "translit": "héteros",
+          "english": "Others"
+        },
+        {
+          "strongs": "G1701",
+          "hebrew": "ἐμπαιγμός",
+          "translit": "empaigmós",
+          "english": "mocking"
+        },
+        {
+          "strongs": "G3148",
+          "hebrew": "μάστιξ",
+          "translit": "mástix",
+          "english": "scourging"
+        },
+        {
+          "strongs": "G3984",
+          "hebrew": "πεῖρα",
+          "translit": "peîra",
+          "english": "tried"
+        },
+        {
+          "strongs": "G1199",
+          "hebrew": "δεσμόν",
+          "translit": "desmón",
+          "english": "bonds"
+        },
+        {
+          "strongs": "G5438",
+          "hebrew": "φυλακή",
+          "translit": "phylakḗ",
+          "english": "imprisonment"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "text": "They were stoned. They were sawn apart. They were tempted. They were slain with the sword. They went around in sheep skins and in goat skins; being destitute, afflicted, ill-treated",
+      "understanding": "ἐλιθάσθησαν, “They were stoned” — Zechariah son of Jehoiada; ἐπρίσθησαν, “They were sawn apart” — Jewish tradition says Isaiah died this way; ἐπειράσθησαν, “They were tempted” (some manuscripts lack this word, and some scholars think it is a copying slip for ‘burned’); ἐν φόνῳ μαχαίρης ἀπέθανον, “They were slain with the sword.” περιῆλθον ἐν μηλωταῖς, ἐν αἰγείοις δέρμασιν, “They went around in sheep skins and in goat skins” — like Elijah; ὑστερούμενοι, θλιβόμενοι, κακουχούμενοι, “being destitute, afflicted, ill-treated.”",
+      "words": [
+        {
+          "strongs": "G3034",
+          "hebrew": "λιθάζω",
+          "translit": "litházō",
+          "english": "stoned"
+        },
+        {
+          "strongs": "G4249",
+          "hebrew": "πρίζω",
+          "translit": "prízō",
+          "english": "sawn apart"
+        },
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tempted"
+        },
+        {
+          "strongs": "G5408",
+          "hebrew": "φόνος",
+          "translit": "phónos",
+          "english": "slain"
+        },
+        {
+          "strongs": "G3162",
+          "hebrew": "μάχαιρα",
+          "translit": "máchaira",
+          "english": "sword"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "slain"
+        },
+        {
+          "strongs": "G4022",
+          "hebrew": "περιέρχομαι",
+          "translit": "periérchomai",
+          "english": "went around"
+        },
+        {
+          "strongs": "G3374",
+          "hebrew": "μηλωτή",
+          "translit": "mēlōtḗ",
+          "english": "sheep skins"
+        },
+        {
+          "strongs": "G122",
+          "hebrew": "αἴγειος",
+          "translit": "aígeios",
+          "english": "goat"
+        },
+        {
+          "strongs": "G1192",
+          "hebrew": "δέρμα",
+          "translit": "dérma",
+          "english": "skins"
+        },
+        {
+          "strongs": "G5302",
+          "hebrew": "ὑστερέω",
+          "translit": "hysteréō",
+          "english": "destitute"
+        },
+        {
+          "strongs": "G2346",
+          "hebrew": "θλίβω",
+          "translit": "thlíbō",
+          "english": "afflicted"
+        },
+        {
+          "strongs": "G2558",
+          "hebrew": "κακουχέω",
+          "translit": "kakouchéō",
+          "english": "ill-treated"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "text": "(of whom the world was not worthy), wandering in deserts, mountains, caves, and the holes of the earth.",
+      "understanding": "ὧν οὐκ ἦν ἄξιος ὁ κόσμος, “(of whom the world was not worthy)” — κόσμος from the world family. The world rejected them as unworthy; God's verdict is the reverse. ἐπὶ ἐρημίαις πλανώμενοι καὶ ὄρεσιν καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς, “wandering in deserts, mountains, caves, and the holes of the earth” — like the hundred prophets Obadiah hid in caves.",
+      "words": [
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "áxios",
+          "english": "worthy"
+        },
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "wandering"
+        },
+        {
+          "strongs": "G2047",
+          "hebrew": "ἐρημία",
+          "translit": "erēmía",
+          "english": "deserts"
+        },
+        {
+          "strongs": "G3735",
+          "hebrew": "ὄρος",
+          "translit": "óros",
+          "english": "mountains"
+        },
+        {
+          "strongs": "G4693",
+          "hebrew": "σπήλαιον",
+          "translit": "spḗlaion",
+          "english": "caves"
+        },
+        {
+          "strongs": "G3692",
+          "hebrew": "ὀπή",
+          "translit": "opḗ",
+          "english": "holes"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "text": "These all, having had testimony given to them through their faith, didn’t receive the promise,",
+      "understanding": "καὶ οὗτοι πάντες μαρτυρηθέντες διὰ τῆς πίστεως, “These all, having had testimony given to them through their faith” — the chapter returns to its start (v. 2). οὐκ ἐκομίσαντο τὴν ἐπαγγελίαν, “didn’t receive the promise” — the great promise of the Messiah and the new covenant.",
+      "words": [
+        {
+          "strongs": "G3140",
+          "hebrew": "μαρτυρέω",
+          "translit": "martyréō",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G2865",
+          "hebrew": "κομίζω",
+          "translit": "komízō",
+          "english": "receive"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promise"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "text": "God having provided some better thing concerning us, so that apart from us they should not be made perfect.",
+      "understanding": "τοῦ θεοῦ περὶ ἡμῶν κρεῖττόν τι προβλεψαμένου, “God having provided some better thing concerning us” — κρείττων one last time in this chapter; προβλέπω, to see ahead, foresee and provide. ἵνα μὴ χωρὶς ἡμῶν τελειωθῶσιν, “so that apart from us they should not be made perfect” — τελειόω from the perfect family. The saints of old and believers today will be brought to the goal together, as one people, through Christ.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "better"
+        },
+        {
+          "strongs": "G4265",
+          "hebrew": "προβλέπω",
+          "translit": "problépō",
+          "english": "provided"
+        },
+        {
+          "strongs": "G5565",
+          "hebrew": "χωρίς",
+          "translit": "chōrís",
+          "english": "apart from"
+        },
+        {
+          "strongs": "G5048",
+          "hebrew": "τελειόω",
+          "translit": "teleióō",
+          "english": "made perfect"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Waving to a Distant City",
+      "verseRef": "v. 13-16",
+      "image": "Picture a line of travellers on a long road through a dry land, carrying tents on their backs. On the far horizon, faint in the haze, rise the walls and towers of a shining city. They will not reach it in this lifetime. But they lift their hands and wave to it, and greet it like a home they already belong to. They could turn back to the towns behind them, but they keep walking toward the city.",
+      "meaning": "“These all died in faith, not having received the promises, but having seen them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth” (v. 13). “But now they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them” (v. 16). Faith lives as a pilgrim, greeting God's promises from afar. Ask the Spirit to loosen your grip on this world and fix your heart on the city God has prepared."
+    },
+    {
+      "title": "The Knife and the Ram",
+      "verseRef": "v. 17-19",
+      "image": "Picture an old man climbing a mountain with his son, carrying fire and a knife. The boy carries the wood. At the top the old man builds an altar, binds the boy, and raises the knife — his hands trembling but steady. In his heart he has reasoned it out: ‘God promised descendants through this son. If he must die, God will raise him.’ Then a voice from heaven stops him, and he sees a ram caught in a thicket.",
+      "meaning": "“By faith, Abraham, being tested, offered up Isaac” (v. 17), “concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead” (v. 19). Faith holds on to God's promise even when His command seems to contradict it, trusting His power over death. And the scene points to the Father who did not spare His own Son."
+    },
+    {
+      "title": "Seeing the Invisible",
+      "verseRef": "v. 24-27",
+      "image": "Picture a young prince in the royal palace of Egypt, surrounded by gold, servants, scholars and power. Outside, Hebrew slaves toil under the whip. He looks at the treasures around him and then out at the suffering people of God. He chooses the slaves. Years later, facing Pharaoh's fury, he walks out of Egypt without fear, his eyes fixed on Someone no one else can see.",
+      "meaning": "“choosing rather to share ill treatment with God’s people, than to enjoy the pleasures of sin for a time” (v. 25), “accounting the reproach of Christ greater riches than the treasures of Egypt; for he looked to the reward” (v. 26). “for he endured, as seeing him who is invisible” (v. 27). Faith sees what the eyes cannot. Ask the Spirit to help you weigh the passing pleasures of sin against the lasting reward, and to see the invisible God."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "What Faith Is (v. 1-3)",
+        "body": "Faith is the assurance of things hoped for and the conviction of things not seen; by it the ancients were commended, and by it we understand that the universe was formed by God's word, so that the visible came from the invisible."
+      },
+      {
+        "label": "Faith Before the Flood (v. 4-7)",
+        "body": "Abel offered a better sacrifice and was declared righteous; Enoch pleased God and was taken without dying, for without faith it is impossible to please God; Noah, warned of unseen things, reverently built the ark, condemned the world and became heir of the righteousness that comes by faith."
+      },
+      {
+        "label": "Faith of the Patriarchs (v. 8-22)",
+        "body": "Abraham obeyed God's call without knowing where he was going, lived in tents in the promised land, and looked for God's city; Sarah received power to conceive; they all died in faith, seeking a better, heavenly country; Abraham offered Isaac, reasoning that God could raise the dead; Isaac, Jacob and Joseph looked forward in faith to God's future."
+      },
+      {
+        "label": "Faith of Moses and Israel (v. 23-31)",
+        "body": "Moses' parents hid him; Moses refused Egyptian status, chose ill-treatment with God's people over sin's passing pleasures, valued the reproach of Christ above Egypt's treasures, left Egypt seeing the Invisible One, and kept the Passover; Israel crossed the Red Sea; Jericho's walls fell; and Rahab was spared."
+      },
+      {
+        "label": "Faith That Triumphs and Faith That Endures (v. 32-40)",
+        "body": "Time would fail to tell of judges, kings and prophets who conquered, did justice, received promises and were made strong out of weakness; others were tortured, mocked, imprisoned, stoned, sawn in two and killed, wandering destitute — people the world was not worthy of; all were commended for their faith, yet did not receive what was promised, because God had planned something better, so that they would be made perfect together with us."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "What Faith Is and What It Does",
+        "paragraphs": [
+          "Chapter 10 ended with the righteous living by faith. Chapter 11 shows what that looks like. “Now faith is assurance of things hoped for, proof of things not seen” (v. 1). The word ‘assurance’ is ὑπόστασις, the same word used of Christ as the exact imprint of God's ‘substance’ (1:3): faith rests on what is solid and real. Faith gives present reality to future promises and conviction about unseen truth. Paul says, “for we walk by faith, not by sight” (2 Corinthians 5:7).",
+          "Faith begins with creation: “By faith, we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible” (v. 3). God spoke (ῥῆμα), and the ages were set in order. And faith is essential to pleasing God: “Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him” (v. 6). Faith trusts both God's existence and His goodness.",
+          "The phrase ‘by faith’ rings out eighteen times in the chapter. Each person heard God's word and acted on it, often without seeing the result. Abel worshipped, Enoch walked with God, Noah built, Abraham went, Sarah conceived, Moses chose, Israel crossed, Rahab welcomed. Faith is never passive. It is trust that obeys."
+        ]
+      },
+      {
+        "heading": "Pilgrims Looking for a City",
+        "paragraphs": [
+          "Abraham stands at the centre. “By faith, Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went” (v. 8). Stephen recalls that God told him, “Get out of your land, and from your relatives, and come into a land which I will show you” (Acts 7:3), yet “He gave him no inheritance in it, no, not so much as to set his foot on” (Acts 7:5). Abraham lived in tents in the land of promise, because “he looked for the city which has the foundations, whose builder and maker is God” (v. 10).",
+          "The patriarchs died without receiving the fulfilment: “These all died in faith, not having received the promises, but having seen them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth” (v. 13). They could have gone back to Mesopotamia, but they did not. “But now they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God” (v. 16). Peter tells believers to live “as foreigners and pilgrims” (1 Peter 2:11), and Paul says, “For our citizenship is in heaven” (Philippians 3:20).",
+          "The supreme test came when God asked Abraham to offer Isaac. Abraham obeyed, “concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead” (v. 19). Paul describes the same kind of faith: “Without being weakened in faith, he didn’t consider his own body, already having been worn out” (Romans 4:19). Faith reckons with God's resurrection power."
+        ]
+      },
+      {
+        "heading": "Faith That Conquers and Faith That Suffers",
+        "paragraphs": [
+          "Moses shows faith as a choice of values. He “refused to be called the son of Pharaoh’s daughter” (v. 24), “choosing rather to share ill treatment with God’s people, than to enjoy the pleasures of sin for a time” (v. 25). The time-family word πρόσκαιρος says sin's pleasures are ‘for a season’. He counted “the reproach of Christ greater riches than the treasures of Egypt; for he looked to the reward” (v. 26). And “he endured, as seeing him who is invisible” (v. 27). Faith sees the unseen God and acts accordingly.",
+          "Then the writer runs out of time. He lists judges, kings and prophets who “from weakness were made strong, grew mighty in war, and caused foreign armies to flee” (v. 34). Three power-family words — δύναμις, δυναμόω, ἰσχυρός — describe God's strength given to weak people. Some saw great deliverances: “Women received their dead by resurrection” (v. 35). Even Rahab, a Gentile prostitute, is honoured; she appears in Jesus' genealogy: “Salmon became the father of Boaz by Rahab” (Matthew 1:5).",
+          "But faith does not always lead to escape. “Others were tortured, not accepting their deliverance, that they might obtain a better resurrection” (v. 35). They were mocked, imprisoned, stoned, sawn apart, killed with the sword, and wandered destitute — people “of whom the world was not worthy” (v. 38). Their faith was just as real as the faith that conquered. And all of them “didn’t receive the promise” (v. 39), because “God having provided some better thing concerning us, so that apart from us they should not be made perfect” (v. 40). The saints of every age will be brought to completion together in Christ."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Living by Faith, Not by Sight",
+      "paragraphs": [
+        "The New Testament repeatedly contrasts faith and sight. “while we don’t look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal” (2 Corinthians 4:18). “For we were saved in hope, but hope that is seen is not hope” (Romans 8:24). Jesus told Thomas, “Blessed are those who have not seen, and have believed” (John 20:29). Peter writes of Christ, “though now you don’t see him, yet believing, you rejoice greatly with joy unspeakable and full of glory” (1 Peter 1:8).",
+        "Several of the heroes of Hebrews 11 appear elsewhere in the New Testament. Jesus spoke of “the blood of righteous Abel” (Matthew 23:35), and John explains that Cain killed him “Because his deeds were evil, and his brother’s righteous” (1 John 3:12). Peter calls Noah “a preacher of righteousness” (2 Peter 2:5). Jesus said, “Your father Abraham rejoiced to see my day. He saw it, and was glad” (John 8:56). James writes that Rahab was justified “in that she received the messengers, and sent them out another way” (James 2:25).",
+        "The city the patriarchs sought is the city John saw: “I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband” (Revelation 21:2). Jesus promised, “In my Father’s house are many homes. If it weren’t so, I would have told you. I am going to prepare a place for you” (John 14:2). The martyrs of every age wait, as John saw, until the full number is complete (Revelation 6:11) — the same truth as Hebrews 11:40."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Proof / conviction / evidence",
+      "hebrew": "ἔλεγχος",
+      "translit": "élenchos",
+      "strongs": "G1650",
+      "verses": "v. 1",
+      "insight": "Strong's: “proof, conviction.” Its only other New Testament use is 2 Timothy 3:16, where Scripture is profitable for ‘reproof’. It means evidence that convinces, the proof that settles a question. Faith is the inner conviction that what God says about unseen realities is true. It is not believing without reason, but trusting the testimony of the God who cannot lie."
+    },
+    {
+      "english": "Rewarder",
+      "hebrew": "μισθαποδότης",
+      "translit": "misthapodótēs",
+      "strongs": "G3406",
+      "verses": "v. 6",
+      "insight": "Strong's: “a renumerator” (the dictionary's spelling of ‘remunerator’, one who pays back). It appears only here in the New Testament. Faith believes not only that God exists, but that He is good — that He responds to those who seek Him. The related noun μισθαποδοσία, ‘reward’, appears in 10:35 and 11:26. God is not indifferent to those who seek Him; He rewards them, above all with Himself."
+    },
+    {
+      "english": "Pilgrim / resident foreigner",
+      "hebrew": "παρεπίδημος",
+      "translit": "parepídēmos",
+      "strongs": "G3927",
+      "verses": "v. 13",
+      "insight": "Strong's: “an alien alongside, i.e. a resident foreigner.” It describes someone living temporarily in a place that is not his home. Peter uses it twice for believers (1 Peter 1:1; 2:11). The patriarchs confessed they were strangers and pilgrims on the earth. Believers live fully and responsibly in this world, but they are not at home here; their citizenship is in heaven."
+    },
+    {
+      "english": "For a time / temporary",
+      "hebrew": "πρόσκαιρος",
+      "translit": "próskairos",
+      "strongs": "G4340",
+      "verses": "v. 25",
+      "insight": "Strong's: “for the occasion only, i.e. temporary.” It is built on καιρός, a season, and so this study adds it to the time family. Paul uses it in 2 Corinthians 4:18: ‘the things which are seen are temporal’. Jesus used it of the shallow hearer who ‘endures for a while’. Moses weighed the seasonal pleasures of sin against the eternal reward, and chose the reward."
+    },
+    {
+      "english": "Invisible",
+      "hebrew": "ἀόρατος",
+      "translit": "aóratos",
+      "strongs": "G517",
+      "verses": "v. 27",
+      "insight": "Strong's: “invisible.” Paul uses it of God, ‘the King eternal, immortal, invisible’ (1 Timothy 1:17), and of the ‘invisible God’ of whom Christ is the image (Colossians 1:15). Hebrews 11:27 joins it with ὁράω, ‘to see’: Moses endured ‘as seeing him who is invisible’. Faith is the eye of the soul that sees the God whom no physical eye can see."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "Through the great chapter of faith, the Holy Spirit invites you to join the long line of those who trusted God.",
+    "items": [
+      {
+        "title": "Faith Acts on God's Word",
+        "body": "Every hero of this chapter heard God and acted — built, went, offered, chose, crossed. The Spirit asks: what has God told you to do that you have not yet done? Faith is not just agreeing with truth; it is obeying it. Ask Him for courage to take the next step of obedience."
+      },
+      {
+        "title": "You Are a Pilgrim",
+        "body": "The patriarchs lived in tents and longed for a better country. The Spirit wants to loosen your grip on this world — its comforts, status and security — and fix your heart on the city God has prepared. Ask Him where you have settled down too comfortably."
+      },
+      {
+        "title": "Faith Endures Even Without Deliverance",
+        "body": "Some believers in this chapter saw miracles; others suffered and died without rescue. Both were faithful. The Spirit wants to free you from the idea that faith always produces escape. If you are suffering, He is not absent. Ask Him for faith that endures, looking for a better resurrection."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Obedience Check",
+        "body": "Like Abraham (v. 8), is God calling you to step out without knowing every detail? Name the step, and the fear that holds you back."
+      },
+      {
+        "title": "The Pilgrim Check",
+        "body": "What in your life shows that you are seeking a heavenly country (v. 14)? What shows that you are too settled here? Make one change this month."
+      },
+      {
+        "title": "The Values Check",
+        "body": "Moses weighed sin's temporary pleasures against Christ's reproach (vv. 25–26). Where are you tempted to choose the temporary? Write the choice down and decide in advance."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Your Own ‘By Faith’ List",
+        "body": "Write a personal ‘Hebrews 11’ list: times in your life or family's history when you or others acted ‘by faith’ and saw God's faithfulness. Then add a line for the step of faith you are taking now. Read it on discouraging days and add to it over the years."
+      },
+      {
+        "title": "Study One Hero a Week",
+        "body": "For the next ten weeks, choose one person mentioned in Hebrews 11 and read their story in the Old Testament. Ask: What did they hear from God? What did faith look like for them? What did it cost? What can I learn? Share what you learn with someone else."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, I believe that You exist and that You reward those who seek You. Give me the faith that is the assurance of things hoped for and the conviction of things not seen. By faith I understand that You made the universe by Your word. Give me the faith of Abel to offer You my best, of Enoch to walk with You, of Noah to obey when others mock. Give me the faith of Abraham to go when You call, even when I do not know where I am going; to live as a pilgrim, looking for the city You have built; and to trust that You can raise the dead. Give me the faith of Moses to choose Your people and Christ's reproach over the passing pleasures of sin, and to endure as seeing You who are invisible. Make me strong out of weakness. And if You call me to suffer rather than to escape, give me faith to endure, looking for a better resurrection. Thank You that You have provided something better, so that with all Your people I will be made perfect in Christ. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Abraham Offers Isaac",
+      "ref": "Genesis 22:1-19",
+      "relatedVerses": "v. 17-19",
+      "summary": "God tested Abraham, telling him to take his only son Isaac, whom he loved, and offer him as a burnt offering on a mountain in Moriah. Early the next morning Abraham set out. On the third day he told his servants that he and the boy would worship and come back. When Isaac asked where the lamb was, Abraham said God would provide. At the altar he bound Isaac and raised the knife, but the angel of the LORD stopped him. Abraham saw a ram caught in a thicket and offered it instead, and named the place ‘The LORD Will Provide’. Hebrews 11:19 reveals what was in Abraham's mind: he reasoned that God could raise Isaac from the dead."
+    },
+    {
+      "title": "Moses Chooses God's People",
+      "ref": "Exodus 2:1-15; Acts 7:20-29",
+      "relatedVerses": "v. 23-27",
+      "summary": "Moses was born when Pharaoh had ordered all Hebrew baby boys to be killed. His parents saw that he was beautiful and hid him for three months, then placed him in a basket on the Nile, where Pharaoh's daughter found and adopted him. Stephen says, “Moses was instructed in all the wisdom of the Egyptians. He was mighty in his words and works” (Acts 7:22). At forty, he went out to his own people, defended a Hebrew being beaten, and had to flee. “He supposed that his brothers understood that God, by his hand, was giving them deliverance; but they didn’t understand” (Acts 7:25). Hebrews 11 sees in this the choice of faith: rejecting Egypt's treasures to share the suffering of God's people."
+    },
+    {
+      "title": "Rahab and the Spies",
+      "ref": "Joshua 2; 6:22-25",
+      "relatedVerses": "v. 31",
+      "summary": "Before Israel attacked Jericho, Joshua sent two spies, who stayed at the house of Rahab, a prostitute. When the king of Jericho demanded that she hand them over, she hid them on her roof under stalks of flax and sent the soldiers away. She told the spies that the people of Jericho were terrified, because they had heard what the LORD had done, and she confessed that the LORD is God in heaven above and on earth below. She asked them to spare her family, and they told her to tie a scarlet cord in her window. When Jericho fell, Rahab and her family were saved. She later became an ancestor of King David and of Jesus."
+    }
+  ]
+}
