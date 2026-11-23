@@ -171,7 +171,7 @@
         "affectionate",
         "lovers"
       ],
-      "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected.",
+      "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected. Titus adds the bright side of the φιλ- compounds: lover of good, of guests, of husband and children — and God’s own φιλανθρωπία, His love toward mankind.",
       "members": [
         {
           "strongs": "G25",
@@ -232,6 +232,36 @@
           "sense": "Lover of God — the love that should rule all others, and the one the last days replace with pleasure.",
           "anchor": "2 Timothy 3:4",
           "en": "lovers of God"
+        },
+        {
+          "strongs": "G5358",
+          "sense": "‘Lover of good’ — φίλος + ἀγαθός: one who delights in goodness and good people. The opposite of ἀφιλάγαθος (2 Timothy 3:3).",
+          "anchor": "Titus 1:8",
+          "en": "lover of good"
+        },
+        {
+          "strongs": "G5382",
+          "sense": "‘Lover of strangers’ — φίλος + ξένος: hospitable, opening home and table to guests.",
+          "anchor": "Titus 1:8",
+          "en": "hospitality"
+        },
+        {
+          "strongs": "G5362",
+          "sense": "‘Husband-loving’ — φίλος + ἀνήρ: warm, devoted affection of a wife for her husband.",
+          "anchor": "Titus 2:4",
+          "en": "love their husbands"
+        },
+        {
+          "strongs": "G5388",
+          "sense": "‘Child-loving’ — φίλος + τέκνον: a parent’s tender affection for their children.",
+          "anchor": "Titus 2:4",
+          "en": "love their children"
+        },
+        {
+          "strongs": "G5363",
+          "sense": "‘Love of humankind’ (the root of ‘philanthropy’): kindness toward people as people. Titus 3:4 uses it of God Himself.",
+          "anchor": "Titus 3:4",
+          "en": "love toward mankind"
         }
       ]
     },
@@ -659,6 +689,85 @@
       ]
     },
     {
+      "id": "self-control",
+      "name": "Sober, Sound-Minded & Self-Controlled",
+      "lang": "Greek",
+      "english": [
+        "sober",
+        "sober minded",
+        "soberly",
+        "self-control",
+        "self-controlled",
+        "temperate",
+        "right mind",
+        "reasonableness",
+        "train"
+      ],
+      "intro": "English ‘sober’ and ‘self-control’ hide three Greek roots. νήφω / νηφάλιος is literally not drunk — clear-headed, alert. The σώφρων family (‘a saved, sound mind’) is sanity and moderation: thinking straight about God, self and others; the healed demoniac of Mark 5:15 is σωφρονοῦντα, ‘in his right mind’. ἐγκράτεια / ἐγκρατής is mastery, strength held over one’s own desires. Titus 1:8 puts σώφρων and ἐγκρατής side by side, and Titus 2 uses the σώφρων words for every age group.",
+      "members": [
+        {
+          "strongs": "G3525",
+          "sense": "To be sober, not intoxicated — figuratively, clear-headed and alert, especially in watching for the Lord.",
+          "anchor": "1 Thessalonians 5:6",
+          "en": "sober"
+        },
+        {
+          "strongs": "G3524",
+          "sense": "Sober, temperate — free from the haze of wine and excess; circumspect.",
+          "anchor": "1 Timothy 3:2",
+          "en": "temperate"
+        },
+        {
+          "strongs": "G4998",
+          "sense": "Of sound mind — sensible, self-controlled, moderate: the mind kept safe and whole.",
+          "anchor": "Titus 1:8",
+          "en": "sober minded"
+        },
+        {
+          "strongs": "G4993",
+          "sense": "To be of sound mind — sane, sensible; used of the healed demoniac ‘in his right mind’.",
+          "anchor": "Mark 5:15",
+          "en": "right mind"
+        },
+        {
+          "strongs": "G4996",
+          "sense": "With a sound mind — living sensibly and with restraint.",
+          "anchor": "Titus 2:12",
+          "en": "soberly"
+        },
+        {
+          "strongs": "G4997",
+          "sense": "Soundness of mind — good sense, sober reasonableness.",
+          "anchor": "Acts 26:25",
+          "en": "reasonableness"
+        },
+        {
+          "strongs": "G4995",
+          "sense": "Self-discipline — a sound, disciplined mind given by the Spirit.",
+          "anchor": "2 Timothy 1:7",
+          "en": "self-control"
+        },
+        {
+          "strongs": "G4994",
+          "sense": "To make sound-minded — to train, coach or bring someone to good sense.",
+          "anchor": "Titus 2:4",
+          "en": "train"
+        },
+        {
+          "strongs": "G1466",
+          "sense": "Mastery over oneself — strength that holds desires in check (the Spirit’s fruit).",
+          "anchor": "Galatians 5:23",
+          "en": "self-control"
+        },
+        {
+          "strongs": "G1468",
+          "sense": "Self-mastered — having one’s appetites under control.",
+          "anchor": "Titus 1:8",
+          "en": "self-controlled"
+        }
+      ]
+    },
+    {
       "id": "pray",
       "name": "Prayer, Asking & Intercession",
       "lang": "Greek",
@@ -755,6 +864,12 @@
           "sense": "To do good, to work what is good — ἀγαθός put into action, especially generosity.",
           "anchor": "1 Timothy 6:18",
           "en": "good"
+        },
+        {
+          "strongs": "G2567",
+          "sense": "‘Teacher of what is καλός’ — one whose life and words teach what is good and beautiful.",
+          "anchor": "Titus 2:3",
+          "en": "teachers of that which is good"
         }
       ]
     },
@@ -792,6 +907,56 @@
           "sense": "To behold — looking intently and taking in what is seen.",
           "anchor": "John 1:14",
           "en": "saw"
+        }
+      ]
+    },
+    {
+      "id": "appear",
+      "name": "Appear, Reveal & Manifest",
+      "lang": "Greek",
+      "english": [
+        "appear",
+        "appeared",
+        "appearing",
+        "revealed"
+      ],
+      "intro": "English ‘appear’ and ‘reveal’ cover several Greek words. ἐπιφαίνω / ἐπιφάνεια is a shining-forth, like dawn breaking or a king’s arrival: Titus uses it for both comings of Christ (2:11, 13; 3:4). φανερόω is to make visible what was hidden; φαίνω, to shine or be seen; ὤφθη (from ὁράω / ὀπτάνομαι), ‘was seen’, is used of the risen Lord’s appearances; ἀποκαλύπτω is to unveil, to take the cover off.",
+      "members": [
+        {
+          "strongs": "G2014",
+          "sense": "To shine forth upon — to dawn, to appear in a burst of light.",
+          "anchor": "Titus 2:11",
+          "en": "appeared"
+        },
+        {
+          "strongs": "G2015",
+          "sense": "A shining-forth, a glorious manifestation — used of Christ’s first and second comings.",
+          "anchor": "2 Timothy 1:10",
+          "en": "appearing"
+        },
+        {
+          "strongs": "G5319",
+          "sense": "To make visible, bring into the open what was hidden.",
+          "anchor": "Colossians 3:4",
+          "en": "revealed"
+        },
+        {
+          "strongs": "G5316",
+          "sense": "To shine; to appear, be seen.",
+          "anchor": "Matthew 1:20",
+          "en": "appeared"
+        },
+        {
+          "strongs": "G3700",
+          "sense": "To be seen — the word of the resurrection appearances: ‘he was seen by’.",
+          "anchor": "1 Corinthians 15:5",
+          "en": "appeared"
+        },
+        {
+          "strongs": "G601",
+          "sense": "To unveil, take the cover off — revelation of what only God can show.",
+          "anchor": "Romans 1:17",
+          "en": "revealed"
         }
       ]
     },
