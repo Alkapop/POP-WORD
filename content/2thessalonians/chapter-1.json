@@ -1,0 +1,689 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Thessalonians",
+  "chapter": 1,
+  "chapterTitle": "Growing Faith Under Fire — The Righteous Judge and the Day of Relief",
+  "themeTitle": "“To Give Relief to You Who Are Afflicted”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father, and the Lord Jesus Christ:",
+      "understanding": "The same three names as the first letter: Paul, Σιλουανός (Silas) and Τιμόθεος (Timothy). The address is almost identical too: the ἐκκλησία of the Θεσσαλονικεῖς ‘in God our Father, and the Lord Jesus Christ’. In the first letter it was ‘God the Father’; here, ‘God our Father’ — a small change that makes it personal. A church under growing pressure is reminded whose family it is.",
+      "words": [
+        {
+          "strongs": "G4610",
+          "hebrew": "Σιλουανός",
+          "translit": "Silouanós",
+          "english": "Silvanus"
+        },
+        {
+          "strongs": "G5095",
+          "hebrew": "Τιμόθεος",
+          "translit": "Timótheos",
+          "english": "Timothy"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G2331",
+          "hebrew": "Θεσσαλονικεύς",
+          "translit": "Thessalonikeús",
+          "english": "Thessalonians"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+      "understanding": "χάρις, “Grace,” and εἰρήνη, “peace.” This time Paul spells out the source: “from God our Father and the Lord Jesus Christ.” He places the Father and Jesus side by side as the one source of grace and peace — something no Jewish writer would say of a mere man. The peace they need in persecution does not come from their circumstances but from God.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "Grace"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "We are bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you towards one another abounds;",
+      "understanding": "ὀφείλομεν, “We are bound” — literally ‘we owe it’, we are under obligation — to give thanks, καθὼς ἄξιόν ἐστιν, “as it is appropriate,” fitting. Why? Two growth words. ὑπεραυξάνει, “your faith grows exceedingly” — over-grows, grows beyond normal measure, like a plant in rich soil. And from the love family, πλεονάζει ἡ ἀγάπη, “the love … abounds” — increases more and more. In 1 Thessalonians 3:12 Paul prayed that their love would increase and abound; here God has answered that prayer.",
+      "words": [
+        {
+          "strongs": "G3784",
+          "hebrew": "ὀφείλω",
+          "translit": "opheílō",
+          "english": "are bound"
+        },
+        {
+          "strongs": "G2168",
+          "hebrew": "εὐχαριστέω",
+          "translit": "eucharistéō",
+          "english": "give thanks"
+        },
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "áxios",
+          "english": "appropriate"
+        },
+        {
+          "strongs": "G5232",
+          "hebrew": "ὑπεραυξάνω",
+          "translit": "hyperauxánō",
+          "english": "grows exceedingly"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G4121",
+          "hebrew": "πλεονάζω",
+          "translit": "pleonázō",
+          "english": "abounds"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "so that we ourselves boast about you in the assemblies of God for your perseverance and faith in all your persecutions and in the afflictions which you endure.",
+      "understanding": "Paul καυχᾶσθαι, “boasts,” about them in the churches — not about his own work but about their ὑπομονή, “perseverance,” and πίστις, “faith.” ὑπομονή is the endurance of the triad in 1 Thessalonians 1:3, ‘perseverance of hope’. And it is endurance ἐν πᾶσιν τοῖς διωγμοῖς, “in all your persecutions,” and ταῖς θλίψεσιν, “afflictions” — διωγμός is active hunting down; θλῖψις is crushing pressure. αἷς ἀνέχεσθε, “which you endure” — hold yourselves up under. They had not escaped the storm; they were standing in it.",
+      "words": [
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "boast"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assemblies"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "perseverance"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1375",
+          "hebrew": "διωγμός",
+          "translit": "diōgmós",
+          "english": "persecutions"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "afflictions"
+        },
+        {
+          "strongs": "G430",
+          "hebrew": "ἀνέχομαι",
+          "translit": "anéchomai",
+          "english": "endure"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "This is an obvious sign of the righteous judgment of God, to the end that you may be counted worthy of God’s Kingdom, for which you also suffer.",
+      "understanding": "ἔνδειγμα, “an obvious sign” — evidence, proof, a clear indication. Of what? “Of the righteous (δικαίας) judgment (κρίσεως) of God.” Their endurance under persecution proves that God is at work in them and that His judgment will vindicate them. εἰς τὸ καταξιωθῆναι, “to the end that you may be counted worthy,” of God's βασιλεία, Kingdom, “for which you also suffer (πάσχετε).” Suffering is not evidence that God has abandoned them; it is evidence that they belong to His kingdom.",
+      "words": [
+        {
+          "strongs": "G1730",
+          "hebrew": "ἔνδειγμα",
+          "translit": "éndeigma",
+          "english": "sign"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous"
+        },
+        {
+          "strongs": "G2920",
+          "hebrew": "κρίσις",
+          "translit": "krísis",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G2661",
+          "hebrew": "καταξιόω",
+          "translit": "kataxióō",
+          "english": "counted worthy"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        },
+        {
+          "strongs": "G3958",
+          "hebrew": "πάσχω",
+          "translit": "páschō",
+          "english": "suffer"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Since it is a righteous thing with God to repay affliction to those who afflict you,",
+      "understanding": "εἴπερ δίκαιον παρὰ θεῷ, “Since it is a righteous thing with God” — just, right by God's own standard — ἀνταποδοῦναι, “to repay,” give back in kind, θλῖψιν, “affliction,” to τοῖς θλίβουσιν, “those who afflict you.” The word is the same root on both sides: those who press get pressed. Paul does not tell the Thessalonians to take revenge (Romans 12:19); he tells them that God's justice will do what is right.",
+      "words": [
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous"
+        },
+        {
+          "strongs": "G467",
+          "hebrew": "ἀνταποδίδωμι",
+          "translit": "antapodídōmi",
+          "english": "repay"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "affliction"
+        },
+        {
+          "strongs": "G2346",
+          "hebrew": "θλίβω",
+          "translit": "thlíbō",
+          "english": "afflict"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "and to give relief to you who are afflicted with us, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire,",
+      "understanding": "And to the afflicted: ἄνεσιν, “relief” — the loosening of a tight string, release from pressure, rest. When? ἐν τῇ ἀποκαλύψει, “when the Lord Jesus is revealed” — the ἀποκάλυψις, the unveiling, the word that gives its name to the book of Revelation. ἀπ᾽ οὐρανοῦ, “from heaven,” μετ᾽ ἀγγέλων δυνάμεως αὐτοῦ, literally ‘with the angels of his power’ — the power family's δύναμις — and ἐν πυρὶ φλογός, “in flaming fire.” The hidden Lord will be seen in His full majesty.",
+      "words": [
+        {
+          "strongs": "G425",
+          "hebrew": "ἄνεσις",
+          "translit": "ánesis",
+          "english": "relief"
+        },
+        {
+          "strongs": "G602",
+          "hebrew": "ἀποκάλυψις",
+          "translit": "apokálypsis",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G5395",
+          "hebrew": "φλόξ",
+          "translit": "phlóx",
+          "english": "flaming"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "punishing those who don’t know God, and to those who don’t obey the Good News of our Lord Jesus,",
+      "understanding": "διδόντος ἐκδίκησιν, “punishing” — literally ‘giving vindication / retribution’, justice carried out. Two groups: τοῖς μὴ εἰδόσι θεόν, “those who don’t know God” — οἶδα, the know-family word for basic knowledge; and τοῖς μὴ ὑπακούουσιν τῷ εὐαγγελίῳ, “those who don’t obey the Good News.” The gospel is not only to be believed but obeyed; refusing it is not neutral.",
+      "words": [
+        {
+          "strongs": "G1557",
+          "hebrew": "ἐκδίκησις",
+          "translit": "ekdíkēsis",
+          "english": "punishing"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G5219",
+          "hebrew": "ὑπακούω",
+          "translit": "hypakoúō",
+          "english": "obey"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might,",
+      "understanding": "This verse must not be softened. οἵτινες δίκην τίσουσιν, “who will pay the penalty” — δίκη is justice, a just sentence. The sentence: ὄλεθρον αἰώνιον, “eternal destruction” — ruin that lasts for the age to come, not momentary. And its essence is separation: ἀπὸ προσώπου τοῦ κυρίου, “from the face of the Lord,” and from τῆς δόξης τῆς ἰσχύος αὐτοῦ, “the glory of his might.” Here the power family's ἰσχύς is God's inherent strength. The worst thing about judgment is to be shut out from the presence of the One for whom you were made.",
+      "words": [
+        {
+          "strongs": "G1349",
+          "hebrew": "δίκη",
+          "translit": "díkē",
+          "english": "penalty"
+        },
+        {
+          "strongs": "G5099",
+          "hebrew": "τίνω",
+          "translit": "tínō",
+          "english": "pay"
+        },
+        {
+          "strongs": "G3639",
+          "hebrew": "ὄλεθρος",
+          "translit": "ólethros",
+          "english": "destruction"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiṓnios",
+          "english": "eternal"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2479",
+          "hebrew": "ἰσχύς",
+          "translit": "ischýs",
+          "english": "might"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "when he comes in that day to be glorified in his saints, and to be admired among all those who have believed, because our testimony to you was believed.",
+      "understanding": "Now the bright side of the same day. He comes ἐνδοξασθῆναι, “to be glorified in his saints” — His glory will shine in and through His people — and θαυμασθῆναι, “to be admired,” marvelled at, ‘among all those who have believed’. And the Thessalonians will be among them, “because our testimony (μαρτύριον) to you was believed (ἐπιστεύθη).” The persecuted little church will be part of the display of Christ's glory ἐν τῇ ἡμέρᾳ ἐκείνῃ, “in that day.”",
+      "words": [
+        {
+          "strongs": "G1740",
+          "hebrew": "ἐνδοξάζω",
+          "translit": "endoxázō",
+          "english": "glorified"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G2296",
+          "hebrew": "θαυμάζω",
+          "translit": "thaumázō",
+          "english": "admired"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believed"
+        },
+        {
+          "strongs": "G3142",
+          "hebrew": "μαρτύριον",
+          "translit": "martýrion",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "To this end we also pray always for you, that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith, with power;",
+      "understanding": "Paul προσευχόμεθα, “prays,” always that God would ἀξιώσῃ, “count you worthy,” of your κλῆσις, “calling” — not that they earn it, but that God would make their lives fit the calling He gave. And that He would πληρώσῃ, “fulfill,” every εὐδοκίαν ἀγαθωσύνης, “desire of goodness,” and ἔργον πίστεως, “work of faith” — the same phrase as 1 Thessalonians 1:3 — ἐν δυνάμει, “with power.” A power-family word again: God supplies the δύναμις to carry out what faith wants to do.",
+      "words": [
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "pray"
+        },
+        {
+          "strongs": "G515",
+          "hebrew": "ἀξιόω",
+          "translit": "axióō",
+          "english": "count worthy"
+        },
+        {
+          "strongs": "G2821",
+          "hebrew": "κλῆσις",
+          "translit": "klēsis",
+          "english": "calling"
+        },
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "fulfill"
+        },
+        {
+          "strongs": "G2107",
+          "hebrew": "εὐδοκία",
+          "translit": "eudokía",
+          "english": "desire"
+        },
+        {
+          "strongs": "G19",
+          "hebrew": "ἀγαθωσύνη",
+          "translit": "agathōsýnē",
+          "english": "goodness"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.",
+      "understanding": "The goal: “that the name (ὄνομα) of our Lord Jesus may be glorified (ἐνδοξασθῇ) in you, and you in him.” Glory runs both ways: Jesus is honoured through the lives of His people, and His people share His glory. And it all happens κατὰ τὴν χάριν, “according to the grace,” of our God and the Lord Jesus Christ. Grace begins the letter (v. 2) and grounds the hope.",
+      "words": [
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1740",
+          "hebrew": "ἐνδοξάζω",
+          "translit": "endoxázō",
+          "english": "glorified"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Plant in the Storm",
+      "verseRef": "v. 3-4",
+      "image": "Picture a young tree planted on an exposed hillside. Every week the wind batters it, the rain lashes it, and passers-by expect it to be torn up by the roots. But each time the gardener visits, it is taller. The wind has driven its roots deeper. Its trunk is thicker, its branches wider. It is growing not in spite of the storm, but in the middle of it. Now picture a small church in Thessalonica, a few months after Paul left: more threats, more pressure, more neighbours turning against them. And each report Paul hears says the same thing: their faith is growing, their love is overflowing.",
+      "meaning": "Paul writes, “your faith grows exceedingly, and the love of each and every one of you towards one another abounds” (v. 3), “so that we ourselves boast about you in the assemblies of God for your perseverance and faith in all your persecutions and in the afflictions which you endure” (v. 4). Persecution did not kill their faith; it deepened its roots. This does not make suffering good in itself, but it shows that God can use pressure to grow His people. If you are in a storm, ask God not only to calm it but to deepen your roots while it lasts."
+    },
+    {
+      "title": "The Two Sides of the Same Day",
+      "verseRef": "v. 6-10",
+      "image": "Picture a courtroom on the day of final sentence. On one side sit those who have been wronged: the widow cheated of her house, the slave beaten without cause, the believers dragged before city rulers for following Jesus. On the other side sit those who did the wronging, who never repented and never sought mercy. The Judge enters. For the first group, the judgment means vindication and rest at last; their long nightmare is over. For the second group, the same judgment means the sentence they chose. Now lift the scene: the Judge is the Lord Jesus, revealed from heaven with the angels of His power in flaming fire.",
+      "meaning": "Paul writes that it is “a righteous thing with God to repay affliction to those who afflict you, and to give relief to you who are afflicted with us, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire” (vv. 6–7). The same day brings “eternal destruction from the face of the Lord” (v. 9) for those who refuse God, and glory for those who believe: “when he comes in that day to be glorified in his saints” (v. 10). God's justice is not a threat to His suffering people; it is their hope. And it is a warning to anyone who will not know God or obey the gospel."
+    },
+    {
+      "title": "Glory Running Both Ways",
+      "verseRef": "v. 10-12",
+      "image": "Picture a master sculptor at the unveiling of his greatest work. The crowd gasps at the statue; then their eyes turn to the artist, and they honour him. The work makes the sculptor famous, and the sculptor's name makes the work treasured. Now picture the day of Christ's return. Believers who were mocked, poor, persecuted and forgotten are suddenly seen for what God has made them. The watching universe marvels — not at them, but at the Lord who did it. And the Lord shares His glory with them.",
+      "meaning": "Christ comes “to be glorified in his saints, and to be admired among all those who have believed” (v. 10). Paul prays “that the name of our Lord Jesus may be glorified in you, and you in him” (v. 12). Your life is meant to be a display of Jesus' work: He is honoured in you now, through faith that works and goodness He fulfils with power (v. 11), and you will share His glory then. Nothing in your faithful obedience is wasted."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Greeting (v. 1-2)",
+        "body": "Paul, Silvanus and Timothy greet the Thessalonian church in God our Father and the Lord Jesus Christ, with grace and peace from both."
+      },
+      {
+        "label": "Thanksgiving for Growing Faith and Love (v. 3-4)",
+        "body": "Paul must thank God because their faith is growing greatly and their love for one another is increasing; he boasts about their endurance and faith in all their persecutions and afflictions."
+      },
+      {
+        "label": "The Righteous Judgment of God (v. 5-10)",
+        "body": "Their endurance is evidence of God's righteous judgment: He will repay their persecutors and give relief to the afflicted when the Lord Jesus is revealed from heaven with His angels in flaming fire, punishing those who do not know God or obey the gospel with eternal destruction away from His presence, and being glorified in His saints on that day."
+      },
+      {
+        "label": "Prayer for Worthy Living (v. 11-12)",
+        "body": "Paul prays that God will make them worthy of His calling and fulfil every desire for goodness and work of faith by His power, so that the name of the Lord Jesus is glorified in them and they in Him, by grace."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Faith That Grows Under Pressure",
+        "paragraphs": [
+          "2 Thessalonians was probably written only a few months after the first letter, from Corinth, by the same team of Paul, Silas and Timothy. Much had stayed the same: the church was standing, and its faith and love were real. But two things had grown worse: the persecution and the confusion. Paul begins where he always begins — with thanksgiving — but this time he says he is ‘bound’ to give thanks: “We are bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you towards one another abounds” (v. 3). Thanksgiving is not just a feeling; when God is at work, gratitude is a debt.",
+          "The growth Paul describes is extraordinary. In the first letter he prayed for what was “lacking in your faith” (1 Thessalonians 3:10) and asked the Lord to “make you to increase and abound in love one toward another” (1 Thessalonians 3:12). Now he sees both prayers answered. Their faith is ‘over-growing’; their love is overflowing to ‘each and every one’. And this happened under pressure: Paul boasts “for your perseverance and faith in all your persecutions and in the afflictions which you endure” (v. 4).",
+          "That leads to a remarkable statement: “This is an obvious sign of the righteous judgment of God, to the end that you may be counted worthy of God’s Kingdom, for which you also suffer” (v. 5). Their endurance is evidence — like an exhibit in court — that God is just and that they truly belong to His kingdom. Suffering for Christ is not a sign that He has abandoned you. As Paul told new believers elsewhere, “through many afflictions we must enter into God’s Kingdom” (Acts 14:22)."
+        ]
+      },
+      {
+        "heading": "The Righteous Judge Is Coming",
+        "paragraphs": [
+          "Verses 6–10 give the most solemn picture of judgment in Paul's letters. They are written to comfort persecuted believers, but they must not be softened. First, the principle: “it is a righteous thing with God to repay affliction to those who afflict you, and to give relief to you who are afflicted with us” (vv. 6–7). God is not indifferent to injustice. Because He will repay, His people do not have to: “Don’t seek revenge yourselves, beloved, but give place to God’s wrath” (Romans 12:19).",
+          "Second, the event: “when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, punishing those who don’t know God, and to those who don’t obey the Good News of our Lord Jesus” (vv. 7–8). Jesus is not only Saviour; He is Judge. The two groups described — those who do not know God, and those who do not obey the gospel — may be two ways of describing the same people: those who reject the truth God has made known.",
+          "Third, the sentence: “who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might” (v. 9). ‘Eternal’ (αἰώνιος) describes the destruction as belonging to the age to come, without end. Jesus spoke in the same terms: “These will go away into eternal punishment, but the righteous into eternal life” (Matthew 25:46). The heart of the punishment is exclusion from the presence of the Lord — the source of all life, joy and goodness. This is not a doctrine to be enjoyed but to be feared and to drive us to Christ, who bore judgment for all who trust in Him."
+        ]
+      },
+      {
+        "heading": "Glorified in His Saints",
+        "paragraphs": [
+          "The same day that brings judgment brings glory. Christ comes “to be glorified in his saints, and to be admired among all those who have believed” (v. 10). The persecuted, mocked believers of Thessalonica will be part of that display, “because our testimony to you was believed” (v. 10). The decisive question on that day is not social status or earthly success, but whether one believed the gospel.",
+          "In the light of that day, Paul prays: “To this end we also pray always for you, that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith, with power” (v. 11). God's calling comes first; Paul prays that their lives will match it. ‘Every desire of goodness’ and ‘work of faith’ describe what faith wants to do; ‘with power’ (δύναμις) describes God supplying the strength to do it. Christian obedience is not human effort alone but God's power working through willing hearts.",
+          "The final purpose is glory: “that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ” (v. 12). Glory flows both ways — to Christ through His people, and to His people in Christ. And it is all ‘according to grace’. The persecuted church is not earning its place in that day; it is being carried there by grace."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Judgment and Glory in the Teaching of Jesus",
+      "paragraphs": [
+        "Paul's picture of Christ's revelation with angels echoes Jesus' own words: “they will see the Son of Man coming on the clouds of the sky with power and great glory” (Matthew 24:30), and “He will send out his angels with a great sound of a trumpet” (Matthew 24:31). In the parable of the sheep and the goats Jesus describes both sides of that day: “Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels” (Matthew 25:41), and “These will go away into eternal punishment, but the righteous into eternal life” (Matthew 25:46).",
+        "The theme of growth through suffering runs through Paul's teaching. “we also rejoice in our sufferings, knowing that suffering produces perseverance” (Romans 5:3). And the call to leave vengeance to God is rooted in Scripture: “Don’t seek revenge yourselves, beloved, but give place to God’s wrath. For it is written, ‘Vengeance belongs to me; I will repay, says the Lord’” (Romans 12:19). The Thessalonians did not need to fight back. They needed to endure, knowing that the righteous Judge is coming.",
+        "Peter makes the same connection between suffering and future glory: “Beloved, don’t be astonished at the fiery trial which has come upon you, to test you, as though a strange thing happened to you” (1 Peter 4:12). The suffering church of Thessalonica, like the churches Peter wrote to, was learning that present affliction is not the final word. The final word belongs to the Lord Jesus, revealed from heaven."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Grow exceedingly",
+      "hebrew": "ὑπεραυξάνω",
+      "translit": "hyperauxánō",
+      "strongs": "G5232",
+      "verses": "v. 3",
+      "insight": "Strong's: “to increase above ordinary degree.” It appears only here in the New Testament. The word combines ὑπέρ, over, beyond, and αὐξάνω, to grow. Paul often uses ὑπέρ- compounds when ordinary words are not big enough. The Thessalonians' faith was not just surviving persecution; it was growing beyond normal measure. In 1 Thessalonians 3:10 their faith had things ‘lacking’; a few months later it is over-growing. God answers prayer."
+    },
+    {
+      "english": "Evidence / obvious sign",
+      "hebrew": "ἔνδειγμα",
+      "translit": "éndeigma",
+      "strongs": "G1730",
+      "verses": "v. 5",
+      "insight": "Strong's: “an indication (concretely).” It appears only here in the New Testament. It is a legal word: a piece of evidence, a proof shown in court. The Thessalonians' endurance under persecution is presented as evidence that God's judgment is righteous and that they belong to His kingdom. Their suffering is not proof that God has failed them; it is proof that God is at work in them."
+    },
+    {
+      "english": "Relief / rest",
+      "hebrew": "ἄνεσις",
+      "translit": "ánesis",
+      "strongs": "G425",
+      "verses": "v. 7",
+      "insight": "Strong's: “relaxation or (figuratively) relief.” From ἀνίημι, to loosen or let go. It pictures loosening a bowstring or releasing a prisoner's chains. For believers under constant pressure (θλῖψις, crushing), God promises ἄνεσις, the release of pressure. It will come fully when the Lord Jesus is revealed from heaven. Every persecuted believer can hold on to this word: the pressure will not last for ever; relief is coming."
+    },
+    {
+      "english": "Revelation / unveiling",
+      "hebrew": "ἀποκάλυψις",
+      "translit": "apokálypsis",
+      "strongs": "G602",
+      "verses": "v. 7",
+      "insight": "Strong's: “disclosure.” From ἀπό, from, and καλύπτω, to cover: removing a cover so that what was hidden is seen. It gives its name to the last book of the Bible. Paul uses it here for the return of Christ. Now He is hidden from the world's sight, seated in heaven; then He will be unveiled in His full majesty. The same Jesus whom the world ignored will be revealed as Lord and Judge."
+    },
+    {
+      "english": "Destruction / ruin",
+      "hebrew": "ὄλεθρος",
+      "translit": "ólethros",
+      "strongs": "G3639",
+      "verses": "v. 9",
+      "insight": "Strong's: “ruin, i.e. death, punishment.” The same word describes the ‘sudden destruction’ that falls on the unprepared in the first letter (1 Thessalonians 5:3), and appears in 1 Corinthians 5:5 and 1 Timothy 6:9. It does not necessarily mean ceasing to exist; it describes the loss of everything that makes life good. Here it is ‘eternal destruction’, and its essence is separation ‘from the face of the Lord’. Scripture presents this soberly, not to frighten believers but to warn the world and to show what Christ rescues His people from."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: how you respond to pressure, how you handle injustice, and what you are living for.",
+    "items": [
+      {
+        "title": "Roots Under Pressure",
+        "body": "The Thessalonians' faith grew exceedingly in persecution. The Spirit may be showing you that the pressure you are under is not destroying you but driving your roots deeper. Or He may be showing you that pressure has made you withdraw from God. Ask Him: ‘Is this storm making my faith grow, or making it shrink?’ Then ask Him to use it to grow you, and to make your love abound toward the people around you even when life is hard."
+      },
+      {
+        "title": "Leave Justice to God",
+        "body": "Someone may have wronged you deeply, and the injustice still burns. The Spirit wants to lift that weight from you. God says it is “a righteous thing with God to repay affliction to those who afflict you” (v. 6). You do not need to carry revenge or bitterness; God will deal with every wrong perfectly. Hand the person and the injustice to Him in prayer. That is not pretending it did not matter; it is trusting the righteous Judge."
+      },
+      {
+        "title": "Living for That Day",
+        "body": "Jesus is coming “to be glorified in his saints” (v. 10). The Spirit wants to fix your eyes on that day. Are you living for the applause of people now, or for the day when Christ will be glorified in you? Ask Him to fulfil in you every desire for goodness and every work of faith with power, so that the name of Jesus is honoured in your life today."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Growth Check",
+        "body": "Compare your faith and love today with a year ago. Are they growing, holding steady or shrinking? Write down one evidence of growth and one area where you have shrunk back under pressure (vv. 3–4)."
+      },
+      {
+        "title": "The Justice Check",
+        "body": "Is there an injustice you are still carrying — a desire for revenge or a bitterness you cannot let go of? Write it down, read verses 6–7, and pray, handing it to the righteous Judge."
+      },
+      {
+        "title": "The Calling Check",
+        "body": "Paul prays that God will count them worthy of their calling (v. 11). What is one ‘desire of goodness’ or ‘work of faith’ that God has put in your heart but you have not yet acted on? Ask Him for the power to fulfil it."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Boast About Someone's Endurance",
+        "body": "Paul boasted to other churches about the Thessalonians' endurance (v. 4). This week, think of a believer you know who is enduring a hard season faithfully — illness, persecution, loss or poverty. Tell others what God is doing in them, and tell them directly too. Write them a note naming the evidence of God's grace you see in their perseverance. Encouragement shared is strength multiplied."
+      },
+      {
+        "title": "Pray Verses 11–12 Daily",
+        "body": "For one week, pray Paul's prayer every day for yourself and for two others: that God would count you worthy of your calling, fulfil every desire for goodness and work of faith with His power, and glorify the name of Jesus in you, according to His grace. At the end of the week, write down one way God answered that prayer in your actions or attitudes."
+      }
+    ]
+  },
+  "prayerReflection": "“God our Father and Lord Jesus Christ, thank You for grace and peace in the middle of pressure. Make my faith grow beyond ordinary measure and my love overflow toward everyone around me. When persecution and affliction come, give me endurance. Let my perseverance be evidence of Your righteous judgment and my place in Your kingdom. I give You every injustice I have suffered; You are the righteous Judge, and You will repay. Thank You for the relief that is coming when the Lord Jesus is revealed from heaven with His mighty angels. Have mercy on those who do not know You and do not obey the gospel; open their eyes before that day. Lord Jesus, be glorified in Your saints, and let me be among those who marvel at You. Count me worthy of my calling. Fulfil every desire for goodness and every work of faith in me by Your power. Let Your name be glorified in me, and me in You, according to Your grace. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "The Mob in Thessalonica",
+      "ref": "Acts 17:5-9",
+      "relatedVerses": "v. 4-6",
+      "summary": "The persecution of 2 Thessalonians 1 began at the church's birth. “But the unpersuaded Jews took along some wicked men from the marketplace, and gathering a crowd, set the city in an uproar. Assaulting the house of Jason, they sought to bring them out to the people” (Acts 17:5). When they could not find Paul, they dragged Jason and some believers before the city rulers, accusing them of acting against Caesar by saying there was another king, Jesus. The rulers took security from Jason and let them go. Paul and Silas left the city, but the believers stayed in the middle of that hostility. By the time of 2 Thessalonians the persecution had grown — and so had their faith."
+    },
+    {
+      "title": "Stephen Sees the Son of Man",
+      "ref": "Acts 7:54-60",
+      "relatedVerses": "v. 6-7, 10",
+      "summary": "When Stephen was on trial before the Jewish council, his accusers were furious and gnashed their teeth at him. But Stephen, full of the Holy Spirit, looked into heaven and saw the glory of God and Jesus standing at the right hand of God. He said so, and they rushed at him, dragged him out of the city and stoned him. As he died he prayed for his killers, “Lord, don’t hold this sin against them!” (Acts 7:60). Stephen did not seek revenge; he entrusted himself and his enemies to God. He saw ahead of time what 2 Thessalonians 1 promises: the Lord Jesus in glory, ready to receive His suffering people."
+    },
+    {
+      "title": "The Sheep and the Goats",
+      "ref": "Matthew 25:31-46",
+      "relatedVerses": "v. 7-10",
+      "summary": "Jesus described the day when the Son of Man comes in His glory with all His angels and sits on His glorious throne. All the nations will be gathered before Him, and He will separate them as a shepherd separates sheep from goats. To those on His right He will say, ‘Come, blessed of my Father, inherit the Kingdom’; to those on His left, “Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels” (Matthew 25:41). And He concluded: “These will go away into eternal punishment, but the righteous into eternal life” (Matthew 25:46). 2 Thessalonians 1 describes the same day from Paul's side: the Lord revealed with His angels, relief for His people and eternal destruction for those who rejected God."
+    }
+  ]
+}

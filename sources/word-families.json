@@ -60,6 +60,38 @@
       ]
     },
     {
+      "id": "signs",
+      "name": "Signs, Wonders & Mighty Works",
+      "lang": "Greek",
+      "english": [
+        "signs",
+        "wonders",
+        "mighty works",
+        "power"
+      ],
+      "intro": "The New Testament describes miracles with three words, often together: δύναμις (a mighty work — the power behind it), σημεῖον (a sign — what it points to) and τέρας (a wonder — the amazement it causes). God attested Jesus with all three (Acts 2:22). 2 Thessalonians 2:9 warns that the lawless one will counterfeit all three: ‘power and signs and lying wonders’.",
+      "members": [
+        {
+          "strongs": "G1411",
+          "sense": "Mighty work — a miracle seen as an act of power.",
+          "anchor": "2 Corinthians 12:12",
+          "en": "mighty works"
+        },
+        {
+          "strongs": "G4592",
+          "sense": "Sign — a miracle seen as pointing beyond itself, revealing who is at work (John's word for Jesus' miracles).",
+          "anchor": "John 2:11",
+          "en": "signs"
+        },
+        {
+          "strongs": "G5059",
+          "sense": "Wonder, portent — a miracle seen as something astonishing; never used alone of Jesus' miracles in the New Testament.",
+          "anchor": "Acts 2:22",
+          "en": "wonders"
+        }
+      ]
+    },
+    {
       "id": "time",
       "name": "Time, Season & Age",
       "lang": "Greek",
@@ -372,7 +404,8 @@
         "labor",
         "toil",
         "travail",
-        "working"
+        "working",
+        "busybodies"
       ],
       "intro": "English ‘work’ and ‘labour’ cover several Greek words. 1 Thessalonians 1:3 sets ἔργον (work) beside κόπος (labour to the point of exhaustion), and 2:9 adds μόχθος (hardship) and ἐργάζομαι (working). Revelation 2:2 praises ‘works’ and ‘toil’ in a church that had left its first love.",
       "members": [
@@ -405,6 +438,12 @@
           "sense": "To work — to do a job, to earn a living by labour.",
           "anchor": "1 Thessalonians 4:11",
           "en": "work"
+        },
+        {
+          "strongs": "G4020",
+          "sense": "To work around — to bustle about in other people's affairs instead of doing one's own work; to be a busybody.",
+          "anchor": "2 Thessalonians 3:11",
+          "en": "busybodies"
         }
       ]
     },
@@ -419,7 +458,8 @@
         "transgressions",
         "trespass",
         "lawlessness",
-        "debts"
+        "debts",
+        "unrighteousness"
       ],
       "intro": "The New Testament describes sin from several angles: missing the mark, a false step, crossing a line, living without law, and owing a debt. Ephesians 2:1 uses two of these words together.",
       "members": [
@@ -446,6 +486,12 @@
           "sense": "Lawlessness — living as if no law applied; rebellion against God's rule.",
           "anchor": "1 John 3:4",
           "en": "lawlessness"
+        },
+        {
+          "strongs": "G93",
+          "sense": "Unrighteousness, injustice — what is not right before God or toward people; ‘All unrighteousness is sin’.",
+          "anchor": "1 John 5:17",
+          "en": "unrighteousness"
         },
         {
           "strongs": "G3783",

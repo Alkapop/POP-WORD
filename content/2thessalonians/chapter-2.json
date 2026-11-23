@@ -1,0 +1,902 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Thessalonians",
+  "chapter": 2,
+  "chapterTitle": "Not Yet — The Rebellion, the Man of Sin and the Breath of His Mouth",
+  "themeTitle": "“Stand Firm, and Hold the Traditions Which You Were Taught”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now, brothers, concerning the coming of our Lord Jesus Christ, and our gathering together to him, we ask you",
+      "understanding": "The subject: “the coming (παρουσία) of our Lord Jesus Christ, and our gathering together (ἐπισυναγωγῆς) to him.” Paul ties the two together, as in 1 Thessalonians 4:16–17: Christ's arrival and His people's gathering to Him are one event. ἐρωτῶμεν, “we ask you” — the pray-family word for asking as an equal, brother to brother.",
+      "words": [
+        {
+          "strongs": "G3952",
+          "hebrew": "παρουσία",
+          "translit": "parousía",
+          "english": "coming"
+        },
+        {
+          "strongs": "G1997",
+          "hebrew": "ἐπισυναγωγή",
+          "translit": "episynagōgḗ",
+          "english": "gathering together"
+        },
+        {
+          "strongs": "G2065",
+          "hebrew": "ἐρωτάω",
+          "translit": "erōtáō",
+          "english": "ask"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "not to be quickly shaken in your mind, and not be troubled, either by spirit, or by word, or by letter as if from us, saying that the day of Christ has already come.",
+      "understanding": "μὴ ταχέως σαλευθῆναι, “not to be quickly shaken” — σαλεύω is the word for a ship tossed loose from its moorings — ἀπὸ τοῦ νοός, “in your mind,” nor θροεῖσθαι, “be troubled,” alarmed, as by a sudden scream. Three possible sources: διὰ πνεύματος, “by spirit” (a supposed prophecy), διὰ λόγου, “by word” (a teaching), δι᾽ ἐπιστολῆς ὡς δι᾽ ἡμῶν, “by letter as if from us” — a forgery or a misreading of the first letter. The false claim: ὅτι ἐνέστηκεν, “that the day of Christ has already come” — is present, has begun. Most manuscripts read ‘day of the Lord’; the WEB follows those that read ‘day of Christ’.",
+      "words": [
+        {
+          "strongs": "G4531",
+          "hebrew": "σαλεύω",
+          "translit": "saleúō",
+          "english": "shaken"
+        },
+        {
+          "strongs": "G3563",
+          "hebrew": "νοῦς",
+          "translit": "noûs",
+          "english": "mind"
+        },
+        {
+          "strongs": "G2360",
+          "hebrew": "θροέω",
+          "translit": "throéō",
+          "english": "troubled"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1992",
+          "hebrew": "ἐπιστολή",
+          "translit": "epistolḗ",
+          "english": "letter"
+        },
+        {
+          "strongs": "G1764",
+          "hebrew": "ἐνίστημι",
+          "translit": "enístēmi",
+          "english": "has come"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Let no one deceive you in any way. For it will not be, unless the rebellion comes first, and the man of sin is revealed, the son of destruction,",
+      "understanding": "μή τις ὑμᾶς ἐξαπατήσῃ, “Let no one deceive you in any way” — thoroughly mislead. The day will not come ‘unless’ two things happen first. ἡ ἀποστασία, “the rebellion” — the word gives us ‘apostasy’: a great falling away, a revolt against God. And the man ἀποκαλυφθῇ, “is revealed.” A word-family question here: the WEB, following the majority of manuscripts, reads ὁ ἄνθρωπος τῆς ἁμαρτίας, “the man of sin” (ἁμαρτία, missing the mark); several of the oldest manuscripts read τῆς ἀνομίας, ‘of lawlessness’, which matches ‘the mystery of lawlessness’ (v. 7) and ‘the lawless one’ (v. 8). Either way he is ‘the son of destruction’ (ἀπωλείας) — a Hebrew idiom for one whose nature and destiny is ruin; Judas is called by the same title in John 17:12.",
+      "words": [
+        {
+          "strongs": "G1818",
+          "hebrew": "ἐξαπατάω",
+          "translit": "exapatáō",
+          "english": "deceive"
+        },
+        {
+          "strongs": "G646",
+          "hebrew": "ἀποστασία",
+          "translit": "apostasía",
+          "english": "rebellion"
+        },
+        {
+          "strongs": "G601",
+          "hebrew": "ἀποκαλύπτω",
+          "translit": "apokalýptō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "son"
+        },
+        {
+          "strongs": "G684",
+          "hebrew": "ἀπώλεια",
+          "translit": "apṓleia",
+          "english": "destruction"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "he who opposes and exalts himself against all that is called God or that is worshiped; so that he sits as God in the temple of God, setting himself up as God.",
+      "understanding": "His character: ὁ ἀντικείμενος, “he who opposes” — the word Satan's very name means, adversary — καὶ ὑπεραιρόμενος, “and exalts himself,” lifts himself up, ‘against all that is called God or that is worshiped (σέβασμα)’. His climax: εἰς τὸν ναὸν τοῦ θεοῦ καθίσαι, “so that he sits as God in the temple of God,” ἀποδεικνύντα ἑαυτὸν ὅτι ἐστὶν θεός, “setting himself up as God,” showing himself off as divine. The language echoes Daniel's prophecies of a king who exalts himself above every god, and Jesus' warning of ‘the abomination of desolation … standing in the holy place’ (Matthew 24:15). Whether ‘the temple’ is a rebuilt temple in Jerusalem or a picture of usurping God's place among His people is debated.",
+      "words": [
+        {
+          "strongs": "G480",
+          "hebrew": "ἀντίκειμαι",
+          "translit": "antíkeimai",
+          "english": "opposes"
+        },
+        {
+          "strongs": "G5229",
+          "hebrew": "ὑπεραίρομαι",
+          "translit": "hyperaíromai",
+          "english": "exalts himself"
+        },
+        {
+          "strongs": "G4574",
+          "hebrew": "σέβασμα",
+          "translit": "sébasma",
+          "english": "worshiped"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G2523",
+          "hebrew": "καθίζω",
+          "translit": "kathízō",
+          "english": "sits"
+        },
+        {
+          "strongs": "G584",
+          "hebrew": "ἀποδείκνυμι",
+          "translit": "apodeíknymi",
+          "english": "setting himself up"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Don’t you remember that, when I was still with you, I told you these things?",
+      "understanding": "“Don’t you remember that, when I was still with you, I told you these things?” οὐ μνημονεύετε — Paul had taught all this during his few weeks in Thessalonica. This explains why the chapter is so brief and allusive: Paul is reminding them of teaching we do not have. It also shows that even new converts were taught about the end times. This verse should make every reader humble: the Thessalonians knew more than we do about what Paul meant.",
+      "words": [
+        {
+          "strongs": "G3421",
+          "hebrew": "μνημονεύω",
+          "translit": "mnēmoneúō",
+          "english": "remember"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Now you know what is restraining him, to the end that he may be revealed in his own season.",
+      "understanding": "“Now you know (οἴδατε) what is restraining him” — τὸ κατέχον, neuter: ‘the thing that holds back’. κατέχω means to hold down, restrain. The purpose: “to the end that he may be revealed in his own season” — ἐν τῷ ἑαυτοῦ καιρῷ, the time-family word for the appointed moment. Even the lawless one's appearing is on God's timetable. He cannot come a moment before God permits.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2722",
+          "hebrew": "κατέχω",
+          "translit": "katéchō",
+          "english": "restraining"
+        },
+        {
+          "strongs": "G601",
+          "hebrew": "ἀποκαλύπτω",
+          "translit": "apokalýptō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "season"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For the mystery of lawlessness already works. Only there is one who restrains now, until he is taken out of the way.",
+      "understanding": "τὸ γὰρ μυστήριον ἤδη ἐνεργεῖται τῆς ἀνομίας, “For the mystery of lawlessness already works.” A power-family verb used of evil: ἐνεργέω, power actively at work — the same verb used of God's word ‘working’ in believers (1 Thessalonians 2:13). Lawlessness (ἀνομία, from the sin family: living as if there is no law) is already operating secretly. ‘Only there is one who restrains (ὁ κατέχων, now masculine: ‘the one who holds back’) now, until he is taken out of the way (ἐκ μέσου).’ The identity of the restrainer has been debated since the early church. The main views are: the Holy Spirit (or the Spirit working through the church), the restraining power of government and law (in Paul's day, Rome), an angel such as Michael, or the preaching of the gospel. Paul assumed his readers knew; we cannot be certain. What is certain is that God is in control of the timing.",
+      "words": [
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mystery"
+        },
+        {
+          "strongs": "G458",
+          "hebrew": "ἀνομία",
+          "translit": "anomía",
+          "english": "lawlessness"
+        },
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "works"
+        },
+        {
+          "strongs": "G2722",
+          "hebrew": "κατέχω",
+          "translit": "katéchō",
+          "english": "restrains"
+        },
+        {
+          "strongs": "G3319",
+          "hebrew": "μέσος",
+          "translit": "mésos",
+          "english": "out of the way"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Then the lawless one will be revealed, whom the Lord will kill with the breath of his mouth, and destroy by the manifestation of his coming;",
+      "understanding": "“Then the lawless one (ὁ ἄνομος) will be revealed.” Before Paul even describes his career, he announces his end: “whom the Lord will kill (ἀνελεῖ / ἀναλώσει, consume) with the breath (πνεύματι) of his mouth (στόματος)” — echoing Isaiah's description of the Messiah, who slays the wicked with the breath of His lips. ‘And destroy (καταργήσει, render powerless, put out of action) by the manifestation (ἐπιφανείᾳ, the shining forth, a word used of a god appearing) of his coming (παρουσίας).’ The lawless one's whole career ends with one breath and one appearance of Jesus.",
+      "words": [
+        {
+          "strongs": "G459",
+          "hebrew": "ἄνομος",
+          "translit": "ánomos",
+          "english": "lawless one"
+        },
+        {
+          "strongs": "G601",
+          "hebrew": "ἀποκαλύπτω",
+          "translit": "apokalýptō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G355",
+          "hebrew": "ἀναλίσκω",
+          "translit": "analískō",
+          "english": "kill"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "breath"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "destroy"
+        },
+        {
+          "strongs": "G2015",
+          "hebrew": "ἐπιφάνεια",
+          "translit": "epipháneia",
+          "english": "manifestation"
+        },
+        {
+          "strongs": "G3952",
+          "hebrew": "παρουσία",
+          "translit": "parousía",
+          "english": "coming"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "even he whose coming is according to the working of Satan with all power and signs and lying wonders,",
+      "understanding": "A dark parody of Christ. The lawless one has his own παρουσία, “coming,” κατ᾽ ἐνέργειαν τοῦ Σατανᾶ, “according to the working of Satan” — the power family's ἐνέργεια, power in operation, now Satan's. Then all three words of the signs-and-wonders family at once: ἐν πάσῃ δυνάμει καὶ σημείοις καὶ τέρασιν ψεύδους, “with all power and signs and lying wonders.” These are the very words used of Jesus' miracles (Acts 2:22). The miracles are counterfeit not necessarily because nothing happens, but because they serve a lie (ψεῦδος). Miracles alone never prove truth.",
+      "words": [
+        {
+          "strongs": "G3952",
+          "hebrew": "παρουσία",
+          "translit": "parousía",
+          "english": "coming"
+        },
+        {
+          "strongs": "G1753",
+          "hebrew": "ἐνέργεια",
+          "translit": "enérgeia",
+          "english": "working"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeîon",
+          "english": "signs"
+        },
+        {
+          "strongs": "G5059",
+          "hebrew": "τέρας",
+          "translit": "téras",
+          "english": "wonders"
+        },
+        {
+          "strongs": "G5579",
+          "hebrew": "ψεῦδος",
+          "translit": "pseûdos",
+          "english": "lying"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "and with all deception of wickedness for those who are being lost, because they didn’t receive the love of the truth, that they might be saved.",
+      "understanding": "“And with all deception (ἀπάτῃ) of wickedness (ἀδικίας)” — ἀδικία from the sin family: unrighteousness, injustice. The deception works τοῖς ἀπολλυμένοις, “for those who are being lost” — present tense, perishing now. Why? A love-family phrase: τὴν ἀγάπην τῆς ἀληθείας οὐκ ἐδέξαντο, “because they didn’t receive the love of the truth.” Not merely ‘the truth’ but ‘the love of the truth’. It is possible to know facts and still not love the truth. Those who will not love the truth have no defence against the lie.",
+      "words": [
+        {
+          "strongs": "G539",
+          "hebrew": "ἀπάτη",
+          "translit": "apátē",
+          "english": "deception"
+        },
+        {
+          "strongs": "G93",
+          "hebrew": "ἀδικία",
+          "translit": "adikía",
+          "english": "wickedness"
+        },
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "being lost"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G1209",
+          "hebrew": "δέχομαι",
+          "translit": "déchomai",
+          "english": "receive"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Because of this, God sends them a working of error, that they should believe a lie;",
+      "understanding": "The most sobering verse in the chapter: διὰ τοῦτο πέμπει αὐτοῖς ὁ θεὸς ἐνέργειαν πλάνης, “Because of this, God sends them a working of error.” ‘Because of this’ — because they refused the love of the truth. ἐνέργεια again: an active power of deception (πλάνη, wandering, error). This is judicial: God gives people over to what they have chosen, as in Romans 1, where “God gave them up to a reprobate mind” (Romans 1:28). The purpose: εἰς τὸ πιστεῦσαι αὐτοὺς τῷ ψεύδει, “that they should believe a lie” — literally ‘the lie’, the great lie of verse 4: that a man can be God.",
+      "words": [
+        {
+          "strongs": "G3992",
+          "hebrew": "πέμπω",
+          "translit": "pémpō",
+          "english": "sends"
+        },
+        {
+          "strongs": "G1753",
+          "hebrew": "ἐνέργεια",
+          "translit": "enérgeia",
+          "english": "working"
+        },
+        {
+          "strongs": "G4106",
+          "hebrew": "πλάνη",
+          "translit": "plánē",
+          "english": "error"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believe"
+        },
+        {
+          "strongs": "G5579",
+          "hebrew": "ψεῦδος",
+          "translit": "pseûdos",
+          "english": "lie"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "that they all might be judged who didn’t believe the truth, but had pleasure in unrighteousness.",
+      "understanding": "ἵνα κριθῶσιν, “that they all might be judged” — the outcome of refusing the truth. Two descriptions: those ‘who didn’t believe the truth (ἀληθείᾳ)’, and those who ‘had pleasure (εὐδοκήσαντες) in unrighteousness (ἀδικίᾳ)’. The root problem is not intellectual but moral: they delighted in unrighteousness, and so rejected the truth that would expose it. Unbelief is often a matter of the heart's desires before it is a matter of the mind's doubts.",
+      "words": [
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believe"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G2106",
+          "hebrew": "εὐδοκέω",
+          "translit": "eudokéō",
+          "english": "had pleasure"
+        },
+        {
+          "strongs": "G93",
+          "hebrew": "ἀδικία",
+          "translit": "adikía",
+          "english": "unrighteousness"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But we are bound to always give thanks to God for you, brothers loved by the Lord, because God chose you from the beginning for salvation through sanctification of the Spirit and belief in the truth;",
+      "understanding": "“But” — a complete contrast. Paul is ὀφείλομεν, “bound,” to thank God for these believers, ‘brothers loved (ἠγαπημένοι) by the Lord’. Why? εἵλατο ὑμᾶς ὁ θεός, “God chose you” — αἱρέομαι, to take for oneself. ‘From the beginning’ — ἀπ᾽ ἀρχῆς, ἀρχή from the power family, here meaning ‘beginning’; some manuscripts read ἀπαρχήν, ‘as firstfruits’, a difference of one letter. For what? εἰς σωτηρίαν, “for salvation,” ἐν ἁγιασμῷ πνεύματος, “through sanctification of the Spirit” (God's side), καὶ πίστει ἀληθείας, “and belief in the truth” (our side). Those who perish refused the truth; those who are saved believe it.",
+      "words": [
+        {
+          "strongs": "G3784",
+          "hebrew": "ὀφείλω",
+          "translit": "opheílō",
+          "english": "are bound"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        },
+        {
+          "strongs": "G138",
+          "hebrew": "αἱρέομαι",
+          "translit": "hairéomai",
+          "english": "chose"
+        },
+        {
+          "strongs": "G746",
+          "hebrew": "ἀρχή",
+          "translit": "archḗ",
+          "english": "beginning"
+        },
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "salvation"
+        },
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmós",
+          "english": "sanctification"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "belief"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "to which he called you through our Good News, for the obtaining of the glory of our Lord Jesus Christ.",
+      "understanding": "God's choice worked out in time: εἰς ὃ ἐκάλεσεν ὑμᾶς, “to which he called you,” through Paul's εὐαγγέλιον, “Good News.” Election (v. 13) becomes calling (v. 14) through preaching. And the destination: εἰς περιποίησιν δόξης, “for the obtaining of the glory of our Lord Jesus Christ” — not the false glory the lawless one seizes (v. 4), but sharing the true glory of Christ.",
+      "words": [
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        },
+        {
+          "strongs": "G4047",
+          "hebrew": "περιποίησις",
+          "translit": "peripoíēsis",
+          "english": "obtaining"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "So then, brothers, stand firm, and hold the traditions which you were taught by us, whether by word, or by letter.",
+      "understanding": "“So then, brothers, stand firm” — στήκετε, hold your position — “and hold (κρατεῖτε) the traditions (παραδόσεις) which you were taught (ἐδιδάχθητε) by us, whether by word (λόγου), or by letter (ἐπιστολῆς).” Against false spirit, word or letter (v. 2), Paul sets the true apostolic word and letter. The ‘traditions’ are the gospel and its teaching handed down by the apostles — now preserved for us in Scripture. When new claims shake you, grip what was first delivered.",
+      "words": [
+        {
+          "strongs": "G4739",
+          "hebrew": "στήκω",
+          "translit": "stḗkō",
+          "english": "stand firm"
+        },
+        {
+          "strongs": "G2902",
+          "hebrew": "κρατέω",
+          "translit": "kratéō",
+          "english": "hold"
+        },
+        {
+          "strongs": "G3862",
+          "hebrew": "παράδοσις",
+          "translit": "parádosis",
+          "english": "traditions"
+        },
+        {
+          "strongs": "G1321",
+          "hebrew": "διδάσκω",
+          "translit": "didáskō",
+          "english": "taught"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1992",
+          "hebrew": "ἐπιστολή",
+          "translit": "epistolḗ",
+          "english": "letter"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Now our Lord Jesus Christ himself, and God our Father, who loved us and gave us eternal comfort and good hope through grace,",
+      "understanding": "A prayer, beginning with ‘our Lord Jesus Christ himself, and God our Father’ — Jesus named first, then the Father, with a singular verb in verse 17 again (as in 1 Thessalonians 3:11). He ‘loved (ἀγαπήσας) us and gave (δούς) us’ two gifts: παράκλησιν αἰωνίαν, “eternal comfort” — encouragement that never runs out — and ἐλπίδα ἀγαθήν, “good hope,” all ἐν χάριτι, “through grace.” Against the shaking of verse 2, God gives a comfort that is eternal.",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "gave"
+        },
+        {
+          "strongs": "G3874",
+          "hebrew": "παράκλησις",
+          "translit": "paráklēsis",
+          "english": "comfort"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiṓnios",
+          "english": "eternal"
+        },
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "comfort your hearts and establish you in every good work and word.",
+      "understanding": "παρακαλέσαι ὑμῶν τὰς καρδίας, “comfort your hearts,” καὶ στηρίξαι, “and establish you” — make you firm, the opposite of being shaken (v. 2) — ἐν παντὶ ἔργῳ καὶ λόγῳ ἀγαθῷ, “in every good work and word.” A word-family pair: ἔργον (deed) and λόγος (word), with ἀγαθός (good, beneficial). Steady hearts produce good deeds and good words. Right teaching about the future produces right living in the present.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "comfort"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G4741",
+          "hebrew": "στηρίζω",
+          "translit": "stērízō",
+          "english": "establish"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Ship That Slipped Its Moorings",
+      "verseRef": "v. 1-2, 15",
+      "image": "Picture a small boat tied up in a harbour. A storm blows in; the waves rise, the wind howls, and the boat strains against its ropes. If the ropes hold, the boat rocks but stays safe. If one rope slips, the boat is torn loose and driven onto the rocks. Now picture a young church receiving a letter — perhaps forged, perhaps a twisted report — announcing that the day of the Lord has already come. Panic spreads. Some quit their jobs; some lose hope; some wonder if they missed Christ's coming. They are straining against their moorings.",
+      "meaning": "Paul asks them “not to be quickly shaken in your mind, and not be troubled, either by spirit, or by word, or by letter as if from us, saying that the day of Christ has already come” (v. 2). The word σαλεύω pictures a boat being driven by waves. His answer is to tighten the ropes: “So then, brothers, stand firm, and hold the traditions which you were taught by us, whether by word, or by letter” (v. 15). When frightening claims about the end times come, do not drift with every new voice. Hold fast to what God has already said."
+    },
+    {
+      "title": "The Counterfeit Coin",
+      "verseRef": "v. 8-10",
+      "image": "Picture a forger's workshop. On the bench lie a perfect copy of a gold coin and a real one side by side. The forgery has the same weight, the same image, the same shine. Untrained eyes cannot tell the difference. Only the expert, who has handled the real coin every day for years, notices that something is wrong. Now picture a figure at the end of the age who copies Christ: his own ‘coming’, his own ‘power, signs and wonders’, his own claim to be God, his own worshippers. Many are fooled. Those who have loved the truth recognise the counterfeit.",
+      "meaning": "The lawless one comes “according to the working of Satan with all power and signs and lying wonders, and with all deception of wickedness for those who are being lost, because they didn’t receive the love of the truth, that they might be saved” (vv. 9–10). Every word for Jesus' miracles is used of the counterfeit. The defence is not chasing signs but loving the truth. Then the real King appears, and the counterfeit is ended: “whom the Lord will kill with the breath of his mouth, and destroy by the manifestation of his coming” (v. 8). Spend your life handling the real coin — Christ and His word — and you will know the fake."
+    },
+    {
+      "title": "Chosen and Called",
+      "verseRef": "v. 13-14",
+      "image": "Picture two roads leading out of a city at night. One is brightly lit and crowded, full of noise and promises, and it ends at a cliff edge. The other is narrower, lit by a single steady lamp, and it leads home. Along the bright road a voice is shouting lies that people want to hear. Along the narrow road someone is calling names — your name among them — and you recognise the voice. You did not find this road by yourself. Long before you heard it, the One calling had chosen you.",
+      "meaning": "After the darkness of verses 3–12, Paul turns: “But we are bound to always give thanks to God for you, brothers loved by the Lord, because God chose you from the beginning for salvation through sanctification of the Spirit and belief in the truth” (v. 13), “to which he called you through our Good News, for the obtaining of the glory of our Lord Jesus Christ” (v. 14). Those who perish refused to love the truth; those who are saved believe it — and behind their belief stands God's choice, the Spirit's sanctifying work and the gospel's call. Your security in a deceiving age rests not on your cleverness but on God's love."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Do Not Be Shaken (v. 1-2)",
+        "body": "Concerning the coming of the Lord and our gathering to Him, Paul urges them not to be shaken or alarmed by any spirit, word or letter claiming that the day of the Lord has already come."
+      },
+      {
+        "label": "The Rebellion and the Man of Sin (v. 3-5)",
+        "body": "That day will not come until the rebellion comes and the man of sin is revealed, the son of destruction, who opposes and exalts himself above every god, sitting in God's temple and proclaiming himself God — things Paul had already told them."
+      },
+      {
+        "label": "The Restrainer and the Lawless One's End (v. 6-8)",
+        "body": "They know what restrains him until his appointed time; the mystery of lawlessness is already at work, but the one restraining will hold it back until removed. Then the lawless one will be revealed — and the Lord Jesus will destroy him by the breath of His mouth and the brightness of His coming."
+      },
+      {
+        "label": "Counterfeit Power and Judicial Delusion (v. 9-12)",
+        "body": "His coming is by Satan's working, with counterfeit power, signs and wonders and every wicked deception, for those perishing because they refused to love the truth; therefore God sends them a powerful delusion to believe the lie, so that all who delighted in unrighteousness will be judged."
+      },
+      {
+        "label": "Chosen, Called, Standing Firm (v. 13-17)",
+        "body": "In contrast, God chose the believers for salvation through the Spirit's sanctification and belief in the truth, and called them through the gospel to share Christ's glory; so they must stand firm and hold to the apostolic teaching, and Paul prays that the Lord and the Father will comfort and strengthen them in every good work and word."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Not Yet: The Day Has Not Come",
+        "paragraphs": [
+          "Someone had shaken the Thessalonian church with a claim that “the day of Christ has already come” (v. 2). It may have come as a supposed prophecy (‘by spirit’), a teaching (‘by word’) or a letter forged in Paul's name, or a misreading of his first letter. Persecution was intense, so perhaps it seemed plausible that the final day of judgment had begun. Whatever the source, the effect was fear. Paul's first concern is pastoral: “not to be quickly shaken in your mind, and not be troubled” (v. 2). End-times teaching that leaves believers anxious and unstable has gone wrong.",
+          "Paul's answer is that certain things must happen first: “Let no one deceive you in any way. For it will not be, unless the rebellion comes first, and the man of sin is revealed, the son of destruction” (v. 3). He describes this figure as one who “opposes and exalts himself against all that is called God or that is worshiped; so that he sits as God in the temple of God, setting himself up as God” (v. 4). The language echoes Daniel's visions of a king who magnifies himself above every god, and Jesus' warning of “the abomination of desolation, which was spoken of through Daniel the prophet, standing in the holy place” (Matthew 24:15). John's letters speak of the same figure as ‘the Antichrist’: “as you heard that the Antichrist is coming, even now many antichrists have arisen” (1 John 2:18).",
+          "There is an important textual question in verse 3. The WEB, with the majority of Greek manuscripts, reads ‘the man of sin’ (ἁμαρτία). Several of the oldest manuscripts read ‘the man of lawlessness’ (ἀνομία), which fits ‘the mystery of lawlessness’ (v. 7) and ‘the lawless one’ (v. 8). The meaning is not changed much: he is the embodiment of rebellion against God's law. And Paul reminds them: “Don’t you remember that, when I was still with you, I told you these things?” (v. 5). They had more information than we do, which calls us to humility in interpreting these verses."
+        ]
+      },
+      {
+        "heading": "The Restrainer, the Lawless One and the Breath of Christ",
+        "paragraphs": [
+          "Verses 6–7 are among the most debated in the New Testament. “Now you know what is restraining him, to the end that he may be revealed in his own season. For the mystery of lawlessness already works. Only there is one who restrains now, until he is taken out of the way” (vv. 6–7). The restrainer is described first as a thing (neuter) and then as a person (masculine). Christians have proposed the Holy Spirit (or the Spirit working through the church), the rule of law and government (in Paul's day, the Roman Empire), an angel, or the preaching of the gospel. Each view has strengths, and none can be proven from this text alone. We should hold our view humbly.",
+          "What the text makes certain is more important than what it leaves uncertain. First, lawlessness is already at work in secret — ‘the mystery of lawlessness already works’ (v. 7) — so believers should not be naïve about the forces at work in the world. Second, God is in control of the timing: the lawless one will be revealed only “in his own season” (v. 6). Third, his end is certain and sudden: “Then the lawless one will be revealed, whom the Lord will kill with the breath of his mouth, and destroy by the manifestation of his coming” (v. 8). The great enemy is defeated not by a long war but by a breath.",
+          "Paul describes the lawless one as a counterfeit Christ. He has his own ‘coming’ (παρουσία), powered by Satan's ‘working’ (ἐνέργεια), “with all power and signs and lying wonders” (v. 9). These are the very words used of Jesus' miracles: “a man approved by God to you by mighty works and wonders and signs” (Acts 2:22). Jesus warned of the same: “For there will arise false christs, and false prophets, and they will show great signs and wonders, so as to lead astray, if possible, even the chosen ones” (Matthew 24:24). Supernatural power alone does not prove that something is from God. The test is truth."
+        ]
+      },
+      {
+        "heading": "Love of the Truth",
+        "paragraphs": [
+          "Why are some deceived? “because they didn’t receive the love of the truth, that they might be saved” (v. 10). The problem is not lack of information but lack of love for the truth. Then comes a sobering statement: “Because of this, God sends them a working of error, that they should believe a lie” (v. 11). God is not tempting innocent people. He is giving people over to the lie they have already chosen — the same judicial pattern as Romans 1, where people “exchanged the truth of God for a lie” (Romans 1:25), and God “gave them up to a reprobate mind” (Romans 1:28). The root is moral: they “had pleasure in unrighteousness” (v. 12).",
+          "Then Paul turns to the believers with relief and thanksgiving: “God chose you from the beginning for salvation through sanctification of the Spirit and belief in the truth” (v. 13). Where others refused the truth, they believed it — and behind their belief stands God's choice and the Spirit's work. God “called you through our Good News, for the obtaining of the glory of our Lord Jesus Christ” (v. 14). The lawless one grabs at divine glory and is destroyed; believers receive the glory of Christ as a gift.",
+          "So the practical conclusion is steadiness: “So then, brothers, stand firm, and hold the traditions which you were taught by us, whether by word, or by letter” (v. 15). Against false spirits, words and letters (v. 2), Paul sets the true apostolic teaching, now preserved in Scripture. The best protection against deception is not more speculation about the end but a deeper grip on what God has already revealed — and a heart that loves the truth. The chapter ends with a prayer for comfort and strength “in every good work and word” (v. 17). Right teaching about the future produces steady hearts and good lives now."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Deception, Antichrist and the Love of the Truth",
+      "paragraphs": [
+        "Jesus warned His disciples repeatedly about deception before His coming: “For there will arise false christs, and false prophets, and they will show great signs and wonders, so as to lead astray, if possible, even the chosen ones” (Matthew 24:24). John wrote of the spirit of Antichrist already at work: “this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already” (1 John 4:3) — matching Paul's ‘the mystery of lawlessness already works’. Revelation describes a beast and a false prophet who deceive the world with signs: “He performs great signs, even making fire come down out of the sky to the earth in the sight of people” (Revelation 13:13).",
+        "The source of all deception is named by Jesus: the devil “doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies” (John 8:44). Paul warns that “even Satan masquerades as an angel of light” (2 Corinthians 11:14). The answer is the truth, which is a Person and a word: Jesus said, “I am the way, the truth, and the life” (John 14:6), and prayed, “Sanctify them in your truth. Your word is truth” (John 17:17).",
+        "Paul's call to hold to apostolic teaching appears throughout his letters. He praised the Corinthians because they “hold firm the traditions, even as I delivered them to you” (1 Corinthians 11:2), and warned the Galatians: “But even though we, or an angel from heaven, should preach to you any ‘good news’ other than that which we preached to you, let him be cursed” (Galatians 1:8). He later warned Timothy that “in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons” (1 Timothy 4:1). The defence in every age is the same: love the truth, and hold fast to it."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Shake / toss / unsettle",
+      "hebrew": "σαλεύω",
+      "translit": "saleúō",
+      "strongs": "G4531",
+      "verses": "v. 2",
+      "insight": "Strong's: “to waver, i.e. agitate, rock, topple or (by implication) destroy; figuratively, to disturb, incite.” It is used of waves tossing a reed or a ship, of an earthquake shaking a building (Acts 4:31; 16:26), and of the heavens being shaken (Hebrews 12:26). Paul pictures believers' minds tossed loose from their moorings by sensational claims. The cure is not to stop thinking about the future, but to anchor the mind in what God has revealed and hold fast (v. 15)."
+    },
+    {
+      "english": "Rebellion / apostasy / falling away",
+      "hebrew": "ἀποστασία",
+      "translit": "apostasía",
+      "strongs": "G646",
+      "verses": "v. 3",
+      "insight": "Strong's: “defection from truth (properly, the state) (‘apostasy’).” From ἀφίστημι, to stand away from. It is used in Acts 21:21 of forsaking the Law of Moses. In verse 3 it describes a great revolt against God before the day of the Lord. Whether it refers mainly to a falling away within the visible church, a worldwide rebellion against God, or both, is debated. Either way, it is a warning: rebellion against God will intensify before Christ returns, and believers must hold fast."
+    },
+    {
+      "english": "Restrain / hold back / hold fast",
+      "hebrew": "κατέχω",
+      "translit": "katéchō",
+      "strongs": "G2722",
+      "verses": "v. 6, 7",
+      "insight": "Strong's: “to hold down (fast), in various applications.” The same verb can mean to restrain (holding something back) or to hold fast (keeping something firm), as in 1 Thessalonians 5:21, ‘hold firmly that which is good’. In verses 6–7 it describes a power that holds back the lawless one until God's time. Paul uses the neuter (‘what restrains’) and then the masculine (‘the one who restrains’), which is part of why its identity is debated. What is clear is that evil is being restrained, and God sets the limit."
+    },
+    {
+      "english": "Manifestation / appearing / shining forth",
+      "hebrew": "ἐπιφάνεια",
+      "translit": "epipháneia",
+      "strongs": "G2015",
+      "verses": "v. 8",
+      "insight": "Strong's: “a manifestation, i.e. (specially) the advent of Christ (past or future).” From ἐπιφαίνω, to shine upon. The Greek world used it of a god appearing to help worshippers. The New Testament uses it of Christ's first coming (2 Timothy 1:10) and His return (Titus 2:13). In verse 8 Paul combines it with παρουσία: ‘the manifestation of his coming’. The lawless one will be undone simply by the brightness of Christ's appearing — darkness cannot survive the dawn."
+    },
+    {
+      "english": "Truth",
+      "hebrew": "ἀλήθεια",
+      "translit": "alḗtheia",
+      "strongs": "G225",
+      "verses": "v. 10, 12, 13",
+      "insight": "Strong's: “truth.” From ἀληθής, literally ‘not hidden’. It appears three times in verses 10–13. Those who perish ‘didn't receive the love of the truth’ (v. 10) and ‘didn't believe the truth’ (v. 12); those who are saved are chosen ‘through sanctification of the Spirit and belief in the truth’ (v. 13). Jesus is the truth (John 14:6), and God's word is truth (John 17:17). In an age of deception, the decisive question is not only what you know, but whether you love the truth when it confronts you."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: what shakes you, what you love, and what you are holding on to.",
+    "items": [
+      {
+        "title": "What Is Shaking You?",
+        "body": "The Thessalonians were shaken by a claim about the end. Believers today are shaken by predictions, viral videos, frightening headlines, ‘prophetic words’ and confident teachers who claim to know the timetable. The Spirit asks: what has been unsettling your mind? Bring it to Him. Then let Him remind you of what is certain: the lawless one will be destroyed by the breath of Jesus' mouth, and God is in control of every season. You do not have to be afraid."
+      },
+      {
+        "title": "Do You Love the Truth?",
+        "body": "Those who perish ‘didn't receive the love of the truth’ (v. 10). It is possible to know a great deal of truth and not love it — to resist it when it exposes your sin or costs you something. The Spirit wants to search your heart: is there a truth from God's word that you have been avoiding because you would rather keep your pleasure in something unrighteous (v. 12)? Ask Him to give you a love for the truth, even when it hurts."
+      },
+      {
+        "title": "Hold Fast",
+        "body": "Paul's answer to deception is simple: “stand firm, and hold the traditions which you were taught” (v. 15). The Spirit may be calling you back to the basics: the gospel, the Scriptures, the teaching you received when you first believed. Have you been chasing novelty — new revelations, new teachers, new experiences — while your grip on the foundational truths has loosened? Ask Him to tighten your grip on His word."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Shaking Check",
+        "body": "Write down any end-times claim, prediction or fear that has unsettled you recently. Read verses 1–8. Which truths from this passage answer that fear? Write them next to it."
+      },
+      {
+        "title": "The Truth-Love Check",
+        "body": "Honestly ask: is there any truth from Scripture I resist because it confronts something I enjoy (vv. 10–12)? Write it down privately and pray for a heart that loves the truth more than the pleasure."
+      },
+      {
+        "title": "The Foundation Check",
+        "body": "Can you clearly explain the basic gospel and the main teachings you were given when you came to faith (v. 15)? If not, choose one foundational passage to study and memorise this month."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Test the Claims",
+        "body": "For the next month, whenever you hear a confident claim about the end times — a prediction, a prophecy or a viral teaching — do three things before believing or sharing it. First, compare it with what Scripture actually says (vv. 1–8; Matthew 24; 1 Thessalonians 4–5). Second, ask whether it produces steadiness or fear (v. 2). Third, ask whether it points to Christ's victory or to sensationalism. Keep a short note of what you learn, and share the reassuring truths with someone who is anxious."
+      },
+      {
+        "title": "Grip the Basics",
+        "body": "Paul's antidote to deception is holding fast to apostolic teaching (v. 15). Choose five foundational passages — for example John 3:16; Romans 3:23–24; 1 Corinthians 15:3–4; Ephesians 2:8–10; 1 Thessalonians 4:16–17 — and memorise one each week. Each time you memorise one, explain it in your own words to someone else. The better you know the real coin, the quicker you recognise the counterfeit."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus Christ, I believe You are coming and that we will be gathered together to You. Keep my mind from being shaken and my heart from being alarmed by any spirit, word or letter that is not true. Do not let anyone deceive me in any way. Thank You that the mystery of lawlessness, though it is already at work, is under Your control, and that the lawless one will be revealed only in his time — and destroyed by the breath of Your mouth and the brightness of Your coming. Protect me from every counterfeit power, sign and wonder. Give me a love for the truth, not just knowledge of it. Keep me from taking pleasure in unrighteousness. Thank You, Father, that You chose me for salvation through the sanctifying work of the Spirit and belief in the truth, and called me through the gospel to share the glory of my Lord Jesus Christ. Help me stand firm and hold fast to the teaching of Your word. Lord Jesus and God our Father, who loved us and gave us eternal comfort and good hope by grace, comfort my heart and establish me in every good work and word. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Moses and the Magicians of Egypt",
+      "ref": "Exodus 7:8-13",
+      "relatedVerses": "v. 9",
+      "summary": "When Moses and Aaron stood before Pharaoh, Aaron threw down his staff and it became a serpent. Pharaoh called his wise men and sorcerers, and the magicians of Egypt did the same with their secret arts: each threw down his staff and they became serpents. But Aaron's staff swallowed theirs. Even so, Pharaoh's heart was hardened, and he would not listen. The story shows that counterfeit signs are real enough to impress, that God's power is greater, and that a heart unwilling to obey can always find a reason not to believe. 2 Thessalonians 2:9–12 describes the same pattern at the end of the age: counterfeit power, signs and wonders, and hearts that refuse the love of the truth."
+    },
+    {
+      "title": "Jesus Warns on the Mount of Olives",
+      "ref": "Matthew 24:4-28",
+      "relatedVerses": "v. 2-4, 9",
+      "summary": "When the disciples asked Jesus about the sign of His coming and the end of the age, the first thing He said was a warning against deception: many will come in His name and lead many astray. He spoke of wars, famines, persecution, and many falling away. He warned of “the abomination of desolation, which was spoken of through Daniel the prophet, standing in the holy place” (Matthew 24:15), and of false christs and false prophets who “will show great signs and wonders, so as to lead astray, if possible, even the chosen ones” (Matthew 24:24). And He told them not to believe reports that He had come secretly, because His coming will be as visible as lightning across the sky. Paul's teaching in 2 Thessalonians 2 stands on Jesus' own words: do not be deceived, the end is not yet, and His coming will be unmistakable."
+    },
+    {
+      "title": "The Bereans Search the Scriptures",
+      "ref": "Acts 17:10-12",
+      "relatedVerses": "v. 10, 13, 15",
+      "summary": "Right after the riot in Thessalonica, Paul and Silas were sent at night to Berea. There they went to the synagogue, and the Bereans were more noble-minded than the Thessalonian opponents: they received the word with all eagerness, examining the Scriptures daily to see whether these things were so. As a result, many of them believed, including prominent Greek women and men. The Bereans show what ‘the love of the truth’ (v. 10) looks like in practice: eagerness to hear, and careful testing against God's word. That is the best protection against deception in any age."
+    }
+  ]
+}
