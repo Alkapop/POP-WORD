@@ -1,0 +1,821 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 1,
+  "chapterTitle": "God Has Spoken in His Son",
+  "themeTitle": "“The Radiance of His Glory”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "God, having in the past spoken to the fathers through the prophets at many times and in various ways,",
+      "understanding": "Hebrews begins without a greeting, like a sermon starting with its biggest claim. πολυμερῶς καὶ πολυτρόπως πάλαι ὁ θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις, “God, having in the past spoken to the fathers through the prophets at many times and in various ways.” πολυμερῶς, in many portions — a piece here, a piece there; πολυτρόπως, in many manners — visions, dreams, laws, poems, history. πάλαι, long ago. God has always been a speaking God; but before Christ His revelation came in fragments.",
+      "words": [
+        {
+          "strongs": "G4181",
+          "hebrew": "πολυμερῶς",
+          "translit": "polymerōs",
+          "english": "at many times"
+        },
+        {
+          "strongs": "G4187",
+          "hebrew": "πολυτρόπως",
+          "translit": "polytrópōs",
+          "english": "in various ways"
+        },
+        {
+          "strongs": "G3819",
+          "hebrew": "πάλαι",
+          "translit": "pálai",
+          "english": "in the past"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoken"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "fathers"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.",
+      "understanding": "ἐπ᾽ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ, “has at the end of these days spoken to us by his Son.” ἡμέρα from the time family: the ‘last days’ began with Christ. ἐν υἱῷ is literally ‘in Son’ — no article: God has spoken in one who is Son by nature. This is the final word, not one more fragment. ὃν ἔθηκεν κληρονόμον πάντων, “whom he appointed heir of all things.” δι᾽ οὗ καὶ ἐποίησεν τοὺς αἰῶνας, “through whom also he made the worlds” — αἰών, from the world and time families: the ages, the whole created order in its unfolding history. The Son is the beginning (Creator) and the end (heir) of everything.",
+      "words": [
+        {
+          "strongs": "G2078",
+          "hebrew": "ἔσχατος",
+          "translit": "éschatos",
+          "english": "end"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoken"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G5087",
+          "hebrew": "τίθημι",
+          "translit": "títhēmi",
+          "english": "appointed"
+        },
+        {
+          "strongs": "G2818",
+          "hebrew": "κληρονόμος",
+          "translit": "klēronómos",
+          "english": "heir"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "worlds"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high;",
+      "understanding": "Seven statements about the Son begin here. ὃς ὢν ἀπαύγασμα τῆς δόξης, “His Son is the radiance of his glory” — not a reflection, like a mirror, but the outshining, like light streaming from the sun. καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ, “the very image of his substance” — χαρακτήρ from the image family: the exact imprint a seal leaves in wax, line for line (εἰκών in Colossians 1:15 is ‘image’ as portrait; χαρακτήρ is exact impression). φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως αὐτοῦ, “and upholding all things by the word of his power” — ῥῆμα from the word family: the spoken utterance, not the λόγος, the message; δύναμις from the power family. He carries the universe forward by His command. καθαρισμὸν τῶν ἁμαρτιῶν ποιησάμενος ἐκάθισεν, “when he had by himself purified us of our sins, sat down” — the Creator became the cleanser, and then sat: the work was finished (10:11–12).",
+      "words": [
+        {
+          "strongs": "G541",
+          "hebrew": "ἀπαύγασμα",
+          "translit": "apaúgasma",
+          "english": "radiance"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G5481",
+          "hebrew": "χαρακτήρ",
+          "translit": "charaktḗr",
+          "english": "image"
+        },
+        {
+          "strongs": "G5287",
+          "hebrew": "ὑπόστασις",
+          "translit": "hypóstasis",
+          "english": "substance"
+        },
+        {
+          "strongs": "G5342",
+          "hebrew": "φέρω",
+          "translit": "phérō",
+          "english": "upholding"
+        },
+        {
+          "strongs": "G4487",
+          "hebrew": "ῥῆμα",
+          "translit": "rhēma",
+          "english": "word"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G2512",
+          "hebrew": "καθαρισμός",
+          "translit": "katharismós",
+          "english": "purified"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G2523",
+          "hebrew": "καθίζω",
+          "translit": "kathízō",
+          "english": "sat down"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G3172",
+          "hebrew": "μεγαλωσύνη",
+          "translit": "megalōsýnē",
+          "english": "Majesty"
+        },
+        {
+          "strongs": "G5308",
+          "hebrew": "ὑψηλός",
+          "translit": "hypsēlós",
+          "english": "on high"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "having become so much better than the angels, as he has inherited a more excellent name than they have.",
+      "understanding": "τοσούτῳ κρείττων γενόμενος τῶν ἀγγέλων, “having become so much better than the angels” — κρείττων, ‘better’, is the key word of Hebrews, used thirteen times. ‘Having become’ refers to His exaltation after His saving work: the eternal Son, having taken human nature and finished redemption, was enthroned as the God-Man. ὅσῳ διαφορώτερον παρ᾽ αὐτοὺς κεκληρονόμηκεν ὄνομα, “as he has inherited a more excellent name than they have” — the name ‘Son’, which the next verses prove.",
+      "words": [
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "better"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G2816",
+          "hebrew": "κληρονομέω",
+          "translit": "klēronoméō",
+          "english": "inherited"
+        },
+        {
+          "strongs": "G1313",
+          "hebrew": "διάφορος",
+          "translit": "diáphoros",
+          "english": "more excellent"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For to which of the angels did he say at any time, “You are my Son. Today I have become your father?” and again, “I will be to him a Father, and he will be to me a Son?”",
+      "understanding": "Now seven Old Testament quotations prove the Son's superiority. The first two: “You are my Son. Today I have become your father” — from Psalm 2, a royal psalm. σήμερον, ‘today’, a time-family word Hebrews will use often (3:7–4:7). Paul applied this psalm to the resurrection (Acts 13:33): the eternal Son was publicly installed as King. The second, “I will be to him a Father, and he will be to me a Son,” comes from God's promise to David about his royal descendant (2 Samuel 7). No angel was ever addressed like this.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G4594",
+          "hebrew": "σήμερον",
+          "translit": "sḗmeron",
+          "english": "Today"
+        },
+        {
+          "strongs": "G1080",
+          "hebrew": "γεννάω",
+          "translit": "gennáō",
+          "english": "become your father"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.”",
+      "understanding": "ὅταν δὲ πάλιν εἰσαγάγῃ τὸν πρωτότοκον εἰς τὴν οἰκουμένην, “When he again brings in the firstborn into the world” — πρωτότοκος, firstborn: the title of rank and inheritance, not of being created first. οἰκουμένη from the world family: the inhabited earth (compare αἰῶνας, ‘worlds’, in v. 2). Then: “Let all the angels of God worship him.” This line is from the Greek Old Testament of the Song of Moses (Deuteronomy 32), which the writer uses throughout; it is also found in a Hebrew manuscript from the Dead Sea Scrolls, though not in the traditional Hebrew text. The point is plain: angels worship the Son, so He is not an angel.",
+      "words": [
+        {
+          "strongs": "G4416",
+          "hebrew": "πρωτότοκος",
+          "translit": "prōtótokos",
+          "english": "firstborn"
+        },
+        {
+          "strongs": "G3625",
+          "hebrew": "οἰκουμένη",
+          "translit": "oikouménē",
+          "english": "world"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worship"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Of the angels he says, “Who makes his angels winds, and his servants a flame of fire.”",
+      "understanding": "“Who makes his angels winds, and his servants a flame of fire” — from Psalm 104. λειτουργούς, ‘servants’, from the servant family: those who carry out public, priestly service. Angels are powerful, but they are made, and they serve. God shapes them like wind and fire to do His will. The contrast in the next verse is ‘but of the Son’.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "winds"
+        },
+        {
+          "strongs": "G3011",
+          "hebrew": "λειτουργός",
+          "translit": "leitourgós",
+          "english": "servants"
+        },
+        {
+          "strongs": "G5395",
+          "hebrew": "φλόξ",
+          "translit": "phlóx",
+          "english": "flame"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But of the Son he says, “Your throne, O God, is forever and ever. The scepter of uprightness is the scepter of your Kingdom.",
+      "understanding": "πρὸς δὲ τὸν υἱόν, ‘But of the Son’: “Your throne, O God, is forever and ever.” From Psalm 45, a royal wedding psalm. The Son is addressed as God — ὁ θεός. εἰς τὸν αἰῶνα τοῦ αἰῶνος, ‘to the age of the age’: αἰών from the time family. “The scepter of uprightness is the scepter of your Kingdom.” Angels serve; the Son reigns, and His reign is straight and just.",
+      "words": [
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        },
+        {
+          "strongs": "G4464",
+          "hebrew": "ῥάβδος",
+          "translit": "rhábdos",
+          "english": "scepter"
+        },
+        {
+          "strongs": "G2118",
+          "hebrew": "εὐθύτης",
+          "translit": "euthýtēs",
+          "english": "uprightness"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "You have loved righteousness, and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your fellows.”",
+      "understanding": "ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν, “You have loved righteousness, and hated iniquity” — ἀγαπάω from the love family, and ἀνομία from the sin family: lawlessness, rebellion against God's law. The King's love is not neutral; it loves what is right and hates what destroys. διὰ τοῦτο ἔχρισέν σε ὁ θεὸς ὁ θεός σου, “therefore God, your God, has anointed you” — χρίω, the root of Χριστός, ‘Christ’, the Anointed One. ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου, “with the oil of gladness above your fellows” — μέτοχοι, partners: believers are His companions (3:14).",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G3404",
+          "hebrew": "μισέω",
+          "translit": "miséō",
+          "english": "hated"
+        },
+        {
+          "strongs": "G458",
+          "hebrew": "ἀνομία",
+          "translit": "anomía",
+          "english": "iniquity"
+        },
+        {
+          "strongs": "G5548",
+          "hebrew": "χρίω",
+          "translit": "chríō",
+          "english": "anointed"
+        },
+        {
+          "strongs": "G1637",
+          "hebrew": "ἔλαιον",
+          "translit": "élaion",
+          "english": "oil"
+        },
+        {
+          "strongs": "G20",
+          "hebrew": "ἀγαλλίασις",
+          "translit": "agallíasis",
+          "english": "gladness"
+        },
+        {
+          "strongs": "G3353",
+          "hebrew": "μέτοχος",
+          "translit": "métochos",
+          "english": "fellows"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "And, “You, Lord, in the beginning, laid the foundation of the earth. The heavens are the works of your hands.",
+      "understanding": "Another quotation, from Psalm 102 — words addressed to the LORD, now applied to the Son: “You, Lord, in the beginning, laid the foundation of the earth.” κατ᾽ ἀρχάς — ἀρχή here in its first sense, ‘beginning’ (the same word that elsewhere means ‘rule’ in the power family). “The heavens are the works of your hands” — ἔργον from the work family. The Son is not part of creation; He made it.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G746",
+          "hebrew": "ἀρχή",
+          "translit": "archḗ",
+          "english": "beginning"
+        },
+        {
+          "strongs": "G2311",
+          "hebrew": "θεμελιόω",
+          "translit": "themelióō",
+          "english": "laid the foundation"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heavens"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hands"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "They will perish, but you continue. They all will grow old like a garment does.",
+      "understanding": "αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις, “They will perish, but you continue” — διαμένω, to remain right through. καὶ πάντες ὡς ἱμάτιον παλαιωθήσονται, “They all will grow old like a garment does.” The universe, for all its age and vastness, is wearing out like clothing. Its Maker is not.",
+      "words": [
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "perish"
+        },
+        {
+          "strongs": "G1265",
+          "hebrew": "διαμένω",
+          "translit": "diaménō",
+          "english": "continue"
+        },
+        {
+          "strongs": "G3822",
+          "hebrew": "παλαιόω",
+          "translit": "palaióō",
+          "english": "grow old"
+        },
+        {
+          "strongs": "G2440",
+          "hebrew": "ἱμάτιον",
+          "translit": "himátion",
+          "english": "garment"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "You will roll them up like a mantle, and they will be changed; but you are the same. Your years will not fail.”",
+      "understanding": "“You will roll them up like a mantle, and they will be changed” — the Son will fold up the old creation like a cloak and replace it with new (compare the ‘new heaven and a new earth’). σὺ δὲ ὁ αὐτὸς εἶ, “but you are the same.” καὶ τὰ ἔτη σου οὐκ ἐκλείψουσιν, “Your years will not fail.” The letter will end with the same truth: ‘Jesus Christ is the same yesterday, today, and forever’ (13:8).",
+      "words": [
+        {
+          "strongs": "G4018",
+          "hebrew": "περιβόλαιον",
+          "translit": "peribólaion",
+          "english": "mantle"
+        },
+        {
+          "strongs": "G1667",
+          "hebrew": "ἑλίσσω",
+          "translit": "helíssō",
+          "english": "roll"
+        },
+        {
+          "strongs": "G236",
+          "hebrew": "ἀλλάσσω",
+          "translit": "allássō",
+          "english": "changed"
+        },
+        {
+          "strongs": "G846",
+          "hebrew": "αὐτός",
+          "translit": "autós",
+          "english": "same"
+        },
+        {
+          "strongs": "G2094",
+          "hebrew": "ἔτος",
+          "translit": "étos",
+          "english": "years"
+        },
+        {
+          "strongs": "G1587",
+          "hebrew": "ἐκλείπω",
+          "translit": "ekleípō",
+          "english": "fail"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But which of the angels has he told at any time, “Sit at my right hand, until I make your enemies the footstool of your feet?”",
+      "understanding": "The seventh quotation, from Psalm 110, the Old Testament verse most quoted in the New: “Sit at my right hand, until I make your enemies the footstool of your feet?” κάθου, ‘sit’: the posture of finished work and royal authority. Jesus Himself used this psalm to show that the Messiah is David's Lord. God never said this to any angel.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "Sit"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G2190",
+          "hebrew": "ἐχθρός",
+          "translit": "echthrós",
+          "english": "enemies"
+        },
+        {
+          "strongs": "G5286",
+          "hebrew": "ὑποπόδιον",
+          "translit": "hypopódion",
+          "english": "footstool"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?",
+      "understanding": "οὐχὶ πάντες εἰσὶν λειτουργικὰ πνεύματα, “Aren’t they all serving spirits” — λειτουργικός, related to λειτουργός in verse 7: spirits in priestly service. εἰς διακονίαν ἀποστελλόμενα, “sent out to do service” — διακονία, practical service, from the servant family's διάκονος. διὰ τοὺς μέλλοντας κληρονομεῖν σωτηρίαν, “for the sake of those who will inherit salvation.” The Son sits enthroned; the angels are sent to serve — and they serve not only Him, but those He saves.",
+      "words": [
+        {
+          "strongs": "G3010",
+          "hebrew": "λειτουργικός",
+          "translit": "leitourgikós",
+          "english": "serving"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirits"
+        },
+        {
+          "strongs": "G649",
+          "hebrew": "ἀποστέλλω",
+          "translit": "apostéllō",
+          "english": "sent out"
+        },
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "service"
+        },
+        {
+          "strongs": "G2816",
+          "hebrew": "κληρονομέω",
+          "translit": "klēronoméō",
+          "english": "inherit"
+        },
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "salvation"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Fragments and the Full Picture",
+      "verseRef": "v. 1-2",
+      "image": "Picture an ancient mosaic being uncovered piece by piece. One archaeologist finds a fragment of a face, another a piece of a crown, another part of a hand holding a sceptre. For centuries scholars study the fragments, guessing at the whole. Then, one day, the entire mosaic is lifted from the earth and set upright in the light — and every fragment finds its place in a single, glorious figure.",
+      "meaning": "“God, having in the past spoken to the fathers through the prophets at many times and in various ways” (v. 1), “has at the end of these days spoken to us by his Son” (v. 2). The prophets gave true but partial pieces. In Jesus, the full picture stands in the light. Every promise, sacrifice and prophecy finds its place in Him. Ask the Spirit to help you read all of Scripture with Jesus at the centre."
+    },
+    {
+      "title": "The Sun and Its Light",
+      "verseRef": "v. 3",
+      "image": "Picture the sun rising over a dark landscape. You cannot look directly at the sun, but its light streams across the hills, warming the earth, revealing colours and shapes, giving life. The light is not separate from the sun; it is the sun's own glory reaching you. Then picture a royal seal pressed into warm wax: when it lifts, every line of the king's emblem is there, exact and complete.",
+      "meaning": "“His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power” (v. 3). Jesus is God's glory reaching us, and the exact imprint of God's being. If you want to know what God is like, look at Jesus. And the One who holds all things together by His word stooped to purify you of your sins."
+    },
+    {
+      "title": "He Sat Down",
+      "verseRef": "v. 3, 13",
+      "image": "Picture the temple courts in Jerusalem. Priests move constantly: carrying animals, sprinkling blood, washing, burning, standing day after day at their duties. There are no chairs in the holy place; their work is never finished. Then picture a throne high above, and on it One who has completed His work, seated in peace and authority, waiting for His enemies to be made His footstool.",
+      "meaning": "“when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high” (v. 3). God said to Him, “Sit at my right hand, until I make your enemies the footstool of your feet” (v. 13). His sitting means the work of cleansing is finished. You do not need to add to it. Rest in what He has done, and trust Him to complete His victory."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "God's Final Word: the Son (v. 1-4)",
+        "body": "God spoke through the prophets in many partial ways, but now has spoken in His Son, the heir of all things and Creator of the worlds, the radiance of God's glory and exact imprint of His being, who sustains all things by His word, made purification for sins and sat down at God's right hand, having become far better than the angels."
+      },
+      {
+        "label": "Seven Proofs That the Son Is Greater Than Angels (v. 5-14)",
+        "body": "A chain of Old Testament texts shows that God called the Son His Son, commanded angels to worship Him, made angels servants but addressed the Son as God on an eternal throne, declared Him the unchanging Creator who will outlast the universe, and invited Him to sit at His right hand; angels, by contrast, are serving spirits sent for the sake of those who will inherit salvation."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "God Has Spoken His Final Word",
+        "paragraphs": [
+          "Hebrews opens with one of the most majestic sentences in Scripture. “God, having in the past spoken to the fathers through the prophets at many times and in various ways” (v. 1), “has at the end of these days spoken to us by his Son” (v. 2). The God of the Bible is a God who speaks. Through Moses, the psalms, the prophets and the history of Israel, He revealed Himself truly, but in fragments and in many different ways. Now He has spoken in His Son — not one more prophet, but the One to whom all the prophets pointed.",
+          "John's Gospel says the same: “In the beginning was the Word, and the Word was with God, and the Word was God” (John 1:1), and “No one has seen God at any time. The one and only Son, who is in the bosom of the Father, he has declared him” (John 1:18). Jesus told Philip, “He who has seen me has seen the Father” (John 14:9). God's final word is not a book added to the prophets but a Person who fulfils them.",
+          "This has huge implications for the first readers and for us. If God has spoken His final and fullest word in His Son, then there is nothing better to go back to and nothing greater to wait for. To turn from Jesus to the old ways, or to new revelations, is to turn from the clearest light to dimmer ones. The rest of Hebrews will press this home: “how will we escape if we neglect so great a salvation” (Hebrews 2:3)."
+        ]
+      },
+      {
+        "heading": "Seven Glories of the Son",
+        "paragraphs": [
+          "Verses 2–3 give seven statements about the Son. He is the heir of all things; the One through whom the worlds were made; the radiance of God's glory; the exact imprint of His being; the One who upholds all things by His word; the One who made purification for sins; and the One who sat down at the right hand of the Majesty on high. Paul says similarly that “all things have been created through him, and for him” (Colossians 1:16), and that “He is before all things, and in him all things are held together” (Colossians 1:17).",
+          "Two images describe His relationship to the Father. ‘Radiance’ (ἀπαύγασμα) is light streaming out from its source: the Son is not a reflection of God's glory but God's glory shining out. ‘Very image’ (χαρακτήρ) is the exact imprint of a seal. The image-family words help: εἰκών, the ‘image’ of Colossians 1:15, is a true portrait; χαρακτήρ is an exact impression. Together they say that the Son is fully God and perfectly reveals God. And He sustains everything “by the word of his power” — ῥῆμα, His spoken command.",
+          "Most wonderful is that this Creator and Sustainer also became the Saviour: “when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high” (v. 3). The One who holds galaxies in place stooped to wash away human sin. ‘By himself’ means He needed no help; ‘sat down’ means the work was complete. Old covenant priests stood daily because their work was never done (10:11). Christ sat down because His work was finished."
+        ]
+      },
+      {
+        "heading": "Better Than the Angels",
+        "paragraphs": [
+          "Why compare Christ with angels? Jewish tradition taught that angels were involved in giving the law at Sinai. Stephen said, “You received the law as it was ordained by angels, and didn’t keep it!” (Acts 7:53), and Paul wrote that the law “was ordained through angels by the hand of a mediator” (Galatians 3:19). If the readers revered the law and its angelic mediators, the writer shows that the Son is far greater. Some may also have been tempted to treat angels as objects of worship, as Paul warned the Colossians.",
+          "The writer proves the Son's superiority from Israel's own Scriptures, with seven quotations. God called Him ‘Son’ (Psalm 2; 2 Samuel 7). God commanded angels to worship Him. Angels are servants like wind and fire, but to the Son God says, “Your throne, O God, is forever and ever” (v. 8). The Son created heaven and earth and will outlast them: they will wear out like clothing, “but you are the same. Your years will not fail” (v. 12). And only the Son is invited to sit at God's right hand (Psalm 110).",
+          "The chapter ends with a beautiful twist: angels are “serving spirits, sent out to do service for the sake of those who will inherit salvation” (v. 14). The mighty beings who worship Christ are sent to help His people. When an angel freed Peter from prison, Peter said, “Now I truly know that the Lord has sent out his angel and delivered me” (Acts 12:11). The greatness of the Son does not distance Him from us; it guarantees the help of heaven for those He saves."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Son: Creator, Image, Sustainer and Exalted King",
+      "paragraphs": [
+        "The New Testament repeatedly presents the Son as Creator. “All things were made through him. Without him was not anything made that has been made” (John 1:3). Paul says that “by him all things were created, in the heavens and on the earth, things visible and things invisible” (Colossians 1:16). And the Son reveals the Father fully: “The Word became flesh, and lived among us. We saw his glory, such glory as of the one and only Son of the Father, full of grace and truth” (John 1:14). He is “Christ, who is the image of God” (2 Corinthians 4:4).",
+        "Psalm 110:1, quoted in verse 13, is the Old Testament verse most often used in the New. Jesus quoted it to show that the Messiah is David's Lord (Matthew 22:44). Peter quoted it at Pentecost, insisting “For David didn’t ascend into the heavens” (Acts 2:34), so the psalm must speak of Christ; and Paul applied its promise: “For he must reign until he has put all his enemies under his feet” (1 Corinthians 15:25). Psalm 2:7, quoted in verse 5, Paul connected with the resurrection (Acts 13:33).",
+        "The worship of the Son by angels appears in heaven itself. John heard “a voice of many angels around the throne” (Revelation 5:11), saying with a loud voice, “Worthy is the Lamb who has been killed to receive the power, wealth, wisdom, strength, honor, glory, and blessing!” (Revelation 5:12). Yet when John fell down to worship an angel, the angel refused: “I am a fellow bondservant with you and with your brothers, the prophets, and with those who keep the words of this book. Worship God” (Revelation 22:9). Angels worship; the Son is worshipped. That is the difference Hebrews 1 proclaims."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Radiance / outshining",
+      "hebrew": "ἀπαύγασμα",
+      "translit": "apaúgasma",
+      "strongs": "G541",
+      "verses": "v. 3",
+      "insight": "Strong's: “an off-flash, i.e. effulgence.” It appears only here in the New Testament. Some take it as ‘reflection’, but the stronger reading is ‘radiance’: the light that streams out from a source and shares its nature. As sunlight is the sun reaching us, so the Son is God's glory reaching the world. You cannot have the sun without its light, and there was never a time when the Father was without the Son."
+    },
+    {
+      "english": "Exact imprint / very image",
+      "hebrew": "χαρακτήρ",
+      "translit": "charaktḗr",
+      "strongs": "G5481",
+      "verses": "v. 3",
+      "insight": "Strong's: “a graver (the tool or the person), i.e. (by implication) engraving ((\"character\"), the figure stamped, i.e. an exact copy or (figuratively) representation).” It is the root of our word ‘character’. It was used of the image stamped on a coin or pressed by a seal. Here only in the New Testament, it says that the Son bears the exact impression of God's very being. In the image family, it stands beside εἰκών (portrait) and μορφή (essential form)."
+    },
+    {
+      "english": "Substance / essential being / assurance",
+      "hebrew": "ὑπόστασις",
+      "translit": "hypóstasis",
+      "strongs": "G5287",
+      "verses": "v. 3",
+      "insight": "Strong's: “a setting under (support), i.e. (figuratively) concretely, essence, or abstractly, assurance (objectively or subjectively).” Literally ‘that which stands under’, the underlying reality of something. In 1:3 it is God's very being; in 3:14 and 11:1 the same word means ‘confidence’ and ‘assurance’ — faith as the solid ground under what we hope for. The Son is the exact imprint of God's reality, and faith rests on that reality."
+    },
+    {
+      "english": "Better / superior",
+      "hebrew": "κρείττων",
+      "translit": "kreíttōn",
+      "strongs": "G2909",
+      "verses": "v. 4",
+      "insight": "Strong's: “stronger, i.e. (figuratively) better, i.e. nobler.” It is the signature word of Hebrews, used thirteen times: a better name, a better hope, a better covenant, better promises, better sacrifices, a better possession, a better country, a better resurrection, and blood that speaks better than Abel's. The argument of the whole letter is that Christ and what He brings are better than everything before Him."
+    },
+    {
+      "english": "Firstborn",
+      "hebrew": "πρωτότοκος",
+      "translit": "prōtótokos",
+      "strongs": "G4416",
+      "verses": "v. 6",
+      "insight": "Strong's: “first-born (usually as noun, literally or figuratively).” In Israel the firstborn son received the family's leadership and a double inheritance. God called Israel His firstborn, and promised to make David's heir His firstborn, highest of the kings of the earth. Applied to Christ, it is a title of supremacy and inheritance, not of being created first: He is the Creator of all things (v. 10). The church is ‘the assembly of the firstborn’ in Him (12:23)."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "As Hebrews opens, the Holy Spirit lifts your eyes to the greatness of the Son.",
+    "items": [
+      {
+        "title": "Listen to the Son",
+        "body": "God has spoken His fullest word in Jesus. The Spirit wants to tune your ears to Him above every other voice — your fears, your culture, your own opinions, even good teachers. Ask Him to make Jesus' words and life the lens through which you read all of Scripture and see all of life."
+      },
+      {
+        "title": "See the Glory in His Face",
+        "body": "Jesus is the radiance of God's glory and the exact imprint of His nature. If you want to know what God is like, look at Jesus: His compassion, His truth, His holiness, His sacrifice. Ask the Spirit to replace any distorted picture of God in your heart with the true one revealed in Christ."
+      },
+      {
+        "title": "Rest in a Finished Work",
+        "body": "The Son sat down because He had made purification for sins. The Spirit wants you to stop striving to cleanse yourself and to rest in what Christ has done. Bring Him any sin you still carry as if it were unforgiven, and receive the cleansing He accomplished once for all."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Listening Check",
+        "body": "How much of your week is spent listening to Jesus through His word, compared with other voices? Choose one way to give His voice more room this week (vv. 1–2)."
+      },
+      {
+        "title": "The Worship Check",
+        "body": "Is your worship centred on Christ, or on experiences, leaders, or even spiritual things that are not Him? Let verse 6 call you to worship the Son above all."
+      },
+      {
+        "title": "The Security Check",
+        "body": "What are you relying on that is wearing out like a garment — health, wealth, reputation, relationships (vv. 11–12)? Write down how Jesus, who ‘remains the same’, is a better foundation."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Seven Glories Meditation",
+        "body": "For seven days, meditate on one of the seven statements about the Son in verses 2–3 each day: heir of all things, Creator, radiance of glory, exact imprint, sustainer by His word, purifier of sins, seated at God's right hand. Read the verse slowly, write down what that truth means for you, and turn it into worship before you start your day."
+      },
+      {
+        "title": "Thank God for Unseen Help",
+        "body": "Verse 14 says angels are sent to serve those who will inherit salvation. This week, look back over your life and write down times when you were protected, guided or helped in ways you could not explain. Thank God for His care through seen and unseen means, and worship the Son who rules over all."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, You spoke in many ways through the prophets, and now You have spoken to me in Your Son. Thank You that Jesus is Your final and fullest word. Lord Jesus, You are the heir of all things and the Creator of the worlds. You are the radiance of the Father's glory and the exact imprint of His being. You uphold all things by Your powerful word. And You, by Yourself, purified me of my sins and then sat down at the right hand of the Majesty on high. I worship You with all the angels of God. Your throne, O God, is forever and ever, and Your sceptre is a sceptre of righteousness. You loved righteousness and hated lawlessness. The heavens and earth will wear out like a garment, but You remain the same, and Your years will never end. Help me listen to You above every other voice. Let me rest in Your finished work. Thank You for sending Your angels to serve those who inherit salvation. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "The Baptism of Jesus: ‘This Is My Beloved Son’",
+      "ref": "Matthew 3:13-17",
+      "relatedVerses": "v. 5",
+      "summary": "When Jesus came to John the Baptist to be baptized in the Jordan, John at first refused, saying he needed to be baptized by Jesus. Jesus insisted, to fulfil all righteousness. As He came up out of the water, the heavens opened, the Spirit of God descended on Him like a dove, and a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased” (Matthew 3:17). The Father publicly declared what Hebrews 1:5 proclaims from Psalm 2: Jesus is the Son. No angel was ever addressed this way."
+    },
+    {
+      "title": "The Angels Worship at Jesus' Birth",
+      "ref": "Luke 2:8-14",
+      "relatedVerses": "v. 6",
+      "summary": "On the night Jesus was born, shepherds were watching their flocks near Bethlehem. An angel of the Lord appeared, and the glory of the Lord shone around them. The angel announced good news of great joy: a Saviour, Christ the Lord, had been born in the city of David. “Suddenly, there was with the angel a multitude of the heavenly army praising God, and saying” (Luke 2:13), ‘Glory to God in the highest, and on earth peace.’ When God brought His firstborn into the world, the angels did exactly what Hebrews 1:6 says: they worshipped."
+    },
+    {
+      "title": "An Angel Frees Peter From Prison",
+      "ref": "Acts 12:1-17",
+      "relatedVerses": "v. 14",
+      "summary": "King Herod killed James and arrested Peter, intending to bring him to trial after the Passover. The church prayed earnestly. The night before the trial, Peter was sleeping between two soldiers, bound with chains. “And behold, an angel of the Lord stood by him, and a light shone in the cell” (Acts 12:7). The angel woke Peter, and his chains fell from his hands. The angel led him past the guards and through the iron gate, which opened by itself. Peter said, “Now I truly know that the Lord has sent out his angel and delivered me out of the hand of Herod” (Acts 12:11). Angels are serving spirits sent to help those who will inherit salvation."
+    }
+  ]
+}
