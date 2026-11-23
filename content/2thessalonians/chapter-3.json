@@ -1,0 +1,783 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Thessalonians",
+  "chapter": 3,
+  "chapterTitle": "Pray, Work, Persevere — Faithful Hands While We Wait",
+  "themeTitle": "“Don’t Be Weary in Doing What Is Right”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you;",
+      "understanding": "λοιπόν, “Finally” — as for the rest. Paul turns from teaching to requests. προσεύχεσθε, “pray” — the pray-family word for prayer to God — for us, “that the word (λόγος) of the Lord may spread rapidly” — τρέχῃ, literally ‘run’, like a runner in a race or a messenger racing with news — καὶ δοξάζηται, “and be glorified,” honoured, receiving the welcome it deserves, ‘even as also with you’. Paul's first request is not for his safety but for the progress of the word.",
+      "words": [
+        {
+          "strongs": "G3063",
+          "hebrew": "λοιπόν",
+          "translit": "loipón",
+          "english": "Finally"
+        },
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "pray"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G5143",
+          "hebrew": "τρέχω",
+          "translit": "tréchō",
+          "english": "spread rapidly"
+        },
+        {
+          "strongs": "G1392",
+          "hebrew": "δοξάζω",
+          "translit": "doxázō",
+          "english": "be glorified"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "and that we may be delivered from unreasonable and evil men; for not all have faith.",
+      "understanding": "The second request: “that we may be delivered (ῥυσθῶμεν) from unreasonable (ἀτόπων) and evil (πονηρῶν) men.” ἄτοπος means ‘out of place’, perverse, outrageous. πονηρός is the evil-family word for active, harmful evil. Paul was facing fierce opposition in Corinth (Acts 18:6, 12). And the reason: οὐ γὰρ πάντων ἡ πίστις, “for not all have faith” — not everyone receives the message; some actively fight it.",
+      "words": [
+        {
+          "strongs": "G4506",
+          "hebrew": "ῥύομαι",
+          "translit": "rhýomai",
+          "english": "delivered"
+        },
+        {
+          "strongs": "G824",
+          "hebrew": "ἄτοπος",
+          "translit": "átopos",
+          "english": "unreasonable"
+        },
+        {
+          "strongs": "G4190",
+          "hebrew": "πονηρός",
+          "translit": "ponērós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "But the Lord is faithful, who will establish you, and guard you from the evil one.",
+      "understanding": "A wordplay contrast: not all have πίστις, faith (v. 2), “But the Lord is faithful (πιστός)” — even when people are faithless, He is not. He will στηρίξει, “establish you” — make you firm — καὶ φυλάξει, “and guard you,” stand watch over you like a garrison, ἀπὸ τοῦ πονηροῦ, “from the evil one.” The same evil-family word as verse 2, but now singular with the article: not just evil men but the evil one behind them (compare Matthew 6:13). Paul turns from his danger to their security.",
+      "words": [
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G4741",
+          "hebrew": "στηρίζω",
+          "translit": "stērízō",
+          "english": "establish"
+        },
+        {
+          "strongs": "G5442",
+          "hebrew": "φυλάσσω",
+          "translit": "phylássō",
+          "english": "guard"
+        },
+        {
+          "strongs": "G4190",
+          "hebrew": "πονηρός",
+          "translit": "ponērós",
+          "english": "evil one"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "We have confidence in the Lord concerning you, that you both do and will do the things we command.",
+      "understanding": "πεποίθαμεν, “We have confidence” — persuaded, trusting — ἐν κυρίῳ, “in the Lord,” not in the Thessalonians' own strength. The confidence is that they ‘both do and will do’ the things παραγγέλλομεν, “we command” — the military word for orders passed down the line, used four times in this chapter (vv. 4, 6, 10, 12). Paul is preparing them for the firm instructions that follow.",
+      "words": [
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "have confidence"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "command"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "do"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "May the Lord direct your hearts into God’s love, and into the perseverance of Christ.",
+      "understanding": "A one-sentence prayer: “May the Lord direct (κατευθύναι) your hearts” — make the road straight, clear the way — “into God’s love (ἀγάπην), and into the perseverance (ὑπομονήν) of Christ.” Two destinations for the heart: the love of God — both God's love for them and their love for Him — and the steadfast endurance Christ showed. Before Paul confronts idleness, he prays for hearts shaped by love and endurance. Discipline without love becomes harsh.",
+      "words": [
+        {
+          "strongs": "G2720",
+          "hebrew": "κατευθύνω",
+          "translit": "kateuthýnō",
+          "english": "direct"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "perseverance"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Now we command you, brothers, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother who walks in rebellion, and not after the tradition which they received from us.",
+      "understanding": "Now the firm command, given ἐν ὀνόματι, “in the name,” with the full authority of the Lord Jesus Christ: στέλλεσθαι ὑμᾶς, “that you withdraw yourselves” — keep your distance — from every brother who περιπατοῦντος ἀτάκτως, “walks in rebellion.” ἀτάκτως means ‘out of rank’, like a soldier who breaks formation; here, idle and disorderly, refusing to work (vv. 10–11). They are walking contrary to τὴν παράδοσιν, “the tradition,” the teaching and example they received from Paul. Notice he is still a ‘brother’.",
+      "words": [
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "command"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G4724",
+          "hebrew": "στέλλω",
+          "translit": "stéllō",
+          "english": "withdraw"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walks"
+        },
+        {
+          "strongs": "G814",
+          "hebrew": "ἀτάκτως",
+          "translit": "atáktōs",
+          "english": "in rebellion"
+        },
+        {
+          "strongs": "G3862",
+          "hebrew": "παράδοσις",
+          "translit": "parádosis",
+          "english": "tradition"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For you know how you ought to imitate us. For we didn’t behave ourselves rebelliously among you,",
+      "understanding": "“For you know how you ought to imitate (μιμεῖσθαι) us.” Paul's life had been part of his teaching. οὐκ ἠτακτήσαμεν, “we didn’t behave ourselves rebelliously” — the verb of ἀτάκτως: Paul and his team never broke rank, never lived idly among them.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G3401",
+          "hebrew": "μιμέομαι",
+          "translit": "miméomai",
+          "english": "imitate"
+        },
+        {
+          "strongs": "G812",
+          "hebrew": "ἀτακτέω",
+          "translit": "ataktéō",
+          "english": "behave rebelliously"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "neither did we eat bread from anyone’s hand without paying for it, but in labor and travail worked night and day, that we might not burden any of you;",
+      "understanding": "They did not eat ἄρτον, “bread,” from anyone δωρεάν, “without paying for it” — free of charge. Instead, three work-family words, exactly as in 1 Thessalonians 2:9: ἐν κόπῳ, “in labor” — toil that wears you out; καὶ μόχθῳ, “and travail” — hardship; νυκτὸς καὶ ἡμέρας ἐργαζόμενοι, “worked night and day.” The purpose: πρὸς τὸ μὴ ἐπιβαρῆσαί τινα, “that we might not burden any of you.” Paul's tired hands were a sermon on work.",
+      "words": [
+        {
+          "strongs": "G1432",
+          "hebrew": "δωρεάν",
+          "translit": "dōreán",
+          "english": "without paying"
+        },
+        {
+          "strongs": "G740",
+          "hebrew": "ἄρτος",
+          "translit": "ártos",
+          "english": "bread"
+        },
+        {
+          "strongs": "G2873",
+          "hebrew": "κόπος",
+          "translit": "kópos",
+          "english": "labor"
+        },
+        {
+          "strongs": "G3449",
+          "hebrew": "μόχθος",
+          "translit": "móchthos",
+          "english": "travail"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "worked"
+        },
+        {
+          "strongs": "G1912",
+          "hebrew": "ἐπιβαρέω",
+          "translit": "epibaréō",
+          "english": "burden"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "not because we don’t have the right, but to make ourselves an example to you, that you should imitate us.",
+      "understanding": "“Not because we don’t have the right (ἐξουσίαν).” A power-family word in an unexpected place: ἐξουσία, authority, the right to act — here the right of an apostle to be supported by those he serves (1 Corinthians 9:4). Paul had the ἐξουσία but chose not to use it, “to make ourselves an example (τύπον) to you, that you should imitate (μιμεῖσθαι) us.” τύπος is a stamp or pattern pressed into wax. Sometimes the most powerful use of a right is to lay it down for others' sake.",
+      "words": [
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "right"
+        },
+        {
+          "strongs": "G5179",
+          "hebrew": "τύπος",
+          "translit": "týpos",
+          "english": "example"
+        },
+        {
+          "strongs": "G3401",
+          "hebrew": "μιμέομαι",
+          "translit": "miméomai",
+          "english": "imitate"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For even when we were with you, we commanded you this: “If anyone will not work, don’t let him eat.”",
+      "understanding": "Paul had already given this rule in person: “If anyone will not work, don’t let him eat.” The key word is θέλει, ‘will not’ — is unwilling. This is not about those who cannot work because of sickness, disability or lack of opportunity; the church cared for such people. It is about those who choose not to work, a work-family word again (ἐργάζεσθαι). Love does not subsidise laziness.",
+      "words": [
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "commanded"
+        },
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "will"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "work"
+        },
+        {
+          "strongs": "G2068",
+          "hebrew": "ἐσθίω",
+          "translit": "esthíō",
+          "english": "eat"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For we hear of some who walk among you in rebellion, who don’t work at all, but are busybodies.",
+      "understanding": "The problem: “For we hear (ἀκούομεν) of some who walk among you in rebellion (ἀτάκτως).” Then a pointed Greek wordplay within the work family: μηδὲν ἐργαζομένους ἀλλὰ περιεργαζομένους — “who don’t work at all, but are busybodies.” Literally ‘not working, but working around’: not busy, but busybodies. Idle people are rarely still; they fill their time with other people's affairs. The related word for ‘busybodies’ appears in 1 Timothy 5:13, where the idle go ‘from house to house’.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        },
+        {
+          "strongs": "G814",
+          "hebrew": "ἀτάκτως",
+          "translit": "atáktōs",
+          "english": "in rebellion"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "work"
+        },
+        {
+          "strongs": "G4020",
+          "hebrew": "περιεργάζομαι",
+          "translit": "periergázomai",
+          "english": "busybodies"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Now those who are that way, we command and exhort in the Lord Jesus Christ, that with quietness they work, and eat their own bread.",
+      "understanding": "To such people directly: “we command (παραγγέλλομεν) and exhort (παρακαλοῦμεν) in the Lord Jesus Christ” — authority and appeal together — “that with quietness (μετὰ ἡσυχίας) they work (ἐργαζόμενοι), and eat their own bread (ἄρτον).” ἡσυχία is calm stillness, the opposite of busybody bustle. It echoes 1 Thessalonians 4:11, ‘lead a quiet life’. Earning ‘their own bread’ is a matter of dignity.",
+      "words": [
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "command"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G2271",
+          "hebrew": "ἡσυχία",
+          "translit": "hēsychía",
+          "english": "quietness"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "work"
+        },
+        {
+          "strongs": "G740",
+          "hebrew": "ἄρτος",
+          "translit": "ártos",
+          "english": "bread"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But you, brothers, don’t be weary in doing what is right.",
+      "understanding": "To the faithful majority: “But you, brothers, don’t be weary (ἐγκακήσητε) in doing what is right (καλοποιοῦντες).” ἐγκακέω means to lose heart, give in to discouragement. The temptation for hardworking, generous believers is to grow tired of supporting freeloaders and give up doing good altogether. καλοποιέω combines καλός, from the good family — good in the sense of noble and beautiful — and ποιέω, to do: keep doing what is beautiful. Compare Galatians 6:9: “Let us not be weary in doing good.”",
+      "words": [
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G1573",
+          "hebrew": "ἐκκακέω",
+          "translit": "ekkakéō",
+          "english": "be weary"
+        },
+        {
+          "strongs": "G2569",
+          "hebrew": "καλοποιέω",
+          "translit": "kalopoiéō",
+          "english": "doing what is right"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "If any man doesn’t obey our word in this letter, note that man, that you have no company with him, to the end that he may be ashamed.",
+      "understanding": "If anyone οὐχ ὑπακούει, “doesn’t obey,” τῷ λόγῳ, “our word,” in this ἐπιστολῆς, “letter,” then τοῦτον σημειοῦσθε, “note that man” — mark him, take notice — and μὴ συναναμίγνυσθαι αὐτῷ, “have no company with him” — do not mix freely with him in close fellowship. The purpose is restoration, not punishment: ἵνα ἐντραπῇ, “to the end that he may be ashamed” — turned back in on himself, brought to his senses.",
+      "words": [
+        {
+          "strongs": "G5219",
+          "hebrew": "ὑπακούω",
+          "translit": "hypakoúō",
+          "english": "obey"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1992",
+          "hebrew": "ἐπιστολή",
+          "translit": "epistolḗ",
+          "english": "letter"
+        },
+        {
+          "strongs": "G4593",
+          "hebrew": "σημειόω",
+          "translit": "sēmeióō",
+          "english": "note"
+        },
+        {
+          "strongs": "G4874",
+          "hebrew": "συναναμίγνυμι",
+          "translit": "synanamígnymi",
+          "english": "have company with"
+        },
+        {
+          "strongs": "G1788",
+          "hebrew": "ἐντρέπω",
+          "translit": "entrépō",
+          "english": "be ashamed"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Don’t count him as an enemy, but admonish him as a brother.",
+      "understanding": "A vital balance: καὶ μὴ ὡς ἐχθρὸν ἡγεῖσθε, “Don’t count him as an enemy,” ἀλλὰ νουθετεῖτε ὡς ἀδελφόν, “but admonish him as a brother.” Church discipline is family discipline. The aim is always to win the brother back (compare Matthew 18:15). Distance is meant to wake him up, not to cut him off.",
+      "words": [
+        {
+          "strongs": "G2190",
+          "hebrew": "ἐχθρός",
+          "translit": "echthrós",
+          "english": "enemy"
+        },
+        {
+          "strongs": "G2233",
+          "hebrew": "ἡγέομαι",
+          "translit": "hēgéomai",
+          "english": "count"
+        },
+        {
+          "strongs": "G3560",
+          "hebrew": "νουθετέω",
+          "translit": "nouthetéō",
+          "english": "admonish"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all.",
+      "understanding": "“Now may the Lord of peace himself give (δῴη) you peace (εἰρήνην) at all times in all ways (τρόπῳ).” After commands about discipline, Paul prays for peace — in every season and in every manner. A church that practises loving discipline needs the peace only the Lord can give. “The Lord be with you all” — all, including the disorderly brother.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G5158",
+          "hebrew": "τρόπος",
+          "translit": "trópos",
+          "english": "ways"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "The greeting of me, Paul, with my own hand, which is the sign in every letter: this is how I write.",
+      "understanding": "Paul takes the pen: ὁ ἀσπασμὸς τῇ ἐμῇ χειρί, “The greeting of me, Paul, with my own hand, which is the sign (σημεῖον) in every letter.” A signs-family word used in an everyday way: the σημεῖον here is not a miracle but an authenticating mark — Paul's handwriting. After a forged letter had caused confusion (2:2), he shows them how to recognise his real letters: ‘this is how I write’.",
+      "words": [
+        {
+          "strongs": "G783",
+          "hebrew": "ἀσπασμός",
+          "translit": "aspasmós",
+          "english": "greeting"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeîon",
+          "english": "sign"
+        },
+        {
+          "strongs": "G1992",
+          "hebrew": "ἐπιστολή",
+          "translit": "epistolḗ",
+          "english": "letter"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "write"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "The grace of our Lord Jesus Christ be with you all. Amen.",
+      "understanding": "“The grace (χάρις) of our Lord Jesus Christ be with you all. Amen.” The last word is grace again — the same benediction as 1 Thessalonians 5:28, with one word added: ‘all’. Grace for the faithful, the weary, the confused and the disorderly alike.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Word Running",
+      "verseRef": "v. 1",
+      "image": "Picture a runner on a Greek road at dawn, carrying news of a victory. He does not stroll; he runs, sandals pounding the stones, from town to town. Wherever he arrives, people come out of their houses, hear the news, cheer and send it on with the next runner. Now picture the word of the Lord as that runner, racing along the Roman roads from Thessalonica to Berea, Athens, Corinth and beyond — and the prayers of a small church in Macedonia clearing the road ahead of it.",
+      "meaning": "Paul asks, “pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you” (v. 1). The verb τρέχω means to run. The word of God is not a static message stored in a book; it is meant to run. Prayer clears its path and opens doors. As Luke wrote of the early church, “But the word of God grew and multiplied” (Acts 12:24). Your prayers for preachers, missionaries and witnesses help the word run."
+    },
+    {
+      "title": "Not Busy, but Busybodies",
+      "verseRef": "v. 10-12",
+      "image": "Picture a market town. In one workshop a woman is weaving, her hands moving steadily all morning. In the street outside, a man drifts from stall to stall, chatting, gossiping, offering opinions on everyone's affairs, eating at whatever table will feed him. He is never still and never productive. He tells everyone that the Lord is coming soon, so work does not matter. At evening the weaver has cloth to sell and bread for her family and her neighbour. The man has spread three rumours and eaten someone else's bread.",
+      "meaning": "Paul writes, “For we hear of some who walk among you in rebellion, who don’t work at all, but are busybodies” (v. 11) — in Greek, not ἐργάζομαι (working) but περιεργάζομαι (working around). His command: “that with quietness they work, and eat their own bread” (v. 12). Waiting for Jesus never excuses idleness. The person who truly expects the King is found quietly faithful in ordinary work, not restlessly busy in everyone else's business."
+    },
+    {
+      "title": "The Weary Good-Doer",
+      "verseRef": "v. 13",
+      "image": "Picture a woman at the end of a long day in a small church. She has cooked for the sick, helped a family with rent, stayed late to clean up after a meeting, and listened to a lonely widow. On her way home she notices that the same few people always help, and the same few people always take. A tired thought rises: ‘Why do I keep doing this? Nobody notices, and some are just using us.’ She is tempted to stop. Then a letter is read in church: ‘But you, brothers, don't be weary in doing what is right.’",
+      "meaning": "Paul writes to the faithful majority: “But you, brothers, don’t be weary in doing what is right” (v. 13). The danger of idlers in a church is not only what they fail to do; it is how they discourage those who serve. Paul's answer is not to stop doing good but to keep going. The word καλοποιέω means doing what is καλός — beautiful and noble. Paul says elsewhere, “Let us not be weary in doing good, for we will reap in due season, if we don’t give up” (Galatians 6:9). God sees every quiet act of goodness."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Pray for Us; the Lord Is Faithful (v. 1-5)",
+        "body": "Paul asks prayer for the word of the Lord to run and be honoured and for deliverance from wicked men; he affirms that the faithful Lord will strengthen and guard them from the evil one, expresses confidence in their obedience, and prays that the Lord will direct their hearts into God's love and Christ's endurance."
+      },
+      {
+        "label": "Withdraw From the Disorderly (v. 6-9)",
+        "body": "In the name of the Lord Jesus, Paul commands them to keep away from any brother who lives idly, contrary to the teaching and example they received; Paul's team worked night and day so as not to burden anyone, giving up their right to support to provide an example."
+      },
+      {
+        "label": "If Anyone Will Not Work (v. 10-13)",
+        "body": "Paul had commanded that those unwilling to work should not eat; some are idle busybodies, and he commands them to work quietly and earn their own bread, while urging the rest not to grow weary in doing good."
+      },
+      {
+        "label": "Loving Discipline (v. 14-15)",
+        "body": "Anyone who disobeys this letter should be noted and kept at a distance so that he may be ashamed — not treated as an enemy but warned as a brother."
+      },
+      {
+        "label": "Peace, Signature and Grace (v. 16-18)",
+        "body": "Paul prays that the Lord of peace will give them peace at all times and in every way, signs the greeting with his own hand as the mark of his genuine letters, and blesses them all with grace."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Pray for the Running Word",
+        "paragraphs": [
+          "After the heavy teaching of chapter 2, Paul turns to practical matters. He begins with a prayer request: “Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you” (v. 1). The word ‘spread rapidly’ is literally ‘run’. Paul's priority is the progress of the gospel, as in his other letters: “that God may open to us a door for the word” (Colossians 4:3). The Thessalonians themselves were proof of what happens when the word runs: it had “been declared” from them everywhere (1 Thessalonians 1:8).",
+          "He also asks for protection: “and that we may be delivered from unreasonable and evil men; for not all have faith” (v. 2). Paul was not naïve about opposition. But he immediately turns from his own danger to their security, with a play on words: not all have faith, “But the Lord is faithful, who will establish you, and guard you from the evil one” (v. 3). The same evil-family word πονηρός describes the wicked men and ‘the evil one’ behind them. Jesus prayed for His disciples in the same terms: “I pray not that you would take them from the world, but that you would keep them from the evil one” (John 17:15).",
+          "Then Paul prays a short, beautiful prayer: “May the Lord direct your hearts into God’s love, and into the perseverance of Christ” (v. 5). Before he gives the hard instructions about discipline, he prays for hearts formed by God's love and Christ's endurance. This is the spirit in which the rest of the chapter must be read. Church discipline that does not flow from love and patience is not Christian discipline."
+        ]
+      },
+      {
+        "heading": "Work Is a Witness",
+        "paragraphs": [
+          "The problem of idleness had grown since the first letter. Then Paul had gently urged them “to work with your own hands” (1 Thessalonians 4:11) and told the church to “admonish the disorderly” (1 Thessalonians 5:14). Now some had refused, and Paul uses his strongest language: “Now we command you, brothers, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother who walks in rebellion, and not after the tradition which they received from us” (v. 6). ‘In rebellion’ (ἀτάκτως) is the military picture of a soldier breaking rank. Their idleness was not a private lifestyle choice; it was disorder in the army of Christ.",
+          "Paul points to his own example: “neither did we eat bread from anyone’s hand without paying for it, but in labor and travail worked night and day, that we might not burden any of you” (v. 8). The three work-family words of 1 Thessalonians 2:9 return: κόπος, μόχθος, ἐργάζομαι. And he explains why: “not because we don’t have the right, but to make ourselves an example to you, that you should imitate us” (v. 9). The word for ‘right’ is ἐξουσία, authority. Paul had the authority to be supported, as he argued elsewhere: “Have we no right to eat and to drink?” (1 Corinthians 9:4). He gave it up so that his life would teach the value of work.",
+          "Then the famous rule: “If anyone will not work, don’t let him eat” (v. 10). The emphasis is on unwillingness. The early church generously cared for widows, the sick and the poor; this command is not about them. It addresses those who were able but refused, perhaps because they thought Christ's return made work pointless. Paul's diagnosis is sharp: “who don’t work at all, but are busybodies” (v. 11) — not busy, but busybodies. Idleness does not lead to rest; it leads to meddling. The cure is quiet, honest work: “that with quietness they work, and eat their own bread” (v. 12)."
+        ]
+      },
+      {
+        "heading": "Loving Discipline and Lasting Grace",
+        "paragraphs": [
+          "Paul then speaks to the faithful: “But you, brothers, don’t be weary in doing what is right” (v. 13). Hardworking, generous believers can become discouraged when others take advantage of them. The temptation is to stop being generous altogether. Paul says no: keep doing good. The goodness of the church must not be destroyed by the selfishness of a few.",
+          "For those who persist in disobedience, Paul gives a careful process: “If any man doesn’t obey our word in this letter, note that man, that you have no company with him, to the end that he may be ashamed” (v. 14). The purpose is restoration: the distance is meant to wake the person up. And the spirit is crucial: “Don’t count him as an enemy, but admonish him as a brother” (v. 15). Jesus taught the same goal of winning back an erring brother: “If he listens to you, you have gained back your brother” (Matthew 18:15). Paul later urged the Corinthians, after a disciplined man repented, “you should rather forgive him and comfort him” (2 Corinthians 2:7).",
+          "The letter closes with peace, authenticity and grace. “Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all” (v. 16). Then Paul signs with his own hand: “which is the sign in every letter: this is how I write” (v. 17) — a practical safeguard after a forged letter had shaken them (2:2). And the last word: “The grace of our Lord Jesus Christ be with you all. Amen” (v. 18). The two letters to Thessalonica both begin and end in grace. Everything between — persecution, deception, idleness, discipline — is held inside it."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Work, Discipline and Perseverance in the New Testament",
+      "paragraphs": [
+        "Paul's teaching on work is consistent across his letters. To the Ephesian elders he said, “You yourselves know that these hands served my necessities, and those who were with me” (Acts 20:34). To the Ephesian church he wrote, “Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need” (Ephesians 4:28). The aim of work is not only to avoid being a burden but to have something to give.",
+        "The warning against busybodies appears again in the pastoral letters: “Besides, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, saying things which they ought not” (1 Timothy 5:13). Peter puts the meddler in a striking list: “For let none of you suffer as a murderer, or a thief, or an evil doer, or a meddler in other men’s matters” (1 Peter 4:15). Idleness and interference are not small faults; they damage the body of Christ.",
+        "On discipline, Paul's instructions here match his teaching to Corinth: “I wrote to you not to associate with anyone who is called a brother who is a sexual sinner, or covetous, or an idolater, or a slanderer, or a drunkard, or an extortionist” (1 Corinthians 5:11). Yet the goal is always restoration: “Therefore I beg you to confirm your love toward him” (2 Corinthians 2:8). And the encouragement to persevere in doing good echoes his words to the Galatians: “Let us not be weary in doing good, for we will reap in due season, if we don’t give up” (Galatians 6:9)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Run / spread rapidly",
+      "hebrew": "τρέχω",
+      "translit": "tréchō",
+      "strongs": "G5143",
+      "verses": "v. 1",
+      "insight": "Strong's: “to run or walk hastily (literally or figuratively).” It is the word for running a race (1 Corinthians 9:24) or running to bring news (Matthew 28:8). Paul applies it to the word of the Lord: he wants the gospel to race from place to place, unhindered. The picture echoes a psalm that says God's word runs swiftly. Prayer is how the church clears the track for the running word."
+    },
+    {
+      "english": "Disorderly / out of rank",
+      "hebrew": "ἀτάκτως",
+      "translit": "atáktōs",
+      "strongs": "G814",
+      "verses": "v. 6, 11",
+      "insight": "From ἄτακτος, ‘not in order’, a military term for a soldier who breaks rank or a disorderly army. Paul uses the adjective in 1 Thessalonians 5:14 (‘the disorderly’), the verb in 3:7 and the adverb in verses 6 and 11. In context it describes believers who refused to work and lived off others while meddling in their affairs. The WEB renders it ‘in rebellion’, which captures the idea: idleness is not neutral; it is a breach of the order of Christ's army."
+    },
+    {
+      "english": "Be a busybody / work around",
+      "hebrew": "περιεργάζομαι",
+      "translit": "periergázomai",
+      "strongs": "G4020",
+      "verses": "v. 11",
+      "insight": "Strong's: “to work all around, i.e. bustle about (meddle).” It appears only here in the New Testament, in deliberate wordplay with ἐργάζομαι, to work. Some were not ἐργαζομένους (working) but περιεργαζομένους (working around). The prefix περί, around, pictures energy spent circling other people's business instead of doing one's own. Idleness rarely produces rest; it produces restless interference. The cure is quiet, focused work (v. 12)."
+    },
+    {
+      "english": "Do what is right / do good",
+      "hebrew": "καλοποιέω",
+      "translit": "kalopoiéō",
+      "strongs": "G2569",
+      "verses": "v. 13",
+      "insight": "Strong's: “to do well, i.e. live virtuously.” It appears only here in the New Testament. It combines καλός, from the good family — good in the sense of noble, beautiful, honourable — with ποιέω, to do. Paul urges the hardworking believers not to grow weary in doing what is beautiful and right, even when others take advantage of them. Galatians 6:9 makes the same appeal with ἀγαθός. Goodness is not to be rationed according to how others respond."
+    },
+    {
+      "english": "Sign / mark",
+      "hebrew": "σημεῖον",
+      "translit": "sēmeîon",
+      "strongs": "G4592",
+      "verses": "v. 17",
+      "insight": "Strong's: “an indication, especially ceremonially or supernaturally.” In the signs-and-wonders family it usually describes miracles that point to God's power — and in 2:9 the counterfeit signs of the lawless one. Here it is used in its ordinary sense: an identifying mark. Paul's handwritten greeting is the σημεῖον that authenticates his letters. After a forged letter caused confusion (2:2), Paul gives a practical way to recognise the genuine. Truth has marks that can be checked."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: your prayers for the word, your attitude to work, and whether you are growing weary in doing good.",
+    "items": [
+      {
+        "title": "Pray for the Running Word",
+        "body": "Paul's first request is that “the word of the Lord may spread rapidly and be glorified” (v. 1). The Spirit may be calling you to make the progress of the gospel a regular part of your prayers — for missionaries, for pastors, for believers sharing their faith at work, for unreached places. Ask Him to give you a burden for the word to run. Then pray specifically, and expect doors to open."
+      },
+      {
+        "title": "Quiet, Honest Work",
+        "body": "The Spirit wants to examine your work. Are there ways you have been idle while expecting others to carry you? Or have you been ‘working around’ — busy with other people's business, gossip or distractions — instead of doing your own work well? Ask Him to make you a quiet, honest, faithful worker whose life commends the gospel. If you cannot work because of illness or circumstances, receive the church's care without shame; this word is for those who will not work."
+      },
+      {
+        "title": "Don't Give Up on Goodness",
+        "body": "Perhaps you are the faithful one who is tired. You have given, served and helped, and some have taken advantage of you. The Spirit says to you: “don’t be weary in doing what is right” (v. 13). He sees every unnoticed act of goodness. Ask Him for wisdom where boundaries are needed, and for fresh strength to keep doing good. The harvest is coming."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Prayer Check",
+        "body": "When did you last pray specifically for the progress of the gospel somewhere (v. 1)? Write down one place and one person to pray for each day this week."
+      },
+      {
+        "title": "The Work Check",
+        "body": "Read verses 10–12 honestly. Are there ways you are avoiding responsibility, depending on others when you could contribute, or spending energy on other people's business? Write down one change you will make this week."
+      },
+      {
+        "title": "The Weariness Check",
+        "body": "Where are you tired of doing good (v. 13)? Name the person or situation. Ask God whether you need a wiser boundary, a time of rest, or simply fresh grace to keep going."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "A Faithful-Work Week",
+        "body": "For one week, treat your daily work — paid work, studies, housework or caring for others — as an act of worship. Begin each day with verse 12: ‘Lord, help me work with quietness and earn my own bread.’ Avoid gossip and meddling. At the end of each day, note one way your work served or blessed someone else. If you have more than you need, set aside something to give to someone in genuine need, as Ephesians 4:28 urges."
+      },
+      {
+        "title": "Restore, Don't Reject",
+        "body": "Think of a believer who has drifted into a disorderly or unhealthy way of life. Pray for them for a week, asking the Lord to direct their heart into God's love and Christ's endurance (v. 5). Then, if appropriate, speak to them gently and honestly as a brother or sister, not as an enemy (v. 15). If you are not the right person, pray for the right person. The aim is always to win them back."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord, let Your word run swiftly and be honoured everywhere, as it was among the Thessalonians. Deliver Your servants from wicked and unreasonable people. Thank You that even when people are faithless, You are faithful. Strengthen me and guard me from the evil one. Direct my heart into Your love and into the endurance of Christ. Make me a faithful worker, quiet and honest, earning my own bread and not becoming a burden to others. Keep me from idleness and from meddling in other people's affairs. Where I have grown weary of doing good, renew my strength; let me keep doing what is right and beautiful even when it is not appreciated. Give me wisdom and love to restore those who have drifted, treating them as brothers and sisters and not as enemies. Lord of peace, give me Your peace at all times and in every way. Let Your grace be with me and with all Your people. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Paul the Tent-Maker in Corinth",
+      "ref": "Acts 18:1-11",
+      "relatedVerses": "v. 7-9",
+      "summary": "When Paul wrote 2 Thessalonians from Corinth, he was living out the example he describes. He stayed with Aquila and Priscilla, “and because he practiced the same trade, he lived with them and worked, for by trade they were tent makers” (Acts 18:3). Every Sabbath he reasoned in the synagogue. When Silas and Timothy arrived from Macedonia, Paul gave himself more fully to preaching. Opposition came, but the Lord spoke to him in a vision at night, telling him not to be afraid but to keep speaking, because He had many people in that city. Paul stayed a year and a half. The apostle who commanded quiet work did it himself, with his own hands, while the word ran."
+    },
+    {
+      "title": "The Ant and the Sluggard",
+      "ref": "Proverbs 6:6-11",
+      "relatedVerses": "v. 10-12",
+      "summary": "The book of Proverbs tells the sluggard to go to the ant and consider her ways: she has no chief, overseer or ruler, yet she provides her food in summer and gathers it at harvest. The sluggard keeps asking for a little more sleep, a little more slumber, a little folding of the hands to rest — and poverty comes on him like a robber. Paul's command in 2 Thessalonians 3:10–12 stands in this long biblical tradition: work is part of God's design for human life, and idleness leads to ruin. The Thessalonians who stopped working because they expected the Lord's return needed this ancient wisdom as much as Paul's apostolic command."
+    },
+    {
+      "title": "The Brother Restored in Corinth",
+      "ref": "2 Corinthians 2:5-11",
+      "relatedVerses": "v. 14-15",
+      "summary": "In Corinth a man had caused great grief, and the church disciplined him. The discipline worked; he was deeply sorrowful. Paul then wrote urging the church not to go on punishing him: “so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow” (2 Corinthians 2:7), and “Therefore I beg you to confirm your love toward him” (2 Corinthians 2:8). He added that this was so Satan would not take advantage of them. This is the goal of the discipline in 2 Thessalonians 3:14–15: not to destroy a brother but to bring him to his senses and then welcome him back in love."
+    }
+  ]
+}

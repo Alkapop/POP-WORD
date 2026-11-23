@@ -404,7 +404,8 @@
         "labor",
         "toil",
         "travail",
-        "working"
+        "working",
+        "busybodies"
       ],
       "intro": "English ‘work’ and ‘labour’ cover several Greek words. 1 Thessalonians 1:3 sets ἔργον (work) beside κόπος (labour to the point of exhaustion), and 2:9 adds μόχθος (hardship) and ἐργάζομαι (working). Revelation 2:2 praises ‘works’ and ‘toil’ in a church that had left its first love.",
       "members": [
@@ -437,6 +438,12 @@
           "sense": "To work — to do a job, to earn a living by labour.",
           "anchor": "1 Thessalonians 4:11",
           "en": "work"
+        },
+        {
+          "strongs": "G4020",
+          "sense": "To work around — to bustle about in other people's affairs instead of doing one's own work; to be a busybody.",
+          "anchor": "2 Thessalonians 3:11",
+          "en": "busybodies"
         }
       ]
     },
