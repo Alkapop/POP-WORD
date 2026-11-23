@@ -623,6 +623,12 @@
           "sense": "To bear, to give birth to.",
           "anchor": "James 1:15",
           "en": "bears"
+        },
+        {
+          "strongs": "G738",
+          "sense": "Newly born — a baby just born.",
+          "anchor": "1 Peter 2:2",
+          "en": "newborn"
         }
       ]
     },
@@ -998,7 +1004,8 @@
         "testing",
         "tempted",
         "tested",
-        "approved"
+        "approved",
+        "rejected"
       ],
       "intro": "English splits one Greek idea into ‘trial’ and ‘temptation’, and joins two different Greek ideas under ‘test’. πειρασμός / πειράζω is a putting to the test — it can be an outward trial God allows to strengthen faith, or an inner pull towards sin that never comes from God; context decides which. δοκίμιον / δοκιμάζω / δόκιμος is the assayer’s word: testing metal by fire to prove it genuine, and the approval that follows. James 1:2–15 uses both families side by side: the same πειρασμός can make you δόκιμος (approved) or, if your own desire takes hold of it, lead to sin.",
       "members": [
@@ -1037,6 +1044,12 @@
           "sense": "Approved after testing — proven genuine, like coin that has passed the assay.",
           "anchor": "James 1:12",
           "en": "approved"
+        },
+        {
+          "strongs": "G593",
+          "sense": "To reject after testing — to examine and declare unfit.",
+          "anchor": "1 Peter 2:7",
+          "en": "rejected"
         }
       ]
     },
@@ -1079,6 +1092,50 @@
       ]
     },
     {
+      "id": "suffer",
+      "name": "Suffer & Suffering",
+      "lang": "Greek",
+      "english": [
+        "suffered",
+        "sufferings",
+        "suffering",
+        "suffer"
+      ],
+      "intro": "English ‘suffer’ and ‘suffering’ cover several Greek words. πάσχω / πάθημα is to undergo, to experience something painful done to you — Peter’s great word, used of Christ’s sufferings and the believer’s (1 Peter 1:11; 2:21). συμπάσχω is to suffer together with Christ (Romans 8:17). κακοπαθέω / κακοπάθεια is to endure hardship, to put up with what is bad (James 5:10, 13). First Peter uses this vocabulary more than any other letter.",
+      "members": [
+        {
+          "strongs": "G3958",
+          "sense": "To undergo, to suffer — to experience pain done to you.",
+          "anchor": "1 Peter 2:21",
+          "en": "suffered"
+        },
+        {
+          "strongs": "G3804",
+          "sense": "A suffering — what one undergoes, especially the sufferings of Christ.",
+          "anchor": "1 Peter 1:11",
+          "en": "sufferings"
+        },
+        {
+          "strongs": "G4841",
+          "sense": "To suffer together with — to share in Christ’s sufferings.",
+          "anchor": "Romans 8:17",
+          "en": "suffer"
+        },
+        {
+          "strongs": "G2553",
+          "sense": "To endure hardship, to suffer evil.",
+          "anchor": "James 5:13",
+          "en": "suffering"
+        },
+        {
+          "strongs": "G2552",
+          "sense": "Hardship endured — suffering borne patiently.",
+          "anchor": "James 5:10",
+          "en": "suffering"
+        }
+      ]
+    },
+    {
       "id": "evil",
       "name": "Evil & Malice",
       "lang": "Greek",
@@ -1086,7 +1143,8 @@
         "evil",
         "malice",
         "wicked",
-        "wrong"
+        "wrong",
+        "evildoers"
       ],
       "intro": "English ‘evil’ hides several Greek words. κακός describes what is bad in itself — worthless, harmful in nature. πονηρός describes evil that is active and aggressive, actively doing harm; it is used of ‘the evil one’. 1 Thessalonians 5 uses both: do not repay κακός for κακός (5:15), and abstain from every form of πονηρός (5:22). φαῦλος adds a third shade: the worthless, paltry deed.",
       "members": [
@@ -1119,6 +1177,12 @@
           "sense": "Badly, wrongly — the adverb of κακός.",
           "anchor": "James 4:3",
           "en": "wrong"
+        },
+        {
+          "strongs": "G2555",
+          "sense": "An evildoer — one who does what is bad.",
+          "anchor": "1 Peter 2:12",
+          "en": "evildoers"
         }
       ]
     },
@@ -1229,6 +1293,12 @@
           "sense": "Symbol, comparison — something set alongside to illustrate.",
           "anchor": "Hebrews 9:9",
           "en": "symbol"
+        },
+        {
+          "strongs": "G5261",
+          "sense": "A writing-copy — the letters a teacher writes for a child to trace.",
+          "anchor": "1 Peter 2:21",
+          "en": "example"
         }
       ]
     },
@@ -1962,7 +2032,9 @@
       "lang": "Greek",
       "english": [
         "good",
-        "well"
+        "well",
+        "gracious",
+        "do well"
       ],
       "intro": "Greek distinguishes what is good in its effect from what is good and beautiful to look at.",
       "members": [
@@ -2001,6 +2073,24 @@
           "sense": "Well, rightly — the adverb of καλός: doing what is fine and fitting.",
           "anchor": "James 2:8",
           "en": "well"
+        },
+        {
+          "strongs": "G5543",
+          "sense": "Kind, gracious — good in its kindness, easy and pleasant.",
+          "anchor": "1 Peter 2:3",
+          "en": "gracious"
+        },
+        {
+          "strongs": "G15",
+          "sense": "To do good, to do what is right.",
+          "anchor": "1 Peter 2:20",
+          "en": "do well"
+        },
+        {
+          "strongs": "G17",
+          "sense": "A well-doer — one who does what is good.",
+          "anchor": "1 Peter 2:14",
+          "en": "do well"
         }
       ]
     },
@@ -2064,6 +2154,12 @@
           "sense": "To stoop and peer in — to bend over to look closely.",
           "anchor": "James 1:25",
           "en": "looks"
+        },
+        {
+          "strongs": "G2029",
+          "sense": "To watch closely, to observe as an eyewitness.",
+          "anchor": "1 Peter 2:12",
+          "en": "see"
         }
       ]
     },
