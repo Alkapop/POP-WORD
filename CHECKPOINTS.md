@@ -228,5 +228,33 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 ### Book queue
 | # | Book | Status |
 |---|------|--------|
-| 53 | 2 Thessalonians | ✅ built & verified |
-| 54 | 1 Timothy (6 ch.) | next — bridge from 2 Thessalonians; Road Ahead → 2 Timothy, Titus |
+| 53 | 2 Thessalonians | ✅ live |
+| 54 | 1 Timothy | ✅ built & verified |
+
+---
+
+## 2026-11-23 — 1 Timothy
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 13KB | — | ✅ | ✅ (22 quotes) | Bridge from 2 Thessalonians (matches its Road Ahead) |
+| Chapter 1 | 42KB | 20/20 | ✅ | ✅ | New **godliness** family; ἐνδυναμόω (power), ἑτεροδιδασκαλέω (another); 1:10 ἀρσενοκοίτης stated plainly, with 1:15 |
+| Chapter 2 | 36KB | 15/15 | ✅ | ✅ | 2:1 four prayer words (pray family +3); 2:11–15 strongest reading + one honest sentence; 2:15 readings set out. **Verifier fix:** WEB text with parentheses (2:10) no longer flagged; negative test still catches a bracketed misquote |
+| Chapter 3 | 37KB | 16/16 | ✅ | ✅ | ‘one-woman man’; 3:11 wives / women deacons; 3:16 θεός / ὅς variant; διάβολος = devil & slanderers |
+| Chapter 4 | 37KB | 16/16 | ✅ | ✅ | γυμνασία vs εὐσέβεια; ἔντευξις as ‘prayer’. Caught & fixed: Mark 7:19 wording; a self-quote without its (v. N) |
+| Chapter 5 | 45KB | 25/25 | ✅ | ✅ | 5:10 καλός + ἀγαθός; 5:18 Luke 10:7 called Scripture; εὐσεβέω, ἐργάτης, περίεργος added |
+| Chapter 6 | 47KB | 21/21 | ✅ | ✅ | 6:1–2 slavery read honestly (1:10; 1 Cor 7:21); 6:10 ‘a root of all kinds of’ κακά; δυνάστης, κράτος, αἰών, ἀγαθοεργέω |
+| Final Masterclass Review | 14KB | — | ✅ | ✅ (261 quotes) | Road Ahead → 2 Timothy, Titus |
+
+- **Book total:** 6 chapters, 113/113 verses, 30 lexicon entries, 261 referenced quotations checked (exit 0).
+  Every quoted Strong's definition compared with the dictionary text (two corrected: G5179 truncation, G4306 comma).
+- **Word families:** 24 → 25 families, 98 → 111 words.
+- **G3** ✅ all 8 documents; word-panel spot checks 9/9. Word-study regression 21/21 — it now reads the
+  expected family size from the data instead of a hard-coded number.
+- Backlog unchanged: 42 NOT-IN-WEB / 32 LEMMA / 28 WRONG-REF.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 54 | 1 Timothy | ✅ built & verified |
+| 55 | 2 Timothy (4 ch.) | next — bridge from 1 Timothy; Road Ahead → Titus, Philemon (re-fetch Philemon first, FIXES-TODO §1) |
