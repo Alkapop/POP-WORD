@@ -257,4 +257,28 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 | # | Book | Status |
 |---|------|--------|
 | 54 | 1 Timothy | ✅ built & verified |
-| 55 | 2 Timothy (4 ch.) | next — bridge from 1 Timothy; Road Ahead → Titus, Philemon (re-fetch Philemon first, FIXES-TODO §1) |
+| 55 | 2 Timothy (4 ch.) | ✅ built & verified (below) |
+
+## 2026-11-23 — 2 Timothy
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 10KB | — | ✅ | ✅ (22 quotes) | Bridge from 1 Timothy (matches its Road Ahead) |
+| Chapter 1 | 38KB | 18/18 | ✅ | ✅ | 1:7 δύναμις + ἀγάπη + σωφρονισμός; 1:10 ἐπιφάνεια of the first coming. Caught by hand: G3093 (Magdala) → G3090 Λωΐς |
+| Chapter 2 | 47KB | 26/26 | ✅ | ✅ | Soldier, athlete, farmer, workman; 2:12 ‘deny’ kept out of “…”. Caught & fixed: a Strong's quote paired with the next reference; G2689 → G2675 |
+| Chapter 3 | 39KB | 17/17 | ✅ | ✅ | 3:2–4 five φιλ- ‘lover’ words added to the **love** family; 3:5 form of εὐσέβεια, denied δύναμις; εὐσεβῶς added to **godliness**; 3:6 and 3:8 (Jannes, Jambres) read honestly; 3:16 θεόπνευστος and its two readings. Caught & fixed: 3 quote/reference pairings |
+| Chapter 4 | 44KB | 22/22 | ✅ | ✅ | 4:2 εὐκαίρως / ἀκαίρως added to the **time** family; 4:8 and 4:10 ἀγαπάω — ‘loved his appearing’ vs ‘loved this present’ αἰών; 4:8 / 4:14 ἀποδίδωμι ‘give’ and ‘repay’; 4:14 κακός vs 4:18 πονηρός |
+| Final Masterclass Review | 14KB | — | ✅ | ✅ (26 quotes) | Road Ahead → Titus, Philemon. Philemon is quoted only from 1:1, the one verse on disk. Caught & fixed: 1:6 wording |
+
+- **Book total:** 4 chapters, 83/83 verses, 20 lexicon entries, 198 referenced quotations checked (exit 0).
+  Every quoted Strong's definition compared with the dictionary text.
+- **Word families:** 25 families, 111 → 120 words (love +5 φιλ- compounds; godliness +2, ἀσέβεια and εὐσεβῶς; time +2, εὐκαίρως and ἀκαίρως). Every anchor verse checked by G1 against the WEB.
+- **G3** ✅ all 6 documents; word-panel spot checks 9/9. Word-study regression 21/21. Cyrillic scan: 0.
+- Backlog unchanged: 42 NOT-IN-WEB / 32 LEMMA / 28 WRONG-REF.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 55 | 2 Timothy | ✅ built & verified |
+| 56 | Titus (3 ch.) | next — bridge from 2 Timothy; Road Ahead → Philemon, Hebrews |
+| 57 | Philemon (1 ch.) | needs the FIXES-TODO §1 re-fetch first (only 1:1 is on disk) |

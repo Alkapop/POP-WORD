@@ -1,0 +1,981 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Timothy",
+  "chapter": 1,
+  "chapterTitle": "Not a Spirit of Fear — Stir Up the Gift and Guard the Good Deposit",
+  "themeTitle": "“For God Didn’t Give Us a Spirit of Fear, but of Power, Love, and Self-Control”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,",
+      "understanding": "Paul, ἀπόστολος, an apostle, διὰ θελήματος θεοῦ, “through the will of God” — not by his own ambition. And κατ᾽ ἐπαγγελίαν ζωῆς, “according to the promise of the life which is in Christ Jesus.” Written by a man about to be executed, the first sentence speaks of life — ζωή from the life family: life itself, God's life. Death row cannot cancel the promise of life.",
+      "words": [
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostle"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promise"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.",
+      "understanding": "To Timothy, ἀγαπητῷ τέκνῳ, “my beloved child” — in 1 Timothy it was ‘my true child’; now it is ‘my beloved child’, tender words from a father near death. The same greeting as before: χάρις, ἔλεος, εἰρήνη, “Grace, mercy, and peace,” from God the Father and Christ Jesus our Lord.",
+      "words": [
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "child"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "Grace"
+        },
+        {
+          "strongs": "G1656",
+          "hebrew": "ἔλεος",
+          "translit": "éleos",
+          "english": "mercy"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day",
+      "understanding": "χάριν ἔχω τῷ θεῷ, “I thank God,” ᾧ λατρεύω, “whom I serve” — λατρεύω is the word for worship-service, the service a priest offers to God — ἀπὸ προγόνων, “as my forefathers did,” ἐν καθαρᾷ συνειδήσει, “with a pure conscience.” Paul sees continuity between his Jewish heritage and his faith in Christ. Then: ἀδιάλειπτον ἔχω τὴν περὶ σοῦ μνείαν ἐν ταῖς δεήσεσίν μου, “How unceasing is my memory of you in my petitions” — δέησις from the pray family: specific requests — νυκτὸς καὶ ἡμέρας, “night and day.” A prisoner who could do little else could still pray.",
+      "words": [
+        {
+          "strongs": "G2168",
+          "hebrew": "εὐχαριστέω",
+          "translit": "eucharistéō",
+          "english": "thank"
+        },
+        {
+          "strongs": "G3000",
+          "hebrew": "λατρεύω",
+          "translit": "latreúō",
+          "english": "serve"
+        },
+        {
+          "strongs": "G4269",
+          "hebrew": "πρόγονος",
+          "translit": "prógonos",
+          "english": "forefathers"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        },
+        {
+          "strongs": "G89",
+          "hebrew": "ἀδιαλείπτως",
+          "translit": "adialeíptōs",
+          "english": "unceasing"
+        },
+        {
+          "strongs": "G3417",
+          "hebrew": "μνεία",
+          "translit": "mneía",
+          "english": "memory"
+        },
+        {
+          "strongs": "G1162",
+          "hebrew": "δέησις",
+          "translit": "déēsis",
+          "english": "petitions"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "longing to see you, remembering your tears, that I may be filled with joy;",
+      "understanding": "ἐπιποθῶν σε ἰδεῖν, “longing to see you” — ἐπιποθέω, intense yearning. μεμνημένος σου τῶν δακρύων, “remembering your tears” — probably the tears at their last parting. ἵνα χαρᾶς πληρωθῶ, “that I may be filled with joy.” The great apostle was a man with deep human affections, and he was not ashamed of them.",
+      "words": [
+        {
+          "strongs": "G1971",
+          "hebrew": "ἐπιποθέω",
+          "translit": "epipothéō",
+          "english": "longing"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "see"
+        },
+        {
+          "strongs": "G3403",
+          "hebrew": "μιμνήσκω",
+          "translit": "mimnḗskō",
+          "english": "remembering"
+        },
+        {
+          "strongs": "G1145",
+          "hebrew": "δακρύω",
+          "translit": "dakrýō",
+          "english": "tears"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        },
+        {
+          "strongs": "G4137",
+          "hebrew": "πληρόω",
+          "translit": "plēróō",
+          "english": "filled"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "having been reminded of the sincere faith that is in you; which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also.",
+      "understanding": "ὑπόμνησιν λαβὼν τῆς ἐν σοὶ ἀνυποκρίτου πίστεως, “having been reminded of the sincere faith that is in you” — ἀνυπόκριτος, unhypocritical, faith without a mask (1 Timothy 1:5). This faith ἐνῴκησεν πρῶτον, “lived first” — dwelt, made its home — ἐν τῇ μάμμῃ σου Λωΐδι, “in your grandmother Lois,” καὶ τῇ μητρί σου Εὐνίκῃ, “and your mother Eunice,” and, πέπεισμαι, “I am persuaded,” in you also. Faith was passed down three generations through the women of the family.",
+      "words": [
+        {
+          "strongs": "G5280",
+          "hebrew": "ὑπόμνησις",
+          "translit": "hypómnēsis",
+          "english": "reminded"
+        },
+        {
+          "strongs": "G505",
+          "hebrew": "ἀνυπόκριτος",
+          "translit": "anypókritos",
+          "english": "sincere"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1774",
+          "hebrew": "ἐνοικέω",
+          "translit": "enoikéō",
+          "english": "lived"
+        },
+        {
+          "strongs": "G3090",
+          "hebrew": "Λωΐς",
+          "translit": "Lōḯs",
+          "english": "Lois"
+        },
+        {
+          "strongs": "G2131",
+          "hebrew": "Εὐνίκη",
+          "translit": "Euníkē",
+          "english": "Eunice"
+        },
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "persuaded"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "For this cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands.",
+      "understanding": "δι᾽ ἣν αἰτίαν ἀναμιμνῄσκω σε, “For this cause, I remind you” — because your faith is real — ἀναζωπυρεῖν τὸ χάρισμα τοῦ θεοῦ, “that you should stir up the gift of God.” ἀναζωπυρέω means to rekindle a fire, to fan embers back into flame. The χάρισμα, grace-gift, was given διὰ τῆς ἐπιθέσεως τῶν χειρῶν μου, “through the laying on of my hands” (v. 6; compare 1 Timothy 4:14). Gifts can burn low through fear, discouragement or neglect; they must be fanned again.",
+      "words": [
+        {
+          "strongs": "G363",
+          "hebrew": "ἀναμιμνήσκω",
+          "translit": "anamimnḗskō",
+          "english": "remind"
+        },
+        {
+          "strongs": "G329",
+          "hebrew": "ἀναζωπυρέω",
+          "translit": "anazōpyréō",
+          "english": "stir up"
+        },
+        {
+          "strongs": "G5486",
+          "hebrew": "χάρισμα",
+          "translit": "chárisma",
+          "english": "gift"
+        },
+        {
+          "strongs": "G1936",
+          "hebrew": "ἐπίθεσις",
+          "translit": "epíthesis",
+          "english": "laying on"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hands"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For God didn’t give us a spirit of fear, but of power, love, and self-control.",
+      "understanding": "The reason Timothy can rekindle the fire: οὐ γὰρ ἔδωκεν ἡμῖν ὁ θεὸς πνεῦμα δειλίας, “For God didn’t give us a spirit of fear” — δειλία is cowardice, timidity, the fear that shrinks back. ἀλλὰ δυνάμεως, “but of power” — δύναμις from the power family: God's inherent ability to accomplish; καὶ ἀγάπης, “love” — the love family's ἀγάπη; καὶ σωφρονισμοῦ, “and self-control” — a disciplined, sound mind. Power without love becomes harsh; love without self-control becomes soft. The Spirit gives all three.",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G1167",
+          "hebrew": "δειλία",
+          "translit": "deilía",
+          "english": "fear"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G4995",
+          "hebrew": "σωφρονισμός",
+          "translit": "sōphronismós",
+          "english": "self-control"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Therefore don’t be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God,",
+      "understanding": "μὴ οὖν ἐπαισχυνθῇς, “Therefore don’t be ashamed” of τὸ μαρτύριον τοῦ κυρίου ἡμῶν, “the testimony of our Lord” — the gospel about Him — μηδὲ ἐμὲ τὸν δέσμιον αὐτοῦ, “nor of me his prisoner.” Paul is not Caesar's prisoner but Christ's. Instead: συγκακοπάθησον τῷ εὐαγγελίῳ, “endure hardship for the Good News” — literally ‘suffer evil together with’ the gospel — κατὰ δύναμιν θεοῦ, “according to the power of God.” The same δύναμις of verse 7 enables suffering.",
+      "words": [
+        {
+          "strongs": "G1870",
+          "hebrew": "ἐπαισχύνομαι",
+          "translit": "epaischýnomai",
+          "english": "ashamed"
+        },
+        {
+          "strongs": "G3142",
+          "hebrew": "μαρτύριον",
+          "translit": "martýrion",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G1198",
+          "hebrew": "δέσμιος",
+          "translit": "désmios",
+          "english": "prisoner"
+        },
+        {
+          "strongs": "G4777",
+          "hebrew": "συγκακοπαθέω",
+          "translit": "synkakopathéō",
+          "english": "endure hardship"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,",
+      "understanding": "The God who empowers is the God “who saved (σώσαντος) us and called (καλέσαντος) us with a holy (ἁγίᾳ) calling (κλήσει).” Not κατὰ τὰ ἔργα ἡμῶν, “not according to our works,” ἀλλὰ κατὰ ἰδίαν πρόθεσιν καὶ χάριν, “but according to his own purpose and grace,” which was given to us in Christ Jesus πρὸ χρόνων αἰωνίων, “before times eternal” — a time-family phrase: before the ages of time began. Salvation was planned and given in Christ before creation.",
+      "words": [
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G2821",
+          "hebrew": "κλῆσις",
+          "translit": "klēsis",
+          "english": "calling"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G4286",
+          "hebrew": "πρόθεσις",
+          "translit": "próthesis",
+          "english": "purpose"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G5550",
+          "hebrew": "χρόνος",
+          "translit": "chrónos",
+          "english": "times"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiṓnios",
+          "english": "eternal"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.",
+      "understanding": "What was given before time φανερωθεῖσαν δὲ νῦν, “has now been revealed,” διὰ τῆς ἐπιφανείας τοῦ σωτῆρος ἡμῶν Χριστοῦ Ἰησοῦ, “by the appearing of our Savior, Christ Jesus” — ἐπιφάνεια, the shining forth; here His first coming. Two achievements: καταργήσαντος μὲν τὸν θάνατον, “who abolished death” — made it powerless, put it out of action — φωτίσαντος δὲ ζωὴν καὶ ἀφθαρσίαν, “and brought life and immortality to light” — ἀφθαρσία, incorruptibility. A condemned man writes that death has been abolished.",
+      "words": [
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G2015",
+          "hebrew": "ἐπιφάνεια",
+          "translit": "epipháneia",
+          "english": "appearing"
+        },
+        {
+          "strongs": "G4990",
+          "hebrew": "σωτήρ",
+          "translit": "sōtḗr",
+          "english": "Savior"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "abolished"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G5461",
+          "hebrew": "φωτίζω",
+          "translit": "phōtízō",
+          "english": "brought to light"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G861",
+          "hebrew": "ἀφθαρσία",
+          "translit": "aphtharsía",
+          "english": "immortality"
+        },
+        {
+          "strongs": "G2098",
+          "hebrew": "εὐαγγέλιον",
+          "translit": "euangélion",
+          "english": "Good News"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For this, I was appointed as a preacher, an apostle, and a teacher of the Gentiles.",
+      "understanding": "εἰς ὃ ἐτέθην ἐγὼ κῆρυξ καὶ ἀπόστολος καὶ διδάσκαλος, “For this, I was appointed as a preacher (a herald), an apostle, and a teacher of the Gentiles” (the WEB follows manuscripts that add ‘of the Gentiles’). The same three roles as 1 Timothy 2:7: herald announcing the King's news, apostle sent with authority, teacher explaining it.",
+      "words": [
+        {
+          "strongs": "G5087",
+          "hebrew": "τίθημι",
+          "translit": "títhēmi",
+          "english": "appointed"
+        },
+        {
+          "strongs": "G2783",
+          "hebrew": "κῆρυξ",
+          "translit": "kēryx",
+          "english": "preacher"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostle"
+        },
+        {
+          "strongs": "G1320",
+          "hebrew": "διδάσκαλος",
+          "translit": "didáskalos",
+          "english": "teacher"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For this cause I also suffer these things. Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.",
+      "understanding": "δι᾽ ἣν αἰτίαν καὶ ταῦτα πάσχω, “For this cause I also suffer these things” — prison and chains — ἀλλ᾽ οὐκ ἐπαισχύνομαι, “Yet I am not ashamed.” Why? οἶδα γὰρ ᾧ πεπίστευκα, “for I know (οἶδα, from the know family: settled, certain knowledge) him whom I have believed” — not ‘what’ but ‘whom’: faith rests on a Person. καὶ πέπεισμαι, “and I am persuaded,” that He is able φυλάξαι τὴν παραθήκην μου, “to guard that which I have committed to him” — παραθήκη, the deposit — εἰς ἐκείνην τὴν ἡμέραν, “against that day.” Paul has entrusted his life to Christ, and Christ will keep it safe until the day of His appearing.",
+      "words": [
+        {
+          "strongs": "G3958",
+          "hebrew": "πάσχω",
+          "translit": "páschō",
+          "english": "suffer"
+        },
+        {
+          "strongs": "G1870",
+          "hebrew": "ἐπαισχύνομαι",
+          "translit": "epaischýnomai",
+          "english": "ashamed"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believed"
+        },
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "persuaded"
+        },
+        {
+          "strongs": "G1415",
+          "hebrew": "δυνατός",
+          "translit": "dynatós",
+          "english": "able"
+        },
+        {
+          "strongs": "G5442",
+          "hebrew": "φυλάσσω",
+          "translit": "phylássō",
+          "english": "guard"
+        },
+        {
+          "strongs": "G3866",
+          "hebrew": "παραθήκη",
+          "translit": "parathḗkē",
+          "english": "committed"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Hold the pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus.",
+      "understanding": "ὑποτύπωσιν ἔχε ὑγιαινόντων λόγων, “Hold the pattern of sound words” — ὑποτύπωσις, a sketch, an outline (the ‘example’ of 1 Timothy 1:16); ὑγιαίνω, healthy. The apostolic teaching is a pattern to follow, not a rough idea to be improved. And hold it ἐν πίστει καὶ ἀγάπῃ, “in faith and love which is in Christ Jesus” — truth held without love becomes harsh; truth held without faith becomes dead.",
+      "words": [
+        {
+          "strongs": "G5296",
+          "hebrew": "ὑποτύπωσις",
+          "translit": "hypotýpōsis",
+          "english": "pattern"
+        },
+        {
+          "strongs": "G5198",
+          "hebrew": "ὑγιαίνω",
+          "translit": "hygiaínō",
+          "english": "sound"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "words"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "That good thing which was committed to you, guard through the Holy Spirit who dwells in us.",
+      "understanding": "τὴν καλὴν παραθήκην φύλαξον, “That good thing which was committed to you, guard” — the beautiful deposit (καλός, from the good family). Christ guards what Paul entrusted to Him (v. 12); Timothy must guard what Christ has entrusted to him. And not alone: διὰ πνεύματος ἁγίου τοῦ ἐνοικοῦντος ἐν ἡμῖν, “through the Holy Spirit who dwells in us” — ἐνοικέω, to live at home inside. The Spirit who lives in believers is the true guardian of the truth.",
+      "words": [
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G3866",
+          "hebrew": "παραθήκη",
+          "translit": "parathḗkē",
+          "english": "committed"
+        },
+        {
+          "strongs": "G5442",
+          "hebrew": "φυλάσσω",
+          "translit": "phylássō",
+          "english": "guard"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G1774",
+          "hebrew": "ἐνοικέω",
+          "translit": "enoikéō",
+          "english": "dwells"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "This you know, that all who are in Asia turned away from me; of whom are Phygelus and Hermogenes.",
+      "understanding": "A painful reality: “This you know, that all who are in Asia ἀπεστράφησάν με, turned away from me” — perhaps when Paul was arrested, the believers of the province of Asia, where he had worked so long, distanced themselves from him. Two names: Φύγελος, Phygelus, and Ἑρμογένης, Hermogenes. We know nothing else about them — their only memorial is their desertion.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G654",
+          "hebrew": "ἀποστρέφω",
+          "translit": "apostréphō",
+          "english": "turned away"
+        },
+        {
+          "strongs": "G5436",
+          "hebrew": "Φύγελλος",
+          "translit": "Phýgellos",
+          "english": "Phygelus"
+        },
+        {
+          "strongs": "G2061",
+          "hebrew": "Ἑρμογένης",
+          "translit": "Hermogénēs",
+          "english": "Hermogenes"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain,",
+      "understanding": "In contrast, a faithful friend: “May the Lord grant mercy (ἔλεος) to the house of Ὀνησιφόρου, Onesiphorus” — his name means ‘bringing profit’ — “for he often ἀνέψυξεν, refreshed me” — literally ‘cooled me off’, gave relief like a cool breeze — “and was not ashamed (ἐπαισχύνθη) of my chain (ἅλυσιν).” Being associated with a condemned prisoner was dangerous; Onesiphorus did not care.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1656",
+          "hebrew": "ἔλεος",
+          "translit": "éleos",
+          "english": "mercy"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G3683",
+          "hebrew": "Ὀνησίφορος",
+          "translit": "Onēsíphoros",
+          "english": "Onesiphorus"
+        },
+        {
+          "strongs": "G404",
+          "hebrew": "ἀναψύχω",
+          "translit": "anapsýchō",
+          "english": "refreshed"
+        },
+        {
+          "strongs": "G1870",
+          "hebrew": "ἐπαισχύνομαι",
+          "translit": "epaischýnomai",
+          "english": "ashamed"
+        },
+        {
+          "strongs": "G254",
+          "hebrew": "ἅλυσις",
+          "translit": "hálysis",
+          "english": "chain"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "but when he was in Rome, he sought me diligently, and found me",
+      "understanding": "ἀλλὰ γενόμενος ἐν Ῥώμῃ σπουδαιότερον ἐζήτησέν με καὶ εὗρεν, “but when he was in Rome, he sought me diligently, and found me.” Finding a particular prisoner in Nero's Rome was not easy, and asking around for a Christian prisoner was risky. Onesiphorus kept searching until he found him. True friendship searches for those in chains.",
+      "words": [
+        {
+          "strongs": "G4706",
+          "hebrew": "σπουδαιότερον",
+          "translit": "spoudaióteron",
+          "english": "diligently"
+        },
+        {
+          "strongs": "G2212",
+          "hebrew": "ζητέω",
+          "translit": "zētéō",
+          "english": "sought"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "(the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well.",
+      "understanding": "A prayer in parentheses: δῴη αὐτῷ ὁ κύριος εὑρεῖν ἔλεος παρὰ κυρίου ἐν ἐκείνῃ τῇ ἡμέρᾳ, “(the Lord grant to him to find the Lord’s mercy in that day).” He found Paul; may he find mercy. Because Paul speaks of his household rather than of him (v. 16; 4:19), some think Onesiphorus had died; the text does not say so, and no teaching should be built on this one prayer. Paul adds that Timothy knows βέλτιον, “very well,” how much he διηκόνησεν, “served,” at Ephesus — the verb of the servant family's διάκονος.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "find"
+        },
+        {
+          "strongs": "G1656",
+          "hebrew": "ἔλεος",
+          "translit": "éleos",
+          "english": "mercy"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G1247",
+          "hebrew": "διακονέω",
+          "translit": "diakonéō",
+          "english": "served"
+        },
+        {
+          "strongs": "G2181",
+          "hebrew": "Ἔφεσος",
+          "translit": "Éphesos",
+          "english": "Ephesus"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Fanning the Embers",
+      "verseRef": "v. 6-7",
+      "image": "Picture a fire in a stone hearth on a cold night. Earlier it blazed and warmed the whole room, but it has been left alone. Now there are only a few glowing embers under a layer of grey ash. The room is getting cold. Someone kneels down, brushes away the ash, adds some dry kindling and blows gently. A flicker, then a flame, then the whole fire springs back to life. The fuel was there all along; it only needed stirring.",
+      "meaning": "Paul writes, “I remind you that you should stir up the gift of God which is in you through the laying on of my hands. For God didn’t give us a spirit of fear, but of power, love, and self-control” (vv. 6–7). The word ἀναζωπυρέω means to rekindle a fire. Fear, discouragement and neglect cover our gifts with ash. The Spirit has not left; the gift has not been withdrawn. What has God given you that has burned low? Brush off the ash of fear and fan it back into flame."
+    },
+    {
+      "title": "The Banker and the Deposit",
+      "verseRef": "v. 12-14",
+      "image": "Picture a traveller in the ancient world about to go on a dangerous journey. He takes everything valuable he owns — gold, documents, the deeds to his house — to a trusted guardian and leaves it there for safekeeping. As he sets out, he does not worry about his treasure; he knows who has it. Now picture Paul in prison. He has deposited his life, his soul, his future with Christ, and he is not anxious. And Christ, in turn, has placed a deposit in Timothy's hands — the gospel — and tells him to guard it.",
+      "meaning": "Two deposits are pictured here. First: “for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day” (v. 12). Second: “That good thing which was committed to you, guard through the Holy Spirit who dwells in us” (v. 14). Christ keeps you; you keep His truth. You can rest in His keeping and work at your guarding, knowing the Holy Spirit lives in you to help."
+    },
+    {
+      "title": "The Friend Who Kept Searching",
+      "verseRef": "v. 15-18",
+      "image": "Picture the busy streets of Rome. Onesiphorus arrives from Ephesus and begins asking where the Christian prisoner Paul is held. People look away; some warn him that it is dangerous to ask. He goes from prison to prison, guardhouse to guardhouse, day after day. Finally, in a dark cell, he finds the old apostle in chains. He sits down beside him, brings food and news, and for the first time in weeks Paul feels refreshed, like someone who has been given cool water in the heat.",
+      "meaning": "In contrast to those in Asia who turned away (v. 15), Paul remembers Onesiphorus: “for he often refreshed me, and was not ashamed of my chain, but when he was in Rome, he sought me diligently, and found me” (vv. 16–17). Faithfulness is often shown in simple, costly loyalty: visiting the imprisoned, standing with the ashamed, searching for the forgotten. Who in your life is ‘in chains’ — sick, imprisoned, rejected, lonely? Be their Onesiphorus."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Greeting and Thanksgiving (v. 1-5)",
+        "body": "Paul, an apostle by God's will according to the promise of life in Christ, greets his beloved son Timothy, thanks God as he remembers him constantly in prayer, longs to see him, recalls his tears, and remembers his sincere faith, first in Lois and Eunice."
+      },
+      {
+        "label": "Rekindle the Gift (v. 6-7)",
+        "body": "Timothy must fan into flame the gift of God received through Paul's hands, because God gave not a spirit of fear but of power, love and self-control."
+      },
+      {
+        "label": "Do Not Be Ashamed — Share in Suffering (v. 8-12)",
+        "body": "Do not be ashamed of the testimony about the Lord or of Paul His prisoner, but share in suffering for the gospel by God's power — the God who saved and called us by His own purpose and grace, given in Christ before time began and now revealed through Christ's appearing, who abolished death and brought life and immortality to light; for this Paul suffers, unashamed, knowing whom he has believed."
+      },
+      {
+        "label": "Guard the Good Deposit (v. 13-14)",
+        "body": "Timothy must follow the pattern of sound words in faith and love, and guard the good deposit through the indwelling Holy Spirit."
+      },
+      {
+        "label": "Deserters and a Faithful Friend (v. 15-18)",
+        "body": "All in Asia turned away from Paul, including Phygelus and Hermogenes; but Onesiphorus often refreshed him, was not ashamed of his chains, searched for him in Rome and found him; may the Lord grant him mercy on that day."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "A Father's Last Letter",
+        "paragraphs": [
+          "2 Timothy begins with life: “Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus” (v. 1). It is striking that a man facing execution opens with the promise of life. Then comes warmth: Timothy is ‘my beloved child’ (v. 2). Paul thanks God for him and prays for him “night and day” (v. 3). He remembers Timothy's tears at their last parting and longs to see him again, “that I may be filled with joy” (v. 4). The great theologian was also a loving spiritual father.",
+          "Paul remembers Timothy's faith and where it came from: “the sincere faith that is in you; which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also” (v. 5). Timothy's father was a Greek and apparently not a believer (Acts 16:1), but faithful women passed on the faith to him from childhood (3:15). Never underestimate the influence of a godly grandmother or mother. The faith that would one day lead the church in Ephesus was first taught at a kitchen table in Lystra.",
+          "Because Timothy's faith is real, Paul can urge him: “I remind you that you should stir up the gift of God which is in you through the laying on of my hands” (v. 6). The gift had not disappeared, but it seems to have burned low. And the reason is given in the next verse: fear. “For God didn’t give us a spirit of fear, but of power, love, and self-control” (v. 7). Timothy faced a dangerous time, opposition in the church and the imminent loss of his mentor. Paul reminds him that the Spirit he received is not a spirit of timidity but of power to act, love to keep serving, and a disciplined mind to stay steady."
+        ]
+      },
+      {
+        "heading": "Not Ashamed",
+        "paragraphs": [
+          "The key word of chapter 1 is ‘ashamed’. Paul writes: “Therefore don’t be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God” (v. 8). In Nero's Rome, being linked to a condemned Christian prisoner was socially and physically dangerous. The temptation was to keep quiet and keep one's distance. Paul calls Timothy instead to share in suffering, and he grounds it in the power of God.",
+          "Then he reminds Timothy what this gospel is: God “who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal, but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News” (vv. 9–10). Salvation is by grace, planned before time, revealed in Christ. And Christ has abolished death — made it powerless. For a man facing execution, that is not theory; it is his hope.",
+          "Paul applies it to himself: “For this cause I also suffer these things. Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day” (v. 12). Paul does not say ‘I know what I have believed’, though he did; he says ‘whom’. Faith rests on a Person. And because Paul has entrusted himself to Christ, he is free from fear. The One who holds him is able to keep him."
+        ]
+      },
+      {
+        "heading": "Guard the Deposit, Remember the Faithful",
+        "paragraphs": [
+          "Paul gives Timothy two commands about the truth. First: “Hold the pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus” (v. 13). The apostolic teaching is a pattern, a model to follow closely, and it must be held in faith and love, not with cold harshness. Second: “That good thing which was committed to you, guard through the Holy Spirit who dwells in us” (v. 14). The deposit is the gospel; the guard is the Spirit living within believers. Timothy does not guard it alone.",
+          "Then come two contrasting examples. “This you know, that all who are in Asia turned away from me; of whom are Phygelus and Hermogenes” (v. 15). When Paul was arrested, many who once followed him distanced themselves. It must have been one of the deepest pains of his life. But there was a faithful friend: “May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain, but when he was in Rome, he sought me diligently, and found me” (vv. 16–17).",
+          "Onesiphorus is the living example of verse 8. He was not ashamed of Paul's chains. He searched until he found him and brought him refreshment. Paul prays for him: “the Lord grant to him to find the Lord’s mercy in that day” (v. 18). Onesiphorus looked for Paul and found him; Paul prays that he will look for mercy on judgment day and find it. Faithfulness to Christ's suffering servants is noticed by God and will not be forgotten."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Courage, Calling and Christ's Victory Over Death",
+      "paragraphs": [
+        "Paul's refusal to be ashamed echoes his great declaration in Romans: “For I am not ashamed of the Good News of Christ, because it is the power of God for salvation for everyone who believes” (Romans 1:16). Jesus Himself warned, “For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him, when he comes in his Father’s glory, with the holy angels” (Mark 8:38).",
+        "The truth that salvation is by grace and not works runs throughout Paul's letters: “for by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, that no one would boast” (Ephesians 2:8–9). And God's plan before time appears in Ephesians: “even as he chose us in him before the foundation of the world” (Ephesians 1:4).",
+        "Christ's abolition of death is the climax of 1 Corinthians 15: “The last enemy that will be abolished is death” (1 Corinthians 15:26), and “Death, where is your sting? Hades, where is your victory?” (1 Corinthians 15:55). Hebrews explains how: Christ shared our humanity “that through death he might bring to nothing him who had the power of death, that is, the devil, and might deliver all of them who through fear of death were all their lifetime subject to bondage” (Hebrews 2:14–15). That is why Paul could face execution without fear."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Stir up / rekindle",
+      "hebrew": "ἀναζωπυρέω",
+      "translit": "anazōpyréō",
+      "strongs": "G329",
+      "verses": "v. 6",
+      "insight": "Strong's: “to re-enkindle.” It appears only here in the New Testament. It combines ἀνά, again, ζωός, alive, and πῦρ, fire: to make the fire alive again. The gift God gave Timothy was not lost, but it had cooled. Gifts are not maintained automatically; they need to be stirred, used and fanned into flame. Fear smothers gifts; faith in the God who gives power, love and self-control rekindles them."
+    },
+    {
+      "english": "Fear / timidity / cowardice",
+      "hebrew": "δειλία",
+      "translit": "deilía",
+      "strongs": "G1167",
+      "verses": "v. 7",
+      "insight": "Strong's: “timidity.” It appears only here in the New Testament. Its related adjective δειλός describes the ‘fearful’ disciples in the storm (Matthew 8:26) and the ‘cowardly’ who are excluded from the new creation (Revelation 21:8). It is not healthy caution but the fear that makes a person shrink back from obedience. God has not given His people this spirit. Fear may come, but it is not from Him."
+    },
+    {
+      "english": "Self-control / sound mind",
+      "hebrew": "σωφρονισμός",
+      "translit": "sōphronismós",
+      "strongs": "G4995",
+      "verses": "v. 7",
+      "insight": "Strong's: “discipline, i.e. self-control.” It appears only here in the New Testament. It belongs to the σώφρων family — sound-minded, sensible, self-controlled — words that run through the pastoral letters (1 Timothy 3:2; Titus 2:2–6). The Spirit gives not only power and love but a disciplined, clear mind that is not swept away by panic or emotion. Courage without self-control becomes rashness; the Spirit gives both."
+    },
+    {
+      "english": "Be ashamed",
+      "hebrew": "ἐπαισχύνομαι",
+      "translit": "epaischýnomai",
+      "strongs": "G1870",
+      "verses": "v. 8, 12, 16",
+      "insight": "Strong's: “to feel shame for something.” It appears three times in this chapter: Timothy must not be ashamed (v. 8); Paul is not ashamed (v. 12); Onesiphorus was not ashamed (v. 16). In Romans 1:16 Paul says he is not ashamed of the gospel, and Jesus warned of being ashamed of Him (Mark 8:38). Shame is a powerful weapon against witness. The cure is knowing whom you have believed and remembering His power."
+    },
+    {
+      "english": "Deposit / thing committed in trust",
+      "hebrew": "παραθήκη",
+      "translit": "parathḗkē",
+      "strongs": "G3866",
+      "verses": "v. 12, 14",
+      "insight": "Strong's: “a deposit, i.e. (figuratively) trust.” In verse 12 it is what Paul has entrusted to Christ — his life and future — which Christ will guard. In verse 14 it is what Christ has entrusted to Timothy — the gospel — which Timothy must guard by the Spirit. The same word appears in 1 Timothy 6:20. God keeps us; we keep His truth. Both are held in trust until ‘that day’."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the gift that has cooled in you, the fear that holds you back, and the friends who need you.",
+    "items": [
+      {
+        "title": "Fan the Flame",
+        "body": "Is there a gift God has given you — teaching, encouraging, serving, giving, leading, praying — that has burned low? Perhaps fear, discouragement, criticism or busyness has covered it with ash. The Spirit is not condemning you; He is inviting you to stir it up. Ask Him to show you one practical step to use that gift again this week, and take it."
+      },
+      {
+        "title": "Not a Spirit of Fear",
+        "body": "Fear may be shaping your decisions: fear of people, of failure, of suffering, of being associated with unpopular truth. The Spirit reminds you that God did not give you a spirit of fear, but of power, love and self-control. Name the fear honestly before Him. Then ask Him to replace it with His power to act, His love to serve, and His sound mind to stay steady."
+      },
+      {
+        "title": "Be an Onesiphorus",
+        "body": "While many deserted Paul, Onesiphorus searched for him and refreshed him, unashamed of his chains. The Spirit may be bringing someone to mind who is isolated, imprisoned, sick, rejected or forgotten. Go and find them. Bring refreshment. Your faithfulness to them is faithfulness to Christ."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Gift Check",
+        "body": "List the spiritual gifts and abilities God has given you. Mark any that you have stopped using. Ask why — fear, discouragement, neglect? Choose one to rekindle this month (v. 6)."
+      },
+      {
+        "title": "The Shame Check",
+        "body": "In what situations are you tempted to hide your faith or distance yourself from other believers who are suffering or unpopular (v. 8)? Write down one and ask God for courage."
+      },
+      {
+        "title": "The Heritage Check",
+        "body": "Who passed the faith on to you (v. 5)? Thank God for them. Then ask: to whom am I passing it on?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Write to Your Timothy",
+        "body": "Paul wrote this letter to his spiritual son. Think of someone younger in faith whom you care about. Write them a letter or message this week: tell them you thank God for them, remind them of the sincere faith you see in them, encourage them not to be afraid, and urge them to use their gifts. Pray for them daily for a month."
+      },
+      {
+        "title": "A Visit to the Chained",
+        "body": "Follow Onesiphorus. This month, visit or contact someone who is ‘in chains’: in prison, in hospital, housebound, or isolated because of their faith. Take something practical — food, a book, help with a task — and spend time listening. Pray with them if they are open. Afterwards, ask God how to make this a regular part of your life."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, thank You for the promise of life in Christ Jesus, which no prison or death can cancel. Thank You for those who passed the faith on to me. Make my faith sincere, without a mask. Fan into flame the gift You have given me, and remove the ash of fear and discouragement. Thank You that You have not given me a spirit of fear, but of power, love and self-control. Keep me from being ashamed of the testimony of my Lord or of those who suffer for Him. Give me strength to share in suffering for the gospel by Your power. Thank You that You saved me and called me with a holy calling, not because of my works but because of Your own purpose and grace, given in Christ before time began. Thank You that Jesus abolished death and brought life and immortality to light. I know whom I have believed, and I am persuaded that He is able to guard what I have entrusted to Him until that day. Help me hold to the pattern of sound words in faith and love, and guard the good deposit through the Holy Spirit who lives in me. Make me faithful like Onesiphorus, refreshing those in chains. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Timothy Joins Paul at Lystra",
+      "ref": "Acts 16:1-5",
+      "relatedVerses": "v. 2, 5-6",
+      "summary": "On his second missionary journey, Paul came to Derbe and Lystra, where he met a disciple named Timothy, “the son of a Jewess who believed; but his father was a Greek” (Acts 16:1). The believers in Lystra and Iconium spoke well of him, and Paul wanted Timothy to travel with him. Timothy's faith had been nurtured by his mother Eunice and grandmother Lois, and now it would carry him into a lifetime of ministry beside Paul. 2 Timothy 1 looks back on that beginning: the sincere faith first found in his grandmother and mother, and the gift given when Paul laid hands on him."
+    },
+    {
+      "title": "Peter's Denial and Restoration",
+      "ref": "Luke 22:54-62",
+      "relatedVerses": "v. 8, 12, 15",
+      "summary": "On the night Jesus was arrested, Peter followed at a distance into the high priest's courtyard. Three times people recognised him as one of Jesus' followers, and three times he denied knowing Him. As the rooster crowed, the Lord turned and looked at Peter, and Peter went out and wept bitterly. Fear and shame made a courageous disciple deny his Lord. Yet Jesus restored him, and Peter later preached boldly and suffered for Christ. 2 Timothy 1 calls believers not to be ashamed of the testimony of the Lord or of His suffering servants — and it shows that even those who have been ashamed can be restored and strengthened by the Spirit of power, love and self-control."
+    },
+    {
+      "title": "Ebed-melech Rescues Jeremiah",
+      "ref": "Jeremiah 38:1-13",
+      "relatedVerses": "v. 16-18",
+      "summary": "When the prophet Jeremiah warned that Jerusalem would fall, the officials threw him into a muddy cistern to die, and he sank into the mud. No one in the royal court spoke up — except Ebed-melech, an Ethiopian servant in the king's house. He went to the king and pleaded for Jeremiah, then took thirty men, old rags and ropes, and lifted the prophet out of the pit. Later God promised Ebed-melech that he would be delivered when the city fell, because he trusted in the LORD. Like Onesiphorus, he was not ashamed of a persecuted servant of God, and he took risks to bring relief. God remembered him."
+    }
+  ]
+}

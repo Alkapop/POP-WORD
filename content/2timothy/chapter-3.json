@@ -1,0 +1,952 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Timothy",
+  "chapter": 3,
+  "chapterTitle": "Grievous Times and the God-Breathed Word",
+  "themeTitle": "“Every Scripture Is God-Breathed”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "But know this, that in the last days, grievous times will come.",
+      "understanding": "τοῦτο δὲ γίνωσκε, “But know this” — γινώσκω from the know family: understand it, take it in — ὅτι ἐν ἐσχάταις ἡμέραις, “that in the last days.” In the New Testament the ‘last days’ began with Christ's first coming (Acts 2:17; Hebrews 1:2) and run until His return; Paul is describing Timothy's own time as well as the future. ἐνστήσονται καιροὶ χαλεποί, “grievous times will come” — καιρός from the time family: seasons with a particular character; χαλεπός, hard, dangerous, savage (used of the violent demoniacs in Matthew 8:28).",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2078",
+          "hebrew": "ἔσχατος",
+          "translit": "éschatos",
+          "english": "last"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G1764",
+          "hebrew": "ἐνίστημι",
+          "translit": "enístēmi",
+          "english": "will come"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "times"
+        },
+        {
+          "strongs": "G5467",
+          "hebrew": "χαλεπός",
+          "translit": "chalepós",
+          "english": "grievous"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy,",
+      "understanding": "The list begins and ends with love gone wrong. ἔσονται γὰρ οἱ ἄνθρωποι φίλαυτοι, “For men will be lovers of self” — love curved inward. φιλάργυροι, “lovers of money” — the very root of evil that Paul had already warned Timothy about in his first letter (1 Timothy 6:10). Then ἀλαζόνες, “boastful”; ὑπερήφανοι, “arrogant” — showing oneself above others; βλάσφημοι, “blasphemers”; γονεῦσιν ἀπειθεῖς, “disobedient to parents”; ἀχάριστοι, “unthankful”; ἀνόσιοι, “unholy.” When self is the centre of love, every relationship is poisoned: with God, parents and others.",
+      "words": [
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "men"
+        },
+        {
+          "strongs": "G5367",
+          "hebrew": "φίλαυτος",
+          "translit": "phílautos",
+          "english": "lovers of self"
+        },
+        {
+          "strongs": "G5366",
+          "hebrew": "φιλάργυρος",
+          "translit": "philárgyros",
+          "english": "lovers of money"
+        },
+        {
+          "strongs": "G213",
+          "hebrew": "ἀλαζών",
+          "translit": "alazṓn",
+          "english": "boastful"
+        },
+        {
+          "strongs": "G5244",
+          "hebrew": "ὑπερήφανος",
+          "translit": "hyperḗphanos",
+          "english": "arrogant"
+        },
+        {
+          "strongs": "G989",
+          "hebrew": "βλάσφημος",
+          "translit": "blásphēmos",
+          "english": "blasphemers"
+        },
+        {
+          "strongs": "G1118",
+          "hebrew": "γονεύς",
+          "translit": "goneús",
+          "english": "parents"
+        },
+        {
+          "strongs": "G545",
+          "hebrew": "ἀπειθής",
+          "translit": "apeithḗs",
+          "english": "disobedient"
+        },
+        {
+          "strongs": "G884",
+          "hebrew": "ἀχάριστος",
+          "translit": "acháristos",
+          "english": "unthankful"
+        },
+        {
+          "strongs": "G462",
+          "hebrew": "ἀνόσιος",
+          "translit": "anósios",
+          "english": "unholy"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "without natural affection, unforgiving, slanderers, without self-control, fierce, not lovers of good,",
+      "understanding": "ἄστοργοι, “without natural affection” — lacking στοργή, the family love between parents and children (the opposite of φιλόστοργος in Romans 12:10); ἄσπονδοι, “unforgiving” — literally ‘without a libation’, refusing any truce; διάβολοι, “slanderers” — the devil's own name (1 Timothy 3:11); ἀκρατεῖς, “without self-control”; ἀνήμεροι, “fierce” — untamed, savage; ἀφιλάγαθοι, “not lovers of good” — another love-family compound: love withdrawn from goodness itself.",
+      "words": [
+        {
+          "strongs": "G794",
+          "hebrew": "ἄστοργος",
+          "translit": "ástorgos",
+          "english": "without natural affection"
+        },
+        {
+          "strongs": "G786",
+          "hebrew": "ἄσπονδος",
+          "translit": "áspondos",
+          "english": "unforgiving"
+        },
+        {
+          "strongs": "G1228",
+          "hebrew": "διάβολος",
+          "translit": "diábolos",
+          "english": "slanderers"
+        },
+        {
+          "strongs": "G193",
+          "hebrew": "ἀκρατής",
+          "translit": "akratḗs",
+          "english": "without self-control"
+        },
+        {
+          "strongs": "G434",
+          "hebrew": "ἀνήμερος",
+          "translit": "anḗmeros",
+          "english": "fierce"
+        },
+        {
+          "strongs": "G865",
+          "hebrew": "ἀφιλάγαθος",
+          "translit": "aphilágathos",
+          "english": "not lovers of good"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "traitors, headstrong, conceited, lovers of pleasure rather than lovers of God;",
+      "understanding": "προδόται, “traitors” — betrayers; προπετεῖς, “headstrong” — falling forward, reckless; τετυφωμένοι, “conceited” — wrapped in smoke (1 Timothy 3:6; 6:4). And the summary: φιλήδονοι μᾶλλον ἢ φιλόθεοι, “lovers of pleasure rather than lovers of God.” Two more love-family compounds, set against each other. The problem of the last days is not a lack of love but a misdirection of it: self, money and pleasure loved in God's place.",
+      "words": [
+        {
+          "strongs": "G4273",
+          "hebrew": "προδότης",
+          "translit": "prodótēs",
+          "english": "traitors"
+        },
+        {
+          "strongs": "G4312",
+          "hebrew": "προπετής",
+          "translit": "propetḗs",
+          "english": "headstrong"
+        },
+        {
+          "strongs": "G5187",
+          "hebrew": "τυφόω",
+          "translit": "typhóō",
+          "english": "conceited"
+        },
+        {
+          "strongs": "G5369",
+          "hebrew": "φιλήδονος",
+          "translit": "philḗdonos",
+          "english": "lovers of pleasure"
+        },
+        {
+          "strongs": "G5377",
+          "hebrew": "φιλόθεος",
+          "translit": "philótheos",
+          "english": "lovers of God"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "holding a form of godliness, but having denied its power. Turn away from these, also.",
+      "understanding": "Two word families in one line: ἔχοντες μόρφωσιν εὐσεβείας, “holding a form of godliness” — μόρφωσις is an outward shape, an appearance; εὐσέβεια, the key word of the pastoral letters. τὴν δὲ δύναμιν αὐτῆς ἠρνημένοι, “but having denied its power” — δύναμις from the power family: the inherent power that makes godliness real and transforming. These people are religious on the outside, but they reject the power that changes lives. καὶ τούτους ἀποτρέπου, “Turn away from these, also.”",
+      "words": [
+        {
+          "strongs": "G3446",
+          "hebrew": "μόρφωσις",
+          "translit": "mórphōsis",
+          "english": "form"
+        },
+        {
+          "strongs": "G2150",
+          "hebrew": "εὐσέβεια",
+          "translit": "eusébeia",
+          "english": "godliness"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G720",
+          "hebrew": "ἀρνέομαι",
+          "translit": "arnéomai",
+          "english": "denied"
+        },
+        {
+          "strongs": "G665",
+          "hebrew": "ἀποτρέπω",
+          "translit": "apotrépō",
+          "english": "Turn away"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "For some of these are people who creep into houses, and take captive gullible women loaded down with sins, led away by various lusts,",
+      "understanding": "Some of them ἐνδύνοντες εἰς τὰς οἰκίας, “creep into houses” — worm their way in — καὶ αἰχμαλωτεύοντες, “and take captive” — prisoners of war — γυναικάρια, “gullible women” — literally ‘little women’, a word of contempt for the false teachers' targets, not for women in general. These particular people were σεσωρευμένα ἁμαρτίαις, “loaded down with sins” — weighed down with guilt — ἀγόμενα ἐπιθυμίαις ποικίλαις, “led away by various lusts.” False teachers prey on burdened consciences and restless desires.",
+      "words": [
+        {
+          "strongs": "G1744",
+          "hebrew": "ἐνδύνω",
+          "translit": "endýnō",
+          "english": "creep"
+        },
+        {
+          "strongs": "G3614",
+          "hebrew": "οἰκία",
+          "translit": "oikía",
+          "english": "houses"
+        },
+        {
+          "strongs": "G162",
+          "hebrew": "αἰχμαλωτεύω",
+          "translit": "aichmalōteúō",
+          "english": "take captive"
+        },
+        {
+          "strongs": "G1133",
+          "hebrew": "γυναικάριον",
+          "translit": "gynaikárion",
+          "english": "gullible women"
+        },
+        {
+          "strongs": "G4987",
+          "hebrew": "σωρεύω",
+          "translit": "sōreúō",
+          "english": "loaded down"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G71",
+          "hebrew": "ἄγω",
+          "translit": "ágō",
+          "english": "led away"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "lusts"
+        },
+        {
+          "strongs": "G4164",
+          "hebrew": "ποικίλος",
+          "translit": "poikílos",
+          "english": "various"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "always learning, and never able to come to the knowledge of the truth.",
+      "understanding": "πάντοτε μανθάνοντα, “always learning” — always taking in new ideas — καὶ μηδέποτε εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν δυνάμενα, “and never able to come to the knowledge of the truth” — ἐπίγνωσις from the know family: full, transforming knowledge. Endless learning without arriving at the truth is a tragedy. Information is not transformation.",
+      "words": [
+        {
+          "strongs": "G3842",
+          "hebrew": "πάντοτε",
+          "translit": "pántote",
+          "english": "always"
+        },
+        {
+          "strongs": "G3129",
+          "hebrew": "μανθάνω",
+          "translit": "manthánō",
+          "english": "learning"
+        },
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "able"
+        },
+        {
+          "strongs": "G1922",
+          "hebrew": "ἐπίγνωσις",
+          "translit": "epígnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Even as Jannes and Jambres opposed Moses, so do these also oppose the truth; men corrupted in mind, who concerning the faith are rejected.",
+      "understanding": "ὃν τρόπον δὲ Ἰάννης καὶ Ἰαμβρῆς ἀντέστησαν Μωϋσεῖ, “Even as Jannes and Jambres opposed Moses.” These names are not in the Old Testament; Jewish tradition gave them to Pharaoh's magicians, who copied Moses' signs (Exodus 7:11, 22). Paul uses the familiar names. So these teachers ἀνθίστανται τῇ ἀληθείᾳ, “oppose the truth” — κατεφθαρμένοι τὸν νοῦν, “men corrupted in mind,” ἀδόκιμοι περὶ τὴν πίστιν, “who concerning the faith are rejected” — failed the test, like counterfeit coins (the opposite of δόκιμος, 2:15).",
+      "words": [
+        {
+          "strongs": "G2389",
+          "hebrew": "Ἰαννῆς",
+          "translit": "Iannēs",
+          "english": "Jannes"
+        },
+        {
+          "strongs": "G2387",
+          "hebrew": "Ἰαμβρῆς",
+          "translit": "Iambrēs",
+          "english": "Jambres"
+        },
+        {
+          "strongs": "G436",
+          "hebrew": "ἀνθίστημι",
+          "translit": "anthístēmi",
+          "english": "opposed"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G2704",
+          "hebrew": "καταφθείρω",
+          "translit": "kataphtheírō",
+          "english": "corrupted"
+        },
+        {
+          "strongs": "G3563",
+          "hebrew": "νοῦς",
+          "translit": "noûs",
+          "english": "mind"
+        },
+        {
+          "strongs": "G96",
+          "hebrew": "ἀδόκιμος",
+          "translit": "adókimos",
+          "english": "rejected"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "But they will proceed no further. For their folly will be evident to all men, as theirs also came to be.",
+      "understanding": "ἀλλ᾽ οὐ προκόψουσιν ἐπὶ πλεῖον, “But they will proceed no further” — their ‘progress’ (2:16) has a limit. ἡ γὰρ ἄνοια αὐτῶν ἔκδηλος ἔσται πᾶσιν, “For their folly will be evident to all men,” ὡς καὶ ἡ ἐκείνων ἐγένετο, “as theirs also came to be.” Pharaoh's magicians eventually could not copy God's signs and admitted, ‘This is the finger of God’ (Exodus 8:19). Error eventually exposes itself.",
+      "words": [
+        {
+          "strongs": "G4298",
+          "hebrew": "προκόπτω",
+          "translit": "prokóptō",
+          "english": "proceed"
+        },
+        {
+          "strongs": "G454",
+          "hebrew": "ἄνοια",
+          "translit": "ánoia",
+          "english": "folly"
+        },
+        {
+          "strongs": "G1552",
+          "hebrew": "ἔκδηλος",
+          "translit": "ékdēlos",
+          "english": "evident"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "But you did follow my teaching, conduct, purpose, faith, patience, love, steadfastness,",
+      "understanding": "σὺ δὲ παρηκολούθησάς μου, “But you did follow” — closely followed, like a disciple walking behind a teacher — nine things: τῇ διδασκαλίᾳ, “teaching”; τῇ ἀγωγῇ, “conduct” — way of life; τῇ προθέσει, “purpose”; τῇ πίστει, “faith”; τῇ μακροθυμίᾳ, “patience” — long-tempered endurance of people; τῇ ἀγάπῃ, “love”; τῇ ὑπομονῇ, “steadfastness” — endurance under circumstances. Timothy had seen Paul's whole life, not only his sermons.",
+      "words": [
+        {
+          "strongs": "G3877",
+          "hebrew": "παρακολουθέω",
+          "translit": "parakolouthéō",
+          "english": "follow"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G72",
+          "hebrew": "ἀγωγή",
+          "translit": "agōgḗ",
+          "english": "conduct"
+        },
+        {
+          "strongs": "G4286",
+          "hebrew": "πρόθεσις",
+          "translit": "próthesis",
+          "english": "purpose"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G3115",
+          "hebrew": "μακροθυμία",
+          "translit": "makrothymía",
+          "english": "patience"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "steadfastness"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "persecutions, and sufferings: those things that happened to me at Antioch, Iconium, and Lystra. I endured those persecutions. The Lord delivered me out of them all.",
+      "understanding": "τοῖς διωγμοῖς, τοῖς παθήμασιν, “persecutions, and sufferings” — and he names them: ἐν Ἀντιοχείᾳ, ἐν Ἰκονίῳ, ἐν Λύστροις, “at Antioch, Iconium, and Lystra” — Timothy's own region, where Paul was driven out, threatened and stoned (Acts 13:50; 14:5, 19). Timothy may have watched Paul stoned at Lystra. οἵους διωγμοὺς ὑπήνεγκα, “I endured those persecutions” — bore them from underneath. καὶ ἐκ πάντων με ἐρρύσατο ὁ κύριος, “The Lord delivered me out of them all” — not from facing them, but through them.",
+      "words": [
+        {
+          "strongs": "G1375",
+          "hebrew": "διωγμός",
+          "translit": "diōgmós",
+          "english": "persecutions"
+        },
+        {
+          "strongs": "G3804",
+          "hebrew": "πάθημα",
+          "translit": "páthēma",
+          "english": "sufferings"
+        },
+        {
+          "strongs": "G490",
+          "hebrew": "Ἀντιόχεια",
+          "translit": "Antiócheia",
+          "english": "Antioch"
+        },
+        {
+          "strongs": "G2430",
+          "hebrew": "Ἰκόνιον",
+          "translit": "Ikónion",
+          "english": "Iconium"
+        },
+        {
+          "strongs": "G3082",
+          "hebrew": "Λύστρα",
+          "translit": "Lýstra",
+          "english": "Lystra"
+        },
+        {
+          "strongs": "G5297",
+          "hebrew": "ὑποφέρω",
+          "translit": "hypophérō",
+          "english": "endured"
+        },
+        {
+          "strongs": "G4506",
+          "hebrew": "ῥύομαι",
+          "translit": "rhýomai",
+          "english": "delivered"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Yes, and all who desire to live godly in Christ Jesus will suffer persecution.",
+      "understanding": "καὶ πάντες δὲ οἱ θέλοντες εὐσεβῶς ζῆν ἐν Χριστῷ Ἰησοῦ διωχθήσονται, “Yes, and all who desire to live godly in Christ Jesus will suffer persecution.” εὐσεβῶς from the godliness family: living reverently. Persecution is not a sign of failure but a normal result of godliness in a fallen world. Jesus said, “If they persecuted me, they will also persecute you” (John 15:20). The promise is universal: ‘all’.",
+      "words": [
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "desire"
+        },
+        {
+          "strongs": "G2153",
+          "hebrew": "εὐσεβῶς",
+          "translit": "eusebōs",
+          "english": "godly"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "live"
+        },
+        {
+          "strongs": "G1377",
+          "hebrew": "διώκω",
+          "translit": "diṓkō",
+          "english": "suffer persecution"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "But evil men and impostors will grow worse and worse, deceiving and being deceived.",
+      "understanding": "πονηροὶ δὲ ἄνθρωποι καὶ γόητες, “But evil men and impostors” — πονηρός from the evil family: actively harmful; γόης, originally a sorcerer muttering spells, a swindler — προκόψουσιν ἐπὶ τὸ χεῖρον, “will grow worse and worse” — make ‘progress’ toward the worse. πλανῶντες καὶ πλανώμενοι, “deceiving and being deceived” — deceivers are themselves deceived. Error enslaves those who spread it.",
+      "words": [
+        {
+          "strongs": "G4190",
+          "hebrew": "πονηρός",
+          "translit": "ponērós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "men"
+        },
+        {
+          "strongs": "G1114",
+          "hebrew": "γόης",
+          "translit": "góēs",
+          "english": "impostors"
+        },
+        {
+          "strongs": "G4298",
+          "hebrew": "προκόπτω",
+          "translit": "prokóptō",
+          "english": "grow"
+        },
+        {
+          "strongs": "G5501",
+          "hebrew": "χείρων",
+          "translit": "cheírōn",
+          "english": "worse"
+        },
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "deceiving"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "But you remain in the things which you have learned and have been assured of, knowing from whom you have learned them.",
+      "understanding": "σὺ δὲ μένε, “But you remain” — stay put, abide — ἐν οἷς ἔμαθες καὶ ἐπιστώθης, “in the things which you have learned and have been assured of” — πιστόω, made sure, convinced. εἰδὼς παρὰ τίνων ἔμαθες, “knowing from whom you have learned them” — plural: Paul, Lois, Eunice. The character of those who taught you is part of the evidence for what they taught. Others drift; Timothy must stay.",
+      "words": [
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remain"
+        },
+        {
+          "strongs": "G3129",
+          "hebrew": "μανθάνω",
+          "translit": "manthánō",
+          "english": "learned"
+        },
+        {
+          "strongs": "G4104",
+          "hebrew": "πιστόω",
+          "translit": "pistóō",
+          "english": "assured"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "knowing"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "From infancy, you have known the holy Scriptures which are able to make you wise for salvation through faith, which is in Christ Jesus.",
+      "understanding": "καὶ ὅτι ἀπὸ βρέφους, “From infancy” — βρέφος, a baby — ἱερὰ γράμματα οἶδας, “you have known the holy Scriptures” — the Old Testament, taught by his mother and grandmother. These are τὰ δυνάμενά σε σοφίσαι εἰς σωτηρίαν, “able to make you wise for salvation” — δύναμαι, the verb of the power family: they have power to make wise — διὰ πίστεως τῆς ἐν Χριστῷ Ἰησοῦ, “through faith, which is in Christ Jesus.” The Scriptures point to Christ, as Jesus said: “these are they which testify about me” (John 5:39).",
+      "words": [
+        {
+          "strongs": "G1025",
+          "hebrew": "βρέφος",
+          "translit": "bréphos",
+          "english": "infancy"
+        },
+        {
+          "strongs": "G2413",
+          "hebrew": "ἱερός",
+          "translit": "hierós",
+          "english": "holy"
+        },
+        {
+          "strongs": "G1121",
+          "hebrew": "γράμμα",
+          "translit": "grámma",
+          "english": "Scriptures"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "known"
+        },
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "able"
+        },
+        {
+          "strongs": "G4679",
+          "hebrew": "σοφίζω",
+          "translit": "sophízō",
+          "english": "make wise"
+        },
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "salvation"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness,",
+      "understanding": "πᾶσα γραφὴ θεόπνευστος, “Every Scripture is God-breathed.” θεόπνευστος (θεός + πνέω, to breathe) appears only here: Scripture is breathed out by God, the product of His breath, as human speech is the product of breath. Grammatically it can also be read ‘every God-breathed Scripture is profitable’, but the most natural reading, followed by the WEB, is that all Scripture is God-breathed. Because it is God's breath, it is ὠφέλιμος, “profitable,” for four things: πρὸς διδασκαλίαν, “teaching” — what is true; πρὸς ἔλεγχον, “reproof” — what is wrong; πρὸς ἐπανόρθωσιν, “correction” — how to set it right; πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, “instruction in righteousness” — how to keep walking right.",
+      "words": [
+        {
+          "strongs": "G1124",
+          "hebrew": "γραφή",
+          "translit": "graphḗ",
+          "english": "Scripture"
+        },
+        {
+          "strongs": "G2315",
+          "hebrew": "θεόπνευστος",
+          "translit": "theópneustos",
+          "english": "God-breathed"
+        },
+        {
+          "strongs": "G5624",
+          "hebrew": "ὠφέλιμος",
+          "translit": "ōphélimos",
+          "english": "profitable"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G1650",
+          "hebrew": "ἔλεγχος",
+          "translit": "élenchos",
+          "english": "reproof"
+        },
+        {
+          "strongs": "G1882",
+          "hebrew": "ἐπανόρθωσις",
+          "translit": "epanórthōsis",
+          "english": "correction"
+        },
+        {
+          "strongs": "G3809",
+          "hebrew": "παιδεία",
+          "translit": "paideía",
+          "english": "instruction"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "that the man of God may be complete, thoroughly equipped for every good work.",
+      "understanding": "The goal: ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, “that the man of God may be complete” — ἄρτιος, fitted, capable, exactly suited for the task — πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος, “thoroughly equipped for every good work” — ἐξαρτίζω, fully fitted out, like a ship supplied for a voyage. ἀγαθός from the good family. Scripture does not merely inform; it equips for doing good. No part of a believer's calling lies outside its reach.",
+      "words": [
+        {
+          "strongs": "G739",
+          "hebrew": "ἄρτιος",
+          "translit": "ártios",
+          "english": "complete"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        },
+        {
+          "strongs": "G1822",
+          "hebrew": "ἐξαρτίζω",
+          "translit": "exartízō",
+          "english": "thoroughly equipped"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Love Turned Inward",
+      "verseRef": "v. 1-5",
+      "image": "Picture a beautiful fountain in a city square. It was designed to pour out water to everyone who passes by. But over time, someone has turned all its spouts inward, so that the water flows back into its own basin. People walk past thirsty. The fountain is full, overflowing with itself, but gives nothing away. Its outside still looks like a fountain — elegant stone, polished bronze — but it has stopped doing what fountains do.",
+      "meaning": "Paul describes the last days: “For men will be lovers of self, lovers of money … lovers of pleasure rather than lovers of God; holding a form of godliness, but having denied its power” (vv. 2, 4–5). The love-family words show love itself misdirected — to self, money and pleasure instead of God. And religion can keep its outward form while losing its power. Ask the Spirit: are the spouts of my love turned inward? Is my godliness only a form?"
+    },
+    {
+      "title": "Always Learning, Never Arriving",
+      "verseRef": "v. 6-7",
+      "image": "Picture someone walking endlessly around a maze with a lamp. They keep turning new corners, discovering new passages, reading new signs on the walls, always excited about the next discovery. But they never reach the centre, because they are not following the map; they are following their curiosity and their cravings. Years pass, and they know a great deal about the maze, but they are still lost in it.",
+      "meaning": "Paul describes people “always learning, and never able to come to the knowledge of the truth” (v. 7). They were vulnerable to false teachers because they were weighed down with sins and led by various desires (v. 6). Learning is good, but learning that never leads to repentance, faith and obedience leaves people lost. The goal is not more information but ἐπίγνωσις — full, transforming knowledge of the truth in Christ."
+    },
+    {
+      "title": "The Breath of God",
+      "verseRef": "v. 15-17",
+      "image": "Picture God bending over the dust of the ground in Eden, forming a man, and then breathing into his nostrils the breath of life. The lifeless clay becomes a living person. Now picture a scroll of Scripture in a young boy's hands in Lystra, his grandmother pointing to the words as she teaches him. The same God who breathed life into Adam has breathed out these words. As the boy grows, those words breathe life into him too — making him wise for salvation, correcting him, training him, equipping him for a lifetime of good works.",
+      "meaning": "“Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness, that the man of God may be complete, thoroughly equipped for every good work” (vv. 16–17). Scripture is not merely human reflection about God; it is God's own breath in written form. That is why it has the power to make us “wise for salvation through faith, which is in Christ Jesus” (v. 15) and to equip us completely. In grievous times, the answer is not a new message but the God-breathed one."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Grievous Times (v. 1-5)",
+        "body": "In the last days difficult times will come: people will love themselves, money and pleasure rather than God, and display many other vices, having an appearance of godliness while denying its power; Timothy must avoid such people."
+      },
+      {
+        "label": "Deceivers and Their Victims (v. 6-9)",
+        "body": "Some of these worm their way into homes and capture weak, sin-burdened people who are always learning but never reach the knowledge of the truth; like Jannes and Jambres opposing Moses, they oppose the truth, but their folly will become plain to all."
+      },
+      {
+        "label": "Paul's Example of Endurance (v. 10-13)",
+        "body": "Timothy has followed Paul's teaching, way of life, purpose, faith, patience, love, endurance, persecutions and sufferings at Antioch, Iconium and Lystra, from which the Lord rescued him; all who want to live godly in Christ will be persecuted, while evil people and impostors go from bad to worse."
+      },
+      {
+        "label": "Continue in the God-Breathed Scriptures (v. 14-17)",
+        "body": "Timothy must continue in what he has learned, knowing from whom he learned it and that from childhood he has known the sacred writings that make one wise for salvation through faith in Christ; all Scripture is God-breathed and useful for teaching, reproof, correction and training in righteousness, so that the man of God is complete and equipped for every good work."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Love Gone Wrong",
+        "paragraphs": [
+          "Chapter 3 opens with a sober warning: “But know this, that in the last days, grievous times will come” (v. 1). The ‘last days’ in the New Testament began with Christ's coming and the outpouring of the Spirit (Acts 2:17) and continue until His return. Paul is describing conditions Timothy already faced and that would intensify. Jesus warned of the same: “Because iniquity will be multiplied, the love of many will grow cold” (Matthew 24:12).",
+          "The list of vices in verses 2–4 is framed by love. It begins with “lovers of self, lovers of money” (v. 2) and ends with “lovers of pleasure rather than lovers of God” (v. 4). In between come pride, ingratitude, disobedience to parents, lack of natural affection, slander, cruelty and betrayal. The love-family compounds make the point vivid: these people are not without love; their love is misdirected. When self, money and pleasure take God's place, every other relationship is corrupted. The list closely resembles Paul's description of humanity apart from God in Romans 1:29–31.",
+          "Most striking is verse 5: “holding a form of godliness, but having denied its power.” This describes religious people, not obvious pagans. They have the outward shape of εὐσέβεια — religious language, attendance, perhaps teaching — but they deny the δύναμις that makes godliness real: the power of God that transforms the heart. Paul's instruction is blunt: “Turn away from these, also.” Not every form of religion is from God; the test is whether its power is changing lives."
+        ]
+      },
+      {
+        "heading": "Deceivers, Victims and Their End",
+        "paragraphs": [
+          "Paul describes the method of the false teachers: “For some of these are people who creep into houses, and take captive gullible women loaded down with sins, led away by various lusts, always learning, and never able to come to the knowledge of the truth” (vv. 6–7). The word for ‘gullible women’ is a contemptuous term for the vulnerable people the false teachers exploited, not a statement about women in general. The real issue is spiritual: burdened consciences, restless desires and endless curiosity without commitment make people easy prey.",
+          "He compares these teachers to “Jannes and Jambres” who “opposed Moses” (v. 8) — names Jewish tradition gave to Pharaoh's magicians, who imitated Moses' miracles until they could not. Like them, these men “oppose the truth; men corrupted in mind, who concerning the faith are rejected” (v. 8). But their success is limited: “But they will proceed no further. For their folly will be evident to all men, as theirs also came to be” (v. 9). Error may spread for a time, but God sets its limits, and eventually its emptiness is exposed.",
+          "Meanwhile Timothy has a different model to follow: “But you did follow my teaching, conduct, purpose, faith, patience, love, steadfastness, persecutions, and sufferings” (vv. 10–11). He had watched Paul's whole life. He knew what happened “at Antioch, Iconium, and Lystra” (v. 11), where Paul was persecuted, threatened and stoned (Acts 14:19). And he knew the outcome: “I endured those persecutions. The Lord delivered me out of them all” (v. 11). Then comes a universal promise: “Yes, and all who desire to live godly in Christ Jesus will suffer persecution” (v. 12). Godliness provokes opposition; it always has."
+        ]
+      },
+      {
+        "heading": "Every Scripture Is God-Breathed",
+        "paragraphs": [
+          "In contrast to impostors who “grow worse and worse, deceiving and being deceived” (v. 13), Timothy must stay: “But you remain in the things which you have learned and have been assured of, knowing from whom you have learned them” (v. 14). His teachers' lives — Paul, Lois, Eunice — confirmed their teaching. And the foundation was Scripture: “From infancy, you have known the holy Scriptures which are able to make you wise for salvation through faith, which is in Christ Jesus” (v. 15). The Old Testament Scriptures, rightly read, lead to Christ.",
+          "Then comes one of the most important statements about the Bible in the Bible: “Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness” (v. 16). θεόπνευστος means breathed out by God. Scripture is not merely human words about God, or human words that God later breathes into; it is God's own breath expressed in writing through human authors. Peter says the same: “holy men of God spoke, being moved by the Holy Spirit” (2 Peter 1:21). And Peter already counted Paul's letters among ‘the other Scriptures’ (2 Peter 3:16).",
+          "Because Scripture is God-breathed, it is profitable in four ways: teaching what is true, reproving what is wrong, correcting how to make it right, and training in righteousness so that we keep walking rightly. Its goal is practical: “that the man of God may be complete, thoroughly equipped for every good work” (v. 17). In grievous times, believers do not need a new revelation, a secret knowledge or a stronger form of religion. They need to remain in the God-breathed Scriptures, which have power to make them wise for salvation and to equip them fully."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Last Days, Persecution and the Authority of Scripture",
+      "paragraphs": [
+        "The vices of verses 2–4 echo Paul's description of humanity without God in Romans: “being filled with all unrighteousness, sexual immorality, wickedness, covetousness, malice” (Romans 1:29), “backbiters, hateful to God, insolent, haughty, boastful, inventors of evil things, disobedient to parents” (Romans 1:30), and “without understanding, covenant breakers, without natural affection, unforgiving, unmerciful” (Romans 1:31). The tragedy of 2 Timothy 3 is that these marks appear among people with a form of godliness.",
+        "The promise of persecution comes from Jesus: “Remember the word that I said to you: ‘A servant is not greater than his lord.’ If they persecuted me, they will also persecute you” (John 15:20). Paul experienced it at Antioch, where opponents “stirred up a persecution against Paul and Barnabas, and threw them out of their borders” (Acts 13:50), and at Lystra, where “they stoned Paul, and dragged him out of the city, supposing that he was dead” (Acts 14:19). Afterwards he strengthened the disciples, “exhorting them to continue in the faith, and that through many afflictions we must enter into God’s Kingdom” (Acts 14:22).",
+        "The New Testament repeatedly affirms the divine origin and power of Scripture. “For no prophecy ever came by the will of man: but holy men of God spoke, being moved by the Holy Spirit” (2 Peter 1:21). “For the word of God is living and active, and sharper than any two-edged sword” (Hebrews 4:12). “For whatever things were written before were written for our learning, that through perseverance and through encouragement of the Scriptures we might have hope” (Romans 15:4). And Jesus said of the Scriptures, “these are they which testify about me” (John 5:39)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Lover of self / selfish",
+      "hebrew": "φίλαυτος",
+      "translit": "phílautos",
+      "strongs": "G5367",
+      "verses": "v. 2",
+      "insight": "Strong's: “fond of self, i.e. selfish.” It appears only here in the New Testament, at the head of the list of last-days vices. The list is framed by φιλ- compounds: lovers of self and money at the start, lovers of pleasure rather than lovers of God at the end. Self-love is the root; the other vices grow from it. The cure is not self-hatred but the reordering of love, so that God is loved first and self is given away."
+    },
+    {
+      "english": "Form / outward appearance",
+      "hebrew": "μόρφωσις",
+      "translit": "mórphōsis",
+      "strongs": "G3446",
+      "verses": "v. 5",
+      "insight": "Strong's: “formation, i.e. (by implication), appearance (semblance or (concretely) formula).” Paul uses it only twice; the other place describes the ‘form of knowledge and of the truth’ that the law gave (Romans 2:20). Here it is the outward shape of godliness without its inner power. A form is not evil in itself — the gospel has a pattern of sound words (1:13) — but a form without power is an empty shell. The question is not whether we have religious forms, but whether God's power is at work through them."
+    },
+    {
+      "english": "Lover of pleasure",
+      "hebrew": "φιλήδονος",
+      "translit": "philḗdonos",
+      "strongs": "G5369",
+      "verses": "v. 4",
+      "insight": "Strong's: “fond of pleasure, i.e. voluptuous.” It combines φίλος and ἡδονή, pleasure (the root of ‘hedonism’). Paul sets it against φιλόθεος, lover of God. Pleasure itself is God's gift (1 Timothy 6:17 speaks of God giving ‘everything to enjoy’), but when pleasure is loved in place of God, it becomes an idol. The question is always which we love more."
+    },
+    {
+      "english": "God-breathed / inspired",
+      "hebrew": "θεόπνευστος",
+      "translit": "theópneustos",
+      "strongs": "G2315",
+      "verses": "v. 16",
+      "insight": "Strong's: “divinely breathed in.” It combines θεός, God, and πνέω, to breathe. The word does not mean that God breathed into existing human writings to make them special, but that Scripture is breathed out by God — His own speech in written form. It is the strongest statement in the Bible about its own origin. Because Scripture is God's breath, it carries God's authority, truthfulness and life-giving power."
+    },
+    {
+      "english": "Thoroughly equip / fit out completely",
+      "hebrew": "ἐξαρτίζω",
+      "translit": "exartízō",
+      "strongs": "G1822",
+      "verses": "v. 17",
+      "insight": "Strong's: “to finish out (time); figuratively, to equip fully (a teacher).” Its only other use is of days being completed, when Paul's stay at Tyre came to an end (Acts 21:5). It pictures a ship fully fitted for a voyage or a workman fully supplied with tools. Paired with ἄρτιος, complete or fit, it says that Scripture leaves the man of God lacking nothing needed for ‘every good work’. We do not need another source of revelation to live a God-pleasing life."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: what your love is fixed on, whether your godliness has power, and how deeply you are rooted in Scripture.",
+    "items": [
+      {
+        "title": "Where Is Your Love Pointing?",
+        "body": "The last days are marked by love turned toward self, money and pleasure rather than God. The Spirit gently asks: what do you love most? Where do your time, money and thoughts flow? Ask Him to show you any area where self, wealth or pleasure has taken God's place, and to reorder your loves so that you are a lover of God above all."
+      },
+      {
+        "title": "Form or Power?",
+        "body": "It is possible to keep the form of godliness — attendance, vocabulary, habits — while denying its power. The Spirit wants to bring the power back into your faith. Is there an area of your life where you go through the motions but resist real change? Ask Him to make your godliness living and transforming, not just outward."
+      },
+      {
+        "title": "Remain in the Word",
+        "body": "In grievous times Paul's answer is Scripture. The Spirit is calling you to remain in what you have learned and to soak yourself in the God-breathed word. Let it teach you, rebuke you, correct you and train you. Ask Him to give you a fresh hunger for Scripture and to equip you through it for every good work He has prepared for you."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Love Check",
+        "body": "Read verses 2–4 slowly. Circle any of these traits you recognise in yourself, especially self-love, love of money or love of pleasure. Confess them and ask God to reorder your loves."
+      },
+      {
+        "title": "The Power Check",
+        "body": "List your regular religious practices. Next to each, write whether God's power is changing you through it, or whether it has become only a form (v. 5). Choose one to renew."
+      },
+      {
+        "title": "The Scripture Check",
+        "body": "How much time did you spend in Scripture last week? Is it teaching, reproving, correcting and training you (v. 16)? Set a realistic goal to increase your intake this month."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Four Questions for Every Passage",
+        "body": "For the next month, use verse 16 as a guide for your Bible reading. After each passage, write answers to four questions: What does this teach me about God and His ways? What does it reprove in my life? What does it correct — how should I change? How does it train me to keep walking in righteousness? Over time, you will see how God-breathed Scripture equips you."
+      },
+      {
+        "title": "Pass On the Scriptures",
+        "body": "Timothy knew the Scriptures from childhood because his grandmother and mother taught him. Think of a child or new believer in your life. This month, read Scripture with them regularly, explain it simply, and help them memorise a verse each week — perhaps 2 Timothy 3:16–17 first. You may be shaping a future Timothy."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord, I know that the last days bring grievous times. Guard my heart from loving myself, money or pleasure more than You. Keep me from pride, ingratitude, slander, cruelty and every love turned inward. Make me a lover of God above all things. Deliver me from a form of godliness that denies Your power; let Your power be at work in me, changing me from the inside. Protect me and those I love from deceivers who prey on burdened consciences and restless desires. Keep me from always learning and never coming to the knowledge of the truth. Thank You for those who taught me Your ways and for the example of faithful servants who endured persecution. If I suffer for living godly in Christ Jesus, help me endure, knowing You will deliver me. Help me remain in what I have learned. Thank You for the holy Scriptures, able to make me wise for salvation through faith in Christ Jesus. Thank You that every Scripture is God-breathed. Let it teach me, rebuke me, correct me and train me in righteousness, so that I may be complete, thoroughly equipped for every good work. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Pharaoh's Magicians",
+      "ref": "Exodus 7:8-8:19",
+      "relatedVerses": "v. 8-9",
+      "summary": "When Moses and Aaron came before Pharaoh, Aaron's staff became a serpent, and Pharaoh's magicians did the same by their secret arts — though Aaron's staff swallowed theirs. When Moses turned the Nile to blood, the magicians did the same, and when he brought frogs, they copied that too. But when the dust became gnats, the magicians could not reproduce it, and they told Pharaoh, ‘This is the finger of God.’ Jewish tradition named these magicians Jannes and Jambres. Paul uses them as a picture of false teachers who imitate the truth for a while but are finally exposed: “their folly will be evident to all men, as theirs also came to be” (v. 9)."
+    },
+    {
+      "title": "Paul Stoned at Lystra",
+      "ref": "Acts 14:8-22",
+      "relatedVerses": "v. 10-12",
+      "summary": "At Lystra, Paul healed a man lame from birth, and the crowd tried to worship Paul and Barnabas as gods. But Jews from Antioch and Iconium arrived and turned the crowd: “they stoned Paul, and dragged him out of the city, supposing that he was dead” (Acts 14:19). As the disciples gathered around him, Paul got up and went back into the city. The next day he left for Derbe, then returned through Lystra, Iconium and Antioch, “confirming the souls of the disciples, exhorting them to continue in the faith, and that through many afflictions we must enter into God’s Kingdom” (Acts 14:22). Lystra was Timothy's home town; he may have watched this happen. It is the persecution Paul reminds him of in 2 Timothy 3:11."
+    },
+    {
+      "title": "Josiah and the Book of the Law",
+      "ref": "2 Kings 22:8-23:3",
+      "relatedVerses": "v. 15-17",
+      "summary": "During repairs to the temple in King Josiah's reign, the high priest Hilkiah found the Book of the Law, which had been neglected for years. When it was read to the king, Josiah tore his clothes in grief, because he saw how far the nation had strayed from God's word. He humbled himself before the LORD, gathered all the people, read the whole book to them, and made a covenant to follow the LORD with all his heart and soul. Reformation swept the land. Josiah's story shows the power of God-breathed Scripture to rebuke, correct and train a whole nation in righteousness when it is rediscovered and obeyed."
+    }
+  ]
+}

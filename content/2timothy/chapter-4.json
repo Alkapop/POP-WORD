@@ -1,0 +1,1155 @@
+{
+  "type": "chapterStudy",
+  "book": "2 Timothy",
+  "chapter": 4,
+  "chapterTitle": "Preach the Word, Finish the Course",
+  "themeTitle": "“I Have Kept the Faith”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom:",
+      "understanding": "Paul's last charge is solemn. διαμαρτύρομαι, “I command you therefore before God and the Lord Jesus Christ” — I testify earnestly, I put you under oath, with God and Christ as witnesses. Christ is the one “who will judge the living and the dead at his appearing and his Kingdom.” ἐπιφάνεια, ‘appearing’, is the shining forth of Christ at His return (the same word in 1:10 describes His first coming). Timothy is to minister as someone who will give account to the coming King.",
+      "words": [
+        {
+          "strongs": "G1263",
+          "hebrew": "διαμαρτύρομαι",
+          "translit": "diamartýromai",
+          "english": "command"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judge"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "living"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G2015",
+          "hebrew": "ἐπιφάνεια",
+          "translit": "epipháneia",
+          "english": "appearing"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "preach the word; be urgent in season and out of season; reprove, rebuke, and exhort, with all patience and teaching.",
+      "understanding": "Nine short commands follow, and the first is the heart of them: κήρυξον τὸν λόγον, “preach the word” — κηρύσσω, proclaim like a herald announcing the king's message. ἐπίστηθι, “be urgent” — stand ready, be on hand. Then a pair from the time family: εὐκαίρως ἀκαίρως, “in season and out of season.” Both are built on καιρός, the fitting moment: εὐκαίρως is ‘well-timed’, when circumstances are favourable; ἀκαίρως is ‘ill-timed’, when they are not. Timothy is not to wait for the right moment; every moment is the moment. ἔλεγξον, ἐπιτίμησον, παρακάλεσον, “reprove, rebuke, and exhort” — expose error, warn sharply, encourage — ἐν πάσῃ μακροθυμίᾳ καὶ διδαχῇ, “with all patience and teaching.” Correction without patience and teaching becomes harshness.",
+      "words": [
+        {
+          "strongs": "G2784",
+          "hebrew": "κηρύσσω",
+          "translit": "kērýssō",
+          "english": "preach"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G2186",
+          "hebrew": "ἐφίστημι",
+          "translit": "ephístēmi",
+          "english": "be urgent"
+        },
+        {
+          "strongs": "G2122",
+          "hebrew": "εὐκαίρως",
+          "translit": "eukaírōs",
+          "english": "in season"
+        },
+        {
+          "strongs": "G171",
+          "hebrew": "ἀκαίρως",
+          "translit": "akaírōs",
+          "english": "out of season"
+        },
+        {
+          "strongs": "G1651",
+          "hebrew": "ἐλέγχω",
+          "translit": "elénchō",
+          "english": "reprove"
+        },
+        {
+          "strongs": "G2008",
+          "hebrew": "ἐπιτιμάω",
+          "translit": "epitimáō",
+          "english": "rebuke"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G3115",
+          "hebrew": "μακροθυμία",
+          "translit": "makrothymía",
+          "english": "patience"
+        },
+        {
+          "strongs": "G1322",
+          "hebrew": "διδαχή",
+          "translit": "didachḗ",
+          "english": "teaching"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For the time will come when they will not listen to the sound doctrine, but, having itching ears, will heap up for themselves teachers after their own lusts;",
+      "understanding": "ἔσται γὰρ καιρός, “For the time will come” — καιρός again from the time family: a season marked by a certain character — ὅτε τῆς ὑγιαινούσης διδασκαλίας οὐκ ἀνέξονται, “when they will not listen to the sound doctrine” — ἀνέχομαι, put up with, tolerate: they will not bear healthy teaching. Instead, κνηθόμενοι τὴν ἀκοήν, “having itching ears” — ears that want to be tickled — they ἐπισωρεύσουσιν διδασκάλους, “will heap up for themselves teachers after their own lusts.” They will choose teachers the way shoppers choose goods: by what they already want. Desire, not truth, sets the curriculum.",
+      "words": [
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        },
+        {
+          "strongs": "G430",
+          "hebrew": "ἀνέχομαι",
+          "translit": "anéchomai",
+          "english": "listen"
+        },
+        {
+          "strongs": "G5198",
+          "hebrew": "ὑγιαίνω",
+          "translit": "hygiaínō",
+          "english": "sound"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "doctrine"
+        },
+        {
+          "strongs": "G2833",
+          "hebrew": "κνήθω",
+          "translit": "knḗthō",
+          "english": "itching"
+        },
+        {
+          "strongs": "G189",
+          "hebrew": "ἀκοή",
+          "translit": "akoḗ",
+          "english": "ears"
+        },
+        {
+          "strongs": "G2002",
+          "hebrew": "ἐπισωρεύω",
+          "translit": "episōreúō",
+          "english": "heap up"
+        },
+        {
+          "strongs": "G1320",
+          "hebrew": "διδάσκαλος",
+          "translit": "didáskalos",
+          "english": "teachers"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "lusts"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "and will turn away their ears from the truth, and turn away to fables.",
+      "understanding": "Two ‘turnings’ with two different verbs: ἀπὸ μὲν τῆς ἀληθείας τὴν ἀκοὴν ἀποστρέψουσιν, “and will turn away their ears from the truth” — ἀποστρέφω, turn their backs on it; ἐπὶ δὲ τοὺς μύθους ἐκτραπήσονται, “and turn away to fables” — ἐκτρέπω, swerve aside, the medical word for a dislocated limb (1 Timothy 1:6; 5:15). μῦθος is a made-up story. People never simply leave the truth; they always turn toward something else.",
+      "words": [
+        {
+          "strongs": "G654",
+          "hebrew": "ἀποστρέφω",
+          "translit": "apostréphō",
+          "english": "turn away"
+        },
+        {
+          "strongs": "G189",
+          "hebrew": "ἀκοή",
+          "translit": "akoḗ",
+          "english": "ears"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G1624",
+          "hebrew": "ἐκτρέπω",
+          "translit": "ektrépō",
+          "english": "turn away to"
+        },
+        {
+          "strongs": "G3454",
+          "hebrew": "μῦθος",
+          "translit": "mŷthos",
+          "english": "fables"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry.",
+      "understanding": "σὺ δὲ νῆφε ἐν πᾶσιν, “But you be sober in all things” — νήφω, clear-headed, not intoxicated by novelty or panic. κακοπάθησον, “suffer hardship” — the word Paul used of his own sufferings in 2:9, and the call he has already pressed on Timothy twice before. ἔργον ποίησον εὐαγγελιστοῦ, “do the work of an evangelist” — ἔργον from the work family: the task of telling the good news to those who have not believed it. Even a pastor in a settled church must keep reaching outsiders. τὴν διακονίαν σου πληροφόρησον, “and fulfill your ministry” — carry it out fully, leave nothing undone.",
+      "words": [
+        {
+          "strongs": "G3525",
+          "hebrew": "νήφω",
+          "translit": "nḗphō",
+          "english": "be sober"
+        },
+        {
+          "strongs": "G2553",
+          "hebrew": "κακοπαθέω",
+          "translit": "kakopathéō",
+          "english": "suffer hardship"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        },
+        {
+          "strongs": "G2099",
+          "hebrew": "εὐαγγελιστής",
+          "translit": "euangelistḗs",
+          "english": "evangelist"
+        },
+        {
+          "strongs": "G4135",
+          "hebrew": "πληροφορέω",
+          "translit": "plērophoréō",
+          "english": "fulfill"
+        },
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "ministry"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "For I am already being offered, and the time of my departure has come.",
+      "understanding": "Now the reason for urgency: ἐγὼ γὰρ ἤδη σπένδομαι, “For I am already being offered” — σπένδω, poured out as a drink offering. In the Old Testament sacrifices, wine was poured out beside the offering. Paul sees his coming execution as the final pouring out of a life already given to God. καὶ ὁ καιρὸς τῆς ἐμῆς ἀναλύσεως ἐφέστηκεν, “and the time of my departure has come.” καιρός from the time family: the appointed moment. ἀνάλυσις, ‘departure’, was used of a ship loosing from its moorings or soldiers striking camp. Death, for Paul, is not an end but a setting sail.",
+      "words": [
+        {
+          "strongs": "G4689",
+          "hebrew": "σπένδω",
+          "translit": "spéndō",
+          "english": "being offered"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        },
+        {
+          "strongs": "G359",
+          "hebrew": "ἀνάλυσις",
+          "translit": "análysis",
+          "english": "departure"
+        },
+        {
+          "strongs": "G2186",
+          "hebrew": "ἐφίστημι",
+          "translit": "ephístēmi",
+          "english": "has come"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "I have fought the good fight. I have finished the course. I have kept the faith.",
+      "understanding": "Three perfect tenses — finished actions whose results stand. τὸν καλὸν ἀγῶνα ἠγώνισμαι, “I have fought the good fight” — καλός from the good family: noble, beautiful; ἀγών, a contest, an athletic struggle (the root of ‘agony’). τὸν δρόμον τετέλεκα, “I have finished the course” — the race is run to the end. τὴν πίστιν τετήρηκα, “I have kept the faith” — τηρέω, guarded it: kept faith with Christ, and kept the faith entrusted to him intact. Athlete, runner and guard: the whole letter's images meet in one verse.",
+      "words": [
+        {
+          "strongs": "G75",
+          "hebrew": "ἀγωνίζομαι",
+          "translit": "agōnízomai",
+          "english": "fought"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G73",
+          "hebrew": "ἀγών",
+          "translit": "agṓn",
+          "english": "fight"
+        },
+        {
+          "strongs": "G5055",
+          "hebrew": "τελέω",
+          "translit": "teléō",
+          "english": "finished"
+        },
+        {
+          "strongs": "G1408",
+          "hebrew": "δρόμος",
+          "translit": "drómos",
+          "english": "course"
+        },
+        {
+          "strongs": "G5083",
+          "hebrew": "τηρέω",
+          "translit": "tēréō",
+          "english": "kept"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "From now on, there is stored up for me the crown of righteousness, which the Lord, the righteous judge, will give to me on that day; and not to me only, but also to all those who have loved his appearing.",
+      "understanding": "λοιπὸν ἀπόκειταί μοι ὁ τῆς δικαιοσύνης στέφανος, “From now on, there is stored up for me the crown of righteousness” — στέφανος, the victor's wreath given at the games, not a royal diadem. ὃν ἀποδώσει μοι ὁ κύριος, “which the Lord, the righteous judge, will give to me on that day.” Roman judges were about to condemn Paul; the righteous Judge will reward him. Note the verb ἀποδίδωμι — ‘give’ here — which reappears in verse 14 as ‘repay’. And the crown is οὐ μόνον δὲ ἐμοί, “and not to me only, but also to all those who have loved his appearing.” ἀγαπάω from the love family: those who have set their love on Christ's return. Hold this beside verse 10.",
+      "words": [
+        {
+          "strongs": "G3063",
+          "hebrew": "λοιπόν",
+          "translit": "loipón",
+          "english": "From now on"
+        },
+        {
+          "strongs": "G606",
+          "hebrew": "ἀπόκειμαι",
+          "translit": "apókeimai",
+          "english": "stored up"
+        },
+        {
+          "strongs": "G4735",
+          "hebrew": "στέφανος",
+          "translit": "stéphanos",
+          "english": "crown"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous judge"
+        },
+        {
+          "strongs": "G591",
+          "hebrew": "ἀποδίδωμι",
+          "translit": "apodídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        },
+        {
+          "strongs": "G2015",
+          "hebrew": "ἐπιφάνεια",
+          "translit": "epipháneia",
+          "english": "appearing"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Be diligent to come to me soon,",
+      "understanding": "σπούδασον ἐλθεῖν πρός με ταχέως, “Be diligent to come to me soon.” σπουδάζω, make every effort — the same word as 2:15. The great apostle who has just written of his crown is also a lonely man who wants his friend. Faith in eternity does not cancel the need for human company.",
+      "words": [
+        {
+          "strongs": "G4704",
+          "hebrew": "σπουδάζω",
+          "translit": "spoudázō",
+          "english": "Be diligent"
+        },
+        {
+          "strongs": "G5030",
+          "hebrew": "ταχέως",
+          "translit": "tachéōs",
+          "english": "soon"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "for Demas left me, having loved this present world, and went to Thessalonica; Crescens to Galatia, and Titus to Dalmatia.",
+      "understanding": "Δημᾶς γάρ με ἐγκατέλιπεν ἀγαπήσας τὸν νῦν αἰῶνα, “for Demas left me, having loved this present world, and went to Thessalonica.” Two word families meet here. ἀγαπάω is the same verb as verse 8: there, faithful believers ‘loved his appearing’; here Demas ‘loved this present world’. The difference between them is not whether they loved, but what they loved. And ‘world’ is αἰών, not κόσμος: the present age with its values and pressures, the age that is passing. Demas had once been Paul's fellow worker; what he abandoned was Paul, and he did so out of love for the present age. Crescens and Titus, by contrast, seem to have gone on mission: “Crescens to Galatia, and Titus to Dalmatia.”",
+      "words": [
+        {
+          "strongs": "G1214",
+          "hebrew": "Δημᾶς",
+          "translit": "Dēmâs",
+          "english": "Demas"
+        },
+        {
+          "strongs": "G1459",
+          "hebrew": "ἐγκαταλείπω",
+          "translit": "enkataleípō",
+          "english": "left"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        },
+        {
+          "strongs": "G3568",
+          "hebrew": "νῦν",
+          "translit": "nŷn",
+          "english": "present"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "world"
+        },
+        {
+          "strongs": "G2332",
+          "hebrew": "Θεσσαλονίκη",
+          "translit": "Thessaloníkē",
+          "english": "Thessalonica"
+        },
+        {
+          "strongs": "G2913",
+          "hebrew": "Κρήσκης",
+          "translit": "Krḗskēs",
+          "english": "Crescens"
+        },
+        {
+          "strongs": "G1053",
+          "hebrew": "Γαλατία",
+          "translit": "Galatía",
+          "english": "Galatia"
+        },
+        {
+          "strongs": "G5103",
+          "hebrew": "Τίτος",
+          "translit": "Títos",
+          "english": "Titus"
+        },
+        {
+          "strongs": "G1149",
+          "hebrew": "Δαλματία",
+          "translit": "Dalmatía",
+          "english": "Dalmatia"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Only Luke is with me. Take Mark, and bring him with you, for he is useful to me for service.",
+      "understanding": "Λουκᾶς ἐστιν μόνος μετ᾽ ἐμοῦ, “Only Luke is with me” — the doctor who wrote Luke and Acts, faithful to the end. Then a remarkable sentence: Μᾶρκον ἀναλαβὼν ἄγε μετὰ σεαυτοῦ, “Take Mark, and bring him with you, for he is useful to me for service.” Years earlier Paul had refused to take Mark because he had deserted the team (Acts 15:38). Now Mark is εὔχρηστος, ‘useful’, εἰς διακονίαν, “for service.” A failure was not final; a broken relationship was restored.",
+      "words": [
+        {
+          "strongs": "G3065",
+          "hebrew": "Λουκᾶς",
+          "translit": "Loukâs",
+          "english": "Luke"
+        },
+        {
+          "strongs": "G3138",
+          "hebrew": "Μάρκος",
+          "translit": "Márkos",
+          "english": "Mark"
+        },
+        {
+          "strongs": "G2173",
+          "hebrew": "εὔχρηστος",
+          "translit": "eúchrēstos",
+          "english": "useful"
+        },
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "service"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "But I sent Tychicus to Ephesus.",
+      "understanding": "Τυχικὸν δὲ ἀπέστειλα εἰς Ἔφεσον, “But I sent Tychicus to Ephesus.” Tychicus was a trusted courier (he carried Ephesians and Colossians). He may have carried this letter too, and taken over Timothy's work in Ephesus so that Timothy could come to Rome. Even in prison, Paul is arranging for the churches.",
+      "words": [
+        {
+          "strongs": "G5190",
+          "hebrew": "Τυχικός",
+          "translit": "Tychikós",
+          "english": "Tychicus"
+        },
+        {
+          "strongs": "G649",
+          "hebrew": "ἀποστέλλω",
+          "translit": "apostéllō",
+          "english": "sent"
+        },
+        {
+          "strongs": "G2181",
+          "hebrew": "Ἔφεσος",
+          "translit": "Éphesos",
+          "english": "Ephesus"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Bring the cloak that I left at Troas with Carpus when you come, and the books, especially the parchments.",
+      "understanding": "τὸν φαιλόνην, “Bring the cloak that I left at Troas with Carpus when you come” — φελόνης, a heavy outer cloak, needed in a cold cell as winter approached (v. 21). καὶ τὰ βιβλία, μάλιστα τὰς μεμβράνας, “and the books, especially the parchments.” βιβλία are scrolls; μεμβράναι are parchment sheets. We do not know what they contained — perhaps copies of the Scriptures, perhaps Paul's own notes or documents. What we do know is that a man facing death still wanted to read. Body and mind both mattered to him.",
+      "words": [
+        {
+          "strongs": "G5341",
+          "hebrew": "φελόνης",
+          "translit": "phelónēs",
+          "english": "cloak"
+        },
+        {
+          "strongs": "G5174",
+          "hebrew": "Τρωάς",
+          "translit": "Trōás",
+          "english": "Troas"
+        },
+        {
+          "strongs": "G2591",
+          "hebrew": "Κάρπος",
+          "translit": "Kárpos",
+          "english": "Carpus"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "books"
+        },
+        {
+          "strongs": "G3200",
+          "hebrew": "μεμβράνα",
+          "translit": "membrána",
+          "english": "parchments"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Alexander, the coppersmith, did much evil to me. The Lord will repay him according to his deeds,",
+      "understanding": "Ἀλέξανδρος ὁ χαλκεύς, “Alexander, the coppersmith, did much evil to me.” κακός from the evil family: harm, bad things. He may be the Alexander of 1 Timothy 1:20, though the name was common and we cannot be certain. Paul does not take revenge; he hands Alexander to God: ἀποδώσει αὐτῷ ὁ κύριος κατὰ τὰ ἔργα αὐτοῦ, “The Lord will repay him according to his deeds.” The verb is ἀποδίδωμι, the same as ‘give’ in verse 8: the same just Judge gives the crown and repays the evil. ἔργα, ‘deeds’, from the work family.",
+      "words": [
+        {
+          "strongs": "G223",
+          "hebrew": "Ἀλέξανδρος",
+          "translit": "Aléxandros",
+          "english": "Alexander"
+        },
+        {
+          "strongs": "G5471",
+          "hebrew": "χαλκεύς",
+          "translit": "chalkeús",
+          "english": "coppersmith"
+        },
+        {
+          "strongs": "G2556",
+          "hebrew": "κακός",
+          "translit": "kakós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G591",
+          "hebrew": "ἀποδίδωμι",
+          "translit": "apodídōmi",
+          "english": "repay"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "deeds"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "of whom you also must beware; for he greatly opposed our words.",
+      "understanding": "ὃν καὶ σὺ φυλάσσου, “of whom you also must beware” — φυλάσσω, be on guard, the same word as ‘guard the deposit’ (1:14). Forgiving someone and trusting them are different things; Timothy must be careful. λίαν γὰρ ἀντέστη τοῖς ἡμετέροις λόγοις, “for he greatly opposed our words” — ἀνθίστημι, the verb used of Jannes and Jambres (3:8). His opposition was to the message, not only to Paul.",
+      "words": [
+        {
+          "strongs": "G5442",
+          "hebrew": "φυλάσσω",
+          "translit": "phylássō",
+          "english": "beware"
+        },
+        {
+          "strongs": "G3029",
+          "hebrew": "λίαν",
+          "translit": "lían",
+          "english": "greatly"
+        },
+        {
+          "strongs": "G436",
+          "hebrew": "ἀνθίστημι",
+          "translit": "anthístēmi",
+          "english": "opposed"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "words"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "At my first defense, no one came to help me, but all left me. May it not be held against them.",
+      "understanding": "ἐν τῇ πρώτῃ μου ἀπολογίᾳ, “At my first defense” — most likely the preliminary hearing of this present trial in Rome, though some take it as his first imprisonment. ἀπολογία is a legal defence. οὐδείς μοι συμπαρεγένετο, “no one came to help me, but all left me.” No advocate, no witness, no friend stood with him. Yet Paul prays as Jesus and Stephen did: μὴ αὐτοῖς λογισθείη, “May it not be held against them.” λογίζομαι, credited to their account. He forgives those who failed him.",
+      "words": [
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G627",
+          "hebrew": "ἀπολογία",
+          "translit": "apología",
+          "english": "defense"
+        },
+        {
+          "strongs": "G4836",
+          "hebrew": "συμπαραγίνομαι",
+          "translit": "symparagínomai",
+          "english": "came to help"
+        },
+        {
+          "strongs": "G1459",
+          "hebrew": "ἐγκαταλείπω",
+          "translit": "enkataleípō",
+          "english": "left"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logízomai",
+          "english": "held against"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "But the Lord stood by me, and strengthened me, that through me the message might be fully proclaimed, and that all the Gentiles might hear; and I was delivered out of the mouth of the lion.",
+      "understanding": "ὁ δὲ κύριός μοι παρέστη καὶ ἐνεδυνάμωσέν με, “But the Lord stood by me, and strengthened me.” ἐνδυναμόω from the power family: to put δύναμις into someone, empower from within — the same word as 2:1 (‘be strengthened in the grace’) and as Philippians 4:13. When every human support was gone, Christ Himself stood at Paul's side. And the purpose: “that through me the message might be fully proclaimed, and that all the Gentiles might hear.” Paul's defence before the imperial court became a proclamation of the gospel at the centre of the Gentile world. καὶ ἐρρύσθην ἐκ στόματος λέοντος, “and I was delivered out of the mouth of the lion” — a picture of deadly danger, echoing the psalmist's cry to be saved from the lion's mouth (Psalm 22). It means rescue from immediate death; whether ‘the lion’ points to Nero or to Satan, the text does not say.",
+      "words": [
+        {
+          "strongs": "G3936",
+          "hebrew": "παρίστημι",
+          "translit": "parístēmi",
+          "english": "stood by"
+        },
+        {
+          "strongs": "G1743",
+          "hebrew": "ἐνδυναμόω",
+          "translit": "endynamóō",
+          "english": "strengthened"
+        },
+        {
+          "strongs": "G2782",
+          "hebrew": "κήρυγμα",
+          "translit": "kḗrygma",
+          "english": "message"
+        },
+        {
+          "strongs": "G4135",
+          "hebrew": "πληροφορέω",
+          "translit": "plērophoréō",
+          "english": "fully proclaimed"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "Gentiles"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        },
+        {
+          "strongs": "G4506",
+          "hebrew": "ῥύομαι",
+          "translit": "rhýomai",
+          "english": "delivered"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G3023",
+          "hebrew": "λέων",
+          "translit": "léōn",
+          "english": "lion"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "And the Lord will deliver me from every evil work, and will preserve me for his heavenly Kingdom; to whom be the glory forever and ever. Amen.",
+      "understanding": "ῥύσεταί με ὁ κύριος ἀπὸ παντὸς ἔργου πονηροῦ, “And the Lord will deliver me from every evil work” — πονηρός from the evil family: actively wicked, malicious, the word of ‘the evil one’; ἔργον from the work family. Paul expects to die (v. 6), so this is not a promise of escape from execution. It is a promise that no evil scheme will destroy him: καὶ σώσει εἰς τὴν βασιλείαν αὐτοῦ τὴν ἐπουράνιον, “and will preserve me for his heavenly Kingdom.” Death will carry him into the Kingdom, not out of the Lord's care. ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, “to whom be the glory forever and ever. Amen.” ‘Forever’ is αἰών again — ‘to the ages of the ages’. Demas loved the present αἰών (v. 10); Paul gives glory to God for all the αἰῶνες to come.",
+      "words": [
+        {
+          "strongs": "G4506",
+          "hebrew": "ῥύομαι",
+          "translit": "rhýomai",
+          "english": "deliver"
+        },
+        {
+          "strongs": "G4190",
+          "hebrew": "πονηρός",
+          "translit": "ponērós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "preserve"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Greet Prisca and Aquila, and the house of Onesiphorus.",
+      "understanding": "ἄσπασαι Πρίσκαν καὶ Ἀκύλαν, “Greet Prisca and Aquila, and the house of Onesiphorus.” Prisca is the formal form of Priscilla; this couple worked with Paul in Corinth and Ephesus and risked their lives for him. Paul greets Onesiphorus' household rather than Onesiphorus himself (as in 1:16). Some think Onesiphorus had died, but the text does not say.",
+      "words": [
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "Greet"
+        },
+        {
+          "strongs": "G4251",
+          "hebrew": "Πρίσκα",
+          "translit": "Príska",
+          "english": "Prisca"
+        },
+        {
+          "strongs": "G207",
+          "hebrew": "Ἀκύλας",
+          "translit": "Akýlas",
+          "english": "Aquila"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G3683",
+          "hebrew": "Ὀνησίφορος",
+          "translit": "Onēsíphoros",
+          "english": "Onesiphorus"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Erastus remained at Corinth, but I left Trophimus at Miletus sick.",
+      "understanding": "Ἔραστος ἔμεινεν ἐν Κορίνθῳ, “Erastus remained at Corinth, but I left Trophimus at Miletus sick.” ἀσθενέω, weak, ill. Paul, through whom God had done extraordinary miracles (Acts 19:11), left a friend behind sick. Healing is God's gift to give, not a power the apostles could use at will. Faith and unanswered illness can stand side by side.",
+      "words": [
+        {
+          "strongs": "G2037",
+          "hebrew": "Ἔραστος",
+          "translit": "Érastos",
+          "english": "Erastus"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remained"
+        },
+        {
+          "strongs": "G2882",
+          "hebrew": "Κόρινθος",
+          "translit": "Kórinthos",
+          "english": "Corinth"
+        },
+        {
+          "strongs": "G5161",
+          "hebrew": "Τρόφιμος",
+          "translit": "Tróphimos",
+          "english": "Trophimus"
+        },
+        {
+          "strongs": "G3399",
+          "hebrew": "Μίλητος",
+          "translit": "Mílētos",
+          "english": "Miletus"
+        },
+        {
+          "strongs": "G770",
+          "hebrew": "ἀσθενέω",
+          "translit": "asthenéō",
+          "english": "sick"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "Be diligent to come before winter. Eubulus salutes you, as do Pudens, Linus, Claudia, and all the brothers.",
+      "understanding": "σπούδασον πρὸ χειμῶνος ἐλθεῖν, “Be diligent to come before winter.” Ships stopped sailing in the Mediterranean winter; if Timothy delayed, he might not arrive until spring — perhaps too late. Then greetings from believers in Rome: “Eubulus salutes you, as do Pudens, Linus, Claudia, and all the brothers.” Early church tradition names a Linus as one of the first leaders of the church in Rome; he may be this man. Paul was abandoned by many, but not by all.",
+      "words": [
+        {
+          "strongs": "G4704",
+          "hebrew": "σπουδάζω",
+          "translit": "spoudázō",
+          "english": "Be diligent"
+        },
+        {
+          "strongs": "G5494",
+          "hebrew": "χειμών",
+          "translit": "cheimṓn",
+          "english": "winter"
+        },
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "salutes"
+        },
+        {
+          "strongs": "G2103",
+          "hebrew": "Εὔβουλος",
+          "translit": "Eúboulos",
+          "english": "Eubulus"
+        },
+        {
+          "strongs": "G4227",
+          "hebrew": "Πούδης",
+          "translit": "Poúdēs",
+          "english": "Pudens"
+        },
+        {
+          "strongs": "G3044",
+          "hebrew": "Λίνος",
+          "translit": "Línos",
+          "english": "Linus"
+        },
+        {
+          "strongs": "G2803",
+          "hebrew": "Κλαυδία",
+          "translit": "Klaudía",
+          "english": "Claudia"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "The Lord Jesus Christ be with your spirit. Grace be with you. Amen.",
+      "understanding": "ὁ κύριος μετὰ τοῦ πνεύματός σου, “The Lord Jesus Christ be with your spirit” — ‘your’ is singular: a last blessing for Timothy himself. ἡ χάρις μεθ᾽ ὑμῶν, “Grace be with you. Amen.” — ‘you’ is plural: the whole church. These are Paul's last recorded words. The letter that began with grace (1:2) ends with grace. Paul's final word is not about himself, his chains or his death, but about the Lord's presence and grace.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "Grace"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Herald at Every Hour",
+      "verseRef": "v. 1-5",
+      "image": "Picture a royal herald sent from the palace with an urgent message from the king. He stands in the town square at dawn, when the market is busy and people gather to listen. He stands there again at noon in the scorching heat, when only a few pass by. He stands there at dusk, when the crowd jeers and drifts away to a juggler across the square who tells them pleasant stories. He does not change the message to win back the crowd. He does not wait for a better moment. He simply proclaims what the king has said — patiently, clearly, faithfully — because he knows the king is coming.",
+      "meaning": "“preach the word; be urgent in season and out of season; reprove, rebuke, and exhort, with all patience and teaching” (v. 2). The two time-family words, εὐκαίρως and ἀκαίρως, cover every moment, favourable and unfavourable. Some will have “itching ears” and prefer fables (vv. 3–4). The herald's faithfulness does not depend on the audience's response, but on the King who sent him and who will judge the living and the dead (v. 1)."
+    },
+    {
+      "title": "The Cup Poured Out",
+      "verseRef": "v. 6-8",
+      "image": "Picture an altar in the ancient temple. The sacrifice is laid on it, and the priest lifts a cup of wine and slowly pours it out beside the offering. The wine soaks into the ground and is gone — but it has been given entirely to God. Now picture a runner on the last stretch of a long race, bruised and exhausted, crossing the finishing line. The judge stands waiting with a wreath in his hands.",
+      "meaning": "“For I am already being offered, and the time of my departure has come” (v. 6). Paul's life is the poured-out drink offering; his death is the final drop. But he is not defeated: “I have fought the good fight. I have finished the course. I have kept the faith” (v. 7). And the Judge is waiting with “the crown of righteousness” (v. 8), not only for Paul but for all who love Christ's appearing. Ask the Spirit: is my life being poured out for God, or kept for myself?"
+    },
+    {
+      "title": "Alone in the Courtroom — Yet Not Alone",
+      "verseRef": "v. 16-17",
+      "image": "Picture a vast Roman courtroom with marble columns, a raised judgment seat and rows of officials. An old prisoner in chains stands alone in the centre. He looks around for a friend, an advocate, a witness. Every bench where his supporters should sit is empty. And then, unseen by the court, Someone steps up beside him and stands at his shoulder. The prisoner straightens. His voice grows strong. He begins to speak — not only in his own defence, but about Jesus Christ — and the whole court hears the gospel.",
+      "meaning": "“At my first defense, no one came to help me, but all left me. May it not be held against them. But the Lord stood by me, and strengthened me, that through me the message might be fully proclaimed” (vv. 16–17). When every human support fails, the Lord does not. ἐνδυναμόω means He put power into Paul from within. Whatever courtroom, hospital room or lonely place you face, you are not alone."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Final Charge (v. 1-5)",
+        "body": "Before God and Christ the coming Judge, Paul charges Timothy to preach the word at all times, correcting and encouraging with patience, because people will turn from sound teaching to teachers who suit their desires; Timothy must stay clear-headed, endure hardship, evangelise and fulfil his ministry."
+      },
+      {
+        "label": "Paul's Finish Line (v. 6-8)",
+        "body": "Paul's life is being poured out and his departure is near; he has fought the good fight, finished the race and kept the faith, and the crown of righteousness awaits him and all who love Christ's appearing."
+      },
+      {
+        "label": "Personal Requests and Reports (v. 9-18)",
+        "body": "Paul urges Timothy to come quickly, reports who has left and who remains, asks for Mark, his cloak and his books, warns against Alexander, and recounts how all deserted him at his first defence but the Lord stood with him and will rescue him into His heavenly Kingdom."
+      },
+      {
+        "label": "Final Greetings (v. 19-22)",
+        "body": "Greetings to Prisca, Aquila and Onesiphorus' household, news of Erastus and Trophimus, a plea to come before winter, greetings from Roman believers, and a closing blessing of grace."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Preach the Word, in Season and Out of Season",
+        "paragraphs": [
+          "Paul's last charge is given under the gaze of eternity: “I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom” (v. 1). Ministry is not a career but a stewardship to be reviewed by the returning King. Everything that follows must be read in that light.",
+          "The central command is short: “preach the word” (v. 2). Not opinions, not experiences, not the latest ideas, but the word — the gospel and the God-breathed Scriptures just described in 3:16–17. And it must be preached “in season and out of season” (v. 2). The two time-family adverbs, εὐκαίρως and ἀκαίρως, built on καιρός, cover favourable and unfavourable moments alike. The preacher does not wait for a convenient season. The preaching includes reproof, rebuke and encouragement, all “with all patience and teaching” (v. 2): truth spoken firmly but with long-suffering love.",
+          "Why the urgency? “For the time will come when they will not listen to the sound doctrine, but, having itching ears, will heap up for themselves teachers after their own lusts” (v. 3). People will choose teachers who tell them what they want to hear. They “will turn away their ears from the truth, and turn away to fables” (v. 4). In such times Timothy must “be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry” (v. 5). The answer to a culture of itching ears is not a softer message but a steadier messenger."
+        ]
+      },
+      {
+        "heading": "I Have Fought the Good Fight",
+        "paragraphs": [
+          "Then Paul explains why he is handing over: “For I am already being offered, and the time of my departure has come” (v. 6). He had written years earlier to the Philippians, “Yes, and if I am poured out on the sacrifice and service of your faith, I rejoice, and rejoice with you all” (Philippians 2:17). Now the last of the drink offering is being poured. And ‘departure’ (ἀνάλυσις) pictures a ship loosing its ropes. Paul had told the Philippians he had “the desire to depart and be with Christ, which is far better” (Philippians 1:23).",
+          "He looks back: “I have fought the good fight. I have finished the course. I have kept the faith” (v. 7). Years before, he had told the Ephesian elders, “nor do I hold my life dear to myself, so that I may finish my race with joy” (Acts 20:24). Now he has. This is not pride; it is testimony to the grace that kept him. The fight was καλός, good and noble, because it was for Christ. The course was the one God set. And the faith he kept was both his personal trust and the gospel deposit entrusted to him.",
+          "And he looks forward: “From now on, there is stored up for me the crown of righteousness, which the Lord, the righteous judge, will give to me on that day; and not to me only, but also to all those who have loved his appearing” (v. 8). The Roman court is about to pronounce its verdict, but a higher court will reverse it. And the crown is not only for apostles. It is for every believer who has set their love on Christ's coming. The test is simple: do you love His appearing?"
+        ]
+      },
+      {
+        "heading": "Abandoned, Yet the Lord Stood by Me",
+        "paragraphs": [
+          "The last section is intensely personal. Paul wants Timothy to come quickly (v. 9), because “Demas left me, having loved this present world” (v. 10). The love-family verb ἀγαπάω links verse 10 to verse 8: Demas loved the present age; the faithful love Christ's appearing. Two loves pull every believer. Meanwhile, “Only Luke is with me” (v. 11). Yet there is grace here too: Mark, who once deserted Paul, is now “useful to me for service” (v. 11). Paul asks for his cloak for the cold and his books for his mind (v. 13). He warns about Alexander, who “did much evil to me” (v. 14), and leaves him to the Lord's justice.",
+          "Then comes his account of the trial: “At my first defense, no one came to help me, but all left me. May it not be held against them” (v. 16). Like Jesus on the cross and Stephen under the stones, Paul forgives those who failed him. And he testifies: “But the Lord stood by me, and strengthened me, that through me the message might be fully proclaimed, and that all the Gentiles might hear” (v. 17). Even his trial became a pulpit. The Lord had promised years before that he would testify in Rome, and He kept His word.",
+          "Finally, Paul's confidence: “And the Lord will deliver me from every evil work, and will preserve me for his heavenly Kingdom” (v. 18). He does not expect to escape execution. He expects something better: that no evil will separate him from Christ, and that death will bring him safely into the Kingdom. He ends with greetings, practical news and grace (vv. 19–22). The last words of the great apostle are not a complaint but a doxology and a blessing."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Crown, the Appearing and the Faithful Presence of the Lord",
+      "paragraphs": [
+        "The ‘crown’ promised to the faithful appears across the New Testament. James writes that the one who endures “will receive the crown of life, which the Lord promised to those who love him” (James 1:12). Paul contrasts the athletes' perishable wreath: “Now they do it to receive a corruptible crown, but we an incorruptible” (1 Corinthians 9:25). Peter promises elders, “When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away” (1 Peter 5:4). The crown is not earned by talent but given by grace to those who are faithful.",
+        "Loving Christ's appearing is the mark of the true believer. Titus describes believers as “looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ” (Titus 2:13). The Bible's last prayer is “Amen! Yes, come, Lord Jesus” (Revelation 22:20). Demas chose the other love, which John warns against: “Don’t love the world or the things that are in the world” (1 John 2:15), because “The world is passing away with its lusts, but he who does God’s will remains forever” (1 John 2:17).",
+        "The Lord's standing beside Paul fulfils a pattern. In Jerusalem, “the Lord stood by him” (Acts 23:11) and promised, “Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome” (Acts 23:11). In the storm an angel told him, “Don’t be afraid, Paul. You must stand before Caesar” (Acts 27:24). And Jesus Himself, deserted by His disciples, said, “Yet I am not alone, because the Father is with me” (John 16:32). Hebrews gathers the promise for all believers: “I will in no way leave you, neither will I in any way forsake you” (Hebrews 13:5)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "In season / opportunely",
+      "hebrew": "εὐκαίρως",
+      "translit": "eukaírōs",
+      "strongs": "G2122",
+      "verses": "v. 2",
+      "insight": "Strong's: “opportunely.” It is built from εὖ, well, and καιρός, the fitting moment; its partner ἀκαίρως (G171) means ‘inopportunely’. Together they form a figure of speech meaning ‘whether the time is right or not’. The word of God is not bound to convenient seasons. This study tags both words as members of the time family, beside χρόνος, καιρός, ὥρα, αἰών and ἡμέρα."
+    },
+    {
+      "english": "Pour out as a drink offering",
+      "hebrew": "σπένδω",
+      "translit": "spéndō",
+      "strongs": "G4689",
+      "verses": "v. 6",
+      "insight": "Strong's: “to pour out as a libation, i.e. (figuratively) to devote (one's life or blood, as a sacrifice) (\"spend\").” It appears only twice in the New Testament, both times from Paul about his own life being poured out. In the Old Testament, drink offerings of wine accompanied the sacrifices. Paul sees his whole ministry as an offering to God, and his death as its final pouring."
+    },
+    {
+      "english": "Departure",
+      "hebrew": "ἀνάλυσις",
+      "translit": "análysis",
+      "strongs": "G359",
+      "verses": "v. 6",
+      "insight": "Strong's: “departure.” It comes from ἀναλύω, to unloose — used of untying a ship from its moorings, striking a tent, or a guest leaving a feast. Paul uses the verb in Philippians 1:23 for his desire to depart and be with Christ. Death for a believer is not destruction but release: the ropes are cast off, and the ship sets sail for home."
+    },
+    {
+      "english": "Crown / victor's wreath",
+      "hebrew": "στέφανος",
+      "translit": "stéphanos",
+      "strongs": "G4735",
+      "verses": "v. 8",
+      "insight": "Strong's: “a chaplet (as a badge of royalty, a prize in the public games or a symbol of honor generally; but more conspicuous and elaborate than the simple fillet, G1238 (διάδημα)), literally or figuratively.” In the Greek games the winner received a στέφανος of leaves that soon withered. The believer's crown is of righteousness, life and glory, and never fades. It is given by the righteous Judge to all who love His appearing."
+    },
+    {
+      "english": "Appearing / manifestation",
+      "hebrew": "ἐπιφάνεια",
+      "translit": "epipháneia",
+      "strongs": "G2015",
+      "verses": "v. 1, 8",
+      "insight": "Strong's: “a manifestation, i.e. (specially) the advent of Christ (past or future).” The word was used in the ancient world of a god showing himself or of a ruler's ceremonial arrival in a city. In this letter it is used of both comings of Christ: His first appearing, which abolished death (1:10), and His future appearing in judgment and glory (4:1, 8). Believers live between the two appearings and love both."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "As Paul lays down his pen for the last time, the Holy Spirit speaks to you about faithfulness, about what you love, and about the Lord's presence when others fail.",
+    "items": [
+      {
+        "title": "Every Season Is Gospel Season",
+        "body": "The Spirit is not waiting for a more convenient moment, and neither should you. Some seasons will be favourable, others hostile, but the word must be spoken in both. Ask Him where you have been waiting for the ‘right time’ to speak about Christ, and for courage to speak now, with patience and love."
+      },
+      {
+        "title": "What Is Your Heart's Love?",
+        "body": "Demas loved the present age; Paul loved Christ's appearing. The same verb, two directions. The Spirit gently asks: what are you living for? What would pull you away from Christ's people and mission? Ask Him to deepen your love for Christ's appearing until the passing age loses its grip on you."
+      },
+      {
+        "title": "The Lord Will Stand by You",
+        "body": "There may be times when people you counted on fail you. The Spirit reminds you that the Lord stood by Paul when all deserted him, and that He will stand by you. Bring to Him any wound of abandonment. Ask for grace to forgive as Paul forgave, and for the strength that He alone puts into His people."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Season Check",
+        "body": "Think of one person you have avoided speaking to about Christ because the moment never seemed right. Write their name down and pray about speaking to them this week (v. 2)."
+      },
+      {
+        "title": "The Ears Check",
+        "body": "Honestly assess the teachers and voices you listen to most. Do they tell you what you want to hear, or what is true? Remove one source that tickles your ears and add one that feeds you sound doctrine (vv. 3–4)."
+      },
+      {
+        "title": "The Finish Line Check",
+        "body": "Imagine the end of your life. Could you say, ‘I have fought the good fight, finished the course, kept the faith’? Write down one area where you need to recommit to faithfulness (v. 7)."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Write Your Own Final Letter",
+        "body": "Like Paul, write a letter to someone you love as if it were your last. Tell them what truly matters, what you want them to hold on to, and how you hope they will live. Include your faith in Christ and your hope of His appearing. You do not have to send it, but you may decide to. Let the exercise clarify what you are living for now."
+      },
+      {
+        "title": "Restore a Mark",
+        "body": "Paul restored Mark after a painful break. Think of someone with whom a relationship broke down, especially in ministry or church. Pray for them this week, and if it is right and safe, take one step toward reconciliation: a message, a call or an invitation. Also think of someone who failed and needs to hear that they are still useful for service; tell them."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, You will judge the living and the dead at Your appearing and Your Kingdom. Help me live and serve in the light of that day. Make me ready to speak Your word in season and out of season, with patience and careful teaching. Guard me from itching ears and from teachers who only tell me what I want to hear. Keep me sober in all things, willing to suffer hardship, faithful to do the work of an evangelist and to fulfil the ministry You have given me. Like Paul, let my life be poured out as an offering to You. Give me grace to fight the good fight, finish the course and keep the faith. I set my love on Your appearing, not on this present age. Keep me from the way of Demas. Thank You that failure need not be final, as it was not for Mark. When people fail me, help me forgive as Paul forgave. Stand by me and strengthen me, as You stood by him, so that Your message is fully proclaimed through me. Deliver me from every evil work and bring me safely into Your heavenly Kingdom. To You be the glory forever and ever. Amen. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Paul's Farewell to the Ephesian Elders",
+      "ref": "Acts 20:17-38",
+      "relatedVerses": "v. 3-7",
+      "summary": "Years before writing this letter, Paul called the elders of Ephesus to meet him at Miletus. He reminded them how he had served with tears and taught them the whole counsel of God. He said he did not value his life, “so that I may finish my race with joy” (Acts 20:24). He warned them that “after my departure, vicious wolves will enter in among you, not sparing the flock” (Acts 20:29), and that “Men will arise from among your own selves, speaking perverse things, to draw away the disciples after them” (Acts 20:30). Then he knelt and prayed with them, and they wept, “sorrowing most of all because of the word which he had spoken, that they should see his face no more” (Acts 20:38). 2 Timothy 4 is the fulfilment of that farewell: the race finished, the false teachers arising, and the charge passed on to Timothy in Ephesus."
+    },
+    {
+      "title": "Mark: From Deserter to Useful",
+      "ref": "Acts 13:13; 15:36-41",
+      "relatedVerses": "v. 11",
+      "summary": "On Paul's first missionary journey, John Mark left the team and went home. When Paul and Barnabas planned a second journey, Barnabas wanted to take Mark again, but Paul refused, because Mark had “withdrawn from them in Pamphylia, and didn’t go with them to do the work” (Acts 15:38). The disagreement was so sharp that Paul and Barnabas parted ways. Yet Barnabas invested in Mark, and years later Mark was with Paul again: Paul told the Colossians to welcome him (Colossians 4:10). By the end, Paul writes, “Take Mark, and bring him with you, for he is useful to me for service” (v. 11). Tradition holds that this Mark later wrote the Gospel of Mark. Failure was not the end of his story."
+    },
+    {
+      "title": "The Lord Stands by Paul in Jerusalem and at Sea",
+      "ref": "Acts 23:11; 27:21-26",
+      "relatedVerses": "v. 16-18",
+      "summary": "After a violent riot in Jerusalem, Paul was held in the Roman barracks, his life in danger. That night “the Lord stood by him” (Acts 23:11) and told him, “Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome” (Acts 23:11). Later, in a terrible storm on the way to Rome, Paul stood among the frightened sailors and told them an angel had appeared to him: “For there stood by me this night an angel, belonging to the God whose I am and whom I serve” (Acts 27:23). The angel promised that he must stand before Caesar. At the end, in the Roman courtroom, the promise was fulfilled: “But the Lord stood by me, and strengthened me” (v. 17). The God who stood by Paul at every stage did not leave him at the last."
+    }
+  ]
+}
