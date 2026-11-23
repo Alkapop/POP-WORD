@@ -588,6 +588,45 @@
       ]
     },
     {
+      "id": "birth",
+      "name": "Birth & New Birth",
+      "lang": "Greek",
+      "english": [
+        "born",
+        "born again",
+        "born anew",
+        "gave birth",
+        "bears"
+      ],
+      "intro": "Several Greek words lie behind ‘born’ and ‘birth’. γεννάω is the ordinary word for fathering or being born; Jesus says one must be born ἄνωθεν, ‘anew’ or ‘from above’ (John 3:3). ἀναγεννάω, ‘to beget again’, is Peter’s word for new birth (1 Peter 1:3, 23). ἀποκυέω is to bring forth from the womb — James uses it both for sin giving birth to death and for God giving birth to us by the word of truth (James 1:15, 18). τίκτω is to bear, to give birth.",
+      "members": [
+        {
+          "strongs": "G1080",
+          "sense": "To father, to be born — the ordinary word for birth.",
+          "anchor": "John 3:3",
+          "en": "born"
+        },
+        {
+          "strongs": "G313",
+          "sense": "To beget again, to cause to be born again.",
+          "anchor": "1 Peter 1:3",
+          "en": "born again"
+        },
+        {
+          "strongs": "G616",
+          "sense": "To bring forth from the womb — of sin giving birth to death, and of God giving birth to His children.",
+          "anchor": "James 1:18",
+          "en": "gave birth"
+        },
+        {
+          "strongs": "G5088",
+          "sense": "To bear, to give birth to.",
+          "anchor": "James 1:15",
+          "en": "bears"
+        }
+      ]
+    },
+    {
       "id": "new",
       "name": "New",
       "lang": "Greek",
@@ -1090,7 +1129,8 @@
       "english": [
         "image",
         "form",
-        "likeness"
+        "likeness",
+        "conforming"
       ],
       "intro": "English ‘image’ and ‘form’ hide several Greek words. εἰκών is a true image or portrait that shares in what it shows (Colossians 1:15); χαρακτήρ is the exact imprint a seal or die leaves (Hebrews 1:3). μορφή is the form that expresses what a thing really is (Philippians 2:6), while σχῆμα is outward appearance and ὁμοίωμα likeness. μόρφωσις can be a mere outward shape without the reality (2 Timothy 3:5).",
       "members": [
@@ -1135,6 +1175,12 @@
           "sense": "Likeness, resemblance — the word of Genesis 1:26 in the Greek Old Testament.",
           "anchor": "James 3:9",
           "en": "image"
+        },
+        {
+          "strongs": "G4964",
+          "sense": "To shape oneself after a pattern, to be conformed to an outward mould.",
+          "anchor": "1 Peter 1:14",
+          "en": "conforming"
         }
       ]
     },
@@ -1196,7 +1242,8 @@
         "keep",
         "kept",
         "guard",
-        "holding"
+        "holding",
+        "guarded"
       ],
       "intro": "English ‘hold fast’ and ‘keep’ hide several Greek words. κατέχω is to hold down, keep a firm grip so nothing slips (Hebrews 3:14; 10:23). κρατέω, from κράτος (strength), is to seize and hold with force (Hebrews 4:14). τηρέω is to keep watch over, preserve (2 Timothy 4:7 ‘I have kept the faith’). φυλάσσω is to guard like a sentry (1 Timothy 6:20). ἀντέχομαι is to cling to, hold on against opposition (Titus 1:9).",
       "members": [
@@ -1229,6 +1276,12 @@
           "sense": "To cling to, hold on firmly against pressure.",
           "anchor": "Titus 1:9",
           "en": "holding"
+        },
+        {
+          "strongs": "G5432",
+          "sense": "To guard as a garrison guards a city — to keep under protection.",
+          "anchor": "1 Peter 1:5",
+          "en": "guarded"
         }
       ]
     },
@@ -1322,6 +1375,50 @@
           "sense": "A gift, an offering presented.",
           "anchor": "Ephesians 2:8",
           "en": "gift"
+        }
+      ]
+    },
+    {
+      "id": "redeem",
+      "name": "Redeem, Ransom & Buy",
+      "lang": "Greek",
+      "english": [
+        "redeemed",
+        "bought",
+        "redemption",
+        "ransom"
+      ],
+      "intro": "English ‘redeem’ and ‘ransom’ cover several Greek words from two roots. λύτρον / λυτρόω / ἀπολύτρωσις come from λύω, to loose: a ransom is the price that sets a captive or slave free (Matthew 20:28; 1 Peter 1:18). ἀγοράζω / ἐξαγοράζω come from the ἀγορά, the market-place: to buy, and to buy out of — purchased so as to belong to a new owner (1 Corinthians 6:20; Galatians 3:13). Peter says the price was not silver or gold but “precious blood” (1 Peter 1:19).",
+      "members": [
+        {
+          "strongs": "G3084",
+          "sense": "To ransom, to set free by paying a price.",
+          "anchor": "1 Peter 1:18",
+          "en": "redeemed"
+        },
+        {
+          "strongs": "G3083",
+          "sense": "A ransom — the price paid to free a captive.",
+          "anchor": "Matthew 20:28",
+          "en": "ransom"
+        },
+        {
+          "strongs": "G629",
+          "sense": "Redemption — release secured by a ransom.",
+          "anchor": "Ephesians 1:7",
+          "en": "redemption"
+        },
+        {
+          "strongs": "G59",
+          "sense": "To buy in the market-place — purchased to belong to a new owner.",
+          "anchor": "1 Corinthians 6:20",
+          "en": "bought"
+        },
+        {
+          "strongs": "G1805",
+          "sense": "To buy out of, to buy back — redeemed from slavery to the law’s curse.",
+          "anchor": "Galatians 3:13",
+          "en": "redeemed"
         }
       ]
     },
@@ -1623,7 +1720,8 @@
         "full grown",
         "fulfill",
         "fulfilled",
-        "outcome"
+        "outcome",
+        "fully"
       ],
       "intro": "English ‘perfect’ usually means flawless, but the Greek τέλειος family means reaching the goal (τέλος): complete, mature, fully grown. Hebrews uses it again and again: Christ was ‘made perfect’ — fully qualified as Saviour — through suffering (2:10), and is the ‘perfecter’ of faith (12:2). The law could not bring τελείωσις (7:11). A different root, καταρτίζω / ἄρτιος, means fitted, equipped, mended; ὁλόκληρος means whole in every part.",
       "members": [
@@ -1692,6 +1790,12 @@
           "sense": "The end, the goal — the point God is working towards.",
           "anchor": "James 5:11",
           "en": "outcome"
+        },
+        {
+          "strongs": "G5049",
+          "sense": "Fully, completely — the adverb of τέλειος.",
+          "anchor": "1 Peter 1:13",
+          "en": "fully"
         }
       ]
     },
@@ -1972,7 +2076,8 @@
         "appeared",
         "appearing",
         "revealed",
-        "vanishes"
+        "vanishes",
+        "revelation"
       ],
       "intro": "English ‘appear’ and ‘reveal’ cover several Greek words. ἐπιφαίνω / ἐπιφάνεια is a shining-forth, like dawn breaking or a king’s arrival: Titus uses it for both comings of Christ (2:11, 13; 3:4). φανερόω is to make visible what was hidden; φαίνω, to shine or be seen; ὤφθη (from ὁράω / ὀπτάνομαι), ‘was seen’, is used of the risen Lord’s appearances; ἀποκαλύπτω is to unveil, to take the cover off. Hebrews 9:24–28 uses three of them for Christ’s three appearings: φανερόω (He ‘has been revealed’ once, v. 26), ἐμφανίζω (He now appears before God for us, v. 24) and ὤφθη/ὁράω (He ‘will appear’ a second time, v. 28).",
       "members": [
@@ -2029,6 +2134,12 @@
           "sense": "To make unseen, to vanish — the opposite of φαίνω, to appear.",
           "anchor": "James 4:14",
           "en": "vanishes"
+        },
+        {
+          "strongs": "G602",
+          "sense": "Revelation, unveiling — the moment something hidden is uncovered.",
+          "anchor": "1 Peter 1:7",
+          "en": "revelation"
         }
       ]
     },
