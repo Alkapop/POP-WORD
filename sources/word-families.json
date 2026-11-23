@@ -11,7 +11,8 @@
         "might",
         "authority",
         "working",
-        "dominion"
+        "dominion",
+        "ruler"
       ],
       "intro": "English Bibles say ‘power’ for at least six different Greek words. Paul stacks four of them in one breath in Ephesians 1:19 and lists four ranks of spiritual power in Ephesians 1:21. In Colossians 1:13 the WEB's ‘power of darkness’ is not δύναμις at all but ἐξουσία — authority. Knowing which word stands behind ‘power’ tells you what kind of power is meant.",
       "members": [
@@ -62,6 +63,12 @@
           "sense": "Rule, principality — a position of first rank (also means ‘beginning’). Used for ruling powers, human and spiritual.",
           "anchor": "Ephesians 1:21",
           "en": "rule"
+        },
+        {
+          "strongs": "G1413",
+          "sense": "Ruler, sovereign — one who holds δύναμις; God as the only absolute Sovereign.",
+          "anchor": "1 Timothy 6:15",
+          "en": "Ruler"
         }
       ]
     },
@@ -686,6 +693,12 @@
           "strongs": "G2570",
           "sense": "Good and beautiful — noble, excellent, attractive; the Good Shepherd.",
           "anchor": "John 10:11",
+          "en": "good"
+        },
+        {
+          "strongs": "G14",
+          "sense": "To do good, to work what is good — ἀγαθός put into action, especially generosity.",
+          "anchor": "1 Timothy 6:18",
           "en": "good"
         }
       ]
