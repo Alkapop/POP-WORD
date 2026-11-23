@@ -380,7 +380,7 @@
       "english": [
         "new"
       ],
-      "intro": "Greek has one word for ‘new in kind’ and another for ‘new in time’. ἀνακαίνωσις, ‘renewal’, is built on καινός: the Spirit makes us new in kind, not merely recent.",
+      "intro": "Greek has one word for ‘new in kind’ and another for ‘new in time’. ἀνακαίνωσις, ‘renewal’, is built on καινός: the Spirit makes us new in kind, not merely recent. Hebrews calls the covenant ‘new’ with both words: καινός (8:8, new in kind) and νέος (12:24, freshly given).",
       "members": [
         {
           "strongs": "G2537",
@@ -513,6 +513,12 @@
           "sense": "An honoured attendant — a trusted servant in a household, the title God gave Moses (Hebrews 3:5). Contrasted with the Son who is over the house.",
           "anchor": "Hebrews 3:5",
           "en": "servant"
+        },
+        {
+          "strongs": "G3000",
+          "sense": "To serve in worship — religious service offered to God (or to what stands in His place). Different from δουλεύω (to serve as a slave) and διακονέω (to serve practically).",
+          "anchor": "Hebrews 8:5",
+          "en": "serve"
         }
       ]
     },
@@ -725,6 +731,54 @@
           "sense": "Outward shape — a form that may lack the reality (a ‘form of godliness’).",
           "anchor": "2 Timothy 3:5",
           "en": "form"
+        }
+      ]
+    },
+    {
+      "id": "pattern",
+      "name": "Pattern, Copy & Shadow",
+      "lang": "Greek",
+      "english": [
+        "pattern",
+        "copy",
+        "copies",
+        "shadow",
+        "representations",
+        "symbol",
+        "foreshadowing",
+        "example"
+      ],
+      "intro": "Hebrews explains the old covenant with a family of ‘picture’ words. τύπος is the original pattern or stamp from which copies are made (the plan shown to Moses, 8:5) — and also a ‘type’ that foreshadows (Romans 5:14). ὑπόδειγμα is a copy or sketch (8:5; 9:23), and also an example to follow or avoid (4:11). σκιά is a shadow, cast by a reality not yet seen (8:5; 10:1). ἀντίτυπον is a counterpart that corresponds to the original (9:24). παραβολή is a symbol, a comparison set alongside (9:9). Together they say: the tabernacle, priests and sacrifices were real, but they were pictures of Christ.",
+      "members": [
+        {
+          "strongs": "G5179",
+          "sense": "Pattern, original model — the stamp from which copies are made; also a type that foreshadows.",
+          "anchor": "Hebrews 8:5",
+          "en": "pattern"
+        },
+        {
+          "strongs": "G5262",
+          "sense": "Copy, sketch — a representation of the original; also an example.",
+          "anchor": "Hebrews 8:5",
+          "en": "copy"
+        },
+        {
+          "strongs": "G4639",
+          "sense": "Shadow — the outline cast by a reality not yet seen.",
+          "anchor": "Hebrews 8:5",
+          "en": "shadow"
+        },
+        {
+          "strongs": "G499",
+          "sense": "Counterpart — what corresponds to the original, a representation.",
+          "anchor": "Hebrews 9:24",
+          "en": "representations"
+        },
+        {
+          "strongs": "G3850",
+          "sense": "Symbol, comparison — something set alongside to illustrate.",
+          "anchor": "Hebrews 9:9",
+          "en": "symbol"
         }
       ]
     },
