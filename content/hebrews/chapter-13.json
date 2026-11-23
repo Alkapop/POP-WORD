@@ -1,0 +1,1350 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 13,
+  "chapterTitle": "Life Outside the Camp with the Unchanging Christ",
+  "themeTitle": "“Jesus Christ Is the Same Yesterday, Today, and Forever”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Let brotherly love continue.",
+      "understanding": "ἡ φιλαδελφία μενέτω, “Let brotherly love continue” — φιλαδελφία from the love family: the warm affection of brothers and sisters. μένω, to remain: they already had it (6:10; 10:33–34); it must not fade under pressure. The great doctrine of the letter now becomes ordinary love.",
+      "words": [
+        {
+          "strongs": "G5360",
+          "hebrew": "φιλαδελφία",
+          "translit": "philadelphía",
+          "english": "brotherly love"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "continue"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Don’t forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it.",
+      "understanding": "τῆς φιλοξενίας μὴ ἐπιλανθάνεσθε, “Don’t forget to show hospitality to strangers” — φιλοξενία, added to the love family: love of strangers. Travelling Christians depended on believers' homes; inns were often unsafe and immoral. διὰ ταύτης γὰρ ἔλαθόν τινες ξενίσαντες ἀγγέλους, “for in doing so, some have entertained angels without knowing it” — Abraham and Sarah at Mamre (Genesis 18), and Lot in Sodom.",
+      "words": [
+        {
+          "strongs": "G1950",
+          "hebrew": "ἐπιλανθάνομαι",
+          "translit": "epilanthánomai",
+          "english": "forget"
+        },
+        {
+          "strongs": "G5381",
+          "hebrew": "φιλονεξία",
+          "translit": "philonexía",
+          "english": "hospitality"
+        },
+        {
+          "strongs": "G2990",
+          "hebrew": "λανθάνω",
+          "translit": "lanthánō",
+          "english": "without knowing"
+        },
+        {
+          "strongs": "G3579",
+          "hebrew": "ξενίζω",
+          "translit": "xenízō",
+          "english": "entertained"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Remember those who are in bonds, as bound with them; and those who are ill-treated, since you are also in the body.",
+      "understanding": "μιμνῄσκεσθε τῶν δεσμίων ὡς συνδεδεμένοι, “Remember those who are in bonds, as bound with them” — feel their chains as your own. τῶν κακουχουμένων ὡς καὶ αὐτοὶ ὄντες ἐν σώματι, “and those who are ill-treated, since you are also in the body” — you too are physically vulnerable; it could be you. Jesus said that visiting the prisoner is visiting Him.",
+      "words": [
+        {
+          "strongs": "G3403",
+          "hebrew": "μιμνήσκω",
+          "translit": "mimnḗskō",
+          "english": "Remember"
+        },
+        {
+          "strongs": "G1198",
+          "hebrew": "δέσμιος",
+          "translit": "désmios",
+          "english": "bonds"
+        },
+        {
+          "strongs": "G4887",
+          "hebrew": "συνδέω",
+          "translit": "syndéō",
+          "english": "bound with them"
+        },
+        {
+          "strongs": "G2558",
+          "hebrew": "κακουχέω",
+          "translit": "kakouchéō",
+          "english": "ill-treated"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "body"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Let marriage be held in honor among all, and let the bed be undefiled: but God will judge the sexually immoral and adulterers.",
+      "understanding": "τίμιος ὁ γάμος ἐν πᾶσιν, “Let marriage be held in honor among all” — τίμιος, precious, valued. καὶ ἡ κοίτη ἀμίαντος, “and let the bed be undefiled” — ἀμίαντος, the word used of Jesus as undefiled High Priest (7:26). πόρνους δὲ καὶ μοιχοὺς κρινεῖ ὁ θεός, “but God will judge the sexually immoral and adulterers.” Some in that world despised marriage (as ascetic false teachers did, 1 Timothy 4:3); others despised faithfulness. The writer honours both marriage and purity.",
+      "words": [
+        {
+          "strongs": "G1062",
+          "hebrew": "γάμος",
+          "translit": "gámos",
+          "english": "marriage"
+        },
+        {
+          "strongs": "G5093",
+          "hebrew": "τίμιος",
+          "translit": "tímios",
+          "english": "held in honor"
+        },
+        {
+          "strongs": "G2845",
+          "hebrew": "κοίτη",
+          "translit": "koítē",
+          "english": "bed"
+        },
+        {
+          "strongs": "G283",
+          "hebrew": "ἀμίαντος",
+          "translit": "amíantos",
+          "english": "undefiled"
+        },
+        {
+          "strongs": "G4205",
+          "hebrew": "πόρνος",
+          "translit": "pórnos",
+          "english": "sexually immoral"
+        },
+        {
+          "strongs": "G3432",
+          "hebrew": "μοιχός",
+          "translit": "moichós",
+          "english": "adulterers"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judge"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”",
+      "understanding": "ἀφιλάργυρος ὁ τρόπος, “Be free from the love of money” — ἀφιλάργυρος, added to the love family: not a lover of money, the opposite of the φιλάργυροι of 2 Timothy 3:2. ἀρκούμενοι τοῖς παροῦσιν, “content with such things as you have” — after losing their property, as 10:34 recalls, contentment was a real test. Why? αὐτὸς γὰρ εἴρηκεν, “for he has said,” “I will in no way leave you, neither will I in any way forsake you.” In Greek the promise piles up five negatives — ‘I will never, never, never leave you’. God's presence is better than money.",
+      "words": [
+        {
+          "strongs": "G866",
+          "hebrew": "ἀφιλάργυρος",
+          "translit": "aphilárgyros",
+          "english": "love of money"
+        },
+        {
+          "strongs": "G5158",
+          "hebrew": "τρόπος",
+          "translit": "trópos",
+          "english": "Be"
+        },
+        {
+          "strongs": "G714",
+          "hebrew": "ἀρκέω",
+          "translit": "arkéō",
+          "english": "content"
+        },
+        {
+          "strongs": "G447",
+          "hebrew": "ἀνίημι",
+          "translit": "aníēmi",
+          "english": "leave"
+        },
+        {
+          "strongs": "G1459",
+          "hebrew": "ἐγκαταλείπω",
+          "translit": "enkataleípō",
+          "english": "forsake"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "So that with good courage we say, “The Lord is my helper. I will not fear. What can man do to me?”",
+      "understanding": "ὥστε θαρροῦντας ἡμᾶς λέγειν, “So that with good courage we say” — from Psalm 118: “The Lord is my helper. I will not fear. What can man do to me?” βοηθός, helper (the word of 4:16's ‘help’). Those who had faced confiscation and prison could sing this with meaning.",
+      "words": [
+        {
+          "strongs": "G2292",
+          "hebrew": "θαῤῥέω",
+          "translit": "tharrhéō",
+          "english": "good courage"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G998",
+          "hebrew": "βοηθός",
+          "translit": "boēthós",
+          "english": "helper"
+        },
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "fear"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "do"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Remember your leaders, men who spoke to you the word of God, and considering the results of their conduct, imitate their faith.",
+      "understanding": "μνημονεύετε τῶν ἡγουμένων ὑμῶν, “Remember your leaders” — probably former leaders who had died, perhaps as martyrs. οἵτινες ἐλάλησαν ὑμῖν τὸν λόγον τοῦ θεοῦ, “men who spoke to you the word of God” — λόγος from the word family. ὧν ἀναθεωροῦντες τὴν ἔκβασιν τῆς ἀναστροφῆς, “and considering the results of their conduct” — ἀναθεωρέω, to look carefully again (θεωρέω from the see family); ἔκβασις, the outcome, the way their lives ended. μιμεῖσθε τὴν πίστιν, “imitate their faith.”",
+      "words": [
+        {
+          "strongs": "G3421",
+          "hebrew": "μνημονεύω",
+          "translit": "mnēmoneúō",
+          "english": "Remember"
+        },
+        {
+          "strongs": "G2233",
+          "hebrew": "ἡγέομαι",
+          "translit": "hēgéomai",
+          "english": "leaders"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoke"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G333",
+          "hebrew": "ἀναθεωρέω",
+          "translit": "anatheōréō",
+          "english": "considering"
+        },
+        {
+          "strongs": "G1545",
+          "hebrew": "ἔκβασις",
+          "translit": "ékbasis",
+          "english": "results"
+        },
+        {
+          "strongs": "G391",
+          "hebrew": "ἀναστροφή",
+          "translit": "anastrophḗ",
+          "english": "conduct"
+        },
+        {
+          "strongs": "G3401",
+          "hebrew": "μιμέομαι",
+          "translit": "miméomai",
+          "english": "imitate"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Jesus Christ is the same yesterday, today, and forever.",
+      "understanding": "Ἰησοῦς Χριστὸς ἐχθὲς καὶ σήμερον ὁ αὐτὸς καὶ εἰς τοὺς αἰῶνας, “Jesus Christ is the same yesterday, today, and forever.” Two time-family words: σήμερον, ‘today’ (the word of chapters 3–4), and αἰών, the ages. Leaders change and die (v. 7); Jesus does not. He is the same Son of 1:12 (‘you are the same’), the same High Priest who lives forever. The God of Malachi said the same: He does not change.",
+      "words": [
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        },
+        {
+          "strongs": "G5504",
+          "hebrew": "χθές",
+          "translit": "chthés",
+          "english": "yesterday"
+        },
+        {
+          "strongs": "G4594",
+          "hebrew": "σήμερον",
+          "translit": "sḗmeron",
+          "english": "today"
+        },
+        {
+          "strongs": "G846",
+          "hebrew": "αὐτός",
+          "translit": "autós",
+          "english": "same"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Don’t be carried away by various and strange teachings, for it is good that the heart be established by grace, not by food, through which those who were so occupied were not benefited.",
+      "understanding": "διδαχαῖς ποικίλαις καὶ ξέναις μὴ παραφέρεσθε, “Don’t be carried away by various and strange teachings” — ξένος, foreign: the same root as ‘strangers’ in v. 2. Welcome strangers; do not welcome strange doctrines. καλὸν γὰρ χάριτι βεβαιοῦσθαι τὴν καρδίαν, “for it is good that the heart be established by grace” — καλός from the good family. οὐ βρώμασιν, “not by food” — ritual food laws and sacrificial meals. ἐν οἷς οὐκ ὠφελήθησαν οἱ περιπατοῦντες, “through which those who were so occupied were not benefited.”",
+      "words": [
+        {
+          "strongs": "G4064",
+          "hebrew": "περιφέρω",
+          "translit": "periphérō",
+          "english": "carried away"
+        },
+        {
+          "strongs": "G4164",
+          "hebrew": "ποικίλος",
+          "translit": "poikílos",
+          "english": "various"
+        },
+        {
+          "strongs": "G3581",
+          "hebrew": "ξένος",
+          "translit": "xénos",
+          "english": "strange"
+        },
+        {
+          "strongs": "G1322",
+          "hebrew": "διδαχή",
+          "translit": "didachḗ",
+          "english": "teachings"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G950",
+          "hebrew": "βεβαιόω",
+          "translit": "bebaióō",
+          "english": "established"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G1033",
+          "hebrew": "βρῶμα",
+          "translit": "brōma",
+          "english": "food"
+        },
+        {
+          "strongs": "G5623",
+          "hebrew": "ὠφελέω",
+          "translit": "ōpheléō",
+          "english": "benefited"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "occupied"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "We have an altar from which those who serve the holy tabernacle have no right to eat.",
+      "understanding": "ἔχομεν θυσιαστήριον, “We have an altar” — the cross of Christ, His sacrifice. ἐξ οὗ φαγεῖν οὐκ ἔχουσιν ἐξουσίαν οἱ τῇ σκηνῇ λατρεύοντες, “from which those who serve the holy tabernacle have no right to eat.” ἐξουσία from the power family: here ‘right’, authorisation. λατρεύω from the servant family. Those who cling to the old system as the way to God do not share in Christ's sacrifice.",
+      "words": [
+        {
+          "strongs": "G2379",
+          "hebrew": "θυσιαστήριον",
+          "translit": "thysiastḗrion",
+          "english": "altar"
+        },
+        {
+          "strongs": "G5315",
+          "hebrew": "φάγω",
+          "translit": "phágō",
+          "english": "eat"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "right"
+        },
+        {
+          "strongs": "G4633",
+          "hebrew": "σκηνή",
+          "translit": "skēnḗ",
+          "english": "tabernacle"
+        },
+        {
+          "strongs": "G3000",
+          "hebrew": "λατρεύω",
+          "translit": "latreúō",
+          "english": "serve"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin, are burned outside of the camp.",
+      "understanding": "ὧν γὰρ εἰσφέρεται ζῴων τὸ αἷμα περὶ ἁμαρτίας εἰς τὰ ἅγια διὰ τοῦ ἀρχιερέως, “For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin,” τούτων τὰ σώματα κατακαίεται ἔξω τῆς παρεμβολῆς, “are burned outside of the camp” — on the Day of Atonement, the sin-offering carcasses were not eaten but burned outside the camp (Leviticus 16).",
+      "words": [
+        {
+          "strongs": "G2226",
+          "hebrew": "ζῶον",
+          "translit": "zōon",
+          "english": "animals"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G1533",
+          "hebrew": "εἰσφέρω",
+          "translit": "eisphérō",
+          "english": "brought"
+        },
+        {
+          "strongs": "G39",
+          "hebrew": "ἅγιον",
+          "translit": "hágion",
+          "english": "holy place"
+        },
+        {
+          "strongs": "G749",
+          "hebrew": "ἀρχιερεύς",
+          "translit": "archiereús",
+          "english": "high priest"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "bodies"
+        },
+        {
+          "strongs": "G2618",
+          "hebrew": "κατακαίω",
+          "translit": "katakaíō",
+          "english": "burned"
+        },
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outside"
+        },
+        {
+          "strongs": "G3925",
+          "hebrew": "παρεμβολή",
+          "translit": "parembolḗ",
+          "english": "camp"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Therefore Jesus also, that he might sanctify the people through his own blood, suffered outside of the gate.",
+      "understanding": "διὸ καὶ Ἰησοῦς, ἵνα ἁγιάσῃ διὰ τοῦ ἰδίου αἵματος τὸν λαόν, “Therefore Jesus also, that he might sanctify the people through his own blood,” ἔξω τῆς πύλης ἔπαθεν, “suffered outside of the gate” — Golgotha was outside Jerusalem's walls. He fulfilled the sin offering in the place of rejection.",
+      "words": [
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "sanctify"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        },
+        {
+          "strongs": "G2398",
+          "hebrew": "ἴδιος",
+          "translit": "ídios",
+          "english": "own"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outside"
+        },
+        {
+          "strongs": "G4439",
+          "hebrew": "πύλη",
+          "translit": "pýlē",
+          "english": "gate"
+        },
+        {
+          "strongs": "G3958",
+          "hebrew": "πάσχω",
+          "translit": "páschō",
+          "english": "suffered"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Let us therefore go out to him outside of the camp, bearing his reproach.",
+      "understanding": "τοίνυν ἐξερχώμεθα πρὸς αὐτὸν ἔξω τῆς παρεμβολῆς, “Let us therefore go out to him outside of the camp” — leave the security of the old religious system and its approval. τὸν ὀνειδισμὸν αὐτοῦ φέροντες, “bearing his reproach” — the very reproach Moses chose in 11:26. This was the readers' real decision: stay inside the camp of respectable religion, or go out to Jesus and share His rejection.",
+      "words": [
+        {
+          "strongs": "G1831",
+          "hebrew": "ἐξέρχομαι",
+          "translit": "exérchomai",
+          "english": "go out"
+        },
+        {
+          "strongs": "G1854",
+          "hebrew": "ἔξω",
+          "translit": "éxō",
+          "english": "outside"
+        },
+        {
+          "strongs": "G3925",
+          "hebrew": "παρεμβολή",
+          "translit": "parembolḗ",
+          "english": "camp"
+        },
+        {
+          "strongs": "G3680",
+          "hebrew": "ὀνειδισμός",
+          "translit": "oneidismós",
+          "english": "reproach"
+        },
+        {
+          "strongs": "G5342",
+          "hebrew": "φέρω",
+          "translit": "phérō",
+          "english": "bearing"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For we don’t have here an enduring city, but we seek that which is to come.",
+      "understanding": "οὐ γὰρ ἔχομεν ὧδε μένουσαν πόλιν, “For we don’t have here an enduring city” — not even Jerusalem, which would soon be destroyed. ἀλλὰ τὴν μέλλουσαν ἐπιζητοῦμεν, “but we seek that which is to come” — the city with foundations that Abraham sought (11:10, 16).",
+      "words": [
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "enduring"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G3195",
+          "hebrew": "μέλλω",
+          "translit": "méllō",
+          "english": "to come"
+        },
+        {
+          "strongs": "G1934",
+          "hebrew": "ἐπιζητέω",
+          "translit": "epizētéō",
+          "english": "seek"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Through him, then, let us offer up a sacrifice of praise to God continually, that is, the fruit of lips which proclaim allegiance to his name.",
+      "understanding": "δι᾽ αὐτοῦ οὖν ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ θεῷ, “Through him, then, let us offer up a sacrifice of praise to God continually” — two offering-family words: ἀναφέρω and θυσία. The animal sacrifices have ended, but believers still offer sacrifices. τοῦτ᾽ ἔστιν καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ, “that is, the fruit of lips which proclaim allegiance to his name” — ὁμολογέω, to confess, acknowledge openly.",
+      "words": [
+        {
+          "strongs": "G399",
+          "hebrew": "ἀναφέρω",
+          "translit": "anaphérō",
+          "english": "offer up"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifice"
+        },
+        {
+          "strongs": "G133",
+          "hebrew": "αἴνεσις",
+          "translit": "aínesis",
+          "english": "praise"
+        },
+        {
+          "strongs": "G1275",
+          "hebrew": "διαπαντός",
+          "translit": "diapantós",
+          "english": "continually"
+        },
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpós",
+          "english": "fruit"
+        },
+        {
+          "strongs": "G5491",
+          "hebrew": "χεῖλος",
+          "translit": "cheîlos",
+          "english": "lips"
+        },
+        {
+          "strongs": "G3670",
+          "hebrew": "ὁμολογέω",
+          "translit": "homologéō",
+          "english": "proclaim allegiance"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "But don’t forget to be doing good and sharing, for with such sacrifices God is well pleased.",
+      "understanding": "τῆς δὲ εὐποιΐας καὶ κοινωνίας μὴ ἐπιλανθάνεσθε, “But don’t forget to be doing good and sharing” — εὐποιΐα, added to the good family: doing good, practical kindness; κοινωνία, sharing what you have. τοιαύταις γὰρ θυσίαις εὐαρεστεῖται ὁ θεός, “for with such sacrifices God is well pleased.” θυσία again: praise (v. 15) and generosity (v. 16) are the sacrifices of the new covenant.",
+      "words": [
+        {
+          "strongs": "G2140",
+          "hebrew": "εὐποιΐα",
+          "translit": "eupoiḯa",
+          "english": "doing good"
+        },
+        {
+          "strongs": "G2842",
+          "hebrew": "κοινωνία",
+          "translit": "koinōnía",
+          "english": "sharing"
+        },
+        {
+          "strongs": "G1950",
+          "hebrew": "ἐπιλανθάνομαι",
+          "translit": "epilanthánomai",
+          "english": "forget"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifices"
+        },
+        {
+          "strongs": "G2100",
+          "hebrew": "εὐαρεστέω",
+          "translit": "euarestéō",
+          "english": "well pleased"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Obey your leaders and submit to them, for they watch on behalf of your souls, as those who will give account, that they may do this with joy, and not with groaning, for that would be unprofitable for you.",
+      "understanding": "πείθεσθε τοῖς ἡγουμένοις ὑμῶν καὶ ὑπείκετε, “Obey your leaders and submit to them” — present leaders (compare v. 7). αὐτοὶ γὰρ ἀγρυπνοῦσιν ὑπὲρ τῶν ψυχῶν ὑμῶν, “for they watch on behalf of your souls” — ἀγρυπνέω, added to the sleep family: to go without sleep, to keep watch like a shepherd at night. ψυχή from the life family. ὡς λόγον ἀποδώσοντες, “as those who will give account” — λόγος again, as in 4:13. ἵνα μετὰ χαρᾶς τοῦτο ποιῶσιν καὶ μὴ στενάζοντες, “that they may do this with joy, and not with groaning,” ἀλυσιτελὲς γὰρ ὑμῖν τοῦτο, “for that would be unprofitable for you.”",
+      "words": [
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "Obey"
+        },
+        {
+          "strongs": "G2233",
+          "hebrew": "ἡγέομαι",
+          "translit": "hēgéomai",
+          "english": "leaders"
+        },
+        {
+          "strongs": "G5226",
+          "hebrew": "ὑπείκω",
+          "translit": "hypeíkō",
+          "english": "submit"
+        },
+        {
+          "strongs": "G69",
+          "hebrew": "ἀγρυπνέω",
+          "translit": "agrypnéō",
+          "english": "watch"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "souls"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "account"
+        },
+        {
+          "strongs": "G591",
+          "hebrew": "ἀποδίδωμι",
+          "translit": "apodídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        },
+        {
+          "strongs": "G4727",
+          "hebrew": "στενάζω",
+          "translit": "stenázō",
+          "english": "groaning"
+        },
+        {
+          "strongs": "G255",
+          "hebrew": "ἀλυσιτελής",
+          "translit": "alysitelḗs",
+          "english": "unprofitable"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Pray for us, for we are persuaded that we have a good conscience, desiring to live honorably in all things.",
+      "understanding": "προσεύχεσθε περὶ ἡμῶν, “Pray for us” — προσεύχομαι from the pray family. πειθόμεθα γὰρ ὅτι καλὴν συνείδησιν ἔχομεν, “for we are persuaded that we have a good conscience” — καλός from the good family. ἐν πᾶσιν καλῶς θέλοντες ἀναστρέφεσθαι, “desiring to live honorably in all things” — καλῶς, beautifully, honourably.",
+      "words": [
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "Pray"
+        },
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "persuaded"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        },
+        {
+          "strongs": "G2573",
+          "hebrew": "καλῶς",
+          "translit": "kalōs",
+          "english": "honorably"
+        },
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "desiring"
+        },
+        {
+          "strongs": "G390",
+          "hebrew": "ἀναστρέφω",
+          "translit": "anastréphō",
+          "english": "live"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "I strongly urge you to do this, that I may be restored to you sooner.",
+      "understanding": "περισσοτέρως δὲ παρακαλῶ τοῦτο ποιῆσαι, “I strongly urge you to do this,” ἵνα τάχιον ἀποκατασταθῶ ὑμῖν, “that I may be restored to you sooner.” The writer was kept away — perhaps by imprisonment or other duties — and believed their prayers could make a difference.",
+      "words": [
+        {
+          "strongs": "G4056",
+          "hebrew": "περισσοτέρως",
+          "translit": "perissotérōs",
+          "english": "strongly"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "urge"
+        },
+        {
+          "strongs": "G600",
+          "hebrew": "ἀποκαθίστημι",
+          "translit": "apokathístēmi",
+          "english": "restored"
+        },
+        {
+          "strongs": "G5032",
+          "hebrew": "τάχιον",
+          "translit": "táchion",
+          "english": "sooner"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Now may the God of peace, who brought again from the dead the great shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus,",
+      "understanding": "A great benediction. ὁ δὲ θεὸς τῆς εἰρήνης, “Now may the God of peace” — after so many warnings, God is the God of peace. ὁ ἀναγαγὼν ἐκ νεκρῶν, “who brought again from the dead” — the only direct mention of the resurrection in Hebrews, using ἀνάγω, ‘led up’. τὸν ποιμένα τῶν προβάτων τὸν μέγαν, “the great shepherd of the sheep” — as Moses brought Israel up from the sea, God brought up the great Shepherd from death. ἐν αἵματι διαθήκης αἰωνίου, “with the blood of an eternal covenant, our Lord Jesus.”",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        },
+        {
+          "strongs": "G321",
+          "hebrew": "ἀνάγω",
+          "translit": "anágō",
+          "english": "brought again"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G4166",
+          "hebrew": "ποιμήν",
+          "translit": "poimḗn",
+          "english": "shepherd"
+        },
+        {
+          "strongs": "G4263",
+          "hebrew": "πρόβατον",
+          "translit": "próbaton",
+          "english": "sheep"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiṓnios",
+          "english": "eternal"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "make you complete in every good work to do his will, working in you that which is well pleasing in his sight, through Jesus Christ, to whom be the glory forever and ever. Amen.",
+      "understanding": "καταρτίσαι ὑμᾶς ἐν παντὶ ἔργῳ ἀγαθῷ εἰς τὸ ποιῆσαι τὸ θέλημα αὐτοῦ, “make you complete in every good work to do his will” — καταρτίζω from the perfect family: fit you out, equip, mend; ἔργον and ἀγαθός from the work and good families. ποιῶν ἐν ὑμῖν τὸ εὐάρεστον ἐνώπιον αὐτοῦ, “working in you that which is well pleasing in his sight” — God works in us what He asks of us. διὰ Ἰησοῦ Χριστοῦ, ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, “through Jesus Christ, to whom be the glory forever and ever. Amen.” αἰών from the time family.",
+      "words": [
+        {
+          "strongs": "G2675",
+          "hebrew": "καταρτίζω",
+          "translit": "katartízō",
+          "english": "make you complete"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "do"
+        },
+        {
+          "strongs": "G2307",
+          "hebrew": "θέλημα",
+          "translit": "thélēma",
+          "english": "will"
+        },
+        {
+          "strongs": "G2101",
+          "hebrew": "εὐάρεστος",
+          "translit": "euárestos",
+          "english": "well pleasing"
+        },
+        {
+          "strongs": "G1799",
+          "hebrew": "ἐνώπιον",
+          "translit": "enṓpion",
+          "english": "in his sight"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "But I exhort you, brothers, endure the word of exhortation; for I have written to you in few words.",
+      "understanding": "παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, ἀνέχεσθε τοῦ λόγου τῆς παρακλήσεως, “But I exhort you, brothers, endure the word of exhortation” — λόγος from the word family. The writer calls his letter a sermon and asks them to bear with it, including its hard warnings. καὶ γὰρ διὰ βραχέων ἐπέστειλα ὑμῖν, “for I have written to you in few words” — Hebrews takes under an hour to read aloud; he could have said much more (9:5; 11:32).",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G430",
+          "hebrew": "ἀνέχομαι",
+          "translit": "anéchomai",
+          "english": "endure"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G3874",
+          "hebrew": "παράκλησις",
+          "translit": "paráklēsis",
+          "english": "exhortation"
+        },
+        {
+          "strongs": "G1024",
+          "hebrew": "βραχύς",
+          "translit": "brachýs",
+          "english": "few"
+        },
+        {
+          "strongs": "G1989",
+          "hebrew": "ἐπιστέλλω",
+          "translit": "epistéllō",
+          "english": "written"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "Know that our brother Timothy has been freed, with whom, if he comes shortly, I will see you.",
+      "understanding": "γινώσκετε τὸν ἀδελφὸν Τιμόθεον ἀπολελυμένον, “Know that our brother Timothy has been freed” — γινώσκω from the know family. This is the only mention of Timothy being imprisoned; we do not know when or where it happened. The writer was clearly part of Paul's circle, but he does not give his name. μεθ᾽ οὗ, ἐὰν τάχιον ἔρχηται, ὄψομαι ὑμᾶς, “with whom, if he comes shortly, I will see you” — ὁράω from the see family.",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "Know"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G5095",
+          "hebrew": "Τιμόθεος",
+          "translit": "Timótheos",
+          "english": "Timothy"
+        },
+        {
+          "strongs": "G630",
+          "hebrew": "ἀπολύω",
+          "translit": "apolýō",
+          "english": "freed"
+        },
+        {
+          "strongs": "G5032",
+          "hebrew": "τάχιον",
+          "translit": "táchion",
+          "english": "shortly"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "see"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "Greet all of your leaders and all the saints. The Italians greet you.",
+      "understanding": "ἀσπάσασθε πάντας τοὺς ἡγουμένους ὑμῶν καὶ πάντας τοὺς ἁγίους, “Greet all of your leaders and all the saints.” ἀσπάζονται ὑμᾶς οἱ ἀπὸ τῆς Ἰταλίας, “The Italians greet you.” This may mean believers in Italy sending greetings (if the writer was there), or Italians living elsewhere sending greetings home (if the readers were in Rome). Many think the letter was sent to believers in or near Rome, but it cannot be proved.",
+      "words": [
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "Greet"
+        },
+        {
+          "strongs": "G2233",
+          "hebrew": "ἡγέομαι",
+          "translit": "hēgéomai",
+          "english": "leaders"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G2482",
+          "hebrew": "Ἰταλία",
+          "translit": "Italía",
+          "english": "Italians"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Grace be with you all. Amen.",
+      "understanding": "ἡ χάρις μετὰ πάντων ὑμῶν. ἀμήν, “Grace be with you all. Amen.” The letter that showed the throne of grace (4:16) and warned against insulting the Spirit of grace (10:29) ends as all the apostolic letters do: with grace, for everyone.",
+      "words": [
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "Grace"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Unexpected Guests",
+      "verseRef": "v. 1-3",
+      "image": "Picture an old man sitting at the entrance of his tent in the heat of the day. He looks up and sees three travellers standing nearby. He runs to meet them, bows low and begs them to rest under his tree. He and his wife hurry to bake bread and prepare a calf. He serves them with his own hands. Only later does he realise that the guests were messengers of God — and that the Lord Himself had visited him.",
+      "meaning": "“Let brotherly love continue” (v. 1). “Don’t forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it” (v. 2). “Remember those who are in bonds, as bound with them” (v. 3). Love of believers, love of strangers and love of the suffering are the shape of a church that holds fast to Christ. Ask the Spirit whom you should welcome or remember this week."
+    },
+    {
+      "title": "The Same Yesterday, Today and Forever",
+      "verseRef": "v. 7-8",
+      "image": "Picture a church noticeboard covered with photographs of pastors and leaders from years gone by — some young, some grey-haired, many now gone. Each served, preached, prayed and died. Below the photographs, carved into the wall, is a single unchanging inscription. Generations come and go; leaders rise and fall; the words on the wall remain.",
+      "meaning": "“Remember your leaders, men who spoke to you the word of God, and considering the results of their conduct, imitate their faith” (v. 7). “Jesus Christ is the same yesterday, today, and forever” (v. 8). Faithful leaders are gifts, but they pass. Christ does not. His grace, His priesthood, His promises are the same now as when your faith began, and they will be the same forever."
+    },
+    {
+      "title": "Outside the Camp",
+      "verseRef": "v. 11-14",
+      "image": "Picture the great camp of Israel, with the tabernacle at its centre, the priests busy, the people secure. Outside the boundary, beyond the tents, is a smouldering heap where the bodies of the sin offerings are burned. No one wants to go there; it is the place of rejection. Then picture a hill outside the walls of Jerusalem, where Jesus hangs on a cross. And picture a small company of believers walking out through the city gate, leaving the comfortable centre, to stand with Him.",
+      "meaning": "“Therefore Jesus also, that he might sanctify the people through his own blood, suffered outside of the gate” (v. 12). “Let us therefore go out to him outside of the camp, bearing his reproach” (v. 13). “For we don’t have here an enduring city, but we seek that which is to come” (v. 14). Following Jesus may mean leaving places of approval and comfort. Ask the Spirit for courage to go to Him, wherever He is."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Love in Practice (v. 1-6)",
+        "body": "Let brotherly love continue; show hospitality to strangers; remember prisoners and the ill-treated; honour marriage and keep it pure; be free from the love of money and content, because God has promised never to leave or forsake His people, so they can say with confidence that the Lord is their helper."
+      },
+      {
+        "label": "Leaders, the Unchanging Christ and Strange Teaching (v. 7-9)",
+        "body": "Remember former leaders who spoke God's word and imitate their faith; Jesus Christ is the same yesterday, today and forever; do not be carried away by various strange teachings, for the heart is strengthened by grace, not by food rules."
+      },
+      {
+        "label": "Outside the Camp (v. 10-16)",
+        "body": "Believers have an altar from which those who serve the tabernacle have no right to eat; as sin-offering bodies were burned outside the camp, Jesus suffered outside the gate to sanctify His people by His blood, so we go out to Him bearing His reproach, seeking the city to come; through Him we offer continual sacrifices of praise and the sacrifices of doing good and sharing, which please God."
+      },
+      {
+        "label": "Leaders, Prayer and Benediction (v. 17-25)",
+        "body": "Obey present leaders who keep watch over souls and will give account; pray for the writer, who has a clear conscience and wants to return soon; may the God of peace, who brought back from the dead the great Shepherd of the sheep by the blood of the eternal covenant, equip them with every good thing to do His will; bear with this brief word of exhortation; Timothy has been released; greetings from those of Italy; grace be with all."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Love That Holds Fast",
+        "paragraphs": [
+          "After twelve chapters of soaring doctrine and solemn warnings, Hebrews ends with ordinary Christian living. “Let brotherly love continue” (v. 1). Two love-family words open the chapter: φιλαδελφία, brotherly love, and φιλοξενία, love of strangers. “Don’t forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it” (v. 2). Paul urges the same: “In love of the brothers be tenderly affectionate to one another” (Romans 12:10), and Peter says, “Be hospitable to one another without grumbling” (1 Peter 4:9).",
+          "Love reaches those who suffer: “Remember those who are in bonds, as bound with them; and those who are ill-treated, since you are also in the body” (v. 3). Jesus said, “I was in prison, and you came to me” (Matthew 25:36). Love honours marriage: “Let marriage be held in honor among all, and let the bed be undefiled” (v. 4). And love is free from greed: “Be free from the love of money, content with such things as you have” (v. 5).",
+          "The reason for contentment is God's presence. He has said, “I will in no way leave you, neither will I in any way forsake you” (v. 5). Paul learned the same secret: “for I have learned in whatever state I am, to be content in it” (Philippians 4:11). And so believers can say, “The Lord is my helper. I will not fear. What can man do to me?” (v. 6). Paul asks, “If God is for us, who can be against us?” (Romans 8:31)."
+        ]
+      },
+      {
+        "heading": "The Same Yesterday, Today and Forever",
+        "paragraphs": [
+          "The readers are to “Remember your leaders, men who spoke to you the word of God, and considering the results of their conduct, imitate their faith” (v. 7). Their first leaders had probably died, some perhaps as martyrs. Leaders come and go, but “Jesus Christ is the same yesterday, today, and forever” (v. 8). Two time-family words — σήμερον (‘today’) and αἰών (‘forever’) — sum up the letter's message: the Christ of the past is the Christ of now and of every age to come. God said through Malachi, “For I, Yahweh, don’t change” (Malachi 3:6).",
+          "Because Christ does not change, believers should not be “carried away by various and strange teachings, for it is good that the heart be established by grace, not by food” (v. 9). The Greek for ‘strange’ (ξένος) shares its root with ‘strangers’ (v. 2): believers should welcome strangers but not strange doctrines. The heart is strengthened by God's grace in Christ, not by religious rules about food and ritual.",
+          "So the readers face a choice. “Therefore Jesus also, that he might sanctify the people through his own blood, suffered outside of the gate” (v. 12). “Let us therefore go out to him outside of the camp, bearing his reproach” (v. 13). John records that Jesus “went out, bearing his cross, to the place called ‘The Place of a Skull’” (John 19:17). To follow Him may mean leaving the security of accepted religion. But “we don’t have here an enduring city, but we seek that which is to come” (v. 14)."
+        ]
+      },
+      {
+        "heading": "New-Covenant Sacrifices and the God of Peace",
+        "paragraphs": [
+          "The animal sacrifices are finished, but believers still offer sacrifices. “Through him, then, let us offer up a sacrifice of praise to God continually, that is, the fruit of lips which proclaim allegiance to his name” (v. 15). “But don’t forget to be doing good and sharing, for with such sacrifices God is well pleased” (v. 16). Two offering-family words describe praise and generosity as the worship of the new covenant. Peter calls believers “a holy priesthood, to offer up spiritual sacrifices, acceptable to God through Jesus Christ” (1 Peter 2:5).",
+          "Leaders are to be followed, because “they watch on behalf of your souls, as those who will give account” (v. 17). The word ‘watch’ (ἀγρυπνέω) means to go without sleep, like a shepherd guarding a flock at night. And the writer asks for prayer: “Pray for us, for we are persuaded that we have a good conscience, desiring to live honorably in all things” (v. 18). Paul asked the same: “Brothers, pray for us” (1 Thessalonians 5:25).",
+          "The letter closes with one of the most beautiful benedictions in Scripture: “Now may the God of peace, who brought again from the dead the great shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus” (v. 20), “make you complete in every good work to do his will, working in you that which is well pleasing in his sight, through Jesus Christ, to whom be the glory forever and ever. Amen” (v. 21). Jesus is “the good shepherd” who “lays down his life for the sheep” (John 10:11). The perfect-family word καταρτίζω promises that God will equip us for everything He asks, because He Himself is working in us. As Paul writes, “For it is God who works in you both to will and to work, for his good pleasure” (Philippians 2:13)."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Hospitality, Contentment and the Great Shepherd",
+      "paragraphs": [
+        "Hospitality was a mark of the early church. Paul lists it among the marks of love: “contributing to the needs of the saints; given to hospitality” (Romans 12:13). Jesus said, “I was a stranger, and you took me in” (Matthew 25:35). Contentment is a recurring theme: “But godliness with contentment is great gain” (1 Timothy 6:6), and “But having food and clothing, we will be content with that” (1 Timothy 6:8). Jesus taught, “But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well” (Matthew 6:33).",
+        "The sacrifices of the new covenant include generosity. Paul called the Philippians' gift “a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God” (Philippians 4:18). Paul also urged believers to honour their leaders: “to respect and honor them in love for their work’s sake” (1 Thessalonians 5:13). Leaders are under-shepherds of the flock which God “purchased with his own blood” (Acts 20:28).",
+        "Jesus is the Shepherd of His people in every age. Peter writes, “For you were going astray like sheep; but now have returned to the Shepherd and Overseer of your souls” (1 Peter 2:25), and promises, “When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away” (1 Peter 5:4). And the unchanging Christ is the Lord “who is and who was and who is to come, the Almighty” (Revelation 1:8)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Hospitality / love of strangers",
+      "hebrew": "φιλονεξία",
+      "translit": "philonexía",
+      "strongs": "G5381",
+      "verses": "v. 2",
+      "insight": "Strong's: “hospitableness.” The dictionary spells the word φιλονεξία, but it is φιλοξενία, from φίλος (friend, lover) and ξένος (stranger). Paul lists it among the marks of genuine love (Romans 12:13), and it is a qualification for church leaders (φιλόξενος, Titus 1:8). This study adds it to the love family. Hospitality is love that opens the door to those who are not yet friends."
+    },
+    {
+      "english": "Free from the love of money",
+      "hebrew": "ἀφιλάργυρος",
+      "translit": "aphilárgyros",
+      "strongs": "G866",
+      "verses": "v. 5",
+      "insight": "Strong's: “unavaricious.” It is the negative of φιλάργυρος, ‘lover of money’ (2 Timothy 3:2). Paul requires it of overseers (1 Timothy 3:3). It describes a person whose heart is not owned by money. The writer grounds it not in willpower but in God's promise never to leave or forsake His people: when God is your security, money loses its grip."
+    },
+    {
+      "english": "Yesterday / in time past",
+      "hebrew": "χθές",
+      "translit": "chthés",
+      "strongs": "G5504",
+      "verses": "v. 8",
+      "insight": "Strong's: “\"yesterday\"; by extension, in time past or hitherto.” Here, in the letter's great confession about Christ, ‘yesterday’ refers to the whole past — the Christ who created the worlds, spoke through the prophets, lived, died, rose and ascended. He is the same ‘today’ (σήμερον, the word of Psalm 95 in chapters 3–4) and ‘forever’ (εἰς τοὺς αἰῶνας). His character, power and promises do not change."
+    },
+    {
+      "english": "Praise / thank-offering",
+      "hebrew": "αἴνεσις",
+      "translit": "aínesis",
+      "strongs": "G133",
+      "verses": "v. 15",
+      "insight": "Strong's: “a praising (the act), i.e. (specially) a thank(-offering).” It appears only here in the New Testament. In the Greek Old Testament it translated the ‘thanksgiving offering’, a peace offering brought to give thanks to God. Now, with animal sacrifices ended, believers offer praise itself as their sacrifice, continually, through Jesus."
+    },
+    {
+      "english": "Watch / keep awake",
+      "hebrew": "ἀγρυπνέω",
+      "translit": "agrypnéō",
+      "strongs": "G69",
+      "verses": "v. 17",
+      "insight": "Strong's: “to be sleepless, i.e. keep awake.” Jesus used it when He told His disciples to stay alert for His coming, and Paul used it of watching in prayer. In Hebrews 13:17 it pictures leaders losing sleep over the souls in their care, like shepherds watching their flock by night. This study adds it to the sleep family beside γρηγορέω."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "As Hebrews ends, the Holy Spirit turns doctrine into daily faithfulness and points you to the unchanging Christ.",
+    "items": [
+      {
+        "title": "Love Made Practical",
+        "body": "The Spirit wants your faith to show in brotherly love, hospitality, remembering the suffering, faithfulness in marriage and freedom from the love of money. Ask Him which of these He is highlighting for you, and take one concrete step this week."
+      },
+      {
+        "title": "He Has Not Changed",
+        "body": "Whatever has changed in your life — leaders, circumstances, health, relationships — Jesus Christ is the same. The Spirit invites you to rest in His unchanging faithfulness. Bring Him your uncertainties and anchor yourself again in the One who is the same yesterday, today and forever."
+      },
+      {
+        "title": "Go Out to Him",
+        "body": "Following Jesus may mean leaving places of comfort, approval or familiarity. The Spirit is calling you to go to Jesus outside the camp, bearing His reproach. Ask Him where He wants you to stand with Him, even if it costs you."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Hospitality Check",
+        "body": "When did you last welcome someone outside your circle into your home or life (v. 2)? Plan one act of hospitality this month."
+      },
+      {
+        "title": "The Contentment Check",
+        "body": "Are you content with what you have (v. 5)? Name one thing you are tempted to crave, and set verse 5's promise against it."
+      },
+      {
+        "title": "The Praise Check",
+        "body": "Is your life marked by a continual sacrifice of praise and of doing good (vv. 15–16)? Choose one way to make each a daily habit."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Remember Those in Bonds",
+        "body": "This month, learn about Christians who are imprisoned or persecuted for their faith somewhere in the world. Pray for them by name if you can, write a letter of encouragement through a trusted ministry, or support their families. Remember them ‘as bound with them’ (v. 3)."
+      },
+      {
+        "title": "Honour and Pray for Your Leaders",
+        "body": "Write a note of thanks to a leader in your church who watches over your soul (v. 17). Tell them specifically how their ministry has helped you. Then commit to praying for them weekly for the next three months, as the writer asked his readers to pray for him (v. 18)."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, You are the same yesterday, today and forever. Thank You that You do not change, even when everything around me does. Let brotherly love continue among Your people. Make me hospitable to strangers, mindful of those in chains and those who suffer, faithful in marriage and pure in heart. Free me from the love of money, and make me content, because You have said, ‘I will never leave you nor forsake you.’ The Lord is my helper; I will not fear. Thank You for leaders who spoke Your word to me; help me imitate their faith. Keep me from being carried away by strange teachings, and strengthen my heart by grace. You suffered outside the gate to make me holy through Your own blood. Give me courage to go out to You, bearing Your reproach, seeking the city that is to come. Through You I offer a continual sacrifice of praise, and I will not forget to do good and to share. God of peace, who brought back from the dead the great Shepherd of the sheep by the blood of the eternal covenant, equip me with everything good to do Your will, and work in me what is pleasing in Your sight, through Jesus Christ, to whom be glory forever and ever. Amen. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Abraham Entertains Angels",
+      "ref": "Genesis 18:1-15",
+      "relatedVerses": "v. 2",
+      "summary": "Abraham was sitting at the entrance of his tent by the oaks of Mamre in the heat of the day when he saw three men standing nearby. He ran to meet them, bowed down, and urged them to rest and eat. He and Sarah hurried to bake bread and prepare a tender calf, and Abraham served them under the tree. One of the visitors promised that Sarah would have a son within a year. Sarah laughed, but the LORD asked, ‘Is anything too hard for the LORD?’ Abraham discovered that he had welcomed the Lord and His angels. Hebrews 13:2 points to scenes like this: some have entertained angels without knowing it."
+    },
+    {
+      "title": "Jesus Crucified Outside the Gate",
+      "ref": "John 19:16-30",
+      "relatedVerses": "v. 11-13",
+      "summary": "Pilate handed Jesus over to be crucified. “He went out, bearing his cross, to the place called ‘The Place of a Skull’, which is called in Hebrew, ‘Golgotha’” (John 19:17). There He was crucified between two others. John notes that the place was near the city, outside its walls. Jesus suffered in the place of rejection, like the sin-offering burned outside the camp. Hebrews 13 calls believers to go out to Him there, sharing His reproach, rather than staying in the security of religious approval."
+    },
+    {
+      "title": "The Good Shepherd",
+      "ref": "John 10:1-18",
+      "relatedVerses": "v. 20",
+      "summary": "Jesus described Himself as the shepherd whose sheep know his voice, who calls them by name and leads them out. He contrasted Himself with thieves who come to steal and hired hands who run away when the wolf comes. “I am the good shepherd. The good shepherd lays down his life for the sheep” (John 10:11). He said that He would lay down His life and take it up again. Hebrews 13:20 celebrates the fulfilment: the God of peace has brought back from the dead the great Shepherd of the sheep by the blood of the eternal covenant."
+    }
+  ]
+}
