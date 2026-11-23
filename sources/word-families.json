@@ -69,6 +69,12 @@
           "sense": "Ruler, sovereign — one who holds δύναμις; God as the only absolute Sovereign.",
           "anchor": "1 Timothy 6:15",
           "en": "Ruler"
+        },
+        {
+          "strongs": "G2003",
+          "sense": "The authority of a command — an order given with the right to give it. In Titus 2:15 the WEB renders it ‘authority’, but it is not ἐξουσία: it is the weight of God’s commandment behind the teacher (the same word is ‘commandment’ in Titus 1:3).",
+          "anchor": "Titus 2:15",
+          "en": "authority"
         }
       ]
     },
@@ -615,7 +621,7 @@
         "malice",
         "wicked"
       ],
-      "intro": "English ‘evil’ hides two main Greek words. κακός describes what is bad in itself — worthless, harmful in nature. πονηρός describes evil that is active and aggressive, actively doing harm; it is used of ‘the evil one’. 1 Thessalonians 5 uses both: do not repay κακός for κακός (5:15), and abstain from every form of πονηρός (5:22).",
+      "intro": "English ‘evil’ hides several Greek words. κακός describes what is bad in itself — worthless, harmful in nature. πονηρός describes evil that is active and aggressive, actively doing harm; it is used of ‘the evil one’. 1 Thessalonians 5 uses both: do not repay κακός for κακός (5:15), and abstain from every form of πονηρός (5:22). φαῦλος adds a third shade: the worthless, paltry deed.",
       "members": [
         {
           "strongs": "G2556",
@@ -634,6 +640,12 @@
           "sense": "Malice — badness of heart, ill will that wants harm for others.",
           "anchor": "Colossians 3:8",
           "en": "malice"
+        },
+        {
+          "strongs": "G5337",
+          "sense": "‘Worthless, base’ — the shabby, good-for-nothing kind of wrong: deeds that cannot stand the light (John 3:20) and accusations an opponent might make (Titus 2:8).",
+          "anchor": "John 3:20",
+          "en": "evil"
         }
       ]
     },
