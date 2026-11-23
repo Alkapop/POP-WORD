@@ -12,7 +12,8 @@
         "authority",
         "working",
         "dominion",
-        "ruler"
+        "ruler",
+        "powerfully"
       ],
       "intro": "English Bibles say ‘power’ for at least six different Greek words. Paul stacks four of them in one breath in Ephesians 1:19 and lists four ranks of spiritual power in Ephesians 1:21. In Colossians 1:13 the WEB's ‘power of darkness’ is not δύναμις at all but ἐξουσία — authority. Knowing which word stands behind ‘power’ tells you what kind of power is meant.",
       "members": [
@@ -99,6 +100,12 @@
           "sense": "To be able, to have power to — the everyday verb of the δύναμις family.",
           "anchor": "Hebrews 7:25",
           "en": "able"
+        },
+        {
+          "strongs": "G2480",
+          "sense": "To have strength, to prevail — force exercised.",
+          "anchor": "James 5:16",
+          "en": "powerfully"
         }
       ]
     },
@@ -363,6 +370,62 @@
           "sense": "Friendship — warm personal affection and loyalty.",
           "anchor": "James 4:4",
           "en": "friendship"
+        }
+      ]
+    },
+    {
+      "id": "mercy",
+      "name": "Mercy & Compassion",
+      "lang": "Greek",
+      "english": [
+        "mercy",
+        "merciful",
+        "compassion",
+        "mercies"
+      ],
+      "intro": "Two Greek families stand behind ‘mercy’ and ‘compassion’. ἔλεος / ἐλεέω is mercy that acts — help given to those in need or misery, pardon to the guilty. οἰκτιρμός / οἰκτίρμων / οἰκτίρω is pity, the tender feeling of compassion. And σπλάγχνα words (σπλαγχνίζομαι, πολύσπλαγχνος) speak of compassion felt in the gut — being moved inside. Romans 9:15 sets ἐλεέω and οἰκτίρω side by side, and James 5:11 calls the Lord πολύσπλαγχνος and οἰκτίρμων, ‘full of compassion and mercy’.",
+      "members": [
+        {
+          "strongs": "G1656",
+          "sense": "Mercy — compassion that acts to help the needy or pardon the guilty.",
+          "anchor": "James 2:13",
+          "en": "Mercy"
+        },
+        {
+          "strongs": "G1653",
+          "sense": "To have mercy, to show mercy in word or deed.",
+          "anchor": "Romans 9:15",
+          "en": "mercy"
+        },
+        {
+          "strongs": "G3627",
+          "sense": "To have compassion, to feel pity.",
+          "anchor": "Romans 9:15",
+          "en": "compassion"
+        },
+        {
+          "strongs": "G3628",
+          "sense": "Pity, mercies — the tender compassions of God.",
+          "anchor": "Romans 12:1",
+          "en": "mercies"
+        },
+        {
+          "strongs": "G3629",
+          "sense": "Compassionate, merciful — full of tender pity.",
+          "anchor": "James 5:11",
+          "en": "mercy"
+        },
+        {
+          "strongs": "G4184",
+          "sense": "Very compassionate — literally ‘many-bowelled’, deeply moved within.",
+          "anchor": "James 5:11",
+          "en": "compassion"
+        },
+        {
+          "strongs": "G4697",
+          "sense": "To be moved with compassion — to feel it in the gut.",
+          "anchor": "Matthew 9:36",
+          "en": "compassion"
         }
       ]
     },
@@ -1559,7 +1622,8 @@
         "complete",
         "full grown",
         "fulfill",
-        "fulfilled"
+        "fulfilled",
+        "outcome"
       ],
       "intro": "English ‘perfect’ usually means flawless, but the Greek τέλειος family means reaching the goal (τέλος): complete, mature, fully grown. Hebrews uses it again and again: Christ was ‘made perfect’ — fully qualified as Saviour — through suffering (2:10), and is the ‘perfecter’ of faith (12:2). The law could not bring τελείωσις (7:11). A different root, καταρτίζω / ἄρτιος, means fitted, equipped, mended; ὁλόκληρος means whole in every part.",
       "members": [
@@ -1622,6 +1686,12 @@
           "sense": "To fill full — to fulfil a word or promise by filling up its meaning.",
           "anchor": "James 2:23",
           "en": "fulfilled"
+        },
+        {
+          "strongs": "G5056",
+          "sense": "The end, the goal — the point God is working towards.",
+          "anchor": "James 5:11",
+          "en": "outcome"
         }
       ]
     },
@@ -1723,6 +1793,62 @@
           "sense": "A suppliant’s plea — originally the olive branch held out by someone begging for mercy; earnest entreaty.",
           "anchor": "Hebrews 5:7",
           "en": "petitions"
+        },
+        {
+          "strongs": "G2171",
+          "sense": "A prayer, a vow — a wish expressed to God.",
+          "anchor": "James 5:15",
+          "en": "prayer"
+        },
+        {
+          "strongs": "G2172",
+          "sense": "To pray, to wish — to make a request of God.",
+          "anchor": "James 5:16",
+          "en": "pray"
+        }
+      ]
+    },
+    {
+      "id": "heal",
+      "name": "Sickness & Healing",
+      "lang": "Greek",
+      "english": [
+        "sick",
+        "heal",
+        "healed",
+        "healing"
+      ],
+      "intro": "English ‘sick’ and ‘heal’ hide several Greek words. ἀσθενέω is to be weak, feeble, without strength; κάμνω is to be worn out, exhausted, weary to the point of illness. σῴζω is to save, rescue, make whole — the WEB translates it ‘heal’ in James 5:15, where bodily healing and spiritual salvation meet. ἰάομαι is to cure, to heal — the physician’s word. θεραπεύω is to tend, care for and so heal. James 5:14–16 uses four of them together.",
+      "members": [
+        {
+          "strongs": "G770",
+          "sense": "To be weak, feeble, without strength — sick.",
+          "anchor": "James 5:14",
+          "en": "sick"
+        },
+        {
+          "strongs": "G2577",
+          "sense": "To be weary, worn out — sick with exhaustion.",
+          "anchor": "James 5:15",
+          "en": "sick"
+        },
+        {
+          "strongs": "G4982",
+          "sense": "To save, rescue, make whole — in body and in soul.",
+          "anchor": "James 5:15",
+          "en": "heal"
+        },
+        {
+          "strongs": "G2390",
+          "sense": "To cure, to heal — the physician’s word, used also of healing the soul.",
+          "anchor": "James 5:16",
+          "en": "healed"
+        },
+        {
+          "strongs": "G2323",
+          "sense": "To tend, serve and so heal — care that restores.",
+          "anchor": "Matthew 4:23",
+          "en": "healing"
         }
       ]
     },
