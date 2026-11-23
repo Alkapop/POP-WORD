@@ -56,8 +56,11 @@ for (const [id, chapters] of BOOKS) {
     const path = join(OUT, `${id}-${ch}.json`);
     if (existsSync(path)) {
       // Re-fetch single-chapter books saved by the old one-verse bug.
-      const have = JSON.parse(readFileSync(path, 'utf8')).verses?.length ?? 0;
-      if (!(SINGLE[id] && have < SINGLE[id])) { skipped++; continue; }
+      // Also replace stand-in text taken from another WEB edition (its "source" says where it came from).
+      const saved = JSON.parse(readFileSync(path, 'utf8'));
+      const have = saved.verses?.length ?? 0;
+      const standIn = typeof saved.source === 'string' && saved.source.startsWith('npm:');
+      if (!standIn && !(SINGLE[id] && have < SINGLE[id])) { skipped++; continue; }
     }
     try {
       const data = await fetchChapter(id, ch);
