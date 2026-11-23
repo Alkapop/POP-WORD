@@ -394,6 +394,56 @@
       ]
     },
     {
+      "id": "wisdom",
+      "name": "Wisdom, Prudence & Understanding",
+      "lang": "Greek",
+      "english": [
+        "wisdom",
+        "wise",
+        "understanding",
+        "prudence"
+      ],
+      "intro": "English ‘wise’ and ‘understanding’ hide several Greek words. σοφία / σοφός is wisdom in its fullest sense — insight into God’s ways and the skill to live by them. φρόνησις / φρόνιμος is practical good sense, prudence, knowing what to do in a situation (the ‘wise man’ who built on the rock, Matthew 7:24). σύνεσις is understanding, putting things together in the mind. ἐπιστήμων is the knowledgeable expert. James 3:13 asks for σοφός and ἐπιστήμων together, then insists that true wisdom is shown in conduct, not in knowledge.",
+      "members": [
+        {
+          "strongs": "G4678",
+          "sense": "Wisdom — insight into God’s ways and the skill to live by them.",
+          "anchor": "James 3:13",
+          "en": "wisdom"
+        },
+        {
+          "strongs": "G4680",
+          "sense": "Wise — having that wisdom.",
+          "anchor": "James 3:13",
+          "en": "wise"
+        },
+        {
+          "strongs": "G1990",
+          "sense": "Understanding, knowledgeable — the expert who knows his subject.",
+          "anchor": "James 3:13",
+          "en": "understanding"
+        },
+        {
+          "strongs": "G5428",
+          "sense": "Prudence — practical good sense for living.",
+          "anchor": "Ephesians 1:8",
+          "en": "prudence"
+        },
+        {
+          "strongs": "G5429",
+          "sense": "Prudent, sensible — wise in action, like the builder on the rock.",
+          "anchor": "Matthew 7:24",
+          "en": "wise"
+        },
+        {
+          "strongs": "G4907",
+          "sense": "Understanding — putting things together in the mind.",
+          "anchor": "Colossians 1:9",
+          "en": "understanding"
+        }
+      ]
+    },
+    {
       "id": "word",
       "name": "Word & Utterance",
       "lang": "Greek",
@@ -981,6 +1031,12 @@
           "sense": "Outward shape — a form that may lack the reality (a ‘form of godliness’).",
           "anchor": "2 Timothy 3:5",
           "en": "form"
+        },
+        {
+          "strongs": "G3669",
+          "sense": "Likeness, resemblance — the word of Genesis 1:26 in the Greek Old Testament.",
+          "anchor": "James 3:9",
+          "en": "image"
         }
       ]
     },
