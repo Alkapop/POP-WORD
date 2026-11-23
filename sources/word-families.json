@@ -156,9 +156,10 @@
       "english": [
         "love",
         "affection",
-        "affectionate"
+        "affectionate",
+        "lovers"
       ],
-      "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament.",
+      "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected.",
       "members": [
         {
           "strongs": "G25",
@@ -189,6 +190,36 @@
           "sense": "Tenderly affectionate — the natural, family kind of love (στοργή) between relatives.",
           "anchor": "Romans 12:10",
           "en": "affectionate"
+        },
+        {
+          "strongs": "G5367",
+          "sense": "Lover of self — φίλος + αὐτός: love turned inward, the first mark of the last days.",
+          "anchor": "2 Timothy 3:2",
+          "en": "lovers of self"
+        },
+        {
+          "strongs": "G5366",
+          "sense": "Lover of money — φίλος + ἄργυρος, silver: love fastened on wealth.",
+          "anchor": "2 Timothy 3:2",
+          "en": "lovers of money"
+        },
+        {
+          "strongs": "G865",
+          "sense": "Not a lover of good — hostile to what is good; love withdrawn from goodness.",
+          "anchor": "2 Timothy 3:3",
+          "en": "not lovers of good"
+        },
+        {
+          "strongs": "G5369",
+          "sense": "Lover of pleasure — φίλος + ἡδονή: love that lives for enjoyment.",
+          "anchor": "2 Timothy 3:4",
+          "en": "lovers of pleasure"
+        },
+        {
+          "strongs": "G5377",
+          "sense": "Lover of God — the love that should rule all others, and the one the last days replace with pleasure.",
+          "anchor": "2 Timothy 3:4",
+          "en": "lovers of God"
         }
       ]
     },
@@ -588,6 +619,12 @@
           "sense": "To show piety, to act reverently — godliness put into practice, beginning at home with one's own family.",
           "anchor": "1 Timothy 5:4",
           "en": "piety"
+        },
+        {
+          "strongs": "G2153",
+          "sense": "Godly (adverb) — living reverently toward God, the way of life that draws persecution.",
+          "anchor": "2 Timothy 3:12",
+          "en": "godly"
         },
         {
           "strongs": "G2317",
