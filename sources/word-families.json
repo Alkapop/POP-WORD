@@ -417,7 +417,8 @@
         "toil",
         "travail",
         "working",
-        "busybodies"
+        "busybodies",
+        "laborer"
       ],
       "intro": "English ‘work’ and ‘labour’ cover several Greek words. 1 Thessalonians 1:3 sets ἔργον (work) beside κόπος (labour to the point of exhaustion), and 2:9 adds μόχθος (hardship) and ἐργάζομαι (working). Revelation 2:2 praises ‘works’ and ‘toil’ in a church that had left its first love.",
       "members": [
@@ -446,6 +447,12 @@
           "en": "travail"
         },
         {
+          "strongs": "G2040",
+          "sense": "Labourer, worker — one who works for wages; used of gospel workers and teachers.",
+          "anchor": "Luke 10:7",
+          "en": "laborer"
+        },
+        {
           "strongs": "G2038",
           "sense": "To work — to do a job, to earn a living by labour.",
           "anchor": "1 Thessalonians 4:11",
@@ -455,6 +462,12 @@
           "strongs": "G4020",
           "sense": "To work around — to bustle about in other people's affairs instead of doing one's own work; to be a busybody.",
           "anchor": "2 Thessalonians 3:11",
+          "en": "busybodies"
+        },
+        {
+          "strongs": "G4021",
+          "sense": "Busybody — ‘working around’, meddling in others' affairs; the adjective of περιεργάζομαι.",
+          "anchor": "1 Timothy 5:13",
           "en": "busybodies"
         }
       ]
@@ -552,7 +565,8 @@
         "godliness",
         "godly",
         "ungodly",
-        "ungodliness"
+        "ungodliness",
+        "piety"
       ],
       "intro": "‘Godliness’ is the key word of 1 Timothy. English uses one word for two Greek ones: εὐσέβεια (well-directed reverence, devotion to God lived out in daily life) and the rarer θεοσέβεια (reverence for God). The opposite is ἀσέβεια / ἀσεβής — the absence of reverence, life lived as if God did not matter.",
       "members": [
@@ -561,6 +575,12 @@
           "sense": "Godliness — reverent devotion to God expressed in a whole way of life; the key word of the pastoral letters.",
           "anchor": "1 Timothy 6:6",
           "en": "godliness"
+        },
+        {
+          "strongs": "G2151",
+          "sense": "To show piety, to act reverently — godliness put into practice, beginning at home with one's own family.",
+          "anchor": "1 Timothy 5:4",
+          "en": "piety"
         },
         {
           "strongs": "G2317",
