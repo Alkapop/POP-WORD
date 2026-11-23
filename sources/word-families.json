@@ -645,6 +645,12 @@
           "sense": "‘Mis-hearing’ — παρά + ἀκούω: refusing to listen, disobedience that begins with not hearing. Paired with παράβασις (stepping over the line) in Hebrews 2:2.",
           "anchor": "Hebrews 2:2",
           "en": "disobedience"
+        },
+        {
+          "strongs": "G51",
+          "sense": "A sin of ignorance — wrongdoing committed without full knowledge; the ‘errors’ the high priest atoned for on the Day of Atonement.",
+          "anchor": "Hebrews 9:7",
+          "en": "errors"
         }
       ]
     },
@@ -1267,7 +1273,7 @@
         "appearing",
         "revealed"
       ],
-      "intro": "English ‘appear’ and ‘reveal’ cover several Greek words. ἐπιφαίνω / ἐπιφάνεια is a shining-forth, like dawn breaking or a king’s arrival: Titus uses it for both comings of Christ (2:11, 13; 3:4). φανερόω is to make visible what was hidden; φαίνω, to shine or be seen; ὤφθη (from ὁράω / ὀπτάνομαι), ‘was seen’, is used of the risen Lord’s appearances; ἀποκαλύπτω is to unveil, to take the cover off.",
+      "intro": "English ‘appear’ and ‘reveal’ cover several Greek words. ἐπιφαίνω / ἐπιφάνεια is a shining-forth, like dawn breaking or a king’s arrival: Titus uses it for both comings of Christ (2:11, 13; 3:4). φανερόω is to make visible what was hidden; φαίνω, to shine or be seen; ὤφθη (from ὁράω / ὀπτάνομαι), ‘was seen’, is used of the risen Lord’s appearances; ἀποκαλύπτω is to unveil, to take the cover off. Hebrews 9:24–28 uses three of them for Christ’s three appearings: φανερόω (He ‘has been revealed’ once, v. 26), ἐμφανίζω (He now appears before God for us, v. 24) and ὤφθη/ὁράω (He ‘will appear’ a second time, v. 28).",
       "members": [
         {
           "strongs": "G2014",
@@ -1304,6 +1310,12 @@
           "sense": "To unveil, take the cover off — revelation of what only God can show.",
           "anchor": "Romans 1:17",
           "en": "revealed"
+        },
+        {
+          "strongs": "G1718",
+          "sense": "To show oneself, appear openly before someone — Christ now appearing in God’s presence on our behalf (Hebrews 9:24).",
+          "anchor": "Hebrews 9:24",
+          "en": "appear"
         }
       ]
     },
