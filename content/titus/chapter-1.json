@@ -1,0 +1,1019 @@
+{
+  "type": "chapterStudy",
+  "book": "Titus",
+  "chapter": 1,
+  "chapterTitle": "Truth That Leads to Godliness",
+  "themeTitle": "“God, Who Can’t Lie”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s chosen ones, and the knowledge of the truth which is according to godliness,",
+      "understanding": "Παῦλος δοῦλος θεοῦ, “Paul, a servant of God” — δοῦλος from the servant family: a slave, wholly owned. Only here does Paul call himself ‘a slave of God’; elsewhere it is ‘of Christ Jesus’. ἀπόστολος δὲ Ἰησοῦ Χριστοῦ, “and an apostle of Jesus Christ” — a sent messenger. His ministry serves two things: κατὰ πίστιν ἐκλεκτῶν θεοῦ, “according to the faith of God’s chosen ones,” and ἐπίγνωσιν ἀληθείας τῆς κατ᾽ εὐσέβειαν, “and the knowledge of the truth which is according to godliness.” Two families meet: ἐπίγνωσις from the know family (full, personal knowledge) and εὐσέβεια from the godliness family. True knowledge of God always leads to a godly life. That phrase is the key to the whole letter.",
+      "words": [
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servant"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostle"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1588",
+          "hebrew": "ἐκλεκτός",
+          "translit": "eklektós",
+          "english": "chosen ones"
+        },
+        {
+          "strongs": "G1922",
+          "hebrew": "ἐπίγνωσις",
+          "translit": "epígnōsis",
+          "english": "knowledge"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G2150",
+          "hebrew": "εὐσέβεια",
+          "translit": "eusébeia",
+          "english": "godliness"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "in hope of eternal life, which God, who can’t lie, promised before time began;",
+      "understanding": "ἐπ᾽ ἐλπίδι ζωῆς αἰωνίου, “in hope of eternal life” — ζωή from the life family: the life of God Himself, not merely biological life (βίος). ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεός, “which God, who can’t lie, promised” — ἀψευδής, literally ‘un-lying’. Hold this beside verse 12, where the Cretans' own poet calls them ψεῦσται, ‘liars’: on an island known for lies stands a God who cannot lie. πρὸ χρόνων αἰωνίων, “before time began” — χρόνος from the time family: time as duration, stretching back through the ages. Before any of it, God had promised life.",
+      "words": [
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiṓnios",
+          "english": "eternal"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G893",
+          "hebrew": "ἀψευδής",
+          "translit": "apseudḗs",
+          "english": "can’t lie"
+        },
+        {
+          "strongs": "G1861",
+          "hebrew": "ἐπαγγέλλω",
+          "translit": "epangéllō",
+          "english": "promised"
+        },
+        {
+          "strongs": "G5550",
+          "hebrew": "χρόνος",
+          "translit": "chrónos",
+          "english": "time"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior;",
+      "understanding": "ἐφανέρωσεν δὲ καιροῖς ἰδίοις τὸν λόγον αὐτοῦ, “but in his own time revealed his word.” Now a different time word: καιρός, the fitting moment, set beside χρόνος in verse 2. God promised across the long χρόνοι; He revealed at the right καιρός. φανερόω from the appear family: to bring into the open what had been hidden. ἐν κηρύγματι ὃ ἐπιστεύθην ἐγώ, “in the message with which I was entrusted” — κήρυγμα, a herald's proclamation. κατ᾽ ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ, “according to the commandment of God our Savior.” In Titus ‘Savior’ passes between the Father and the Son three times (here and verse 4; 2:10 and 2:13; 3:4 and 3:6).",
+      "words": [
+        {
+          "strongs": "G2398",
+          "hebrew": "ἴδιος",
+          "translit": "ídios",
+          "english": "own"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        },
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G2782",
+          "hebrew": "κήρυγμα",
+          "translit": "kḗrygma",
+          "english": "message"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "entrusted"
+        },
+        {
+          "strongs": "G2003",
+          "hebrew": "ἐπιταγή",
+          "translit": "epitagḗ",
+          "english": "commandment"
+        },
+        {
+          "strongs": "G4990",
+          "hebrew": "σωτήρ",
+          "translit": "sōtḗr",
+          "english": "Savior"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.",
+      "understanding": "Τίτῳ γνησίῳ τέκνῳ κατὰ κοινὴν πίστιν, “to Titus, my true child according to a common faith.” γνήσιος means legitimate, genuine — the same word Paul used of Timothy (1 Timothy 1:2). Titus was a Greek and Paul a Jew, yet they shared a ‘common’ (κοινός) faith: one gospel for Jew and Gentile. χάρις, ἔλεος, εἰρήνη, “Grace, mercy, and peace” — the WEB follows manuscripts that include ‘mercy’; many of the oldest read only ‘grace and peace’. Then the title moves: ἀπὸ θεοῦ πατρὸς καὶ κυρίου Ἰησοῦ Χριστοῦ τοῦ σωτῆρος ἡμῶν, “from God the Father and the Lord Jesus Christ our Savior.” In verse 3 God is Savior; here Christ is.",
+      "words": [
+        {
+          "strongs": "G5103",
+          "hebrew": "Τίτος",
+          "translit": "Títos",
+          "english": "Titus"
+        },
+        {
+          "strongs": "G1103",
+          "hebrew": "γνήσιος",
+          "translit": "gnḗsios",
+          "english": "true"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "child"
+        },
+        {
+          "strongs": "G2839",
+          "hebrew": "κοινός",
+          "translit": "koinós",
+          "english": "common"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "Grace"
+        },
+        {
+          "strongs": "G1656",
+          "hebrew": "ἔλεος",
+          "translit": "éleos",
+          "english": "mercy"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        },
+        {
+          "strongs": "G4990",
+          "hebrew": "σωτήρ",
+          "translit": "sōtḗr",
+          "english": "Savior"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "I left you in Crete for this reason, that you would set in order the things that were lacking, and appoint elders in every city, as I directed you;",
+      "understanding": "τούτου χάριν κατέλιπόν σε ἐν Κρήτῃ, “I left you in Crete for this reason,” ἵνα τὰ λείποντα ἐπιδιορθώσῃ, “that you would set in order the things that were lacking” — ἐπιδιορθόω, to straighten further, to set right what remains crooked (διορθόω was used of setting a broken bone). The churches existed, but they were unfinished. καὶ καταστήσῃς κατὰ πόλιν πρεσβυτέρους, “and appoint elders in every city” — plural: a team of elders in each town, as Paul had done in Galatia (Acts 14:23). ὡς ἐγώ σοι διεταξάμην, “as I directed you.”",
+      "words": [
+        {
+          "strongs": "G2641",
+          "hebrew": "καταλείπω",
+          "translit": "kataleípō",
+          "english": "left"
+        },
+        {
+          "strongs": "G2914",
+          "hebrew": "Κρήτη",
+          "translit": "Krḗtē",
+          "english": "Crete"
+        },
+        {
+          "strongs": "G3007",
+          "hebrew": "λείπω",
+          "translit": "leípō",
+          "english": "lacking"
+        },
+        {
+          "strongs": "G1930",
+          "hebrew": "ἐπιδιορθόω",
+          "translit": "epidiorthóō",
+          "english": "set in order"
+        },
+        {
+          "strongs": "G2525",
+          "hebrew": "καθίστημι",
+          "translit": "kathístēmi",
+          "english": "appoint"
+        },
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G1299",
+          "hebrew": "διατάσσω",
+          "translit": "diatássō",
+          "english": "directed"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior.",
+      "understanding": "εἴ τίς ἐστιν ἀνέγκλητος, “if anyone is blameless” — not sinless, but with no charge that sticks: unaccused. μιᾶς γυναικὸς ἀνήρ, “the husband of one wife” — literally ‘a one-woman man’, as in 1 Timothy 3:2: faithful in marriage. τέκνα ἔχων πιστά, “having children who believe” — πιστός can mean ‘believing’ or ‘faithful, trustworthy’; the WEB takes the first, others read ‘children who are faithful’, that is, well-ordered. Either way, the point is the next phrase: μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα, “who are not accused of loose or unruly behavior.” A man's home is the first test of his leadership.",
+      "words": [
+        {
+          "strongs": "G410",
+          "hebrew": "ἀνέγκλητος",
+          "translit": "anénklētos",
+          "english": "blameless"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "husband"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wife"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "believe"
+        },
+        {
+          "strongs": "G2724",
+          "hebrew": "κατηγορία",
+          "translit": "katēgoría",
+          "english": "accused"
+        },
+        {
+          "strongs": "G810",
+          "hebrew": "ἀσωτία",
+          "translit": "asōtía",
+          "english": "loose"
+        },
+        {
+          "strongs": "G506",
+          "hebrew": "ἀνυπότακτος",
+          "translit": "anypótaktos",
+          "english": "unruly"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For the overseer must be blameless, as God’s steward; not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain;",
+      "understanding": "δεῖ γὰρ τὸν ἐπίσκοπον ἀνέγκλητον εἶναι, “For the overseer must be blameless.” Notice that the ‘elders’ of verse 5 are now called ‘overseer’: two names for the same office — elder for maturity, overseer for the task. ὡς θεοῦ οἰκονόμον, “as God’s steward” — the manager of a household that belongs to someone else. Then five ‘nots’: μὴ αὐθάδη, “not self-pleasing” — stubbornly having his own way; μὴ ὀργίλον, “not easily angered”; μὴ πάροινον, “not given to wine”; μὴ πλήκτην, “not violent” — not a striker; μὴ αἰσχροκερδῆ, “not greedy for dishonest gain.”",
+      "words": [
+        {
+          "strongs": "G1985",
+          "hebrew": "ἐπίσκοπος",
+          "translit": "epískopos",
+          "english": "overseer"
+        },
+        {
+          "strongs": "G410",
+          "hebrew": "ἀνέγκλητος",
+          "translit": "anénklētos",
+          "english": "blameless"
+        },
+        {
+          "strongs": "G3623",
+          "hebrew": "οἰκονόμος",
+          "translit": "oikonómos",
+          "english": "steward"
+        },
+        {
+          "strongs": "G829",
+          "hebrew": "αὐθάδης",
+          "translit": "authádēs",
+          "english": "self-pleasing"
+        },
+        {
+          "strongs": "G3711",
+          "hebrew": "ὀργίλος",
+          "translit": "orgílos",
+          "english": "easily angered"
+        },
+        {
+          "strongs": "G3943",
+          "hebrew": "πάροινος",
+          "translit": "pároinos",
+          "english": "given to wine"
+        },
+        {
+          "strongs": "G4131",
+          "hebrew": "πλήκτης",
+          "translit": "plḗktēs",
+          "english": "violent"
+        },
+        {
+          "strongs": "G146",
+          "hebrew": "αἰσχροκερδής",
+          "translit": "aischrokerdḗs",
+          "english": "greedy for dishonest gain"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled;",
+      "understanding": "Now six positives. Two come from the love family: φιλόξενον, “given to hospitality” — a lover of strangers, opening his home; φιλάγαθον, “a lover of good” — loving good things and good people (the exact opposite of the ἀφιλάγαθοι of 2 Timothy 3:3). Then two from the new self-control family: σώφρονα, “sober minded” — σώφρων, a sound, sensible mind; and ἐγκρατῆ, “self-controlled” — ἐγκρατής, strength held over one's own desires. The first is about how a man thinks; the second about how he governs his appetites. Between them: δίκαιον, “fair” — just toward people; ὅσιον, “holy” — devout toward God.",
+      "words": [
+        {
+          "strongs": "G5382",
+          "hebrew": "φιλόξενος",
+          "translit": "philóxenos",
+          "english": "hospitality"
+        },
+        {
+          "strongs": "G5358",
+          "hebrew": "φιλάγαθος",
+          "translit": "philágathos",
+          "english": "lover of good"
+        },
+        {
+          "strongs": "G4998",
+          "hebrew": "σώφρων",
+          "translit": "sṓphrōn",
+          "english": "sober minded"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "fair"
+        },
+        {
+          "strongs": "G3741",
+          "hebrew": "ὅσιος",
+          "translit": "hósios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G1468",
+          "hebrew": "ἐγκρατής",
+          "translit": "enkratḗs",
+          "english": "self-controlled"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.",
+      "understanding": "ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, “holding to the faithful word which is according to the teaching” — ἀντέχομαι, clinging firmly, as to a rope. An elder is not an innovator but a guardian of the apostolic word. Its purpose is twofold: ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ, “that he may be able to exhort in the sound doctrine” — ὑγιαίνω, healthy, the letter's recurring word — καὶ τοὺς ἀντιλέγοντας ἐλέγχειν, “and to convict those who contradict him.” To encourage the flock and to refute error: feeding and protecting.",
+      "words": [
+        {
+          "strongs": "G472",
+          "hebrew": "ἀντέχομαι",
+          "translit": "antéchomai",
+          "english": "holding"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1322",
+          "hebrew": "διδαχή",
+          "translit": "didachḗ",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G1415",
+          "hebrew": "δυνατός",
+          "translit": "dynatós",
+          "english": "able"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G5198",
+          "hebrew": "ὑγιαίνω",
+          "translit": "hygiaínō",
+          "english": "sound"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "doctrine"
+        },
+        {
+          "strongs": "G1651",
+          "hebrew": "ἐλέγχω",
+          "translit": "elénchō",
+          "english": "convict"
+        },
+        {
+          "strongs": "G483",
+          "hebrew": "ἀντιλέγω",
+          "translit": "antilégō",
+          "english": "contradict"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision,",
+      "understanding": "εἰσὶν γὰρ πολλοὶ ἀνυπότακτοι, “For there are also many unruly men” — the same word as the elders' children in verse 6: refusing to be under order. ματαιολόγοι, “vain talkers” — empty speech, words that lead nowhere; καὶ φρεναπάται, “and deceivers” — literally ‘mind-deceivers’. μάλιστα οἱ ἐκ τῆς περιτομῆς, “especially those of the circumcision” — Jewish believers who insisted on the law's rituals (compare the ‘Jewish fables’ and food rules of verses 14–15), the same party Paul had resisted when Titus himself was pressed to be circumcised.",
+      "words": [
+        {
+          "strongs": "G4183",
+          "hebrew": "πολύς",
+          "translit": "polýs",
+          "english": "many"
+        },
+        {
+          "strongs": "G506",
+          "hebrew": "ἀνυπότακτος",
+          "translit": "anypótaktos",
+          "english": "unruly"
+        },
+        {
+          "strongs": "G3151",
+          "hebrew": "ματαιολόγος",
+          "translit": "mataiológos",
+          "english": "vain talkers"
+        },
+        {
+          "strongs": "G5423",
+          "hebrew": "φρεναπάτης",
+          "translit": "phrenapátēs",
+          "english": "deceivers"
+        },
+        {
+          "strongs": "G4061",
+          "hebrew": "περιτομή",
+          "translit": "peritomḗ",
+          "english": "circumcision"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "whose mouths must be stopped; men who overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake.",
+      "understanding": "οὓς δεῖ ἐπιστομίζειν, “whose mouths must be stopped” — ἐπιστομίζω, to put something over the mouth, to muzzle. Not by force, but by the elders' sound teaching and refutation (v. 9). οἵτινες ὅλους οἴκους ἀνατρέπουσιν, “men who overthrow whole houses” — whole families, and the house churches that met in them. διδάσκοντες ἃ μὴ δεῖ αἰσχροῦ κέρδους χάριν, “teaching things which they ought not, for dishonest gain’s sake.” False teaching and greed travel together.",
+      "words": [
+        {
+          "strongs": "G1993",
+          "hebrew": "ἐπιστομίζω",
+          "translit": "epistomízō",
+          "english": "mouths must be stopped"
+        },
+        {
+          "strongs": "G3650",
+          "hebrew": "ὅλος",
+          "translit": "hólos",
+          "english": "whole"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "houses"
+        },
+        {
+          "strongs": "G396",
+          "hebrew": "ἀνατρέπω",
+          "translit": "anatrépō",
+          "english": "overthrow"
+        },
+        {
+          "strongs": "G1321",
+          "hebrew": "διδάσκω",
+          "translit": "didáskō",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G150",
+          "hebrew": "αἰσχρός",
+          "translit": "aischrós",
+          "english": "dishonest"
+        },
+        {
+          "strongs": "G2771",
+          "hebrew": "κέρδος",
+          "translit": "kérdos",
+          "english": "gain"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, and idle gluttons.”",
+      "understanding": "εἶπέν τις ἐξ αὐτῶν, ἴδιος αὐτῶν προφήτης, “One of them, a prophet of their own, said” — the Cretan poet Epimenides (about 600 BC), whom the Cretans honoured as a seer. Paul quotes pagan poets elsewhere too (Acts 17:28). The line: “Cretans are always liars, evil beasts, and idle gluttons.” ψεῦσται, ‘liars’ — the Greeks even coined a verb, ‘to Cretanize’, meaning to lie; κακὰ θηρία, ‘evil beasts’ — κακός from the evil family: brutish and harmful; γαστέρες ἀργαί, ‘idle bellies’ — ἀργός, lazy. Lies, brutality and laziness: the exact opposites of the letter's truth, gentleness and good works. And against ‘always liars’ stands ‘God, who can’t lie’ (v. 2).",
+      "words": [
+        {
+          "strongs": "G2912",
+          "hebrew": "Κρής",
+          "translit": "Krḗs",
+          "english": "Cretans"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophet"
+        },
+        {
+          "strongs": "G5583",
+          "hebrew": "ψεύστης",
+          "translit": "pseústēs",
+          "english": "liars"
+        },
+        {
+          "strongs": "G2556",
+          "hebrew": "κακός",
+          "translit": "kakós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "beasts"
+        },
+        {
+          "strongs": "G692",
+          "hebrew": "ἀργός",
+          "translit": "argós",
+          "english": "idle"
+        },
+        {
+          "strongs": "G1064",
+          "hebrew": "γαστήρ",
+          "translit": "gastḗr",
+          "english": "gluttons"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith,",
+      "understanding": "ἡ μαρτυρία αὕτη ἐστὶν ἀληθής, “This testimony is true.” Paul is not condemning every individual Cretan — he has just told Titus to appoint Cretan elders of fine character. He is saying that the proverb fits what the false teachers are doing. δι᾽ ἣν αἰτίαν ἔλεγχε αὐτοὺς ἀποτόμως, “For this cause, reprove them sharply” — ἀποτόμως, cutting, decisive. But the goal is healing: ἵνα ὑγιαίνωσιν ἐν τῇ πίστει, “that they may be sound in the faith” — ὑγιαίνω again: healthy. Sharp rebuke is surgery, not cruelty.",
+      "words": [
+        {
+          "strongs": "G3141",
+          "hebrew": "μαρτυρία",
+          "translit": "martyría",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G227",
+          "hebrew": "ἀληθής",
+          "translit": "alēthḗs",
+          "english": "true"
+        },
+        {
+          "strongs": "G156",
+          "hebrew": "αἰτία",
+          "translit": "aitía",
+          "english": "cause"
+        },
+        {
+          "strongs": "G1651",
+          "hebrew": "ἐλέγχω",
+          "translit": "elénchō",
+          "english": "reprove"
+        },
+        {
+          "strongs": "G664",
+          "hebrew": "ἀποτόμως",
+          "translit": "apotómōs",
+          "english": "sharply"
+        },
+        {
+          "strongs": "G5198",
+          "hebrew": "ὑγιαίνω",
+          "translit": "hygiaínō",
+          "english": "sound"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "not paying attention to Jewish fables and commandments of men who turn away from the truth.",
+      "understanding": "μὴ προσέχοντες Ἰουδαϊκοῖς μύθοις, “not paying attention to Jewish fables” — μῦθος, invented stories, as in 1 Timothy 1:4 and 2 Timothy 4:4 — καὶ ἐντολαῖς ἀνθρώπων, “and commandments of men” — exactly the charge Jesus brought against the Pharisees, quoting Isaiah: “teaching as doctrines the commandments of men” (Mark 7:7). ἀποστρεφομένων τὴν ἀλήθειαν, “who turn away from the truth.” Human rules dressed as divine commands always pull people away from the truth.",
+      "words": [
+        {
+          "strongs": "G4337",
+          "hebrew": "προσέχω",
+          "translit": "proséchō",
+          "english": "paying attention"
+        },
+        {
+          "strongs": "G2451",
+          "hebrew": "Ἰουδαϊκός",
+          "translit": "Ioudaïkós",
+          "english": "Jewish"
+        },
+        {
+          "strongs": "G3454",
+          "hebrew": "μῦθος",
+          "translit": "mŷthos",
+          "english": "fables"
+        },
+        {
+          "strongs": "G1785",
+          "hebrew": "ἐντολή",
+          "translit": "entolḗ",
+          "english": "commandments"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "men"
+        },
+        {
+          "strongs": "G654",
+          "hebrew": "ἀποστρέφω",
+          "translit": "apostréphō",
+          "english": "turn away"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled.",
+      "understanding": "πάντα μὲν καθαρὰ τοῖς καθαροῖς, “To the pure, all things are pure.” The context is food and ritual purity rules (the ‘commandments of men’ of v. 14). It is not permission to sin, but freedom from man-made taboos about God's good creation. τοῖς δὲ μεμιαμμένοις καὶ ἀπίστοις οὐδὲν καθαρόν, “but to those who are defiled and unbelieving, nothing is pure” — μιαίνω, stained. ἀλλὰ μεμίανται αὐτῶν καὶ ὁ νοῦς καὶ ἡ συνείδησις, “but both their mind and their conscience are defiled.” Impurity is not in things but in the heart, as Jesus taught.",
+      "words": [
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G3392",
+          "hebrew": "μιαίνω",
+          "translit": "miaínō",
+          "english": "defiled"
+        },
+        {
+          "strongs": "G571",
+          "hebrew": "ἄπιστος",
+          "translit": "ápistos",
+          "english": "unbelieving"
+        },
+        {
+          "strongs": "G3762",
+          "hebrew": "οὐδείς",
+          "translit": "oudeís",
+          "english": "nothing"
+        },
+        {
+          "strongs": "G3563",
+          "hebrew": "νοῦς",
+          "translit": "noûs",
+          "english": "mind"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.",
+      "understanding": "θεὸν ὁμολογοῦσιν εἰδέναι, “They profess that they know God” — εἰδέναι, from οἶδα in the know family: they claim to know. But verse 1 spoke of ἐπίγνωσις, knowledge that leads to godliness; theirs leads nowhere. τοῖς δὲ ἔργοις ἀρνοῦνται, “but by their deeds they deny him” — ἔργον from the work family. Their lips say yes; their lives say no. βδελυκτοὶ ὄντες καὶ ἀπειθεῖς, “being abominable, disobedient,” καὶ πρὸς πᾶν ἔργον ἀγαθὸν ἀδόκιμοι, “and unfit for any good work” — ἀγαθός from the good family; ἀδόκιμος, failed the test. Compare the man of God equipped ‘for every good work’ (2 Timothy 3:17). The rest of the letter shows what a people ‘fit for good works’ looks like.",
+      "words": [
+        {
+          "strongs": "G3670",
+          "hebrew": "ὁμολογέω",
+          "translit": "homologéō",
+          "english": "profess"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "deeds"
+        },
+        {
+          "strongs": "G720",
+          "hebrew": "ἀρνέομαι",
+          "translit": "arnéomai",
+          "english": "deny"
+        },
+        {
+          "strongs": "G947",
+          "hebrew": "βδελυκτός",
+          "translit": "bdelyktós",
+          "english": "abominable"
+        },
+        {
+          "strongs": "G545",
+          "hebrew": "ἀπειθής",
+          "translit": "apeithḗs",
+          "english": "disobedient"
+        },
+        {
+          "strongs": "G96",
+          "hebrew": "ἀδόκιμος",
+          "translit": "adókimos",
+          "english": "unfit"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The God Who Cannot Lie",
+      "verseRef": "v. 1-3",
+      "image": "Picture a harbour town on Crete at night. In the market, traders swear false oaths, merchants rig their scales, and everyone expects to be cheated. Lies are so common that the island's name has become a byword for them. Then picture, high above the town, a lighthouse that has never once failed. Ships have trusted its light through every storm for generations. It does not flicker. It does not deceive. It simply shines.",
+      "meaning": "Paul writes of “eternal life, which God, who can’t lie, promised before time began” (v. 2). Among people who were “always liars” (v. 12), the gospel rests on a God whose word is utterly reliable. He promised before time, and “in his own time revealed his word” (v. 3). Whatever has deceived you, God's promise of eternal life in Christ will not. Build your life on the light that does not fail."
+    },
+    {
+      "title": "Setting the Bone",
+      "verseRef": "v. 5-9",
+      "image": "Picture a doctor called to a village where a man has broken his leg. Someone has bandaged it, but the bone has not been set straight, and the man limps badly. The doctor gently but firmly realigns the bone, splints it, and then shows the family how to care for it so it heals strong. He does not amputate; he restores. He leaves trusted people in place to watch over the healing.",
+      "meaning": "Paul left Titus in Crete “that you would set in order the things that were lacking, and appoint elders in every city” (v. 5). The word means to straighten further, like setting a bone. The churches existed but were not yet whole. The remedy was godly elders: “sober minded, fair, holy, self-controlled” (v. 8), “holding to the faithful word” (v. 9), able to encourage and correct. Ask the Spirit what in your life or church still needs to be set straight."
+    },
+    {
+      "title": "The Lips and the Hands",
+      "verseRef": "v. 15-16",
+      "image": "Picture a man standing in a crowded square, holding up a sign that reads ‘I know God’. He speaks loudly about religion. But as you watch, you see his hands: pocketing a coin that is not his, shoving a beggar aside, gesturing angrily at his servant. The sign says one thing; the hands say another. Then picture a quiet woman nearby who has said nothing about God, but whose hands are busy feeding, comforting and helping.",
+      "meaning": "“They profess that they know God, but by their deeds they deny him” (v. 16). Knowing God is not proven by claims but by a life that fits the truth — “the knowledge of the truth which is according to godliness” (v. 1). Ask the Spirit: do my hands agree with my lips? Is my profession of faith matched by good works?"
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Greeting: Truth and Godliness (v. 1-4)",
+        "body": "Paul, God's servant and Christ's apostle, writes for the faith of God's chosen and the knowledge of the truth that leads to godliness, in hope of eternal life promised by the God who cannot lie and now revealed in the preaching entrusted to him; he greets Titus, his true child in a common faith."
+      },
+      {
+        "label": "Appointing Elders (v. 5-9)",
+        "body": "Titus is to complete the order of the Cretan churches by appointing elders in every city: men of blameless family life and character, God's stewards, free of arrogance, anger, drunkenness, violence and greed, and marked by hospitality, love of good, sound-mindedness, justice, holiness and self-control, holding firmly to the trustworthy word so they can encourage and refute."
+      },
+      {
+        "label": "Silencing False Teachers (v. 10-16)",
+        "body": "Many unruly, empty-talking deceivers, especially from the circumcision party, are upsetting households for gain; like the Cretan proverb about liars and lazy gluttons, they must be sharply rebuked so that they become sound in faith, leaving Jewish myths and human rules; they profess to know God but deny Him by their deeds."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Truth That Leads to Godliness",
+        "paragraphs": [
+          "Paul's greeting packs the whole letter into a few lines. He is “a servant of God, and an apostle of Jesus Christ, according to the faith of God’s chosen ones, and the knowledge of the truth which is according to godliness” (v. 1). That last phrase sets the agenda. Truth is not merely to be believed; it produces a way of life. The false teachers on Crete had knowledge without godliness. Titus must build churches where knowing the truth and living godly lives go together.",
+          "The foundation is God's promise: “in hope of eternal life, which God, who can’t lie, promised before time began” (v. 2). Two time words show the shape of God's plan. Before the long ages of χρόνος, God promised. Then “in his own time” (καιρός) He “revealed his word in the message with which I was entrusted” (v. 3). Paul had said the same to the Galatians: “But when the fullness of the time came, God sent out his Son” (Galatians 4:4). God's promises are not hurried and not late.",
+          "And this God “can’t lie” (v. 2). Hebrews says it is “impossible for God to lie” (Hebrews 6:18). The contrast with Crete is deliberate. The island's own prophet said, “Cretans are always liars” (v. 12). Into a culture of deceit comes a gospel from a God whose every word is true. That is why the church must be a community of truth: its message rests on the faithfulness of the One who sent it."
+        ]
+      },
+      {
+        "heading": "Elders: Stewards of God's Household",
+        "paragraphs": [
+          "Paul left Titus in Crete “that you would set in order the things that were lacking, and appoint elders in every city” (v. 5). The churches needed leaders. The qualities Paul lists closely match 1 Timothy 3, and the names ‘elder’ (v. 5) and ‘overseer’ (v. 7) are used for the same people, as Paul did with the Ephesian elders, telling them that the Holy Spirit “has made you overseers, to shepherd the assembly” (Acts 20:28).",
+          "The overseer must be “blameless, as God’s steward” (v. 7). A steward manages what belongs to someone else. So the elder's character matters more than his gifts: not arrogant, quick-tempered, a drinker, violent or greedy, but “given to hospitality, a lover of good, sober minded, fair, holy, self-controlled” (v. 8). Two love-family words (lover of strangers, lover of good) and two self-control words (a sound mind, mastery over desire) sum up the man. His home must reflect the same order: faithful to his wife, with children not marked by wild or rebellious living (v. 6).",
+          "And he must be a man of the word: “holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him” (v. 9). The elder feeds and protects. He encourages God's people with healthy teaching, and he answers those who oppose it. Without such leaders, a church is open to every wind of error."
+        ]
+      },
+      {
+        "heading": "Lips That Profess, Lives That Deny",
+        "paragraphs": [
+          "The need for elders was urgent, because “there are also many unruly men, vain talkers and deceivers, especially those of the circumcision” (v. 10). These teachers were upsetting “whole houses, teaching things which they ought not, for dishonest gain’s sake” (v. 11). Like the false brothers Paul had resisted in Galatia, they wanted to add the law's rituals to the gospel. Earlier, at Antioch, men had taught, “Unless you are circumcised after the custom of Moses, you can’t be saved” (Acts 15:1). Titus himself had been a test case of that controversy.",
+          "Paul's response is direct: “reprove them sharply, that they may be sound in the faith” (v. 13). The goal is not to win an argument but to heal the sick. They must stop “paying attention to Jewish fables and commandments of men who turn away from the truth” (v. 14). Then comes a principle about purity: “To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure” (v. 15). Jesus taught the same: “There is nothing from outside of the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man” (Mark 7:15).",
+          "The chapter ends with a devastating verdict: “They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work” (v. 16). This is the opposite of verse 1. True knowledge leads to godliness; false knowledge leads to deeds that deny God. The rest of the letter will describe a people who adorn the gospel with good works. Jesus gave the test: “Therefore by their fruits you will know them” (Matthew 7:20)."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Faithful Stewards and the Test of Fruit",
+      "paragraphs": [
+        "Paul's pattern of appointing elders goes back to his first missionary journey: “When they had appointed elders for them in every assembly, and had prayed with fasting, they commended them to the Lord, on whom they had believed” (Acts 14:23). Peter gives the same charge to elders: “Shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily, not for dishonest gain, but willingly” (1 Peter 5:2). Leaders are stewards, and “it is required of stewards, that they be found faithful” (1 Corinthians 4:2).",
+        "The false teachers' focus on rules echoes what Jesus condemned in the Pharisees: “But they worship me in vain, teaching as doctrines the commandments of men” (Mark 7:7). Paul wrote similarly to the Colossians about regulations “according to the precepts and doctrines of men” (Colossians 2:22). And he affirmed to Timothy that “every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving” (1 Timothy 4:4). Purity is a matter of the heart, not of rules about food.",
+        "John states the test of 1:16 plainly: the one who claims ‘I know him’ “and doesn’t keep his commandments, is a liar, and the truth isn’t in him” (1 John 2:4). The devil, Jesus said, “is a liar, and the father of lies” (John 8:44). But the God of the gospel cannot lie, and those who truly know Him become people of truth. As Paul quoted a Greek poet in Athens, he quotes a Cretan one here: the gospel is not afraid to speak to a culture in its own words, and then to call it to something better."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Who cannot lie / truthful",
+      "hebrew": "ἀψευδής",
+      "translit": "apseudḗs",
+      "strongs": "G893",
+      "verses": "v. 2",
+      "insight": "Strong's: “veracious.” Its only New Testament use is here, of God Himself: ὁ ἀψευδὴς θεός, ‘the un-lying God’. The word is formed by putting the negative ἀ- in front of the root of ψεῦδος, a lie — the same root as ψεῦσται, the ‘liars’ of verse 12. Paul sets the God who cannot lie against an island famous for lies. Every promise of the gospel rests on this attribute."
+    },
+    {
+      "english": "Set in order / straighten further",
+      "hebrew": "ἐπιδιορθόω",
+      "translit": "epidiorthóō",
+      "strongs": "G1930",
+      "verses": "v. 5",
+      "insight": "Strong's: “to straighten further, i.e. (figuratively) arrange additionally.” It is formed from ἐπί, further, and διορθόω, to make straight — a word used by Greek doctors for setting broken limbs. Paul had begun the work; Titus must finish it. Churches, like bones, can exist without being properly aligned. Godly leadership and sound teaching are God's means of setting them straight."
+    },
+    {
+      "english": "Steward / household manager",
+      "hebrew": "οἰκονόμος",
+      "translit": "oikonómos",
+      "strongs": "G3623",
+      "verses": "v. 7",
+      "insight": "Strong's: “a house-distributor (i.e. manager), or overseer, i.e. an employee in that capacity; by extension, a fiscal agent (treasurer); figuratively, a preacher (of the Gospel).” A steward ran a household on behalf of its owner: he had authority, but it was delegated, and he was accountable. Calling the overseer ‘God's steward’ means the church is God's house, not the elder's. He serves the Master's interests, not his own."
+    },
+    {
+      "english": "Sober-minded / of sound mind",
+      "hebrew": "σώφρων",
+      "translit": "sṓphrōn",
+      "strongs": "G4998",
+      "verses": "v. 8",
+      "insight": "Strong's: “safe (sound) in mind, i.e. self-controlled (moderate as to opinion or passion).” It comes from σῴζω, to save, and φρήν, the mind: a mind kept safe and whole. It is the key quality of Titus 2, where the related words are applied to old and young, men and women. It is not gloominess but sanity — seeing God, oneself and the world as they really are, and living accordingly."
+    },
+    {
+      "english": "Deceiver / mind-deceiver",
+      "hebrew": "φρεναπάτης",
+      "translit": "phrenapátēs",
+      "strongs": "G5423",
+      "verses": "v. 10",
+      "insight": "Strong's: “a mind-misleader, i.e. seducer.” It joins φρήν, the mind, and ἀπατάω, to deceive. It is the dark mirror of σώφρων: where the elder has a sound mind, the false teacher leads minds astray. Paul's concern is not only what people do but what they think, because deception of the mind leads to the ruin of whole households."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "Through this chapter the Holy Spirit speaks to you about trusting God's word, about the character of leadership, and about whether your life matches your profession.",
+    "items": [
+      {
+        "title": "His Word Will Not Fail You",
+        "body": "You may have been deceived by people, systems or even your own heart. The Spirit wants to anchor you in the God who cannot lie. His promise of eternal life was made before time and revealed at the right time in Christ. Ask Him to strengthen your trust in His promises where disappointment has made you doubtful."
+      },
+      {
+        "title": "Character Before Gifts",
+        "body": "God cares more about who His leaders are than about what they can do. Whether or not you lead, the Spirit is forming in you hospitality, love of good, a sound mind, fairness, holiness and self-control. Ask Him to show you which of these He is working on now, and yield to His training."
+      },
+      {
+        "title": "Let Your Deeds Confess Him",
+        "body": "It is possible to profess God with your lips and deny Him with your deeds. The Spirit lovingly exposes any gap between what you say and how you live. Invite Him to search you. Where He shows you a contradiction, repent and ask Him to make your life a true confession of Christ."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Truth Check",
+        "body": "Is there any area where you shade the truth — in business, conversation or social media? Ask God to make you a person of truth, like the God who cannot lie (v. 2)."
+      },
+      {
+        "title": "The Character Check",
+        "body": "Read verses 6–8 slowly. Mark one quality you are strong in and one where you are weak. Pray about the weak one and choose one concrete step to grow in it this week."
+      },
+      {
+        "title": "The Deeds Check",
+        "body": "Write down what you say you believe about God. Next to it, write how your actions this week showed or contradicted it (v. 16)."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Pray for Your Leaders by the List",
+        "body": "Use verses 6–9 as a prayer list for the elders or leaders of your church. Each day for a week, pray one quality over them by name: blameless family life, freedom from arrogance and anger, hospitality, love of good, sound-mindedness, justice, holiness, self-control and faithfulness to the word. Write a short note of encouragement to one of them at the end of the week."
+      },
+      {
+        "title": "Practise Hospitality as Love",
+        "body": "The elder must be φιλόξενος, a lover of strangers. This month, invite someone outside your usual circle — a newcomer, a lonely person, someone from another background — to share a meal in your home or elsewhere. Listen to their story. Let your hospitality be a small picture of God's welcome."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, You are the God who cannot lie. Before time began You promised eternal life, and in Your own time You revealed it in Jesus Christ through the preaching of the gospel. Thank You that I can build my life on Your word. Give me a love for the knowledge of the truth that leads to godliness. Set in order what is still lacking in my life and in my church, as a doctor sets a broken bone. Raise up leaders who are blameless, faithful in their homes, not self-willed, angry, given to drink, violent or greedy, but hospitable, lovers of good, sound-minded, fair, holy and self-controlled, holding firmly to Your faithful word. Make me that kind of person too. Protect Your people from empty talkers and deceivers who upset households for gain. Keep me from human rules that pretend to be Your commands. Purify my mind and conscience. Let my deeds never deny what my lips confess, and make me fit for every good work. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Titus at the Jerusalem Council Debate",
+      "ref": "Galatians 2:1-5; Acts 15:1-2",
+      "relatedVerses": "v. 4, 10, 14",
+      "summary": "Fourteen years after his conversion, Paul went up to Jerusalem, “taking Titus also with me” (Galatians 2:1). Some were insisting that Gentile believers must be circumcised, as men from Judea had taught at Antioch: “Unless you are circumcised after the custom of Moses, you can’t be saved” (Acts 15:1). Titus, an uncircumcised Greek believer, became the test case. Paul refused to give way: “But not even Titus, who was with me, being a Greek, was compelled to be circumcised” (Galatians 2:3). Years later, Titus faced on Crete the same kind of teachers, ‘those of the circumcision’ (Titus 1:10). He knew from his own story that the gospel is received by faith alone, and that a ‘common faith’ unites Jew and Gentile."
+    },
+    {
+      "title": "Jesus and the Traditions of Men",
+      "ref": "Mark 7:1-23",
+      "relatedVerses": "v. 14-15",
+      "summary": "The Pharisees criticised Jesus' disciples for eating without ceremonially washing their hands. Jesus answered from Isaiah that they worshipped in vain, “teaching as doctrines the commandments of men” (Mark 7:7). Then He called the crowd and taught a revolutionary principle: “There is nothing from outside of the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man” (Mark 7:15). Mark notes that by this Jesus declared all foods clean. Evil thoughts, greed, deceit and pride come from the heart. Paul applies the same principle on Crete: “To the pure, all things are pure” (Titus 1:15)."
+    },
+    {
+      "title": "Paul Quotes the Poets in Athens",
+      "ref": "Acts 17:16-34",
+      "relatedVerses": "v. 12-13",
+      "summary": "In Athens, Paul spoke to philosophers on the Areopagus. He started from their own altar to an unknown god and then quoted their own writers: ‘In him we live, and move, and have our being’, and “As some of your own poets have said, ‘For we are also his offspring.’” (Acts 17:28). He used their culture's own voices to point them to the true God and to call them to repentance. In Titus 1:12 he does the same with a Cretan poet, letting the island's own prophet describe its besetting sins. The gospel is not afraid to engage a culture in its own words — and then to call it to something far better."
+    }
+  ]
+}
