@@ -143,7 +143,9 @@
         "season",
         "hour",
         "age",
-        "day"
+        "day",
+        "year",
+        "tomorrow"
       ],
       "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
@@ -212,6 +214,18 @@
           "sense": "To take time, delay — from χρόνος: ‘he will not wait’ (Hebrews 10:37).",
           "anchor": "Hebrews 10:37",
           "en": "wait"
+        },
+        {
+          "strongs": "G1763",
+          "sense": "A year — a full cycle of time.",
+          "anchor": "James 4:13",
+          "en": "year"
+        },
+        {
+          "strongs": "G839",
+          "sense": "Tomorrow — the next day, which no one controls.",
+          "anchor": "James 4:13",
+          "en": "tomorrow"
         }
       ]
     },
@@ -225,7 +239,8 @@
         "affectionate",
         "lovers",
         "beloved",
-        "friend"
+        "friend",
+        "friendship"
       ],
       "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected. Titus adds the bright side of the φιλ- compounds: lover of good, of guests, of husband and children — and God’s own φιλανθρωπία, His love toward mankind.",
       "members": [
@@ -342,6 +357,12 @@
           "sense": "A friend — one who is loved with φιλία, warm personal affection.",
           "anchor": "James 2:23",
           "en": "friend"
+        },
+        {
+          "strongs": "G5373",
+          "sense": "Friendship — warm personal affection and loyalty.",
+          "anchor": "James 4:4",
+          "en": "friendship"
         }
       ]
     },
@@ -787,7 +808,8 @@
         "lawlessness",
         "debts",
         "unrighteousness",
-        "transgressors"
+        "transgressors",
+        "sinners"
       ],
       "intro": "The New Testament describes sin from several angles: missing the mark, a false step, crossing a line, living without law, and owing a debt. Ephesians 2:1 uses two of these words together.",
       "members": [
@@ -856,6 +878,12 @@
           "sense": "A transgressor — one who steps over a known boundary.",
           "anchor": "James 2:9",
           "en": "transgressors"
+        },
+        {
+          "strongs": "G268",
+          "sense": "A sinner — one marked by sin.",
+          "anchor": "James 4:8",
+          "en": "sinners"
         }
       ]
     },
@@ -955,7 +983,8 @@
       "english": [
         "evil",
         "malice",
-        "wicked"
+        "wicked",
+        "wrong"
       ],
       "intro": "English ‘evil’ hides several Greek words. κακός describes what is bad in itself — worthless, harmful in nature. πονηρός describes evil that is active and aggressive, actively doing harm; it is used of ‘the evil one’. 1 Thessalonians 5 uses both: do not repay κακός for κακός (5:15), and abstain from every form of πονηρός (5:22). φαῦλος adds a third shade: the worthless, paltry deed.",
       "members": [
@@ -982,6 +1011,12 @@
           "sense": "‘Worthless, base’ — the shabby, good-for-nothing kind of wrong: deeds that cannot stand the light (John 3:20) and accusations an opponent might make (Titus 2:8).",
           "anchor": "John 3:20",
           "en": "evil"
+        },
+        {
+          "strongs": "G2560",
+          "sense": "Badly, wrongly — the adverb of κακός.",
+          "anchor": "James 4:3",
+          "en": "wrong"
         }
       ]
     },
@@ -1301,6 +1336,88 @@
           "sense": "Religion — worship and its outward observance.",
           "anchor": "James 1:27",
           "en": "religion"
+        }
+      ]
+    },
+    {
+      "id": "humble",
+      "name": "Humble, Lowly & Meek",
+      "lang": "Greek",
+      "english": [
+        "humble",
+        "humility",
+        "lowliness",
+        "gentle",
+        "made humble"
+      ],
+      "intro": "English ‘humble’ and ‘humility’ cover two Greek ideas. ταπεινός / ταπεινόω / ταπείνωσις / ταπεινοφροσύνη is lowness — low in position, or low in one’s own estimate, the opposite of being lifted up (ὑψόω). πραΰς / πραΰτης is meekness — gentle strength under control, the teachable spirit that does not fight God or demand its rights. The WEB sometimes uses ‘humility’ for πραΰτης (James 1:21) and ‘lowliness’ for ταπεινοφροσύνη (Ephesians 4:2), and Jesus calls Himself both: “gentle and humble in heart” (Matthew 11:29).",
+      "members": [
+        {
+          "strongs": "G5011",
+          "sense": "Low, lowly, humble — low in position or in one’s own estimate.",
+          "anchor": "James 4:6",
+          "en": "humble"
+        },
+        {
+          "strongs": "G5013",
+          "sense": "To make low, to humble — and, of oneself, to take the low place.",
+          "anchor": "James 4:10",
+          "en": "Humble"
+        },
+        {
+          "strongs": "G5014",
+          "sense": "Lowering, humiliation — being brought low.",
+          "anchor": "James 1:10",
+          "en": "made humble"
+        },
+        {
+          "strongs": "G5012",
+          "sense": "Lowliness of mind — thinking of oneself modestly.",
+          "anchor": "Ephesians 4:2",
+          "en": "lowliness"
+        },
+        {
+          "strongs": "G4240",
+          "sense": "Meekness — gentle, teachable strength under God’s control.",
+          "anchor": "James 1:21",
+          "en": "humility"
+        },
+        {
+          "strongs": "G4239",
+          "sense": "Meek, gentle — strong but not self-assertive.",
+          "anchor": "Matthew 11:29",
+          "en": "gentle"
+        }
+      ]
+    },
+    {
+      "id": "resist",
+      "name": "Resist & Oppose",
+      "lang": "Greek",
+      "english": [
+        "resists",
+        "Resist",
+        "resist"
+      ],
+      "intro": "Three different Greek words lie behind ‘resist’. ἀντιτάσσομαι is a military word: to draw up one’s ranks against an enemy — God sets Himself in battle order against the proud (James 4:6). ἀνθίστημι is to stand one’s ground against an attack — believers stand against the devil (James 4:7; Ephesians 6:13). ἀντιπίπτω is to fall against, to push back against — Israel always resisted the Holy Spirit (Acts 7:51). In James 4:6–7 the first two sit side by side: God opposes the proud, so the humble can withstand the devil.",
+      "members": [
+        {
+          "strongs": "G498",
+          "sense": "To draw up in battle order against, to oppose.",
+          "anchor": "James 4:6",
+          "en": "resists"
+        },
+        {
+          "strongs": "G436",
+          "sense": "To stand against, to hold one’s ground.",
+          "anchor": "James 4:7",
+          "en": "Resist"
+        },
+        {
+          "strongs": "G496",
+          "sense": "To fall against, to push back against.",
+          "anchor": "Acts 7:51",
+          "en": "resist"
         }
       ]
     },
@@ -1728,7 +1845,8 @@
         "appear",
         "appeared",
         "appearing",
-        "revealed"
+        "revealed",
+        "vanishes"
       ],
       "intro": "English ‘appear’ and ‘reveal’ cover several Greek words. ἐπιφαίνω / ἐπιφάνεια is a shining-forth, like dawn breaking or a king’s arrival: Titus uses it for both comings of Christ (2:11, 13; 3:4). φανερόω is to make visible what was hidden; φαίνω, to shine or be seen; ὤφθη (from ὁράω / ὀπτάνομαι), ‘was seen’, is used of the risen Lord’s appearances; ἀποκαλύπτω is to unveil, to take the cover off. Hebrews 9:24–28 uses three of them for Christ’s three appearings: φανερόω (He ‘has been revealed’ once, v. 26), ἐμφανίζω (He now appears before God for us, v. 24) and ὤφθη/ὁράω (He ‘will appear’ a second time, v. 28).",
       "members": [
@@ -1779,6 +1897,12 @@
           "sense": "To make visible, display — from φαίνω: the terrifying ‘appearance’ at Sinai (Hebrews 12:21).",
           "anchor": "Hebrews 12:21",
           "en": "appearance"
+        },
+        {
+          "strongs": "G853",
+          "sense": "To make unseen, to vanish — the opposite of φαίνω, to appear.",
+          "anchor": "James 4:14",
+          "en": "vanishes"
         }
       ]
     },
