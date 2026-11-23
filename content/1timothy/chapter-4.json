@@ -1,0 +1,827 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Timothy",
+  "chapter": 4,
+  "chapterTitle": "Train Yourself for Godliness — False Asceticism, Good Creation and a Young Leader's Example",
+  "themeTitle": "“Exercise Yourself Toward Godliness”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,",
+      "understanding": "τὸ δὲ πνεῦμα ῥητῶς λέγει, “But the Spirit says expressly” — plainly, unmistakably — that ἐν ὑστέροις καιροῖς, “in later times” (the time family's καιρός: decisive seasons), some ἀποστήσονται τῆς πίστεως, “will fall away from the faith” — the verb behind ‘apostasy’. They will pay attention πνεύμασιν πλάνοις, “to seducing spirits” — spirits that lead astray — καὶ διδασκαλίαις δαιμονίων, “and doctrines of demons.” False teaching is not just human error; behind it are deceiving spiritual powers.",
+      "words": [
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G4490",
+          "hebrew": "ῥητῶς",
+          "translit": "rhētōs",
+          "english": "expressly"
+        },
+        {
+          "strongs": "G5305",
+          "hebrew": "ὕστερον",
+          "translit": "hýsteron",
+          "english": "later"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "times"
+        },
+        {
+          "strongs": "G868",
+          "hebrew": "ἀφίστημι",
+          "translit": "aphístēmi",
+          "english": "fall away"
+        },
+        {
+          "strongs": "G4108",
+          "hebrew": "πλάνος",
+          "translit": "plános",
+          "english": "seducing"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "doctrines"
+        },
+        {
+          "strongs": "G1140",
+          "hebrew": "δαιμόνιον",
+          "translit": "daimónion",
+          "english": "demons"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron;",
+      "understanding": "The demonic teaching comes ἐν ὑποκρίσει ψευδολόγων, “through the hypocrisy of men who speak lies” — ὑπόκρισις is the actor's mask, playing a part; ψευδολόγοι are liars by profession. Their κεκαυστηριασμένων τὴν ἰδίαν συνείδησιν, “branded in their own conscience as with a hot iron” — καυστηριάζω gives ‘cauterise’: a conscience seared until it no longer feels, or branded like a slave with the mark of their master. In 1:19 some ‘thrust away’ a good conscience; here the conscience is burned dead.",
+      "words": [
+        {
+          "strongs": "G5272",
+          "hebrew": "ὑπόκρισις",
+          "translit": "hypókrisis",
+          "english": "hypocrisy"
+        },
+        {
+          "strongs": "G5573",
+          "hebrew": "ψευδολόγος",
+          "translit": "pseudológos",
+          "english": "speak lies"
+        },
+        {
+          "strongs": "G2743",
+          "hebrew": "καυτηριάζω",
+          "translit": "kautēriázō",
+          "english": "branded"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.",
+      "understanding": "Their teaching: κωλυόντων γαμεῖν, “forbidding marriage,” and ἀπέχεσθαι βρωμάτων, “commanding to abstain from foods.” This was a false spirituality that treated the body and the physical world as unspiritual. But these foods ὁ θεὸς ἔκτισεν, “God created,” εἰς μετάλημψιν μετὰ εὐχαριστίας, “to be received with thanksgiving” — εὐχαριστία from the pray family — by those who are faithful καὶ ἐπεγνωκόσι τὴν ἀλήθειαν, “and know the truth” — ἐπιγινώσκω, the verb of the know family's ἐπίγνωσις: full, recognising knowledge.",
+      "words": [
+        {
+          "strongs": "G2967",
+          "hebrew": "κωλύω",
+          "translit": "kōlýō",
+          "english": "forbidding"
+        },
+        {
+          "strongs": "G1060",
+          "hebrew": "γαμέω",
+          "translit": "gaméō",
+          "english": "marriage"
+        },
+        {
+          "strongs": "G567",
+          "hebrew": "ἀπέχομαι",
+          "translit": "apéchomai",
+          "english": "abstain"
+        },
+        {
+          "strongs": "G1033",
+          "hebrew": "βρῶμα",
+          "translit": "brōma",
+          "english": "foods"
+        },
+        {
+          "strongs": "G2936",
+          "hebrew": "κτίζω",
+          "translit": "ktízō",
+          "english": "created"
+        },
+        {
+          "strongs": "G3336",
+          "hebrew": "μετάλημψις",
+          "translit": "metálēmpsis",
+          "english": "received"
+        },
+        {
+          "strongs": "G2169",
+          "hebrew": "εὐχαριστία",
+          "translit": "eucharistía",
+          "english": "thanksgiving"
+        },
+        {
+          "strongs": "G1921",
+          "hebrew": "ἐπιγινώσκω",
+          "translit": "epiginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving.",
+      "understanding": "The principle: ὅτι πᾶν κτίσμα θεοῦ καλόν, “For every creature of God is good” — καλός from the good family: beautiful, excellent, as God declared in Genesis 1. καὶ οὐδὲν ἀπόβλητον, “and nothing is to be rejected” — thrown away as unclean — μετὰ εὐχαριστίας λαμβανόμενον, “if it is received with thanksgiving.” Creation is not the enemy; misuse of it is. Gratitude turns ordinary things into acts of worship.",
+      "words": [
+        {
+          "strongs": "G2938",
+          "hebrew": "κτίσμα",
+          "translit": "ktísma",
+          "english": "creature"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G579",
+          "hebrew": "ἀπόβλητος",
+          "translit": "apóblētos",
+          "english": "rejected"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G2169",
+          "hebrew": "εὐχαριστία",
+          "translit": "eucharistía",
+          "english": "thanksgiving"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For it is sanctified through the word of God and prayer.",
+      "understanding": "ἁγιάζεται γὰρ διὰ λόγου θεοῦ καὶ ἐντεύξεως, “For it is sanctified through the word of God and prayer.” ἁγιάζω, to set apart for God. ‘Prayer’ here is ἔντευξις from the pray family — the same word as ‘intercessions’ in 2:1: approaching God with requests. Food is set apart by God's word (which declares it good) and by prayer (giving thanks for it). Every meal can be holy.",
+      "words": [
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "sanctified"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1783",
+          "hebrew": "ἔντευξις",
+          "translit": "énteuxis",
+          "english": "prayer"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith, and of the good doctrine which you have followed.",
+      "understanding": "ταῦτα ὑποτιθέμενος, “If you instruct … these things” — literally ‘laying these things under’, as a foundation — Timothy will be καλὸς διάκονος Χριστοῦ Ἰησοῦ, “a good servant of Christ Jesus” — the servant family's διάκονος and the good family's καλός: an excellent servant. ἐντρεφόμενος, “nourished,” continually fed, in the words of the faith and the καλῆς διδασκαλίας, “good doctrine,” ᾗ παρηκολούθηκας, “which you have followed” — closely followed, like a student following a teacher. You can only feed others what you are being fed.",
+      "words": [
+        {
+          "strongs": "G5294",
+          "hebrew": "ὑποτίθημι",
+          "translit": "hypotíthēmi",
+          "english": "instruct"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servant"
+        },
+        {
+          "strongs": "G1789",
+          "hebrew": "ἐντρέφω",
+          "translit": "entréphō",
+          "english": "nourished"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "words"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "doctrine"
+        },
+        {
+          "strongs": "G3877",
+          "hebrew": "παρακολουθέω",
+          "translit": "parakolouthéō",
+          "english": "followed"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "But refuse profane and old wives’ fables. Exercise yourself toward godliness.",
+      "understanding": "τοὺς δὲ βεβήλους καὶ γραώδεις μύθους παραιτοῦ, “But refuse profane and old wives’ fables” — βέβηλος is common, unholy; γραώδης means ‘old-womanish’, a contemptuous Greek term for silly tales — μῦθοι, myths (1:4). Instead: γύμναζε δὲ σεαυτὸν πρὸς εὐσέβειαν, “Exercise yourself toward godliness.” γυμνάζω is the word for training in the gymnasium, where athletes trained naked, stripped of everything that hindered. Godliness requires disciplined training.",
+      "words": [
+        {
+          "strongs": "G952",
+          "hebrew": "βέβηλος",
+          "translit": "bébēlos",
+          "english": "profane"
+        },
+        {
+          "strongs": "G1126",
+          "hebrew": "γραώδης",
+          "translit": "graṓdēs",
+          "english": "old wives’"
+        },
+        {
+          "strongs": "G3454",
+          "hebrew": "μῦθος",
+          "translit": "mŷthos",
+          "english": "fables"
+        },
+        {
+          "strongs": "G3868",
+          "hebrew": "παραιτέομαι",
+          "translit": "paraitéomai",
+          "english": "refuse"
+        },
+        {
+          "strongs": "G1128",
+          "hebrew": "γυμνάζω",
+          "translit": "gymnázō",
+          "english": "exercise"
+        },
+        {
+          "strongs": "G2150",
+          "hebrew": "εὐσέβεια",
+          "translit": "eusébeia",
+          "english": "godliness"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now, and of that which is to come.",
+      "understanding": "ἡ γὰρ σωματικὴ γυμνασία, “For bodily exercise” — physical training — πρὸς ὀλίγον ἐστὶν ὠφέλιμος, “has some value,” is useful for a little (for a short time or to a small extent). ἡ δὲ εὐσέβεια πρὸς πάντα ὠφέλιμός ἐστιν, “but godliness has value in all things,” ἐπαγγελίαν ἔχουσα ζωῆς τῆς νῦν καὶ τῆς μελλούσης, “having the promise of the life (ζωή, from the life family: life itself) which is now, and of that which is to come.” Physical training helps this life; godliness helps this life and the next.",
+      "words": [
+        {
+          "strongs": "G4984",
+          "hebrew": "σωματικός",
+          "translit": "sōmatikós",
+          "english": "bodily"
+        },
+        {
+          "strongs": "G1129",
+          "hebrew": "γυμνασία",
+          "translit": "gymnasía",
+          "english": "exercise"
+        },
+        {
+          "strongs": "G5624",
+          "hebrew": "ὠφέλιμος",
+          "translit": "ōphélimos",
+          "english": "value"
+        },
+        {
+          "strongs": "G2150",
+          "hebrew": "εὐσέβεια",
+          "translit": "eusébeia",
+          "english": "godliness"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promise"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G3568",
+          "hebrew": "νῦν",
+          "translit": "nŷn",
+          "english": "now"
+        },
+        {
+          "strongs": "G3195",
+          "hebrew": "μέλλω",
+          "translit": "méllō",
+          "english": "to come"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "This saying is faithful and worthy of all acceptance.",
+      "understanding": "The third ‘faithful saying’: πιστὸς ὁ λόγος καὶ πάσης ἀποδοχῆς ἄξιος, “This saying is faithful and worthy of all acceptance” — the same formula as 1:15. Scholars debate whether it points back to verse 8 (godliness has value for both lives) or forward to verse 10; either way it marks a truth worth building life on.",
+      "words": [
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "saying"
+        },
+        {
+          "strongs": "G594",
+          "hebrew": "ἀποδοχή",
+          "translit": "apodochḗ",
+          "english": "acceptance"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe.",
+      "understanding": "εἰς τοῦτο γὰρ κοπιῶμεν, “For to this end we both labor” — κοπιάω from the work family: toil to weariness — καὶ ὀνειδιζόμεθα, “and suffer reproach” (the WEB follows manuscripts with this word; others read ἀγωνιζόμεθα, ‘strive’). Why? ὅτι ἠλπίκαμεν ἐπὶ θεῷ ζῶντι, “because we have set our trust (hope) in the living God,” ὅς ἐστιν σωτὴρ πάντων ἀνθρώπων, μάλιστα πιστῶν, “who is the Savior of all men, especially of those who believe.” God is Saviour of all in that He preserves all life and offers salvation to all (2:4); He is Saviour ‘especially’ of believers, who receive it.",
+      "words": [
+        {
+          "strongs": "G2872",
+          "hebrew": "κοπιάω",
+          "translit": "kopiáō",
+          "english": "labor"
+        },
+        {
+          "strongs": "G3679",
+          "hebrew": "ὀνειδίζω",
+          "translit": "oneidízō",
+          "english": "suffer reproach"
+        },
+        {
+          "strongs": "G1679",
+          "hebrew": "ἐλπίζω",
+          "translit": "elpízō",
+          "english": "set our trust"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "living"
+        },
+        {
+          "strongs": "G4990",
+          "hebrew": "σωτήρ",
+          "translit": "sōtḗr",
+          "english": "Savior"
+        },
+        {
+          "strongs": "G3122",
+          "hebrew": "μάλιστα",
+          "translit": "málista",
+          "english": "especially"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "believe"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Command and teach these things.",
+      "understanding": "παράγγελλε ταῦτα καὶ δίδασκε, “Command and teach these things.” Two present imperatives: keep commanding, keep teaching. παραγγέλλω, the military word for passing on orders (1:3), and διδάσκω, to teach. Timothy is not to suggest; he is to instruct with authority.",
+      "words": [
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "Command"
+        },
+        {
+          "strongs": "G1321",
+          "hebrew": "διδάσκω",
+          "translit": "didáskō",
+          "english": "teach"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity.",
+      "understanding": "μηδείς σου τῆς νεότητος καταφρονείτω, “Let no man despise your youth” — καταφρονέω means to look down on. Timothy was probably in his thirties — young for leadership in that culture, where elders were respected for age. The answer is not to demand respect but to earn it: τύπος γίνου τῶν πιστῶν, “be an example (τύπος, a stamp, a pattern) to those who believe.” Five areas: ἐν λόγῳ, “in word” (λόγος, speech); ἐν ἀναστροφῇ, “in your way of life” (conduct); ἐν ἀγάπῃ, “in love”; ἐν πνεύματι, “in spirit” (in some manuscripts); ἐν πίστει, “in faith”; ἐν ἁγνείᾳ, “in purity” — moral and sexual purity.",
+      "words": [
+        {
+          "strongs": "G3503",
+          "hebrew": "νεότης",
+          "translit": "neótēs",
+          "english": "youth"
+        },
+        {
+          "strongs": "G2706",
+          "hebrew": "καταφρονέω",
+          "translit": "kataphronéō",
+          "english": "despise"
+        },
+        {
+          "strongs": "G5179",
+          "hebrew": "τύπος",
+          "translit": "týpos",
+          "english": "example"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G391",
+          "hebrew": "ἀναστροφή",
+          "translit": "anastrophḗ",
+          "english": "way of life"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G47",
+          "hebrew": "ἁγνεία",
+          "translit": "hagneía",
+          "english": "purity"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Until I come, pay attention to reading, to exhortation, and to teaching.",
+      "understanding": "ἕως ἔρχομαι, “Until I come,” πρόσεχε, “pay attention,” devote yourself, τῇ ἀναγνώσει, “to reading” — the public reading of Scripture in the gathering, as in the synagogue (Acts 13:15); τῇ παρακλήσει, “to exhortation” — applying the Scripture, urging and encouraging; τῇ διδασκαλίᾳ, “to teaching” — explaining its truth. Read, exhort, teach: the pattern of a Bible-centred church.",
+      "words": [
+        {
+          "strongs": "G4337",
+          "hebrew": "προσέχω",
+          "translit": "proséchō",
+          "english": "pay attention"
+        },
+        {
+          "strongs": "G320",
+          "hebrew": "ἀνάγνωσις",
+          "translit": "anágnōsis",
+          "english": "reading"
+        },
+        {
+          "strongs": "G3874",
+          "hebrew": "παράκλησις",
+          "translit": "paráklēsis",
+          "english": "exhortation"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "teaching"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Don’t neglect the gift that is in you, which was given to you by prophecy, with the laying on of the hands of the elders.",
+      "understanding": "μὴ ἀμέλει τοῦ ἐν σοὶ χαρίσματος, “Don’t neglect the gift that is in you” — ἀμελέω means to be careless about. χάρισμα is a grace-gift (from χάρις). It was given διὰ προφητείας, “by prophecy,” μετὰ ἐπιθέσεως τῶν χειρῶν τοῦ πρεσβυτερίου, “with the laying on of the hands of the elders” (v. 14) — the body of elders. 2 Timothy 1:6 mentions Paul's hands too. God gave the gift; Timothy must not let it lie unused.",
+      "words": [
+        {
+          "strongs": "G272",
+          "hebrew": "ἀμελέω",
+          "translit": "ameléō",
+          "english": "neglect"
+        },
+        {
+          "strongs": "G5486",
+          "hebrew": "χάρισμα",
+          "translit": "chárisma",
+          "english": "gift"
+        },
+        {
+          "strongs": "G4394",
+          "hebrew": "προφητεία",
+          "translit": "prophēteía",
+          "english": "prophecy"
+        },
+        {
+          "strongs": "G1936",
+          "hebrew": "ἐπίθεσις",
+          "translit": "epíthesis",
+          "english": "laying on"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hands"
+        },
+        {
+          "strongs": "G4244",
+          "hebrew": "πρεσβυτέριον",
+          "translit": "presbytérion",
+          "english": "elders"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all.",
+      "understanding": "ταῦτα μελέτα, “Be diligent in these things” — μελετάω means to give careful thought and practice to, to work at. ἐν τούτοις ἴσθι, “Give yourself wholly to them” — literally ‘be in them’, be absorbed. The goal: ἵνα σου ἡ προκοπὴ φανερὰ ᾖ πᾶσιν, “that your progress may be revealed to all.” προκοπή was used of an army cutting its way forward. People will not despise a young leader whose growth they can see.",
+      "words": [
+        {
+          "strongs": "G3191",
+          "hebrew": "μελετάω",
+          "translit": "meletáō",
+          "english": "Be diligent"
+        },
+        {
+          "strongs": "G4297",
+          "hebrew": "προκοπή",
+          "translit": "prokopḗ",
+          "english": "progress"
+        },
+        {
+          "strongs": "G5318",
+          "hebrew": "φανερός",
+          "translit": "phanerós",
+          "english": "revealed"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Pay attention to yourself, and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.",
+      "understanding": "ἔπεχε σεαυτῷ καὶ τῇ διδασκαλίᾳ, “Pay attention to yourself, and to your teaching” — life and doctrine, in that order. ἐπίμενε αὐτοῖς, “Continue in these things,” persevere. “For in doing this you will save (σώσεις) both yourself and those who hear (ἀκούοντάς) you.” Not that Timothy earns salvation, but that persevering in sound life and teaching is how God keeps him and his hearers in the faith. A leader who watches his life and his teaching becomes God's instrument of salvation for others.",
+      "words": [
+        {
+          "strongs": "G1907",
+          "hebrew": "ἐπέχω",
+          "translit": "epéchō",
+          "english": "Pay attention"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G1961",
+          "hebrew": "ἐπιμένω",
+          "translit": "epiménō",
+          "english": "Continue"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "save"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Branded Conscience",
+      "verseRef": "v. 1-2",
+      "image": "Picture a blacksmith heating an iron rod until it glows white. He presses it onto a man's skin, and the flesh sizzles and scars. Months later the scar is hard and numb; you could press a needle into it and the man would feel nothing. Now picture a teacher who once felt the sting of conscience when he twisted Scripture for his own ends. He pushed the feeling away again and again. Now he can stand in front of a crowd and tell polished lies about God without a flicker of discomfort.",
+      "meaning": "Paul warns of those who teach “through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron” (v. 2). A conscience can be seared until it no longer warns. It does not happen in one day; it happens through repeated choices to ignore its voice. This is why Paul keeps urging a ‘good conscience’ (1:5, 19; 3:9). Guard your sensitivity to the Spirit's conviction; a tender conscience is a gift."
+    },
+    {
+      "title": "Grace at the Table",
+      "verseRef": "v. 3-5",
+      "image": "Picture two tables in Ephesus. At the first, a group of ‘spiritual’ teachers refuse meat and wine and look down on anyone who marries, as if the body and the physical world were dirty. Their faces are stern, their food is plain, and their spirits are proud. At the second table, a Christian family gathers for an ordinary meal. The father takes the bread and says, ‘Thank You, Father, for this good gift.’ The children laugh, the food is shared with a poor neighbour, and the meal becomes worship.",
+      "meaning": "The false teachers were “forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving” (v. 3). Paul answers: “For every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving. For it is sanctified through the word of God and prayer” (vv. 4–5). True spirituality does not despise God's creation; it receives it gratefully and uses it for His glory. Marriage, food and the body are gifts. Gratitude turns them into worship."
+    },
+    {
+      "title": "The Spiritual Gymnasium",
+      "verseRef": "v. 7-8",
+      "image": "Picture an ancient gymnasium at dawn. Young men are running laps, wrestling, lifting stones and stretching. Their trainers shout instructions. Their bodies grow stronger month by month. Now picture another kind of gymnasium: a believer rising early to read Scripture and pray, choosing to forgive a colleague, fasting from a habit, serving someone in secret, guarding the tongue in a heated moment. No one cheers. But day by day, a different kind of strength is growing — one that will last for ever.",
+      "meaning": "“Exercise yourself toward godliness. For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now, and of that which is to come” (vv. 7–8). The word γυμνάζω gives us ‘gymnasium’. Godliness does not grow by accident; it grows by training, by repeated, disciplined practice empowered by grace. Physical fitness is good, but it is temporary. Spiritual fitness benefits this life and the next."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Doctrines of Demons (v. 1-5)",
+        "body": "The Spirit clearly says that in later times some will abandon the faith, following deceiving spirits and teachings of demons through liars with seared consciences, who forbid marriage and require abstinence from foods that God created to be received with thanksgiving; everything God created is good and is made holy by the word of God and prayer."
+      },
+      {
+        "label": "A Good Servant Trains in Godliness (v. 6-10)",
+        "body": "By teaching these things Timothy will be a good servant of Christ, nourished on the words of faith; he must reject profane myths and train himself for godliness, which is valuable in every way, holding promise for this life and the next; for this believers labour and suffer reproach, trusting the living God, the Saviour of all, especially of believers."
+      },
+      {
+        "label": "An Example Despite Youth (v. 11-16)",
+        "body": "Timothy must command and teach these things, let no one despise his youth but set an example in speech, conduct, love, faith and purity; devote himself to public reading of Scripture, exhortation and teaching; not neglect his gift; give himself wholly to these things so all may see his progress; and watch his life and doctrine closely, for in doing so he will save himself and his hearers."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "When Spirituality Despises Creation",
+        "paragraphs": [
+          "Chapter 4 opens with a warning that the false teaching in Ephesus was not merely human error: “But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons” (v. 1). ‘Later times’ in the New Testament describes the whole period between Christ's first and second comings, not only the final days; Paul sees the prophecy already being fulfilled in Ephesus. Behind false teachers stand deceiving spirits. Jesus warned, “Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves” (Matthew 7:15).",
+          "The human agents speak lies with masks of piety, “branded in their own conscience as with a hot iron” (v. 2). And their teaching was a form of super-spirituality: “forbidding marriage and commanding to abstain from foods” (v. 3). It sounds holy to renounce marriage and certain foods, but it rested on the idea that the physical world is inferior or evil. Paul had faced something similar in Colossae, where teachers said, “‘Don’t handle, nor taste, nor touch’” (Colossians 2:21), rules that “aren’t of any value against the indulgence of the flesh” (Colossians 2:23).",
+          "Paul's answer goes back to creation: these foods God “created to be received with thanksgiving by those who believe and know the truth. For every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving. For it is sanctified through the word of God and prayer” (vv. 3–5). Jesus Himself declared all foods clean (Mark 7:19), and Peter heard, “What God has cleansed, you must not call unclean” (Acts 10:15). Marriage too is God's good gift: “Let marriage be held in honor among all” (Hebrews 13:4). True holiness is not the rejection of God's gifts but their grateful use."
+        ]
+      },
+      {
+        "heading": "Training for Godliness",
+        "paragraphs": [
+          "Timothy's task is to teach these things, and in doing so he will be “a good servant of Christ Jesus, nourished in the words of the faith, and of the good doctrine which you have followed” (v. 6). A leader feeds others only what he is feeding on himself. So Paul gives two commands: reject myths, and train in godliness. “But refuse profane and old wives’ fables. Exercise yourself toward godliness” (v. 7). The athletic image is deliberate: godliness requires discipline, effort and endurance, empowered by grace.",
+          "Paul compares physical and spiritual training: “For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now, and of that which is to come” (v. 8). He does not despise physical exercise — he often uses athletic pictures, as in “Every man who strives in the games exercises self-control in all things. Now they do it to receive a corruptible crown, but we an incorruptible” (1 Corinthians 9:25). But he puts it in perspective. The body is temporary; godliness pays dividends now and for ever.",
+          "This is why Christian ministry involves toil and suffering: “For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe” (v. 10). The phrase ‘Saviour of all … especially of believers’ does not mean everyone will be saved; it means that God is the preserver and would-be Saviour of all people (2:4), and in a special and saving sense the Saviour of those who believe."
+        ]
+      },
+      {
+        "heading": "An Example Despite Youth",
+        "paragraphs": [
+          "Then Paul turns personal: “Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity” (v. 12). Timothy may have felt intimidated by older men in the church and by confident false teachers. Paul's answer is not to demand respect but to earn it by example. The areas are comprehensive: what he says, how he lives, how he loves, his faith and his purity. Paul gave the same instruction to Titus: “in all things showing yourself an example of good works” (Titus 2:7).",
+          "Next, priorities: “Until I come, pay attention to reading, to exhortation, and to teaching” (v. 13). The public reading of Scripture, followed by exhortation and teaching, was the heart of the gathering, just as in the synagogue, where “After the reading of the law and the prophets” the leaders asked for “any word of exhortation for the people” (Acts 13:15). And gifts: “Don’t neglect the gift that is in you, which was given to you by prophecy, with the laying on of the hands of the elders” (v. 14). Paul later reminded him to “stir up the gift of God which is in you” (2 Timothy 1:6).",
+          "Finally, perseverance: “Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all. Pay attention to yourself, and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you” (vv. 15–16). Life first, then teaching. A leader can teach correct doctrine and still shipwreck his life; or live well while teaching error. Both must be watched. God uses a leader who perseveres in both as an instrument of salvation for others."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Creation, Discipline and Example",
+      "paragraphs": [
+        "The New Testament repeatedly rejects false asceticism. Jesus said that food “doesn’t go into his heart, but into his stomach” (Mark 7:19), declaring all foods clean. Peter was told, “What God has cleansed, you must not call unclean” (Acts 10:15). Paul taught that both the one who eats and the one who abstains do so to the Lord: “He who eats, eats to the Lord, for he gives God thanks” (Romans 14:6). And Hebrews insists, “Let marriage be held in honor among all, and let the bed be undefiled” (Hebrews 13:4).",
+        "Yet the New Testament also calls for real discipline. Paul writes of himself, “but I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be rejected” (1 Corinthians 9:27). The difference is the motive: false asceticism tries to earn holiness by rejecting creation; true discipline trains a redeemed person to use God's gifts rightly and grow in godliness.",
+        "Timothy's calling and reputation appear in Acts: “The brothers who were at Lystra and Iconium gave a good testimony about him” (Acts 16:2). Paul later urged him to “stir up the gift of God which is in you through the laying on of my hands” (2 Timothy 1:6). And Titus received the same charge to be an example: “in all things showing yourself an example of good works; in your teaching showing integrity, seriousness, incorruptibility” (Titus 2:7)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Sear / brand / cauterise",
+      "hebrew": "καυτηριάζω",
+      "translit": "kautēriázō",
+      "strongs": "G2743",
+      "verses": "v. 2",
+      "insight": "Strong's: “to brand (‘cauterize’), i.e. (by implication) to render unsensitive (figuratively).” It appears only here in the New Testament. It can picture a conscience so burned that it no longer feels, or a conscience branded with the mark of its master, as slaves were branded. Either way, those who repeatedly silence their conscience can reach a point where lies no longer trouble them. Keep your conscience tender by responding quickly when the Spirit convicts."
+    },
+    {
+      "english": "Creature / created thing",
+      "hebrew": "κτίσμα",
+      "translit": "ktísma",
+      "strongs": "G2938",
+      "verses": "v. 4",
+      "insight": "Strong's: “an original formation (concretely), i.e. product (created thing).” From κτίζω, to create. Paul says every κτίσμα of God is καλός, good — echoing Genesis 1, where God saw that everything He made was good. False teachers who forbade marriage and foods treated parts of creation as unspiritual. Paul insists that nothing God made is to be rejected when received with thanksgiving. The problem is never the gift; it is how we use it."
+    },
+    {
+      "english": "Exercise / train",
+      "hebrew": "γυμνάζω",
+      "translit": "gymnázō",
+      "strongs": "G1128",
+      "verses": "v. 7",
+      "insight": "Strong's: “to practise naked (in the games), i.e. train (figuratively).” From γυμνός, naked, because Greek athletes trained unclothed, removing everything that hindered movement. It gives us ‘gymnasium’ and ‘gymnastics’. Hebrews uses it for believers ‘trained’ by God's discipline (Hebrews 12:11). Godliness requires stripping off hindrances and repeated, disciplined practice. Grace does not make effort unnecessary; it makes godly effort possible and fruitful."
+    },
+    {
+      "english": "Godliness",
+      "hebrew": "εὐσέβεια",
+      "translit": "eusébeia",
+      "strongs": "G2150",
+      "verses": "v. 7, 8",
+      "insight": "Strong's: “piety; specially, the gospel scheme.” The key word of 1 Timothy. In verses 7–8 it is something one trains for, and it has value ‘in all things’, carrying promise for this life and the next. True godliness is not outward religion — the false teachers had plenty of that — but a life of reverent devotion to God shaped by the truth of Christ (3:16). It is worth more than any physical fitness."
+    },
+    {
+      "english": "Example / pattern",
+      "hebrew": "τύπος",
+      "translit": "týpos",
+      "strongs": "G5179",
+      "verses": "v. 12",
+      "insight": "Strong's: “a die (as struck), i.e. (by implication) a stamp or scar; by analogy, a shape, i.e. a statue, (figuratively) style or resemblance; specially, a sampler (‘type’), i.e. a model (for imitation) or instance (for warning).” Originally the mark left by a blow, like a seal pressed into wax. A leader's life leaves an impression on others. The Thessalonians became a τύπος to all believers (1 Thessalonians 1:7); Paul made himself a τύπος (2 Thessalonians 3:9). Timothy is to be one in word, conduct, love, faith and purity. Your life is shaping someone."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the tenderness of your conscience, the shape of your spiritual training, and the example you are setting.",
+    "items": [
+      {
+        "title": "A Tender Conscience",
+        "body": "False teachers had seared consciences. The Spirit wants to keep yours tender. Is there an area where you have grown numb to conviction — a habit you no longer feel bad about, a compromise that once troubled you? Ask Him to restore sensitivity. When He brings conviction, respond quickly. A tender conscience is not weakness; it is spiritual health."
+      },
+      {
+        "title": "Train, Don't Just Try",
+        "body": "Godliness grows through training: daily, deliberate, grace-empowered practice. The Spirit may be showing you that your spiritual life has been more wishing than training. What spiritual exercises would strengthen you — regular Scripture reading, prayer, fasting, generosity, confession, service? Ask Him to help you build one new practice this month, as a trainee in His gymnasium."
+      },
+      {
+        "title": "Someone Is Watching",
+        "body": "Like Timothy, you may feel too young, too new or too unimportant to influence anyone. But someone is watching your life: a child, a younger believer, a colleague. The Spirit asks: what impression is your life leaving? Ask Him to make you an example in speech, conduct, love, faith and purity, so that others see Christ in you."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Gratitude Check",
+        "body": "Do you receive God's ordinary gifts — food, rest, marriage, health — with thanksgiving (vv. 3–5)? Or do you either despise them or take them for granted? Choose to give thanks deliberately before every meal this week."
+      },
+      {
+        "title": "The Training Check",
+        "body": "Compare the time you give to physical or entertainment pursuits with the time you give to training in godliness (vv. 7–8). Write down one realistic change to rebalance it."
+      },
+      {
+        "title": "The Example Check",
+        "body": "Rate yourself honestly in the five areas of verse 12: speech, conduct, love, faith, purity. Which one most needs growth? Ask God for help in that area and name one practical step."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "A Thirty-Day Godliness Plan",
+        "body": "Design a simple training plan for thirty days. Choose three exercises: one for the word (for example, reading one chapter a day), one for prayer (for example, ten minutes each morning), and one for character (for example, a daily act of hidden kindness, or guarding your tongue in one specific situation). Track it like an athlete tracks training. At the end, write down what has changed in you and what you will continue."
+      },
+      {
+        "title": "Read, Exhort, Teach at Home",
+        "body": "Apply verse 13 at home or in a small group. Once this week, read a passage of Scripture aloud (reading), share one way it should change how you live (exhortation), and explain one truth it teaches (teaching). Keep it short and simple. Invite others to respond. Make it a weekly habit."
+      }
+    ]
+  },
+  "prayerReflection": "“Holy Spirit, You have spoken clearly that some will fall away, following deceiving spirits and teachings of demons. Keep me from every lie, however spiritual it sounds. Keep my conscience tender and never let it be seared. Thank You that everything You created is good, and that nothing is to be rejected when it is received with thanksgiving. Let me receive Your gifts gratefully and sanctify them by Your word and prayer. Make me a good servant of Christ Jesus, nourished on the words of faith and good teaching. Help me refuse empty myths and train myself for godliness, which is valuable for this life and the life to come. I set my hope on You, the living God, the Saviour of all, especially of those who believe. Whatever my age or weakness, make me an example in speech, conduct, love, faith and purity. Let me not neglect the gift You have given me. Help me give myself fully to what You have called me to do, watch my life and my teaching closely, and persevere, so that I and those who hear me may be saved. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Daniel and the King's Food",
+      "ref": "Daniel 1:1-21",
+      "relatedVerses": "v. 7-8, 12",
+      "summary": "As a young exile in Babylon, Daniel was chosen to be trained for the king's service and offered the king's rich food and wine. He resolved not to defile himself and asked to be given vegetables and water instead. After ten days, he and his friends looked healthier than the others, and God gave them knowledge and understanding. Daniel's refusal was not a rejection of God's creation but faithfulness to God's law and refusal to compromise with an idolatrous court. He shows what 1 Timothy 4 calls for: a young person disciplined in godliness, setting an example in conduct and faith, whose progress was evident to all."
+    },
+    {
+      "title": "Peter's Vision of the Sheet",
+      "ref": "Acts 10:9-16",
+      "relatedVerses": "v. 3-5",
+      "summary": "On a rooftop in Joppa, Peter fell into a trance and saw heaven opened and a great sheet let down, full of all kinds of animals, reptiles and birds. A voice told him to kill and eat. Peter refused, saying he had never eaten anything common or unclean. “A voice came to him again the second time, ‘What God has cleansed, you must not call unclean’” (Acts 10:15). This happened three times. The vision prepared Peter to welcome the Gentile Cornelius into the church, and it confirmed that the food laws no longer divided God's people. 1 Timothy 4:4 states the same truth: every creature of God is good, and nothing is to be rejected if received with thanksgiving."
+    },
+    {
+      "title": "Young Samuel Who Listened",
+      "ref": "1 Samuel 3:1-21",
+      "relatedVerses": "v. 12, 15-16",
+      "summary": "In a time when the word of the LORD was rare, the boy Samuel served in the tabernacle under the old priest Eli. One night the LORD called Samuel by name three times, and Samuel thought it was Eli. The fourth time, following Eli's advice, he answered, ‘Speak, for your servant hears.’ God gave him a hard message about Eli's house, and Samuel told it faithfully. The LORD was with Samuel as he grew, and let none of his words fall to the ground; all Israel recognised him as a prophet. Like Timothy, Samuel was young, yet his faithfulness made his progress evident to all, and no one despised his youth."
+    }
+  ]
+}

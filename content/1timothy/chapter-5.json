@@ -1,0 +1,1218 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Timothy",
+  "chapter": 5,
+  "chapterTitle": "The Church as Family — Widows, Elders and Purity Without Partiality",
+  "themeTitle": "“Honor Widows Who Are Widows Indeed”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Don’t rebuke an older man, but exhort him as a father; the younger men as brothers;",
+      "understanding": "The church is a family, so speak to its members as family. πρεσβυτέρῳ μὴ ἐπιπλήξῃς, “Don’t rebuke an older man” — ἐπιπλήσσω means to strike at with words, to scold harshly — ἀλλὰ παρακάλει ὡς πατέρα, “but exhort him as a father” — appeal, encourage, with respect. νεωτέρους ὡς ἀδελφούς, “the younger men as brothers” — νεώτερος is the comparative of νέος from the new family: newer, younger in time. A young leader corrects older people with honour and younger people as equals.",
+      "words": [
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "older man"
+        },
+        {
+          "strongs": "G1969",
+          "hebrew": "ἐπιπλήσσω",
+          "translit": "epiplḗssō",
+          "english": "rebuke"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "father"
+        },
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "younger men"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "the elder women as mothers; the younger as sisters, in all purity.",
+      "understanding": "πρεσβυτέρας ὡς μητέρας, “the elder women as mothers”; νεωτέρας ὡς ἀδελφάς, “the younger as sisters,” ἐν πάσῃ ἁγνείᾳ, “in all purity.” The family picture protects relationships: treating young women as sisters guards against any hint of impropriety. A young pastor must be above suspicion.",
+      "words": [
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elder women"
+        },
+        {
+          "strongs": "G3384",
+          "hebrew": "μήτηρ",
+          "translit": "mḗtēr",
+          "english": "mothers"
+        },
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "younger"
+        },
+        {
+          "strongs": "G79",
+          "hebrew": "ἀδελφή",
+          "translit": "adelphḗ",
+          "english": "sisters"
+        },
+        {
+          "strongs": "G47",
+          "hebrew": "ἁγνεία",
+          "translit": "hagneía",
+          "english": "purity"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Honor widows who are widows indeed.",
+      "understanding": "χήρας τίμα, “Honor widows” — τιμάω means to value, honour, and here clearly includes financial support (as ‘honour’ includes pay in v. 17). But specifically τὰς ὄντως χήρας, “who are widows indeed” — truly without support. In the ancient world a widow without family was among the most vulnerable people. Caring for widows was one of the earliest marks of the church (Acts 6:1).",
+      "words": [
+        {
+          "strongs": "G5503",
+          "hebrew": "χήρα",
+          "translit": "chḗra",
+          "english": "widows"
+        },
+        {
+          "strongs": "G5091",
+          "hebrew": "τιμάω",
+          "translit": "timáō",
+          "english": "Honor"
+        },
+        {
+          "strongs": "G3689",
+          "hebrew": "ὄντως",
+          "translit": "óntōs",
+          "english": "indeed"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "But if any widow has children or grandchildren, let them learn first to show piety towards their own family, and to repay their parents, for this is acceptable in the sight of God.",
+      "understanding": "If a widow has τέκνα ἢ ἔκγονα, “children or grandchildren,” they must μανθανέτωσαν πρῶτον τὸν ἴδιον οἶκον εὐσεβεῖν, “learn first to show piety towards their own family.” εὐσεβέω is the verb of the godliness family: godliness begins at home, in caring for parents. And ἀμοιβὰς ἀποδιδόναι τοῖς προγόνοις, “to repay their parents” — giving back what was received in childhood. “For this is acceptable (ἀπόδεκτον) in the sight of God.”",
+      "words": [
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G1549",
+          "hebrew": "ἔκγονον",
+          "translit": "ékgonon",
+          "english": "grandchildren"
+        },
+        {
+          "strongs": "G3129",
+          "hebrew": "μανθάνω",
+          "translit": "manthánō",
+          "english": "learn"
+        },
+        {
+          "strongs": "G2151",
+          "hebrew": "εὐσεβέω",
+          "translit": "eusebéō",
+          "english": "show piety"
+        },
+        {
+          "strongs": "G287",
+          "hebrew": "ἀμοιβή",
+          "translit": "amoibḗ",
+          "english": "repay"
+        },
+        {
+          "strongs": "G591",
+          "hebrew": "ἀποδίδωμι",
+          "translit": "apodídōmi",
+          "english": "repay"
+        },
+        {
+          "strongs": "G4269",
+          "hebrew": "πρόγονος",
+          "translit": "prógonos",
+          "english": "parents"
+        },
+        {
+          "strongs": "G587",
+          "hebrew": "ἀπόδεκτος",
+          "translit": "apódektos",
+          "english": "acceptable"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Now she who is a widow indeed, and desolate, has her hope set on God, and continues in petitions and prayers night and day.",
+      "understanding": "The real widow: μεμονωμένη, “desolate” — left alone, isolated — ἤλπικεν ἐπὶ θεόν, “has her hope set on God,” and προσμένει ταῖς δεήσεσιν καὶ ταῖς προσευχαῖς, “continues in petitions and prayers” — two words from the pray family, as in 2:1: specific requests and worshipful prayer — νυκτὸς καὶ ἡμέρας, “night and day.” Like Anna in the temple (Luke 2:37), she makes prayer her life's work.",
+      "words": [
+        {
+          "strongs": "G3443",
+          "hebrew": "μονόω",
+          "translit": "monóō",
+          "english": "desolate"
+        },
+        {
+          "strongs": "G1679",
+          "hebrew": "ἐλπίζω",
+          "translit": "elpízō",
+          "english": "has her hope set"
+        },
+        {
+          "strongs": "G4357",
+          "hebrew": "προσμένω",
+          "translit": "prosménō",
+          "english": "continues"
+        },
+        {
+          "strongs": "G1162",
+          "hebrew": "δέησις",
+          "translit": "déēsis",
+          "english": "petitions"
+        },
+        {
+          "strongs": "G4335",
+          "hebrew": "προσευχή",
+          "translit": "proseuchḗ",
+          "english": "prayers"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But she who gives herself to pleasure is dead while she lives.",
+      "understanding": "ἡ δὲ σπαταλῶσα, “But she who gives herself to pleasure” — σπαταλάω means to live luxuriously, self-indulgently — ζῶσα τέθνηκεν, “is dead while she lives.” A striking contrast with the life family: physically alive (ζάω), spiritually dead (θνήσκω). Self-indulgence is a slow spiritual death.",
+      "words": [
+        {
+          "strongs": "G4684",
+          "hebrew": "σπαταλάω",
+          "translit": "spataláō",
+          "english": "gives herself to pleasure"
+        },
+        {
+          "strongs": "G2348",
+          "hebrew": "θνήσκω",
+          "translit": "thnḗskō",
+          "english": "dead"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "lives"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Also command these things, that they may be without reproach.",
+      "understanding": "καὶ ταῦτα παράγγελλε, “Also command these things” — the military word again — ἵνα ἀνεπίλημπτοι ὦσιν, “that they may be without reproach” — the same quality required of overseers (3:2). The goal is a church whose care for widows gives outsiders nothing to criticise.",
+      "words": [
+        {
+          "strongs": "G3853",
+          "hebrew": "παραγγέλλω",
+          "translit": "parangéllō",
+          "english": "command"
+        },
+        {
+          "strongs": "G423",
+          "hebrew": "ἀνεπίληπτος",
+          "translit": "anepílēptos",
+          "english": "without reproach"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith, and is worse than an unbeliever.",
+      "understanding": "A strong statement: “But if anyone doesn’t provide for (προνοεῖ — think ahead for) his own, and especially (μάλιστα) his own household (οἰκείων), he has denied (ἤρνηται) the faith, and is worse (χείρων) than an unbeliever (ἀπίστου).” Even pagans cared for their elderly parents. A believer who neglects family has contradicted the faith by his actions, whatever his words.",
+      "words": [
+        {
+          "strongs": "G4306",
+          "hebrew": "προνοέω",
+          "translit": "pronoéō",
+          "english": "provide"
+        },
+        {
+          "strongs": "G2398",
+          "hebrew": "ἴδιος",
+          "translit": "ídios",
+          "english": "own"
+        },
+        {
+          "strongs": "G3122",
+          "hebrew": "μάλιστα",
+          "translit": "málista",
+          "english": "especially"
+        },
+        {
+          "strongs": "G3609",
+          "hebrew": "οἰκεῖος",
+          "translit": "oikeîos",
+          "english": "household"
+        },
+        {
+          "strongs": "G720",
+          "hebrew": "ἀρνέομαι",
+          "translit": "arnéomai",
+          "english": "denied"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G5501",
+          "hebrew": "χείρων",
+          "translit": "cheírōn",
+          "english": "worse"
+        },
+        {
+          "strongs": "G571",
+          "hebrew": "ἄπιστος",
+          "translit": "ápistos",
+          "english": "unbeliever"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Let no one be enrolled as a widow under sixty years old, having been the wife of one man,",
+      "understanding": "χήρα καταλεγέσθω, “Let … be enrolled as a widow” — καταλέγω, to put on a list. There seems to have been an official list of widows supported by the church and perhaps committed to serve it in prayer and good works. The conditions: μὴ ἔλαττον ἐτῶν ἑξήκοντα, “not under sixty years old,” γεγονυῖα ἑνὸς ἀνδρὸς γυνή, “having been the wife of one man” — a ‘one-man woman’, faithful in marriage, the mirror of the overseer's qualification (3:2).",
+      "words": [
+        {
+          "strongs": "G2639",
+          "hebrew": "καταλέγω",
+          "translit": "katalégō",
+          "english": "enrolled"
+        },
+        {
+          "strongs": "G5503",
+          "hebrew": "χήρα",
+          "translit": "chḗra",
+          "english": "widow"
+        },
+        {
+          "strongs": "G2094",
+          "hebrew": "ἔτος",
+          "translit": "étos",
+          "english": "years"
+        },
+        {
+          "strongs": "G1835",
+          "hebrew": "ἑξήκοντα",
+          "translit": "hexḗkonta",
+          "english": "sixty"
+        },
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "man"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wife"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "being approved by good works, if she has brought up children, if she has been hospitable to strangers, if she has washed the saints’ feet, if she has relieved the afflicted, and if she has diligently followed every good work.",
+      "understanding": "Her reputation: ἐν ἔργοις καλοῖς μαρτυρουμένη, “being approved by good works” — καλός from the good family: beautiful, noble works. Five examples: ἐτεκνοτρόφησεν, “brought up children”; ἐξενοδόχησεν, “been hospitable to strangers”; ἁγίων πόδας ἔνιψεν, “washed the saints’ feet” — humble service, as Jesus did (John 13); θλιβομένοις ἐπήρκεσεν, “relieved the afflicted”; παντὶ ἔργῳ ἀγαθῷ ἐπηκολούθησεν, “diligently followed every good work.” Both words of the good family in one verse: καλός (noble, admirable) and ἀγαθός (beneficial, doing good).",
+      "words": [
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G3140",
+          "hebrew": "μαρτυρέω",
+          "translit": "martyréō",
+          "english": "approved"
+        },
+        {
+          "strongs": "G5044",
+          "hebrew": "τεκνοτροφέω",
+          "translit": "teknotrophéō",
+          "english": "brought up children"
+        },
+        {
+          "strongs": "G3580",
+          "hebrew": "ξενοδοχέω",
+          "translit": "xenodochéō",
+          "english": "been hospitable"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        },
+        {
+          "strongs": "G3538",
+          "hebrew": "νίπτω",
+          "translit": "níptō",
+          "english": "washed"
+        },
+        {
+          "strongs": "G2346",
+          "hebrew": "θλίβω",
+          "translit": "thlíbō",
+          "english": "afflicted"
+        },
+        {
+          "strongs": "G1884",
+          "hebrew": "ἐπαρκέω",
+          "translit": "eparkéō",
+          "english": "relieved"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        },
+        {
+          "strongs": "G1872",
+          "hebrew": "ἐπακολουθέω",
+          "translit": "epakolouthéō",
+          "english": "diligently followed"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "But refuse younger widows, for when they have grown wanton against Christ, they desire to marry;",
+      "understanding": "νεωτέρας δὲ χήρας παραιτοῦ, “But refuse younger widows” — do not put them on the list. The reason: ὅταν γὰρ καταστρηνιάσωσιν τοῦ Χριστοῦ, “when they have grown wanton against Christ” — when natural desires draw them away from a pledge of devotion to Christ — γαμεῖν θέλουσιν, “they desire to marry.” Paul is not condemning remarriage (v. 14 commends it); he is warning against a vow made too young and then broken.",
+      "words": [
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "younger"
+        },
+        {
+          "strongs": "G5503",
+          "hebrew": "χήρα",
+          "translit": "chḗra",
+          "english": "widows"
+        },
+        {
+          "strongs": "G3868",
+          "hebrew": "παραιτέομαι",
+          "translit": "paraitéomai",
+          "english": "refuse"
+        },
+        {
+          "strongs": "G2691",
+          "hebrew": "καταστρηνιάω",
+          "translit": "katastrēniáō",
+          "english": "grown wanton against"
+        },
+        {
+          "strongs": "G1060",
+          "hebrew": "γαμέω",
+          "translit": "gaméō",
+          "english": "marry"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "having condemnation, because they have rejected their first pledge.",
+      "understanding": "ἔχουσαι κρίμα, “having condemnation,” ὅτι τὴν πρώτην πίστιν ἠθέτησαν, “because they have rejected their first pledge.” πίστις here means a pledge, a promise of faithfulness — perhaps a commitment made when enrolled to serve Christ as a widow. ἀθετέω means to set aside, break. Better not to make the pledge than to break it.",
+      "words": [
+        {
+          "strongs": "G2917",
+          "hebrew": "κρίμα",
+          "translit": "kríma",
+          "english": "condemnation"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "pledge"
+        },
+        {
+          "strongs": "G114",
+          "hebrew": "ἀθετέω",
+          "translit": "athetéō",
+          "english": "rejected"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Besides, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, saying things which they ought not.",
+      "understanding": "The danger of idleness: ἀργαὶ μανθάνουσιν, “they also learn to be idle” — ἀργός, not working — περιερχόμεναι τὰς οἰκίας, “going about from house to house.” Then φλύαροι, “gossips” — chatterers — καὶ περίεργοι, “and busybodies” — from the work family: ‘working around’, meddling, the same idea as 2 Thessalonians 3:11. λαλοῦσαι τὰ μὴ δέοντα, “saying things which they ought not.” Supported idleness breeds gossip, whether in men or women.",
+      "words": [
+        {
+          "strongs": "G692",
+          "hebrew": "ἀργός",
+          "translit": "argós",
+          "english": "idle"
+        },
+        {
+          "strongs": "G3129",
+          "hebrew": "μανθάνω",
+          "translit": "manthánō",
+          "english": "learn"
+        },
+        {
+          "strongs": "G4022",
+          "hebrew": "περιέρχομαι",
+          "translit": "periérchomai",
+          "english": "going about"
+        },
+        {
+          "strongs": "G5397",
+          "hebrew": "φλύαρος",
+          "translit": "phlýaros",
+          "english": "gossips"
+        },
+        {
+          "strongs": "G4021",
+          "hebrew": "περίεργος",
+          "translit": "períergos",
+          "english": "busybodies"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "saying"
+        },
+        {
+          "strongs": "G1163",
+          "hebrew": "δεῖ",
+          "translit": "deî",
+          "english": "ought"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "I desire therefore that the younger widows marry, bear children, rule the household, and give no occasion to the adversary for insulting.",
+      "understanding": "βούλομαι οὖν νεωτέρας γαμεῖν, “I desire therefore that the younger widows marry,” τεκνογονεῖν, “bear children,” οἰκοδεσποτεῖν, “rule the household” — literally ‘be master of the house’: Paul gives women real authority in managing the home. The aim: μηδεμίαν ἀφορμὴν διδόναι τῷ ἀντικειμένῳ λοιδορίας χάριν, “give no occasion to the adversary for insulting” — no foothold for opponents (human or satanic) to slander the church.",
+      "words": [
+        {
+          "strongs": "G1014",
+          "hebrew": "βούλομαι",
+          "translit": "boúlomai",
+          "english": "desire"
+        },
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "younger"
+        },
+        {
+          "strongs": "G1060",
+          "hebrew": "γαμέω",
+          "translit": "gaméō",
+          "english": "marry"
+        },
+        {
+          "strongs": "G5041",
+          "hebrew": "τεκνογονέω",
+          "translit": "teknogonéō",
+          "english": "bear children"
+        },
+        {
+          "strongs": "G3616",
+          "hebrew": "οἰκοδεσποτέω",
+          "translit": "oikodespotéō",
+          "english": "rule the household"
+        },
+        {
+          "strongs": "G874",
+          "hebrew": "ἀφορμή",
+          "translit": "aphormḗ",
+          "english": "occasion"
+        },
+        {
+          "strongs": "G480",
+          "hebrew": "ἀντίκειμαι",
+          "translit": "antíkeimai",
+          "english": "adversary"
+        },
+        {
+          "strongs": "G3059",
+          "hebrew": "λοιδορία",
+          "translit": "loidoría",
+          "english": "insulting"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For already some have turned away after Satan.",
+      "understanding": "“For already some have turned away (ἐξετράπησαν) after Satan.” The same verb as 1:6 (‘turned away to vain talking’). Paul is not speculating: some young widows in Ephesus had already followed the false teachers or abandoned the faith. Pastoral rules are written from real pain.",
+      "words": [
+        {
+          "strongs": "G1624",
+          "hebrew": "ἐκτρέπω",
+          "translit": "ektrépō",
+          "english": "turned away"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "If any man or woman who believes has widows, let them relieve them, and don’t let the assembly be burdened; that it might relieve those who are widows indeed.",
+      "understanding": "If any πιστὸς ἢ πιστή, “man or woman who believes,” has widows in the family, let them ἐπαρκείτω, “relieve” them, help them, καὶ μὴ βαρείσθω ἡ ἐκκλησία, “and don’t let the assembly be burdened” — weighed down — so that it can help τὰς ὄντως χήρας, “those who are widows indeed.” Families first; the church supports those who have no one.",
+      "words": [
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "believes"
+        },
+        {
+          "strongs": "G5503",
+          "hebrew": "χήρα",
+          "translit": "chḗra",
+          "english": "widows"
+        },
+        {
+          "strongs": "G1884",
+          "hebrew": "ἐπαρκέω",
+          "translit": "eparkéō",
+          "english": "relieve"
+        },
+        {
+          "strongs": "G916",
+          "hebrew": "βαρέω",
+          "translit": "baréō",
+          "english": "burdened"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G3689",
+          "hebrew": "ὄντως",
+          "translit": "óntōs",
+          "english": "indeed"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and in teaching.",
+      "understanding": "οἱ καλῶς προεστῶτες πρεσβύτεροι, “Let the elders who rule well” — lead well — διπλῆς τιμῆς ἀξιούσθωσαν, “be counted worthy of double honor” — τιμή means honour and also payment (the context of v. 18 shows it includes material support). μάλιστα οἱ κοπιῶντες ἐν λόγῳ καὶ διδασκαλίᾳ, “especially those who labor in the word and in teaching” — κοπιάω from the work family: toil to weariness. Preaching and teaching well is hard work, and it deserves support.",
+      "words": [
+        {
+          "strongs": "G2573",
+          "hebrew": "καλῶς",
+          "translit": "kalōs",
+          "english": "well"
+        },
+        {
+          "strongs": "G4291",
+          "hebrew": "προΐστημι",
+          "translit": "proḯstēmi",
+          "english": "rule"
+        },
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G1362",
+          "hebrew": "διπλοῦς",
+          "translit": "diploûs",
+          "english": "double"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        },
+        {
+          "strongs": "G515",
+          "hebrew": "ἀξιόω",
+          "translit": "axióō",
+          "english": "counted worthy"
+        },
+        {
+          "strongs": "G2872",
+          "hebrew": "κοπιάω",
+          "translit": "kopiáō",
+          "english": "labor"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G1319",
+          "hebrew": "διδασκαλία",
+          "translit": "didaskalía",
+          "english": "teaching"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And, “The laborer is worthy of his wages.”",
+      "understanding": "λέγει γὰρ ἡ γραφή, “For the Scripture says.” Two quotations. The first from Deuteronomy 25:4: “You shall not muzzle the ox when it treads out the grain” — let the working animal eat from the grain it threshes (Paul uses the same text in 1 Corinthians 9:9). The second: “The laborer is worthy of his wages” — ὁ ἐργάτης, a work-family word: the labourer, worker. These are Jesus' words recorded in Luke 10:7, and Paul calls them γραφή, Scripture, alongside the Law of Moses — an early witness that the Gospel accounts were already received as Scripture.",
+      "words": [
+        {
+          "strongs": "G1124",
+          "hebrew": "γραφή",
+          "translit": "graphḗ",
+          "english": "Scripture"
+        },
+        {
+          "strongs": "G5392",
+          "hebrew": "φιμόω",
+          "translit": "phimóō",
+          "english": "muzzle"
+        },
+        {
+          "strongs": "G1016",
+          "hebrew": "βοῦς",
+          "translit": "boûs",
+          "english": "ox"
+        },
+        {
+          "strongs": "G248",
+          "hebrew": "ἀλοάω",
+          "translit": "aloáō",
+          "english": "treads out"
+        },
+        {
+          "strongs": "G2040",
+          "hebrew": "ἐργάτης",
+          "translit": "ergátēs",
+          "english": "laborer"
+        },
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "áxios",
+          "english": "worthy"
+        },
+        {
+          "strongs": "G3408",
+          "hebrew": "μισθός",
+          "translit": "misthós",
+          "english": "wages"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Don’t receive an accusation against an elder, except at the word of two or three witnesses.",
+      "understanding": "κατὰ πρεσβυτέρου κατηγορίαν μὴ παραδέχου, “Don’t receive an accusation against an elder” — κατηγορία, a formal charge (the root of ‘category’) — ἐκτὸς εἰ μὴ ἐπὶ δύο ἢ τριῶν μαρτύρων, “except at the word of two or three witnesses” — the Old Testament standard (Deuteronomy 19:15) that Jesus applied to the church (Matthew 18:16). Leaders are easy targets for gossip; they deserve the protection of due process.",
+      "words": [
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elder"
+        },
+        {
+          "strongs": "G2724",
+          "hebrew": "κατηγορία",
+          "translit": "katēgoría",
+          "english": "accusation"
+        },
+        {
+          "strongs": "G3858",
+          "hebrew": "παραδέχομαι",
+          "translit": "paradéchomai",
+          "english": "receive"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witnesses"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Those who sin, reprove in the sight of all, that the rest also may be in fear.",
+      "understanding": "But protection is not immunity: τοὺς ἁμαρτάνοντας, “Those who sin” — present participle: those who persist in sin — ἐνώπιον πάντων ἔλεγχε, “reprove in the sight of all” — ἐλέγχω, to expose and convict — ἵνα καὶ οἱ λοιποὶ φόβον ἔχωσιν, “that the rest also may be in fear.” A leader's persistent sin, once established, is dealt with openly, because leadership is public and the warning must be too.",
+      "words": [
+        {
+          "strongs": "G264",
+          "hebrew": "ἁμαρτάνω",
+          "translit": "hamartánō",
+          "english": "sin"
+        },
+        {
+          "strongs": "G1651",
+          "hebrew": "ἐλέγχω",
+          "translit": "elénchō",
+          "english": "reprove"
+        },
+        {
+          "strongs": "G1799",
+          "hebrew": "ἐνώπιον",
+          "translit": "enṓpion",
+          "english": "in the sight"
+        },
+        {
+          "strongs": "G5401",
+          "hebrew": "φόβος",
+          "translit": "phóbos",
+          "english": "fear"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "I command you in the sight of God, and the Lord Jesus Christ, and the chosen angels, that you observe these things without prejudice, doing nothing by partiality.",
+      "understanding": "A solemn charge: διαμαρτύρομαι, “I command you,” as one calling witnesses, “in the sight of God, and the Lord Jesus Christ, and the chosen (ἐκλεκτῶν) angels.” The heavenly court is watching. “that you observe (φυλάξῃς) these things χωρὶς προκρίματος, without prejudice” — prejudging before the evidence — μηδὲν ποιῶν κατὰ πρόσκλισιν, “doing nothing by partiality” — leaning toward one side, favouritism. Church discipline must be fair, whoever is involved.",
+      "words": [
+        {
+          "strongs": "G1263",
+          "hebrew": "διαμαρτύρομαι",
+          "translit": "diamartýromai",
+          "english": "command"
+        },
+        {
+          "strongs": "G1588",
+          "hebrew": "ἐκλεκτός",
+          "translit": "eklektós",
+          "english": "chosen"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G5442",
+          "hebrew": "φυλάσσω",
+          "translit": "phylássō",
+          "english": "observe"
+        },
+        {
+          "strongs": "G4299",
+          "hebrew": "πρόκριμα",
+          "translit": "prókrima",
+          "english": "prejudice"
+        },
+        {
+          "strongs": "G4346",
+          "hebrew": "πρόσκλισις",
+          "translit": "prósklisis",
+          "english": "partiality"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "Lay hands hastily on no one, neither be a participant in other men’s sins. Keep yourself pure.",
+      "understanding": "χεῖρας ταχέως μηδενὶ ἐπιτίθει, “Lay hands hastily on no one” — probably appointing elders by laying on hands (4:14), though some see restoring repentant sinners. Hasty appointments lead to later scandals. μηδὲ κοινώνει ἁμαρτίαις ἀλλοτρίαις, “neither be a participant (κοινωνέω, share in) other men’s sins” — appointing an unqualified person makes you share responsibility. σεαυτὸν ἁγνὸν τήρει, “Keep yourself pure” — ἁγνός, clean, chaste.",
+      "words": [
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hands"
+        },
+        {
+          "strongs": "G5030",
+          "hebrew": "ταχέως",
+          "translit": "tachéōs",
+          "english": "hastily"
+        },
+        {
+          "strongs": "G2007",
+          "hebrew": "ἐπιτίθημι",
+          "translit": "epitíthēmi",
+          "english": "lay"
+        },
+        {
+          "strongs": "G2841",
+          "hebrew": "κοινωνέω",
+          "translit": "koinōnéō",
+          "english": "be a participant"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G53",
+          "hebrew": "ἁγνός",
+          "translit": "hagnós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G5083",
+          "hebrew": "τηρέω",
+          "translit": "tēréō",
+          "english": "keep"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "Be no longer a drinker of water only, but use a little wine for your stomach’s sake and your frequent infirmities.",
+      "understanding": "A personal, practical note in the middle of serious instructions: μηκέτι ὑδροπότει, “Be no longer a drinker of water only” — ὑδροποτέω, to drink only water — ἀλλὰ οἴνῳ ὀλίγῳ χρῶ, “but use a little wine,” διὰ τὸν στόμαχον καὶ τὰς πυκνάς σου ἀσθενείας, “for your stomach’s sake and your frequent infirmities.” Timothy may have abstained to distance himself from drunkenness or from false teachers' laxity, but water was often unsafe. Paul cares for his body as well as his ministry. Keeping yourself pure (v. 22) does not require harming your health; it is ‘a little’ wine, as medicine.",
+      "words": [
+        {
+          "strongs": "G5202",
+          "hebrew": "ὑδροποτέω",
+          "translit": "hydropotéō",
+          "english": "drinker of water"
+        },
+        {
+          "strongs": "G3631",
+          "hebrew": "οἶνος",
+          "translit": "oînos",
+          "english": "wine"
+        },
+        {
+          "strongs": "G4751",
+          "hebrew": "στόμαχος",
+          "translit": "stómachos",
+          "english": "stomach"
+        },
+        {
+          "strongs": "G4437",
+          "hebrew": "πυκνός",
+          "translit": "pyknós",
+          "english": "frequent"
+        },
+        {
+          "strongs": "G769",
+          "hebrew": "ἀσθένεια",
+          "translit": "asthéneia",
+          "english": "infirmities"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "Some men’s sins are evident, preceding them to judgment, and some also follow later.",
+      "understanding": "Back to judging candidates and accusations wisely: “Some men’s sins (ἁμαρτίαι) are evident (πρόδηλοι — obvious beforehand), preceding (προάγουσαι) them to judgment (κρίσιν), and some also follow later (ἐπακολουθοῦσιν).” Some people's sins are obvious at once; others' come to light only with time. That is why hasty appointment is dangerous (v. 22).",
+      "words": [
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G4271",
+          "hebrew": "πρόδηλος",
+          "translit": "pródēlos",
+          "english": "evident"
+        },
+        {
+          "strongs": "G4254",
+          "hebrew": "προάγω",
+          "translit": "proágō",
+          "english": "preceding"
+        },
+        {
+          "strongs": "G2920",
+          "hebrew": "κρίσις",
+          "translit": "krísis",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G1872",
+          "hebrew": "ἐπακολουθέω",
+          "translit": "epakolouthéō",
+          "english": "follow"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden.",
+      "understanding": "The same is true of good: “In the same way also there are good works (τὰ ἔργα τὰ καλά) that are obvious (πρόδηλα), and those that are otherwise can’t be hidden (κρυβῆναι).” καλός again: noble, beautiful deeds. Some faithful people's goodness is visible at once; others' quiet goodness becomes clear over time. Nothing done for God is ultimately hidden. Patience reveals both sin and goodness.",
+      "words": [
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G4271",
+          "hebrew": "πρόδηλος",
+          "translit": "pródēlos",
+          "english": "obvious"
+        },
+        {
+          "strongs": "G2928",
+          "hebrew": "κρύπτω",
+          "translit": "krýptō",
+          "english": "hidden"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Widow Who Prays Night and Day",
+      "verseRef": "v. 3-5",
+      "image": "Picture an elderly woman in a small room in Ephesus. Her husband died years ago; her children are gone. She has no income and no protector. But every morning before dawn and every evening after dark, she kneels by her bed and prays — for the pastor by name, for the young mothers, for the sick, for the missionaries she has heard about, for the city that mocks her faith. The church brings her bread and oil each week and honours her as a mother. Few people know that much of the church's strength flows from her prayers.",
+      "meaning": "Paul writes, “Now she who is a widow indeed, and desolate, has her hope set on God, and continues in petitions and prayers night and day” (v. 5). The church is called to “Honor widows who are widows indeed” (v. 3) — caring for them practically and valuing them deeply. James calls this “Pure religion and undefiled before our God and Father … to visit the fatherless and widows in their affliction” (James 1:27). Who are the forgotten, faithful intercessors in your church? Honour them."
+    },
+    {
+      "title": "Two Kinds of Good",
+      "verseRef": "v. 10",
+      "image": "Picture a woman's life laid out like a scroll before the church elders. They read it aloud: she raised her children in the faith. She opened her home to travelling believers. She knelt to wash the dusty feet of the saints, as Jesus did. She brought food and comfort to the persecuted and the grieving. She followed every opportunity to do good. As the list is read, people in the room nod and remember her kindness to them. No one needs to argue about her character; her works speak.",
+      "meaning": "Paul describes a widow “approved by good works, if she has brought up children, if she has been hospitable to strangers, if she has washed the saints’ feet, if she has relieved the afflicted, and if she has diligently followed every good work” (v. 10). Both words from the good family appear: καλός, works that are beautiful and admirable, and ἀγαθός, works that do people good. A life of quiet, practical service becomes a testimony that the whole church can read."
+    },
+    {
+      "title": "The Ox at the Threshing Floor",
+      "verseRef": "v. 17-18",
+      "image": "Picture an ox walking in circles on a stone threshing floor, its hooves crushing the grain from the stalks. A cruel farmer ties a muzzle on it so that it cannot eat any of the grain it is working on. A wise farmer leaves its mouth free, so that it can bend down and eat as it works. Now picture a pastor who spends long hours studying the Scriptures, preparing sermons, visiting the sick and counselling the broken. Will the church muzzle him, or let him eat from the field he works?",
+      "meaning": "Paul writes, “Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and in teaching. For the Scripture says, ‘You shall not muzzle the ox when it treads out the grain.’ And, ‘The laborer is worthy of his wages’” (vv. 17–18). Faithful leaders deserve both respect and material support. Paul quotes Jesus' words from Luke 10:7 as Scripture. Honouring those who feed you with God's word is part of the church's faithfulness."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Relating as Family (v. 1-2)",
+        "body": "Timothy is to appeal to older men as fathers, younger men as brothers, older women as mothers and younger women as sisters, in all purity."
+      },
+      {
+        "label": "Caring for Widows (v. 3-16)",
+        "body": "Honour true widows; families must first care for their own widowed relatives, and anyone who does not provide for his household has denied the faith; true widows hope in God and pray continually; a list may enrol widows over sixty known for good works; younger widows should marry rather than make pledges they may break and fall into idleness and gossip; believing families should support their widows so that the church can help those truly alone."
+      },
+      {
+        "label": "Honouring and Disciplining Elders (v. 17-21)",
+        "body": "Elders who lead well, especially those who labour in preaching and teaching, deserve double honour, including support; accusations against elders require two or three witnesses; those who persist in sin are to be rebuked publicly; all must be done without prejudice or favouritism, before God, Christ and the elect angels."
+      },
+      {
+        "label": "Wisdom and Personal Care (v. 22-25)",
+        "body": "Do not appoint leaders hastily or share in others' sins; keep yourself pure; use a little wine for your stomach and frequent illnesses; some sins and good works are evident immediately, others come to light later."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Church as a Family",
+        "paragraphs": [
+          "Chapter 5 begins with how a young leader should relate to different people: “Don’t rebuke an older man, but exhort him as a father; the younger men as brothers; the elder women as mothers; the younger as sisters, in all purity” (vv. 1–2). The church is God's household (3:15), and its relationships are family relationships. Correction is not abandoned, but it is given with the respect, warmth and purity appropriate within a family.",
+          "The longest section concerns widows (vv. 3–16). In the ancient world, a widow without family support could fall into extreme poverty. From its earliest days the church cared for them; Acts records that “a complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service” (Acts 6:1). Paul's instructions balance compassion and wisdom: “Honor widows who are widows indeed” (v. 3) — those who are truly alone.",
+          "Family comes first: “But if any widow has children or grandchildren, let them learn first to show piety towards their own family, and to repay their parents, for this is acceptable in the sight of God” (v. 4). The word ‘show piety’ is εὐσεβέω, the verb of godliness: godliness begins at home. Paul's warning is sharp: “But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith, and is worse than an unbeliever” (v. 8). Jesus condemned religious leaders who used religious excuses to avoid caring for their parents (Matthew 15:5). Real faith shows itself in care for family."
+        ]
+      },
+      {
+        "heading": "Widows Indeed",
+        "paragraphs": [
+          "The true widow is described with beauty: she “has her hope set on God, and continues in petitions and prayers night and day” (v. 5). Like Anna, who “didn’t depart from the temple, worshiping with fastings and petitions night and day” (Luke 2:37), such women were the praying heart of the church. By contrast, “she who gives herself to pleasure is dead while she lives” (v. 6). Self-indulgence empties a life even while it continues.",
+          "Verses 9–10 describe an enrolled list of widows over sixty, known for faithfulness in marriage and good works: “if she has brought up children, if she has been hospitable to strangers, if she has washed the saints’ feet, if she has relieved the afflicted, and if she has diligently followed every good work” (v. 10). This list may have involved both support and a commitment to serve the church in prayer and ministry. Dorcas in Joppa shows what such a life looked like: “All the widows stood by him weeping, and showing the coats and garments which Dorcas had made while she was with them” (Acts 9:39).",
+          "Younger widows were not to be enrolled, because they might make a pledge of devotion they would later want to break when they desired to remarry, and because supported idleness could lead to gossip and meddling: “Besides, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, saying things which they ought not” (v. 13). Paul's counsel is that they remarry, raise families and manage their homes (v. 14). He is not criticising young women but protecting them and the church's witness: “For already some have turned away after Satan” (v. 15)."
+        ]
+      },
+      {
+        "heading": "Honour, Discipline and Fairness",
+        "paragraphs": [
+          "Paul then addresses elders. Those who lead well deserve “double honor” (v. 17) — respect and material support — “especially those who labor in the word and in teaching.” His proof is Scripture: “You shall not muzzle the ox when it treads out the grain” (Deuteronomy 25:4, quoted in v. 18), and “The laborer is worthy of his wages” (v. 18), the words of Jesus in Luke 10:7. Paul calls both ‘Scripture’ — a remarkable sign that Jesus' words, as recorded in the Gospel, were already received with the authority of the Old Testament. Elsewhere he writes, “Even so the Lord ordained that those who proclaim the Good News should live from the Good News” (1 Corinthians 9:14).",
+          "Elders also need protection and accountability. “Don’t receive an accusation against an elder, except at the word of two or three witnesses” (v. 19) — the principle Jesus taught: “that at the mouth of two or three witnesses every word may be established” (Matthew 18:16). But proven, persistent sin is not hidden: “Those who sin, reprove in the sight of all, that the rest also may be in fear” (v. 20). And all of this must be done “without prejudice, doing nothing by partiality” (v. 21) — no favouritism for friends or prominent people, under the eyes of God, Christ and the angels.",
+          "The chapter ends with practical wisdom. “Lay hands hastily on no one” (v. 22): do not rush to appoint leaders, because character takes time to reveal — “Some men’s sins are evident, preceding them to judgment, and some also follow later” (v. 24), and likewise good works “can’t be hidden” (v. 25). In the middle comes a tender personal note: “Be no longer a drinker of water only, but use a little wine for your stomach’s sake and your frequent infirmities” (v. 23). Paul cared for Timothy's health. Holiness does not require neglecting the body."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Widows, Workers and Witnesses in the New Testament",
+      "paragraphs": [
+        "Care for widows is a mark of true faith throughout the New Testament. James defines it: “Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world” (James 1:27). Jesus condemned those “who devour widows’ houses, and for a pretense make long prayers” (Mark 12:40), and honoured the poor widow who gave “two small brass coins” (Luke 21:2).",
+        "Paul's teaching on supporting gospel workers rests on Jesus' own words. Sending out the seventy, Jesus said, “Remain in that same house, eating and drinking the things they give, for the laborer is worthy of his wages” (Luke 10:7). Paul argued the same with the Corinthians, quoting the ox text: “For it is written in the law of Moses, ‘You shall not muzzle an ox while it treads out the grain’” (1 Corinthians 9:9). And he urged the Galatians: “But let him who is taught in the word share all good things with him who teaches” (Galatians 6:6).",
+        "The principle of two or three witnesses protects the innocent: “But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established” (Matthew 18:16). And the call to care for family and community reflects Paul's wider teaching: “So then, as we have opportunity, let’s do what is good toward all men, and especially toward those who are of the household of the faith” (Galatians 6:10)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Widow",
+      "hebrew": "χήρα",
+      "translit": "chḗra",
+      "strongs": "G5503",
+      "verses": "v. 3, 4, 5, 9, 11, 16",
+      "insight": "Strong's: “a widow (as lacking a husband), literally or figuratively.” In both Testaments widows, orphans and foreigners are the classic picture of the vulnerable whom God defends. The early church took this seriously: the first church administrative structure (Acts 6) arose from caring for widows. 1 Timothy 5 shows that care should be generous but wise — family first, church support for those truly alone, and dignity for those who serve in prayer and good works."
+    },
+    {
+      "english": "Show piety / be godly toward",
+      "hebrew": "εὐσεβέω",
+      "translit": "eusebéō",
+      "strongs": "G2151",
+      "verses": "v. 4",
+      "insight": "Strong's: “to be pious, i.e. (towards God) to worship, or (towards parents) to respect (support).” It is the verb of εὐσέβεια, the key word of 1 Timothy. Paul applies godliness first to caring for one's own parents and grandparents. Real godliness is not only devotion in worship but faithfulness at home. Someone who sings loudly in church but neglects an ageing parent has misunderstood what godliness is."
+    },
+    {
+      "english": "Provide for / think ahead for",
+      "hebrew": "προνοέω",
+      "translit": "pronoéō",
+      "strongs": "G4306",
+      "verses": "v. 8",
+      "insight": "Strong's: “to consider in advance, i.e. look out for beforehand (actively, by way of maintenance for others; middle voice by way of circumspection for oneself).” It combines πρό, before, and νοέω, to think: to plan ahead for someone's needs. Paul uses it in Romans 12:17 of planning to do what is honourable. Caring for family is not only reacting to crises but thinking ahead for them. Paul says that neglecting this is a denial of the faith."
+    },
+    {
+      "english": "Double / two-fold",
+      "hebrew": "διπλοῦς",
+      "translit": "diploûs",
+      "strongs": "G1362",
+      "verses": "v. 17",
+      "insight": "Strong's: “two-fold.” ‘Double honour’ most likely means both respect and remuneration — honour in attitude and honour in material support — as the following verse about wages shows. It may also mean generous honour. Either way, elders who lead well and labour in the word deserve to be valued and supported. A church that receives faithful teaching but neglects its teachers has muzzled the ox."
+    },
+    {
+      "english": "Partiality / favouritism",
+      "hebrew": "πρόσκλισις",
+      "translit": "prósklisis",
+      "strongs": "G4346",
+      "verses": "v. 21",
+      "insight": "Strong's: “a leaning towards, i.e. (figuratively) proclivity (favoritism).” It appears only here in the New Testament. It pictures leaning toward one side of a scale. In church discipline, partiality might mean protecting a popular leader or a friend, or being harsher with those one dislikes. Paul charges Timothy before God, Christ and the angels to act without prejudice or favouritism. Justice in God's house must reflect the justice of God, who shows no partiality."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: how you care for your own family, how you honour the vulnerable and those who serve, and how fairly you judge.",
+    "items": [
+      {
+        "title": "Godliness Begins at Home",
+        "body": "Paul says that godliness is shown first by caring for one's own parents and household (vv. 4, 8). The Spirit may be pointing you to someone in your family — an ageing parent, a struggling sibling, a grandparent — whom you have neglected while busy with other things, even church work. Ask Him how you can honour them practically this week. Godliness that skips the family is not godliness."
+      },
+      {
+        "title": "Honour the Hidden Servants",
+        "body": "The widow who prays night and day, the woman who washes the saints' feet, the elder who labours in the word — these are often unseen. The Spirit wants you to notice them and honour them. Who has prayed for you, served you or taught you faithfully? Thank them, support them, and learn from them. And ask Him to make you one of these hidden servants."
+      },
+      {
+        "title": "Judge Without Favouritism",
+        "body": "Paul charges Timothy to act without prejudice or partiality. The Spirit may be showing you where you judge people unequally — excusing friends, condemning those you dislike, believing accusations too quickly or dismissing them too easily. Ask Him for fairness, patience and wisdom, remembering that both sins and good works become clear in time (vv. 24–25)."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Family-Care Check",
+        "body": "Write down the names of the older or vulnerable people in your family. Next to each, write when you last contacted or helped them. Choose one practical act of care for this week (vv. 4, 8)."
+      },
+      {
+        "title": "The Honour Check",
+        "body": "Who are the people who labour in the word and in teaching for you (v. 17)? How do you honour and support them? Write one specific way you will encourage or support them this month."
+      },
+      {
+        "title": "The Fairness Check",
+        "body": "Is there a situation where you have judged someone hastily, or shown favouritism (vv. 19–22)? Write it down, ask God's forgiveness, and decide what fairness requires."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Adopt a Widow or Widower",
+        "body": "Identify an elderly widow or widower in your church or neighbourhood who has little family support. Commit to visiting or calling them regularly for the next three months. Ask about their life, help with practical needs, pray with them, and learn from their faith. Treat them as a mother or father (v. 2). Ask your church leaders whether there is a wider need for widow care that you could help organise."
+      },
+      {
+        "title": "Double Honour Week",
+        "body": "This week, practise ‘double honour’ for a leader who teaches you God's word. First, honour them in words: write a specific note of thanks for how their teaching has helped you. Second, honour them practically: give generously to support them, provide a meal, or offer help with a burden they carry. Pray for them daily that week."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, thank You for making Your church a family. Teach me to treat older men as fathers, younger men as brothers, older women as mothers and younger women as sisters, in all purity. Give me a heart for widows and all who are alone. Help me show godliness first at home, caring for my own family and repaying those who cared for me. Keep me from self-indulgence that leaves me dead while I live. Make me like the widow who hopes in You and prays night and day, and like those whose lives are full of good works — hospitable, humble, helpful to the afflicted. Keep me from idleness, gossip and meddling. Help me honour those who labour in Your word, and support them generously. Give our church fairness in discipline, without prejudice or partiality. Keep me pure. Thank You for caring even for our bodies. And thank You that nothing done for You is ultimately hidden. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Anna in the Temple",
+      "ref": "Luke 2:36-38",
+      "relatedVerses": "v. 5",
+      "summary": "When Mary and Joseph brought the baby Jesus to the temple, an elderly prophetess named Anna was there. She had been married only seven years before her husband died, “and she had been a widow for about eighty-four years), who didn’t depart from the temple, worshiping with fastings and petitions night and day” (Luke 2:37). Coming up at that very moment, she gave thanks to God and spoke about the child to all who were waiting for the redemption of Jerusalem. Anna is the picture of 1 Timothy 5:5 — a widow indeed, desolate yet hoping in God, praying night and day — and God gave her the privilege of seeing the Messiah."
+    },
+    {
+      "title": "Dorcas, Full of Good Works",
+      "ref": "Acts 9:36-42",
+      "relatedVerses": "v. 9-10",
+      "summary": "In Joppa lived a disciple named Tabitha, or Dorcas, who was full of good works and acts of charity. She became ill and died, and the believers sent for Peter. “Peter got up and went with them. When he had come, they brought him into the upper room. All the widows stood by him weeping, and showing the coats and garments which Dorcas had made while she was with them” (Acts 9:39). Peter sent everyone out, knelt and prayed, and told her to rise. She opened her eyes and sat up, and many believed in the Lord. Dorcas shows the kind of life described in 1 Timothy 5:10 — practical, generous good works that make a whole community grieve when they are gone."
+    },
+    {
+      "title": "Ruth and Naomi",
+      "ref": "Ruth 1:1-22",
+      "relatedVerses": "v. 3-8",
+      "summary": "Naomi lost her husband and both her sons in the land of Moab, leaving her and her two widowed daughters-in-law with nothing. She urged them to go back to their own families. Orpah returned, but Ruth clung to Naomi and declared that Naomi's people would be her people and Naomi's God her God. Ruth went with her to Bethlehem and worked in the fields to provide for her. In time, God provided a kinsman-redeemer, Boaz, and through Ruth's line came King David and ultimately Jesus. Ruth's faithful care for her widowed mother-in-law is a living picture of 1 Timothy 5:4 and 8: showing godliness first to one's own family."
+    }
+  ]
+}

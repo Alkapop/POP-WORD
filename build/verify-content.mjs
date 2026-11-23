@@ -74,6 +74,17 @@ function corpus() {
                printed as a quotation) — only checked when the cited book's WEB text is on disk.
    WRONG-REF   the reference names a book explicitly and the words exist, but not near that verse. */
 const REF = /\(?\s*((?:[123] )?[A-Z][a-z]+)?\s?(\d{1,3}):(\d{1,3})(?:[-–](\d{1,3}))?/;
+// A quotation's checkable fragments. Brackets usually hold an editorial aside — “(arkei)”, “[sic]”
+// — so they are dropped; but the WEB itself contains parentheses (1 Timothy 2:10), so the
+// version that keeps their contents is tried too. Returns the fragments of whichever version
+// is found in the WEB (or the bracket-free version, for reporting, when neither is).
+function quoteFrags(q) {
+  const split = t => t.split(/…|\.\.\./).map(words).filter(f => f.split(' ').length >= 3);
+  const dropped = split(q.replace(/\([^)]*\)|\[[^\]]*\]/g, ' '));
+  const kept = split(q.replace(/[()[\]]/g, ' '));
+  const ok = fs => fs.length && fs.every(f => corpus().includes(f));
+  return ok(dropped) ? dropped : ok(kept) ? kept : dropped;
+}
 function checkQuotes(text, defaultBook, where, out) {
   const re = /“([^“”]{14,}?)”([^“]{0,40})/g;
   let m;
@@ -82,7 +93,7 @@ function checkQuotes(text, defaultBook, where, out) {
     // known here, so check the words exist in the WEB, and never pair the quote with a later
     // reference that merely follows it in the same sentence.
     if (/^\s*\(vv?\.\s*\d/.test(m[2])) {
-      const frags = m[1].replace(/\([^)]*\)|\[[^\]]*\]/g, ' ').split(/…|\.\.\./).map(words).filter(f => f.split(' ').length >= 3);
+      const frags = quoteFrags(m[1]);
       if (!frags.length || /[Ͱ-Ͽἀ-῿]/.test(m[1])) continue;
       checkedQuotes++;
       if (frags.some(f => !corpus().includes(f))) out.push(`${where}: NOT-IN-WEB “${m[1].slice(0, 90)}” → ${m[2].trim().slice(0, 14)}`);
@@ -97,7 +108,7 @@ function checkQuotes(text, defaultBook, where, out) {
       // A preceding reference often belongs to an earlier sentence, so only test whether the
       // words exist at all, and only for an English quotation of five or more words.
       if (/[\u0370-\u03FF\u1F00-\u1FFF]/.test(m[1]) || words(m[1]).split(' ').length < 5) continue;
-      const preFrags = m[1].replace(/\([^)]*\)|\[[^\]]*\]/g, ' ').split(/…|\.\.\./).map(words).filter(f => f.split(' ').length >= 3);
+      const preFrags = quoteFrags(m[1]);
       if (preFrags.some(f => !corpus().includes(f))) {
         checkedQuotes++;
         out.push(`${where}: NOT-IN-WEB “${m[1].slice(0, 90)}” (reference before quote: ${pre[0]})`);
@@ -109,9 +120,8 @@ function checkQuotes(text, defaultBook, where, out) {
     if (bookName && !bookId) continue;                    // e.g. Genesis — no WEB text on disk
     const verses = webChapter(bookId, +r[2]);
     if (!verses && bookName) continue;
-    // Drop editorial asides "(arkei)" / "[sic]" and split on ellipses; each fragment must exist.
-    const quote = m[1].replace(/\([^)]*\)|\[[^\]]*\]/g, ' ');
-    const frags = quote.split(/…|\.\.\./).map(words).filter(f => f.split(' ').length >= 3);
+    // Split on ellipses (and handle brackets, see quoteFrags); each fragment must exist.
+    const frags = quoteFrags(m[1]);
     if (!frags.length) continue;
     const missing = frags.filter(f => !corpus().includes(f));
     checkedQuotes++;

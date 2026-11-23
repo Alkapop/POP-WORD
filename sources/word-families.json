@@ -11,7 +11,8 @@
         "might",
         "authority",
         "working",
-        "dominion"
+        "dominion",
+        "ruler"
       ],
       "intro": "English Bibles say ‘power’ for at least six different Greek words. Paul stacks four of them in one breath in Ephesians 1:19 and lists four ranks of spiritual power in Ephesians 1:21. In Colossians 1:13 the WEB's ‘power of darkness’ is not δύναμις at all but ἐξουσία — authority. Knowing which word stands behind ‘power’ tells you what kind of power is meant.",
       "members": [
@@ -20,6 +21,12 @@
           "sense": "Inherent ability — the capacity to act and to accomplish. Also used for miracles (‘mighty works’), because a miracle is power on display.",
           "anchor": "Acts 1:8",
           "en": "power"
+        },
+        {
+          "strongs": "G1743",
+          "sense": "To empower, to strengthen inwardly — to put δύναμις into someone; Christ enabling His servants.",
+          "anchor": "Philippians 4:13",
+          "en": "strengthens"
         },
         {
           "strongs": "G1753",
@@ -56,6 +63,12 @@
           "sense": "Rule, principality — a position of first rank (also means ‘beginning’). Used for ruling powers, human and spiritual.",
           "anchor": "Ephesians 1:21",
           "en": "rule"
+        },
+        {
+          "strongs": "G1413",
+          "sense": "Ruler, sovereign — one who holds δύναμις; God as the only absolute Sovereign.",
+          "anchor": "1 Timothy 6:15",
+          "en": "Ruler"
         }
       ]
     },
@@ -313,6 +326,12 @@
           "sense": "Another of a different kind — something other, different in nature.",
           "anchor": "Galatians 1:6",
           "en": "different"
+        },
+        {
+          "strongs": "G2085",
+          "sense": "To teach differently — teaching of a different kind (ἕτερος) from the apostolic gospel.",
+          "anchor": "1 Timothy 1:3",
+          "en": "different"
         }
       ]
     },
@@ -405,7 +424,8 @@
         "toil",
         "travail",
         "working",
-        "busybodies"
+        "busybodies",
+        "laborer"
       ],
       "intro": "English ‘work’ and ‘labour’ cover several Greek words. 1 Thessalonians 1:3 sets ἔργον (work) beside κόπος (labour to the point of exhaustion), and 2:9 adds μόχθος (hardship) and ἐργάζομαι (working). Revelation 2:2 praises ‘works’ and ‘toil’ in a church that had left its first love.",
       "members": [
@@ -434,6 +454,12 @@
           "en": "travail"
         },
         {
+          "strongs": "G2040",
+          "sense": "Labourer, worker — one who works for wages; used of gospel workers and teachers.",
+          "anchor": "Luke 10:7",
+          "en": "laborer"
+        },
+        {
           "strongs": "G2038",
           "sense": "To work — to do a job, to earn a living by labour.",
           "anchor": "1 Thessalonians 4:11",
@@ -443,6 +469,12 @@
           "strongs": "G4020",
           "sense": "To work around — to bustle about in other people's affairs instead of doing one's own work; to be a busybody.",
           "anchor": "2 Thessalonians 3:11",
+          "en": "busybodies"
+        },
+        {
+          "strongs": "G4021",
+          "sense": "Busybody — ‘working around’, meddling in others' affairs; the adjective of περιεργάζομαι.",
+          "anchor": "1 Timothy 5:13",
           "en": "busybodies"
         }
       ]
@@ -533,6 +565,45 @@
       ]
     },
     {
+      "id": "godliness",
+      "name": "Godliness & Ungodliness",
+      "lang": "Greek",
+      "english": [
+        "godliness",
+        "godly",
+        "ungodly",
+        "ungodliness",
+        "piety"
+      ],
+      "intro": "‘Godliness’ is the key word of 1 Timothy. English uses one word for two Greek ones: εὐσέβεια (well-directed reverence, devotion to God lived out in daily life) and the rarer θεοσέβεια (reverence for God). The opposite is ἀσέβεια / ἀσεβής — the absence of reverence, life lived as if God did not matter.",
+      "members": [
+        {
+          "strongs": "G2150",
+          "sense": "Godliness — reverent devotion to God expressed in a whole way of life; the key word of the pastoral letters.",
+          "anchor": "1 Timothy 6:6",
+          "en": "godliness"
+        },
+        {
+          "strongs": "G2151",
+          "sense": "To show piety, to act reverently — godliness put into practice, beginning at home with one's own family.",
+          "anchor": "1 Timothy 5:4",
+          "en": "piety"
+        },
+        {
+          "strongs": "G2317",
+          "sense": "Reverence for God, God-fearing piety (used only once in the New Testament).",
+          "anchor": "1 Timothy 2:10",
+          "en": "godliness"
+        },
+        {
+          "strongs": "G765",
+          "sense": "Ungodly — without reverence for God; living as if God did not matter.",
+          "anchor": "1 Timothy 1:9",
+          "en": "ungodly"
+        }
+      ]
+    },
+    {
       "id": "pray",
       "name": "Prayer, Asking & Intercession",
       "lang": "Greek",
@@ -541,7 +612,9 @@
         "prayer",
         "ask",
         "petition",
-        "intercession"
+        "intercession",
+        "intercessions",
+        "thanksgiving"
       ],
       "intro": "Several Greek words lie behind ‘pray’ and ‘ask’. In John 14:16 the WEB's ‘I will pray to the Father’ is ἐρωτάω — to ask, as one who speaks to the Father as an equal.",
       "members": [
@@ -550,6 +623,24 @@
           "sense": "To pray to God — prayer as worship and communion, used only of prayer to God.",
           "anchor": "Matthew 6:6",
           "en": "pray"
+        },
+        {
+          "strongs": "G4335",
+          "sense": "Prayer (noun) — prayer as worship and communion with God, the general word for prayer.",
+          "anchor": "Philippians 4:6",
+          "en": "prayer"
+        },
+        {
+          "strongs": "G1783",
+          "sense": "Intercession — approaching someone, especially a king, to plead on behalf of others.",
+          "anchor": "1 Timothy 2:1",
+          "en": "intercessions"
+        },
+        {
+          "strongs": "G2169",
+          "sense": "Thanksgiving — grateful prayer, giving thanks to God (the root of ‘Eucharist’).",
+          "anchor": "Philippians 4:6",
+          "en": "thanksgiving"
         },
         {
           "strongs": "G1162",
@@ -602,6 +693,12 @@
           "strongs": "G2570",
           "sense": "Good and beautiful — noble, excellent, attractive; the Good Shepherd.",
           "anchor": "John 10:11",
+          "en": "good"
+        },
+        {
+          "strongs": "G14",
+          "sense": "To do good, to work what is good — ἀγαθός put into action, especially generosity.",
+          "anchor": "1 Timothy 6:18",
           "en": "good"
         }
       ]

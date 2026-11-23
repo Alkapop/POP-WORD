@@ -1,0 +1,903 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Timothy",
+  "chapter": 3,
+  "chapterTitle": "Leaders of Proven Character — and the Great Mystery of Godliness",
+  "themeTitle": "“The Assembly of the Living God, the Pillar and Ground of the Truth”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "This is a faithful saying: if a man seeks the office of an overseer, he desires a good work.",
+      "understanding": "The second ‘faithful saying’ (πιστὸς ὁ λόγος): “if a man seeks (ὀρέγεται) the office of an overseer (ἐπισκοπῆς), he desires (ἐπιθυμεῖ) a good (καλοῦ) work (ἔργου).” ὀρέγομαι means to stretch out for, reach toward. ἐπισκοπή is oversight, from ἐπί, over, and σκοπέω, to watch: the elder watches over the flock. And it is a καλὸν ἔργον — from the good family, a noble, beautiful task, and from the work family, a task, not a title. Wanting to serve God's people as an overseer is good, if it is the work that is desired and not the status.",
+      "words": [
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "saying"
+        },
+        {
+          "strongs": "G3713",
+          "hebrew": "ὀρέγομαι",
+          "translit": "orégomai",
+          "english": "seeks"
+        },
+        {
+          "strongs": "G1984",
+          "hebrew": "ἐπισκοπή",
+          "translit": "episkopḗ",
+          "english": "office of an overseer"
+        },
+        {
+          "strongs": "G1937",
+          "hebrew": "ἐπιθυμέω",
+          "translit": "epithyméō",
+          "english": "desires"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "The overseer therefore must be without reproach, the husband of one wife, temperate, sensible, modest, hospitable, good at teaching;",
+      "understanding": "The ἐπίσκοπος, “overseer,” must be ἀνεπίλημπτον, “without reproach” — literally ‘not able to be taken hold of’: no handle for an accuser. Then: μιᾶς γυναικὸς ἄνδρα, “the husband of one wife” — literally ‘a one-woman man’. The most natural reading is a man faithful in marriage, sexually devoted to one wife; others have taken it to exclude polygamy, remarriage after divorce, or even unmarried men (though Paul himself was unmarried). Then νηφάλιον, “temperate” — clear-headed; σώφρονα, “sensible” — self-controlled; κόσμιον, “modest” — orderly, respectable; φιλόξενον, “hospitable” — literally ‘a lover of strangers’; διδακτικόν, “good at teaching” — the one qualification that is a skill rather than a character trait.",
+      "words": [
+        {
+          "strongs": "G1985",
+          "hebrew": "ἐπίσκοπος",
+          "translit": "epískopos",
+          "english": "overseer"
+        },
+        {
+          "strongs": "G423",
+          "hebrew": "ἀνεπίληπτος",
+          "translit": "anepílēptos",
+          "english": "without reproach"
+        },
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wife"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "husband"
+        },
+        {
+          "strongs": "G3524",
+          "hebrew": "νηφάλεος",
+          "translit": "nēpháleos",
+          "english": "temperate"
+        },
+        {
+          "strongs": "G4998",
+          "hebrew": "σώφρων",
+          "translit": "sṓphrōn",
+          "english": "sensible"
+        },
+        {
+          "strongs": "G2887",
+          "hebrew": "κόσμιος",
+          "translit": "kósmios",
+          "english": "modest"
+        },
+        {
+          "strongs": "G5382",
+          "hebrew": "φιλόξενος",
+          "translit": "philóxenos",
+          "english": "hospitable"
+        },
+        {
+          "strongs": "G1317",
+          "hebrew": "διδακτικός",
+          "translit": "didaktikós",
+          "english": "good at teaching"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "not a drinker, not violent, not greedy for money, but gentle, not quarrelsome, not covetous;",
+      "understanding": "Six more marks, mostly negative: μὴ πάροινον, “not a drinker” — literally ‘not sitting long beside wine’; μὴ πλήκτην, “not violent” — not a striker; μὴ αἰσχροκερδῆ, “not greedy for money” — not eager for shameful profit; ἀλλὰ ἐπιεικῆ, “but gentle” — reasonable, yielding, not insisting on his rights; ἄμαχον, “not quarrelsome” — not a fighter; ἀφιλάργυρον, “not covetous” — literally ‘not a lover of silver’. The false teachers were quarrelsome and money-loving (6:4–5); church leaders must be the opposite.",
+      "words": [
+        {
+          "strongs": "G3943",
+          "hebrew": "πάροινος",
+          "translit": "pároinos",
+          "english": "drinker"
+        },
+        {
+          "strongs": "G4131",
+          "hebrew": "πλήκτης",
+          "translit": "plḗktēs",
+          "english": "violent"
+        },
+        {
+          "strongs": "G146",
+          "hebrew": "αἰσχροκερδής",
+          "translit": "aischrokerdḗs",
+          "english": "greedy for money"
+        },
+        {
+          "strongs": "G1933",
+          "hebrew": "ἐπιεικής",
+          "translit": "epieikḗs",
+          "english": "gentle"
+        },
+        {
+          "strongs": "G269",
+          "hebrew": "ἄμαχος",
+          "translit": "ámachos",
+          "english": "not quarrelsome"
+        },
+        {
+          "strongs": "G866",
+          "hebrew": "ἀφιλάργυρος",
+          "translit": "aphilárgyros",
+          "english": "not covetous"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "one who rules his own house well, having children in subjection with all reverence;",
+      "understanding": "Leadership starts at home. He must be τοῦ ἰδίου οἴκου καλῶς προϊστάμενον, “one who rules his own house well” — προΐστημι means to stand before, to lead and care for — with τέκνα, “children,” ἐν ὑποταγῇ μετὰ πάσης σεμνότητος, “in subjection with all reverence.” The home is the training ground and the proving ground for church leadership.",
+      "words": [
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2573",
+          "hebrew": "καλῶς",
+          "translit": "kalōs",
+          "english": "well"
+        },
+        {
+          "strongs": "G4291",
+          "hebrew": "προΐστημι",
+          "translit": "proḯstēmi",
+          "english": "rules"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G5292",
+          "hebrew": "ὑποταγή",
+          "translit": "hypotagḗ",
+          "english": "subjection"
+        },
+        {
+          "strongs": "G4587",
+          "hebrew": "σεμνότης",
+          "translit": "semnótēs",
+          "english": "reverence"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "(but if a man doesn’t know how to rule his own house, how will he take care of the assembly of God?)",
+      "understanding": "Paul's reasoning in a parenthesis: “if a man doesn’t know (οἶδεν) how to rule his own house, how will he take care (ἐπιμελήσεται) of the assembly (ἐκκλησίας) of God?” ἐπιμελέομαι means to care for — the word used of the Good Samaritan caring for the wounded man (Luke 10:34). The church is a family, and leading it is caring for it.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G4291",
+          "hebrew": "προΐστημι",
+          "translit": "proḯstēmi",
+          "english": "rule"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G1959",
+          "hebrew": "ἐπιμελέομαι",
+          "translit": "epimeléomai",
+          "english": "take care"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "not a new convert, lest being puffed up he fall into the same condemnation as the devil.",
+      "understanding": "μὴ νεόφυτον, “not a new convert” — literally ‘newly planted’, the origin of ‘neophyte’. The reason: ἵνα μὴ τυφωθείς, “lest being puffed up” — τυφόω means to wrap in smoke, to make conceited and foggy-headed — he fall εἰς κρίμα τοῦ διαβόλου, “into the same condemnation as the devil” — the judgment that fell on the devil for pride. Promoting new believers too fast feeds pride.",
+      "words": [
+        {
+          "strongs": "G3504",
+          "hebrew": "νεόφυτος",
+          "translit": "neóphytos",
+          "english": "new convert"
+        },
+        {
+          "strongs": "G5187",
+          "hebrew": "τυφόω",
+          "translit": "typhóō",
+          "english": "puffed up"
+        },
+        {
+          "strongs": "G2917",
+          "hebrew": "κρίμα",
+          "translit": "kríma",
+          "english": "condemnation"
+        },
+        {
+          "strongs": "G1228",
+          "hebrew": "διάβολος",
+          "translit": "diábolos",
+          "english": "devil"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Moreover he must have good testimony from those who are outside, to avoid falling into reproach and the snare of the devil.",
+      "understanding": "μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν, “he must have good testimony from those who are outside” — a good reputation among unbelievers. καλός from the good family: honourable, admirable. Otherwise he falls εἰς ὀνειδισμόν, “into reproach,” and παγίδα τοῦ διαβόλου, “the snare of the devil” — a trap laid to bring public disgrace on the church through its leaders.",
+      "words": [
+        {
+          "strongs": "G3141",
+          "hebrew": "μαρτυρία",
+          "translit": "martyría",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G1855",
+          "hebrew": "ἔξωθεν",
+          "translit": "éxōthen",
+          "english": "outside"
+        },
+        {
+          "strongs": "G3680",
+          "hebrew": "ὀνειδισμός",
+          "translit": "oneidismós",
+          "english": "reproach"
+        },
+        {
+          "strongs": "G3803",
+          "hebrew": "παγίς",
+          "translit": "pagís",
+          "english": "snare"
+        },
+        {
+          "strongs": "G1228",
+          "hebrew": "διάβολος",
+          "translit": "diábolos",
+          "english": "devil"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Servants, in the same way, must be reverent, not double-tongued, not addicted to much wine, not greedy for money;",
+      "understanding": "διακόνους, “Servants” — the servant family's διάκονος, the word that gives ‘deacon’: a servant in action, someone who serves others practically. ὡσαύτως, “in the same way,” they must be σεμνούς, “reverent” — dignified, worthy of respect; μὴ διλόγους, “not double-tongued” — not saying one thing to one person and another to someone else; μὴ οἴνῳ πολλῷ προσέχοντας, “not addicted to much wine”; μὴ αἰσχροκερδεῖς, “not greedy for money” — deacons often handled the church's money and its gifts to the poor.",
+      "words": [
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "Servants"
+        },
+        {
+          "strongs": "G4586",
+          "hebrew": "σεμνός",
+          "translit": "semnós",
+          "english": "reverent"
+        },
+        {
+          "strongs": "G1351",
+          "hebrew": "δίλογος",
+          "translit": "dílogos",
+          "english": "double-tongued"
+        },
+        {
+          "strongs": "G3631",
+          "hebrew": "οἶνος",
+          "translit": "oînos",
+          "english": "wine"
+        },
+        {
+          "strongs": "G4337",
+          "hebrew": "προσέχω",
+          "translit": "proséchō",
+          "english": "addicted"
+        },
+        {
+          "strongs": "G146",
+          "hebrew": "αἰσχροκερδής",
+          "translit": "aischrokerdḗs",
+          "english": "greedy for money"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "holding the mystery of the faith in a pure conscience.",
+      "understanding": "“holding (ἔχοντας) the mystery (μυστήριον) of the faith in a pure (καθαρᾷ) conscience (συνειδήσει).” The ‘mystery of the faith’ is the gospel once hidden and now revealed. Deacons are not only practical helpers; they must hold the truth firmly, and with a clean conscience — what they believe and how they live must match.",
+      "words": [
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mystery"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G4893",
+          "hebrew": "συνείδησις",
+          "translit": "syneídēsis",
+          "english": "conscience"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Let them also first be tested; then let them serve if they are blameless.",
+      "understanding": "δοκιμαζέσθωσαν πρῶτον, “Let them also first be tested” — δοκιμάζω, the word for testing metals, proving them genuine (1 Thessalonians 2:4). Character is observed before responsibility is given. Then διακονείτωσαν, “let them serve,” ἀνέγκλητοι ὄντες, “if they are blameless” — not accused of anything that would discredit them.",
+      "words": [
+        {
+          "strongs": "G1381",
+          "hebrew": "δοκιμάζω",
+          "translit": "dokimázō",
+          "english": "tested"
+        },
+        {
+          "strongs": "G1247",
+          "hebrew": "διακονέω",
+          "translit": "diakonéō",
+          "english": "serve"
+        },
+        {
+          "strongs": "G410",
+          "hebrew": "ἀνέγκλητος",
+          "translit": "anénklētos",
+          "english": "blameless"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Their wives in the same way must be reverent, not slanderers, temperate, faithful in all things.",
+      "understanding": "γυναῖκας ὡσαύτως, “Their wives in the same way” — the Greek says simply ‘women in the same way’. It may mean the wives of deacons (as the WEB takes it) or women who themselves served as deacons, like Phoebe, called a διάκονος of the church at Cenchreae (Romans 16:1); the text allows both readings. They must be σεμνάς, “reverent,” μὴ διαβόλους, “not slanderers” — the same word as ‘devil’ (vv. 6–7), whose name means ‘slanderer’: to slander is to do the devil's work — νηφαλίους, “temperate,” πιστὰς ἐν πᾶσιν, “faithful in all things.”",
+      "words": [
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wives"
+        },
+        {
+          "strongs": "G4586",
+          "hebrew": "σεμνός",
+          "translit": "semnós",
+          "english": "reverent"
+        },
+        {
+          "strongs": "G1228",
+          "hebrew": "διάβολος",
+          "translit": "diábolos",
+          "english": "slanderers"
+        },
+        {
+          "strongs": "G3524",
+          "hebrew": "νηφάλεος",
+          "translit": "nēpháleos",
+          "english": "temperate"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Let servants be husbands of one wife, ruling their children and their own houses well.",
+      "understanding": "Deacons too must be μιᾶς γυναικὸς ἄνδρες, “husbands of one wife” — faithful in marriage — τέκνων καλῶς προϊστάμενοι καὶ τῶν ἰδίων οἴκων, “ruling their children and their own houses well.” The same home test as for overseers (v. 4).",
+      "words": [
+        {
+          "strongs": "G1249",
+          "hebrew": "διάκονος",
+          "translit": "diákonos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "husbands"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wife"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G2573",
+          "hebrew": "καλῶς",
+          "translit": "kalōs",
+          "english": "well"
+        },
+        {
+          "strongs": "G4291",
+          "hebrew": "προΐστημι",
+          "translit": "proḯstēmi",
+          "english": "ruling"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "houses"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "For those who have served well gain for themselves a good standing, and great boldness in the faith which is in Christ Jesus.",
+      "understanding": "The reward of faithful service: οἱ γὰρ καλῶς διακονήσαντες, “For those who have served well,” βαθμὸν ἑαυτοῖς καλὸν περιποιοῦνται, “gain for themselves a good standing” — βαθμός is a step, a rank, a standing — καὶ πολλὴν παρρησίαν, “and great boldness,” confident freedom of speech, ἐν πίστει τῇ ἐν Χριστῷ Ἰησοῦ, “in the faith which is in Christ Jesus.” Humble service does not diminish; it builds respect and confidence.",
+      "words": [
+        {
+          "strongs": "G2573",
+          "hebrew": "καλῶς",
+          "translit": "kalōs",
+          "english": "well"
+        },
+        {
+          "strongs": "G1247",
+          "hebrew": "διακονέω",
+          "translit": "diakonéō",
+          "english": "served"
+        },
+        {
+          "strongs": "G898",
+          "hebrew": "βαθμός",
+          "translit": "bathmós",
+          "english": "standing"
+        },
+        {
+          "strongs": "G4046",
+          "hebrew": "περιποιέομαι",
+          "translit": "peripoiéomai",
+          "english": "gain"
+        },
+        {
+          "strongs": "G3954",
+          "hebrew": "παῤῥησία",
+          "translit": "parrhēsía",
+          "english": "boldness"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "These things I write to you, hoping to come to you shortly;",
+      "understanding": "“These things I write (γράφω) to you, hoping (ἐλπίζων) to come to you shortly (τάχιον).” Paul hoped to visit soon, but he wrote in case he was delayed. The letter would serve as his presence and his authority.",
+      "words": [
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "write"
+        },
+        {
+          "strongs": "G1679",
+          "hebrew": "ἐλπίζω",
+          "translit": "elpízō",
+          "english": "hoping"
+        },
+        {
+          "strongs": "G5032",
+          "hebrew": "τάχιον",
+          "translit": "táchion",
+          "english": "shortly"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "but if I wait long, that you may know how men ought to behave themselves in God’s house, which is the assembly of the living God, the pillar and ground of the truth.",
+      "understanding": "The purpose statement of the letter: ἐὰν δὲ βραδύνω, “but if I wait long” (am delayed), ἵνα εἰδῇς πῶς δεῖ ἐν οἴκῳ θεοῦ ἀναστρέφεσθαι, “that you may know how men ought to behave themselves in God’s house.” Three pictures of the church: God's οἶκος, house or household; ἐκκλησία θεοῦ ζῶντος, “the assembly of the living God” — unlike the dead goddess Artemis; and στῦλος καὶ ἑδραίωμα τῆς ἀληθείας, “the pillar and ground of the truth” — a column that holds the truth up high for all to see, and a foundation that holds it firm.",
+      "words": [
+        {
+          "strongs": "G1019",
+          "hebrew": "βραδύνω",
+          "translit": "bradýnō",
+          "english": "wait long"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "living"
+        },
+        {
+          "strongs": "G4769",
+          "hebrew": "στῦλος",
+          "translit": "stŷlos",
+          "english": "pillar"
+        },
+        {
+          "strongs": "G1477",
+          "hebrew": "ἑδραίωμα",
+          "translit": "hedraíōma",
+          "english": "ground"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Without controversy, the mystery of godliness is great: God was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory.",
+      "understanding": "What truth does the church hold up? ὁμολογουμένως μέγα, “Without controversy … is great” — confessedly, by common confession — τὸ τῆς εὐσεβείας μυστήριον, “the mystery of godliness.” Then probably an early Christian hymn in six lines. A textual note: the WEB, with most manuscripts, reads θεός, “God was revealed in the flesh”; several of the oldest read ὅς, ‘He who was revealed’ — either way the subject is Christ. ἐφανερώθη ἐν σαρκί, “revealed (φανερόω) in the flesh (σαρκί)”; ἐδικαιώθη ἐν πνεύματι, “justified (vindicated) in the spirit”; ὤφθη ἀγγέλοις, “seen (ὁράω, from the see family) by angels”; ἐκηρύχθη ἐν ἔθνεσιν, “preached among the nations”; ἐπιστεύθη ἐν κόσμῳ, “believed on in the world”; ἀνελήμφθη ἐν δόξῃ, “received up (ἀναλαμβάνω, the ascension word) in glory.” The secret of godliness is a Person.",
+      "words": [
+        {
+          "strongs": "G3672",
+          "hebrew": "ὁμολογουμένως",
+          "translit": "homologouménōs",
+          "english": "Without controversy"
+        },
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mystery"
+        },
+        {
+          "strongs": "G2150",
+          "hebrew": "εὐσέβεια",
+          "translit": "eusébeia",
+          "english": "godliness"
+        },
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G1344",
+          "hebrew": "δικαιόω",
+          "translit": "dikaióō",
+          "english": "justified"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "seen"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G2784",
+          "hebrew": "κηρύσσω",
+          "translit": "kērýssō",
+          "english": "preached"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believed on"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G353",
+          "hebrew": "ἀναλαμβάνω",
+          "translit": "analambánō",
+          "english": "received up"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Shepherd's Own Household",
+      "verseRef": "v. 1-7",
+      "image": "Picture a man who wants to become a shepherd over a large flock. Before giving him the flock, the owner visits his home. He watches how the man treats his wife, whether his children respect and love him, whether strangers are welcomed at his table, how he handles money, whether he loses his temper, whether the neighbours trust him. Only then does the owner say: ‘You have cared for your own household well. Now care for mine.’",
+      "meaning": "Paul writes that an overseer must be “one who rules his own house well, having children in subjection with all reverence; (but if a man doesn’t know how to rule his own house, how will he take care of the assembly of God?)” (vv. 4–5). The list of qualifications is almost entirely about character, not talent: faithful in marriage, self-controlled, hospitable, gentle, not quarrelsome, not money-loving, respected by outsiders. The church does not need impressive personalities as much as tested, godly lives. And these qualities are the goal for every believer, not only leaders."
+    },
+    {
+      "title": "Pillar and Foundation",
+      "verseRef": "v. 15",
+      "image": "Picture the great temple of Artemis in Ephesus, one of the wonders of the ancient world, with over a hundred marble columns, each sixty feet high, rising above the city. People came from far away to admire its pillars. Now picture a small group of believers meeting in a house nearby. No marble, no gold, no columns. Yet God calls this little household of believers ‘the pillar and ground of the truth’ — the true structure on which His truth stands and is lifted high for the world to see.",
+      "meaning": "Paul writes, “that you may know how men ought to behave themselves in God’s house, which is the assembly of the living God, the pillar and ground of the truth” (v. 15). The church does not create the truth; it holds it up and holds it firm. A pillar lifts something so that all can see it; a foundation keeps it from shifting. When believers live in godliness and teach soundly, the truth of Christ is displayed and protected in a world full of false gods."
+    },
+    {
+      "title": "The Hymn of the Mystery",
+      "verseRef": "v. 16",
+      "image": "Picture a house church in Ephesus at dawn. Slaves, merchants, widows and young people stand together and begin to sing a simple hymn in six short lines. Revealed in flesh — a baby in Bethlehem. Vindicated by the Spirit — the empty tomb. Seen by angels — at His birth, His temptation, His resurrection. Preached among the nations — and here we are, Gentiles in Ephesus. Believed in the world — in our own hearts. Taken up in glory — reigning now. As they sing, the whole story of Christ passes before them.",
+      "meaning": "“Without controversy, the mystery of godliness is great: God was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory” (v. 16). The secret of true godliness is not a technique or a rule but a Person: Jesus Christ. All the church's order, leadership and behaviour exist to hold up this truth. Godliness grows as we behold Him."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Qualifications for Overseers (v. 1-7)",
+        "body": "Desiring the office of overseer is a good work; an overseer must be above reproach, faithful in marriage, self-controlled, respectable, hospitable, able to teach, not a drunkard, violent, quarrelsome or money-loving, managing his household well, not a recent convert, and well thought of by outsiders."
+      },
+      {
+        "label": "Qualifications for Deacons (v. 8-13)",
+        "body": "Deacons must likewise be dignified, honest in speech, not given to much wine or greedy for gain, holding the faith with a clear conscience, tested before serving; the women must be dignified, not slanderers, sober and faithful; deacons must be faithful husbands managing their households well; those who serve well gain good standing and great confidence in the faith."
+      },
+      {
+        "label": "The Purpose of the Letter (v. 14-15)",
+        "body": "Paul writes so that, if he is delayed, Timothy will know how people ought to conduct themselves in God's household, the church of the living God, the pillar and foundation of the truth."
+      },
+      {
+        "label": "The Mystery of Godliness (v. 16)",
+        "body": "Great indeed is the mystery of godliness: Christ revealed in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Character Before Charisma",
+        "paragraphs": [
+          "Chapter 3 begins with the second ‘faithful saying’: “This is a faithful saying: if a man seeks the office of an overseer, he desires a good work” (v. 1). In a church where false teachers were seeking influence for the wrong reasons, Paul affirms that leadership is good — but it is a work, not a prize. The word ‘overseer’ (ἐπίσκοπος) is used interchangeably with ‘elder’ (πρεσβύτερος) in the New Testament; Paul told the Ephesian elders, “the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood” (Acts 20:28).",
+          "What is striking about the list in verses 2–7 is how ordinary it is. Only one item is a skill: “good at teaching” (v. 2). Everything else is character: faithful in marriage, self-controlled, respectable, hospitable, gentle, peaceable, free from the love of money, a good manager of his family, mature in faith, and respected by outsiders. These are qualities God wants in every believer. The leader must simply be a clear, tested example of them. Peter gives the same vision: elders are to shepherd “not for dishonest gain, but willingly; neither as lording it over those entrusted to you, but making yourselves examples to the flock” (1 Peter 5:2–3).",
+          "‘The husband of one wife’ is literally ‘a one-woman man’. The strongest reading is a man who is faithful in marriage — sexually and emotionally devoted to one wife — in a culture where infidelity was common and often accepted. Some read it more narrowly (no remarriage after divorce, or only married men), but Paul himself was unmarried, and the phrase describes character rather than marital status. The same pattern appears in Titus: “if anyone is blameless, the husband of one wife, having children who believe” (Titus 1:6)."
+        ]
+      },
+      {
+        "heading": "Servants Who Are Tested",
+        "paragraphs": [
+          "The second group is διάκονοι, ‘servants’ or deacons. Acts 6 may show their origin, when the apostles asked the church to “select from among you, brothers, seven men of good report, full of the Holy Spirit and of wisdom, whom we may appoint over this business” (Acts 6:3) — the daily distribution of food. Deacons handled practical service and often money, so Paul stresses honesty and freedom from greed: “reverent, not double-tongued, not addicted to much wine, not greedy for money” (v. 8). And they must hold “the mystery of the faith in a pure conscience” (v. 9).",
+          "Two principles stand out. First, testing: “Let them also first be tested; then let them serve if they are blameless” (v. 10). Responsibility follows proven faithfulness. Second, verse 11 adds instructions for ‘women’, which the WEB renders “Their wives”; the Greek allows either deacons' wives or women serving as deacons, and the New Testament names Phoebe as “a servant of the assembly that is at Cenchreae” (Romans 16:1). Either way, they must be “reverent, not slanderers, temperate, faithful in all things” (v. 11). The word for ‘slanderers’ is διάβολοι — the same word as ‘devil’. To slander is to take the devil's part.",
+          "The reward of humble service is surprising: “For those who have served well gain for themselves a good standing, and great boldness in the faith which is in Christ Jesus” (v. 13). Jesus taught the same reversal: “whoever wants to become great among you shall be your servant” (Mark 10:43). Faithful service in small, practical things builds confidence in God and respect among His people."
+        ]
+      },
+      {
+        "heading": "The Household and the Hymn",
+        "paragraphs": [
+          "Verses 14–15 give the purpose of the whole letter: “that you may know how men ought to behave themselves in God’s house, which is the assembly of the living God, the pillar and ground of the truth.” The church is God's household — a family with a Father and order and responsibilities. It is the assembly of the living God, in contrast to the lifeless idols of Ephesus. And it is the pillar and foundation of the truth: it holds the truth up for the world to see and keeps it firm. Hebrews says the same: “Christ is faithful as a Son over his house; whose house we are” (Hebrews 3:6).",
+          "What truth does the church hold? Paul answers with what appears to be an early hymn: “Without controversy, the mystery of godliness is great: God was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory” (v. 16). The six lines trace Christ's whole story: incarnation (“The Word became flesh”, John 1:14), resurrection vindication (He “was declared to be the Son of God with power … by the resurrection from the dead”, Romans 1:4), angelic witness, worldwide proclamation, faith, and ascension.",
+          "There is a textual question in the first line. Most manuscripts, followed by the WEB, read ‘God was revealed in the flesh’; several of the oldest read ‘He who was revealed in the flesh’. The meaning is the same: the one revealed in the flesh is Christ, and the whole hymn confesses His divine glory. The ‘mystery of godliness’ — the secret source of a godly life — is not a method but a Person. Leadership qualifications and church order (vv. 1–13) exist to protect and display this Christ."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Elders, Deacons and the House of God",
+      "paragraphs": [
+        "The parallel list in Titus confirms the emphasis on character: “For the overseer must be blameless, as God’s steward; not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain” (Titus 1:7), and he must be “holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him” (Titus 1:9). Philippians shows both offices in a local church: “To all the saints in Christ Jesus who are at Philippi, with the overseers and servants” (Philippians 1:1).",
+        "Paul's charge to the Ephesian elders, years before this letter, shows the weight of the role: “Take heed, therefore, to yourselves, and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood” (Acts 20:28). Peter adds the heart: “Shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily” (1 Peter 5:2).",
+        "The picture of the church as God's house runs through the New Testament: believers are “built on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone” (Ephesians 2:20), and “as living stones, are built up as a spiritual house, to be a holy priesthood” (1 Peter 2:5). The hymn of verse 16 echoes the Gospels and Acts: the Word became flesh (John 1:14), and at the ascension “he was taken up, and a cloud received him out of their sight” (Acts 1:9)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Overseer / bishop",
+      "hebrew": "ἐπίσκοπος",
+      "translit": "epískopos",
+      "strongs": "G1985",
+      "verses": "v. 2",
+      "insight": "Strong's: “a superintendent, i.e. Christian officer in genitive case charge of a (or the) church (literally or figuratively).” From ἐπί, over, and σκοπός, a watcher: one who watches over. It gives English ‘episcopal’ and ‘bishop’. In the New Testament it is the same office as elder (Acts 20:17, 28; Titus 1:5, 7). The overseer's job is not to rule like a lord but to watch over the flock like a shepherd. And the qualifications are about character: what he is matters more than what he can do."
+    },
+    {
+      "english": "Hospitable / lover of strangers",
+      "hebrew": "φιλόξενος",
+      "translit": "philóxenos",
+      "strongs": "G5382",
+      "verses": "v. 2",
+      "insight": "Strong's: “fond of guests, i.e. hospitable.” It combines φίλος, friend, lover, and ξένος, stranger. In the first century, travelling believers depended on Christian homes, and churches met in homes. A leader whose door was closed could not shepherd. Hospitality is not entertaining; it is opening your life and home to people, especially strangers. It is required of leaders and commanded for all believers (Romans 12:13)."
+    },
+    {
+      "english": "Not a lover of money",
+      "hebrew": "ἀφιλάργυρος",
+      "translit": "aphilárgyros",
+      "strongs": "G866",
+      "verses": "v. 3",
+      "insight": "Strong's: “unavaricious.” Literally ‘not a lover of silver’ (ἀ-, not; φίλος, lover; ἄργυρος, silver). The opposite word, φιλαργυρία, appears in 6:10: ‘the love of money is a root of all kinds of evil’. The false teachers in Ephesus saw godliness as a way to get rich (6:5). Church leaders must be visibly free from that love. A leader who loves money will eventually use the flock instead of feeding it."
+    },
+    {
+      "english": "Devil / slanderer",
+      "hebrew": "διάβολος",
+      "translit": "diábolos",
+      "strongs": "G1228",
+      "verses": "v. 6, 7, 11",
+      "insight": "Strong's: “a traducer; specially, Satan.” From διαβάλλω, to throw across, to accuse falsely. As a title it means ‘the slanderer’, the accuser of God's people. In verses 6–7 it names the devil; in verse 11 the same word, used as an adjective, describes ‘slanderers’. The connection is deliberate: when believers spread malicious gossip and false accusations, they do the devil's work. Slander is not a small sin of the tongue; it is the devil's own trade."
+    },
+    {
+      "english": "Ground / foundation / support",
+      "hebrew": "ἑδραίωμα",
+      "translit": "hedraíōma",
+      "strongs": "G1477",
+      "verses": "v. 15",
+      "insight": "Strong's: “a support, i.e. (figuratively) basis.” It appears only here in the New Testament. Related to ἑδραῖος, firm, steadfast (1 Corinthians 15:58). With στῦλος, pillar, it describes the church's role toward the truth: the pillar lifts the truth up for all to see; the foundation holds it steady so that it does not shift. The church does not invent truth; it supports and displays the truth God has revealed in Christ."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: your character at home, your words about others, and your gaze on Christ.",
+    "items": [
+      {
+        "title": "Home Is the Test",
+        "body": "Paul asks how a man can care for the church if he cannot manage his own household. The Spirit may be pointing you back home. How do you treat your spouse, your children, your parents, your housemates? Are you faithful, gentle, self-controlled and hospitable there, where no one applauds? Ministry that looks impressive in public but is careless at home is not the ministry God wants. Ask Him to make your home the first place your godliness is seen."
+      },
+      {
+        "title": "Not a Slanderer",
+        "body": "The word for ‘slanderers’ in verse 11 is the same as ‘devil’. The Spirit may be convicting you about how you speak of others: passing on gossip, painting people in a bad light, sharing half-truths. Ask Him to show you any conversation where you have done the accuser's work. Confess it, and where possible, put it right. Let your words build up rather than tear down."
+      },
+      {
+        "title": "Behold the Mystery",
+        "body": "The secret of godliness is Christ: revealed in the flesh, vindicated, seen by angels, proclaimed, believed, taken up in glory (v. 16). The Spirit wants to lift your eyes from rules and performance to the Person. Godliness grows not by trying harder but by beholding Him. Spend time this week simply worshipping Christ through the six lines of this hymn."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Character Check",
+        "body": "Read verses 2–7 as a mirror rather than a job description. Mark each quality as strong, growing or weak in your life. Choose one weak area and ask God for help to grow in it this month."
+      },
+      {
+        "title": "The Tongue Check",
+        "body": "Think back over the past week. Did you say anything about another person that was unkind, untrue or unnecessary (v. 11)? Write it down, confess it, and decide whether you need to apologise to someone."
+      },
+      {
+        "title": "The Testing Check",
+        "body": "Are you serving in your church in some way (v. 10)? If not, ask God where He wants you to start serving faithfully in a small, practical way. If you are, ask whether you are serving well (v. 13)."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Open Your Table",
+        "body": "Practise hospitality (v. 2) this week. Invite someone into your home for a meal or a drink — ideally someone new to your church, lonely, or different from you. Keep it simple. Listen to their story, share something of how God has worked in your life, and pray for them before they leave. Afterwards, thank God for the opportunity and ask Him who to invite next."
+      },
+      {
+        "title": "Sing the Mystery",
+        "body": "Memorise verse 16. Each day this week, take one line of the hymn and spend five minutes thanking Christ for that part of His work: His incarnation, resurrection, the angels' worship, the gospel reaching the nations, your own faith, and His ascension. On the seventh day, read the whole hymn aloud as a declaration of what the church holds up before the world."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord, thank You for the good work of those who watch over Your people. Raise up leaders in Your church who are above reproach, faithful in marriage, self-controlled, sensible, respectable, hospitable and able to teach; not given to wine, not violent, not quarrelsome, not lovers of money; who manage their homes well and are respected by outsiders. Make me that kind of person, whatever my role. Keep me from pride and from the snare of the devil. Make my words honest and free from slander. Test me and make me faithful in small things, so that I may serve You well and grow in confidence in the faith. Thank You for making Your church the household of the living God, the pillar and foundation of the truth. Help me behave in Your house in a way that holds the truth up high. Great is the mystery of godliness: You were revealed in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, and taken up in glory. I worship You. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "The Seven Chosen to Serve",
+      "ref": "Acts 6:1-7",
+      "relatedVerses": "v. 8-13",
+      "summary": "As the Jerusalem church grew, the Greek-speaking widows were being overlooked in the daily distribution of food. The apostles gathered the disciples and said it was not right for them to neglect the word of God to serve tables. They told the church, “Therefore select from among you, brothers, seven men of good report, full of the Holy Spirit and of wisdom, whom we may appoint over this business” (Acts 6:3). The church chose seven men, including Stephen and Philip, and the apostles prayed and laid hands on them. The word of God increased and the number of disciples multiplied. This is the pattern behind 1 Timothy 3:8–13: practical servants of proven character, so that the work of the gospel can flourish."
+    },
+    {
+      "title": "Paul's Charge to the Elders",
+      "ref": "Acts 20:17-35",
+      "relatedVerses": "v. 1-7",
+      "summary": "At Miletus, Paul spoke to the elders of the Ephesian church — the very church Timothy later led. He reminded them of his own example: humble service, tears, teaching publicly and from house to house, and working with his own hands so as not to burden anyone. Then he charged them: “Take heed, therefore, to yourselves, and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood” (Acts 20:28). He warned of wolves and of false teachers from within. 1 Timothy 3 gives the qualifications for such shepherds; Acts 20 shows their heart."
+    },
+    {
+      "title": "Eli's Sons and Samuel",
+      "ref": "1 Samuel 2:12-36",
+      "relatedVerses": "v. 4-5",
+      "summary": "Eli was the priest at Shiloh, but his sons Hophni and Phinehas were worthless men who did not know the LORD. They took the best of the sacrifices by force and slept with the women who served at the tent of meeting. Eli rebuked them mildly but did not restrain them, and God sent a prophet to declare judgment on his house. Meanwhile the boy Samuel grew up in the LORD's presence, faithful and trustworthy. The story is a sober illustration of 1 Timothy 3:4–5: a leader who does not manage his own household well brings dishonour on the house of God. Faithfulness at home and faithfulness in God's house belong together."
+    }
+  ]
+}
