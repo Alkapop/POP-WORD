@@ -115,7 +115,7 @@
         "age",
         "day"
       ],
-      "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour.",
+      "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2.",
       "members": [
         {
           "strongs": "G5550",
@@ -128,6 +128,18 @@
           "sense": "The right moment — a season, an opportunity, a decisive time that must be seized.",
           "anchor": "Mark 1:15",
           "en": "time"
+        },
+        {
+          "strongs": "G2122",
+          "sense": "‘Well-timed’ — εὐ (good) + καιρός: at a convenient, opportune moment, when the season is favourable.",
+          "anchor": "2 Timothy 4:2",
+          "en": "in season"
+        },
+        {
+          "strongs": "G171",
+          "sense": "‘Ill-timed’ — ἀ (not) + καιρός: at an inconvenient, unfavourable moment. Paired with εὐκαίρως, it means ‘whether the moment suits or not’.",
+          "anchor": "2 Timothy 4:2",
+          "en": "out of season"
         },
         {
           "strongs": "G5610",
