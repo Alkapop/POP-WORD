@@ -307,4 +307,41 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 |---|------|--------|
 | 56 | Titus | ✅ built & verified |
 | 57 | Philemon (1 ch.) | blocked — only 1:1 is on disk; needs the FIXES-TODO §1 re-fetch |
-| 58 | Hebrews (13 ch.) | ready — on disk; can go next while Philemon waits |
+| 58 | Hebrews (13 ch.) | ✅ built & verified (below) |
+
+## 2026-11-23 — Hebrews
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 10KB | — | ✅ | ✅ | Bridge from Titus (its Road Ahead); authorship stated as unknown; Philemon noted as pending |
+| Chapter 1 | 34KB | 14/14 | ✅ | ✅ | ῥῆμα (1:3) vs λόγος; χαρακτήρ vs εἰκών (new **image** family); αἰών / οἰκουμένη; LXX of Deut 32:43 stated honestly |
+| Chapter 2 | 38KB | 18/18 | ✅ | ✅ | παράβασις + παρακοή; σημεῖα, τέρατα, δυνάμεις together; ὁράω vs βλέπω (2:8–9); 2:9 variant; κράτος of death; τελειόω (new **perfect** family) |
+| Chapter 3 | 35KB | 19/19 | ✅ | ✅ | θεράπων (servant); σήμερον; κατέχω (new **hold** family); ἀπιστία = ἀπείθεια. Caught & fixed: G570 definition wording |
+| Chapter 4 | 36KB | 16/16 | ✅ | ✅ | κατάπαυσις / καταπαύω / σαββατισμός (new **rest** family); λόγος living and ἐνεργής; κρατέω; εὔκαιρος help |
+| Chapter 5 | 32KB | 14/14 | ✅ | ✅ | δέησις + ἱκετηρία; εὐλάβεια; αἴτιος vs ἀρχηγός (new **author** family); τέλειος; new **offering** family. Caught & fixed: a nested-quote paraphrase |
+| Chapter 6 | 42KB | 20/20 | ✅ | ✅ | 6:4–6 warning: text's force plus the main readings named; two ‘impossibles’; ἄγκυρα, πρόδρομος. **Audit fix:** 6:1 ‘teaching’ re-tagged λόγος (was διδαχή) |
+| Chapter 7 | 47KB | 28/28 | ✅ | ✅ | ἕτερος ‘another priest’ ×3; τελείωσις / τελειόω ×3; ἐντυγχάνω; ἐφάπαξ; ἀναφέρω (offering). Caught & fixed: a Strong's quote paired with the next reference |
+| Chapter 8 | 33KB | 13/13 | ✅ | ✅ | ὑπόδειγμα / σκιά / τύπος (new **pattern** family); λατρεύω; γινώσκω vs οἶδα (8:11); ἀδικία / ἁμαρτία / ἀνομία (8:12) |
+| Chapter 9 | 54KB | 28/28 | ✅ | ✅ | καιρός ‘present age’ vs αἰών ‘end of the ages’; three appearings: φανερόω, ἐμφανίζω (added), ὁράω; ἀγνόημα (sin); διαθήκη covenant / will |
+| Chapter 10 | 59KB | 39/39 | ✅ | ✅ | θυσία, προσφορά, ὁλοκαύτωμα (10:5–8); σκιά vs εἰκών; πρόσφατος (new); 10:26–31 stated plainly; LXX ‘a body’ noted |
+| Chapter 11 | 66KB | 40/40 | ✅ | ✅ | ὑπόστασις; ῥῆμα; ἐπίσταμαι (know); πρόσκαιρος (time); δυναμόω, ἰσχυρός (power); 11:11 and 11:21 readings. Caught & fixed: G3406 quoted exactly as the dictionary spells it |
+| Chapter 12 | 53KB | 29/29 | ✅ | ✅ | ἀρχηγὸς καὶ τελειωτής; παιδεία (new **discipline** family); νέος vs καινός; Haggai 2:6 quoted directly; 12:28 reading noted. Caught & fixed: two Strong's quotes, the Greek of 12:28 |
+| Chapter 13 | 44KB | 25/25 | ✅ | ✅ | φιλαδελφία, φιλοξενία, ἀφιλάργυρος; σήμερον + αἰών (13:8); ἀγρυπνέω (sleep); εὐποιΐα (good); καταρτίζω |
+| Final Masterclass Review | 13KB | — | ✅ | ✅ | Road Ahead → James, 1 Peter |
+
+- **Book total:** 13 chapters, 303/303 verses, 65 lexicon entries, 588 referenced quotations checked (exit 0).
+- **Word families:** 27 → 35 families, 145 → 223 words. New: image, pattern, rest, perfect, hold, offering, author, discipline.
+  Additions across see, sin, servant, power, time, pray, godliness, appear, new, know, love, sleep, good, life.
+- **Family-claim audit (new):** every ‘from the X family’ in 2 Timothy, Titus and Hebrews verse notes now matches a tagged
+  member, except five deliberate root references (e.g. ἄκακος ‘κακός negated’). The audit found that σήμερον, δύναμαι,
+  ζάω, ἁμαρτάνω and several servant-family verbs were described as family words but were not members — added (with
+  ἄνομος and ἐπιγινώσκω for 1 Timothy).
+- **G3** ✅ all 15 documents (and 2 Timothy, Titus re-checked); word-panel spot checks 20/20; word-study regression 21/21; Cyrillic scan 0.
+- Backlog unchanged: 42 NOT-IN-WEB / 32 LEMMA / 28 WRONG-REF.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 57 | Philemon (1 ch.) | blocked — only 1:1 is on disk; needs the FIXES-TODO §1 re-fetch |
+| 58 | Hebrews | ✅ built & verified |
+| 59 | James (5 ch.) | next — bridge from Hebrews; Road Ahead → 1 Peter, 2 Peter |

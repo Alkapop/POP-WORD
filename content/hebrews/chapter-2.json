@@ -1,0 +1,961 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 2,
+  "chapterTitle": "So Great a Salvation, Such a Brother",
+  "themeTitle": "“Not Ashamed to Call Them Brothers”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away.",
+      "understanding": "The first of five warnings in Hebrews. διὰ τοῦτο δεῖ περισσοτέρως προσέχειν ἡμᾶς τοῖς ἀκουσθεῖσιν, “Therefore we ought to pay greater attention to the things that were heard” — προσέχω, to hold the mind toward, like a ship holding toward harbour. μήποτε παραρυῶμεν, “lest perhaps we drift away” — παραρρέω, to flow past: a boat carried past its harbour by the current, or a ring slipping off a finger. The danger is not a dramatic rebellion but a slow, unnoticed drift.",
+      "words": [
+        {
+          "strongs": "G4337",
+          "hebrew": "προσέχω",
+          "translit": "proséchō",
+          "english": "pay greater attention"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G3379",
+          "hebrew": "μήποτε",
+          "translit": "mḗpote",
+          "english": "lest perhaps"
+        },
+        {
+          "strongs": "G3901",
+          "hebrew": "παραῤῥυέω",
+          "translit": "pararrhyéō",
+          "english": "drift away"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just recompense;",
+      "understanding": "εἰ γὰρ ὁ δι᾽ ἀγγέλων λαληθεὶς λόγος ἐγένετο βέβαιος, “For if the word spoken through angels proved steadfast” — the law given at Sinai, which Stephen said was ‘ordained by angels’. λόγος from the word family: the message as a whole (compare ῥῆμα, the spoken command, in 1:3). Then two members of the sin family: πᾶσα παράβασις, “every transgression” — stepping over a known line; καὶ παρακοή, “and disobedience” — literally ‘mis-hearing’, refusing to listen. It connects directly to verse 1: the danger of not paying attention to what was heard. Both ἔλαβεν ἔνδικον μισθαποδοσίαν, “received a just recompense.”",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G949",
+          "hebrew": "βέβαιος",
+          "translit": "bébaios",
+          "english": "steadfast"
+        },
+        {
+          "strongs": "G3847",
+          "hebrew": "παράβασις",
+          "translit": "parábasis",
+          "english": "transgression"
+        },
+        {
+          "strongs": "G3876",
+          "hebrew": "παρακοή",
+          "translit": "parakoḗ",
+          "english": "disobedience"
+        },
+        {
+          "strongs": "G1738",
+          "hebrew": "ἔνδικος",
+          "translit": "éndikos",
+          "english": "just"
+        },
+        {
+          "strongs": "G3405",
+          "hebrew": "μισθαποδοσία",
+          "translit": "misthapodosía",
+          "english": "recompense"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "how will we escape if we neglect so great a salvation—which at the first having been spoken through the Lord, was confirmed to us by those who heard;",
+      "understanding": "πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας, “how will we escape if we neglect so great a salvation” — ἀμελέω, to be careless about, not bother with. Not ‘reject’ but ‘neglect’: you do not have to attack the gospel to lose it; you only have to ignore it. This salvation ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ κυρίου, “at the first having been spoken through the Lord” — Jesus Himself preached it. ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη, “was confirmed to us by those who heard” — the writer and readers received it second-hand from eyewitnesses.",
+      "words": [
+        {
+          "strongs": "G1628",
+          "hebrew": "ἐκφεύγω",
+          "translit": "ekpheúgō",
+          "english": "escape"
+        },
+        {
+          "strongs": "G272",
+          "hebrew": "ἀμελέω",
+          "translit": "ameléō",
+          "english": "neglect"
+        },
+        {
+          "strongs": "G5082",
+          "hebrew": "τηλικοῦτος",
+          "translit": "tēlikoûtos",
+          "english": "so great"
+        },
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "salvation"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G950",
+          "hebrew": "βεβαιόω",
+          "translit": "bebaióō",
+          "english": "confirmed"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "God also testifying with them, both by signs and wonders, by various works of power, and by gifts of the Holy Spirit, according to his own will?",
+      "understanding": "συνεπιμαρτυροῦντος τοῦ θεοῦ, “God also testifying with them” — adding His own witness. Three members of the signs family in one verse: σημείοις τε καὶ τέρασιν καὶ ποικίλαις δυνάμεσιν, “both by signs and wonders, by various works of power.” σημεῖον points beyond itself; τέρας astonishes; δύναμις (here plural, ‘powers’) is the power at work. Then: πνεύματος ἁγίου μερισμοῖς, “and by gifts of the Holy Spirit” — literally ‘distributions’, portions given out — κατὰ τὴν αὐτοῦ θέλησιν, “according to his own will.” The gospel came with God's own signature.",
+      "words": [
+        {
+          "strongs": "G4901",
+          "hebrew": "συνεπιμαρτυρέω",
+          "translit": "synepimartyréō",
+          "english": "testifying"
+        },
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeîon",
+          "english": "signs"
+        },
+        {
+          "strongs": "G5059",
+          "hebrew": "τέρας",
+          "translit": "téras",
+          "english": "wonders"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "works of power"
+        },
+        {
+          "strongs": "G3311",
+          "hebrew": "μερισμός",
+          "translit": "merismós",
+          "english": "gifts"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "Holy"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G2308",
+          "hebrew": "θέλησις",
+          "translit": "thélēsis",
+          "english": "will"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For he didn’t subject the world to come, of which we speak, to angels.",
+      "understanding": "οὐ γὰρ ἀγγέλοις ὑπέταξεν τὴν οἰκουμένην τὴν μέλλουσαν, “For he didn’t subject the world to come, of which we speak, to angels.” οἰκουμένη from the world family: the inhabited earth, here the coming renewed world over which Christ and His people will reign. Angels served the old order; the world to come belongs to the Son and to humanity in Him.",
+      "words": [
+        {
+          "strongs": "G5293",
+          "hebrew": "ὑποτάσσω",
+          "translit": "hypotássō",
+          "english": "subject"
+        },
+        {
+          "strongs": "G3625",
+          "hebrew": "οἰκουμένη",
+          "translit": "oikouménē",
+          "english": "world"
+        },
+        {
+          "strongs": "G3195",
+          "hebrew": "μέλλω",
+          "translit": "méllō",
+          "english": "to come"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But one has somewhere testified, saying, “What is man, that you think of him? Or the son of man, that you care for him?",
+      "understanding": "διεμαρτύρατο δέ πού τις, “But one has somewhere testified” — the writer is not vague because he does not know the source, but because the human author does not matter; it is God's word. The quotation is Psalm 8: “What is man, that you think of him? Or the son of man, that you care for him?” ἐπισκέπτομαι, to visit, to look after. In the psalm, ‘son of man’ means a human being; but it is also Jesus' favourite name for Himself, and the writer will apply the psalm to Him.",
+      "words": [
+        {
+          "strongs": "G1263",
+          "hebrew": "διαμαρτύρομαι",
+          "translit": "diamartýromai",
+          "english": "testified"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        },
+        {
+          "strongs": "G3403",
+          "hebrew": "μιμνήσκω",
+          "translit": "mimnḗskō",
+          "english": "think of"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "son"
+        },
+        {
+          "strongs": "G1980",
+          "hebrew": "ἐπισκέπτομαι",
+          "translit": "episképtomai",
+          "english": "care for"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "You made him a little lower than the angels. You crowned him with glory and honor.",
+      "understanding": "“You made him a little lower than the angels. You crowned him with glory and honor.” βραχύ τι can mean ‘a little’ in rank or ‘for a little while’ in time. Psalm 8 means humanity's place in creation; the writer will apply it to Jesus, who was made lower than the angels ‘for a little while’ in His incarnation and death. δόξα and τιμή: the original dignity God gave humanity.",
+      "words": [
+        {
+          "strongs": "G1642",
+          "hebrew": "ἐλαττόω",
+          "translit": "elattóō",
+          "english": "lower"
+        },
+        {
+          "strongs": "G1024",
+          "hebrew": "βραχύς",
+          "translit": "brachýs",
+          "english": "a little"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G4737",
+          "hebrew": "στεφανόω",
+          "translit": "stephanóō",
+          "english": "crowned"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "You have put all things in subjection under his feet.” For in that he subjected all things to him, he left nothing that is not subject to him. But now we don’t see all things subjected to him, yet.",
+      "understanding": "“You have put all things in subjection under his feet.” God's plan was that humanity would rule creation. οὐδὲν ἀφῆκεν αὐτῷ ἀνυπότακτον, “he left nothing that is not subject to him.” But reality looks different: νῦν δὲ οὔπω ὁρῶμεν αὐτῷ τὰ πάντα ὑποτεταγμένα, “But now we don’t see all things subjected to him, yet.” ὁράω from the see family: to perceive, take in. Look around: humanity does not rule creation; sin, death and chaos do. Hold this word beside the next verse.",
+      "words": [
+        {
+          "strongs": "G5293",
+          "hebrew": "ὑποτάσσω",
+          "translit": "hypotássō",
+          "english": "subjection"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "left"
+        },
+        {
+          "strongs": "G506",
+          "hebrew": "ἀνυπότακτος",
+          "translit": "anypótaktos",
+          "english": "not subject"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "see"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "But we see him who has been made a little lower than the angels, Jesus, because of the suffering of death crowned with glory and honor, that by the grace of God he should taste of death for everyone.",
+      "understanding": "τὸν δὲ βραχύ τι παρ᾽ ἀγγέλους ἠλαττωμένον βλέπομεν Ἰησοῦν, “But we see him who has been made a little lower than the angels, Jesus.” A different see-family word: βλέπω, to look at, fix the eyes on. We do not yet ‘see’ (ὁράω) everything subject to humanity, but we do ‘see’ (βλέπω) Jesus — the one true Man who fulfils Psalm 8. διὰ τὸ πάθημα τοῦ θανάτου δόξῃ καὶ τιμῇ ἐστεφανωμένον, “because of the suffering of death crowned with glory and honor.” ὅπως χάριτι θεοῦ ὑπὲρ παντὸς γεύσηται θανάτου, “that by the grace of God he should taste of death for everyone” — γεύομαι, to taste, to experience fully. (A few manuscripts read ‘apart from God’ instead of ‘by the grace of God’; nearly all read ‘grace’.)",
+      "words": [
+        {
+          "strongs": "G1642",
+          "hebrew": "ἐλαττόω",
+          "translit": "elattóō",
+          "english": "lower"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "see"
+        },
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G3804",
+          "hebrew": "πάθημα",
+          "translit": "páthēma",
+          "english": "suffering"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G1089",
+          "hebrew": "γεύομαι",
+          "translit": "geúomai",
+          "english": "taste"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For it became him, for whom are all things, and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings.",
+      "understanding": "ἔπρεπεν γὰρ αὐτῷ, “For it became him” — it was fitting, worthy of God's character. δι᾽ ὃν τὰ πάντα καὶ δι᾽ οὗ τὰ πάντα, “for whom are all things, and through whom are all things.” πολλοὺς υἱοὺς εἰς δόξαν ἀγαγόντα, “in bringing many children to glory.” τὸν ἀρχηγὸν τῆς σωτηρίας αὐτῶν διὰ παθημάτων τελειῶσαι, “to make the author of their salvation perfect through sufferings.” ἀρχηγός is a pioneer, the leader who blazes the trail. τελειόω from the new perfect family: not moral improvement — He was never imperfect — but being brought to the goal, fully qualified as Saviour by going through suffering.",
+      "words": [
+        {
+          "strongs": "G4241",
+          "hebrew": "πρέπω",
+          "translit": "prépō",
+          "english": "became"
+        },
+        {
+          "strongs": "G71",
+          "hebrew": "ἄγω",
+          "translit": "ágō",
+          "english": "bringing"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G747",
+          "hebrew": "ἀρχηγός",
+          "translit": "archēgós",
+          "english": "author"
+        },
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "salvation"
+        },
+        {
+          "strongs": "G5048",
+          "hebrew": "τελειόω",
+          "translit": "teleióō",
+          "english": "perfect"
+        },
+        {
+          "strongs": "G3804",
+          "hebrew": "πάθημα",
+          "translit": "páthēma",
+          "english": "sufferings"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For both he who sanctifies and those who are sanctified are all from one, for which cause he is not ashamed to call them brothers,",
+      "understanding": "ὅ τε γὰρ ἁγιάζων καὶ οἱ ἁγιαζόμενοι ἐξ ἑνὸς πάντες, “For both he who sanctifies and those who are sanctified are all from one” — one Father, one family, one humanity. ἁγιάζω, to set apart as holy. δι᾽ ἣν αἰτίαν οὐκ ἐπαισχύνεται ἀδελφοὺς αὐτοὺς καλεῖν, “for which cause he is not ashamed to call them brothers.” The Son to whom angels bow is not embarrassed to be family with us.",
+      "words": [
+        {
+          "strongs": "G37",
+          "hebrew": "ἁγιάζω",
+          "translit": "hagiázō",
+          "english": "sanctifies"
+        },
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G1870",
+          "hebrew": "ἐπαισχύνομαι",
+          "translit": "epaischýnomai",
+          "english": "ashamed"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "saying, “I will declare your name to my brothers. Among of the congregation I will sing your praise.”",
+      "understanding": "The proof comes from Psalm 22, the psalm Jesus quoted on the cross: “I will declare your name to my brothers. Among of the congregation I will sing your praise.” The psalm moves from suffering to praise; after His death the risen Christ calls His people ‘my brothers’ and leads their worship. ἐκκλησία, ‘congregation’, is the word for ‘church’.",
+      "words": [
+        {
+          "strongs": "G518",
+          "hebrew": "ἀπαγγέλλω",
+          "translit": "apangéllō",
+          "english": "declare"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "congregation"
+        },
+        {
+          "strongs": "G5214",
+          "hebrew": "ὑμνέω",
+          "translit": "hymnéō",
+          "english": "sing your praise"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Again, “I will put my trust in him.” Again, “Behold, here I am with the children whom God has given me.”",
+      "understanding": "Two more quotations, from Isaiah 8: “I will put my trust in him.” The Son lives the life of trust in the Father that every child of God must live. And: “Behold, here I am with the children whom God has given me.” Jesus is the elder brother standing with the family the Father gave Him — a theme He echoed: ‘those whom you have given me’.",
+      "words": [
+        {
+          "strongs": "G3982",
+          "hebrew": "πείθω",
+          "translit": "peíthō",
+          "english": "put my trust"
+        },
+        {
+          "strongs": "G2400",
+          "hebrew": "ἰδού",
+          "translit": "idoú",
+          "english": "Behold"
+        },
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Since then the children have shared in flesh and blood, he also himself in the same way partook of the same, that through death he might bring to nothing him who had the power of death, that is, the devil,",
+      "understanding": "ἐπεὶ οὖν τὰ παιδία κεκοινώνηκεν αἵματος καὶ σαρκός, “Since then the children have shared in flesh and blood,” καὶ αὐτὸς παραπλησίως μετέσχεν τῶν αὐτῶν, “he also himself in the same way partook of the same.” Why? ἵνα διὰ τοῦ θανάτου καταργήσῃ τὸν τὸ κράτος ἔχοντα τοῦ θανάτου, “that through death he might bring to nothing him who had the power of death, that is, the devil.” κράτος from the power family: grip, hold, dominion — not ἐξουσία, rightful authority. The devil's hold over humanity was through fear of death and the guilt that makes death terrible. καταργέω, to make idle, render powerless. Jesus defeated death by dying.",
+      "words": [
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G2841",
+          "hebrew": "κοινωνέω",
+          "translit": "koinōnéō",
+          "english": "shared"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G3348",
+          "hebrew": "μετέχω",
+          "translit": "metéchō",
+          "english": "partook"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G2673",
+          "hebrew": "καταργέω",
+          "translit": "katargéō",
+          "english": "bring to nothing"
+        },
+        {
+          "strongs": "G2904",
+          "hebrew": "κράτος",
+          "translit": "krátos",
+          "english": "power"
+        },
+        {
+          "strongs": "G1228",
+          "hebrew": "διάβολος",
+          "translit": "diábolos",
+          "english": "devil"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "and might deliver all of them who through fear of death were all their lifetime subject to bondage.",
+      "understanding": "καὶ ἀπαλλάξῃ τούτους, “and might deliver all of them” — release, set free. ὅσοι φόβῳ θανάτου διὰ παντὸς τοῦ ζῆν ἔνοχοι ἦσαν δουλείας, “who through fear of death were all their lifetime subject to bondage” — δουλεία, slavery, related to δοῦλος in the servant family. Fear of death enslaves, because it makes people grasp, hide and compromise. Christ frees His people from that fear.",
+      "words": [
+        {
+          "strongs": "G525",
+          "hebrew": "ἀπαλλάσσω",
+          "translit": "apallássō",
+          "english": "deliver"
+        },
+        {
+          "strongs": "G5401",
+          "hebrew": "φόβος",
+          "translit": "phóbos",
+          "english": "fear"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "lifetime"
+        },
+        {
+          "strongs": "G1777",
+          "hebrew": "ἔνοχος",
+          "translit": "énochos",
+          "english": "subject"
+        },
+        {
+          "strongs": "G1397",
+          "hebrew": "δουλεία",
+          "translit": "douleía",
+          "english": "bondage"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "For most certainly, he doesn’t give help to angels, but he gives help to the offspring of Abraham.",
+      "understanding": "οὐ γὰρ δήπου ἀγγέλων ἐπιλαμβάνεται, “For most certainly, he doesn’t give help to angels” — ἐπιλαμβάνομαι, to take hold of, grasp by the hand to rescue. ἀλλὰ σπέρματος Ἀβραὰμ ἐπιλαμβάνεται, “but he gives help to the offspring of Abraham” — the people of faith. He reached down to grasp human beings, not angels.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G1949",
+          "hebrew": "ἐπιλαμβάνομαι",
+          "translit": "epilambánomai",
+          "english": "give help"
+        },
+        {
+          "strongs": "G4690",
+          "hebrew": "σπέρμα",
+          "translit": "spérma",
+          "english": "offspring"
+        },
+        {
+          "strongs": "G11",
+          "hebrew": "Ἀβραάμ",
+          "translit": "Abraám",
+          "english": "Abraham"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Therefore he was obligated in all things to be made like his brothers, that he might become a merciful and faithful high priest in things pertaining to God, to make atonement for the sins of the people.",
+      "understanding": "ὅθεν ὤφειλεν κατὰ πάντα τοῖς ἀδελφοῖς ὁμοιωθῆναι, “Therefore he was obligated in all things to be made like his brothers.” ἵνα ἐλεήμων γένηται καὶ πιστὸς ἀρχιερεύς, “that he might become a merciful and faithful high priest” — the first mention of the great theme of Hebrews: Jesus our High Priest. Merciful toward us, faithful toward God. εἰς τὸ ἱλάσκεσθαι τὰς ἁμαρτίας τοῦ λαοῦ, “to make atonement for the sins of the people” — ἱλάσκομαι, to make propitiation: to deal with sin so that God's righteous anger is turned away.",
+      "words": [
+        {
+          "strongs": "G3784",
+          "hebrew": "ὀφείλω",
+          "translit": "opheílō",
+          "english": "obligated"
+        },
+        {
+          "strongs": "G3666",
+          "hebrew": "ὁμοιόω",
+          "translit": "homoióō",
+          "english": "made like"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G1655",
+          "hebrew": "ἐλεήμων",
+          "translit": "eleḗmōn",
+          "english": "merciful"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G749",
+          "hebrew": "ἀρχιερεύς",
+          "translit": "archiereús",
+          "english": "high priest"
+        },
+        {
+          "strongs": "G2433",
+          "hebrew": "ἱλάσκομαι",
+          "translit": "hiláskomai",
+          "english": "make atonement"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For in that he himself has suffered being tempted, he is able to help those who are tempted.",
+      "understanding": "ἐν ᾧ γὰρ πέπονθεν αὐτὸς πειρασθείς, “For in that he himself has suffered being tempted” — πειράζω, to test, to tempt. His temptations were real and they hurt. δύναται τοῖς πειραζομένοις βοηθῆσαι, “he is able to help those who are tempted” — βοηθέω, to run to the cry of someone in danger. He knows from the inside what you are facing, and He comes when you call.",
+      "words": [
+        {
+          "strongs": "G3958",
+          "hebrew": "πάσχω",
+          "translit": "páschō",
+          "english": "suffered"
+        },
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tempted"
+        },
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "able"
+        },
+        {
+          "strongs": "G997",
+          "hebrew": "βοηθέω",
+          "translit": "boēthéō",
+          "english": "help"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Drifting Boat",
+      "verseRef": "v. 1-3",
+      "image": "Picture a small boat tied loosely at a harbour wall. Its owner falls asleep in the warm sun. The rope slips, and the tide begins to draw the boat away — so slowly that there is no jolt, no sound. When he wakes, the harbour is a speck on the horizon and the current is carrying him toward the rocks. He never chose to leave; he simply stopped paying attention.",
+      "meaning": "“Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away” (v. 1). “how will we escape if we neglect so great a salvation” (v. 3). Drift is rarely dramatic. It happens through neglect: skipping prayer, ignoring Scripture, drifting from fellowship. Ask the Spirit to wake you if you are drifting, and to help you tie your life firmly to Christ."
+    },
+    {
+      "title": "We Don't See — But We See Jesus",
+      "verseRef": "v. 8-9",
+      "image": "Picture a battlefield after a long war. Smoke still hangs in the air; some enemy outposts still fire; the land is scarred. A soldier looks around and sees no sign that the war is won. Then a messenger points to the hill above the valley, where the victorious King stands, his banner raised, crowned with glory. The fighting is not yet over, but the outcome is certain because of who stands on that hill.",
+      "meaning": "“But now we don’t see all things subjected to him, yet” (v. 8). “But we see him who has been made a little lower than the angels, Jesus, because of the suffering of death crowned with glory and honor” (v. 9). The world still looks broken, and you may not see God's purposes fulfilled in your circumstances. But you can see Jesus, crowned after His suffering. Fix your eyes on Him."
+    },
+    {
+      "title": "The Elder Brother in the Family Photograph",
+      "verseRef": "v. 11-13",
+      "image": "Picture a large family gathered for a photograph: children of every age, some well dressed, some scruffy, some with scars and bandages. In the middle stands the eldest brother — famous, honoured, admired by everyone in the city. He could stand apart. Instead he puts his arms around the youngest and the most embarrassing, smiles broadly and says to the photographer, ‘These are my brothers and sisters.’",
+      "meaning": "“For both he who sanctifies and those who are sanctified are all from one, for which cause he is not ashamed to call them brothers” (v. 11). “Behold, here I am with the children whom God has given me” (v. 13). The Son whom angels worship is not ashamed of you. He became human to be part of your family and to bring you into His. Receive His welcome without shame."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The First Warning: Do Not Drift (v. 1-4)",
+        "body": "Because the Son is so great, we must pay closer attention to the gospel so that we do not drift away; if the law delivered by angels was binding and every violation punished, we will not escape if we neglect so great a salvation, first spoken by the Lord, confirmed by those who heard Him, and attested by God through signs, wonders, miracles and gifts of the Spirit."
+      },
+      {
+        "label": "Jesus, the True Man of Psalm 8 (v. 5-9)",
+        "body": "God did not subject the coming world to angels but to humanity, as Psalm 8 says; we do not yet see everything subject to humanity, but we see Jesus, made lower than the angels for a little while and now crowned with glory and honour because He suffered death, tasting death for everyone by the grace of God."
+      },
+      {
+        "label": "The Pioneer Who Became Our Brother (v. 10-18)",
+        "body": "It was fitting for God to perfect the pioneer of salvation through suffering; He and those He sanctifies share one family, and He is not ashamed to call them brothers; He shared flesh and blood to destroy the devil, who held the power of death, and to free those enslaved by fear of death; He was made like His brothers in every way to become a merciful and faithful high priest who makes atonement for sins and helps those who are tempted."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Do Not Drift Away",
+        "paragraphs": [
+          "Chapter 2 opens with the first of five warning passages in Hebrews. “Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away” (v. 1). The ‘therefore’ looks back to chapter 1: because the Son is so great, His message demands our full attention. The word for ‘drift’ pictures a boat slipping past the harbour, carried by the current. Drifting requires no effort; it only requires inattention.",
+          "The argument is from lesser to greater. The law given through angels at Sinai was binding: “every transgression and disobedience received a just recompense” (v. 2). Two sin-family words appear together: transgression, stepping over the line; and disobedience, refusing to hear. If ignoring the law brought judgement, “how will we escape if we neglect so great a salvation” (v. 3)? The message of the Son is greater than the message through angels, so neglecting it is more dangerous.",
+          "This salvation has the strongest possible credentials. Jesus Himself spoke it. Eyewitnesses confirmed it. And God added His own testimony “both by signs and wonders, by various works of power, and by gifts of the Holy Spirit, according to his own will” (v. 4). All three members of the signs family appear here together. Luke records the same in Acts, where the Lord “testified to the word of his grace, granting signs and wonders to be done by their hands” (Acts 14:3). The gospel is not a rumour; it came with God's own signature."
+        ]
+      },
+      {
+        "heading": "We See Jesus",
+        "paragraphs": [
+          "The writer turns to Psalm 8, which celebrates humanity's dignity: “What is man, that you think of him?” (v. 6). God made human beings a little lower than the angels and crowned them with glory, putting everything under their feet. That was the original design: humanity ruling creation for God. But the writer is honest: “But now we don’t see all things subjected to him, yet” (v. 8). Sin, suffering and death show that humanity has lost its crown.",
+          "Then comes the turning point: “But we see him who has been made a little lower than the angels, Jesus, because of the suffering of death crowned with glory and honor, that by the grace of God he should taste of death for everyone” (v. 9). Two see-family words make the point: we do not yet ‘see’ (ὁράω) the world restored, but we do ‘see’ (βλέπω) Jesus. He is the true Man of Psalm 8, who went down lower than the angels, tasted death on our behalf, and now wears the crown humanity lost.",
+          "This is how believers live in a broken world: not by pretending everything is fine, but by fixing their eyes on Jesus. What God intended for humanity has already been achieved in Him, and He will share it with His people. As Paul wrote, Christ “abolished death, and brought life and immortality to light through the Good News” (2 Timothy 1:10)."
+        ]
+      },
+      {
+        "heading": "The Pioneer Who Became Our Brother and Priest",
+        "paragraphs": [
+          "Why did the Son have to suffer? “For it became him, for whom are all things, and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings” (v. 10). The pioneer goes ahead and opens the way. ‘Perfect’ here belongs to the perfect family: it does not mean Jesus was once flawed, but that through suffering He was fully qualified as Saviour. And He joins Himself to us completely: “he is not ashamed to call them brothers” (v. 11). After the resurrection He told the women, “Go tell my brothers” (Matthew 28:10).",
+          "He shared our flesh and blood “that through death he might bring to nothing him who had the power of death, that is, the devil” (v. 14), “and might deliver all of them who through fear of death were all their lifetime subject to bondage” (v. 15). The devil's ‘power’ is κράτος, a grip or hold, not rightful authority. By dying, Jesus broke that grip. John says, “To this end the Son of God was revealed: that he might destroy the works of the devil” (1 John 3:8). Fear of death no longer needs to rule us.",
+          "Finally, Jesus “was obligated in all things to be made like his brothers, that he might become a merciful and faithful high priest in things pertaining to God, to make atonement for the sins of the people” (v. 17). Here the great theme of Hebrews first appears. Because He fully shared our humanity, He can represent us before God. And because He was tempted and suffered, “he is able to help those who are tempted” (v. 18). Your High Priest is not distant; He knows your struggle from the inside and runs to help when you call."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Victory Over Death and the Atoning Sacrifice",
+      "paragraphs": [
+        "Hebrews 2:14–15 announces the defeat of death that Paul celebrates: “Death is swallowed up in victory” (1 Corinthians 15:54). “Death, where is your sting? Hades, where is your victory?” (1 Corinthians 15:55). “But thanks be to God, who gives us the victory through our Lord Jesus Christ” (1 Corinthians 15:57). The risen Christ says, “I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades” (Revelation 1:18).",
+        "The ‘atonement’ of 2:17 (ἱλάσκομαι) belongs to a word group used across the New Testament for Christ's sacrifice that turns away God's wrath and removes sin. God sent Christ “to be an atoning sacrifice, through faith in his blood” (Romans 3:25). John writes, “And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world” (1 John 2:2), and “In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins” (1 John 4:10).",
+        "Jesus' brotherhood with His people runs through the Gospels and letters. God “predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers” (Romans 8:29). The risen Lord told Mary, “go to my brothers” (John 20:17). And His experience of temptation was real: “Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil” (Matthew 4:1). In Gethsemane, “Being in agony he prayed more earnestly” (Luke 22:44). He knows what it is to be tested."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Drift away / flow past",
+      "hebrew": "παραῤῥυέω",
+      "translit": "pararrhyéō",
+      "strongs": "G3901",
+      "verses": "v. 1",
+      "insight": "Strong's: “to flow by, i.e. (figuratively) carelessly pass (miss).” It was used of a ship drifting past a harbour, of a ring slipping off a finger, and of something slipping out of the memory. It appears only here in the New Testament. The danger it describes is gradual, unnoticed and caused by inattention rather than by deliberate rebellion. The cure is in the same verse: pay closer attention."
+    },
+    {
+      "english": "Neglect / be careless of",
+      "hebrew": "ἀμελέω",
+      "translit": "ameléō",
+      "strongs": "G272",
+      "verses": "v. 3",
+      "insight": "Strong's: “to be careless of.” It is used in Jesus' parable of the guests who ‘made light of’ the wedding invitation and went off to their farms and businesses. They did not attack the king; they simply did not care enough to come. Hebrews warns that the same indifference toward so great a salvation leaves no way of escape."
+    },
+    {
+      "english": "Author / pioneer / leader",
+      "hebrew": "ἀρχηγός",
+      "translit": "archēgós",
+      "strongs": "G747",
+      "verses": "v. 10",
+      "insight": "Strong's: “a chief leader.” It describes someone who goes first and opens the way for others: a founder of a city, a leader of a column, a trailblazer. Peter calls Jesus ‘the Prince of life’ with this word. In Hebrews 2:10 and 12:2, Jesus is the pioneer who has gone ahead of His people through suffering and death into glory, and who leads them along the same road."
+    },
+    {
+      "english": "Bring to nothing / render powerless",
+      "hebrew": "καταργέω",
+      "translit": "katargéō",
+      "strongs": "G2673",
+      "verses": "v. 14",
+      "insight": "Strong's: “to be (render) entirely idle (useless), literally or figuratively.” It means to put something out of action rather than to annihilate it. The devil still exists, but his grip — the power of death through guilt and fear — has been broken for those who belong to Christ. Paul uses the same word for death itself being ‘abolished’."
+    },
+    {
+      "english": "Make atonement / propitiate",
+      "hebrew": "ἱλάσκομαι",
+      "translit": "hiláskomai",
+      "strongs": "G2433",
+      "verses": "v. 17",
+      "insight": "Strong's: “to conciliate, i.e. (transitively) to atone for (sin), or (intransitively) be propitious.” The tax collector in Jesus' parable prayed with this word: ‘God, be merciful to me, a sinner.’ In Hebrews 2:17 Jesus, as High Priest, deals with sin in a way that satisfies God's justice and opens the way to His mercy. The related nouns describe Christ as the ‘atoning sacrifice’ in Romans 3:25 and 1 John 2:2."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit speaks to you about attention, hope in a broken world, and the brotherhood of Christ.",
+    "items": [
+      {
+        "title": "Pay Attention to What You Have Heard",
+        "body": "The Spirit is not condemning you, but gently warning against drift. Is there an area where you have stopped listening — to Scripture, to His conviction, to the counsel of believers? Ask Him to restore your attentiveness and to anchor you again to the gospel."
+      },
+      {
+        "title": "Look at Jesus When You Cannot See the Answer",
+        "body": "There may be things in your life that do not yet look subject to Christ: illness, injustice, unanswered prayer. The Spirit does not ask you to pretend. He asks you to see Jesus, crowned after suffering. Fix your eyes on Him and let His victory shape your hope."
+      },
+      {
+        "title": "Freedom From the Fear of Death",
+        "body": "Christ shared your humanity to break the grip of death and free you from lifelong fear. The Spirit wants to replace that fear with confidence. Bring Him your fears about death, loss or the unknown, and let Him remind you that your elder Brother has gone through death and holds its keys."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Drift Check",
+        "body": "Compare your spiritual habits now with a year ago. Where have you drifted? Name one practice to restore this week (vv. 1–3)."
+      },
+      {
+        "title": "The Fear Check",
+        "body": "What fears control your decisions — of death, loss, failure, people? Write them down and set verses 14–15 beside them."
+      },
+      {
+        "title": "The Temptation Check",
+        "body": "What temptation do you face most often? Next time it comes, pray immediately, ‘Lord Jesus, You were tempted too — help me,’ trusting verse 18."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Anchor Points",
+        "body": "Drift is prevented by anchors. Choose three daily anchors for the next month: a fixed time in Scripture, a moment of prayer at midday, and a short evening review. Also commit to one weekly anchor: gathering with believers. Write them on a card and keep it where you will see it each morning."
+      },
+      {
+        "title": "Brother-Language Prayer",
+        "body": "Jesus is not ashamed to call you His brother or sister. For a week, begin your prayers by thanking Him specifically for this: ‘Lord Jesus, thank You that You are not ashamed of me.’ Then ask yourself whether there is anyone in your church you have been ashamed of or kept at a distance, and take a step to treat them as family."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, I do not want to drift away. Help me pay close attention to the gospel I have heard. Forgive me for every way I have neglected so great a salvation. Thank You that this message was spoken by You, confirmed by those who heard, and attested by God with signs, wonders, works of power and gifts of the Holy Spirit. When I look at the world and do not yet see all things subject to You, help me to see You, crowned with glory and honour because You suffered death and tasted death for everyone by the grace of God. Thank You for becoming the pioneer of my salvation, made perfect through sufferings. Thank You that You are not ashamed to call me Your brother. You shared flesh and blood to destroy the devil's grip on death and to free me from the fear of death. You are my merciful and faithful High Priest, who made atonement for my sins. Because You were tempted, You are able to help me when I am tempted. Help me now. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Jesus Tempted in the Wilderness",
+      "ref": "Matthew 4:1-11",
+      "relatedVerses": "v. 17-18",
+      "summary": "After His baptism, “Jesus was led up by the Spirit into the wilderness to be tempted by the devil” (Matthew 4:1). After forty days of fasting He was hungry, and the devil tempted Him to turn stones into bread, to throw Himself from the temple, and to worship Satan in exchange for the kingdoms of the world. Each time Jesus answered from Scripture and refused. The devil left Him ‘until another time’. Hebrews 2:18 says that because Jesus suffered when tempted, He is able to help those who are tempted. He did not resist from a distance; He fought the battle in the same weakness of flesh that we have."
+    },
+    {
+      "title": "Gethsemane: Sharing Our Fear and Sorrow",
+      "ref": "Matthew 26:36-46; Luke 22:39-46",
+      "relatedVerses": "v. 14-18",
+      "summary": "On the night before He died, Jesus went with His disciples to Gethsemane. He told them, “My soul is exceedingly sorrowful, even to death. Stay here, and watch” (Mark 14:34). He fell on His face and prayed, “My Father, if it is possible, let this cup pass away from me; nevertheless, not what I desire, but what you desire” (Matthew 26:39). Luke writes, “Being in agony he prayed more earnestly” (Luke 22:44). Here we see Jesus fully sharing our flesh and blood, facing death with real anguish, yet trusting the Father. He knows the fear of death from the inside, which is why He can free us from it."
+    },
+    {
+      "title": "The Risen Lord Calls Them ‘My Brothers’",
+      "ref": "John 20:11-18; Matthew 28:8-10",
+      "relatedVerses": "v. 11-12",
+      "summary": "On the first Easter morning, Mary Magdalene stood weeping at the empty tomb. Jesus appeared to her and called her by name. Then He gave her a message: “go to my brothers” (John 20:17), and tell them He was ascending to His Father and theirs, His God and theirs. The same morning He told the women, “Go tell my brothers that they should go into Galilee, and there they will see me” (Matthew 28:10). The disciples had abandoned Him, yet the risen Lord called them brothers. Hebrews 2:11 explains why: He is not ashamed to call them brothers."
+    }
+  ]
+}

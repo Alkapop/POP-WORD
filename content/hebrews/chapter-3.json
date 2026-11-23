@@ -1,0 +1,980 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 3,
+  "chapterTitle": "Greater Than Moses: Today, Do Not Harden Your Hearts",
+  "themeTitle": "“Today If You Will Hear His Voice”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Therefore, holy brothers, partakers of a heavenly calling, consider the Apostle and High Priest of our confession, Jesus;",
+      "understanding": "ὅθεν, ἀδελφοὶ ἅγιοι, “Therefore, holy brothers” — the family language of 2:11 continues. κλήσεως ἐπουρανίου μέτοχοι, “partakers of a heavenly calling” — sharers in a call that comes from heaven and leads there. κατανοήσατε, “consider” — look closely, fix your mind on. τὸν ἀπόστολον καὶ ἀρχιερέα τῆς ὁμολογίας ἡμῶν Ἰησοῦν, “the Apostle and High Priest of our confession, Jesus” — the only place Jesus is called ‘apostle’: the one sent from God to us. As High Priest He represents us to God. Moses and Aaron held these two roles separately; Jesus holds both.",
+      "words": [
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G3353",
+          "hebrew": "μέτοχος",
+          "translit": "métochos",
+          "english": "partakers"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly"
+        },
+        {
+          "strongs": "G2821",
+          "hebrew": "κλῆσις",
+          "translit": "klēsis",
+          "english": "calling"
+        },
+        {
+          "strongs": "G2657",
+          "hebrew": "κατανοέω",
+          "translit": "katanoéō",
+          "english": "consider"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "Apostle"
+        },
+        {
+          "strongs": "G749",
+          "hebrew": "ἀρχιερεύς",
+          "translit": "archiereús",
+          "english": "High Priest"
+        },
+        {
+          "strongs": "G3671",
+          "hebrew": "ὁμολογία",
+          "translit": "homología",
+          "english": "confession"
+        },
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "who was faithful to him who appointed him, as also was Moses in all his house.",
+      "understanding": "πιστὸν ὄντα τῷ ποιήσαντι αὐτόν, “who was faithful to him who appointed him” — ποιέω, made or appointed. ὡς καὶ Μωϋσῆς ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ, “as also was Moses in all his house” — echoing God's words that Moses was ‘faithful in all my house’ (Numbers 12). The writer honours Moses before showing that Jesus is greater. οἶκος, ‘house’, means household: God's people.",
+      "words": [
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "appointed"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For he has been counted worthy of more glory than Moses, because he who built the house has more honor than the house.",
+      "understanding": "πλείονος γὰρ οὗτος δόξης παρὰ Μωϋσῆν ἠξίωται, “For he has been counted worthy of more glory than Moses.” Why? καθ᾽ ὅσον πλείονα τιμὴν ἔχει τοῦ οἴκου ὁ κατασκευάσας αὐτόν, “because he who built the house has more honor than the house.” Moses was part of the house; Jesus built it.",
+      "words": [
+        {
+          "strongs": "G4119",
+          "hebrew": "πλείων",
+          "translit": "pleíōn",
+          "english": "more"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G515",
+          "hebrew": "ἀξιόω",
+          "translit": "axióō",
+          "english": "counted worthy"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2680",
+          "hebrew": "κατασκευάζω",
+          "translit": "kataskeuázō",
+          "english": "built"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For every house is built by someone; but he who built all things is God.",
+      "understanding": "πᾶς γὰρ οἶκος κατασκευάζεται ὑπό τινος, “For every house is built by someone;” ὁ δὲ πάντα κατασκευάσας θεός, “but he who built all things is God.” A quiet but bold claim: if Jesus built the house (v. 3), and God built all things, then Jesus does the work of God (as 1:2 and 1:10 already said).",
+      "words": [
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2680",
+          "hebrew": "κατασκευάζω",
+          "translit": "kataskeuázō",
+          "english": "built"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Moses indeed was faithful in all his house as a servant, for a testimony of those things which were afterward to be spoken,",
+      "understanding": "καὶ Μωϋσῆς μὲν πιστὸς ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ ὡς θεράπων, “Moses indeed was faithful in all his house as a servant.” θεράπων from the servant family: not δοῦλος (slave) or διάκονος, but an honoured attendant, a trusted steward — the very word the Greek Old Testament uses for Moses. His role was εἰς μαρτύριον τῶν λαληθησομένων, “for a testimony of those things which were afterward to be spoken” — Moses pointed forward to Christ.",
+      "words": [
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2324",
+          "hebrew": "θεράπων",
+          "translit": "therápōn",
+          "english": "servant"
+        },
+        {
+          "strongs": "G3142",
+          "hebrew": "μαρτύριον",
+          "translit": "martýrion",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoken"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "but Christ is faithful as a Son over his house; whose house we are, if we hold fast our confidence and the glorying of our hope firm to the end.",
+      "understanding": "Χριστὸς δὲ ὡς υἱὸς ἐπὶ τὸν οἶκον αὐτοῦ, “but Christ is faithful as a Son over his house.” Servant in the house versus Son over the house. οὗ οἶκός ἐσμεν ἡμεῖς, “whose house we are” — the household is not a building but the people of God. Then a condition: ἐὰν τὴν παρρησίαν καὶ τὸ καύχημα τῆς ἐλπίδος μέχρι τέλους βεβαίαν κατάσχωμεν, “if we hold fast our confidence and the glorying of our hope firm to the end.” κατέχω from the hold family: keep a firm grip. Perseverance does not earn our place; it shows that we truly belong.",
+      "words": [
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2722",
+          "hebrew": "κατέχω",
+          "translit": "katéchō",
+          "english": "hold fast"
+        },
+        {
+          "strongs": "G3954",
+          "hebrew": "παῤῥησία",
+          "translit": "parrhēsía",
+          "english": "confidence"
+        },
+        {
+          "strongs": "G2745",
+          "hebrew": "καύχημα",
+          "translit": "kaúchēma",
+          "english": "glorying"
+        },
+        {
+          "strongs": "G1680",
+          "hebrew": "ἐλπίς",
+          "translit": "elpís",
+          "english": "hope"
+        },
+        {
+          "strongs": "G949",
+          "hebrew": "βέβαιος",
+          "translit": "bébaios",
+          "english": "firm"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "télos",
+          "english": "end"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Therefore, even as the Holy Spirit says, “Today if you will hear his voice,",
+      "understanding": "διό, καθὼς λέγει τὸ πνεῦμα τὸ ἅγιον, “Therefore, even as the Holy Spirit says” — present tense: the Spirit still speaks through the psalm written long ago. The quotation is Psalm 95: “Today if you will hear his voice.” σήμερον from the time family: the word this whole section turns on (3:7–4:11). The day of opportunity is now.",
+      "words": [
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "Holy"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G4594",
+          "hebrew": "σήμερον",
+          "translit": "sḗmeron",
+          "english": "Today"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "don’t harden your hearts, as in the rebellion, like as in the day of the trial in the wilderness,",
+      "understanding": "μὴ σκληρύνητε τὰς καρδίας ὑμῶν, “don’t harden your hearts” — σκληρύνω, to make stiff and stubborn (the root of ‘sclerosis’). ὡς ἐν τῷ παραπικρασμῷ, “as in the rebellion” — literally ‘the embitterment’, the Greek translation of the place name Meribah. κατὰ τὴν ἡμέραν τοῦ πειρασμοῦ ἐν τῇ ἐρήμῳ, “like as in the day of the trial in the wilderness” — the Greek for Massah. At those places Israel quarrelled with God over water (Exodus 17).",
+      "words": [
+        {
+          "strongs": "G4645",
+          "hebrew": "σκληρύνω",
+          "translit": "sklērýnō",
+          "english": "harden"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G3894",
+          "hebrew": "παραπικρασμός",
+          "translit": "parapikrasmós",
+          "english": "rebellion"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G3986",
+          "hebrew": "πειρασμός",
+          "translit": "peirasmós",
+          "english": "trial"
+        },
+        {
+          "strongs": "G2048",
+          "hebrew": "ἔρημος",
+          "translit": "érēmos",
+          "english": "wilderness"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "where your fathers tested me by proving me, and saw my deeds for forty years.",
+      "understanding": "οὗ ἐπείρασαν οἱ πατέρες ὑμῶν ἐν δοκιμασίᾳ, “where your fathers tested me by proving me” — they put God on trial. καὶ εἶδον τὰ ἔργα μου τεσσεράκοντα ἔτη, “and saw my deeds for forty years.” ἔργον from the work family: manna every morning, water from the rock, the pillar of cloud and fire. They saw everything — and still did not trust. Seeing miracles does not create faith in a hardened heart.",
+      "words": [
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "fathers"
+        },
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tested"
+        },
+        {
+          "strongs": "G1381",
+          "hebrew": "δοκιμάζω",
+          "translit": "dokimázō",
+          "english": "proving"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "deeds"
+        },
+        {
+          "strongs": "G5062",
+          "hebrew": "τεσσαράκοντα",
+          "translit": "tessarákonta",
+          "english": "forty"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Therefore I was displeased with that generation, and said, ‘They always err in their heart, but they didn’t know my ways;’",
+      "understanding": "διὸ προσώχθισα τῇ γενεᾷ ἐκείνῃ, “Therefore I was displeased with that generation” — deeply grieved and offended. καὶ εἶπον, ‘Ἀεὶ πλανῶνται τῇ καρδίᾳ,’ “and said, ‘They always err in their heart’” — πλανάω, to wander off course. αὐτοὶ δὲ οὐκ ἔγνωσαν τὰς ὁδούς μου, “but they didn’t know my ways” — γινώσκω from the know family: they saw His works but never came to know Him personally.",
+      "words": [
+        {
+          "strongs": "G4360",
+          "hebrew": "προσοχθίζω",
+          "translit": "prosochthízō",
+          "english": "displeased"
+        },
+        {
+          "strongs": "G1074",
+          "hebrew": "γενεά",
+          "translit": "geneá",
+          "english": "generation"
+        },
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "err"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G3598",
+          "hebrew": "ὁδός",
+          "translit": "hodós",
+          "english": "ways"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "as I swore in my wrath, ‘They will not enter into my rest.’”",
+      "understanding": "ὡς ὤμοσα ἐν τῇ ὀργῇ μου, “as I swore in my wrath,” ‘Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου,’ “‘They will not enter into my rest.’” κατάπαυσις from the new rest family: a settling down to stay. For Israel it meant the promised land of Canaan. The writer will show that God's rest is deeper than Canaan (4:8–10).",
+      "words": [
+        {
+          "strongs": "G3660",
+          "hebrew": "ὀμνύω",
+          "translit": "omnýō",
+          "english": "swore"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G2663",
+          "hebrew": "κατάπαυσις",
+          "translit": "katápausis",
+          "english": "rest"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Beware, brothers, lest perhaps there be in any one of you an evil heart of unbelief, in falling away from the living God;",
+      "understanding": "βλέπετε, ἀδελφοί, “Beware, brothers” — βλέπω, to look, here ‘watch out’. μήποτε ἔσται ἔν τινι ὑμῶν καρδία πονηρὰ ἀπιστίας, “lest perhaps there be in any one of you an evil heart of unbelief” — πονηρός from the evil family: actively wicked. Unbelief is not a neutral intellectual problem but a heart turning against God. ἐν τῷ ἀποστῆναι ἀπὸ θεοῦ ζῶντος, “in falling away from the living God” — ἀφίστημι, to stand away from, the root of ‘apostasy’. It is the second warning of the letter.",
+      "words": [
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "Beware"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G4190",
+          "hebrew": "πονηρός",
+          "translit": "ponērós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G570",
+          "hebrew": "ἀπιστία",
+          "translit": "apistía",
+          "english": "unbelief"
+        },
+        {
+          "strongs": "G868",
+          "hebrew": "ἀφίστημι",
+          "translit": "aphístēmi",
+          "english": "falling away"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "living"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "but exhort one another day by day, so long as it is called “today”; lest any one of you be hardened by the deceitfulness of sin.",
+      "understanding": "ἀλλὰ παρακαλεῖτε ἑαυτοὺς καθ᾽ ἑκάστην ἡμέραν, “but exhort one another day by day” — the remedy for a hardening heart is daily mutual encouragement. ἄχρις οὗ τὸ ‘σήμερον’ καλεῖται, “so long as it is called ‘today’” — while there is still time. ἵνα μὴ σκληρυνθῇ τις ἐξ ὑμῶν ἀπάτῃ τῆς ἁμαρτίας, “lest any one of you be hardened by the deceitfulness of sin.” ἁμαρτία from the sin family: sin does not announce itself; it deceives, promising what it cannot give, until the heart is stiff.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G4594",
+          "hebrew": "σήμερον",
+          "translit": "sḗmeron",
+          "english": "today"
+        },
+        {
+          "strongs": "G4645",
+          "hebrew": "σκληρύνω",
+          "translit": "sklērýnō",
+          "english": "hardened"
+        },
+        {
+          "strongs": "G539",
+          "hebrew": "ἀπάτη",
+          "translit": "apátē",
+          "english": "deceitfulness"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "For we have become partakers of Christ, if we hold fast the beginning of our confidence firm to the end:",
+      "understanding": "μέτοχοι γὰρ τοῦ Χριστοῦ γεγόναμεν, “For we have become partakers of Christ” — sharers in Him, His companions (the word of 1:9 and 3:1). ἐάνπερ τὴν ἀρχὴν τῆς ὑποστάσεως μέχρι τέλους βεβαίαν κατάσχωμεν, “if we hold fast the beginning of our confidence firm to the end.” κατέχω again from the hold family. ὑπόστασις, ‘confidence’, is the same word as ‘substance’ in 1:3 and ‘assurance’ in 11:1: the solid ground under our feet. Holding to the end is the evidence that we really have become partakers.",
+      "words": [
+        {
+          "strongs": "G3353",
+          "hebrew": "μέτοχος",
+          "translit": "métochos",
+          "english": "partakers"
+        },
+        {
+          "strongs": "G746",
+          "hebrew": "ἀρχή",
+          "translit": "archḗ",
+          "english": "beginning"
+        },
+        {
+          "strongs": "G5287",
+          "hebrew": "ὑπόστασις",
+          "translit": "hypóstasis",
+          "english": "confidence"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "télos",
+          "english": "end"
+        },
+        {
+          "strongs": "G949",
+          "hebrew": "βέβαιος",
+          "translit": "bébaios",
+          "english": "firm"
+        },
+        {
+          "strongs": "G2722",
+          "hebrew": "κατέχω",
+          "translit": "katéchō",
+          "english": "hold fast"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "while it is said, “Today if you will hear his voice, don’t harden your hearts, as in the rebellion.”",
+      "understanding": "ἐν τῷ λέγεσθαι, “while it is said” — the writer repeats Psalm 95 to press it home: “Today if you will hear his voice, don’t harden your hearts, as in the rebellion.” Every time the gospel is heard, it is ‘today’ for the hearer.",
+      "words": [
+        {
+          "strongs": "G4594",
+          "hebrew": "σήμερον",
+          "translit": "sḗmeron",
+          "english": "Today"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G4645",
+          "hebrew": "σκληρύνω",
+          "translit": "sklērýnō",
+          "english": "harden"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G3894",
+          "hebrew": "παραπικρασμός",
+          "translit": "parapikrasmós",
+          "english": "rebellion"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "For who, when they heard, rebelled? No, didn’t all those who came out of Egypt by Moses?",
+      "understanding": "Three searching questions follow. τίνες γὰρ ἀκούσαντες παρεπίκραναν; “For who, when they heard, rebelled?” — παραπικραίνω, embittered God. ἀλλ᾽ οὐ πάντες οἱ ἐξελθόντες ἐξ Αἰγύπτου διὰ Μωϋσέως; “No, didn’t all those who came out of Egypt by Moses?” The shocking answer: the very people who had been rescued. Being redeemed from Egypt did not guarantee entering Canaan.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G3893",
+          "hebrew": "παραπικραίνω",
+          "translit": "parapikraínō",
+          "english": "rebelled"
+        },
+        {
+          "strongs": "G1831",
+          "hebrew": "ἐξέρχομαι",
+          "translit": "exérchomai",
+          "english": "came out"
+        },
+        {
+          "strongs": "G125",
+          "hebrew": "Αἴγυπτος",
+          "translit": "Aígyptos",
+          "english": "Egypt"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "With whom was he displeased forty years? Wasn’t it with those who sinned, whose bodies fell in the wilderness?",
+      "understanding": "τίσιν δὲ προσώχθισεν τεσσεράκοντα ἔτη; “With whom was he displeased forty years?” οὐχὶ τοῖς ἁμαρτήσασιν, “Wasn’t it with those who sinned” — ἁμαρτάνω, the sin family's verb: they missed the mark. ὧν τὰ κῶλα ἔπεσεν ἐν τῇ ἐρήμῳ, “whose bodies fell in the wilderness?” κῶλον, a limb, a corpse: a whole generation buried in the desert.",
+      "words": [
+        {
+          "strongs": "G4360",
+          "hebrew": "προσοχθίζω",
+          "translit": "prosochthízō",
+          "english": "displeased"
+        },
+        {
+          "strongs": "G5062",
+          "hebrew": "τεσσαράκοντα",
+          "translit": "tessarákonta",
+          "english": "forty"
+        },
+        {
+          "strongs": "G264",
+          "hebrew": "ἁμαρτάνω",
+          "translit": "hamartánō",
+          "english": "sinned"
+        },
+        {
+          "strongs": "G2966",
+          "hebrew": "κῶλον",
+          "translit": "kōlon",
+          "english": "bodies"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell"
+        },
+        {
+          "strongs": "G2048",
+          "hebrew": "ἔρημος",
+          "translit": "érēmos",
+          "english": "wilderness"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "To whom did he swear that they wouldn’t enter into his rest, but to those who were disobedient?",
+      "understanding": "τίσιν δὲ ὤμοσεν μὴ εἰσελεύσεσθαι εἰς τὴν κατάπαυσιν αὐτοῦ, “To whom did he swear that they wouldn’t enter into his rest,” εἰ μὴ τοῖς ἀπειθήσασιν; “but to those who were disobedient?” ἀπειθέω, to refuse to be persuaded. κατάπαυσις from the rest family. Notice how verse 18 says ‘disobedient’ and verse 19 says ‘unbelief’: the two are one. Unbelief shows itself as disobedience.",
+      "words": [
+        {
+          "strongs": "G3660",
+          "hebrew": "ὀμνύω",
+          "translit": "omnýō",
+          "english": "swear"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G2663",
+          "hebrew": "κατάπαυσις",
+          "translit": "katápausis",
+          "english": "rest"
+        },
+        {
+          "strongs": "G544",
+          "hebrew": "ἀπειθέω",
+          "translit": "apeithéō",
+          "english": "disobedient"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "We see that they were not able to enter in because of unbelief.",
+      "understanding": "καὶ βλέπομεν ὅτι οὐκ ἠδυνήθησαν εἰσελθεῖν δι᾽ ἀπιστίαν, “We see that they were not able to enter in because of unbelief.” βλέπω, from the see family: we see it plainly in the record. The issue was not the strength of the Canaanites or the size of the walls, but ἀπιστία, unbelief. They could not enter because they would not trust.",
+      "words": [
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "see"
+        },
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "able"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G570",
+          "hebrew": "ἀπιστία",
+          "translit": "apistía",
+          "english": "unbelief"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Servant and the Son",
+      "verseRef": "v. 1-6",
+      "image": "Picture a great household in the ancient world. The chief steward is a man of total integrity: he manages the accounts, cares for the servants, keeps every room in order. Everyone respects him. Then the master's son arrives — the heir, the one who will own everything, who in fact designed and built the house itself. The steward bows. He has served faithfully, but the house belongs to the son, and the steward's whole task was to keep it ready for him.",
+      "meaning": "“Moses indeed was faithful in all his house as a servant, for a testimony of those things which were afterward to be spoken” (v. 5), “but Christ is faithful as a Son over his house; whose house we are” (v. 6). Moses was the greatest servant of the old covenant, and he pointed to Christ. Jesus is the Son and Builder. You belong to His house. Ask the Spirit to deepen your loyalty to the Son over the house."
+    },
+    {
+      "title": "Graves in the Desert",
+      "verseRef": "v. 16-19",
+      "image": "Picture a long line of travellers leaving Egypt, singing on the far shore of the Red Sea, their former slave-masters drowned behind them. Then picture forty years later: the same desert, but now dotted with thousands of graves. The people who sang of deliverance never reached the land they were promised. Their children, standing at the edge of Canaan, look back at the graves and remember why.",
+      "meaning": "“For who, when they heard, rebelled? No, didn’t all those who came out of Egypt by Moses?” (v. 16). “We see that they were not able to enter in because of unbelief” (v. 19). They experienced great deliverance and saw great miracles, yet unbelief kept them out. The warning is not meant to make you anxious but watchful. Keep trusting the God who brought you out."
+    },
+    {
+      "title": "Today",
+      "verseRef": "v. 7-8, 13-15",
+      "image": "Picture a calendar on the wall with every page torn off except one. On that remaining page is written a single word: TODAY. Yesterday's opportunities are gone; tomorrow's are not promised. Each morning, the page is the same. And on it, in quiet handwriting, is an invitation: ‘If you will hear his voice…’",
+      "meaning": "“Today if you will hear his voice, don’t harden your hearts” (v. 15). “but exhort one another day by day, so long as it is called ‘today’” (v. 13). The time to respond to God is always now. Hardness grows when we postpone obedience. Ask the Spirit what He is saying to you today, and respond while your heart is soft."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Jesus Greater Than Moses (v. 1-6)",
+        "body": "Believers are called to consider Jesus, the Apostle and High Priest of their confession, who was faithful like Moses but worthy of greater glory, as the builder is greater than the house; Moses was faithful in God's house as a servant, Christ as a Son over it, and believers are His house if they hold fast their confidence and hope to the end."
+      },
+      {
+        "label": "The Warning of Psalm 95 (v. 7-11)",
+        "body": "The Holy Spirit warns through Psalm 95: today, if you hear His voice, do not harden your hearts as Israel did in the wilderness, where they tested God for forty years despite seeing His works, so that He swore they would not enter His rest."
+      },
+      {
+        "label": "Do Not Fall Away Through Unbelief (v. 12-19)",
+        "body": "Believers must beware of an evil, unbelieving heart that turns away from the living God, encourage one another daily while it is called today, and hold their original confidence firm to the end; the wilderness generation, though rescued from Egypt, rebelled, sinned and disobeyed, and could not enter God's rest because of unbelief."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Greater Than Moses",
+        "paragraphs": [
+          "After showing Jesus greater than the angels, the writer compares Him with Moses, the most revered figure in Israel's history. He does not belittle Moses. Both were faithful: Jesus “was faithful to him who appointed him, as also was Moses in all his house” (v. 2). But Jesus is “counted worthy of more glory than Moses, because he who built the house has more honor than the house” (v. 3). Moses was part of God's household; Jesus built it. As John says, “For the law was given through Moses. Grace and truth were realized through Jesus Christ” (John 1:17).",
+          "The key difference is between servant and Son. Moses served faithfully “as a servant” (v. 5) — θεράπων, an honoured attendant — and his whole ministry was “for a testimony of those things which were afterward to be spoken” (v. 5). He pointed forward. “but Christ is faithful as a Son over his house” (v. 6). For readers tempted to go back to the religion of Moses, the point is clear: why return to the servant when you belong to the Son?",
+          "And believers are the house: “whose house we are, if we hold fast our confidence and the glorying of our hope firm to the end” (v. 6). The ‘if’ is not a threat to the secure but a test of the genuine. Those who truly belong to Christ's household show it by holding on. The hold-family word κατέχω pictures a firm grip that does not let go."
+        ]
+      },
+      {
+        "heading": "Today, Do Not Harden Your Hearts",
+        "paragraphs": [
+          "Now the writer quotes Psalm 95, introducing it with “even as the Holy Spirit says” (v. 7) — not ‘said’. Scripture is the Spirit's living voice now. The psalm recalls Israel's rebellion in the wilderness, at the places called Meribah (‘quarrelling’) and Massah (‘testing’), where the people demanded water and accused God of abandoning them. They “saw my deeds for forty years” (v. 9), yet their hearts went astray. God's verdict: “They will not enter into my rest” (v. 11).",
+          "Paul draws the same lesson in 1 Corinthians: “Now these things were our examples, to the intent we should not lust after evil things, as they also lusted” (1 Corinthians 10:6), and “Now all these things happened to them by way of example, and they were written for our admonition” (1 Corinthians 10:11). He warns, “Therefore let him who thinks he stands be careful that he doesn’t fall” (1 Corinthians 10:12). Israel's history is a mirror held up to the church.",
+          "The heart of the warning is ‘today’. The opportunity to respond to God's voice is always in the present. Hardness is not usually a single decision but a process: each time we refuse God's voice, our hearts grow a little stiffer. That is why the psalm says, “don’t harden your hearts” (v. 8) — it is something we do to ourselves."
+        ]
+      },
+      {
+        "heading": "The Cure for Hard Hearts: Daily Encouragement",
+        "paragraphs": [
+          "The second warning of the letter follows: “Beware, brothers, lest perhaps there be in any one of you an evil heart of unbelief, in falling away from the living God” (v. 12). Unbelief is not merely intellectual doubt; it is a heart turning away from God. The word ‘falling away’ is the root of our ‘apostasy’. The writer is concerned for ‘any one of you’ — each individual in the community matters.",
+          "The remedy is community: “but exhort one another day by day, so long as it is called ‘today’; lest any one of you be hardened by the deceitfulness of sin” (v. 13). Sin deceives; it does not show its true face. We need others to see what we cannot see in ourselves and to call us back. Paul urged the Thessalonians, “Therefore exhort one another, and build each other up” (1 Thessalonians 5:11). Isolated believers are vulnerable; encouraged believers endure.",
+          "The chapter ends with three questions that expose the danger. Who rebelled? The people rescued from Egypt. With whom was God angry? Those who sinned. Whom did He bar from His rest? Those who disobeyed. “We see that they were not able to enter in because of unbelief” (v. 19). Unbelief and disobedience are two sides of one coin. The good news is that the same verses offer the remedy: hear His voice today, keep your heart soft, encourage one another, and hold fast to the end."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Wilderness Lessons for the Church",
+      "paragraphs": [
+        "Stephen summarised Israel's wilderness story before the council: Moses “led them out, having worked wonders and signs in Egypt, in the Red Sea, and in the wilderness for forty years” (Acts 7:36), yet “our fathers wouldn’t be obedient, but rejected him, and turned back in their hearts to Egypt” (Acts 7:39). Paul says that though all passed through the sea, “with most of them, God was not well pleased, for they were overthrown in the wilderness” (1 Corinthians 10:5).",
+        "Yet the warnings come with promises. “No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it” (1 Corinthians 10:13). Hebrews itself later calls believers to encourage one another: “not forsaking our own assembling together, as the custom of some is, but exhorting one another” (Hebrews 10:25).",
+        "The link between unbelief and disobedience appears in John's Gospel: “One who believes in the Son has eternal life, but one who disobeys the Son won’t see life, but the wrath of God remains on him” (John 3:36). Believing and obeying are inseparable. And the call to be doers, not just hearers, echoes James: “But be doers of the word, and not only hearers, deluding your own selves” (James 1:22)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Consider / observe fully",
+      "hebrew": "κατανοέω",
+      "translit": "katanoéō",
+      "strongs": "G2657",
+      "verses": "v. 1",
+      "insight": "Strong's: “to observe fully.” It means to look closely and think carefully, to fix your attention. Jesus used it when He told His disciples to ‘consider the ravens’ and ‘consider the lilies’. Hebrews calls believers to consider Jesus (3:1), and later to consider one another (10:24). The cure for drift and hardness is a long, attentive look at Christ."
+    },
+    {
+      "english": "Servant / honoured attendant",
+      "hebrew": "θεράπων",
+      "translit": "therápōn",
+      "strongs": "G2324",
+      "verses": "v. 5",
+      "insight": "Strong's: “a menial attendant (as if cherishing).” It appears only here in the New Testament. In the Greek Old Testament it is used of Moses as God's trusted servant. It is a word of honour, not contempt: a servant close to the master. Yet even the most honoured servant is not the Son. This study tags it in the servant family beside δοῦλος and διάκονος."
+    },
+    {
+      "english": "Harden / make stubborn",
+      "hebrew": "σκληρύνω",
+      "translit": "sklērýnō",
+      "strongs": "G4645",
+      "verses": "v. 8, 13, 15",
+      "insight": "Strong's: “to indurate, i.e. (figuratively) render stubborn.” It is used of Pharaoh's heart and of people in Ephesus who ‘were hardened and disobedient’ to Paul's preaching. The related noun gives medicine the word ‘sclerosis’, a hardening of tissue. Spiritual hardness develops gradually as warnings are ignored. The psalm puts the responsibility on us: do not harden your hearts."
+    },
+    {
+      "english": "Deceitfulness / delusion",
+      "hebrew": "ἀπάτη",
+      "translit": "apátē",
+      "strongs": "G539",
+      "verses": "v. 13",
+      "insight": "Strong's: “delusion.” Jesus spoke of ‘the deceitfulness of riches’ choking the word. Sin deceives by promising pleasure, freedom or fulfilment, while hiding its cost. Hebrews says the result is a hardened heart. That is why believers need daily encouragement from others: we are poor judges of our own deception."
+    },
+    {
+      "english": "Unbelief / faithlessness",
+      "hebrew": "ἀπιστία",
+      "translit": "apistía",
+      "strongs": "G570",
+      "verses": "v. 12, 19",
+      "insight": "Strong's: “faithlessness, i.e. (negatively) disbelief (lack of Christian faith), or (positively) unfaithfulness (disobedience).” Hebrews connects it closely with disobedience (3:18–19). Unbelief is not simply a lack of information; it is a refusal to trust and obey the God who has spoken. It kept the wilderness generation out of Canaan, and the writer urges his readers not to repeat their mistake."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Holy Spirit speaks through this chapter about who Jesus is, about the danger of a hard heart, and about the gift of community.",
+    "items": [
+      {
+        "title": "Consider Jesus",
+        "body": "The Spirit invites you to take a long, careful look at Jesus — the Apostle sent from God to you and the High Priest who represents you to God. Many struggles begin when our eyes drift from Him. Set aside time to consider Him today, and let the sight of His faithfulness strengthen yours."
+      },
+      {
+        "title": "What Is He Saying Today?",
+        "body": "The Spirit still speaks. Is there something He has been saying that you have postponed or resisted — a step of obedience, a confession, a reconciliation? Do not let your heart grow stiff through delay. Respond today, while your heart is soft."
+      },
+      {
+        "title": "You Need Your Brothers and Sisters",
+        "body": "Sin is deceitful, and you cannot always see your own hardening. The Spirit has placed you in a community so that others can encourage and warn you, and so that you can do the same for them. Ask Him whom you should encourage today, and whom you should invite to speak honestly into your life."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Hearing Check",
+        "body": "Has God been speaking to you about something you have not yet obeyed? Write it down and decide on one step of obedience today (vv. 7–8, 15)."
+      },
+      {
+        "title": "The Encouragement Check",
+        "body": "When did you last encourage another believer to keep going in faith? Who encourages you? Identify one gap and fill it this week (v. 13)."
+      },
+      {
+        "title": "The Deception Check",
+        "body": "Is there a sin you have been excusing or minimising? Ask a trusted believer to pray with you about it, because sin deceives (v. 13)."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Daily ‘Today’ Encouragement",
+        "body": "For the next thirty days, send one message of genuine spiritual encouragement each day to a different believer: a verse, a prayer, a note of thanks for their faithfulness. Keep a list of names. You are obeying verse 13 and helping protect others from hardening."
+      },
+      {
+        "title": "Consider Jesus Journal",
+        "body": "Each evening this week, write one sentence about something you noticed about Jesus in Scripture that day — His faithfulness, His authority, His compassion. At the end of the week, read the list and thank Him. Let ‘considering Jesus’ become a habit that steadies your heart."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, I fix my eyes on You, the Apostle and High Priest of my confession. You were faithful to the Father who appointed You, and You are worthy of more glory than Moses, because You built the house. Thank You that I belong to Your household. Help me hold fast my confidence and the hope I boast in, firm to the end. Holy Spirit, You are speaking today. Give me ears to hear Your voice, and keep me from hardening my heart as Israel did in the wilderness. Guard me from an evil heart of unbelief that turns away from the living God. Expose the deceitfulness of sin in my life. Give me brothers and sisters who will encourage me daily, and make me an encourager of others while it is still called today. I do not want to be like those who saw Your works but did not know Your ways. Teach me to trust You and to obey You, so that I may enter into Your rest. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Water From the Rock at Massah and Meribah",
+      "ref": "Exodus 17:1-7",
+      "relatedVerses": "v. 8-9",
+      "summary": "Not long after crossing the Red Sea, the Israelites camped at Rephidim, where there was no water. Instead of asking God for help, they quarrelled with Moses and accused him of bringing them out of Egypt to kill them with thirst. Moses cried to the LORD, who told him to strike the rock at Horeb, and water flowed out for the people. Moses named the place Massah (‘testing’) and Meribah (‘quarrelling’), because the Israelites tested the LORD, asking, ‘Is the LORD among us or not?’ Psalm 95, quoted in Hebrews 3, recalls this moment as the pattern of a hardened heart: seeing God's works, yet doubting His goodness."
+    },
+    {
+      "title": "Refusing to Enter Canaan",
+      "ref": "Numbers 13-14",
+      "relatedVerses": "v. 16-19",
+      "summary": "When Israel reached the edge of Canaan, Moses sent twelve spies. They returned with fruit from a land flowing with milk and honey, but ten of them said the people were too strong and the cities too fortified. Only Joshua and Caleb urged the people to trust God. The people wept, grumbled, wanted to choose a leader to take them back to Egypt, and even talked of stoning Joshua and Caleb. God declared that this generation would wander in the wilderness for forty years until they died, and only Joshua, Caleb and the children would enter. Hebrews 3:19 sums it up: they could not enter because of unbelief."
+    },
+    {
+      "title": "Moses, Faithful in God's House",
+      "ref": "Numbers 12:1-8",
+      "relatedVerses": "v. 2, 5",
+      "summary": "Miriam and Aaron spoke against Moses, asking whether the LORD had spoken only through him. God called the three of them to the tent of meeting and declared that while He spoke to prophets in visions and dreams, with Moses He spoke face to face, because Moses was ‘faithful in all my house’. Hebrews 3 quotes this description and honours Moses for it. Yet it shows that Jesus is greater: Moses was faithful as a servant in God's house; Jesus is faithful as the Son over it."
+    }
+  ]
+}

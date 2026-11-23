@@ -75,6 +75,30 @@
           "sense": "The authority of a command — an order given with the right to give it. In Titus 2:15 the WEB renders it ‘authority’, but it is not ἐξουσία: it is the weight of God’s commandment behind the teacher (the same word is ‘commandment’ in Titus 1:3).",
           "anchor": "Titus 2:15",
           "en": "authority"
+        },
+        {
+          "strongs": "G1756",
+          "sense": "Active, effective, at work — the adjective of ἐνέργεια: God’s word is not inert but operating.",
+          "anchor": "Hebrews 4:12",
+          "en": "active"
+        },
+        {
+          "strongs": "G1412",
+          "sense": "To be made strong, empowered — from δύναμις: the heroes of faith ‘from weakness were made strong’ (Hebrews 11:34).",
+          "anchor": "Hebrews 11:34",
+          "en": "strong"
+        },
+        {
+          "strongs": "G2478",
+          "sense": "Strong, mighty — the adjective of ἰσχύς: physical or moral strength (Hebrews 11:34 ‘mighty in war’).",
+          "anchor": "Hebrews 11:34",
+          "en": "mighty"
+        },
+        {
+          "strongs": "G1410",
+          "sense": "To be able, to have power to — the everyday verb of the δύναμις family.",
+          "anchor": "Hebrews 7:25",
+          "en": "able"
         }
       ]
     },
@@ -121,7 +145,7 @@
         "age",
         "day"
       ],
-      "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2.",
+      "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
         {
           "strongs": "G5550",
@@ -164,6 +188,30 @@
           "sense": "Day — a literal day, and ‘the day’ of the Lord's return and judgment.",
           "anchor": "1 Thessalonians 5:2",
           "en": "day"
+        },
+        {
+          "strongs": "G2121",
+          "sense": "Well-timed — εὖ + καιρός: help that arrives at exactly the right moment.",
+          "anchor": "Hebrews 4:16",
+          "en": "time of need"
+        },
+        {
+          "strongs": "G4340",
+          "sense": "For a season, temporary — πρός + καιρός: lasting only for a time, like the ‘pleasures of sin for a time’ Moses refused (Hebrews 11:25).",
+          "anchor": "Hebrews 11:25",
+          "en": "time"
+        },
+        {
+          "strongs": "G4594",
+          "sense": "Today — this very day. In Hebrews it is the day of opportunity to hear God’s voice (3:7–4:11), and the ‘today’ of Christ who is the same yesterday, today and forever (13:8).",
+          "anchor": "Hebrews 4:7",
+          "en": "today"
+        },
+        {
+          "strongs": "G5549",
+          "sense": "To take time, delay — from χρόνος: ‘he will not wait’ (Hebrews 10:37).",
+          "anchor": "Hebrews 10:37",
+          "en": "wait"
         }
       ]
     },
@@ -268,6 +316,18 @@
           "sense": "‘Love of humankind’ (the root of ‘philanthropy’): kindness toward people as people. Titus 3:4 uses it of God Himself.",
           "anchor": "Titus 3:4",
           "en": "love toward mankind"
+        },
+        {
+          "strongs": "G5381",
+          "sense": "‘Love of strangers’ — hospitality: opening home and table to guests (Hebrews 13:2; the noun of φιλόξενος).",
+          "anchor": "Hebrews 13:2",
+          "en": "hospitality"
+        },
+        {
+          "strongs": "G866",
+          "sense": "‘Not a lover of money’ — free from greed; the opposite of φιλάργυρος.",
+          "anchor": "Hebrews 13:5",
+          "en": "love of money"
         }
       ]
     },
@@ -304,6 +364,18 @@
           "sense": "Full, precise knowledge — ἐπί (upon) + γνῶσις: knowledge that grips and transforms.",
           "anchor": "Colossians 1:9",
           "en": "knowledge"
+        },
+        {
+          "strongs": "G1987",
+          "sense": "To know well, understand, be acquainted with — Abraham went out ‘not knowing’ where he was going (Hebrews 11:8).",
+          "anchor": "Hebrews 11:8",
+          "en": "knowing"
+        },
+        {
+          "strongs": "G1921",
+          "sense": "To know fully, recognise — the verb of ἐπίγνωσις: knowledge that grasps and acknowledges.",
+          "anchor": "1 Timothy 4:3",
+          "en": "know"
         }
       ]
     },
@@ -358,6 +430,12 @@
           "sense": "Soul — the individual self, the person's own life (laid down by the Good Shepherd).",
           "anchor": "John 10:11",
           "en": "life"
+        },
+        {
+          "strongs": "G2198",
+          "sense": "To live — the verb of ζωή: to be alive, with the life that comes from God.",
+          "anchor": "Hebrews 12:9",
+          "en": "live"
         }
       ]
     },
@@ -368,7 +446,7 @@
       "english": [
         "new"
       ],
-      "intro": "Greek has one word for ‘new in kind’ and another for ‘new in time’. ἀνακαίνωσις, ‘renewal’, is built on καινός: the Spirit makes us new in kind, not merely recent.",
+      "intro": "Greek has one word for ‘new in kind’ and another for ‘new in time’. ἀνακαίνωσις, ‘renewal’, is built on καινός: the Spirit makes us new in kind, not merely recent. Hebrews calls the covenant ‘new’ with both words: καινός (8:8, new in kind) and νέος (12:24, freshly given). Hebrews 10:20 adds a third word, πρόσφατος, originally ‘freshly slain’: the new way opened through Christ’s sacrifice.",
       "members": [
         {
           "strongs": "G2537",
@@ -387,6 +465,12 @@
           "sense": "‘Renewal’ — ἀνά (again) + καινός: being made new in quality, renovated from within by the Holy Spirit (Titus 3:5), the renewing of the mind (Romans 12:2).",
           "anchor": "Romans 12:2",
           "en": "renewing"
+        },
+        {
+          "strongs": "G4372",
+          "sense": "‘Freshly slain’, then simply ‘fresh, recent’ — the ‘new and living way’ opened by Christ’s death (Hebrews 10:20).",
+          "anchor": "Hebrews 10:20",
+          "en": "new"
         }
       ]
     },
@@ -495,6 +579,54 @@
           "sense": "Public or sacred servant — one who carries out a priestly or public service.",
           "anchor": "Romans 15:16",
           "en": "servant"
+        },
+        {
+          "strongs": "G2324",
+          "sense": "An honoured attendant — a trusted servant in a household, the title God gave Moses (Hebrews 3:5). Contrasted with the Son who is over the house.",
+          "anchor": "Hebrews 3:5",
+          "en": "servant"
+        },
+        {
+          "strongs": "G3000",
+          "sense": "To serve in worship — religious service offered to God (or to what stands in His place). Different from δουλεύω (to serve as a slave) and διακονέω (to serve practically).",
+          "anchor": "Hebrews 8:5",
+          "en": "serve"
+        },
+        {
+          "strongs": "G1247",
+          "sense": "To serve, wait on, minister to — the verb of διάκονος: practical service of others.",
+          "anchor": "2 Timothy 1:18",
+          "en": "served"
+        },
+        {
+          "strongs": "G1248",
+          "sense": "Service, ministry — the practical help of a διάκονος.",
+          "anchor": "Hebrews 1:14",
+          "en": "service"
+        },
+        {
+          "strongs": "G1398",
+          "sense": "To serve as a slave — the verb of δοῦλος: to be ruled by a master, whether God or desires.",
+          "anchor": "Titus 3:3",
+          "en": "serving"
+        },
+        {
+          "strongs": "G1402",
+          "sense": "To enslave — to be made a δοῦλος, owned by something (Titus 2:3, ‘enslaved to much wine’).",
+          "anchor": "Titus 2:3",
+          "en": "enslaved"
+        },
+        {
+          "strongs": "G1397",
+          "sense": "Slavery, bondage — the condition of a δοῦλος (fear of death as bondage, Hebrews 2:15).",
+          "anchor": "Hebrews 2:15",
+          "en": "bondage"
+        },
+        {
+          "strongs": "G2999",
+          "sense": "Worship-service — the noun of λατρεύω: the ordered service offered to God.",
+          "anchor": "Hebrews 9:1",
+          "en": "divine service"
         }
       ]
     },
@@ -615,6 +747,30 @@
           "sense": "Debt — something owed; sin pictured as an unpaid debt to God.",
           "anchor": "Matthew 6:12",
           "en": "debts"
+        },
+        {
+          "strongs": "G3876",
+          "sense": "‘Mis-hearing’ — παρά + ἀκούω: refusing to listen, disobedience that begins with not hearing. Paired with παράβασις (stepping over the line) in Hebrews 2:2.",
+          "anchor": "Hebrews 2:2",
+          "en": "disobedience"
+        },
+        {
+          "strongs": "G51",
+          "sense": "A sin of ignorance — wrongdoing committed without full knowledge; the ‘errors’ the high priest atoned for on the Day of Atonement.",
+          "anchor": "Hebrews 9:7",
+          "en": "errors"
+        },
+        {
+          "strongs": "G264",
+          "sense": "To sin — the verb of ἁμαρτία: to miss the mark, and to keep on missing it.",
+          "anchor": "Hebrews 3:17",
+          "en": "sinned"
+        },
+        {
+          "strongs": "G459",
+          "sense": "Lawless — without law, living as if God’s law did not exist; the adjective of ἀνομία.",
+          "anchor": "1 Timothy 1:9",
+          "en": "lawless"
         }
       ]
     },
@@ -656,6 +812,200 @@
       ]
     },
     {
+      "id": "image",
+      "name": "Image, Form & Likeness",
+      "lang": "Greek",
+      "english": [
+        "image",
+        "form",
+        "likeness"
+      ],
+      "intro": "English ‘image’ and ‘form’ hide several Greek words. εἰκών is a true image or portrait that shares in what it shows (Colossians 1:15); χαρακτήρ is the exact imprint a seal or die leaves (Hebrews 1:3). μορφή is the form that expresses what a thing really is (Philippians 2:6), while σχῆμα is outward appearance and ὁμοίωμα likeness. μόρφωσις can be a mere outward shape without the reality (2 Timothy 3:5).",
+      "members": [
+        {
+          "strongs": "G1504",
+          "sense": "Image, portrait — a likeness that truly represents and shares in its original.",
+          "anchor": "Colossians 1:15",
+          "en": "image"
+        },
+        {
+          "strongs": "G5481",
+          "sense": "Exact imprint — the mark a seal or stamp leaves, matching it line for line.",
+          "anchor": "Hebrews 1:3",
+          "en": "image"
+        },
+        {
+          "strongs": "G3444",
+          "sense": "Form — the outward expression of an inner, essential nature.",
+          "anchor": "Philippians 2:6",
+          "en": "form"
+        },
+        {
+          "strongs": "G3667",
+          "sense": "Likeness — resemblance, being made like something.",
+          "anchor": "Philippians 2:7",
+          "en": "likeness"
+        },
+        {
+          "strongs": "G4976",
+          "sense": "Outward fashion, appearance — the way something presents to the eye.",
+          "anchor": "Philippians 2:8",
+          "en": "form"
+        },
+        {
+          "strongs": "G3446",
+          "sense": "Outward shape — a form that may lack the reality (a ‘form of godliness’).",
+          "anchor": "2 Timothy 3:5",
+          "en": "form"
+        }
+      ]
+    },
+    {
+      "id": "pattern",
+      "name": "Pattern, Copy & Shadow",
+      "lang": "Greek",
+      "english": [
+        "pattern",
+        "copy",
+        "copies",
+        "shadow",
+        "representations",
+        "symbol",
+        "foreshadowing",
+        "example"
+      ],
+      "intro": "Hebrews explains the old covenant with a family of ‘picture’ words. τύπος is the original pattern or stamp from which copies are made (the plan shown to Moses, 8:5) — and also a ‘type’ that foreshadows (Romans 5:14). ὑπόδειγμα is a copy or sketch (8:5; 9:23), and also an example to follow or avoid (4:11). σκιά is a shadow, cast by a reality not yet seen (8:5; 10:1). ἀντίτυπον is a counterpart that corresponds to the original (9:24). παραβολή is a symbol, a comparison set alongside (9:9). Together they say: the tabernacle, priests and sacrifices were real, but they were pictures of Christ.",
+      "members": [
+        {
+          "strongs": "G5179",
+          "sense": "Pattern, original model — the stamp from which copies are made; also a type that foreshadows.",
+          "anchor": "Hebrews 8:5",
+          "en": "pattern"
+        },
+        {
+          "strongs": "G5262",
+          "sense": "Copy, sketch — a representation of the original; also an example.",
+          "anchor": "Hebrews 8:5",
+          "en": "copy"
+        },
+        {
+          "strongs": "G4639",
+          "sense": "Shadow — the outline cast by a reality not yet seen.",
+          "anchor": "Hebrews 8:5",
+          "en": "shadow"
+        },
+        {
+          "strongs": "G499",
+          "sense": "Counterpart — what corresponds to the original, a representation.",
+          "anchor": "Hebrews 9:24",
+          "en": "representations"
+        },
+        {
+          "strongs": "G3850",
+          "sense": "Symbol, comparison — something set alongside to illustrate.",
+          "anchor": "Hebrews 9:9",
+          "en": "symbol"
+        }
+      ]
+    },
+    {
+      "id": "hold",
+      "name": "Hold Fast, Keep & Guard",
+      "lang": "Greek",
+      "english": [
+        "hold fast",
+        "hold tightly",
+        "keep",
+        "kept",
+        "guard",
+        "holding"
+      ],
+      "intro": "English ‘hold fast’ and ‘keep’ hide several Greek words. κατέχω is to hold down, keep a firm grip so nothing slips (Hebrews 3:14; 10:23). κρατέω, from κράτος (strength), is to seize and hold with force (Hebrews 4:14). τηρέω is to keep watch over, preserve (2 Timothy 4:7 ‘I have kept the faith’). φυλάσσω is to guard like a sentry (1 Timothy 6:20). ἀντέχομαι is to cling to, hold on against opposition (Titus 1:9).",
+      "members": [
+        {
+          "strongs": "G2722",
+          "sense": "To hold down, keep a firm grip — not letting go of what you have.",
+          "anchor": "Hebrews 3:14",
+          "en": "hold fast"
+        },
+        {
+          "strongs": "G2902",
+          "sense": "To grasp with strength, seize and retain (from κράτος).",
+          "anchor": "Hebrews 4:14",
+          "en": "hold tightly"
+        },
+        {
+          "strongs": "G5083",
+          "sense": "To keep watch over, preserve, keep intact.",
+          "anchor": "2 Timothy 4:7",
+          "en": "kept"
+        },
+        {
+          "strongs": "G5442",
+          "sense": "To guard as a sentry — protect against loss or attack.",
+          "anchor": "1 Timothy 6:20",
+          "en": "guard"
+        },
+        {
+          "strongs": "G472",
+          "sense": "To cling to, hold on firmly against pressure.",
+          "anchor": "Titus 1:9",
+          "en": "holding"
+        }
+      ]
+    },
+    {
+      "id": "offering",
+      "name": "Sacrifice, Offering & Gift",
+      "lang": "Greek",
+      "english": [
+        "sacrifice",
+        "offering",
+        "gifts",
+        "burnt offerings",
+        "offer"
+      ],
+      "intro": "Hebrews uses a whole vocabulary of worship. θυσία is a sacrifice, usually an animal slain; προσφορά is an offering, the act of bringing something to God; ὁλοκαύτωμα is a whole burnt offering, entirely consumed; δῶρον is a gift. The verb προσφέρω, to bring near, to offer, is the priest’s work. Hebrews 10:5–8 gathers four of these words to show that all of them are fulfilled and ended in Christ’s one offering of His body.",
+      "members": [
+        {
+          "strongs": "G2378",
+          "sense": "A sacrifice — usually a slain animal, offered to God.",
+          "anchor": "Hebrews 10:5",
+          "en": "Sacrifice"
+        },
+        {
+          "strongs": "G4376",
+          "sense": "An offering — what is brought near to God, the act of offering.",
+          "anchor": "Hebrews 10:5",
+          "en": "offering"
+        },
+        {
+          "strongs": "G3646",
+          "sense": "A whole burnt offering — wholly consumed on the altar.",
+          "anchor": "Hebrews 10:6",
+          "en": "whole burnt offerings"
+        },
+        {
+          "strongs": "G1435",
+          "sense": "A gift — an offering presented to God.",
+          "anchor": "Hebrews 5:1",
+          "en": "gifts"
+        },
+        {
+          "strongs": "G4374",
+          "sense": "To bring near, to offer — the priest’s action.",
+          "anchor": "Hebrews 5:1",
+          "en": "offer"
+        },
+        {
+          "strongs": "G399",
+          "sense": "To carry up, to offer up on the altar — used of Christ who ‘offered up himself’ once for all (Hebrews 7:27).",
+          "anchor": "Hebrews 7:27",
+          "en": "offer up"
+        }
+      ]
+    },
+    {
       "id": "godliness",
       "name": "Godliness & Ungodliness",
       "lang": "Greek",
@@ -666,7 +1016,7 @@
         "ungodliness",
         "piety"
       ],
-      "intro": "‘Godliness’ is the key word of 1 Timothy. English uses one word for two Greek ones: εὐσέβεια (well-directed reverence, devotion to God lived out in daily life) and the rarer θεοσέβεια (reverence for God). The opposite is ἀσέβεια / ἀσεβής — the absence of reverence, life lived as if God did not matter.",
+      "intro": "‘Godliness’ is the key word of 1 Timothy. English uses one word for two Greek ones: εὐσέβεια (well-directed reverence, devotion to God lived out in daily life) and the rarer θεοσέβεια (reverence for God). The opposite is ἀσέβεια / ἀσεβής — the absence of reverence, life lived as if God did not matter. Hebrews adds εὐλάβεια, reverent awe (‘godly fear’ in 5:7).",
       "members": [
         {
           "strongs": "G2150",
@@ -703,6 +1053,18 @@
           "sense": "Ungodliness — irreverence toward God; the noun of ἀσεβής, life without regard for God.",
           "anchor": "2 Timothy 2:16",
           "en": "ungodliness"
+        },
+        {
+          "strongs": "G2124",
+          "sense": "Reverent awe — careful, God-fearing reverence. Jesus was heard ‘for his godly fear’ (Hebrews 5:7); believers serve God ‘with reverence’ (12:28).",
+          "anchor": "Hebrews 5:7",
+          "en": "godly fear"
+        },
+        {
+          "strongs": "G2125",
+          "sense": "To act with reverent caution, to be moved by godly fear — the verb of εὐλάβεια (Noah, Hebrews 11:7).",
+          "anchor": "Hebrews 11:7",
+          "en": "godly fear"
         }
       ]
     },
@@ -786,6 +1148,141 @@
       ]
     },
     {
+      "id": "discipline",
+      "name": "Discipline, Training & Chastening",
+      "lang": "Greek",
+      "english": [
+        "discipline",
+        "chastening",
+        "chastens",
+        "instructing",
+        "punished",
+        "exercised",
+        "reproved",
+        "scourges"
+      ],
+      "intro": "English varies its words for one Greek family. παιδεία / παιδεύω (from παῖς, a child) is the whole upbringing of a child — teaching, training and correction. The WEB renders it ‘chastening’ (Hebrews 12:5), ‘discipline’ (12:7), ‘punished’ (12:10) and ‘instructing’ (Titus 2:12, where grace is the trainer). γυμνάζω is athletic training (‘exercised’, 5:14; 12:11). ἐλέγχω is reproof that exposes and corrects. μαστιγόω, to scourge, is the hardest form. Hebrews 12 says God’s discipline is the proof of sonship and the path to holiness.",
+      "members": [
+        {
+          "strongs": "G3809",
+          "sense": "Child-training — instruction and correction by a loving father; ‘discipline’.",
+          "anchor": "Hebrews 12:7",
+          "en": "discipline"
+        },
+        {
+          "strongs": "G3811",
+          "sense": "To train a child — to teach, guide, correct; grace itself does this (Titus 2:12).",
+          "anchor": "Hebrews 12:6",
+          "en": "chastens"
+        },
+        {
+          "strongs": "G1128",
+          "sense": "To train like an athlete — exercise by repeated practice.",
+          "anchor": "Hebrews 12:11",
+          "en": "exercised"
+        },
+        {
+          "strongs": "G1651",
+          "sense": "To reprove — expose a fault in order to correct it.",
+          "anchor": "Hebrews 12:5",
+          "en": "reproved"
+        },
+        {
+          "strongs": "G3146",
+          "sense": "To scourge, whip — severe correction.",
+          "anchor": "Hebrews 12:6",
+          "en": "scourges"
+        }
+      ]
+    },
+    {
+      "id": "perfect",
+      "name": "Perfect, Complete & Mature",
+      "lang": "Greek",
+      "english": [
+        "perfect",
+        "perfection",
+        "perfecter",
+        "complete",
+        "full grown"
+      ],
+      "intro": "English ‘perfect’ usually means flawless, but the Greek τέλειος family means reaching the goal (τέλος): complete, mature, fully grown. Hebrews uses it again and again: Christ was ‘made perfect’ — fully qualified as Saviour — through suffering (2:10), and is the ‘perfecter’ of faith (12:2). The law could not bring τελείωσις (7:11). A different root, καταρτίζω / ἄρτιος, means fitted, equipped, mended; ὁλόκληρος means whole in every part.",
+      "members": [
+        {
+          "strongs": "G5048",
+          "sense": "To bring to the goal — complete, make fully qualified, bring to maturity.",
+          "anchor": "Hebrews 2:10",
+          "en": "perfect"
+        },
+        {
+          "strongs": "G5046",
+          "sense": "Complete, mature, full-grown — having reached the goal.",
+          "anchor": "Matthew 5:48",
+          "en": "perfect"
+        },
+        {
+          "strongs": "G5047",
+          "sense": "Maturity, completeness — growing up in the faith.",
+          "anchor": "Hebrews 6:1",
+          "en": "perfection"
+        },
+        {
+          "strongs": "G5050",
+          "sense": "Completion, bringing to the goal — what the old priesthood could not achieve.",
+          "anchor": "Hebrews 7:11",
+          "en": "perfection"
+        },
+        {
+          "strongs": "G5051",
+          "sense": "Completer — one who brings something to its goal (only in Hebrews 12:2).",
+          "anchor": "Hebrews 12:2",
+          "en": "perfecter"
+        },
+        {
+          "strongs": "G2675",
+          "sense": "To fit out, mend, equip completely — like repairing nets or setting a bone.",
+          "anchor": "1 Peter 5:10",
+          "en": "perfect"
+        },
+        {
+          "strongs": "G739",
+          "sense": "Fitted, fully capable — exactly suited for the task.",
+          "anchor": "2 Timothy 3:17",
+          "en": "complete"
+        },
+        {
+          "strongs": "G3648",
+          "sense": "Whole in every part — nothing missing.",
+          "anchor": "James 1:4",
+          "en": "complete"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "name": "Author, Pioneer & Source",
+      "lang": "Greek",
+      "english": [
+        "author",
+        "Prince"
+      ],
+      "intro": "The WEB uses ‘author’ for two different Greek words in Hebrews. ἀρχηγός (2:10; 12:2) is a pioneer or leader who goes first and opens the way, a founder (Peter calls Jesus ‘the Prince of life’ with it). αἴτιος (5:9) is the cause or source: Christ is the One from whom eternal salvation comes.",
+      "members": [
+        {
+          "strongs": "G747",
+          "sense": "Pioneer, trailblazer, leader who goes first and opens the way.",
+          "anchor": "Hebrews 2:10",
+          "en": "author"
+        },
+        {
+          "strongs": "G159",
+          "sense": "Cause, source — the one from whom something comes.",
+          "anchor": "Hebrews 5:9",
+          "en": "author"
+        }
+      ]
+    },
+    {
       "id": "pray",
       "name": "Prayer, Asking & Intercession",
       "lang": "Greek",
@@ -853,6 +1350,12 @@
           "sense": "To intercede — to meet with someone on another's behalf.",
           "anchor": "Hebrews 7:25",
           "en": "intercession"
+        },
+        {
+          "strongs": "G2428",
+          "sense": "A suppliant’s plea — originally the olive branch held out by someone begging for mercy; earnest entreaty.",
+          "anchor": "Hebrews 5:7",
+          "en": "petitions"
         }
       ]
     },
@@ -888,6 +1391,12 @@
           "sense": "‘Teacher of what is καλός’ — one whose life and words teach what is good and beautiful.",
           "anchor": "Titus 2:3",
           "en": "teachers of that which is good"
+        },
+        {
+          "strongs": "G2140",
+          "sense": "Doing good — εὖ + ποιέω: practical kindness, beneficence, one of the ‘sacrifices’ that please God (Hebrews 13:16).",
+          "anchor": "Hebrews 13:16",
+          "en": "doing good"
         }
       ]
     },
@@ -900,7 +1409,7 @@
         "saw",
         "look"
       ],
-      "intro": "John 20:5–8 uses three different verbs that the WEB translates ‘saw’: a glance, a careful gaze, and seeing that leads to understanding — ‘he saw and believed’.",
+      "intro": "John 20:5–8 uses three different verbs that the WEB translates ‘saw’: a glance, a careful gaze, and seeing that leads to understanding — ‘he saw and believed’. Hebrews 2:8–9 puts ὁράω and βλέπω side by side.",
       "members": [
         {
           "strongs": "G991",
@@ -925,6 +1434,18 @@
           "sense": "To behold — looking intently and taking in what is seen.",
           "anchor": "John 1:14",
           "en": "saw"
+        },
+        {
+          "strongs": "G3708",
+          "sense": "To see with the eyes or the mind — to perceive, take in. Hebrews 2:8–9 sets it beside βλέπω: we do not yet ‘see’ (ὁράω) everything subject to Him, but we do ‘see’ (βλέπω) Jesus.",
+          "anchor": "Hebrews 2:8",
+          "en": "see"
+        },
+        {
+          "strongs": "G872",
+          "sense": "To look away from everything else and fix the eyes on one object — ‘looking to Jesus’ (Hebrews 12:2).",
+          "anchor": "Hebrews 12:2",
+          "en": "looking"
         }
       ]
     },
@@ -938,7 +1459,7 @@
         "appearing",
         "revealed"
       ],
-      "intro": "English ‘appear’ and ‘reveal’ cover several Greek words. ἐπιφαίνω / ἐπιφάνεια is a shining-forth, like dawn breaking or a king’s arrival: Titus uses it for both comings of Christ (2:11, 13; 3:4). φανερόω is to make visible what was hidden; φαίνω, to shine or be seen; ὤφθη (from ὁράω / ὀπτάνομαι), ‘was seen’, is used of the risen Lord’s appearances; ἀποκαλύπτω is to unveil, to take the cover off.",
+      "intro": "English ‘appear’ and ‘reveal’ cover several Greek words. ἐπιφαίνω / ἐπιφάνεια is a shining-forth, like dawn breaking or a king’s arrival: Titus uses it for both comings of Christ (2:11, 13; 3:4). φανερόω is to make visible what was hidden; φαίνω, to shine or be seen; ὤφθη (from ὁράω / ὀπτάνομαι), ‘was seen’, is used of the risen Lord’s appearances; ἀποκαλύπτω is to unveil, to take the cover off. Hebrews 9:24–28 uses three of them for Christ’s three appearings: φανερόω (He ‘has been revealed’ once, v. 26), ἐμφανίζω (He now appears before God for us, v. 24) and ὤφθη/ὁράω (He ‘will appear’ a second time, v. 28).",
       "members": [
         {
           "strongs": "G2014",
@@ -975,6 +1496,18 @@
           "sense": "To unveil, take the cover off — revelation of what only God can show.",
           "anchor": "Romans 1:17",
           "en": "revealed"
+        },
+        {
+          "strongs": "G1718",
+          "sense": "To show oneself, appear openly before someone — Christ now appearing in God’s presence on our behalf (Hebrews 9:24).",
+          "anchor": "Hebrews 9:24",
+          "en": "appear"
+        },
+        {
+          "strongs": "G5324",
+          "sense": "To make visible, display — from φαίνω: the terrifying ‘appearance’ at Sinai (Hebrews 12:21).",
+          "anchor": "Hebrews 12:21",
+          "en": "appearance"
         }
       ]
     },
@@ -1041,6 +1574,62 @@
           "sense": "To stay awake, to watch — alert and ready; the opposite of spiritual sleep.",
           "anchor": "Colossians 4:2",
           "en": "watching"
+        },
+        {
+          "strongs": "G69",
+          "sense": "To be sleepless, keep awake — to stay alert and watchful, as leaders ‘watch on behalf of your souls’ (Hebrews 13:17).",
+          "anchor": "Hebrews 13:17",
+          "en": "watch"
+        }
+      ]
+    },
+    {
+      "id": "rest",
+      "name": "Rest & Relief",
+      "lang": "Greek",
+      "english": [
+        "rest",
+        "rested",
+        "Sabbath rest",
+        "relief"
+      ],
+      "intro": "Hebrews 3–4 uses several words for ‘rest’. κατάπαυσις / καταπαύω is settling down to stay — the rest of Canaan and of God’s own rest. σαββατισμός (only in Hebrews 4:9) is a Sabbath-keeping, the rest that celebrates finished work. ἀνάπαυσις / ἀναπαύω is refreshment, a break from toil (Matthew 11:28–29). ἄνεσις is relief, the loosening of pressure.",
+      "members": [
+        {
+          "strongs": "G2663",
+          "sense": "A settling down, a place of rest — the promised land and God’s own rest.",
+          "anchor": "Hebrews 4:1",
+          "en": "rest"
+        },
+        {
+          "strongs": "G2664",
+          "sense": "To bring to rest, to cause to settle; also to cease from work.",
+          "anchor": "Hebrews 4:8",
+          "en": "rest"
+        },
+        {
+          "strongs": "G4520",
+          "sense": "A Sabbath-keeping — the rest that remains for the people of God.",
+          "anchor": "Hebrews 4:9",
+          "en": "Sabbath rest"
+        },
+        {
+          "strongs": "G372",
+          "sense": "Refreshment, a pause from labour.",
+          "anchor": "Matthew 11:29",
+          "en": "rest"
+        },
+        {
+          "strongs": "G373",
+          "sense": "To give rest, refresh; to take one’s rest.",
+          "anchor": "Matthew 11:28",
+          "en": "rest"
+        },
+        {
+          "strongs": "G425",
+          "sense": "Relief — loosening, release from pressure or affliction.",
+          "anchor": "2 Thessalonians 1:7",
+          "en": "relief"
         }
       ]
     },

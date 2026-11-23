@@ -1,0 +1,856 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 8,
+  "chapterTitle": "The True Tabernacle and the New Covenant",
+  "themeTitle": "“I Will Put My Laws Into Their Mind”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Now in the things which we are saying, the main point is this. We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens,",
+      "understanding": "κεφάλαιον δὲ ἐπὶ τοῖς λεγομένοις, “Now in the things which we are saying, the main point is this.” κεφάλαιον, the headline, the sum of the argument. τοιοῦτον ἔχομεν ἀρχιερέα, “We have such a high priest” — not ‘we used to have’ or ‘we will have’, but now. ὃς ἐκάθισεν ἐν δεξιᾷ τοῦ θρόνου τῆς μεγαλωσύνης ἐν τοῖς οὐρανοῖς, “who sat down on the right hand of the throne of the Majesty in the heavens.” He is seated: His sacrifice is complete. He is at the right hand: He has the place of honour and power.",
+      "words": [
+        {
+          "strongs": "G2774",
+          "hebrew": "κεφάλαιον",
+          "translit": "kephálaion",
+          "english": "main point"
+        },
+        {
+          "strongs": "G749",
+          "hebrew": "ἀρχιερεύς",
+          "translit": "archiereús",
+          "english": "high priest"
+        },
+        {
+          "strongs": "G2523",
+          "hebrew": "καθίζω",
+          "translit": "kathízō",
+          "english": "sat down"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G3172",
+          "hebrew": "μεγαλωσύνη",
+          "translit": "megalōsýnē",
+          "english": "Majesty"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heavens"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "a servant of the sanctuary, and of the true tabernacle, which the Lord pitched, not man.",
+      "understanding": "τῶν ἁγίων λειτουργός, “a servant of the sanctuary” — λειτουργός from the servant family: one who carries out priestly, public service (the angels were ‘servants’ in 1:7; now the enthroned Christ serves as priest). καὶ τῆς σκηνῆς τῆς ἀληθινῆς, “and of the true tabernacle” — ἀληθινός, genuine, real, as opposed to a copy. ἣν ἔπηξεν ὁ κύριος, οὐκ ἄνθρωπος, “which the Lord pitched, not man” — πήγνυμι, to drive in the tent pegs. Moses' tent was made by craftsmen; the true one by God.",
+      "words": [
+        {
+          "strongs": "G39",
+          "hebrew": "ἅγιον",
+          "translit": "hágion",
+          "english": "sanctuary"
+        },
+        {
+          "strongs": "G3011",
+          "hebrew": "λειτουργός",
+          "translit": "leitourgós",
+          "english": "servant"
+        },
+        {
+          "strongs": "G4633",
+          "hebrew": "σκηνή",
+          "translit": "skēnḗ",
+          "english": "tabernacle"
+        },
+        {
+          "strongs": "G228",
+          "hebrew": "ἀληθινός",
+          "translit": "alēthinós",
+          "english": "true"
+        },
+        {
+          "strongs": "G4078",
+          "hebrew": "πήγνυμι",
+          "translit": "pḗgnymi",
+          "english": "pitched"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For every high priest is appointed to offer both gifts and sacrifices. Therefore it is necessary that this high priest also have something to offer.",
+      "understanding": "πᾶς γὰρ ἀρχιερεὺς εἰς τὸ προσφέρειν δῶρά τε καὶ θυσίας καθίσταται, “For every high priest is appointed to offer both gifts and sacrifices” — three offering-family words again: προσφέρω, δῶρον, θυσία. ὅθεν ἀναγκαῖον ἔχειν τι καὶ τοῦτον ὃ προσενέγκῃ, “Therefore it is necessary that this high priest also have something to offer.” The writer will reveal what it is: Himself (9:14).",
+      "words": [
+        {
+          "strongs": "G749",
+          "hebrew": "ἀρχιερεύς",
+          "translit": "archiereús",
+          "english": "high priest"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offer"
+        },
+        {
+          "strongs": "G1435",
+          "hebrew": "δῶρον",
+          "translit": "dōron",
+          "english": "gifts"
+        },
+        {
+          "strongs": "G2378",
+          "hebrew": "θυσία",
+          "translit": "thysía",
+          "english": "sacrifices"
+        },
+        {
+          "strongs": "G2525",
+          "hebrew": "καθίστημι",
+          "translit": "kathístēmi",
+          "english": "appointed"
+        },
+        {
+          "strongs": "G316",
+          "hebrew": "ἀναγκαῖος",
+          "translit": "anankaîos",
+          "english": "necessary"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For if he were on earth, he would not be a priest at all, seeing there are priests who offer the gifts according to the law;",
+      "understanding": "εἰ μὲν οὖν ἦν ἐπὶ γῆς, οὐδ᾽ ἂν ἦν ἱερεύς, “For if he were on earth, he would not be a priest at all” — because He was from Judah, not Levi (7:14). ὄντων τῶν προσφερόντων κατὰ νόμον τὰ δῶρα, “seeing there are priests who offer the gifts according to the law” — the present tense suggests the temple was still standing when Hebrews was written, before AD 70.",
+      "words": [
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G2409",
+          "hebrew": "ἱερεύς",
+          "translit": "hiereús",
+          "english": "priest"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "offer"
+        },
+        {
+          "strongs": "G1435",
+          "hebrew": "δῶρον",
+          "translit": "dōron",
+          "english": "gifts"
+        },
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "law"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "who serve a copy and shadow of the heavenly things, even as Moses was warned by God when he was about to make the tabernacle, for he said, “See, you shall make everything according to the pattern that was shown to you on the mountain.”",
+      "understanding": "οἵτινες ὑποδείγματι καὶ σκιᾷ λατρεύουσιν τῶν ἐπουρανίων, “who serve a copy and shadow of the heavenly things.” Three words of the new pattern family meet in this verse: ὑπόδειγμα, a copy or sketch; σκιά, a shadow cast by something real; and, in the quotation, τύπος, the original pattern. λατρεύω, added to the servant family: to serve in worship. Moses was told, as Exodus 25 records: “See, you shall make everything according to the pattern that was shown to you on the mountain.” The earthly tabernacle was a careful copy of a heavenly reality.",
+      "words": [
+        {
+          "strongs": "G5262",
+          "hebrew": "ὑπόδειγμα",
+          "translit": "hypódeigma",
+          "english": "copy"
+        },
+        {
+          "strongs": "G4639",
+          "hebrew": "σκιά",
+          "translit": "skiá",
+          "english": "shadow"
+        },
+        {
+          "strongs": "G3000",
+          "hebrew": "λατρεύω",
+          "translit": "latreúō",
+          "english": "serve"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G5537",
+          "hebrew": "χρηματίζω",
+          "translit": "chrēmatízō",
+          "english": "warned by God"
+        },
+        {
+          "strongs": "G4633",
+          "hebrew": "σκηνή",
+          "translit": "skēnḗ",
+          "english": "tabernacle"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "See"
+        },
+        {
+          "strongs": "G5179",
+          "hebrew": "τύπος",
+          "translit": "týpos",
+          "english": "pattern"
+        },
+        {
+          "strongs": "G1166",
+          "hebrew": "δεικνύω",
+          "translit": "deiknýō",
+          "english": "shown"
+        },
+        {
+          "strongs": "G3735",
+          "hebrew": "ὄρος",
+          "translit": "óros",
+          "english": "mountain"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But now he has obtained a more excellent ministry, by so much as he is also the mediator of a better covenant, which on better promises has been given as law.",
+      "understanding": "νυνὶ δὲ διαφορωτέρας τέτυχεν λειτουργίας, “But now he has obtained a more excellent ministry” — λειτουργία, priestly service (our ‘liturgy’). ὅσῳ καὶ κρείττονός ἐστιν διαθήκης μεσίτης, “by so much as he is also the mediator of a better covenant” — μεσίτης, the go-between who brings two parties together. ἥτις ἐπὶ κρείττοσιν ἐπαγγελίαις νενομοθέτηται, “which on better promises has been given as law.” κρείττων twice: better covenant, better promises.",
+      "words": [
+        {
+          "strongs": "G1313",
+          "hebrew": "διάφορος",
+          "translit": "diáphoros",
+          "english": "more excellent"
+        },
+        {
+          "strongs": "G5177",
+          "hebrew": "τυγχάνω",
+          "translit": "tynchánō",
+          "english": "obtained"
+        },
+        {
+          "strongs": "G3009",
+          "hebrew": "λειτουργία",
+          "translit": "leitourgía",
+          "english": "ministry"
+        },
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "better"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G3316",
+          "hebrew": "μεσίτης",
+          "translit": "mesítēs",
+          "english": "mediator"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promises"
+        },
+        {
+          "strongs": "G3549",
+          "hebrew": "νομοθετέω",
+          "translit": "nomothetéō",
+          "english": "given as law"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For if that first covenant had been faultless, then no place would have been sought for a second.",
+      "understanding": "εἰ γὰρ ἡ πρώτη ἐκείνη ἦν ἄμεμπτος, “For if that first covenant had been faultless,” οὐκ ἂν δευτέρας ἐζητεῖτο τόπος, “then no place would have been sought for a second.” The same logic as 7:11: God promising something new shows that the old was not final.",
+      "words": [
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G273",
+          "hebrew": "ἄμεμπτος",
+          "translit": "ámemptos",
+          "english": "faultless"
+        },
+        {
+          "strongs": "G1208",
+          "hebrew": "δεύτερος",
+          "translit": "deúteros",
+          "english": "second"
+        },
+        {
+          "strongs": "G2212",
+          "hebrew": "ζητέω",
+          "translit": "zētéō",
+          "english": "sought"
+        },
+        {
+          "strongs": "G5117",
+          "hebrew": "τόπος",
+          "translit": "tópos",
+          "english": "place"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "For finding fault with them, he said, “Behold, the days come”, says the Lord, “that I will make a new covenant with the house of Israel and with the house of Judah;",
+      "understanding": "μεμφόμενος γὰρ αὐτοῖς λέγει, “For finding fault with them, he said” — the fault lay with the people (‘them’), not with God's law. Then the longest Old Testament quotation in the New Testament, from Jeremiah 31: “Behold, the days come”, says the Lord, “that I will make a new covenant with the house of Israel and with the house of Judah.” καινός from the new family: new in kind, not merely recent. συντελέω, to bring to completion.",
+      "words": [
+        {
+          "strongs": "G3201",
+          "hebrew": "μέμφομαι",
+          "translit": "mémphomai",
+          "english": "finding fault"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "come"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G4931",
+          "hebrew": "συντελέω",
+          "translit": "synteléō",
+          "english": "make"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2474",
+          "hebrew": "Ἰσραήλ",
+          "translit": "Israḗl",
+          "english": "Israel"
+        },
+        {
+          "strongs": "G2455",
+          "hebrew": "Ἰούδας",
+          "translit": "Ioúdas",
+          "english": "Judah"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "not according to the covenant that I made with their fathers, in the day that I took them by the hand to lead them out of the land of Egypt; for they didn’t continue in my covenant, and I disregarded them,” says the Lord.",
+      "understanding": "“not according to the covenant that I made with their fathers, in the day that I took them by the hand to lead them out of the land of Egypt” — a tender picture: God leading Israel like a father leading a child. ὅτι αὐτοὶ οὐκ ἐνέμειναν ἐν τῇ διαθήκῃ μου, “for they didn’t continue in my covenant” — the problem was persistence. κἀγὼ ἠμέλησα αὐτῶν, “and I disregarded them” — ἀμελέω, the very word used in 2:3 for those who ‘neglect so great a salvation’. Those who neglect God find themselves neglected.",
+      "words": [
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "made"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "fathers"
+        },
+        {
+          "strongs": "G1949",
+          "hebrew": "ἐπιλαμβάνομαι",
+          "translit": "epilambánomai",
+          "english": "took them"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G1806",
+          "hebrew": "ἐξάγω",
+          "translit": "exágō",
+          "english": "lead them out"
+        },
+        {
+          "strongs": "G125",
+          "hebrew": "Αἴγυπτος",
+          "translit": "Aígyptos",
+          "english": "Egypt"
+        },
+        {
+          "strongs": "G1696",
+          "hebrew": "ἐμμένω",
+          "translit": "emménō",
+          "english": "continue"
+        },
+        {
+          "strongs": "G272",
+          "hebrew": "ἀμελέω",
+          "translit": "ameléō",
+          "english": "disregarded"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "“For this is the covenant that I will make with the house of Israel. After those days,” says the Lord; “I will put my laws into their mind, I will also write them on their heart. I will be their God, and they will be my people.",
+      "understanding": "The heart of the new covenant: “For this is the covenant that I will make with the house of Israel. After those days,” says the Lord; “I will put my laws into their mind, I will also write them on their heart.” The old law was written on stone tablets outside the people; the new is written inside, in the mind (διάνοια) and heart (καρδία). God does not lower His standard; He changes the person. “I will be their God, and they will be my people” — the covenant promise from Exodus onward, now fully realised.",
+      "words": [
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G1303",
+          "hebrew": "διατίθεμαι",
+          "translit": "diatíthemai",
+          "english": "make"
+        },
+        {
+          "strongs": "G3624",
+          "hebrew": "οἶκος",
+          "translit": "oîkos",
+          "english": "house"
+        },
+        {
+          "strongs": "G2474",
+          "hebrew": "Ἰσραήλ",
+          "translit": "Israḗl",
+          "english": "Israel"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "put"
+        },
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "laws"
+        },
+        {
+          "strongs": "G1271",
+          "hebrew": "διάνοια",
+          "translit": "diánoia",
+          "english": "mind"
+        },
+        {
+          "strongs": "G1924",
+          "hebrew": "ἐπιγράφω",
+          "translit": "epigráphō",
+          "english": "write"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "They will not teach every man his fellow citizen, and every man his brother, saying, ‘Know the Lord,’ for all will know me, from their least to their greatest.",
+      "understanding": "Two members of the know family in one verse: “They will not teach every man his fellow citizen, and every man his brother, saying, ‘Know the Lord,’” — γνῶθι, from γινώσκω: come to know, learn by experience. “for all will know me, from their least to their greatest” — εἰδήσουσιν, from οἶδα: know with settled, inward certainty. Under the old covenant, knowing God was mediated by priests and teachers; in the new, every believer, from the least to the greatest, knows God personally.",
+      "words": [
+        {
+          "strongs": "G1321",
+          "hebrew": "διδάσκω",
+          "translit": "didáskō",
+          "english": "teach"
+        },
+        {
+          "strongs": "G4177",
+          "hebrew": "πολίτης",
+          "translit": "polítēs",
+          "english": "fellow citizen"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "Know"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G3398",
+          "hebrew": "μικρός",
+          "translit": "mikrós",
+          "english": "least"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "greatest"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more.”",
+      "understanding": "And the foundation of it all: “For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more.” ἵλεως, gracious, propitious — related to the atonement word of 2:17. Three members of the sin family: ἀδικία, ‘unrighteousness’ — wrong done to others; ἁμαρτία, ‘sins’ — missing the mark; ἀνομία, ‘lawless deeds’ — rebellion against God's law. (The words ‘and lawless deeds’ are in the manuscripts the WEB follows; many older ones omit them.) οὐ μὴ μνησθῶ ἔτι — a double negative: ‘I will certainly never remember’. God does not forget as we forget; He chooses never to bring them up against us again.",
+      "words": [
+        {
+          "strongs": "G2436",
+          "hebrew": "ἵλεως",
+          "translit": "híleōs",
+          "english": "merciful"
+        },
+        {
+          "strongs": "G93",
+          "hebrew": "ἀδικία",
+          "translit": "adikía",
+          "english": "unrighteousness"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G458",
+          "hebrew": "ἀνομία",
+          "translit": "anomía",
+          "english": "lawless deeds"
+        },
+        {
+          "strongs": "G3415",
+          "hebrew": "μνάομαι",
+          "translit": "mnáomai",
+          "english": "remember"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "In that he says, “A new covenant”, he has made the first old. But that which is becoming old and grows aged is near to vanishing away.",
+      "understanding": "ἐν τῷ λέγειν, “In that he says” — the single word ‘new’ carries the argument: “A new covenant”. πεπαλαίωκεν τὴν πρώτην, “he has made the first old.” τὸ δὲ παλαιούμενον καὶ γηράσκον ἐγγὺς ἀφανισμοῦ, “But that which is becoming old and grows aged is near to vanishing away” — ἀφανισμός, disappearance. Within a few years of this letter, the temple was destroyed and the sacrifices ceased (AD 70).",
+      "words": [
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G3822",
+          "hebrew": "παλαιόω",
+          "translit": "palaióō",
+          "english": "made the first old"
+        },
+        {
+          "strongs": "G1095",
+          "hebrew": "γηράσκω",
+          "translit": "gēráskō",
+          "english": "grows aged"
+        },
+        {
+          "strongs": "G1451",
+          "hebrew": "ἐγγύς",
+          "translit": "engýs",
+          "english": "near"
+        },
+        {
+          "strongs": "G854",
+          "hebrew": "ἀφανισμός",
+          "translit": "aphanismós",
+          "english": "vanishing away"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Model and the Building",
+      "verseRef": "v. 1-5",
+      "image": "Picture an architect's office. On the table stands a detailed scale model of a great cathedral — every arch, window and spire carefully made of wood and card. People come to admire it and learn from it. Then picture walking outside to see the cathedral itself, finished and full of light, a thousand times larger and more glorious than the model. The model was accurate and useful, but it was never meant to be lived in.",
+      "meaning": "Earthly priests “serve a copy and shadow of the heavenly things” (v. 5), but Jesus is “a servant of the sanctuary, and of the true tabernacle, which the Lord pitched, not man” (v. 2). The tabernacle, priests and sacrifices were God-given models. Jesus ministers in the reality. Do not cling to the model when the cathedral is open."
+    },
+    {
+      "title": "Written on the Heart",
+      "verseRef": "v. 10",
+      "image": "Picture two tablets of stone, engraved with God's commandments, carried in a golden box. They are holy and true, but they stand outside the people, pointing at them, telling them what they should be. Now picture the same words being traced, letter by letter, by a gentle hand of light onto a living human heart — so that the commands become desires, and what was once ‘you must’ becomes ‘I want to’.",
+      "meaning": "“I will put my laws into their mind, I will also write them on their heart. I will be their God, and they will be my people” (v. 10). The new covenant does not abolish God's will; it moves it inside. By His Spirit, God gives new desires and new power to obey. Ask Him to write His ways more deeply on your heart."
+    },
+    {
+      "title": "Remembered No More",
+      "verseRef": "v. 12",
+      "image": "Picture a huge courtroom file, thick with records of every wrong you have done — every lie, every unkind word, every rebellion. The judge opens it, looks at you, and then, deliberately, feeds every page into a fire until nothing is left but ash. He says, ‘I will never bring these up again.’",
+      "meaning": "“For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more” (v. 12). Unrighteousness, sins, lawless deeds — every kind of wrong is covered. God does not merely file them away; He chooses never to hold them against you again. Stop bringing up what God has chosen to forget."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Main Point: A Heavenly High Priest (v. 1-6)",
+        "body": "The main point is that we have a high priest seated at God's right hand in heaven, serving in the true tabernacle set up by the Lord; every high priest offers gifts and sacrifices, so He too must have something to offer; on earth He would not be a priest at all, since the Levitical priests serve a copy and shadow of the heavenly sanctuary, as Moses was told to follow the pattern shown on the mountain; but Christ's ministry is far better, as the mediator of a better covenant based on better promises."
+      },
+      {
+        "label": "The Promised New Covenant (v. 7-13)",
+        "body": "If the first covenant had been faultless, there would have been no need for a second; God, finding fault with the people, promised through Jeremiah a new covenant, unlike the one Israel broke, in which He would write His laws on their minds and hearts, be their God, give every one of them personal knowledge of Him, and remember their sins no more; by calling it new He has made the first obsolete, and what is obsolete is about to disappear."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Main Point",
+        "paragraphs": [
+          "After seven chapters, the writer pauses to give the headline: “Now in the things which we are saying, the main point is this. We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens” (v. 1). Everything so far — the Son's greatness, His humanity, His sympathy, His Melchizedek priesthood — comes to this: we have Him, now, enthroned and serving.",
+          "He ministers in “the true tabernacle, which the Lord pitched, not man” (v. 2). The word ‘true’ (ἀληθινός) means genuine, the original as opposed to a copy. The earthly tabernacle was real and God-given, but it was a copy. The priests on earth “serve a copy and shadow of the heavenly things” (v. 5). God told Moses, “See, you shall make everything according to the pattern that was shown to you on the mountain” (v. 5). Stephen also reminded the council that the tabernacle was made “according to the pattern that he had seen” (Acts 7:44).",
+          "The pattern-family words help us read the whole Old Testament worship system. τύπος is the original pattern; ὑπόδειγμα the copy; σκιά the shadow. Paul says the same of the festivals and Sabbaths: they “are a shadow of the things to come; but the body is Christ’s” (Colossians 2:17). Shadows are not bad; they show that something real is near. But no one would choose to hug a shadow when the person is standing in front of them."
+        ]
+      },
+      {
+        "heading": "A Better Covenant With Better Promises",
+        "paragraphs": [
+          "Christ “has obtained a more excellent ministry, by so much as he is also the mediator of a better covenant, which on better promises has been given as law” (v. 6). A mediator stands between two parties and brings them together. Paul writes, “For there is one God, and one mediator between God and men, the man Christ Jesus” (1 Timothy 2:5). Jesus not only announces the new covenant; He establishes it with His own blood.",
+          "Why was a new covenant needed? “For if that first covenant had been faultless, then no place would have been sought for a second” (v. 7). But notice where the fault lay: “For finding fault with them” (v. 8). The law was holy, but the people “didn’t continue in my covenant” (v. 9). The old covenant told people what to do but did not change their hearts. Paul says, “For the letter kills, but the Spirit gives life” (2 Corinthians 3:6).",
+          "So God promised through Jeremiah, as quoted in verse 8, “that I will make a new covenant with the house of Israel and with the house of Judah” (v. 8). Jesus announced its arrival at the Last Supper: “This cup is the new covenant in my blood” (1 Corinthians 11:25). The new covenant is not a different God or a lower standard, but the same God doing what the old could not."
+        ]
+      },
+      {
+        "heading": "Four Promises of the New Covenant",
+        "paragraphs": [
+          "The new covenant brings four great promises. First, an inner law: “I will put my laws into their mind, I will also write them on their heart” (v. 10). Paul says believers are “a letter of Christ... written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh” (2 Corinthians 3:3). Second, a relationship: “I will be their God, and they will be my people” (v. 10).",
+          "Third, personal knowledge of God for everyone: “for all will know me, from their least to their greatest” (v. 11). Two know-family words make the point: no one will need to be told ‘get to know (γινώσκω) the Lord’, because all will ‘know’ (οἶδα) Him. Jesus said, quoting the prophets, “They will all be taught by God” (John 6:45). Fourth, complete forgiveness: “For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more” (v. 12). Three sin-family words — injustice, sin, lawlessness — are all covered.",
+          "The chapter ends: “In that he says, ‘A new covenant’, he has made the first old. But that which is becoming old and grows aged is near to vanishing away” (v. 13). The word ‘new’ (καινός) means new in kind. The old covenant, with its temple and sacrifices, was about to disappear — and within a few years of this letter, the temple was destroyed. Those tempted to go back were clinging to something that was passing away."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The New Covenant in Jesus' Blood",
+      "paragraphs": [
+        "Jesus instituted the new covenant at the Last Supper: “for this is my blood of the new covenant, which is poured out for many for the remission of sins” (Matthew 26:28). Luke records, “This cup is the new covenant in my blood, which is poured out for you” (Luke 22:20). Paul calls apostles “servants of a new covenant; not of the letter, but of the Spirit” (2 Corinthians 3:6), and quotes God's promise for Israel: “This is my covenant with them, when I will take away their sins” (Romans 11:27).",
+        "The heavenly reality behind the earthly copies is a theme of Hebrews. The law was “a shadow of the good to come, not the very image of the things” (Hebrews 10:1). The earthly holy places were “representations of the true” (Hebrews 9:24). And Jesus is “the mediator of a new covenant” (Hebrews 12:24) — there using νέος, ‘new’ in the sense of freshly given, alongside καινός, ‘new in kind’, here in chapter 8.",
+        "The inner knowledge of God promised in verse 11 is the work of the Spirit. John writes, “the anointing which you received from him remains in you, and you don’t need for anyone to teach you” (1 John 2:27). This does not abolish teachers (Hebrews itself is teaching!), but it means every believer, not just priests and experts, has direct, personal access to God and real knowledge of Him."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Shadow",
+      "hebrew": "σκιά",
+      "translit": "skiá",
+      "strongs": "G4639",
+      "verses": "v. 5",
+      "insight": "Strong's: “\"shade\" or a shadow (literally or figuratively (darkness of error or an adumbration)).” Hebrews uses it twice: earthly priests serve a ‘shadow’ of heavenly things (8:5), and the law has a ‘shadow’ of good things to come (10:1). Colossians 2:17 uses it of festivals and Sabbaths. A shadow is real and has the shape of what casts it, but it is not the substance. Christ is the substance. This study tags it in the new pattern family."
+    },
+    {
+      "english": "Pattern / type",
+      "hebrew": "τύπος",
+      "translit": "týpos",
+      "strongs": "G5179",
+      "verses": "v. 5",
+      "insight": "Strong's: “a die (as struck), i.e. (by implication) a stamp or scar; by analogy, a shape, i.e. a statue, (figuratively) style or resemblance; specially, a sampler (\"type\"), i.e. a model (for imitation) or instance (for warning).” It could mean the mark left by a blow (Thomas wanted to see the ‘print’ of the nails), a model to copy, or a type that foreshadows. In 8:5 it is the heavenly original that Moses' tabernacle copied."
+    },
+    {
+      "english": "Mediator / go-between",
+      "hebrew": "μεσίτης",
+      "translit": "mesítēs",
+      "strongs": "G3316",
+      "verses": "v. 6",
+      "insight": "Strong's: “a go-between, i.e. (simply) an internunciator, or (by implication) a reconciler (intercessor).” Moses was the mediator of the old covenant at Sinai (Galatians 3:19). Jesus is the mediator of the new and better covenant (8:6; 9:15; 12:24). Paul says there is ‘one mediator between God and men, the man Christ Jesus’. Because He is both God and man, He alone can bring the two together."
+    },
+    {
+      "english": "Covenant / will / testament",
+      "hebrew": "διαθήκη",
+      "translit": "diathḗkē",
+      "strongs": "G1242",
+      "verses": "v. 6, 8, 9, 10",
+      "insight": "Strong's: “properly, a disposition, i.e. (specially) a contract (especially a devisory will).” In ordinary Greek it usually meant a last will and testament. The Greek Old Testament used it for God's covenants, which are not bargains between equals but arrangements God sovereignly sets up. Hebrews 9:16–17 will use both senses: a covenant that is also a will, put into effect by the death of the one who made it. It gives us the names ‘Old Testament’ and ‘New Testament’."
+    },
+    {
+      "english": "Vanishing away / disappearance",
+      "hebrew": "ἀφανισμός",
+      "translit": "aphanismós",
+      "strongs": "G854",
+      "verses": "v. 13",
+      "insight": "Strong's: “disappearance, i.e. (figuratively) abrogation.” It appears only here in the New Testament. The old covenant was ‘near to vanishing away’ — and within a few years of this letter, the Romans destroyed the temple in Jerusalem (AD 70) and the sacrificial system ended. The shadow disappeared because the reality had come."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "Through this chapter the Holy Spirit shows you where Jesus is serving now and what He has written on your heart.",
+    "items": [
+      {
+        "title": "We Have Such a High Priest — Now",
+        "body": "The main point is not a doctrine but a Person who is serving for you right now in heaven. The Spirit wants you to live in the present tense of Jesus' priesthood. Whatever you face today, He is seated, enthroned and ministering on your behalf."
+      },
+      {
+        "title": "Let Him Write on Your Heart",
+        "body": "In the new covenant, God's will is not only commanded but written within. The Spirit is the One who writes. Where do you still experience God's ways as outside rules rather than inner desires? Ask Him to write His law more deeply on your heart, so obedience becomes delight."
+      },
+      {
+        "title": "Believe That He Has Forgotten",
+        "body": "God has promised to remember your sins no more. The Spirit wants to free you from replaying forgiven failures. When the memory of a confessed sin accuses you, answer with verse 12: ‘God has chosen never to bring this up again.’"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Shadow Check",
+        "body": "Are you holding on to any ‘shadow’ — a ritual, tradition or religious habit — as if it were the substance? Ask how it points you to Christ, and focus on Him (v. 5)."
+      },
+      {
+        "title": "The Heart Check",
+        "body": "Which of God's commands do you obey only reluctantly, as outside rules? Pray specifically for Him to write that command on your heart (v. 10)."
+      },
+      {
+        "title": "The Forgiveness Check",
+        "body": "Is there a forgiven sin you keep bringing up before God? Read verse 12 aloud and thank Him that He remembers it no more."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Know the Lord Personally",
+        "body": "Every believer can know God personally (v. 11). This month, set aside a regular time to talk with God simply and honestly, as a child to a Father. Read a short passage, then tell Him what you notice about Him, and listen. Keep a journal of what you learn about God Himself, not just about rules."
+      },
+      {
+        "title": "Celebrate the New Covenant",
+        "body": "Next time you share in the Lord's Supper, prepare beforehand by reading Hebrews 8:10–12 and Luke 22:20. As you take the cup, remember the four promises: an inner law, a relationship, personal knowledge of God, and complete forgiveness. Thank Jesus, the mediator, who sealed them with His blood."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, this is the main point: I have a High Priest seated at the right hand of the throne of the Majesty in heaven. You serve in the true tabernacle that the Lord pitched, not human hands. Thank You that the tabernacle, priests and sacrifices of the old covenant were a copy and a shadow, and that You are the reality. You are the mediator of a better covenant, founded on better promises. Father, thank You for the new covenant. Put Your laws into my mind and write them on my heart. Be my God, and let me live as one of Your people. Thank You that I can know You personally, whether I am least or greatest. Thank You that You are merciful to my unrighteousness and that You will remember my sins and lawless deeds no more. Help me let go of every shadow and hold fast to Christ, the substance. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Moses on the Mountain: The Pattern of the Tabernacle",
+      "ref": "Exodus 24:12-18; 25:1-9, 40",
+      "relatedVerses": "v. 2, 5",
+      "summary": "God called Moses up Mount Sinai, and the glory of the LORD settled on the mountain like a consuming fire. Moses stayed forty days and nights, and God gave him detailed instructions for building a sanctuary so that He could dwell among His people: the ark, the table, the lampstand, the curtains, the altar. Again and again God told Moses to make everything exactly according to the pattern shown to him on the mountain. Hebrews 8:5 quotes this command and explains its meaning: the earthly tabernacle was a careful copy of a heavenly reality, where Jesus now ministers as High Priest."
+    },
+    {
+      "title": "The Covenant Broken at the Golden Calf",
+      "ref": "Exodus 32:1-20",
+      "relatedVerses": "v. 8-9",
+      "summary": "While Moses was on the mountain receiving the law, the people grew impatient. They persuaded Aaron to make a golden calf and worshipped it, saying it was the god who brought them out of Egypt. When Moses came down and saw the idolatry, he threw down the two stone tablets and broke them at the foot of the mountain. The covenant had barely been made before it was broken. Hebrews 8:9 quotes God's verdict through Jeremiah: ‘they didn’t continue in my covenant’. The problem was not the law but the people's hearts — which is why God promised a new covenant written on hearts."
+    },
+    {
+      "title": "The Last Supper",
+      "ref": "Matthew 26:26-29; 1 Corinthians 11:23-26",
+      "relatedVerses": "v. 6-13",
+      "summary": "On the night He was betrayed, Jesus took bread, gave thanks, broke it and said, ‘This is my body.’ Then He took the cup and said, “for this is my blood of the new covenant, which is poured out for many for the remission of sins” (Matthew 26:28). Paul passed on the same words to the Corinthians: “This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me” (1 Corinthians 11:25). At that table, the new covenant promised in Jeremiah 31 and quoted in Hebrews 8 was inaugurated, sealed the next day by Jesus' death."
+    }
+  ]
+}
