@@ -1,0 +1,1278 @@
+{
+  "type": "chapterStudy",
+  "book": "James",
+  "chapter": 1,
+  "chapterTitle": "Trials, Temptation, and the Word That Must Be Done",
+  "themeTitle": "“Be Doers of the Word, and Not Only Hearers”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are in the Dispersion: Greetings.",
+      "understanding": "Ἰάκωβος θεοῦ καὶ κυρίου Ἰησοῦ Χριστοῦ δοῦλος, “James, a servant of God and of the Lord Jesus Christ” — the brother of Jesus calls himself His δοῦλος, a slave, from the servant family: not a hired helper (μισθωτός) or an attendant (διάκονος) but someone wholly owned. He puts God and the Lord Jesus Christ side by side as the one Master he serves. “to the twelve tribes which are in the Dispersion” — διασπορά, the scattering: Jewish believers living outside the land, and through them the whole church as God's people in exile.",
+      "words": [
+        {
+          "strongs": "G2385",
+          "hebrew": "Ἰάκωβος",
+          "translit": "Iákōbos",
+          "english": "James"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servant"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G5443",
+          "hebrew": "φυλή",
+          "translit": "phylḗ",
+          "english": "tribes"
+        },
+        {
+          "strongs": "G1290",
+          "hebrew": "διασπορά",
+          "translit": "diasporá",
+          "english": "Dispersion"
+        },
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "Greetings"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Count it all joy, my brothers, when you fall into various temptations,",
+      "understanding": "πᾶσαν χαρὰν ἡγήσασθε, “Count it all joy” — χαρά echoes the greeting χαίρειν (v. 1): ‘Rejoice! … consider it all joy.’ ἡγέομαι means to reckon, to make a considered judgement — not to feel happy about pain, but to decide what trials are worth. πειρασμοῖς περιπέσητε ποικίλοις, “when you fall into various temptations” — πειρασμός, from the test family. Here it means outward trials that come upon you (περιπίπτω, to fall into something on every side), as the next verse shows; in verses 13–14 the same root will mean an inner pull to sin.",
+      "words": [
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        },
+        {
+          "strongs": "G2233",
+          "hebrew": "ἡγέομαι",
+          "translit": "hēgéomai",
+          "english": "Count"
+        },
+        {
+          "strongs": "G4045",
+          "hebrew": "περιπίπτω",
+          "translit": "peripíptō",
+          "english": "fall into"
+        },
+        {
+          "strongs": "G4164",
+          "hebrew": "ποικίλος",
+          "translit": "poikílos",
+          "english": "various"
+        },
+        {
+          "strongs": "G3986",
+          "hebrew": "πειρασμός",
+          "translit": "peirasmós",
+          "english": "temptations"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "knowing that the testing of your faith produces endurance.",
+      "understanding": "“knowing that the testing of your faith produces endurance” — δοκίμιον, the second word of the test family: the assayer's proving of metal in fire to show it is genuine. πειρασμός is the trial; δοκίμιον is what the trial does to your faith — it proves it. κατεργάζεται, from the work family, means to work out fully, to produce a finished result. And what it produces is ὑπομονή, endurance — from the endurance family: ‘remaining under’ a load without giving way.",
+      "words": [
+        {
+          "strongs": "G1383",
+          "hebrew": "δοκίμιον",
+          "translit": "dokímion",
+          "english": "testing"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G2716",
+          "hebrew": "κατεργάζομαι",
+          "translit": "katergázomai",
+          "english": "produces"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "endurance"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing.",
+      "understanding": "ἡ δὲ ὑπομονὴ ἔργον τέλειον ἐχέτω, “Let endurance have its perfect work” — do not cut the process short by escaping the trial too soon. Two words from the perfect family follow: τέλειος, mature, having reached its goal, and ὁλόκληρος, whole in every part, nothing missing. “lacking in nothing” — λείπω, to fall short; verse 5 will pick up the same word.",
+      "words": [
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "endurance"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        },
+        {
+          "strongs": "G5046",
+          "hebrew": "τέλειος",
+          "translit": "téleios",
+          "english": "perfect"
+        },
+        {
+          "strongs": "G3648",
+          "hebrew": "ὁλόκληρος",
+          "translit": "holóklēros",
+          "english": "complete"
+        },
+        {
+          "strongs": "G3007",
+          "hebrew": "λείπω",
+          "translit": "leípō",
+          "english": "lacking"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach; and it will be given to him.",
+      "understanding": "εἰ δέ τις ὑμῶν λείπεται σοφίας, “But if any of you lacks wisdom” — the same verb as verse 4: endurance makes you lack nothing, but in the middle of the trial you will lack wisdom, the skill to see and live it God's way. αἰτείτω, from the pray family: to ask as a child asks a father. God gives ἁπλῶς — simply, generously, with an undivided heart — and μὴ ὀνειδίζοντος, without scolding you for asking.",
+      "words": [
+        {
+          "strongs": "G3007",
+          "hebrew": "λείπω",
+          "translit": "leípō",
+          "english": "lacks"
+        },
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G154",
+          "hebrew": "αἰτέω",
+          "translit": "aitéō",
+          "english": "ask"
+        },
+        {
+          "strongs": "G574",
+          "hebrew": "ἁπλῶς",
+          "translit": "haplōs",
+          "english": "liberally"
+        },
+        {
+          "strongs": "G3679",
+          "hebrew": "ὀνειδίζω",
+          "translit": "oneidízō",
+          "english": "reproach"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "gives"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed.",
+      "understanding": "αἰτείτω δὲ ἐν πίστει μηδὲν διακρινόμενος, “But let him ask in faith, without any doubting” — διακρίνομαι, to be divided against yourself, arguing both ways. The picture is κλύδων θαλάσσης, the surge of the sea, driven (ἀνεμίζω) and tossed (ῥιπίζω) — never still, going wherever the wind pushes it.",
+      "words": [
+        {
+          "strongs": "G154",
+          "hebrew": "αἰτέω",
+          "translit": "aitéō",
+          "english": "ask"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1252",
+          "hebrew": "διακρίνω",
+          "translit": "diakrínō",
+          "english": "doubting"
+        },
+        {
+          "strongs": "G2830",
+          "hebrew": "κλύδων",
+          "translit": "klýdōn",
+          "english": "wave"
+        },
+        {
+          "strongs": "G416",
+          "hebrew": "ἀνεμίζω",
+          "translit": "anemízō",
+          "english": "driven by the wind"
+        },
+        {
+          "strongs": "G4494",
+          "hebrew": "ῥιπίζω",
+          "translit": "rhipízō",
+          "english": "tossed"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "For that man shouldn’t think that he will receive anything from the Lord.",
+      "understanding": "“For that man shouldn’t think that he will receive anything from the Lord.” The problem is not that God is unwilling (v. 5), but that the doubter is not really asking God at all — he is asking and not asking at the same time. λαμβάνω, to receive, takes hold of what God gives with an open hand.",
+      "words": [
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "receive"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "He is a double-minded man, unstable in all his ways.",
+      "understanding": "ἀνὴρ δίψυχος, “He is a double-minded man” — δίψυχος, literally ‘two-souled’, a word James may have coined; he uses it again in 4:8. One soul leans towards God, the other towards the world. ἀκατάστατος, “unstable” — unsettled, restless, the same root as the ‘confusion’ of 3:16. A divided heart makes a divided life: “in all his ways.”",
+      "words": [
+        {
+          "strongs": "G1374",
+          "hebrew": "δίψυχος",
+          "translit": "dípsychos",
+          "english": "double-minded"
+        },
+        {
+          "strongs": "G182",
+          "hebrew": "ἀκατάστατος",
+          "translit": "akatástatos",
+          "english": "unstable"
+        },
+        {
+          "strongs": "G3598",
+          "hebrew": "ὁδός",
+          "translit": "hodós",
+          "english": "ways"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "But let the brother in humble circumstances glory in his high position;",
+      "understanding": "“But let the brother in humble circumstances glory in his high position” — ταπεινός, low, poor, of small account. καυχάσθω, let him boast — not in himself but in his ὕψος, his height: in Christ he is a child of God and an heir of the kingdom (2:5). Poverty is the first trial James names.",
+      "words": [
+        {
+          "strongs": "G5011",
+          "hebrew": "ταπεινός",
+          "translit": "tapeinós",
+          "english": "humble circumstances"
+        },
+        {
+          "strongs": "G2744",
+          "hebrew": "καυχάομαι",
+          "translit": "kaucháomai",
+          "english": "glory"
+        },
+        {
+          "strongs": "G5311",
+          "hebrew": "ὕψος",
+          "translit": "hýpsos",
+          "english": "high position"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "and the rich, in that he is made humble, because like the flower in the grass, he will pass away.",
+      "understanding": "“and the rich, in that he is made humble” — ταπείνωσις, lowering. The rich believer must boast in what humbles him: before God his wealth counts for nothing, and his life is short. ὡς ἄνθος χόρτου παρελεύσεται, “because like the flower in the grass, he will pass away” — an image from Isaiah 40, which Peter also quotes (1 Peter 1:24).",
+      "words": [
+        {
+          "strongs": "G4145",
+          "hebrew": "πλούσιος",
+          "translit": "ploúsios",
+          "english": "rich"
+        },
+        {
+          "strongs": "G5014",
+          "hebrew": "ταπείνωσις",
+          "translit": "tapeínōsis",
+          "english": "made humble"
+        },
+        {
+          "strongs": "G438",
+          "hebrew": "ἄνθος",
+          "translit": "ánthos",
+          "english": "flower"
+        },
+        {
+          "strongs": "G5528",
+          "hebrew": "χόρτος",
+          "translit": "chórtos",
+          "english": "grass"
+        },
+        {
+          "strongs": "G3928",
+          "hebrew": "παρέρχομαι",
+          "translit": "parérchomai",
+          "english": "pass away"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "For the sun arises with the scorching wind, and withers the grass, and the flower in it falls, and the beauty of its appearance perishes. So also will the rich man fade away in his pursuits.",
+      "understanding": "“For the sun arises with the scorching wind, and withers the grass” — καύσων may be the burning heat or the hot east wind of Palestine that can wither fields in a day. εὐπρέπεια, the beauty or grace of its appearance, perishes. “So also will the rich man fade away in his pursuits” — μαραίνω, to wither, in the middle of his πορείαι, his business journeys. Death interrupts the rich in the middle of their plans (compare 4:13–14).",
+      "words": [
+        {
+          "strongs": "G2246",
+          "hebrew": "ἥλιος",
+          "translit": "hḗlios",
+          "english": "sun"
+        },
+        {
+          "strongs": "G2742",
+          "hebrew": "καύσων",
+          "translit": "kaúsōn",
+          "english": "scorching wind"
+        },
+        {
+          "strongs": "G3583",
+          "hebrew": "ξηραίνω",
+          "translit": "xēraínō",
+          "english": "withers"
+        },
+        {
+          "strongs": "G2143",
+          "hebrew": "εὐπρέπεια",
+          "translit": "euprépeia",
+          "english": "beauty"
+        },
+        {
+          "strongs": "G3133",
+          "hebrew": "μαραίνω",
+          "translit": "maraínō",
+          "english": "fade away"
+        },
+        {
+          "strongs": "G4197",
+          "hebrew": "πορεία",
+          "translit": "poreía",
+          "english": "pursuits"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Blessed is the man who endures temptation, for when he has been approved, he will receive the crown of life, which the Lord promised to those who love him.",
+      "understanding": "μακάριος ἀνὴρ ὃς ὑπομένει πειρασμόν, “Blessed is the man who endures temptation” — ὑπομένω, the verb of the endurance family; πειρασμός, the trial of verse 2. ὅτι δόκιμος γενόμενος, “for when he has been approved” — δόκιμος, the third word of the test family: what is left when the testing is over, proved genuine. The reward is τὸν στέφανον τῆς ζωῆς, “the crown of life” — the victor's wreath, which is life itself, from the life family: ζωή, the life God gives, not βίος, the means of living. It is promised “to those who love him” — ἀγαπάω: endurance is love that will not let go.",
+      "words": [
+        {
+          "strongs": "G3107",
+          "hebrew": "μακάριος",
+          "translit": "makários",
+          "english": "Blessed"
+        },
+        {
+          "strongs": "G5278",
+          "hebrew": "ὑπομένω",
+          "translit": "hypoménō",
+          "english": "endures"
+        },
+        {
+          "strongs": "G3986",
+          "hebrew": "πειρασμός",
+          "translit": "peirasmós",
+          "english": "temptation"
+        },
+        {
+          "strongs": "G1384",
+          "hebrew": "δόκιμος",
+          "translit": "dókimos",
+          "english": "approved"
+        },
+        {
+          "strongs": "G4735",
+          "hebrew": "στέφανος",
+          "translit": "stéphanos",
+          "english": "crown"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G1861",
+          "hebrew": "ἐπαγγέλλω",
+          "translit": "epangéllō",
+          "english": "promised"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "love"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one.",
+      "understanding": "Now the test family turns. μηδεὶς πειραζόμενος λεγέτω, “Let no man say when he is tempted” — πειράζω, here in its bad sense: enticed towards sin. “I am tempted by God” is the oldest excuse; Adam blamed ‘the woman whom you gave to be with me’. ὁ γὰρ θεὸς ἀπείραστός ἐστιν κακῶν, “for God can’t be tempted by evil” — ἀπείραστος, untemptable, a member of the test family used of God alone. κακός, from the evil family, is badness in itself. God may test (πειράζω in the good sense, as with Abraham), but “he himself tempts no one.”",
+      "words": [
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tempted"
+        },
+        {
+          "strongs": "G551",
+          "hebrew": "ἀπείραστος",
+          "translit": "apeírastos",
+          "english": "can’t be tempted"
+        },
+        {
+          "strongs": "G2556",
+          "hebrew": "κακός",
+          "translit": "kakós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "But each one is tempted when he is drawn away by his own lust, and enticed.",
+      "understanding": "“But each one is tempted when he is drawn away by his own lust, and enticed.” Two hunting and fishing words: ἐξέλκω, to drag out, as a fish is drawn from its hiding place, and δελεάζω, to lure with bait. The bait works because of ἐπιθυμία, desire — “his own”. The trial comes from outside; the temptation finds its hook inside.",
+      "words": [
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tempted"
+        },
+        {
+          "strongs": "G1828",
+          "hebrew": "ἐξέλκω",
+          "translit": "exélkō",
+          "english": "drawn away"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "lust"
+        },
+        {
+          "strongs": "G1185",
+          "hebrew": "δελεάζω",
+          "translit": "deleázō",
+          "english": "enticed"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Then the lust, when it has conceived, bears sin; and the sin, when it is full grown, produces death.",
+      "understanding": "“Then the lust, when it has conceived, bears sin” — a birth sequence. Desire conceives (συλλαμβάνω), gives birth (τίκτω) to ἁμαρτία — sin, from the sin family: missing the mark. And sin, ἀποτελεσθεῖσα, “when it is full grown” (literally, brought to completion — the dark twin of the τέλειος of verse 4), ἀποκύει θάνατον, “produces death.” James uses ἀποκυέω again in verse 18 for God giving birth to us: two families, two births, two outcomes.",
+      "words": [
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "lust"
+        },
+        {
+          "strongs": "G4815",
+          "hebrew": "συλλαμβάνω",
+          "translit": "syllambánō",
+          "english": "conceived"
+        },
+        {
+          "strongs": "G5088",
+          "hebrew": "τίκτω",
+          "translit": "tíktō",
+          "english": "bears"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        },
+        {
+          "strongs": "G658",
+          "hebrew": "ἀποτελέω",
+          "translit": "apoteléō",
+          "english": "full grown"
+        },
+        {
+          "strongs": "G616",
+          "hebrew": "ἀποκυέω",
+          "translit": "apokyéō",
+          "english": "produces"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Don’t be deceived, my beloved brothers.",
+      "understanding": "μὴ πλανᾶσθε, “Don’t be deceived” — πλανάω, to wander off, to be led astray. The deception James means is the lie of verse 13: that God is the source of evil. ἀγαπητοί, “my beloved brothers” — from the love family: the people God loves. James corrects them with tenderness.",
+      "words": [
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "deceived"
+        },
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow.",
+      "understanding": "πᾶσα δόσις ἀγαθὴ καὶ πᾶν δώρημα τέλειον, “Every good gift and every perfect gift” — two words from the gift family in one line: δόσις, the act of giving, and δώρημα, the thing given. Both the way God gives and what He gives are good (ἀγαθός, from the good family) and complete (τέλειος, the perfect family again). ἄνωθεν, “from above.” He is “the Father of lights” — Creator of the sun, moon and stars — but unlike them “with whom can be no variation, nor turning shadow”: παραλλαγή, change, and τροπή, turning, with ἀποσκίασμα, the shadow cast by turning. The heavenly lights move and wane; their Maker never does.",
+      "words": [
+        {
+          "strongs": "G1394",
+          "hebrew": "δόσις",
+          "translit": "dósis",
+          "english": "gift"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        },
+        {
+          "strongs": "G1434",
+          "hebrew": "δώρημα",
+          "translit": "dṓrēma",
+          "english": "gift"
+        },
+        {
+          "strongs": "G5046",
+          "hebrew": "τέλειος",
+          "translit": "téleios",
+          "english": "perfect"
+        },
+        {
+          "strongs": "G509",
+          "hebrew": "ἄνωθεν",
+          "translit": "ánōthen",
+          "english": "from above"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        },
+        {
+          "strongs": "G5457",
+          "hebrew": "φῶς",
+          "translit": "phōs",
+          "english": "lights"
+        },
+        {
+          "strongs": "G3883",
+          "hebrew": "παραλλαγή",
+          "translit": "parallagḗ",
+          "english": "variation"
+        },
+        {
+          "strongs": "G5157",
+          "hebrew": "τροπή",
+          "translit": "tropḗ",
+          "english": "turning"
+        },
+        {
+          "strongs": "G644",
+          "hebrew": "ἀποσκίασμα",
+          "translit": "aposkíasma",
+          "english": "shadow"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures.",
+      "understanding": "βουληθεὶς ἀπεκύησεν ἡμᾶς λόγῳ ἀληθείας, “Of his own will he gave birth to us by the word of truth” — the same verb as verse 15. Sin gives birth to death; God, by His own decision, gives birth to children. The means is λόγος, from the word family: the message of the gospel, the whole truth God has spoken, rather than ῥῆμα, a particular saying. ἀπαρχή, “first fruits” — the first sheaf of the harvest given to God, the promise of more to come.",
+      "words": [
+        {
+          "strongs": "G1014",
+          "hebrew": "βούλομαι",
+          "translit": "boúlomai",
+          "english": "will"
+        },
+        {
+          "strongs": "G616",
+          "hebrew": "ἀποκυέω",
+          "translit": "apokyéō",
+          "english": "gave birth"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G536",
+          "hebrew": "ἀπαρχή",
+          "translit": "aparchḗ",
+          "english": "first fruits"
+        },
+        {
+          "strongs": "G2938",
+          "hebrew": "κτίσμα",
+          "translit": "ktísma",
+          "english": "creatures"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;",
+      "understanding": "“let every man be swift to hear, slow to speak, and slow to anger” — ταχύς, quick; βραδύς, slow. James will develop all three: hearing (vv. 21–25), speaking (3:1–12), and anger (4:1–2). ὀργή is a settled, smouldering anger, not a passing flash.",
+      "words": [
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "beloved"
+        },
+        {
+          "strongs": "G5036",
+          "hebrew": "ταχύς",
+          "translit": "tachýs",
+          "english": "swift"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        },
+        {
+          "strongs": "G1021",
+          "hebrew": "βραδύς",
+          "translit": "bradýs",
+          "english": "slow"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "speak"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "anger"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "for the anger of man doesn’t produce the righteousness of God.",
+      "understanding": "“for the anger of man doesn’t produce the righteousness of God.” ἐργάζεται, from the work family: human anger cannot work out the right living God desires (δικαιοσύνη). Compare verse 3, where testing produces (κατεργάζεται) endurance: one work family member is fruitful, the other barren.",
+      "words": [
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "anger"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "produce"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls.",
+      "understanding": "“Therefore, putting away all filthiness and overflowing of wickedness” — ἀποθέμενοι, taking off like dirty clothes. ῥυπαρία, filthiness, is moral grime; κακία, from the evil family, is malice, ill-will towards others — the vice of the heart behind evil acts. ἐν πραΰτητι, “with humility” (meekness, teachableness), δέξασθε τὸν ἔμφυτον λόγον, “receive … the implanted word” — ἔμφυτος, planted in, like a seed rooted in the soil. The word is already in you; welcome it. It “is able to save your souls” — ψυχή, from the life family: your whole self.",
+      "words": [
+        {
+          "strongs": "G659",
+          "hebrew": "ἀποτίθημι",
+          "translit": "apotíthēmi",
+          "english": "putting away"
+        },
+        {
+          "strongs": "G4507",
+          "hebrew": "ῥυπαρία",
+          "translit": "rhyparía",
+          "english": "filthiness"
+        },
+        {
+          "strongs": "G4050",
+          "hebrew": "περισσεία",
+          "translit": "perisseía",
+          "english": "overflowing"
+        },
+        {
+          "strongs": "G2549",
+          "hebrew": "κακία",
+          "translit": "kakía",
+          "english": "wickedness"
+        },
+        {
+          "strongs": "G4240",
+          "hebrew": "πραΰτης",
+          "translit": "praÿtēs",
+          "english": "humility"
+        },
+        {
+          "strongs": "G1721",
+          "hebrew": "ἔμφυτος",
+          "translit": "émphytos",
+          "english": "implanted"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "save"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "souls"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "But be doers of the word, and not only hearers, deluding your own selves.",
+      "understanding": "γίνεσθε δὲ ποιηταὶ λόγου, “But be doers of the word” — ποιητής, a doer, a maker; our word ‘poet’ comes from it. καὶ μὴ μόνον ἀκροαταί, “and not only hearers” — ἀκροατής, a mere listener, an audience member. Hearing without doing is not neutral: παραλογιζόμενοι ἑαυτούς, “deluding your own selves” — reasoning falsely, miscalculating your own spiritual condition.",
+      "words": [
+        {
+          "strongs": "G4163",
+          "hebrew": "ποιητής",
+          "translit": "poiētḗs",
+          "english": "doers"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G202",
+          "hebrew": "ἀκροατής",
+          "translit": "akroatḗs",
+          "english": "hearers"
+        },
+        {
+          "strongs": "G3884",
+          "hebrew": "παραλογίζομαι",
+          "translit": "paralogízomai",
+          "english": "deluding"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror;",
+      "understanding": "“he is like a man looking at his natural face in a mirror” — κατανοέω, from the see family: to look carefully, to take note. He does look properly. τὸ πρόσωπον τῆς γενέσεως αὐτοῦ, literally ‘the face of his birth’ — the face he was born with. ἔσοπτρον, a mirror of polished bronze, giving a dim but real picture.",
+      "words": [
+        {
+          "strongs": "G202",
+          "hebrew": "ἀκροατής",
+          "translit": "akroatḗs",
+          "english": "hearer"
+        },
+        {
+          "strongs": "G4163",
+          "hebrew": "ποιητής",
+          "translit": "poiētḗs",
+          "english": "doer"
+        },
+        {
+          "strongs": "G2657",
+          "hebrew": "κατανοέω",
+          "translit": "katanoéō",
+          "english": "looking"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face"
+        },
+        {
+          "strongs": "G1078",
+          "hebrew": "γένεσις",
+          "translit": "génesis",
+          "english": "natural"
+        },
+        {
+          "strongs": "G2072",
+          "hebrew": "ἔσοπτρον",
+          "translit": "ésoptron",
+          "english": "mirror"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "for he sees himself, and goes away, and immediately forgets what kind of man he was.",
+      "understanding": "“for he sees himself, and goes away, and immediately forgets what kind of man he was.” κατενόησεν again — he saw clearly. The failure is not in the seeing but in the walking away. ἐπιλανθάνομαι, to let slip out of the mind. A sermon heard and not done is a face seen and forgotten.",
+      "words": [
+        {
+          "strongs": "G2657",
+          "hebrew": "κατανοέω",
+          "translit": "katanoéō",
+          "english": "sees"
+        },
+        {
+          "strongs": "G1950",
+          "hebrew": "ἐπιλανθάνομαι",
+          "translit": "epilanthánomai",
+          "english": "forgets"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "But he who looks into the perfect law of freedom, and continues, not being a hearer who forgets, but a doer of the work, this man will be blessed in what he does.",
+      "understanding": "ὁ δὲ παρακύψας εἰς νόμον τέλειον, “But he who looks into the perfect law of freedom” — παρακύπτω, a second member of the see family: to stoop down and peer in, as the disciples bent to look into the empty tomb (John 20:5). The glance of verse 24 becomes the bent-over gaze. The law is τέλειος, perfect, and ἐλευθερία, freedom — the word of the gospel that sets free and teaches free people how to live. καὶ παραμείνας, “and continues” — stays with it. οὐκ ἀκροατὴς ἐπιλησμονῆς … ἀλλὰ ποιητὴς ἔργου, “not being a hearer who forgets, but a doer of the work” — ἔργον, the work family. He is μακάριος ἐν τῇ ποιήσει αὐτοῦ, blessed in the doing itself.",
+      "words": [
+        {
+          "strongs": "G3879",
+          "hebrew": "παρακύπτω",
+          "translit": "parakýptō",
+          "english": "looks"
+        },
+        {
+          "strongs": "G5046",
+          "hebrew": "τέλειος",
+          "translit": "téleios",
+          "english": "perfect"
+        },
+        {
+          "strongs": "G3551",
+          "hebrew": "νόμος",
+          "translit": "nómos",
+          "english": "law"
+        },
+        {
+          "strongs": "G1657",
+          "hebrew": "ἐλευθερία",
+          "translit": "eleuthería",
+          "english": "freedom"
+        },
+        {
+          "strongs": "G3887",
+          "hebrew": "παραμένω",
+          "translit": "paraménō",
+          "english": "continues"
+        },
+        {
+          "strongs": "G1953",
+          "hebrew": "ἐπιλησμονή",
+          "translit": "epilēsmonḗ",
+          "english": "forgets"
+        },
+        {
+          "strongs": "G4163",
+          "hebrew": "ποιητής",
+          "translit": "poiētḗs",
+          "english": "doer"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "work"
+        },
+        {
+          "strongs": "G3107",
+          "hebrew": "μακάριος",
+          "translit": "makários",
+          "english": "blessed"
+        },
+        {
+          "strongs": "G4162",
+          "hebrew": "ποίησις",
+          "translit": "poíēsis",
+          "english": "does"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless.",
+      "understanding": "“If anyone among you thinks himself to be religious” — θρησκός, from the godliness family: outwardly devout, careful in worship. That is not εὐσεβής, the inner reverence of the godly; it is the external side of religion. Yet if he μὴ χαλιναγωγῶν γλῶσσαν, does “not bridle his tongue” — χαλιναγωγέω, to lead with a bit, as a horse — and so deceives his own heart (ἀπατάω), “this man’s religion is worthless” — μάταιος, empty, futile. James will take up the tongue fully in chapter 3.",
+      "words": [
+        {
+          "strongs": "G2357",
+          "hebrew": "θρησκός",
+          "translit": "thrēskós",
+          "english": "religious"
+        },
+        {
+          "strongs": "G5468",
+          "hebrew": "χαλιναγωγέω",
+          "translit": "chalinagōgéō",
+          "english": "bridle"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "tongue"
+        },
+        {
+          "strongs": "G538",
+          "hebrew": "ἀπατάω",
+          "translit": "apatáō",
+          "english": "deceives"
+        },
+        {
+          "strongs": "G2356",
+          "hebrew": "θρησκεία",
+          "translit": "thrēskeía",
+          "english": "religion"
+        },
+        {
+          "strongs": "G3152",
+          "hebrew": "μάταιος",
+          "translit": "mátaios",
+          "english": "worthless"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.",
+      "understanding": "θρησκεία καθαρὰ καὶ ἀμίαντος, “Pure religion and undefiled” — θρησκεία, the same godliness-family word as verse 26, now filled with right content. καθαρός, clean; ἀμίαντος, unstained (the word Hebrews uses of Jesus, Hebrews 7:26). Two marks: ἐπισκέπτεσθαι ὀρφανοὺς καὶ χήρας, “to visit the fatherless and widows” — ἐπισκέπτομαι, to look in on and care for, the word used of God visiting His people (Luke 1:68) — and ἄσπιλον ἑαυτὸν τηρεῖν ἀπὸ τοῦ κόσμου, “to keep oneself unstained by the world.” τηρέω, from the hold family: to guard carefully. κόσμος, from the world family: not the earth (γῆ) or the age (αἰών), but human society organised without God.",
+      "words": [
+        {
+          "strongs": "G2356",
+          "hebrew": "θρησκεία",
+          "translit": "thrēskeía",
+          "english": "religion"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "Pure"
+        },
+        {
+          "strongs": "G283",
+          "hebrew": "ἀμίαντος",
+          "translit": "amíantos",
+          "english": "undefiled"
+        },
+        {
+          "strongs": "G1980",
+          "hebrew": "ἐπισκέπτομαι",
+          "translit": "episképtomai",
+          "english": "visit"
+        },
+        {
+          "strongs": "G3737",
+          "hebrew": "ὀρφανός",
+          "translit": "orphanós",
+          "english": "fatherless"
+        },
+        {
+          "strongs": "G5503",
+          "hebrew": "χήρα",
+          "translit": "chḗra",
+          "english": "widows"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "affliction"
+        },
+        {
+          "strongs": "G784",
+          "hebrew": "ἄσπιλος",
+          "translit": "áspilos",
+          "english": "unstained"
+        },
+        {
+          "strongs": "G5083",
+          "hebrew": "τηρέω",
+          "translit": "tēréō",
+          "english": "keep"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Refiner's Fire",
+      "verseRef": "v. 2-4, 12",
+      "image": "Picture a goldsmith bent over a small clay crucible set in glowing coals. The ore inside melts and bubbles; dark scum rises to the surface, and he skims it off. He does not leave the fire, and he does not take the crucible out too soon. Again and again he looks in, until at last he can see his own face reflected in the molten gold. Then he lifts it out — proven, pure, approved.",
+      "meaning": "“knowing that the testing of your faith produces endurance” (v. 3). The word for testing is the assayer's word: the fire does not destroy genuine gold; it reveals it. “Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing” (v. 4). And at the end, “when he has been approved, he will receive the crown of life” (v. 12). Your trial is not a sign that God has left the room. The Refiner is watching the crucible."
+    },
+    {
+      "title": "The Wave and the Rock",
+      "verseRef": "v. 5-8",
+      "image": "Picture the sea on a stormy day. A wave rises, is pushed towards the shore, then sucked back, then driven sideways by a gust, never resting, never arriving. Now picture a rock standing in the surf. The same waves break on it, but it does not move.",
+      "meaning": "“But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed” (v. 6). The double-minded person is not someone with questions, but someone with two loyalties, asking God while keeping another option open. James calls him “unstable in all his ways” (v. 8). Faith is not the absence of storms; it is the decision about which way you face in them."
+    },
+    {
+      "title": "The Bait and the Hook",
+      "verseRef": "v. 13-15",
+      "image": "Picture a fish in the shadow of a rock, safe. A fisherman drops a fat, wriggling worm into the water just beyond the shadow. The fish sees it, wants it, edges out, then darts and bites. Too late it feels the hook. It is dragged out of its hiding place, into the light, and onto the bank.",
+      "meaning": "“But each one is tempted when he is drawn away by his own lust, and enticed” (v. 14). The words are taken from fishing and hunting. The bait is always attractive; the hook is always hidden. And James traces the full life-cycle: desire conceives, gives birth to sin, and sin grows up and “produces death” (v. 15). The time to deal with temptation is before the bite, in the moment of wanting."
+    },
+    {
+      "title": "The Mirror",
+      "verseRef": "v. 22-25",
+      "image": "Picture a man getting ready in the morning. He looks in the mirror and sees a smear of dirt across his cheek and his hair standing up. He nods, puts the mirror down, walks out of the door and goes to work exactly as he is. Then picture another man who looks in the same mirror, bends closer, keeps looking, and washes his face before he leaves.",
+      "meaning": "“For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror” (v. 23). Scripture shows you yourself. The question is not whether you have looked, but what you did next. “But he who looks into the perfect law of freedom, and continues, not being a hearer who forgets, but a doer of the work, this man will be blessed in what he does” (v. 25)."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Greeting (v. 1)",
+        "body": "James, a servant of God and of the Lord Jesus Christ, greets the twelve tribes in the Dispersion — believers scattered among the nations."
+      },
+      {
+        "label": "Trials, Wisdom and Faith (v. 2-8)",
+        "body": "Count trials as joy because testing produces endurance and endurance makes you complete; if you lack wisdom, ask God, who gives generously; ask in faith, without the divided heart that makes a person like a wave of the sea."
+      },
+      {
+        "label": "Poor and Rich (v. 9-11)",
+        "body": "The lowly believer should boast in his exaltation and the rich in his humiliation, because the rich will fade like a flower in the scorching heat."
+      },
+      {
+        "label": "Testing and Temptation (v. 12-18)",
+        "body": "The one who endures trial will receive the crown of life; temptation never comes from God but from our own desire, which conceives sin and brings death; every good and perfect gift comes from the unchanging Father of lights, who gave us new birth by the word of truth."
+      },
+      {
+        "label": "Hearing and Doing (v. 19-27)",
+        "body": "Be quick to hear, slow to speak and slow to anger; put away filth and receive the implanted word; be doers of the word and not hearers only, like a man who looks in a mirror and forgets; true religion bridles the tongue, cares for orphans and widows, and keeps itself unstained by the world."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "One Word, Two Directions: Trial and Temptation",
+        "paragraphs": [
+          "English Bibles divide what James holds together. The Greek word πειρασμός in verse 2 and πειράζω in verse 13 come from the same root. The WEB keeps the link by translating both with ‘temptation’ — “when you fall into various temptations” (v. 2) and “Let no man say when he is tempted, ‘I am tempted by God’” (v. 13) — while many translations use ‘trials’ in verse 2. The Greek word simply means a test. Whether it becomes a trial that proves your faith or a temptation that leads to sin depends on what you do with it.",
+          "James shows both directions. Upward: the trial is met with joy and faith, endurance grows, and the person becomes δόκιμος, approved — “Blessed is the man who endures temptation, for when he has been approved, he will receive the crown of life, which the Lord promised to those who love him” (v. 12). Downward: the same pressure meets “his own lust” (v. 14), desire takes the bait, and a terrible birth follows: “Then the lust, when it has conceived, bears sin; and the sin, when it is full grown, produces death” (v. 15).",
+          "So who is responsible? Not God. “God can’t be tempted by evil, and he himself tempts no one” (v. 13). God may allow and even send trials — He tested Abraham (Hebrews 11:17) — but He never entices anyone to sin. Paul gives the same assurance: “God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it” (1 Corinthians 10:13). The source of temptation's power is inside us. The source of everything good is above us: “Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow” (v. 17)."
+        ]
+      },
+      {
+        "heading": "Wisdom for the Middle of the Trial",
+        "paragraphs": [
+          "Why does James move from trials (vv. 2–4) to wisdom (v. 5)? Because the hardest thing in a trial is not the pain but the confusion. You do not know what God is doing, or how to respond. James's answer is simple: ask. “But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach; and it will be given to him” (v. 5). Wisdom in James is not cleverness but practical godliness — knowing how to live God's way in a real situation. Chapter 3 will describe it: “pure, then peaceful, gentle, reasonable, full of mercy and good fruits” (James 3:17).",
+          "God's giving is described with two beautiful words. He gives ἁπλῶς — generously, with a single, undivided heart — and He does not scold. You will never hear God say, ‘You again? Why didn't you know this already?’ The only condition is on the side of the asker: “But let him ask in faith, without any doubting” (v. 6). The doubter here is not a person wrestling honestly with hard questions. He is δίψυχος, double-souled — asking God for wisdom while keeping his own plan in reserve, wanting God's answer only if it agrees with his. God's single-hearted giving meets a double-hearted asking, and nothing passes between them.",
+          "Jesus taught the same: “Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you” (Matthew 7:7). And He said, “if you have faith, and don’t doubt, you will not only do what was done to the fig tree” (Matthew 21:21). The cure for double-mindedness is not more effort but undivided trust: “Draw near to God, and he will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded” (James 4:8)."
+        ]
+      },
+      {
+        "heading": "The Word That Must Be Done",
+        "paragraphs": [
+          "The last section of the chapter introduces the theme of the whole letter. God has given us birth “by the word of truth” (v. 18). That word is now ἔμφυτος, “implanted” (v. 21), like a seed planted in good soil. The question is whether it will grow. James calls for a certain kind of listener: “let every man be swift to hear, slow to speak, and slow to anger” (v. 19). Many church conflicts would end if this verse were obeyed. Anger has a reputation for getting things done, but James says it never does what God wants: “for the anger of man doesn’t produce the righteousness of God” (v. 20).",
+          "Then comes the great command: “But be doers of the word, and not only hearers, deluding your own selves” (v. 22). Notice the danger. James does not say that hearers without doing are simply incomplete; he says they are deceived. They think that because they know the truth and enjoy hearing it, they are living it. The mirror shows them their face, they agree with what they see, and they walk away unchanged. The one who is blessed is the one who bends close to “the perfect law of freedom” (v. 25), keeps looking, and does what it says. God's word does not set you free from obedience; it sets you free to obey.",
+          "Finally, James tests religion. A person can be careful in worship and yet ruin it with his tongue (v. 26). True religion — the kind God the Father accepts — is measured by two things: compassion for the helpless, “to visit the fatherless and widows in their affliction,” and purity before the world, “to keep oneself unstained by the world” (v. 27). Love and holiness, outward mercy and inward cleanness. The rest of the letter will apply both."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Joy in Trials, the Crown of Life, and the Doers of the Word",
+      "paragraphs": [
+        "James's teaching on trials is shared by Paul and Peter. Paul writes, “Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance” (Romans 5:3), “and perseverance, proven character; and proven character, hope” (Romans 5:4). Peter uses James's very words: “Wherein you greatly rejoice, though now for a little while, if need be, you have been put to grief in various trials” (1 Peter 1:6), “that the proof of your faith, which is more precious than gold that perishes even though it is tested by fire, may be found to result in praise, glory, and honor at the revelation of Jesus Christ” (1 Peter 1:7). Three apostles, one pattern: trials, then proven faith, then endurance, then glory. All three are rooted in Jesus' beatitude: “Rejoice, and be exceedingly glad, for great is your reward in heaven” (Matthew 5:12).",
+        "The fading flower of verses 10–11 comes from Isaiah 40, and Peter quotes the passage: “For, ‘All flesh is like grass, and all of man’s glory like the flower in the grass. The grass withers, and its flower falls’” (1 Peter 1:24), “but the Lord’s word endures forever” (1 Peter 1:25). Peter then speaks of new birth by that word, exactly as James does in verse 18: “having been born again, not of corruptible seed, but of incorruptible, through the word of God, which lives and remains forever” (1 Peter 1:23). The crown of life promised in verse 12 is promised again by the risen Christ to a suffering church: “Be faithful to death, and I will give you the crown of life” (Revelation 2:10).",
+        "And James's call to be doers of the word comes straight from Jesus. “Everyone therefore who hears these words of mine, and does them, I will liken him to a wise man, who built his house on a rock” (Matthew 7:24). “But he said, ‘On the contrary, blessed are those who hear the word of God, and keep it’” (Luke 11:28). “If you know these things, blessed are you if you do them” (John 13:17). Even Paul, the great preacher of grace, agrees: “For it isn’t the hearers of the law who are righteous before God, but the doers of the law will be justified” (Romans 2:13). James did not invent a religion of works. He was repeating his Brother."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Temptation / trial",
+      "hebrew": "πειρασμός",
+      "translit": "peirasmós",
+      "strongs": "G3986 (verb πειράζω, peirázō, G3985; testing δοκίμιον, dokímion, G1383)",
+      "verses": "v. 2, 3, 12, 13, 14",
+      "insight": "Strong's: “a putting to proof.” πειρασμός is a test, and context decides its direction. In verses 2 and 12 it is an outward trial that God uses to prove faith; in verses 13–14 the verb πειράζω means an inner enticement to sin, which never comes from God. Its partner δοκίμιον (v. 3) is the assayer's testing of metal, and δόκιμος (v. 12) is the result — approved, genuine. This study adds all of them to a new test family. The lesson of the chapter turns on the difference: the same circumstance can make you approved or lead you into sin, depending on whether you meet it with faith or with desire."
+    },
+    {
+      "english": "Endurance",
+      "hebrew": "ὑπομονή",
+      "translit": "hypomonḗ",
+      "strongs": "G5281 (verb ὑπομένω, hypoménō, G5278)",
+      "verses": "v. 3, 4, 12",
+      "insight": "Strong's: “cheerful (or hopeful) endurance, constancy.” Literally ‘remaining under’ — staying under a load instead of throwing it off. It is not passive resignation but active, hopeful steadfastness. This study adds it to a new endurance family, alongside μακροθυμία (long-tempered patience with people, James 5:10). Hebrews told believers they needed it (Hebrews 10:36); James tells them how it grows — through testing — and what it produces: maturity, completeness, lacking nothing."
+    },
+    {
+      "english": "Double-minded",
+      "hebrew": "δίψυχος",
+      "translit": "dípsychos",
+      "strongs": "G1374",
+      "verses": "v. 8; 4:8",
+      "insight": "Strong's: “two-spirited, i.e. vacillating (in opinion or purpose).” Literally ‘two-souled’. The word is not found in Greek before James and may be his own coinage. It describes a person with divided loyalty — one part reaching for God, another part reaching for the world. Jesus said no one can serve two masters. James uses the word twice: here of prayer, and in 4:8 of a heart that needs purifying. The cure is not a stronger will but a single heart."
+    },
+    {
+      "english": "Implanted",
+      "hebrew": "ἔμφυτος",
+      "translit": "émphytos",
+      "strongs": "G1721",
+      "verses": "v. 21",
+      "insight": "Strong's: “implanted (figuratively).” The word was used of something rooted or innate. The word of truth by which God gave us new birth (v. 18) has been planted in believers like a seed. That is why James says ‘receive’ it — not as something foreign, but as something already growing that must be welcomed, watered and obeyed. Jesus' parable of the sower makes the same point: the good soil hears the word, holds it fast and bears fruit with endurance."
+    },
+    {
+      "english": "Religion / religious",
+      "hebrew": "θρησκεία",
+      "translit": "thrēskeía",
+      "strongs": "G2356 (adjective θρησκός, thrēskós, G2357)",
+      "verses": "v. 26, 27",
+      "insight": "Strong's: “ceremonial observance.” θρησκεία is the outward side of worship — rituals, practices, visible devotion. It differs from εὐσέβεια, godliness or inner reverence, and this study adds it to the godliness family to show the contrast. James does not despise religion; he redefines it. Religion that God the Father accepts is not measured by ceremony but by a bridled tongue, practical care for orphans and widows, and a life kept clean from the world's stain."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit is dealing with how you respond to pressure, and whether the word you hear is actually changing your life.",
+    "items": [
+      {
+        "title": "Your Trial Has a Purpose",
+        "body": "The Spirit wants you to stop asking only ‘How do I get out of this?’ and start asking ‘What is God producing in me through this?’ “Count it all joy, my brothers, when you fall into various temptations” (v. 2) is not a call to pretend; it is a call to judge your trial by its outcome. What would change if you believed that your current difficulty is the Refiner's fire, and that He is watching the crucible? What is He trying to make complete in you?"
+      },
+      {
+        "title": "Stop Blaming, Start Owning",
+        "body": "“Let no man say when he is tempted, ‘I am tempted by God’” (v. 13). We rarely say it so directly. We say, ‘This is just how I am made,’ or ‘My circumstances made me do it,’ or ‘If God had given me a different life…’ The Spirit gently refuses every excuse and points to the hook inside: “his own lust” (v. 14). Where are you blaming God, your past or other people for a sin that began in your own desire? Name it. Owning it is the beginning of freedom."
+      },
+      {
+        "title": "The Mirror Is Waiting",
+        "body": "You have heard many sermons. The Spirit asks: which one have you actually done? He brings to mind something He showed you in Scripture recently — a command, a warning, a call — that you agreed with and walked away from. “But be doers of the word, and not only hearers, deluding your own selves” (v. 22). What is the one thing you already know you should do? What would it take to do it before the end of this week?"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Joy Check",
+        "body": "When trouble comes, is your first response complaint, panic or prayer? Think of your last trial. Did you look for what God was producing in you (vv. 2–4), or only for the way out?"
+      },
+      {
+        "title": "The Tongue Check",
+        "body": "Are you quick to hear, slow to speak and slow to anger (v. 19)? In your last disagreement, how much did you listen before you spoke? Is your religion being made worthless by an unbridled tongue (v. 26)?"
+      },
+      {
+        "title": "The Widow Check",
+        "body": "Who are the ‘fatherless and widows’ in your world — the lonely, the bereaved, the vulnerable, those with no one to stand up for them (v. 27)? When did you last visit one of them? What stains of the world are you tolerating in your own life?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Write Your Trial Down",
+        "body": "Tonight, take a sheet of paper. At the top write the trial you are facing. Below it write three columns: ‘What I want God to remove’, ‘What God may be producing (endurance, wisdom, humility, faith)’, and ‘What I am asking Him for’. Then pray verse 5 over the third column, asking for wisdom in faith. Keep the paper in your Bible and read it again in a month."
+      },
+      {
+        "title": "Hear, Then Do Within 24 Hours",
+        "body": "This week, every time you read Scripture or hear a sermon, write down one specific thing to do in response — and do it within 24 hours: make the phone call, give the gift, ask the forgiveness, visit the person, remove the temptation. At the end of the week, look at your list. That list is the difference between a hearer and a doer."
+      }
+    ]
+  },
+  "prayerReflection": "“Father of lights, every good gift and every perfect gift in my life has come down from You, and You do not change. I confess that I have often met my trials with complaint instead of joy, and I have blamed You for temptations that began in my own desires. Today I count my trials as joy, because You are using the testing of my faith to produce endurance. Let endurance have its perfect work in me, until I am mature and complete, lacking nothing. I lack wisdom, Lord, and I ask You for it now — You who give to all generously and without scolding. Make my heart single, not double, so that I am not tossed like a wave of the sea. When I am drawn by my own desire, give me grace to refuse the bait before sin is conceived. Thank You that You gave me new birth by the word of truth. Plant that word deep in me. Make me quick to hear, slow to speak and slow to anger. Do not let me be a hearer who forgets. Make me a doer of Your word, who bends close to the perfect law of freedom and continues in it. Bridle my tongue, open my heart to the fatherless and widows, and keep me unstained by the world. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Joseph Refuses the Bait",
+      "ref": "Genesis 39:1-23",
+      "relatedVerses": "v. 12-15",
+      "summary": "Joseph was a slave in Egypt, far from home, when his master's wife began to pursue him. Day after day she pressed him, and one day, when no one else was in the house, she caught hold of his garment. Joseph did not argue with temptation; he ran, leaving his cloak in her hand. His answer revealed where his heart was: ‘How then can I do this great wickedness, and sin against God?’ The trial cost him his freedom — he was thrown into prison on a false charge — but it proved him. Joseph is the man of James 1:12: he endured the test, and God later lifted him from the prison to the palace."
+    },
+    {
+      "title": "David on the Roof",
+      "ref": "2 Samuel 11:1-27",
+      "relatedVerses": "v. 14-15",
+      "summary": "In the spring, when kings went out to battle, David stayed at home. One evening he walked on the roof of his palace and saw a woman bathing. The sight became desire; desire became a question — ‘Who is she?’ — then an invitation, then adultery. When Bathsheba became pregnant, sin grew up: David tried to hide it, then arranged the death of her husband Uriah in battle. James 1:14–15 reads like a summary of that chapter: drawn away by his own desire and enticed, desire conceived and gave birth to sin, and sin, when it was full grown, brought death — Uriah's, and later the child's. David's story warns that the time to fight is on the roof, at the first look."
+    },
+    {
+      "title": "The Brother Who Did Not Believe",
+      "ref": "John 7:1-9; 1 Corinthians 15:7; Acts 15:13-21",
+      "relatedVerses": "v. 1, 18",
+      "summary": "During Jesus' ministry, His brothers mocked Him, urging Him to go to Jerusalem and show Himself to the world — “For even his brothers didn’t believe in him” (John 7:5). James was one of those brothers. Then came the cross and the empty tomb, and Paul records that the risen Lord “appeared to James” (1 Corinthians 15:7). After that, James is found with the praying believers before Pentecost and later as the leader of the Jerusalem church, presiding at the great council where he said, “Brothers, listen to me” (Acts 15:13). The sceptic became a servant. When he writes that God “Of his own will he gave birth to us by the word of truth” (v. 18), he is writing his own testimony."
+    }
+  ]
+}

@@ -223,7 +223,8 @@
         "love",
         "affection",
         "affectionate",
-        "lovers"
+        "lovers",
+        "beloved"
       ],
       "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected. Titus adds the bright side of the φιλ- compounds: lover of good, of guests, of husband and children — and God’s own φιλανθρωπία, His love toward mankind.",
       "members": [
@@ -328,6 +329,12 @@
           "sense": "‘Not a lover of money’ — free from greed; the opposite of φιλάργυρος.",
           "anchor": "Hebrews 13:5",
           "en": "love of money"
+        },
+        {
+          "strongs": "G27",
+          "sense": "Beloved — one who is loved with ἀγάπη.",
+          "anchor": "James 1:16",
+          "en": "beloved"
         }
       ]
     },
@@ -642,7 +649,8 @@
         "travail",
         "working",
         "busybodies",
-        "laborer"
+        "laborer",
+        "produces"
       ],
       "intro": "English ‘work’ and ‘labour’ cover several Greek words. 1 Thessalonians 1:3 sets ἔργον (work) beside κόπος (labour to the point of exhaustion), and 2:9 adds μόχθος (hardship) and ἐργάζομαι (working). Revelation 2:2 praises ‘works’ and ‘toil’ in a church that had left its first love.",
       "members": [
@@ -693,6 +701,12 @@
           "sense": "Busybody — ‘working around’, meddling in others' affairs; the adjective of περιεργάζομαι.",
           "anchor": "1 Timothy 5:13",
           "en": "busybodies"
+        },
+        {
+          "strongs": "G2716",
+          "sense": "To work fully, to accomplish, to produce a result.",
+          "anchor": "James 1:3",
+          "en": "produces"
         }
       ]
     },
@@ -771,6 +785,95 @@
           "sense": "Lawless — without law, living as if God’s law did not exist; the adjective of ἀνομία.",
           "anchor": "1 Timothy 1:9",
           "en": "lawless"
+        }
+      ]
+    },
+    {
+      "id": "test",
+      "name": "Test, Trial & Temptation",
+      "lang": "Greek",
+      "english": [
+        "temptations",
+        "testing",
+        "tempted",
+        "tested",
+        "approved"
+      ],
+      "intro": "English splits one Greek idea into ‘trial’ and ‘temptation’, and joins two different Greek ideas under ‘test’. πειρασμός / πειράζω is a putting to the test — it can be an outward trial God allows to strengthen faith, or an inner pull towards sin that never comes from God; context decides which. δοκίμιον / δοκιμάζω / δόκιμος is the assayer’s word: testing metal by fire to prove it genuine, and the approval that follows. James 1:2–15 uses both families side by side: the same πειρασμός can make you δόκιμος (approved) or, if your own desire takes hold of it, lead to sin.",
+      "members": [
+        {
+          "strongs": "G3986",
+          "sense": "A putting to the test — an outward trial, or a temptation to sin; context decides.",
+          "anchor": "James 1:2",
+          "en": "temptations"
+        },
+        {
+          "strongs": "G1383",
+          "sense": "A testing, a proving — the assay that shows what is genuine.",
+          "anchor": "James 1:3",
+          "en": "testing"
+        },
+        {
+          "strongs": "G3985",
+          "sense": "To test, to try; and in a bad sense, to tempt — to entice towards sin.",
+          "anchor": "James 1:13",
+          "en": "tempted"
+        },
+        {
+          "strongs": "G551",
+          "sense": "Untemptable — not able to be tempted; used of God alone.",
+          "anchor": "James 1:13",
+          "en": "tempted"
+        },
+        {
+          "strongs": "G1381",
+          "sense": "To test as metal is tested, to prove, and so to approve.",
+          "anchor": "1 Peter 1:7",
+          "en": "tested"
+        },
+        {
+          "strongs": "G1384",
+          "sense": "Approved after testing — proven genuine, like coin that has passed the assay.",
+          "anchor": "James 1:12",
+          "en": "approved"
+        }
+      ]
+    },
+    {
+      "id": "endurance",
+      "name": "Endurance & Patience",
+      "lang": "Greek",
+      "english": [
+        "endurance",
+        "endures",
+        "patient",
+        "perseverance"
+      ],
+      "intro": "Two Greek words stand behind ‘endurance’, ‘patience’ and ‘perseverance’. ὑπομονή / ὑπομένω is ‘remaining under’ a load — steadfastness under hard circumstances, not giving way. μακροθυμία / μακροθυμέω is ‘long temper’ — being slow to give up on people or on God’s timing, the opposite of a short fuse. The WEB uses ‘perseverance’ for both in James 5:10–11: the prophets’ μακροθυμία and Job’s ὑπομονή.",
+      "members": [
+        {
+          "strongs": "G5281",
+          "sense": "Endurance — remaining under a load without giving way.",
+          "anchor": "James 1:3",
+          "en": "endurance"
+        },
+        {
+          "strongs": "G5278",
+          "sense": "To remain under, to endure — to stay steady through trial.",
+          "anchor": "James 1:12",
+          "en": "endures"
+        },
+        {
+          "strongs": "G3114",
+          "sense": "To be long-tempered, patient — slow to give up on people or on God’s timing.",
+          "anchor": "James 5:7",
+          "en": "patient"
+        },
+        {
+          "strongs": "G3115",
+          "sense": "Long-temper, patience, forbearance — the opposite of a short fuse.",
+          "anchor": "James 5:10",
+          "en": "perseverance"
         }
       ]
     },
@@ -1006,6 +1109,48 @@
       ]
     },
     {
+      "id": "gift",
+      "name": "Gift & Giving",
+      "lang": "Greek",
+      "english": [
+        "gift",
+        "free gift"
+      ],
+      "intro": "Several Greek words lie behind ‘gift’. δῶρον is a gift or offering presented; δωρεά is a free gift, given without payment; δώρημα is the thing bestowed; δόσις is the act of giving; χάρισμα is a gift of grace. James 1:17 puts two side by side — “every good gift (δόσις) and every perfect gift (δώρημα)” — the giving and the thing given both come from the Father.",
+      "members": [
+        {
+          "strongs": "G1394",
+          "sense": "A giving — the act of giving, and so a gift.",
+          "anchor": "James 1:17",
+          "en": "gift"
+        },
+        {
+          "strongs": "G1434",
+          "sense": "A bestowment — the gift itself, the thing given.",
+          "anchor": "James 1:17",
+          "en": "gift"
+        },
+        {
+          "strongs": "G1431",
+          "sense": "A free gift, given without payment.",
+          "anchor": "2 Corinthians 9:15",
+          "en": "gift"
+        },
+        {
+          "strongs": "G5486",
+          "sense": "A gift of grace — undeserved and freely given.",
+          "anchor": "Romans 6:23",
+          "en": "free gift"
+        },
+        {
+          "strongs": "G1435",
+          "sense": "A gift, an offering presented.",
+          "anchor": "Ephesians 2:8",
+          "en": "gift"
+        }
+      ]
+    },
+    {
       "id": "godliness",
       "name": "Godliness & Ungodliness",
       "lang": "Greek",
@@ -1014,7 +1159,9 @@
         "godly",
         "ungodly",
         "ungodliness",
-        "piety"
+        "piety",
+        "religious",
+        "religion"
       ],
       "intro": "‘Godliness’ is the key word of 1 Timothy. English uses one word for two Greek ones: εὐσέβεια (well-directed reverence, devotion to God lived out in daily life) and the rarer θεοσέβεια (reverence for God). The opposite is ἀσέβεια / ἀσεβής — the absence of reverence, life lived as if God did not matter. Hebrews adds εὐλάβεια, reverent awe (‘godly fear’ in 5:7).",
       "members": [
@@ -1065,6 +1212,18 @@
           "sense": "To act with reverent caution, to be moved by godly fear — the verb of εὐλάβεια (Noah, Hebrews 11:7).",
           "anchor": "Hebrews 11:7",
           "en": "godly fear"
+        },
+        {
+          "strongs": "G2357",
+          "sense": "Religious — devout in outward worship.",
+          "anchor": "James 1:26",
+          "en": "religious"
+        },
+        {
+          "strongs": "G2356",
+          "sense": "Religion — worship and its outward observance.",
+          "anchor": "James 1:27",
+          "en": "religion"
         }
       ]
     },
@@ -1407,7 +1566,9 @@
       "english": [
         "see",
         "saw",
-        "look"
+        "look",
+        "looking",
+        "looks"
       ],
       "intro": "John 20:5–8 uses three different verbs that the WEB translates ‘saw’: a glance, a careful gaze, and seeing that leads to understanding — ‘he saw and believed’. Hebrews 2:8–9 puts ὁράω and βλέπω side by side.",
       "members": [
@@ -1446,6 +1607,18 @@
           "sense": "To look away from everything else and fix the eyes on one object — ‘looking to Jesus’ (Hebrews 12:2).",
           "anchor": "Hebrews 12:2",
           "en": "looking"
+        },
+        {
+          "strongs": "G2657",
+          "sense": "To observe fully, to consider attentively.",
+          "anchor": "James 1:23",
+          "en": "looking"
+        },
+        {
+          "strongs": "G3879",
+          "sense": "To stoop and peer in — to bend over to look closely.",
+          "anchor": "James 1:25",
+          "en": "looks"
         }
       ]
     },
