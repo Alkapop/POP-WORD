@@ -585,7 +585,9 @@
         "prayer",
         "ask",
         "petition",
-        "intercession"
+        "intercession",
+        "intercessions",
+        "thanksgiving"
       ],
       "intro": "Several Greek words lie behind ‘pray’ and ‘ask’. In John 14:16 the WEB's ‘I will pray to the Father’ is ἐρωτάω — to ask, as one who speaks to the Father as an equal.",
       "members": [
@@ -594,6 +596,24 @@
           "sense": "To pray to God — prayer as worship and communion, used only of prayer to God.",
           "anchor": "Matthew 6:6",
           "en": "pray"
+        },
+        {
+          "strongs": "G4335",
+          "sense": "Prayer (noun) — prayer as worship and communion with God, the general word for prayer.",
+          "anchor": "Philippians 4:6",
+          "en": "prayer"
+        },
+        {
+          "strongs": "G1783",
+          "sense": "Intercession — approaching someone, especially a king, to plead on behalf of others.",
+          "anchor": "1 Timothy 2:1",
+          "en": "intercessions"
+        },
+        {
+          "strongs": "G2169",
+          "sense": "Thanksgiving — grateful prayer, giving thanks to God (the root of ‘Eucharist’).",
+          "anchor": "Philippians 4:6",
+          "en": "thanksgiving"
         },
         {
           "strongs": "G1162",

@@ -1,0 +1,810 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Timothy",
+  "chapter": 2,
+  "chapterTitle": "One God, One Mediator — Prayer for All People and Order in Worship",
+  "themeTitle": "“There Is One God, and One Mediator Between God and Men, the Man Christ Jesus”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks, be made for all men:",
+      "understanding": "παρακαλῶ οὖν πρῶτον πάντων, “I exhort therefore, first of all” — before anything else in church life, prayer. Four words from the pray family appear in one breath: δεήσεις, “petitions” — specific requests out of need; προσευχάς, “prayers” — the general word for prayer as worship directed to God; ἐντεύξεις, “intercessions” — approaching a king to plead on behalf of others; and εὐχαριστίας, “givings of thanks.” And all of it ὑπὲρ πάντων ἀνθρώπων, “for all men” — no one is outside the church's prayers.",
+      "words": [
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G1162",
+          "hebrew": "δέησις",
+          "translit": "déēsis",
+          "english": "petitions"
+        },
+        {
+          "strongs": "G4335",
+          "hebrew": "προσευχή",
+          "translit": "proseuchḗ",
+          "english": "prayers"
+        },
+        {
+          "strongs": "G1783",
+          "hebrew": "ἔντευξις",
+          "translit": "énteuxis",
+          "english": "intercessions"
+        },
+        {
+          "strongs": "G2169",
+          "hebrew": "εὐχαριστία",
+          "translit": "eucharistía",
+          "english": "givings of thanks"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "men"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "for kings and all who are in high places; that we may lead a tranquil and quiet life in all godliness and reverence.",
+      "understanding": "Specifically ὑπὲρ βασιλέων, “for kings” — in Paul's day this meant the emperor Nero — καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, “and all who are in high places.” Christians pray for rulers, even hostile ones. The purpose: ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν, “that we may lead a tranquil and quiet life” — βίος from the life family: the course of daily earthly life. ἐν πάσῃ εὐσεβείᾳ, “in all godliness” — the first appearance of the key word of the letter — καὶ σεμνότητι, “and reverence,” dignity, seriousness.",
+      "words": [
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G5247",
+          "hebrew": "ὑπεροχή",
+          "translit": "hyperochḗ",
+          "english": "high places"
+        },
+        {
+          "strongs": "G2263",
+          "hebrew": "ἤρεμος",
+          "translit": "ḗremos",
+          "english": "tranquil"
+        },
+        {
+          "strongs": "G2272",
+          "hebrew": "ἡσύχιος",
+          "translit": "hēsýchios",
+          "english": "quiet"
+        },
+        {
+          "strongs": "G979",
+          "hebrew": "βίος",
+          "translit": "bíos",
+          "english": "life"
+        },
+        {
+          "strongs": "G2150",
+          "hebrew": "εὐσέβεια",
+          "translit": "eusébeia",
+          "english": "godliness"
+        },
+        {
+          "strongs": "G4587",
+          "hebrew": "σεμνότης",
+          "translit": "semnótēs",
+          "english": "reverence"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For this is good and acceptable in the sight of God our Savior;",
+      "understanding": "τοῦτο καλὸν καὶ ἀπόδεκτον, “For this is good and acceptable” — καλός from the good family: noble, beautiful — ἐνώπιον τοῦ σωτῆρος ἡμῶν θεοῦ, “in the sight of God our Savior.” Praying for all people pleases the God whose very title in this letter is ‘Savior’.",
+      "words": [
+        {
+          "strongs": "G2570",
+          "hebrew": "καλός",
+          "translit": "kalós",
+          "english": "good"
+        },
+        {
+          "strongs": "G587",
+          "hebrew": "ἀπόδεκτος",
+          "translit": "apódektos",
+          "english": "acceptable"
+        },
+        {
+          "strongs": "G1799",
+          "hebrew": "ἐνώπιον",
+          "translit": "enṓpion",
+          "english": "in the sight"
+        },
+        {
+          "strongs": "G4990",
+          "hebrew": "σωτήρ",
+          "translit": "sōtḗr",
+          "english": "Savior"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "who desires all people to be saved and come to full knowledge of the truth.",
+      "understanding": "Why pray for everyone? Because God πάντας ἀνθρώπους θέλει σωθῆναι, “desires all people to be saved,” καὶ εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν, “and come to full knowledge of the truth.” ἐπίγνωσις from the know family: full, precise knowledge. God's heart is for the salvation of every kind of person — Jew and Gentile, ruler and slave. Compare 2 Peter 3:9, ‘not wishing that any should perish’.",
+      "words": [
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "desires"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "people"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        },
+        {
+          "strongs": "G1922",
+          "hebrew": "ἐπίγνωσις",
+          "translit": "epígnōsis",
+          "english": "full knowledge"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "For there is one God, and one mediator between God and men, the man Christ Jesus,",
+      "understanding": "A confession, probably from early Christian worship. εἷς γὰρ θεός, “For there is one God” — against every god in Ephesus, including Artemis. εἷς καὶ μεσίτης θεοῦ καὶ ἀνθρώπων, “and one mediator between God and men” — μεσίτης is a go-between, someone who stands in the middle to bring two parties together. ἄνθρωπος Χριστὸς Ἰησοῦς, “the man Christ Jesus.” Paul stresses His humanity: to represent humans before God, the Mediator had to be truly human — and to bring God to us, truly God.",
+      "words": [
+        {
+          "strongs": "G1520",
+          "hebrew": "εἷς",
+          "translit": "heîs",
+          "english": "one"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3316",
+          "hebrew": "μεσίτης",
+          "translit": "mesítēs",
+          "english": "mediator"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "who gave himself as a ransom for all; the testimony in its own times;",
+      "understanding": "ὁ δοὺς ἑαυτὸν ἀντίλυτρον ὑπὲρ πάντων, “who gave himself as a ransom for all.” ἀντίλυτρον is a ransom paid in exchange — ἀντί, in place of — echoing Jesus' words in Mark 10:45, ‘to give his life as a ransom for many’. Christ is not only a go-between; He paid the price Himself. τὸ μαρτύριον καιροῖς ἰδίοις, “the testimony in its own times” — the time family's καιρός: at the right, appointed moment in history God gave this testimony.",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "gave"
+        },
+        {
+          "strongs": "G487",
+          "hebrew": "ἀντίλυτρον",
+          "translit": "antílytron",
+          "english": "ransom"
+        },
+        {
+          "strongs": "G3142",
+          "hebrew": "μαρτύριον",
+          "translit": "martýrion",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "times"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "to which I was appointed a preacher and an apostle (I am telling the truth in Christ, not lying), a teacher of the Gentiles in faith and truth.",
+      "understanding": "For this message Paul ἐτέθην, “was appointed,” κῆρυξ, “a preacher” — a herald announcing a king's proclamation — καὶ ἀπόστολος, “and an apostle.” He adds an oath: ἀλήθειαν λέγω, οὐ ψεύδομαι, “I am telling the truth … not lying.” He is διδάσκαλος ἐθνῶν, “a teacher of the Gentiles,” in faith and truth. The universal gospel needs a universal mission.",
+      "words": [
+        {
+          "strongs": "G5087",
+          "hebrew": "τίθημι",
+          "translit": "títhēmi",
+          "english": "appointed"
+        },
+        {
+          "strongs": "G2783",
+          "hebrew": "κῆρυξ",
+          "translit": "kēryx",
+          "english": "preacher"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostle"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G5574",
+          "hebrew": "ψεύδομαι",
+          "translit": "pseúdomai",
+          "english": "lying"
+        },
+        {
+          "strongs": "G1320",
+          "hebrew": "διδάσκαλος",
+          "translit": "didáskalos",
+          "english": "teacher"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "Gentiles"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "I desire therefore that the men in every place pray, lifting up holy hands without anger and doubting.",
+      "understanding": "βούλομαι οὖν, “I desire therefore,” that τοὺς ἄνδρας, “the men” — ἀνήρ, males specifically — ἐν παντὶ τόπῳ, “in every place” (every gathering), προσεύχεσθαι, “pray,” ἐπαίροντας ὁσίους χεῖρας, “lifting up holy hands” — the common posture of prayer, palms raised toward heaven — and those hands must be ὅσιος, holy, devout. And χωρὶς ὀργῆς καὶ διαλογισμοῦ, “without anger and doubting” — διαλογισμός can mean doubting or quarrelling. The false teaching in Ephesus produced disputes (1:4); men who pray must not be angry arguers.",
+      "words": [
+        {
+          "strongs": "G1014",
+          "hebrew": "βούλομαι",
+          "translit": "boúlomai",
+          "english": "desire"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "men"
+        },
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "pray"
+        },
+        {
+          "strongs": "G1869",
+          "hebrew": "ἐπαίρω",
+          "translit": "epaírō",
+          "english": "lifting up"
+        },
+        {
+          "strongs": "G3741",
+          "hebrew": "ὅσιος",
+          "translit": "hósios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hands"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "anger"
+        },
+        {
+          "strongs": "G1261",
+          "hebrew": "διαλογισμός",
+          "translit": "dialogismós",
+          "english": "doubting"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "In the same way, that women also adorn themselves in decent clothing, with modesty and propriety; not just with braided hair, gold, pearls, or expensive clothing;",
+      "understanding": "ὡσαύτως γυναῖκας, “In the same way, that women also” — as men are to pray without anger, women are to κοσμεῖν ἑαυτάς, “adorn themselves,” ἐν καταστολῇ κοσμίῳ, “in decent clothing” — orderly, appropriate — μετὰ αἰδοῦς καὶ σωφροσύνης, “with modesty and propriety” — αἰδώς is a sense of shame or reserve; σωφροσύνη is sound-mindedness, self-control. Not with πλέγμασιν, “braided hair,” χρυσῷ, “gold,” μαργαρίταις, “pearls,” or ἱματισμῷ πολυτελεῖ, “expensive clothing.” In Ephesus, elaborate hairstyles woven with gold and pearls displayed wealth and could signal sexual availability. Paul's concern is not beauty but display.",
+      "words": [
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "women"
+        },
+        {
+          "strongs": "G2885",
+          "hebrew": "κοσμέω",
+          "translit": "kosméō",
+          "english": "adorn"
+        },
+        {
+          "strongs": "G2887",
+          "hebrew": "κόσμιος",
+          "translit": "kósmios",
+          "english": "decent"
+        },
+        {
+          "strongs": "G2689",
+          "hebrew": "καταστολή",
+          "translit": "katastolḗ",
+          "english": "clothing"
+        },
+        {
+          "strongs": "G127",
+          "hebrew": "αἰδώς",
+          "translit": "aidṓs",
+          "english": "modesty"
+        },
+        {
+          "strongs": "G4997",
+          "hebrew": "σωφροσύνη",
+          "translit": "sōphrosýnē",
+          "english": "propriety"
+        },
+        {
+          "strongs": "G4117",
+          "hebrew": "πλέγμα",
+          "translit": "plégma",
+          "english": "braided hair"
+        },
+        {
+          "strongs": "G5557",
+          "hebrew": "χρυσός",
+          "translit": "chrysós",
+          "english": "gold"
+        },
+        {
+          "strongs": "G3135",
+          "hebrew": "μαργαρίτης",
+          "translit": "margarítēs",
+          "english": "pearls"
+        },
+        {
+          "strongs": "G4185",
+          "hebrew": "πολυτελής",
+          "translit": "polytelḗs",
+          "english": "expensive"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "but (which becomes women professing godliness) with good works.",
+      "understanding": "Instead, ὃ πρέπει γυναιξὶν ἐπαγγελλομέναις θεοσέβειαν, “which becomes women professing godliness” — θεοσέβεια, from the godliness family, used only here in the New Testament: reverence for God. Their adornment is to be δι᾽ ἔργων ἀγαθῶν, “with good works” — ἀγαθός from the good family: good in effect, beneficial. Compare 1 Peter 3:3–4: true beauty is ‘the hidden person of the heart’. The best ornament of a godly woman is a life of good deeds.",
+      "words": [
+        {
+          "strongs": "G4241",
+          "hebrew": "πρέπω",
+          "translit": "prépō",
+          "english": "becomes"
+        },
+        {
+          "strongs": "G1861",
+          "hebrew": "ἐπαγγέλλω",
+          "translit": "epangéllō",
+          "english": "professing"
+        },
+        {
+          "strongs": "G2317",
+          "hebrew": "θεοσέβεια",
+          "translit": "theosébeia",
+          "english": "godliness"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G18",
+          "hebrew": "ἀγαθός",
+          "translit": "agathós",
+          "english": "good"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Let a woman learn in quietness with full submission.",
+      "understanding": "γυνὴ ἐν ἡσυχίᾳ μανθανέτω, “Let a woman learn in quietness.” The command is first of all positive and, in its world, remarkable: μανθάνω, learn — women were to be taught the Scriptures alongside men, which many teachers of the day refused. ἐν ἡσυχίᾳ, ‘in quietness’ — the same word used of the ‘quiet life’ in verse 2 and of quiet work in 2 Thessalonians 3:12: a settled, peaceful, teachable spirit, not necessarily total silence. ἐν πάσῃ ὑποταγῇ, “with full submission” — an orderly, receptive posture toward the teaching and those who give it.",
+      "words": [
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "woman"
+        },
+        {
+          "strongs": "G2271",
+          "hebrew": "ἡσυχία",
+          "translit": "hēsychía",
+          "english": "quietness"
+        },
+        {
+          "strongs": "G3129",
+          "hebrew": "μανθάνω",
+          "translit": "manthánō",
+          "english": "learn"
+        },
+        {
+          "strongs": "G5292",
+          "hebrew": "ὑποταγή",
+          "translit": "hypotagḗ",
+          "english": "submission"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "But I don’t permit a woman to teach, nor to exercise authority over a man, but to be in quietness.",
+      "understanding": "διδάσκειν δὲ γυναικὶ οὐκ ἐπιτρέπω, “But I don’t permit a woman to teach” — in context, the authoritative teaching of the church gathering — οὐδὲ αὐθεντεῖν ἀνδρός, “nor to exercise authority over a man.” αὐθεντέω appears only here in the New Testament; Strong's gives ‘to act of oneself … dominate’, and its exact shade (exercising authority, or seizing it) is debated. Christians reach different conclusions on how this verse applies today; the reasons Paul gives in verses 13–14 come from creation and the fall, which is why many read it as a lasting pattern for the church's teaching office rather than only a local rule. The same Scriptures show women praying and prophesying in worship (1 Corinthians 11:5) and Priscilla teaching Apollos (Acts 18:26).",
+      "words": [
+        {
+          "strongs": "G1321",
+          "hebrew": "διδάσκω",
+          "translit": "didáskō",
+          "english": "teach"
+        },
+        {
+          "strongs": "G2010",
+          "hebrew": "ἐπιτρέπω",
+          "translit": "epitrépō",
+          "english": "permit"
+        },
+        {
+          "strongs": "G831",
+          "hebrew": "αὐθεντέω",
+          "translit": "authentéō",
+          "english": "exercise authority"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "man"
+        },
+        {
+          "strongs": "G2271",
+          "hebrew": "ἡσυχία",
+          "translit": "hēsychía",
+          "english": "quietness"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "For Adam was first formed, then Eve.",
+      "understanding": "Paul's first reason is creation: Ἀδὰμ γὰρ πρῶτος ἐπλάσθη, εἶτα Εὕα, “For Adam was first formed, then Eve.” πλάσσω is the potter's word, used in the Greek Genesis for God shaping the man from the dust. Paul grounds the order of verse 12 not in Ephesian culture but in Genesis 2. Compare 1 Corinthians 11:8: “For man is not from woman, but woman from man.” Order in creation is not inequality of worth; both bear God's image.",
+      "words": [
+        {
+          "strongs": "G76",
+          "hebrew": "Ἀδάμ",
+          "translit": "Adám",
+          "english": "Adam"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G4111",
+          "hebrew": "πλάσσω",
+          "translit": "plássō",
+          "english": "formed"
+        },
+        {
+          "strongs": "G2096",
+          "hebrew": "Εὖα",
+          "translit": "Eûa",
+          "english": "Eve"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Adam wasn’t deceived, but the woman, being deceived, has fallen into disobedience;",
+      "understanding": "The second reason is the fall: “Adam wasn’t deceived (ἠπατήθη), but the woman, being deceived (ἐξαπατηθεῖσα), has fallen into disobedience (παραβάσει).” παράβασις from the sin family: stepping over a line. Paul is not saying women are more gullible than men — Adam's sin was deliberate and in Romans 5:12 the blame rests on him. He is recalling how the order of creation was reversed in the fall, when the serpent addressed the woman and the man followed. Compare 2 Corinthians 11:3.",
+      "words": [
+        {
+          "strongs": "G76",
+          "hebrew": "Ἀδάμ",
+          "translit": "Adám",
+          "english": "Adam"
+        },
+        {
+          "strongs": "G538",
+          "hebrew": "ἀπατάω",
+          "translit": "apatáō",
+          "english": "deceived"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "woman"
+        },
+        {
+          "strongs": "G1818",
+          "hebrew": "ἐξαπατάω",
+          "translit": "exapatáō",
+          "english": "being deceived"
+        },
+        {
+          "strongs": "G3847",
+          "hebrew": "παράβασις",
+          "translit": "parábasis",
+          "english": "disobedience"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "but she will be saved through her childbearing, if they continue in faith, love, and sanctification with sobriety.",
+      "understanding": "σωθήσεται δὲ διὰ τῆς τεκνογονίας, “but she will be saved through her childbearing” — literally ‘through the childbearing’. This is one of the hardest sentences in Paul. It cannot mean that women earn salvation by having children; salvation is by grace through faith, and the verse itself adds ‘if they continue in faith’. The main readings: women will be kept safe through childbirth; women's salvation is worked out in godly embrace of their God-given callings, against the false teachers who forbade marriage (4:3); or ‘the childbearing’ points to the birth of the Messiah, the promised seed of the woman (Genesis 3:15). Then the condition: ἐὰν μείνωσιν, “if they continue,” ἐν πίστει καὶ ἀγάπῃ καὶ ἁγιασμῷ μετὰ σωφροσύνης, “in faith, love, and sanctification with sobriety.”",
+      "words": [
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "saved"
+        },
+        {
+          "strongs": "G5042",
+          "hebrew": "τεκνογονία",
+          "translit": "teknogonía",
+          "english": "childbearing"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "continue"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmós",
+          "english": "sanctification"
+        },
+        {
+          "strongs": "G4997",
+          "hebrew": "σωφροσύνη",
+          "translit": "sōphrosýnē",
+          "english": "sobriety"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Holy Hands Raised for the Emperor",
+      "verseRef": "v. 1-4",
+      "image": "Picture a small house church in Ephesus. Outside, the city celebrates the emperor Nero with banners and sacrifices. Inside, a handful of believers kneel and stand with their hands lifted. They pray for the city officials who have threatened them, for the governor, for the emperor himself, for the silversmiths who started a riot against them, and for their unbelieving neighbours by name. They give thanks. Their prayers rise from a cramped room and reach the throne of the King above every king.",
+      "meaning": "Paul exhorts “that petitions, prayers, intercessions, and givings of thanks, be made for all men: for kings and all who are in high places” (vv. 1–2). Four prayer words show the full range of prayer: specific requests, worshipful prayer, intercession on behalf of others, and thanks. The reason is God's heart: He “desires all people to be saved and come to full knowledge of the truth” (v. 4). If God wants everyone saved, His people pray for everyone — including the powerful and the hostile."
+    },
+    {
+      "title": "The Bridge Across the Chasm",
+      "verseRef": "v. 5-6",
+      "image": "Picture a vast chasm. On one side stands a holy God; on the other, humanity, unable to cross. People try to build bridges with good works, rituals, priests, saints, angels, philosophies and gifts to the gods, but every bridge falls into the gap. Then one Man walks out from God's side and stands in the middle. He takes hold of God with one hand and of humanity with the other, and He lays down His own life as the bridge. Every other path to God collapses; this one holds.",
+      "meaning": "“For there is one God, and one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all” (vv. 5–6). The word μεσίτης means a go-between who brings two parties together. Jesus is the only one, because He alone is both fully God and fully human, and He alone paid the ransom. You do not need another mediator — no priest, saint or spiritual technique. You can come directly to God through Christ."
+    },
+    {
+      "title": "The Ornament That Lasts",
+      "verseRef": "v. 9-10",
+      "image": "Picture a wealthy woman in Ephesus preparing for a religious festival. Her hair is piled high and woven with gold threads and pearls, her robe is dyed with expensive purple, and everyone who sees her knows how rich she is. Now picture another woman, plainly dressed, who spent the morning bringing food to a sick widow, teaching a slave child to read the Scriptures and praying with a frightened neighbour. In the city's eyes the first woman is splendid. In heaven's eyes the second is adorned.",
+      "meaning": "Paul writes that women should adorn themselves “in decent clothing, with modesty and propriety; not just with braided hair, gold, pearls, or expensive clothing; but (which becomes women professing godliness) with good works” (vv. 9–10). The concern is not that beauty is wrong, but that display, wealth and seduction should not dominate the gathering of God's people. The same principle applies to men and to every age: what we put on to be seen matters far less than the good works that show our reverence for God."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Pray for All People (v. 1-4)",
+        "body": "First of all, every kind of prayer is to be made for all people, including kings and those in authority, so that believers may live peaceful, godly lives; this pleases God our Saviour, who wants all people to be saved and come to know the truth."
+      },
+      {
+        "label": "One God, One Mediator (v. 5-7)",
+        "body": "There is one God and one mediator between God and humanity, the man Christ Jesus, who gave Himself as a ransom for all; Paul was appointed a herald, apostle and teacher of the Gentiles for this testimony."
+      },
+      {
+        "label": "Men Praying Without Anger (v. 8)",
+        "body": "Men everywhere are to pray, lifting holy hands, without anger or disputing."
+      },
+      {
+        "label": "Women Adorned With Good Works (v. 9-10)",
+        "body": "Women are to dress modestly and sensibly, not with ostentatious hairstyles, gold, pearls or costly clothes, but with good works fitting for those who profess godliness."
+      },
+      {
+        "label": "Learning, Teaching and Authority (v. 11-15)",
+        "body": "A woman should learn quietly and with submission; Paul does not permit a woman to teach or exercise authority over a man, grounding this in creation (Adam formed first) and the fall (Eve deceived); she will be saved through childbearing if they continue in faith, love and holiness with self-control."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Prayer for All, Because God Wants All",
+        "paragraphs": [
+          "After dealing with the false teachers, Paul turns to the life of the church, and his first instruction is prayer: “I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks, be made for all men” (v. 1). The four words from the pray family are not four separate types of prayer so much as a full description of praying: asking for specific needs, worshipping God, pleading on behalf of others, and thanking Him. A church that wants to hold up the truth before the world begins on its knees.",
+          "The scope is ‘all men’, and Paul names the hardest group first: “for kings and all who are in high places; that we may lead a tranquil and quiet life in all godliness and reverence” (v. 2). The emperor at the time was Nero. Paul tells believers to pray for him, not against him. The goal is not political privilege but a peaceful setting in which godliness can flourish and the gospel can spread. Paul teaches the same in Romans 13:1: “Let every soul be in subjection to the higher authorities, for there is no authority except from God.”",
+          "The deepest reason is God's heart: “For this is good and acceptable in the sight of God our Savior; who desires all people to be saved and come to full knowledge of the truth” (vv. 3–4). The false teachers seem to have made the faith exclusive and complicated. Paul insists that the gospel is for everyone. As Jesus said, “For God didn’t send his Son into the world to judge the world, but that the world should be saved through him” (John 3:17). If God wants all to be saved, the church prays for all."
+        ]
+      },
+      {
+        "heading": "The Only Mediator",
+        "paragraphs": [
+          "Paul grounds the universal mission in a creed: “For there is one God, and one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all” (vv. 5–6). In Ephesus there were many gods and many go-betweens: priests of Artemis, magicians, spirits, angels. Paul cuts through all of them. One God; one Mediator. And that Mediator is ‘the man Christ Jesus’ — truly human, able to represent us, and truly divine, able to bring God to us.",
+          "He is not only a go-between but a Redeemer: He ‘gave himself as a ransom for all’. The word ἀντίλυτρον echoes Jesus' own words: “For the Son of Man also came not to be served, but to serve, and to give his life as a ransom for many” (Mark 10:45). A mediator usually negotiates; Jesus paid the price Himself. Hebrews calls Him “the mediator of a better covenant” (Hebrews 8:6).",
+          "Verse 8 returns to prayer, addressing the men: “I desire therefore that the men in every place pray, lifting up holy hands without anger and doubting.” In a church troubled by disputes, angry men arguing over speculative questions could not pray with holy hands. Holiness of life and peace with others are the conditions of effective public prayer."
+        ]
+      },
+      {
+        "heading": "Order in God's House",
+        "paragraphs": [
+          "Verses 9–15 address women in the church, and they must be read carefully and honestly. First, adornment: women are to adorn themselves “in decent clothing, with modesty and propriety; not just with braided hair, gold, pearls, or expensive clothing; but (which becomes women professing godliness) with good works” (vv. 9–10). In wealthy Ephesus, extravagant display was a mark of status and sometimes of seduction. Peter gives the same counsel: let your beauty be “in the hidden person of the heart, in the incorruptible adornment of a gentle and quiet spirit” (1 Peter 3:4).",
+          "Then learning and teaching: “Let a woman learn in quietness with full submission. But I don’t permit a woman to teach, nor to exercise authority over a man, but to be in quietness” (vv. 11–12). The command to learn was itself a radical affirmation in a world where women were often denied religious instruction. The restriction concerns the authoritative teaching and leadership of the church gathering. Paul's reasons are drawn from Genesis: “For Adam was first formed, then Eve” (v. 13), and “Adam wasn’t deceived, but the woman, being deceived, has fallen into disobedience” (v. 14). Because he appeals to creation and the fall rather than local custom, the most natural reading is that this is a lasting pattern for the church's teaching office; believers who read it as aimed at a particular Ephesian problem should be heard with respect, but the text's own reasons point beyond Ephesus.",
+          "This is not a statement about worth. The same apostle wrote that “there is neither male nor female; for you are all one in Christ Jesus” (Galatians 3:28), commended Phoebe as a servant of the church (Romans 16:1), and called Prisca and Aquila “my fellow workers in Christ Jesus” (Romans 16:3). Women prayed and prophesied in worship (1 Corinthians 11:5). The chapter ends with hope: “but she will be saved through her childbearing, if they continue in faith, love, and sanctification with sobriety” (v. 15). Whatever the precise meaning of ‘childbearing’, the condition is clear: salvation is found in continuing in faith, love and holiness — the same path for every believer."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Prayer, the Mediator and Adornment Across the New Testament",
+      "paragraphs": [
+        "Paul's instruction to pray in every form echoes Philippians: “In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God” (Philippians 4:6). And our praying is supported by the Spirit's own intercession: “the Spirit himself makes intercession for us with groanings which can’t be uttered” (Romans 8:26). God's desire for all to be saved appears again in Peter: “The Lord is not slow concerning his promise, as some count slowness; but is patient with us, not wishing that any should perish, but that all should come to repentance” (2 Peter 3:9).",
+        "The one Mediator who gave Himself as a ransom is the Son of Man who “came not to be served, but to serve, and to give his life as a ransom for many” (Mark 10:45). Hebrews explains His mediation: He “has obtained a more excellent ministry, by so much as he is also the mediator of a better covenant” (Hebrews 8:6). There is no other.",
+        "On adornment, Peter's parallel is close: “Let your beauty be not just the outward adorning of braiding the hair, and of wearing jewels of gold, or of putting on fine clothing” (1 Peter 3:3). On the fall, Paul writes elsewhere that “sin entered into the world through one man” (Romans 5:12), placing responsibility on Adam, and he warns the whole church: “as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Christ” (2 Corinthians 11:3). Deception is a danger for every believer, man or woman."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Intercession",
+      "hebrew": "ἔντευξις",
+      "translit": "énteuxis",
+      "strongs": "G1783",
+      "verses": "v. 1",
+      "insight": "Strong's: “an interview, i.e. (specially) supplication.” From ἐντυγχάνω, to meet with or approach someone, especially a king, to make a request — the word used of Christ and the Spirit interceding for believers (Romans 8:26–27; Hebrews 7:25). ἔντευξις pictures entering the throne room to plead on behalf of others. Paul wants the church to intercede for all people, even rulers. When you pray for others, you are standing before the King on their behalf."
+    },
+    {
+      "english": "Godliness",
+      "hebrew": "εὐσέβεια",
+      "translit": "eusébeia",
+      "strongs": "G2150",
+      "verses": "v. 2",
+      "insight": "Strong's: “piety; specially, the gospel scheme.” It combines εὖ, well, and σέβομαι, to reverence: well-directed reverence for God that shapes the whole of life. It appears ten times in 1 Timothy and is the letter's key word. It is not mere religious feeling or outward ritual; it is devotion to God lived out in everyday conduct. Paul prays for a peaceful life so that believers can live ‘in all godliness’. The goal of public order is private and corporate devotion to God."
+    },
+    {
+      "english": "Mediator / go-between",
+      "hebrew": "μεσίτης",
+      "translit": "mesítēs",
+      "strongs": "G3316",
+      "verses": "v. 5",
+      "insight": "Strong's: “a go-between, i.e. (simply) an internunciator, or (by implication) a reconciler (intercessor).” From μέσος, middle: one who stands in the middle to bring two parties together. Moses was called a mediator of the old covenant (Galatians 3:19–20); Christ is ‘the mediator of a better covenant’ (Hebrews 8:6). Because He is both fully God and fully human, He alone can represent each side to the other. There is one mediator, not many."
+    },
+    {
+      "english": "Ransom (in exchange)",
+      "hebrew": "ἀντίλυτρον",
+      "translit": "antílytron",
+      "strongs": "G487",
+      "verses": "v. 6",
+      "insight": "Strong's: “a redemption-price.” It is used only here in the New Testament. It combines ἀντί, in place of, and λύτρον, the price paid to free a slave or prisoner. The prefix stresses substitution: Christ gave Himself in place of others. Jesus used λύτρον in Mark 10:45. The ransom is ‘for all’ — offered to every kind of person, which is why the church prays for all."
+    },
+    {
+      "english": "Exercise authority / dominate",
+      "hebrew": "αὐθεντέω",
+      "translit": "authentéō",
+      "strongs": "G831",
+      "verses": "v. 12",
+      "insight": "Strong's: “to act of oneself, i.e. (figuratively) dominate.” This verb appears only here in the New Testament, which makes its exact shade difficult; outside the Bible it can mean to have authority over, and in some contexts to domineer. Paul pairs it with teaching: the issue is authoritative teaching and leadership in the church gathering. Honest readers should hold its precise meaning with care, while recognising that Paul's reasons in verses 13–14 come from creation and the fall."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "The Spirit is dealing with three things in this chapter: the breadth of your prayers, your confidence in the one Mediator, and what you are adorning yourself with.",
+    "items": [
+      {
+        "title": "Pray for the People You Would Rather Ignore",
+        "body": "Paul tells believers to pray for all people, especially rulers — including hostile ones. The Spirit may be pointing to someone you have stopped praying for: a political leader you dislike, a boss who treats you badly, a family member who opposes your faith. God desires them to be saved. Ask the Spirit to give you God's heart for them, and lift holy hands in prayer for them this week, without anger."
+      },
+      {
+        "title": "You Need No Other Go-Between",
+        "body": "There is one Mediator, Christ Jesus. Some believers live as though they need extra go-betweens — a special leader, a ritual, a saint, a spiritual technique — before God will hear them. The Spirit wants you to come boldly through Christ alone. He gave Himself as your ransom. There is nothing standing between you and the Father except the Mediator who opened the way."
+      },
+      {
+        "title": "What Are You Wearing?",
+        "body": "The call to adorn ourselves with good works applies to every believer. The Spirit may be showing you how much energy you put into appearance, status or display — and how little into good works that reflect reverence for God. Ask Him to make your life beautiful with acts of kindness, service and generosity, the adornment that never fades."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Prayer-Range Check",
+        "body": "List the people you pray for regularly. Now add the leaders of your nation and city, and one person who opposes you. Pray for each this week using the four prayer words of verse 1: petition, prayer, intercession and thanksgiving."
+      },
+      {
+        "title": "The Mediator Check",
+        "body": "Is there anything you rely on, besides Christ, to feel accepted by God or heard by Him (v. 5)? Write it down and thank God that Christ alone is enough."
+      },
+      {
+        "title": "The Adornment Check",
+        "body": "Compare the time and money you spend on appearance with the time and money you give to good works (vv. 9–10). Choose one way to rebalance this month."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "A Week of Praying for Leaders",
+        "body": "Each day this week, pray for one leader: your head of state, a local official, your employer, your pastor, a school principal, a police officer and a leader you strongly disagree with. Use verse 2: pray that they will govern justly so that people can live peaceful and godly lives, and pray for their salvation (v. 4). Notice how praying for them changes your attitude toward them."
+      },
+      {
+        "title": "Learn and Share the Creed",
+        "body": "Memorise verses 5–6: “For there is one God, and one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all.” Write it on a card. This week, look for an opportunity to share it with someone who believes they must earn their way to God, or who trusts in other mediators. Explain simply that Jesus is the bridge, and that He paid the price."
+      }
+    ]
+  },
+  "prayerReflection": "“God our Saviour, You desire all people to be saved and to come to the full knowledge of the truth. Teach me to pray as Paul urged: with petitions, prayers, intercessions and thanksgiving for everyone — for those in authority, for those who oppose me, and for those who do not yet know You. Let us live peaceful and quiet lives in all godliness and reverence. Thank You that there is one God and one Mediator between You and us, the man Christ Jesus, who gave Himself as a ransom for all. I come to You through Him alone. Make my hands holy and my heart free from anger and quarrelling when I pray. Let me be adorned not with display but with good works that show my reverence for You. Give me a teachable spirit, a willingness to learn, and a heart that honours the order of Your house. Keep me continuing in faith, love and holiness with self-control. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Priscilla and Aquila Teach Apollos",
+      "ref": "Acts 18:24-28",
+      "relatedVerses": "v. 11-12",
+      "summary": "A gifted Jewish teacher named Apollos arrived in Ephesus. He was eloquent, mighty in the Scriptures and fervent in spirit, but he knew only the baptism of John. “He began to speak boldly in the synagogue. But when Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately” (Acts 18:26). Apollos went on to strengthen the churches in Achaia, powerfully refuting opponents from the Scriptures. Priscilla, a woman, together with her husband Aquila, helped instruct one of the great teachers of the early church — in Ephesus, the very city where Timothy later served. The New Testament shows women learning deeply and serving significantly in the spread of the gospel."
+    },
+    {
+      "title": "The Fall in the Garden",
+      "ref": "Genesis 3:1-13",
+      "relatedVerses": "v. 13-15",
+      "summary": "In Eden the serpent approached the woman and questioned God's word: had God really said they could not eat from any tree? He then contradicted God outright, promising that eating the forbidden fruit would make them like God. The woman saw that the tree was good for food and desirable, took some and ate, and gave some to her husband, who was with her, and he ate. Their eyes were opened, they hid from God, and when He called, the man blamed the woman and the woman blamed the serpent. Yet in the curse on the serpent, God promised that the seed of the woman would crush the serpent's head. Paul draws on this account in 1 Timothy 2:13–15: the order of creation, the deception, and perhaps the promised Child through whom salvation would come."
+    },
+    {
+      "title": "Paul Prays for King Agrippa",
+      "ref": "Acts 26:24-29",
+      "relatedVerses": "v. 1-4",
+      "summary": "Standing in chains before King Agrippa and the governor Festus, Paul told the story of his conversion and preached Christ's death and resurrection. Festus shouted that Paul was out of his mind. Paul calmly replied that he spoke words of truth and reason, and turned to the king, asking if he believed the prophets. Agrippa said that Paul was almost persuading him to become a Christian. Paul answered that he prayed to God that not only Agrippa but all who heard him that day would become as he was, except for his chains. Here is 1 Timothy 2 lived out: a prisoner praying for the salvation of kings and those in high places, because God desires all people to be saved."
+    }
+  ]
+}
