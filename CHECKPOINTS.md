@@ -345,3 +345,26 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 | 57 | Philemon (1 ch.) | blocked — only 1:1 is on disk; needs the FIXES-TODO §1 re-fetch |
 | 58 | Hebrews | ✅ built & verified |
 | 59 | James (5 ch.) | next — bridge from Hebrews; Road Ahead → 1 Peter, 2 Peter |
+
+## 2026-11-23 — Backlog cleared; one-chapter books filled
+
+- **FIXES-TODO §1 (stand-in):** `sources/bible/{philemon,2john,3john,jude}-1.json` filled from the WEB in the
+  `world-english-bible` npm package 1.0.1 (25 / 13 / 14 / 25 verses), because bible-api.com is blocked from the cloud
+  session. That is a newer WEB revision: about 70–85% of verses match the bible-api text word for word and the rest
+  differ by small edits, and it has 14 verses in 3 John (bible-api has 15). Each file's `source` field says
+  `npm:world-english-bible@1.0.1`, and `build/fetch-nt.mjs` now re-fetches any such stand-in from bible-api when it can.
+- **§3 LEMMA (32):** each printed Greek/Hebrew word set to its Strong's dictionary lemma (John 2/10/18/20, Luke 11,
+  Matthew 27, Romans 5, Ephesians 3, Zechariah 13).
+- **§2 NOT-IN-WEB (42) and §4 WRONG-REF (28):** every quotation set to the exact WEB wording and placed directly before its
+  own reference; combined references split; Old Testament books not on disk (2 Samuel, Jonah, Genesis, Isaiah)
+  changed to single-quote paraphrase. Books touched: 2 Corinthians, Acts, Ephesians, Luke, Malachi, Galatians, Mark,
+  John, Matthew, Romans.
+- **G2 all books `--strict`:** exit 0 — 3521 referenced quotations, 0 lemma, 0 quote issues. **G1** exit 0.
+- Backlog now: 0 NOT-IN-WEB / 0 LEMMA / 0 WRONG-REF.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 57 | Philemon (1 ch.) | next — text now on disk (npm WEB stand-in); bridge from Titus; Road Ahead → Hebrews, James |
+| 58 | Hebrews | ✅ built & verified |
+| 59 | James (5 ch.) | after Philemon |
