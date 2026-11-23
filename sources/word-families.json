@@ -60,6 +60,38 @@
       ]
     },
     {
+      "id": "signs",
+      "name": "Signs, Wonders & Mighty Works",
+      "lang": "Greek",
+      "english": [
+        "signs",
+        "wonders",
+        "mighty works",
+        "power"
+      ],
+      "intro": "The New Testament describes miracles with three words, often together: δύναμις (a mighty work — the power behind it), σημεῖον (a sign — what it points to) and τέρας (a wonder — the amazement it causes). God attested Jesus with all three (Acts 2:22). 2 Thessalonians 2:9 warns that the lawless one will counterfeit all three: ‘power and signs and lying wonders’.",
+      "members": [
+        {
+          "strongs": "G1411",
+          "sense": "Mighty work — a miracle seen as an act of power.",
+          "anchor": "2 Corinthians 12:12",
+          "en": "mighty works"
+        },
+        {
+          "strongs": "G4592",
+          "sense": "Sign — a miracle seen as pointing beyond itself, revealing who is at work (John's word for Jesus' miracles).",
+          "anchor": "John 2:11",
+          "en": "signs"
+        },
+        {
+          "strongs": "G5059",
+          "sense": "Wonder, portent — a miracle seen as something astonishing; never used alone of Jesus' miracles in the New Testament.",
+          "anchor": "Acts 2:22",
+          "en": "wonders"
+        }
+      ]
+    },
+    {
       "id": "time",
       "name": "Time, Season & Age",
       "lang": "Greek",
