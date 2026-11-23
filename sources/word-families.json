@@ -75,6 +75,12 @@
           "sense": "The authority of a command — an order given with the right to give it. In Titus 2:15 the WEB renders it ‘authority’, but it is not ἐξουσία: it is the weight of God’s commandment behind the teacher (the same word is ‘commandment’ in Titus 1:3).",
           "anchor": "Titus 2:15",
           "en": "authority"
+        },
+        {
+          "strongs": "G1756",
+          "sense": "Active, effective, at work — the adjective of ἐνέργεια: God’s word is not inert but operating.",
+          "anchor": "Hebrews 4:12",
+          "en": "active"
         }
       ]
     },
@@ -164,6 +170,12 @@
           "sense": "Day — a literal day, and ‘the day’ of the Lord's return and judgment.",
           "anchor": "1 Thessalonians 5:2",
           "en": "day"
+        },
+        {
+          "strongs": "G2121",
+          "sense": "Well-timed — εὖ + καιρός: help that arrives at exactly the right moment.",
+          "anchor": "Hebrews 4:16",
+          "en": "time of need"
         }
       ]
     },
@@ -495,6 +507,12 @@
           "sense": "Public or sacred servant — one who carries out a priestly or public service.",
           "anchor": "Romans 15:16",
           "en": "servant"
+        },
+        {
+          "strongs": "G2324",
+          "sense": "An honoured attendant — a trusted servant in a household, the title God gave Moses (Hebrews 3:5). Contrasted with the Son who is over the house.",
+          "anchor": "Hebrews 3:5",
+          "en": "servant"
         }
       ]
     },
@@ -707,6 +725,52 @@
           "sense": "Outward shape — a form that may lack the reality (a ‘form of godliness’).",
           "anchor": "2 Timothy 3:5",
           "en": "form"
+        }
+      ]
+    },
+    {
+      "id": "hold",
+      "name": "Hold Fast, Keep & Guard",
+      "lang": "Greek",
+      "english": [
+        "hold fast",
+        "hold tightly",
+        "keep",
+        "kept",
+        "guard",
+        "holding"
+      ],
+      "intro": "English ‘hold fast’ and ‘keep’ hide several Greek words. κατέχω is to hold down, keep a firm grip so nothing slips (Hebrews 3:14; 10:23). κρατέω, from κράτος (strength), is to seize and hold with force (Hebrews 4:14). τηρέω is to keep watch over, preserve (2 Timothy 4:7 ‘I have kept the faith’). φυλάσσω is to guard like a sentry (1 Timothy 6:20). ἀντέχομαι is to cling to, hold on against opposition (Titus 1:9).",
+      "members": [
+        {
+          "strongs": "G2722",
+          "sense": "To hold down, keep a firm grip — not letting go of what you have.",
+          "anchor": "Hebrews 3:14",
+          "en": "hold fast"
+        },
+        {
+          "strongs": "G2902",
+          "sense": "To grasp with strength, seize and retain (from κράτος).",
+          "anchor": "Hebrews 4:14",
+          "en": "hold tightly"
+        },
+        {
+          "strongs": "G5083",
+          "sense": "To keep watch over, preserve, keep intact.",
+          "anchor": "2 Timothy 4:7",
+          "en": "kept"
+        },
+        {
+          "strongs": "G5442",
+          "sense": "To guard as a sentry — protect against loss or attack.",
+          "anchor": "1 Timothy 6:20",
+          "en": "guard"
+        },
+        {
+          "strongs": "G472",
+          "sense": "To cling to, hold on firmly against pressure.",
+          "anchor": "Titus 1:9",
+          "en": "holding"
         }
       ]
     },
