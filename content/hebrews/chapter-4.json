@@ -1,0 +1,917 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 4,
+  "chapterTitle": "The Rest That Remains and the Throne of Grace",
+  "themeTitle": "“There Remains a Sabbath Rest”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Let us fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest.",
+      "understanding": "φοβηθῶμεν οὖν, “Let us fear therefore” — a healthy, sober fear, not panic. μήποτε καταλειπομένης ἐπαγγελίας εἰσελθεῖν εἰς τὴν κατάπαυσιν αὐτοῦ, “lest perhaps... a promise of entering into his rest” is left behind unclaimed. δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι, “anyone of you should seem to have come short” — ὑστερέω, to arrive too late, to fall behind. κατάπαυσις from the rest family. The promise still stands; the danger is failing to enter.",
+      "words": [
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "fear"
+        },
+        {
+          "strongs": "G1860",
+          "hebrew": "ἐπαγγελία",
+          "translit": "epangelía",
+          "english": "promise"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "entering"
+        },
+        {
+          "strongs": "G2663",
+          "hebrew": "κατάπαυσις",
+          "translit": "katápausis",
+          "english": "rest"
+        },
+        {
+          "strongs": "G5302",
+          "hebrew": "ὑστερέω",
+          "translit": "hysteréō",
+          "english": "come short"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "For indeed we have had good news preached to us, even as they also did, but the word they heard didn’t profit them, because it wasn’t mixed with faith by those who heard.",
+      "understanding": "καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι, “For indeed we have had good news preached to us, even as they also did” — Israel heard good news of a promised land; we hear good news of Christ. ἀλλ᾽ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους, “but the word they heard didn’t profit them” — λόγος from the word family. μὴ συγκεκερασμένος τῇ πίστει τοῖς ἀκούσασιν, “because it wasn’t mixed with faith by those who heard” — like food that is not digested. (Many manuscripts read it slightly differently: ‘because they were not united by faith with those who listened’, meaning Joshua and Caleb. Either way, the message did them no good without faith.)",
+      "words": [
+        {
+          "strongs": "G2097",
+          "hebrew": "εὐαγγελίζω",
+          "translit": "euangelízō",
+          "english": "good news preached"
+        },
+        {
+          "strongs": "G5623",
+          "hebrew": "ὠφελέω",
+          "translit": "ōpheléō",
+          "english": "profit"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G189",
+          "hebrew": "ἀκοή",
+          "translit": "akoḗ",
+          "english": "heard"
+        },
+        {
+          "strongs": "G4786",
+          "hebrew": "συγκεράννυμι",
+          "translit": "synkeránnymi",
+          "english": "mixed"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For we who have believed do enter into that rest, even as he has said, “As I swore in my wrath, they will not enter into my rest”; although the works were finished from the foundation of the world.",
+      "understanding": "εἰσερχόμεθα γὰρ εἰς τὴν κατάπαυσιν οἱ πιστεύσαντες, “For we who have believed do enter into that rest” — present tense: believers are entering it now. The rest is received by faith, not by effort. The writer quotes Psalm 95 again, “As I swore in my wrath, they will not enter into my rest” — and adds: καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων, “although the works were finished from the foundation of the world.” κόσμος from the world family. God's rest has been available since creation was complete; it is not a new invention.",
+      "words": [
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believed"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G2663",
+          "hebrew": "κατάπαυσις",
+          "translit": "katápausis",
+          "english": "rest"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G2602",
+          "hebrew": "καταβολή",
+          "translit": "katabolḗ",
+          "english": "foundation"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "For he has said this somewhere about the seventh day, “God rested on the seventh day from all his works”;",
+      "understanding": "εἴρηκεν γάρ που περὶ τῆς ἑβδόμης οὕτως, “For he has said this somewhere about the seventh day” — the creation account (Genesis 2). “God rested on the seventh day from all his works.” κατέπαυσεν, from καταπαύω in the rest family. God's rest is not tiredness but the satisfaction of a finished work. That is the rest He invites His people into.",
+      "words": [
+        {
+          "strongs": "G1442",
+          "hebrew": "ἕβδομος",
+          "translit": "hébdomos",
+          "english": "seventh"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2664",
+          "hebrew": "καταπαύω",
+          "translit": "katapaúō",
+          "english": "rested"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "and in this place again, “They will not enter into my rest.”",
+      "understanding": "καὶ ἐν τούτῳ πάλιν, “and in this place again” — Psalm 95: “They will not enter into my rest.” By setting Genesis 2 beside Psalm 95, the writer shows that the ‘rest’ God swore about is His own rest — the rest of the seventh day — not merely the land of Canaan.",
+      "words": [
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G2663",
+          "hebrew": "κατάπαυσις",
+          "translit": "katápausis",
+          "english": "rest"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Seeing therefore it remains that some should enter into it, and they to whom the good news was preached before failed to enter in because of disobedience,",
+      "understanding": "ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν, “Seeing therefore it remains that some should enter into it” — God's purpose to bring people into His rest has not been cancelled. καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι᾽ ἀπείθειαν, “and they to whom the good news was preached before failed to enter in because of disobedience” — ἀπείθεια, stubborn refusal to be persuaded. If they did not enter, the invitation passes to others.",
+      "words": [
+        {
+          "strongs": "G620",
+          "hebrew": "ἀπολείπω",
+          "translit": "apoleípō",
+          "english": "remains"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G2097",
+          "hebrew": "εὐαγγελίζω",
+          "translit": "euangelízō",
+          "english": "good news was preached"
+        },
+        {
+          "strongs": "G543",
+          "hebrew": "ἀπείθεια",
+          "translit": "apeítheia",
+          "english": "disobedience"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "he again defines a certain day, today, saying through David so long a time afterward (just as has been said), “Today if you will hear his voice, don’t harden your hearts.”",
+      "understanding": "πάλιν τινὰ ὁρίζει ἡμέραν, ‘σήμερον’, “he again defines a certain day, today” — ὁρίζω, to mark out (the root of ‘horizon’). ἐν Δαυὶδ λέγων μετὰ τοσοῦτον χρόνον, “saying through David so long a time afterward” — χρόνος from the time family: centuries after Joshua. If Israel had already entered God's rest under Joshua, why would God, through David, still be inviting people ‘today’? The quotation once more: “Today if you will hear his voice, don’t harden your hearts.” σήμερον and χρόνος side by side: a long span of time, and the one day that matters.",
+      "words": [
+        {
+          "strongs": "G3724",
+          "hebrew": "ὁρίζω",
+          "translit": "horízō",
+          "english": "defines"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G4594",
+          "hebrew": "σήμερον",
+          "translit": "sḗmeron",
+          "english": "today"
+        },
+        {
+          "strongs": "G5550",
+          "hebrew": "χρόνος",
+          "translit": "chrónos",
+          "english": "time"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G4645",
+          "hebrew": "σκληρύνω",
+          "translit": "sklērýnō",
+          "english": "harden"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "For if Joshua had given them rest, he would not have spoken afterward of another day.",
+      "understanding": "εἰ γὰρ αὐτοὺς Ἰησοῦς κατέπαυσεν, “For if Joshua had given them rest” — in Greek, ‘Joshua’ is Ἰησοῦς, the same name as Jesus. The first Ἰησοῦς brought Israel into Canaan, but that was not the final rest. καταπαύω from the rest family. οὐκ ἂν περὶ ἄλλης ἐλάλει μετὰ ταῦτα ἡμέρας, “he would not have spoken afterward of another day” — ἄλλος from the another family: another day of the same kind, a further ‘today’.",
+      "words": [
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Joshua"
+        },
+        {
+          "strongs": "G2664",
+          "hebrew": "καταπαύω",
+          "translit": "katapaúō",
+          "english": "rest"
+        },
+        {
+          "strongs": "G243",
+          "hebrew": "ἄλλος",
+          "translit": "állos",
+          "english": "another"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoken"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "There remains therefore a Sabbath rest for the people of God.",
+      "understanding": "ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ, “There remains therefore a Sabbath rest for the people of God.” A new word appears, found nowhere else in the Bible: σαββατισμός, a Sabbath-keeping. Three members of the rest family meet in verses 8–10: καταπαύω (Joshua's rest), σαββατισμός (the Sabbath rest that remains), and κατάπαυσις (God's own rest). Canaan was a picture; the weekly Sabbath was a picture; the reality is God's own rest, which believers begin to enjoy now through Christ and will enjoy fully in the age to come.",
+      "words": [
+        {
+          "strongs": "G620",
+          "hebrew": "ἀπολείπω",
+          "translit": "apoleípō",
+          "english": "remains"
+        },
+        {
+          "strongs": "G4520",
+          "hebrew": "σαββατισμός",
+          "translit": "sabbatismós",
+          "english": "Sabbath rest"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For he who has entered into his rest has himself also rested from his works, as God did from his.",
+      "understanding": "ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ, “For he who has entered into his rest” — κατάπαυσις. καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός, “has himself also rested from his works, as God did from his.” ἔργον from the work family. Entering God's rest means ceasing to rely on our own works to make us right with God, and resting in His finished work, as God rested when creation was complete.",
+      "words": [
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "entered"
+        },
+        {
+          "strongs": "G2663",
+          "hebrew": "κατάπαυσις",
+          "translit": "katápausis",
+          "english": "rest"
+        },
+        {
+          "strongs": "G2664",
+          "hebrew": "καταπαύω",
+          "translit": "katapaúō",
+          "english": "rested"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Let us therefore give diligence to enter into that rest, lest anyone fall after the same example of disobedience.",
+      "understanding": "σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, “Let us therefore give diligence to enter into that rest” — a deliberate paradox: make every effort to enter rest. The effort is not working to earn it, but taking seriously the call to trust. ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας, “lest anyone fall after the same example of disobedience” — ὑπόδειγμα, a pattern to avoid.",
+      "words": [
+        {
+          "strongs": "G4704",
+          "hebrew": "σπουδάζω",
+          "translit": "spoudázō",
+          "english": "give diligence"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G2663",
+          "hebrew": "κατάπαυσις",
+          "translit": "katápausis",
+          "english": "rest"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fall"
+        },
+        {
+          "strongs": "G5262",
+          "hebrew": "ὑπόδειγμα",
+          "translit": "hypódeigma",
+          "english": "example"
+        },
+        {
+          "strongs": "G543",
+          "hebrew": "ἀπείθεια",
+          "translit": "apeítheia",
+          "english": "disobedience"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.",
+      "understanding": "ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργής, “For the word of God is living and active.” λόγος from the word family: God's message as a whole, especially the Scripture just quoted (contrast ῥῆμα, the spoken command, in 1:3). ἐνεργής from the power family (ἐνέργεια): operative, at work. καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον, “and sharper than any two-edged sword,” διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, “piercing even to the dividing of soul and spirit” — ψυχή from the life family. ἁρμῶν τε καὶ μυελῶν, “of both joints and marrow.” καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας, “and is able to discern the thoughts and intentions of the heart” — κριτικός, a judge (our ‘critic’). The word that invites us into rest also exposes what is hiding in us.",
+      "words": [
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "living"
+        },
+        {
+          "strongs": "G1756",
+          "hebrew": "ἐνεργής",
+          "translit": "energḗs",
+          "english": "active"
+        },
+        {
+          "strongs": "G5114",
+          "hebrew": "τομώτερος",
+          "translit": "tomṓteros",
+          "english": "sharper"
+        },
+        {
+          "strongs": "G1366",
+          "hebrew": "δίστομος",
+          "translit": "dístomos",
+          "english": "two-edged"
+        },
+        {
+          "strongs": "G3162",
+          "hebrew": "μάχαιρα",
+          "translit": "máchaira",
+          "english": "sword"
+        },
+        {
+          "strongs": "G1338",
+          "hebrew": "διϊκνέομαι",
+          "translit": "diïknéomai",
+          "english": "piercing"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "soul"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G719",
+          "hebrew": "ἁρμός",
+          "translit": "harmós",
+          "english": "joints"
+        },
+        {
+          "strongs": "G3452",
+          "hebrew": "μυελός",
+          "translit": "myelós",
+          "english": "marrow"
+        },
+        {
+          "strongs": "G2924",
+          "hebrew": "κριτικός",
+          "translit": "kritikós",
+          "english": "able to discern"
+        },
+        {
+          "strongs": "G1761",
+          "hebrew": "ἐνθύμησις",
+          "translit": "enthýmēsis",
+          "english": "thoughts"
+        },
+        {
+          "strongs": "G1771",
+          "hebrew": "ἔννοια",
+          "translit": "énnoia",
+          "english": "intentions"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him to whom we must give an account.",
+      "understanding": "καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ, “There is no creature that is hidden from his sight.” πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ, “but all things are naked and laid open before the eyes of him” — τραχηλίζω, to bend back the neck, to lay bare the throat. πρὸς ὃν ἡμῖν ὁ λόγος, “to whom we must give an account.” A wordplay: λόγος again. The λόγος of God (v. 12) searches us, and we must give our λόγος, our account, to Him.",
+      "words": [
+        {
+          "strongs": "G2937",
+          "hebrew": "κτίσις",
+          "translit": "ktísis",
+          "english": "creature"
+        },
+        {
+          "strongs": "G852",
+          "hebrew": "ἀφανής",
+          "translit": "aphanḗs",
+          "english": "hidden"
+        },
+        {
+          "strongs": "G1131",
+          "hebrew": "γυμνός",
+          "translit": "gymnós",
+          "english": "naked"
+        },
+        {
+          "strongs": "G5136",
+          "hebrew": "τραχηλίζω",
+          "translit": "trachēlízō",
+          "english": "laid open"
+        },
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eyes"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "account"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Having then a great high priest, who has passed through the heavens, Jesus, the Son of God, let us hold tightly to our confession.",
+      "understanding": "ἔχοντες οὖν ἀρχιερέα μέγαν, “Having then a great high priest” — the theme announced in 2:17 and 3:1 now begins in earnest. διεληλυθότα τοὺς οὐρανούς, “who has passed through the heavens” — as the high priest passed through the courts into the Most Holy Place, Jesus has passed through the heavens into God's presence. Ἰησοῦν τὸν υἱὸν τοῦ θεοῦ, “Jesus, the Son of God” — His human name and divine title together. κρατῶμεν τῆς ὁμολογίας, “let us hold tightly to our confession” — κρατέω from the hold family: grip with strength (from κράτος), a firmer word than κατέχω in 3:6, 14.",
+      "words": [
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G749",
+          "hebrew": "ἀρχιερεύς",
+          "translit": "archiereús",
+          "english": "high priest"
+        },
+        {
+          "strongs": "G1330",
+          "hebrew": "διέρχομαι",
+          "translit": "diérchomai",
+          "english": "passed through"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heavens"
+        },
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G2902",
+          "hebrew": "κρατέω",
+          "translit": "kratéō",
+          "english": "hold tightly"
+        },
+        {
+          "strongs": "G3671",
+          "hebrew": "ὁμολογία",
+          "translit": "homología",
+          "english": "confession"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "For we don’t have a high priest who can’t be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin.",
+      "understanding": "οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, “For we don’t have a high priest who can’t be touched with the feeling of our infirmities” — συμπαθέω, to suffer with, to feel with (our ‘sympathy’). ἀσθένεια, weakness of every kind. πεπειρασμένον δὲ κατὰ πάντα καθ᾽ ὁμοιότητα χωρὶς ἁμαρτίας, “but one who has been in all points tempted like we are, yet without sin.” His temptations were real; His sinlessness means He felt their full force without giving way.",
+      "words": [
+        {
+          "strongs": "G749",
+          "hebrew": "ἀρχιερεύς",
+          "translit": "archiereús",
+          "english": "high priest"
+        },
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "can"
+        },
+        {
+          "strongs": "G4834",
+          "hebrew": "συμπαθέω",
+          "translit": "sympathéō",
+          "english": "touched with the feeling"
+        },
+        {
+          "strongs": "G769",
+          "hebrew": "ἀσθένεια",
+          "translit": "asthéneia",
+          "english": "infirmities"
+        },
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tempted"
+        },
+        {
+          "strongs": "G3665",
+          "hebrew": "ὁμοιότης",
+          "translit": "homoiótēs",
+          "english": "like"
+        },
+        {
+          "strongs": "G5565",
+          "hebrew": "χωρίς",
+          "translit": "chōrís",
+          "english": "without"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need.",
+      "understanding": "προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, “Let us therefore draw near with boldness to the throne of grace.” προσέρχομαι, a priestly word for approaching God; παρρησία, freedom of speech, confidence. The throne of the universe has become a throne of grace. ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν, “that we may receive mercy, and may find grace” — mercy for our failures, grace for our needs. εἰς εὔκαιρον βοήθειαν, “for help in time of need” — εὔκαιρος from the time family: well-timed help, arriving at exactly the right moment.",
+      "words": [
+        {
+          "strongs": "G4334",
+          "hebrew": "προσέρχομαι",
+          "translit": "prosérchomai",
+          "english": "draw near"
+        },
+        {
+          "strongs": "G3954",
+          "hebrew": "παῤῥησία",
+          "translit": "parrhēsía",
+          "english": "boldness"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "receive"
+        },
+        {
+          "strongs": "G1656",
+          "hebrew": "ἔλεος",
+          "translit": "éleos",
+          "english": "mercy"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "find"
+        },
+        {
+          "strongs": "G2121",
+          "hebrew": "εὔκαιρος",
+          "translit": "eúkairos",
+          "english": "time of need"
+        },
+        {
+          "strongs": "G996",
+          "hebrew": "βοήθεια",
+          "translit": "boḗtheia",
+          "english": "help"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Seventh Day",
+      "verseRef": "v. 3-10",
+      "image": "Picture a master builder on the evening his great house is finished. Every beam is in place, every window glazed, every garden planted. He does not collapse in exhaustion; he sits on the porch in the cool of the evening and looks at what he has made, satisfied. Then he turns to the weary labourers who have been trying for years to build houses of their own on sand, and he says, ‘Come and sit with me. It is finished. Rest in what I have made.’",
+      "meaning": "“God rested on the seventh day from all his works” (v. 4). “There remains therefore a Sabbath rest for the people of God” (v. 9). “For he who has entered into his rest has himself also rested from his works, as God did from his” (v. 10). God's rest is the satisfaction of a finished work. In Christ, you are invited to stop striving to earn God's favour and to rest in what Christ has done. Ask the Spirit where you are still trying to build your own house."
+    },
+    {
+      "title": "The Surgeon's Blade",
+      "verseRef": "v. 12-13",
+      "image": "Picture an operating theatre. A patient lies under bright lights. The surgeon's blade is sharper than any soldier's sword, but it is not wielded to kill. With great skill it cuts through layer after layer — skin, muscle, the joint, down to the marrow — to reach the hidden disease that is slowly killing the patient. Nothing is hidden from the surgeon's eyes. The cutting hurts, but it is the only way to healing.",
+      "meaning": "“For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart” (v. 12). God's word exposes what we hide, even from ourselves. It is the surgeon's blade, not the executioner's. Let it search you, because the One who uses it is the same High Priest who sympathises with your weakness."
+    },
+    {
+      "title": "The Throne That Became a Mercy Seat",
+      "verseRef": "v. 14-16",
+      "image": "Picture a great king's throne room. Ordinary people stand trembling at the door; to approach uninvited could mean death. Then picture the king's own son walking out, taking a poor, frightened subject by the hand, and leading him all the way up to the throne. The son says, ‘Father, this one is with me.’ The king smiles and reaches out his sceptre. The throne of judgement has become, for this one, a throne of grace.",
+      "meaning": "“Having then a great high priest, who has passed through the heavens, Jesus, the Son of God, let us hold tightly to our confession” (v. 14). “Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need” (v. 16). Your High Priest understands your weakness and has opened the way. Come boldly. The help you receive will be well-timed."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Promise of Rest Still Stands (v. 1-5)",
+        "body": "Since the promise of entering God's rest remains, believers must take care not to fall short; Israel heard good news but it did not benefit them because it was not combined with faith, while those who believe do enter that rest — God's own rest since creation was completed, of which Genesis and Psalm 95 speak."
+      },
+      {
+        "label": "Today: The Sabbath Rest That Remains (v. 6-11)",
+        "body": "Because those who first heard the good news did not enter through disobedience, God again set a day — ‘today’ — through David long after Joshua, showing that Joshua did not give the final rest; a Sabbath rest remains for God's people, in which they cease from their own works as God did from His, so believers must make every effort to enter it."
+      },
+      {
+        "label": "The Living Word and the Great High Priest (v. 12-16)",
+        "body": "God's word is living, active and sharper than any sword, exposing the thoughts and intentions of the heart, and every creature is laid bare before Him to whom we must give account; but we have a great High Priest, Jesus the Son of God, who sympathises with our weaknesses and was tempted in every way yet without sin, so we can hold fast our confession and approach the throne of grace with confidence for mercy and timely help."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "A Promise Still Open",
+        "paragraphs": [
+          "Chapter 4 continues the argument from Psalm 95. Israel failed to enter Canaan through unbelief, but God's promise of rest has not expired: “Let us fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest” (v. 1). The problem was never with the message. Israel heard good news, “but the word they heard didn’t profit them, because it wasn’t mixed with faith by those who heard” (v. 2). Hearing without believing does no good, like food that is never digested.",
+          "Then comes the encouragement: “For we who have believed do enter into that rest” (v. 3). Believers are entering it now. The rest is not something we work up but something we enter by faith. And what is this rest? The writer links Psalm 95 with the creation story: “God rested on the seventh day from all his works” (v. 4). God's ‘rest’ in the psalm is His own Sabbath rest, the rest of finished creation, which He wants to share with His people.",
+          "Canaan was a real gift, but it was only a picture of something greater. Jesus taught the same: “Come to me, all you who labor and are heavily burdened, and I will give you rest” (Matthew 11:28). His invitation is not to a piece of land, but to Himself."
+        ]
+      },
+      {
+        "heading": "The Sabbath Rest That Remains",
+        "paragraphs": [
+          "The writer's argument is careful. If Joshua had given Israel the final rest, God would not, centuries later, have spoken through David of ‘today’ as the time to enter (vv. 7–8). There is a striking detail here: in Greek, ‘Joshua’ is Ἰησοῦς, the same name as ‘Jesus’. The first Joshua brought Israel into the land; the greater Joshua brings God's people into God's own rest. So, “There remains therefore a Sabbath rest for the people of God” (v. 9).",
+          "Three rest-family words come together in verses 8–10. καταπαύω is the rest Joshua gave, but it was incomplete. σαββατισμός, used only here in the Bible, is the Sabbath-keeping that remains. κατάπαυσις is God's own rest, into which believers enter. “For he who has entered into his rest has himself also rested from his works, as God did from his” (v. 10). Paul says the Sabbath was “a shadow of the things to come; but the body is Christ’s” (Colossians 2:17). The weekly Sabbath pointed to the rest of trusting in God's finished work.",
+          "Yet entering rest requires effort of a certain kind: “Let us therefore give diligence to enter into that rest, lest anyone fall after the same example of disobedience” (v. 11). The diligence is not working to earn salvation, but taking God's word seriously, refusing to drift, and continuing to trust. The danger the writer sees is not trying too hard, but casually assuming we are safe while our hearts harden."
+        ]
+      },
+      {
+        "heading": "The Sword and the Sympathiser",
+        "paragraphs": [
+          "Why must we take care? Because God's word is not a dead letter: “For the word of God is living and active, and sharper than any two-edged sword” (v. 12). It cuts through every excuse, “piercing even to the dividing of soul and spirit, of both joints and marrow” (v. 12). Paul calls it “the sword of the Spirit, which is the word of God” (Ephesians 6:17). And “There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him to whom we must give an account” (v. 13). The λόγος of God examines us, and we must give our λόγος, our account, to Him.",
+          "That could be terrifying. But the next verses bring the gospel: “Having then a great high priest, who has passed through the heavens, Jesus, the Son of God, let us hold tightly to our confession” (v. 14). The One before whom we are laid bare is also the One who represents us. “For we don’t have a high priest who can’t be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin” (v. 15). He does not look at our weakness coldly; He feels it with us.",
+          "So the chapter ends with an invitation: “Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need” (v. 16). The throne of the universe is, for believers, a throne of grace. Paul says that in Christ “we have boldness and access in confidence through our faith in him” (Ephesians 3:12). Come for mercy when you have failed; come for grace when you are weak. His help is εὔκαιρος — exactly on time."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Rest in Christ, the Sword of the Spirit and Our Advocate",
+      "paragraphs": [
+        "Jesus offered the rest that Hebrews 4 describes: “Come to me, all you who labor and are heavily burdened, and I will give you rest” (Matthew 11:28). “Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls” (Matthew 11:29). On the cross He cried, “It is finished” (John 19:30). And John heard a voice from heaven say of those who die in the Lord, “that they may rest from their labors; for their works follow with them” (Revelation 14:13).",
+        "The word as a sword appears in John's vision of the risen Christ: “Out of his mouth proceeded a sharp two-edged sword” (Revelation 1:16). Simeon told Mary, “Yes, a sword will pierce through your own soul, that the thoughts of many hearts may be revealed” (Luke 2:35). God “will judge the secrets of men, according to my Good News, by Jesus Christ” (Romans 2:16). And “we must all be revealed before the judgment seat of Christ” (2 Corinthians 5:10).",
+        "But the Judge is also our Advocate. “It is Christ who died, yes rather, who was raised from the dead, who is at the right hand of God, who also makes intercession for us” (Romans 8:34). “If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous” (1 John 2:1). That is why we can draw near with boldness."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Sabbath rest / sabbath-keeping",
+      "hebrew": "σαββατισμός",
+      "translit": "sabbatismós",
+      "strongs": "G4520",
+      "verses": "v. 9",
+      "insight": "Strong's: “a \"sabbatism\", i.e. (figuratively) the repose of Christianity (as a type of heaven).” It appears only here in the whole Bible, and may have been coined by the writer. It is formed from σάββατον, Sabbath. It describes not merely ceasing from work but celebrating a finished work, as God did on the seventh day. Believers begin to enjoy it now by trusting Christ, and will enjoy it fully in the age to come. This study tags it in the new rest family."
+    },
+    {
+      "english": "Active / operative",
+      "hebrew": "ἐνεργής",
+      "translit": "energḗs",
+      "strongs": "G1756",
+      "verses": "v. 12",
+      "insight": "Strong's: “active, operative.” It belongs with ἐνέργεια (energy) and ἐνεργέω (to work) in the power family. Paul uses it of a ‘great and effective door’ opened for his ministry. God's word is not inert information; it is energy at work, accomplishing what God sends it to do — creating, convicting, healing, transforming."
+    },
+    {
+      "english": "Able to discern / judge",
+      "hebrew": "κριτικός",
+      "translit": "kritikós",
+      "strongs": "G2924",
+      "verses": "v. 12",
+      "insight": "Strong's: “decisive (\"critical\"), i.e. discriminative.” It is the source of our words ‘critic’ and ‘critical’. Only here in the New Testament, it describes God's word as a judge that sifts the thoughts and intentions of the heart. We usually think we judge Scripture; Hebrews says Scripture judges us, distinguishing between what is true and false in our motives."
+    },
+    {
+      "english": "Laid open / laid bare",
+      "hebrew": "τραχηλίζω",
+      "translit": "trachēlízō",
+      "strongs": "G5136",
+      "verses": "v. 13",
+      "insight": "Strong's: “to seize by the throat or neck, i.e. to expose the gullet of a victim for killing (generally, to lay bare).” It may picture a sacrificial animal with its neck bared, or a wrestler gripping an opponent so that his face is exposed. Before God nothing is hidden. Yet the next verse brings comfort: the One who sees everything is also our sympathetic High Priest."
+    },
+    {
+      "english": "Sympathise / feel with",
+      "hebrew": "συμπαθέω",
+      "translit": "sympathéō",
+      "strongs": "G4834",
+      "verses": "v. 15",
+      "insight": "Strong's: “to feel \"sympathy\" with, i.e. (by implication) to commiserate.” It is formed from σύν, with, and πάσχω, to suffer: to suffer alongside. The writer uses it again of believers who ‘had compassion’ on prisoners (10:34). Jesus is not a detached observer of our weakness. He has felt the full force of temptation and suffering, and He feels with us now."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "Through this chapter the Holy Spirit invites you into rest, searches your heart with His word, and draws you to the throne of grace.",
+    "items": [
+      {
+        "title": "Stop Striving, Start Resting",
+        "body": "The Spirit sees the ways you are still trying to earn God's acceptance — by performance, religious effort or anxious self-improvement. He invites you to rest from your own works as God rested from His, trusting the finished work of Christ. Ask Him to show you where you are striving, and lay it down today."
+      },
+      {
+        "title": "Let the Word Search You",
+        "body": "God's word is living and active. The Spirit wants to use it to expose thoughts and motives you may not see. This is not to shame you but to heal you. As you read Scripture this week, pray, ‘Search me, Lord,’ and respond honestly to what He shows you."
+      },
+      {
+        "title": "Come Boldly for Timely Help",
+        "body": "Whatever weakness, temptation or need you face, your High Priest understands. The Spirit is urging you to come to the throne of grace — not timidly, not after you have cleaned yourself up, but boldly, now. Bring your specific need to Him and expect help at the right time."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Rest Check",
+        "body": "Where are you trying to earn God's approval by your own efforts? Write it down, and next to it write verse 10. Thank God for Christ's finished work."
+      },
+      {
+        "title": "The Word Check",
+        "body": "How have you responded the last few times Scripture exposed something in your heart? Did you listen or explain it away (vv. 12–13)?"
+      },
+      {
+        "title": "The Prayer Check",
+        "body": "Do you approach God timidly, only after you feel ‘good enough’? Practise coming to Him with boldness this week, especially when you have failed (v. 16)."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "A Weekly Rest With God",
+        "body": "Set aside a regular period each week — part of a day if possible — to rest deliberately: stop your work, worship with God's people, read Scripture, enjoy God's creation and remember Christ's finished work. Use it as a weekly picture of the greater rest He offers. Notice how resting reshapes your trust in Him."
+      },
+      {
+        "title": "Throne-of-Grace Prayer List",
+        "body": "Make two short lists: ‘Mercy’ (places where you need forgiveness) and ‘Grace’ (places where you need strength or help). Each day for two weeks, bring both lists boldly to God, thanking Jesus that He sympathises with your weakness. Record any timely help you receive."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, thank You that the promise of entering Your rest still stands. Keep me from falling short through unbelief. Let the good news I hear be mixed with faith. I believe in Jesus, and I enter Your rest. I stop trying to earn Your acceptance by my works, and I rest in Christ's finished work, as You rested on the seventh day. Thank You that a Sabbath rest remains for Your people. Your word is living and active, sharper than any two-edged sword. Let it pierce my heart, divide soul and spirit, and expose every thought and intention that is not of You. Nothing is hidden from Your sight, and I must give account to You. But I have a great High Priest, Jesus, Your Son, who has passed through the heavens. I hold tightly to my confession. Thank You that He sympathises with my weaknesses, having been tempted in every way as I am, yet without sin. I come boldly to Your throne of grace now, to receive mercy and to find grace for help in my time of need. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "God Rests on the Seventh Day",
+      "ref": "Genesis 2:1-3",
+      "relatedVerses": "v. 3-4, 9-10",
+      "summary": "After six days of creating the heavens and the earth and everything in them, God finished His work. On the seventh day He rested from all the work He had done. He blessed the seventh day and made it holy, because on it He rested from all His work of creation. God's rest was not exhaustion but completion and delight. Hebrews 4 says that this rest of God has been open since the foundation of the world, and that God invites His people to share it: “There remains therefore a Sabbath rest for the people of God” (v. 9)."
+    },
+    {
+      "title": "Joshua Leads Israel Into Canaan",
+      "ref": "Joshua 1-4; 21:43-45",
+      "relatedVerses": "v. 8",
+      "summary": "After Moses died, Joshua led the next generation across the Jordan into the promised land. The waters stopped as the priests carrying the ark stepped in, and the people crossed on dry ground. In the years that followed, Joshua led them in conquering the land, and the book of Joshua records that the LORD gave them rest on every side. Yet Hebrews 4:8 points out that this was not the final rest, because centuries later David still spoke of ‘today’. Joshua's name in Greek is Ἰησοῦς — Jesus. The first Joshua gave a land; the second gives God's own rest."
+    },
+    {
+      "title": "Jesus Invites the Weary to Rest",
+      "ref": "Matthew 11:25-30",
+      "relatedVerses": "v. 1-3, 9-11",
+      "summary": "Jesus thanked the Father for revealing truth to little children rather than to the proud, and declared that no one knows the Father except the Son and those to whom the Son reveals Him. Then He turned to the crowds, many weighed down by religious rules and the burdens of life: “Come to me, all you who labor and are heavily burdened, and I will give you rest” (Matthew 11:28). “Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls” (Matthew 11:29). The rest promised in Hebrews 4 is found in the person of Jesus Himself."
+    }
+  ]
+}
