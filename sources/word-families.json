@@ -22,6 +22,12 @@
           "en": "power"
         },
         {
+          "strongs": "G1743",
+          "sense": "To empower, to strengthen inwardly — to put δύναμις into someone; Christ enabling His servants.",
+          "anchor": "Philippians 4:13",
+          "en": "strengthens"
+        },
+        {
           "strongs": "G1753",
           "sense": "Power in operation — energy actually being exerted. Used in the New Testament almost only of God's (or Satan's) power at work.",
           "anchor": "Ephesians 3:7",
@@ -313,6 +319,12 @@
           "sense": "Another of a different kind — something other, different in nature.",
           "anchor": "Galatians 1:6",
           "en": "different"
+        },
+        {
+          "strongs": "G2085",
+          "sense": "To teach differently — teaching of a different kind (ἕτερος) from the apostolic gospel.",
+          "anchor": "1 Timothy 1:3",
+          "en": "different"
         }
       ]
     },
@@ -529,6 +541,38 @@
           "sense": "Malice — badness of heart, ill will that wants harm for others.",
           "anchor": "Colossians 3:8",
           "en": "malice"
+        }
+      ]
+    },
+    {
+      "id": "godliness",
+      "name": "Godliness & Ungodliness",
+      "lang": "Greek",
+      "english": [
+        "godliness",
+        "godly",
+        "ungodly",
+        "ungodliness"
+      ],
+      "intro": "‘Godliness’ is the key word of 1 Timothy. English uses one word for two Greek ones: εὐσέβεια (well-directed reverence, devotion to God lived out in daily life) and the rarer θεοσέβεια (reverence for God). The opposite is ἀσέβεια / ἀσεβής — the absence of reverence, life lived as if God did not matter.",
+      "members": [
+        {
+          "strongs": "G2150",
+          "sense": "Godliness — reverent devotion to God expressed in a whole way of life; the key word of the pastoral letters.",
+          "anchor": "1 Timothy 6:6",
+          "en": "godliness"
+        },
+        {
+          "strongs": "G2317",
+          "sense": "Reverence for God, God-fearing piety (used only once in the New Testament).",
+          "anchor": "1 Timothy 2:10",
+          "en": "godliness"
+        },
+        {
+          "strongs": "G765",
+          "sense": "Ungodly — without reverence for God; living as if God did not matter.",
+          "anchor": "1 Timothy 1:9",
+          "en": "ungodly"
         }
       ]
     },
