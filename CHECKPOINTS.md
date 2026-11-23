@@ -280,5 +280,31 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 | # | Book | Status |
 |---|------|--------|
 | 55 | 2 Timothy | ✅ built & verified |
-| 56 | Titus (3 ch.) | next — bridge from 2 Timothy; Road Ahead → Philemon, Hebrews |
+| 56 | Titus (3 ch.) | ✅ built & verified (below) |
 | 57 | Philemon (1 ch.) | needs the FIXES-TODO §1 re-fetch first (only 1:1 is on disk) |
+
+## 2026-11-23 — Titus
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 10KB | — | ✅ | ✅ | Bridge from 2 Timothy (matches its Road Ahead); notes that Titus was probably written before 2 Timothy |
+| Chapter 1 | 39KB | 16/16 | ✅ | ✅ | 1:2 χρόνος vs 1:3 καιρός; ἀψευδής vs the Cretans' ψεῦσται; 1:8 φιλόξενος + φιλάγαθος (love) and σώφρων + ἐγκρατής (new **self-control** family); 1:6 ‘children who believe’ and 1:12 Epimenides read honestly. Caught & fixed before G2: two nested-quote forms (Acts 17:28, 1 John 2:4) |
+| Chapter 2 | 36KB | 15/15 | ✅ | ✅ | Every age group called to the σώφρων life; φίλανδρος / φιλότεκνος; 2:8 φαῦλος added to **evil**; 2:11 / 2:13 ἐπιφαίνω / ἐπιφάνεια (new **appear** family); 2:12 ἀσέβεια + εὐσεβῶς; 2:13 ‘our great God and Savior’ (Granville Sharp, 2 Peter 1:1); 2:15 ἐπιταγή added to **power** (WEB ‘authority’, not ἐξουσία) |
+| Chapter 3 | 37KB | 15/15 | ✅ | ✅ | 3:1 ἀρχή + ἐξουσία; 3:2 ‘speak evil’ = βλασφημέω; 3:4 φιλανθρωπία; 3:5 not by works / 3:8 for works; λουτρόν, παλιγγενεσία, ἀνακαίνωσις (added to **new**); 3:15 φιλέω. Caught & fixed: a combined Ephesians 2:8–9 quote split in two; a self-quote paired with (v. 5) |
+| Final Masterclass Review | 13KB | — | ✅ | ✅ | Road Ahead → Philemon (quoted only from 1:1, the one verse on disk), Hebrews |
+
+- **Book total:** 3 chapters, 46/46 verses, 15 lexicon entries, 183 referenced quotations checked (exit 0).
+  Every quoted Strong's definition compared with the dictionary text.
+- **Word families:** 25 → 27 families, 120 → 145 words. New: **self-control** (νήφω, νηφάλιος, σώφρων, σωφρονέω,
+  σωφρόνως, σωφροσύνη, σωφρονισμός, σωφρονίζω, ἐγκράτεια, ἐγκρατής) and **appear** (ἐπιφαίνω, ἐπιφάνεια, φανερόω,
+  φαίνω, ὁράω/ὀπτάνομαι, ἀποκαλύπτω). Love +5 (φιλάγαθος, φιλόξενος, φίλανδρος, φιλότεκνος, φιλανθρωπία),
+  good +1 (καλοδιδάσκαλος), evil +1 (φαῦλος), power +1 (ἐπιταγή), new +1 (ἀνακαίνωσις). `CLAUDE.md` list updated.
+- **G3** ✅ all 5 documents; word-panel spot checks 15/15. Word-study regression 21/21. Cyrillic scan: 0.
+- Backlog unchanged: 42 NOT-IN-WEB / 32 LEMMA / 28 WRONG-REF.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 56 | Titus | ✅ built & verified |
+| 57 | Philemon (1 ch.) | blocked — only 1:1 is on disk; needs the FIXES-TODO §1 re-fetch |
+| 58 | Hebrews (13 ch.) | ready — on disk; can go next while Philemon waits |
