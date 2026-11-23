@@ -345,3 +345,60 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 | 57 | Philemon (1 ch.) | blocked — only 1:1 is on disk; needs the FIXES-TODO §1 re-fetch |
 | 58 | Hebrews | ✅ built & verified |
 | 59 | James (5 ch.) | next — bridge from Hebrews; Road Ahead → 1 Peter, 2 Peter |
+
+## 2026-11-23 — Backlog cleared; one-chapter books filled
+
+- **FIXES-TODO §1 (stand-in):** `sources/bible/{philemon,2john,3john,jude}-1.json` filled from the WEB in the
+  `world-english-bible` npm package 1.0.1 (25 / 13 / 14 / 25 verses), because bible-api.com is blocked from the cloud
+  session. That is a newer WEB revision: about 70–85% of verses match the bible-api text word for word and the rest
+  differ by small edits, and it has 14 verses in 3 John (bible-api has 15). Each file's `source` field says
+  `npm:world-english-bible@1.0.1`, and `build/fetch-nt.mjs` now re-fetches any such stand-in from bible-api when it can.
+- **§3 LEMMA (32):** each printed Greek/Hebrew word set to its Strong's dictionary lemma (John 2/10/18/20, Luke 11,
+  Matthew 27, Romans 5, Ephesians 3, Zechariah 13).
+- **§2 NOT-IN-WEB (42) and §4 WRONG-REF (28):** every quotation set to the exact WEB wording and placed directly before its
+  own reference; combined references split; Old Testament books not on disk (2 Samuel, Jonah, Genesis, Isaiah)
+  changed to single-quote paraphrase. Books touched: 2 Corinthians, Acts, Ephesians, Luke, Malachi, Galatians, Mark,
+  John, Matthew, Romans.
+- **G2 all books `--strict`:** exit 0 — 3521 referenced quotations, 0 lemma, 0 quote issues. **G1** exit 0.
+- Backlog now: 0 NOT-IN-WEB / 0 LEMMA / 0 WRONG-REF.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 57 | Philemon (1 ch.) | next — text now on disk (npm WEB stand-in); bridge from Titus; Road Ahead → Hebrews, James |
+| 58 | Hebrews | ✅ built & verified |
+| 59 | James (5 ch.) | after Philemon |
+
+## 2026-11-23 — James
+
+Philemon, 2 John, 3 John and Jude are set aside for now (their text is the npm WEB stand-in; they will be written
+once bible-api.com can be reached for the standard edition), so the queue moves on to James.
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 11KB | — | ✅ | ✅ | Bridge from Hebrews (its Road Ahead): ὑπομονή (Hebrews 10:36 → James 1:3–4), Abraham and Rahab in both letters, Hebrews 13:16 → James 1:27, the Lord's brother. James and Paul on justification stated honestly; Luther's ‘epistle of straw’ |
+| Chapter 1 | 49KB | 27/27 | ✅ | ✅ | πειρασμός trial vs temptation (vv. 2, 13–14), δοκίμιον / δόκιμος (new **test** family); ὑπομονή (new **endurance** family); δόσις + δώρημα in 1:17 (new **gift** family); κατανοέω vs παρακύπτω (see); θρησκός / θρησκεία added to godliness; κατεργάζομαι vs ἐργάζομαι (work) |
+| Chapter 2 | 46KB | 26/26 | ✅ | ✅ | προσωποληψία; πονηρός (2:4) vs κακός (1:13); τελέω (2:8) vs τελειόω (2:22) vs πληρόω (2:23) in the perfect family; φίλος θεοῦ (love); 2:20 νεκρά / ἀργή reading noted; James and Paul on δικαιόω. Caught & fixed: an Ephesians 2:8 ellipsis quote; ἐργάζομαι (2:9) tagged after the family audit |
+| Chapter 3 | 40KB | 18/18 | ✅ | ✅ | The tongue; γέεννα; ὁμοίωσις (3:9) added to image; καλός (3:13) vs ἀγαθός (3:17); κακός / φαῦλος (evil); σοφός + ἐπιστήμων (new **wisdom** family, with φρόνησις, φρόνιμος, σύνεσις). Caught & fixed: James 4:8 wording in a forward quote |
+| Chapter 4 | 40KB | 17/17 | ✅ | ✅ | φιλία τοῦ κόσμου (love); 4:4 μοιχαλίδες reading; 4:5 two readings stated; ἀντιτάσσομαι (God resists, 4:6) vs ἀνθίστημι (you resist, 4:7) — new **resist** family; ταπεινός / πραΰτης (new **humble** family); σήμερον, αὔριον, ἐνιαυτός (time); φαίνω vs ἀφανίζω (appear) |
+| Chapter 5 | 48KB | 20/20 | ✅ | ✅ | κύριος σαβαώθ; μακροθυμία vs ὑπομονή (both ‘perseverance’ in the WEB, 5:10–11); πολύσπλαγχνος + οἰκτίρμων (new **mercy** family); ἀσθενέω, κάμνω, σῴζω, ἰάομαι (new **heal** family); εὐχή, εὔχομαι, δέησις, προσευχή (pray) and ἐνεργέω + ἰσχύω (power) in 5:15–17; 5:12 ὑπόκρισιν / ὑπὸ κρίσιν reading; 5:16 παραπτώματα reading. Caught & fixed: 1 Timothy 5:6 wording |
+| Final Masterclass Review | 14KB | — | ✅ | ✅ | Road Ahead → 1 Peter, 2 Peter (ἀργός in 2 Peter 1:8 = the 2:20 reading; μακροθυμέω in 2 Peter 3:9). Caught & fixed: two quote capitals (1:17, 1:18); markdown bold removed (the app does not render it) |
+
+- **Book total:** 5 chapters, 108/108 verses, 638 tagged words, 25 lexicon entries, 319 referenced quotations checked (exit 0).
+  Every quoted Strong's definition compared with the dictionary text.
+- **Word families:** 35 → 43 families, 223 → 288 words. New: **test**, **endurance**, **gift**, **wisdom**, **humble**,
+  **resist**, **heal**, **mercy**. Added members: work +κατεργάζομαι +συνεργέω; love +ἀγαπητός +φίλος +φιλία; see
+  +κατανοέω +παρακύπτω; godliness +θρησκός +θρησκεία; perfect +τελέω +πληρόω +τέλος; good +καλῶς; sin +παραβάτης
+  +ἁμαρτωλός; image +ὁμοίωσις; time +ἐνιαυτός +αὔριον; appear +ἀφανίζω; evil +κακῶς; pray +εὐχή +εὔχομαι; power
+  +ἰσχύω. `CLAUDE.md` list updated.
+- **Family-claim audit** (new script): every ‘from the X family’ in a James note matches a tagged member, and every
+  tagged family word has its family named in the note — 0 / 0.
+- **G2 all books `--strict`:** exit 0, 3840 referenced quotations. **G3** ✅ all 7 documents; word-panel spot checks
+  20/20. Word-study regression 21/21. Cyrillic scan: 0.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 57 | Philemon (1 ch.) | waiting for the standard WEB text (bible-api.com) — text on disk is the npm stand-in |
+| 59 | James | ✅ built & verified |
+| 60 | 1 Peter (5 ch.) | next — bridge from James; Road Ahead → 2 Peter, 1 John |

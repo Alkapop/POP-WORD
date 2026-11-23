@@ -1,0 +1,1171 @@
+{
+  "type": "chapterStudy",
+  "book": "James",
+  "chapter": 5,
+  "chapterTitle": "Riches That Rot, Patience That Waits, and Prayer That Works",
+  "themeTitle": "“The Insistent Prayer of a Righteous Person Is Powerfully Effective”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Come now, you rich, weep and howl for your miseries that are coming on you.",
+      "understanding": "ἄγε νῦν οἱ πλούσιοι, “Come now, you rich” — the same sharp call as 4:13. These are not the rich believers of 1:10 but rich oppressors outside the church, addressed like the prophets addressed the nations. κλαύσατε ὀλολύζοντες, “weep and howl” — ὀλολύζω, to shriek, a sound word used in the prophets for people facing God's judgement. ταλαιπωρίαι, “miseries” — the noun of the ‘lament’ of 4:9. In 4:9 sinners were called to grieve now in repentance; here the rich are told that grief is coming upon them whether they repent or not.",
+      "words": [
+        {
+          "strongs": "G4145",
+          "hebrew": "πλούσιος",
+          "translit": "ploúsios",
+          "english": "rich"
+        },
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "weep"
+        },
+        {
+          "strongs": "G3649",
+          "hebrew": "ὀλολύζω",
+          "translit": "ololýzō",
+          "english": "howl"
+        },
+        {
+          "strongs": "G5004",
+          "hebrew": "ταλαιπωρία",
+          "translit": "talaipōría",
+          "english": "miseries"
+        },
+        {
+          "strongs": "G1904",
+          "hebrew": "ἐπέρχομαι",
+          "translit": "epérchomai",
+          "english": "coming"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Your riches are corrupted and your garments are moth-eaten.",
+      "understanding": "ὁ πλοῦτος ὑμῶν σέσηπεν, “Your riches are corrupted” — σήπω, to rot, as stored grain or food rots. καὶ τὰ ἱμάτια ὑμῶν σητόβρωτα γέγονεν, “and your garments are moth-eaten” — fine clothing was a form of wealth, hoarded in chests. The perfect tenses speak as if the judgement has already happened. Jesus said, “Don’t lay up treasures for yourselves on the earth, where moth and rust consume” (Matthew 6:19).",
+      "words": [
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "riches"
+        },
+        {
+          "strongs": "G4595",
+          "hebrew": "σήπω",
+          "translit": "sḗpō",
+          "english": "corrupted"
+        },
+        {
+          "strongs": "G2440",
+          "hebrew": "ἱμάτιον",
+          "translit": "himátion",
+          "english": "garments"
+        },
+        {
+          "strongs": "G4598",
+          "hebrew": "σητόβρωτος",
+          "translit": "sētóbrōtos",
+          "english": "moth-eaten"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "Your gold and your silver are corroded, and their corrosion will be for a testimony against you, and will eat your flesh like fire. You have laid up your treasure in the last days.",
+      "understanding": "“Your gold and your silver are corroded” — κατιόω, to rust through. Gold does not rust, which shows James's point is moral, not chemical: hoarded wealth decays in God's sight. ὁ ἰὸς αὐτῶν, “their corrosion” — ἰός, the same word as the ‘poison’ of the tongue (3:8). It will be εἰς μαρτύριον, “for a testimony against you” — evidence in court — and it “will eat your flesh like fire” — σάρξ, the body. ἐθησαυρίσατε ἐν ἐσχάταις ἡμέραις, “You have laid up your treasure in the last days” — ἡμέρα, from the time family: the last days began with Christ's coming; to hoard in them is to stock a house on the eve of the flood.",
+      "words": [
+        {
+          "strongs": "G5557",
+          "hebrew": "χρυσός",
+          "translit": "chrysós",
+          "english": "gold"
+        },
+        {
+          "strongs": "G696",
+          "hebrew": "ἄργυρος",
+          "translit": "árgyros",
+          "english": "silver"
+        },
+        {
+          "strongs": "G2728",
+          "hebrew": "κατιόω",
+          "translit": "katióō",
+          "english": "corroded"
+        },
+        {
+          "strongs": "G2447",
+          "hebrew": "ἰός",
+          "translit": "iós",
+          "english": "corrosion"
+        },
+        {
+          "strongs": "G3142",
+          "hebrew": "μαρτύριον",
+          "translit": "martýrion",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G2343",
+          "hebrew": "θησαυρίζω",
+          "translit": "thēsaurízō",
+          "english": "laid up your treasure"
+        },
+        {
+          "strongs": "G2078",
+          "hebrew": "ἔσχατος",
+          "translit": "éschatos",
+          "english": "last"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out, and the cries of those who reaped have entered into the ears of the Lord of Armies.",
+      "understanding": "“Behold, the wages of the laborers who mowed your fields” — μισθός, pay; ἐργάτης, from the work family: the labourer, the day-worker who lived on each day's pay (Leviticus 19:13; Deuteronomy 24:14–15). ὁ ἀπεστερημένος, “which you have kept back by fraud” — ἀποστερέω, to rob, to defraud. The withheld wages κράζει, “cry out,” like Abel's blood from the ground. “and the cries of those who reaped have entered into the ears of the Lord of Armies” — κυρίου σαβαώθ, the Hebrew title יְהוָה צְבָאוֹת, ‘Yahweh of hosts’, from the names of God: the Commander of heaven's armies hears the cry of the field hand.",
+      "words": [
+        {
+          "strongs": "G3408",
+          "hebrew": "μισθός",
+          "translit": "misthós",
+          "english": "wages"
+        },
+        {
+          "strongs": "G2040",
+          "hebrew": "ἐργάτης",
+          "translit": "ergátēs",
+          "english": "laborers"
+        },
+        {
+          "strongs": "G270",
+          "hebrew": "ἀμάω",
+          "translit": "amáō",
+          "english": "mowed"
+        },
+        {
+          "strongs": "G5561",
+          "hebrew": "χώρα",
+          "translit": "chṓra",
+          "english": "fields"
+        },
+        {
+          "strongs": "G650",
+          "hebrew": "ἀποστερέω",
+          "translit": "aposteréō",
+          "english": "kept back by fraud"
+        },
+        {
+          "strongs": "G2896",
+          "hebrew": "κράζω",
+          "translit": "krázō",
+          "english": "cry out"
+        },
+        {
+          "strongs": "G995",
+          "hebrew": "βοή",
+          "translit": "boḗ",
+          "english": "cries"
+        },
+        {
+          "strongs": "G2325",
+          "hebrew": "θερίζω",
+          "translit": "therízō",
+          "english": "reaped"
+        },
+        {
+          "strongs": "G3775",
+          "hebrew": "οὖς",
+          "translit": "oûs",
+          "english": "ears"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G4519",
+          "hebrew": "σαβαώθ",
+          "translit": "sabaṓth",
+          "english": "Armies"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter.",
+      "understanding": "ἐτρυφήσατε ἐπὶ τῆς γῆς καὶ ἐσπαταλήσατε, “You have lived in luxury on the earth, and taken your pleasure” — τρυφάω, soft living; σπαταλάω, self-indulgence, the word Paul uses of the widow “who gives herself to pleasure” (1 Timothy 5:6). γῆ, from the world family: the physical earth, as opposed to heaven. “You have nourished your hearts as in a day of slaughter” — fattening themselves like cattle on the very day they are to be butchered. ἡμέρα, from the time family: ἡμέρα σφαγῆς, the day of judgement.",
+      "words": [
+        {
+          "strongs": "G5171",
+          "hebrew": "τρυφάω",
+          "translit": "trypháō",
+          "english": "lived in luxury"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G4684",
+          "hebrew": "σπαταλάω",
+          "translit": "spataláō",
+          "english": "taken your pleasure"
+        },
+        {
+          "strongs": "G5142",
+          "hebrew": "τρέφω",
+          "translit": "tréphō",
+          "english": "nourished"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G4967",
+          "hebrew": "σφαγή",
+          "translit": "sphagḗ",
+          "english": "slaughter"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "You have condemned, you have murdered the righteous one. He doesn’t resist you.",
+      "understanding": "κατεδικάσατε, ἐφονεύσατε τὸν δίκαιον, “You have condemned, you have murdered the righteous one” — καταδικάζω, to pass sentence against, using the courts (2:6). τὸν δίκαιον is singular: most likely the righteous poor man as a type, whose life is taken by starving wages and unjust courts; it also echoes Christ, the Righteous One condemned and killed (Acts 7:52). οὐκ ἀντιτάσσεται ὑμῖν, “He doesn’t resist you” — ἀντιτάσσομαι, from the resist family, the word used of God resisting the proud (4:6). The righteous poor do not fight back; but God resists those who crush them. Tradition says James himself, called ‘the Just’, was later killed in Jerusalem.",
+      "words": [
+        {
+          "strongs": "G2613",
+          "hebrew": "καταδικάζω",
+          "translit": "katadikázō",
+          "english": "condemned"
+        },
+        {
+          "strongs": "G5407",
+          "hebrew": "φονεύω",
+          "translit": "phoneúō",
+          "english": "murdered"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous one"
+        },
+        {
+          "strongs": "G498",
+          "hebrew": "ἀντιτάσσομαι",
+          "translit": "antitássomai",
+          "english": "resist"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Be patient therefore, brothers, until the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain.",
+      "understanding": "μακροθυμήσατε οὖν, ἀδελφοί, “Be patient therefore, brothers” — μακροθυμέω, from the endurance family: to be long-tempered, slow to give up, as distinct from ὑπομονή, endurance under a load (v. 11). ἕως τῆς παρουσίας τοῦ κυρίου, “until the coming of the Lord” — παρουσία, the arrival, the royal visit: Christ's return. Then the farmer: ὁ γεωργὸς ἐκδέχεται τὸν τίμιον καρπὸν τῆς γῆς, “the farmer waits for the precious fruit of the earth” — γῆ, from the world family, here is the soil. μακροθυμῶν ἐπ᾽ αὐτῷ, “being patient over it,” “until it receives the early and late rain” — πρόϊμος, the autumn rain at sowing, and ὄψιμος, the spring rain before harvest, the two rains God promised Israel.",
+      "words": [
+        {
+          "strongs": "G3114",
+          "hebrew": "μακροθυμέω",
+          "translit": "makrothyméō",
+          "english": "patient"
+        },
+        {
+          "strongs": "G3952",
+          "hebrew": "παρουσία",
+          "translit": "parousía",
+          "english": "coming"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1092",
+          "hebrew": "γεωργός",
+          "translit": "geōrgós",
+          "english": "farmer"
+        },
+        {
+          "strongs": "G1551",
+          "hebrew": "ἐκδέχομαι",
+          "translit": "ekdéchomai",
+          "english": "waits"
+        },
+        {
+          "strongs": "G5093",
+          "hebrew": "τίμιος",
+          "translit": "tímios",
+          "english": "precious"
+        },
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpós",
+          "english": "fruit"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G4406",
+          "hebrew": "πρώϊμος",
+          "translit": "prṓïmos",
+          "english": "early"
+        },
+        {
+          "strongs": "G3797",
+          "hebrew": "ὄψιμος",
+          "translit": "ópsimos",
+          "english": "late"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "You also be patient. Establish your hearts, for the coming of the Lord is at hand.",
+      "understanding": "μακροθυμήσατε καὶ ὑμεῖς, “You also be patient.” μακροθυμέω again, from the endurance family. στηρίξατε τὰς καρδίας ὑμῶν, “Establish your hearts” — στηρίζω, to fix firmly, to prop up, the opposite of the unstable, double-minded heart (1:8). “for the coming of the Lord is at hand” — ἤγγικεν, from ἐγγίζω, the ‘draw near’ of 4:8: we draw near to Him now; He is drawing near to us.",
+      "words": [
+        {
+          "strongs": "G3114",
+          "hebrew": "μακροθυμέω",
+          "translit": "makrothyméō",
+          "english": "be patient"
+        },
+        {
+          "strongs": "G4741",
+          "hebrew": "στηρίζω",
+          "translit": "stērízō",
+          "english": "Establish"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G3952",
+          "hebrew": "παρουσία",
+          "translit": "parousía",
+          "english": "coming"
+        },
+        {
+          "strongs": "G1448",
+          "hebrew": "ἐγγίζω",
+          "translit": "engízō",
+          "english": "at hand"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Don’t grumble, brothers, against one another, so that you won’t be judged. Behold, the judge stands at the door.",
+      "understanding": "μὴ στενάζετε, ἀδελφοί, κατ᾽ ἀλλήλων, “Don’t grumble, brothers, against one another” — στενάζω, to groan, to sigh with complaint. Pressure from outside often turns into irritation inside. “so that you won’t be judged” — κρίνω, as in 4:11–12. “Behold, the judge stands at the door” — κριτής, the Judge; θύρα, the door. He is close enough to hear the grumbling.",
+      "words": [
+        {
+          "strongs": "G4727",
+          "hebrew": "στενάζω",
+          "translit": "stenázō",
+          "english": "grumble"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        },
+        {
+          "strongs": "G2923",
+          "hebrew": "κριτής",
+          "translit": "kritḗs",
+          "english": "judge"
+        },
+        {
+          "strongs": "G2374",
+          "hebrew": "θύρα",
+          "translit": "thýra",
+          "english": "door"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Take, brothers, for an example of suffering and of perseverance, the prophets who spoke in the name of the Lord.",
+      "understanding": "ὑπόδειγμα λάβετε, “Take, brothers, for an example” — ὑπόδειγμα, from the pattern family: a model to copy, the word Jesus used when He washed the disciples' feet (John 13:15). τῆς κακοπαθείας καὶ τῆς μακροθυμίας, “of suffering and of perseverance” — κακοπάθεια, enduring hardship; μακροθυμία, from the endurance family: long-tempered patience. The WEB translates it ‘perseverance’, the same English it uses for ὑπομονή in the next verse. “the prophets who spoke in the name of the Lord” — speaking for God brought them suffering, not comfort.",
+      "words": [
+        {
+          "strongs": "G5262",
+          "hebrew": "ὑπόδειγμα",
+          "translit": "hypódeigma",
+          "english": "example"
+        },
+        {
+          "strongs": "G2552",
+          "hebrew": "κακοπάθεια",
+          "translit": "kakopátheia",
+          "english": "suffering"
+        },
+        {
+          "strongs": "G3115",
+          "hebrew": "μακροθυμία",
+          "translit": "makrothymía",
+          "english": "perseverance"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoke"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Behold, we call them blessed who endured. You have heard of the perseverance of Job, and have seen the Lord in the outcome, and how the Lord is full of compassion and mercy.",
+      "understanding": "ἰδοὺ μακαρίζομεν τοὺς ὑπομείναντας, “Behold, we call them blessed who endured” — μακαρίζω, to pronounce blessed, as in 1:12; ὑπομένω, from the endurance family. “You have heard of the perseverance of Job” — ὑπομονή, endurance under a load, not μακροθυμία: Job was not always patient in his words, but he never let go of God. “and have seen the Lord in the outcome” — τὸ τέλος κυρίου, the end the Lord brought about; τέλος, from the perfect family: the goal, the ‘perfect work’ of 1:4. “and how the Lord is full of compassion and mercy” — two words from the mercy family: πολύσπλαγχνος, literally ‘many-bowelled’, deeply moved within, a word James may have coined; and οἰκτίρμων, tender pity.",
+      "words": [
+        {
+          "strongs": "G3106",
+          "hebrew": "μακαρίζω",
+          "translit": "makarízō",
+          "english": "call them blessed"
+        },
+        {
+          "strongs": "G5278",
+          "hebrew": "ὑπομένω",
+          "translit": "hypoménō",
+          "english": "endured"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "perseverance"
+        },
+        {
+          "strongs": "G2492",
+          "hebrew": "Ἰώβ",
+          "translit": "Iṓb",
+          "english": "Job"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "télos",
+          "english": "outcome"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G4184",
+          "hebrew": "πολύσπλαγχνος",
+          "translit": "polýsplanchnos",
+          "english": "compassion"
+        },
+        {
+          "strongs": "G3629",
+          "hebrew": "οἰκτίρμων",
+          "translit": "oiktírmōn",
+          "english": "mercy"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "But above all things, my brothers, don’t swear— not by heaven, or by the earth, or by any other oath; but let your “yes” be “yes”, and your “no”, “no”; so that you don’t fall into hypocrisy.",
+      "understanding": "πρὸ πάντων δέ, “But above all things, my brothers, don’t swear” — ὀμνύω, to take an oath. James is repeating Jesus (Matthew 5:34–37) almost word for word. The issue is not formal oaths in court but everyday swearing ‘by heaven’ or ‘by the earth’ (γῆ, from the world family) to make your words sound more reliable — as if your ordinary words were not. ὅρκος, oath. “but let your ‘yes’ be ‘yes’, and your ‘no’, ‘no’” — be the kind of person whose word is enough. “so that you don’t fall into hypocrisy” — εἰς ὑπόκρισιν, the reading the WEB follows; many early manuscripts read ὑπὸ κρίσιν, ‘under judgement’. Both say that careless swearing carries a cost.",
+      "words": [
+        {
+          "strongs": "G3660",
+          "hebrew": "ὀμνύω",
+          "translit": "omnýō",
+          "english": "swear"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G3727",
+          "hebrew": "ὅρκος",
+          "translit": "hórkos",
+          "english": "oath"
+        },
+        {
+          "strongs": "G5272",
+          "hebrew": "ὑπόκρισις",
+          "translit": "hypókrisis",
+          "english": "hypocrisy"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises.",
+      "understanding": "κακοπαθεῖ τις ἐν ὑμῖν; προσευχέσθω, “Is any among you suffering? Let him pray.” κακοπαθέω, to suffer hardship, the verb of the ‘suffering’ of verse 10; προσεύχομαι, from the pray family: the general word for prayer as worship and communion with God. εὐθυμεῖ τις; ψαλλέτω, “Is any cheerful? Let him sing praises” — ψάλλω, originally to pluck strings, then to sing praise. In every state of life, turn to God.",
+      "words": [
+        {
+          "strongs": "G2553",
+          "hebrew": "κακοπαθέω",
+          "translit": "kakopathéō",
+          "english": "suffering"
+        },
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "pray"
+        },
+        {
+          "strongs": "G2114",
+          "hebrew": "εὐθυμέω",
+          "translit": "euthyméō",
+          "english": "cheerful"
+        },
+        {
+          "strongs": "G5567",
+          "hebrew": "ψάλλω",
+          "translit": "psállō",
+          "english": "sing praises"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord,",
+      "understanding": "ἀσθενεῖ τις ἐν ὑμῖν, “Is any among you sick?” — ἀσθενέω, from the heal family: to be weak, without strength. “Let him call for the elders of the assembly” — πρεσβύτεροι, the recognised leaders of the ἐκκλησία. The sick person takes the initiative. “and let them pray over him” — προσεύχομαι, from the pray family. ἀλείψαντες ἐλαίῳ, “anointing him with oil” — ἀλείφω, the ordinary word for rubbing with oil, used for medicine (Luke 10:34) and for care; here it also marks the person as set apart to God. The disciples anointed the sick and healed them (Mark 6:13). “in the name of the Lord” — the power is in the Name, not the oil.",
+      "words": [
+        {
+          "strongs": "G770",
+          "hebrew": "ἀσθενέω",
+          "translit": "asthenéō",
+          "english": "sick"
+        },
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "pray"
+        },
+        {
+          "strongs": "G218",
+          "hebrew": "ἀλείφω",
+          "translit": "aleíphō",
+          "english": "anointing"
+        },
+        {
+          "strongs": "G1637",
+          "hebrew": "ἔλαιον",
+          "translit": "élaion",
+          "english": "oil"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven.",
+      "understanding": "καὶ ἡ εὐχὴ τῆς πίστεως σώσει τὸν κάμνοντα, “and the prayer of faith will heal him who is sick” — εὐχή, a second word from the pray family: a prayer, a vow, a wish offered to God. σῴζω, from the heal family, means to save or make whole; the WEB rightly translates it ‘heal’ here, but the word reaches beyond the body. κάμνω, a second word for ‘sick’: worn out, exhausted. καὶ ἐγερεῖ αὐτὸν ὁ κύριος, “and the Lord will raise him up” — ἐγείρω, from the rise family: raise from the sickbed, and ultimately from the grave. It is the Lord who raises, not the elders. “If he has committed sins, he will be forgiven” — ἁμαρτία, from the sin family; ἀφίημι, to release. Not all sickness is caused by sin, but some is, and God deals with both.",
+      "words": [
+        {
+          "strongs": "G2171",
+          "hebrew": "εὐχή",
+          "translit": "euchḗ",
+          "english": "prayer"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "heal"
+        },
+        {
+          "strongs": "G2577",
+          "hebrew": "κάμνω",
+          "translit": "kámnō",
+          "english": "sick"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1453",
+          "hebrew": "ἐγείρω",
+          "translit": "egeírō",
+          "english": "raise"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "forgiven"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.",
+      "understanding": "ἐξομολογεῖσθε οὖν ἀλλήλοις τὰ παραπτώματα, “Confess your offenses to one another” — ἐξομολογέω, to agree openly, to say the same thing about your sin that God says. παράπτωμα, from the sin family: a false step, a falling aside — the WEB follows manuscripts that read this word; others read ἁμαρτίας, ‘sins’. καὶ εὔχεσθε ὑπὲρ ἀλλήλων, “and pray for one another” — εὔχομαι, the verb of εὐχή, from the pray family. “that you may be healed” — ἰάομαι, from the heal family: the physician's word for cure, of body and soul. Then the great sentence, with three family words: πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη, “The insistent prayer of a righteous person is powerfully effective.” δέησις, from the pray family: a specific petition born of need. ἐνεργέω, from the power family: to be at work, energetic — the WEB renders it ‘insistent’. ἰσχύω, also from the power family: to have strength, to prevail — ‘is powerfully effective’. Prayer is at work, and it is strong.",
+      "words": [
+        {
+          "strongs": "G1843",
+          "hebrew": "ἐξομολογέω",
+          "translit": "exomologéō",
+          "english": "Confess"
+        },
+        {
+          "strongs": "G3900",
+          "hebrew": "παράπτωμα",
+          "translit": "paráptōma",
+          "english": "offenses"
+        },
+        {
+          "strongs": "G2172",
+          "hebrew": "εὔχομαι",
+          "translit": "eúchomai",
+          "english": "pray"
+        },
+        {
+          "strongs": "G2390",
+          "hebrew": "ἰάομαι",
+          "translit": "iáomai",
+          "english": "healed"
+        },
+        {
+          "strongs": "G1754",
+          "hebrew": "ἐνεργέω",
+          "translit": "energéō",
+          "english": "insistent"
+        },
+        {
+          "strongs": "G1162",
+          "hebrew": "δέησις",
+          "translit": "déēsis",
+          "english": "prayer"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous person"
+        },
+        {
+          "strongs": "G2480",
+          "hebrew": "ἰσχύω",
+          "translit": "ischýō",
+          "english": "powerfully effective"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Elijah was a man with a nature like ours, and he prayed earnestly that it might not rain, and it didn’t rain on the earth for three years and six months.",
+      "understanding": "Ἠλίας ἄνθρωπος ἦν ὁμοιοπαθὴς ἡμῖν, “Elijah was a man with a nature like ours” — ὁμοιοπαθής, of like feelings and weaknesses; Paul used it of himself and Barnabas at Lystra (Acts 14:15). Elijah, the great prophet, was also the man who ran from Jezebel and asked to die. καὶ προσευχῇ προσηύξατο, “and he prayed earnestly” — literally ‘he prayed with prayer’, a Hebrew way of saying wholeheartedly; προσευχή and προσεύχομαι, from the pray family. “that it might not rain, and it didn’t rain on the earth for three years and six months” — γῆ, from the world family; ἐνιαυτός and μήν, from the time family; Jesus gives the same length of time (Luke 4:25).",
+      "words": [
+        {
+          "strongs": "G2243",
+          "hebrew": "Ἡλίας",
+          "translit": "Hēlías",
+          "english": "Elijah"
+        },
+        {
+          "strongs": "G3663",
+          "hebrew": "ὁμοιοπαθής",
+          "translit": "homoiopathḗs",
+          "english": "with a nature like ours"
+        },
+        {
+          "strongs": "G4335",
+          "hebrew": "προσευχή",
+          "translit": "proseuchḗ",
+          "english": "earnestly"
+        },
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "prayed"
+        },
+        {
+          "strongs": "G1026",
+          "hebrew": "βρέχω",
+          "translit": "bréchō",
+          "english": "rain"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G1763",
+          "hebrew": "ἐνιαυτός",
+          "translit": "eniautós",
+          "english": "years"
+        },
+        {
+          "strongs": "G3376",
+          "hebrew": "μήν",
+          "translit": "mḗn",
+          "english": "months"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "He prayed again, and the sky gave rain, and the earth produced its fruit.",
+      "understanding": "“He prayed again, and the sky gave rain, and the earth produced its fruit.” προσεύχομαι again, from the pray family; οὐρανός, the sky; ὑετός, rain; γῆ, from the world family: the earth; βλαστάνω, to sprout; καρπός, fruit — the harvest the farmer of verse 7 was waiting for. One man's prayer opened the heavens over a nation.",
+      "words": [
+        {
+          "strongs": "G4336",
+          "hebrew": "προσεύχομαι",
+          "translit": "proseúchomai",
+          "english": "prayed"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "gave"
+        },
+        {
+          "strongs": "G5205",
+          "hebrew": "ὑετός",
+          "translit": "hyetós",
+          "english": "rain"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G985",
+          "hebrew": "βλαστάνω",
+          "translit": "blastánō",
+          "english": "produced"
+        },
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpós",
+          "english": "fruit"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "Brothers, if any among you wanders from the truth and someone turns him back,",
+      "understanding": "“Brothers, if any among you wanders from the truth” — πλανάω, to wander off like a sheep, the ‘deceived’ of 1:16. The person is ‘among you’, a member of the church. ἀλήθεια, the word of truth of 1:18. “and someone turns him back” — ἐπιστρέφω, to turn around, the word for conversion and repentance. Anyone can do it; James says ‘someone’.",
+      "words": [
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "wanders"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G1994",
+          "hebrew": "ἐπιστρέφω",
+          "translit": "epistréphō",
+          "english": "turns him back"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins.",
+      "understanding": "γινωσκέτω, “let him know” — γινώσκω, from the know family: to know by experience. ὁ ἐπιστρέψας ἁμαρτωλὸν ἐκ πλάνης ὁδοῦ αὐτοῦ, “that he who turns a sinner from the error of his way” — ἁμαρτωλός and ἁμαρτία, from the sin family; πλάνη, straying. σώσει ψυχὴν αὐτοῦ ἐκ θανάτου, “will save a soul from death” — σῴζω, from the heal family, as in verse 15; most likely the wanderer's soul, rescued from the death sin produces (1:15). ψυχή, from the life family. καὶ καλύψει πλῆθος ἁμαρτιῶν, “and will cover a multitude of sins” — from Proverbs 10:12, ‘love covers all wrongs’, which Peter also quotes. Sins are covered because they are forgiven when the sinner returns. The letter ends not with a farewell but with a mission.",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G1994",
+          "hebrew": "ἐπιστρέφω",
+          "translit": "epistréphō",
+          "english": "turns"
+        },
+        {
+          "strongs": "G268",
+          "hebrew": "ἁμαρτωλός",
+          "translit": "hamartōlós",
+          "english": "sinner"
+        },
+        {
+          "strongs": "G4106",
+          "hebrew": "πλάνη",
+          "translit": "plánē",
+          "english": "error"
+        },
+        {
+          "strongs": "G3598",
+          "hebrew": "ὁδός",
+          "translit": "hodós",
+          "english": "way"
+        },
+        {
+          "strongs": "G4982",
+          "hebrew": "σώζω",
+          "translit": "sṓzō",
+          "english": "save"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "soul"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G2572",
+          "hebrew": "καλύπτω",
+          "translit": "kalýptō",
+          "english": "cover"
+        },
+        {
+          "strongs": "G4128",
+          "hebrew": "πλῆθος",
+          "translit": "plēthos",
+          "english": "multitude"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Rotting Storehouse",
+      "verseRef": "v. 1-3",
+      "image": "Picture a rich man's storeroom. Sacks of grain are stacked to the ceiling, chests overflow with silk robes, and a locked box holds gold and silver coins. Years pass. The grain turns black and smells of rot. Moths have eaten holes through every robe. The coins are crusted and green. And outside the door, poor families have gone hungry the whole time.",
+      "meaning": "“Your riches are corrupted and your garments are moth-eaten” (v. 2). “Your gold and your silver are corroded, and their corrosion will be for a testimony against you” (v. 3). Wealth hoarded while others suffer does not simply sit idle; it becomes evidence. Jesus' alternative is clear: “but lay up for yourselves treasures in heaven, where neither moth nor rust consume” (Matthew 6:20)."
+    },
+    {
+      "title": "The Cry from the Field",
+      "verseRef": "v. 4",
+      "image": "Picture a long line of labourers at the end of a hot day in the harvest field, hands blistered and backs aching, waiting for their pay. The landowner's steward tells them to come back next week. They go home with nothing for their children. Their voices rise in the evening air — and James says those voices do not stop at the sky.",
+      "meaning": "“Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out, and the cries of those who reaped have entered into the ears of the Lord of Armies” (v. 4). The Commander of heaven's armies listens to the cry of underpaid workers. How you pay, treat and honour those who work for you is a spiritual matter."
+    },
+    {
+      "title": "The Farmer and the Rain",
+      "verseRef": "v. 7-8",
+      "image": "Picture a farmer in ancient Israel. In the autumn he ploughs and sows, then watches the sky for the early rain that makes the seed sprout. All winter he waits. In the spring he watches again for the late rain that fills the grain. He cannot make the rain fall; he cannot hurry the harvest. He works, he waits, he watches, and he trusts.",
+      "meaning": "“Be patient therefore, brothers, until the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain” (v. 7). Patience is not passivity. The farmer works hard; he simply knows that the harvest is in God's hands and God's timing. “You also be patient. Establish your hearts, for the coming of the Lord is at hand” (v. 8)."
+    },
+    {
+      "title": "The Man on Mount Carmel",
+      "verseRef": "v. 16-18",
+      "image": "Picture a prophet on the top of a mountain after three and a half years of drought, crouched on the ground with his face between his knees. Seven times he sends his servant to look towards the sea. Six times the servant returns: ‘There is nothing.’ The seventh time he says, ‘A small cloud, like a man's hand, is rising out of the sea.’ Within hours the sky is black and the rain is pouring down.",
+      "meaning": "“Elijah was a man with a nature like ours” (v. 17). “He prayed again, and the sky gave rain, and the earth produced its fruit” (v. 18). Elijah was not a superhuman. He had the same fears and weaknesses you have. What made the difference was that he prayed — earnestly, persistently, in faith. “The insistent prayer of a righteous person is powerfully effective” (v. 16)."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Warning to the Oppressive Rich (v. 1-6)",
+        "body": "Weep, you rich, for coming miseries; your hoarded wealth has rotted and will testify against you; the withheld wages of your workers cry out to the Lord of Armies; you lived in luxury, fattened yourselves for the day of slaughter, and condemned and killed the righteous, who did not resist you."
+      },
+      {
+        "label": "Patience Until the Lord Comes (v. 7-11)",
+        "body": "Be patient until the Lord's coming, like a farmer waiting for the early and late rains; strengthen your hearts, for His coming is near; do not grumble against each other, for the Judge stands at the door; take the prophets and Job as examples of endurance, and see the compassion and mercy of the Lord."
+      },
+      {
+        "label": "Let Your Yes Be Yes (v. 12)",
+        "body": "Above all, do not swear by heaven, earth or any oath, but let your yes be yes and your no be no."
+      },
+      {
+        "label": "The Praying Community (v. 13-18)",
+        "body": "The suffering should pray and the cheerful sing; the sick should call the elders to pray and anoint them in the Lord's name, and the prayer of faith will save and the Lord will raise them up, with sins forgiven; confess sins and pray for one another, for the prayer of a righteous person is powerful, as Elijah's prayers for drought and rain show."
+      },
+      {
+        "label": "Turning Back the Wanderer (v. 19-20)",
+        "body": "Whoever turns a wandering brother back from error saves a soul from death and covers a multitude of sins."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Wealth, Justice and the Lord of Armies",
+        "paragraphs": [
+          "The rich men of verses 1–6 are probably not believers. James addresses them as the Old Testament prophets addressed foreign nations, so that God's people overhear the warning and take comfort. Their sins are specific: hoarding wealth (vv. 2–3), withholding wages (v. 4), living in self-indulgence (v. 5), and using their power to condemn and destroy the innocent (v. 6). These are the same people who “oppress you, and personally drag you before the courts” (James 2:6).",
+          "James does not say that wealth itself is evil. He condemns wealth gained by fraud, kept from the poor and spent on luxury while others suffer. Jesus said, “But woe to you who are rich! For you have received your consolation” (Luke 6:24). The Law commanded that a day-labourer be paid before sunset, because he depended on that day's wage to feed his family (Deuteronomy 24:14–15). To withhold it was to steal his family's dinner. James says those withheld wages are crying out, and the cry has reached “the ears of the Lord of Armies” (v. 4).",
+          "That title is deliberate. ‘Lord of Armies’ (in Hebrew, יְהוָה צְבָאוֹת) is the name of God as the Commander of heaven's hosts, the warrior King. The poor labourer may have no lawyer, no union and no voice in court, but he has the Lord of Armies listening. For believers who are oppressed, this is comfort: God sees, and He will judge. For believers who employ, buy, sell and invest, it is a warning: how we treat the people who work for us is a matter of faith."
+        ]
+      },
+      {
+        "heading": "Patience Like a Farmer",
+        "paragraphs": [
+          "To the oppressed believers James says, “Be patient therefore, brothers, until the coming of the Lord” (v. 7). The answer to injustice is not revenge or despair but patient endurance, grounded in the certainty that Christ is coming. The word used for His coming, παρουσία, was used for the arrival of a king. Paul uses it the same way: “we who are alive, who are left until the coming of the Lord” (1 Thessalonians 4:15).",
+          "The farmer is James's picture of patience. He cannot control the rain, but he does not sit idle; he ploughs, sows and tends, and he waits with confidence. James adds a practical warning: “Don’t grumble, brothers, against one another, so that you won’t be judged. Behold, the judge stands at the door” (v. 9). Suffering often makes people irritable with each other. James says the Judge is so close He can hear it. Jesus said the same of His coming: “Even so you also, when you see all these things, know that it is near, even at the doors” (Matthew 24:33).",
+          "Then come the examples. The prophets suffered for speaking God's word (v. 10). And “You have heard of the perseverance of Job, and have seen the Lord in the outcome, and how the Lord is full of compassion and mercy” (v. 11). Job is an honest example. He questioned, protested and wished he had never been born. But he never let go of God, and in the end God restored him. That is ὑπομονή — not silent calm, but refusal to give up on God. And the end of Job's story reveals God's heart: “full of compassion and mercy.” Whatever you are suffering, the final chapter will show the same."
+        ]
+      },
+      {
+        "heading": "A Community That Prays",
+        "paragraphs": [
+          "The letter ends with prayer — fitting for a man remembered for his praying knees. James covers every situation: “Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises” (v. 13). Then sickness: “Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord” (v. 14). The oil was both a common medicine (Luke 10:34) and a sign of setting someone apart for God's care; the power was in “the name of the Lord.” The promise is strong: “and the prayer of faith will heal him who is sick, and the Lord will raise him up” (v. 15). Honesty requires one sentence: Scripture shows that God does not always heal in this life (Paul left Trophimus sick at Miletus, 2 Timothy 4:20), but James tells the church to pray in faith, expecting God to act, and every believer will finally be raised up in the resurrection.",
+          "Sickness and sin are sometimes linked: “If he has committed sins, he will be forgiven” (v. 15). So James calls for honesty in the community: “Confess your offenses to one another, and pray for one another, that you may be healed” (v. 16). This is not a priest hearing confession but believers being honest with one another. John promises, “If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness” (1 John 1:9). Confession to God brings forgiveness; confession to one another brings healing, accountability and support.",
+          "Then the great encouragement: “The insistent prayer of a righteous person is powerfully effective” (v. 16). Two power-family words make the point — prayer is at work (ἐνεργέω), and it has strength (ἰσχύω). And James's example is Elijah, “a man with a nature like ours” (v. 17). His prayers shut the sky for three and a half years and opened it again (vv. 17–18). The ‘righteous person’ is not a spiritual celebrity but an ordinary believer who is right with God and prays in faith. Jesus told His disciples “that they must always pray, and not give up” (Luke 18:1)."
+        ]
+      },
+      {
+        "heading": "The Last Word: Go After the Wanderer",
+        "paragraphs": [
+          "James closes without greetings or blessing. His last words are a commission: “Brothers, if any among you wanders from the truth and someone turns him back, let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins” (vv. 19–20). After five chapters on what real faith looks like, he leaves us with what real love does: it goes after the one who has drifted.",
+          "The word for ‘wanders’ is the same as ‘Don’t be deceived’ (James 1:16). The whole letter has warned against wandering — into doubt, temptation, favouritism, dead faith, an untamed tongue, worldly wisdom, pride and greed. Now James asks every believer to become a shepherd. Jesus said, “If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother” (Matthew 18:15). Paul says, “Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness” (Galatians 6:1).",
+          "The result is twofold: a soul saved from death, and a multitude of sins covered. Peter quotes the same Proverb: “And above all things be earnest in your love among yourselves, for love covers a multitude of sins” (1 Peter 4:8). The letter that began with trials and endurance ends with love that will not let a brother go. That is faith that works."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Coming Lord, Rust and Moth, and Elijah's Prayer",
+      "paragraphs": [
+        "James 5 is full of Jesus' words. The rotting riches echo the Sermon on the Mount: “Don’t lay up treasures for yourselves on the earth, where moth and rust consume, and where thieves break through and steal” (Matthew 6:19). The command about oaths repeats it almost exactly: “but I tell you, don’t swear at all: neither by heaven, for it is the throne of God” (Matthew 5:34), “nor by the earth, for it is the footstool of his feet” (Matthew 5:35), and “But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one” (Matthew 5:37). The Judge at the door recalls the risen Christ's words: “Behold, I stand at the door and knock” (Revelation 3:20).",
+        "Elijah's drought is mentioned by Jesus too: “there were many widows in Israel in the days of Elijah, when the sky was shut up three years and six months, when a great famine came over all the land” (Luke 4:25). And in Revelation the two witnesses carry Elijah's authority: “These have the power to shut up the sky, that it may not rain during the days of their prophecy” (Revelation 11:6). James's point is that the same God who answered Elijah answers the prayers of His people today.",
+        "The patience of verses 7–8 looks forward to the final promise of the Bible: “He who testifies these things says, ‘Yes, I come quickly.’ Amen! Yes, come, Lord Jesus” (Revelation 22:20). Until then, believers wait like the farmer, pray like Elijah, endure like Job, and go after the wanderer — faith that works while it waits."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Coming",
+      "hebrew": "παρουσία",
+      "translit": "parousía",
+      "strongs": "G3952",
+      "verses": "v. 7, 8",
+      "insight": "Strong's: “a being near, i.e. advent (often, return; specially, of Christ to punish Jerusalem, or finally the wicked).” In ordinary Greek παρουσία meant ‘presence’ or ‘arrival’, and it was used for the official visit of a king or emperor to a city — with preparations, celebration and judgement. The New Testament uses it for Christ's return (1 Corinthians 15:23; 1 Thessalonians 4:15). James uses it to strengthen suffering believers: the King is coming, He will put things right, and He is near. Patience is not waiting for nothing; it is waiting for Someone."
+    },
+    {
+      "english": "Be patient",
+      "hebrew": "μακροθυμέω",
+      "translit": "makrothyméō",
+      "strongs": "G3114 (endurance ὑπομονή, hypomonḗ, G5281)",
+      "verses": "v. 7, 8, 10; 1:3, 4; 5:11",
+      "insight": "Strong's: “to be long-spirited, i.e. (objectively) forbearing or (subjectively) patient.” μακροθυμία is ‘long temper’ — the opposite of a short fuse. It is usually patience with people and with God's timing, while ὑπομονή (v. 11) is endurance under hard circumstances. James uses both. The farmer needs μακροθυμία, waiting for the rain without despair; Job showed ὑπομονή, holding on through suffering. The WEB translates both nouns as ‘perseverance’ in verses 10–11, so the endurance family in this study shows which is which."
+    },
+    {
+      "english": "Full of compassion",
+      "hebrew": "πολύσπλαγχνος",
+      "translit": "polýsplanchnos",
+      "strongs": "G4184 (merciful οἰκτίρμων, oiktírmōn, G3629)",
+      "verses": "v. 11",
+      "insight": "Strong's: “extremely compassionate.” The word is built from πολύς (much) and σπλάγχνα (the inward parts, where the ancients felt deep emotion) — literally ‘many-bowelled’. It is found nowhere earlier in Greek literature, and James may have coined it to describe how deeply the Lord feels for His suffering people. Beside it is οἰκτίρμων, ‘compassionate, merciful’, the tender pity of a father. This study gathers both into a new mercy family. The end of Job's story is not a lesson about suffering but a revelation of God's heart."
+    },
+    {
+      "english": "Prayer",
+      "hebrew": "εὐχή",
+      "translit": "euchḗ",
+      "strongs": "G2171 (petition δέησις, déēsis, G1162; prayer προσευχή, proseuchḗ, G4335)",
+      "verses": "v. 15, 16, 17",
+      "insight": "Strong's: “properly, a wish, expressed as a petition to God, or in votive obligation.” James uses three different nouns for prayer in four verses. εὐχή (v. 15) is a prayer or vow — ‘the prayer of faith’. δέησις (v. 16) is a petition, a specific request born out of need. προσευχή (v. 17) is the general word for prayer as communion with God. All three are in the pray family. Together they show that prayer is many things — faith, need and fellowship — and that every kind is effective in the mouth of a righteous person."
+    },
+    {
+      "english": "Turns back",
+      "hebrew": "ἐπιστρέφω",
+      "translit": "epistréphō",
+      "strongs": "G1994",
+      "verses": "v. 19, 20",
+      "insight": "Strong's: “to revert (literally, figuratively or morally).” ἐπιστρέφω is the New Testament word for conversion: turning around, turning back to God. Jesus told Peter, “You, when once you have turned again, establish your brothers” (Luke 22:32). James gives every believer a share in that ministry. To turn someone back is not to condemn them, but to walk after them, as a shepherd goes after a lost sheep, until they are home."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this final chapter the Holy Spirit gathers the whole letter into three callings: be just, be patient, and pray.",
+    "items": [
+      {
+        "title": "Is Your Money Testifying for You or Against You?",
+        "body": "The Spirit asks you to look honestly at your money — what you earn, what you keep, what you spend, and how you treat those who work for you. Are you paying fairly and promptly? Are you storing up while others go without? “Your gold and your silver are corroded, and their corrosion will be for a testimony against you” (v. 3). What would your bank statement say about your faith? Ask Him where He wants you to be generous or just this week."
+      },
+      {
+        "title": "The Judge Is at the Door",
+        "body": "Waiting for God can make you bitter with God or with others. “Don’t grumble, brothers, against one another, so that you won’t be judged. Behold, the judge stands at the door” (v. 9). The Spirit wants to replace grumbling with patient trust. Where have you been complaining about people or circumstances while you wait for God to act? Hand that situation back to Him, and establish your heart in His coming."
+      },
+      {
+        "title": "Pray Like Elijah",
+        "body": "Elijah was “a man with a nature like ours” (v. 17). The Spirit reminds you that the power of prayer does not depend on being a spiritual hero but on being right with God and praying in faith. Who is sick, suffering or wandering in your life? Who could you confess to and pray with? Is there something you have stopped praying about because nothing seemed to happen? Like Elijah sending his servant seven times, pray again."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Wages Check",
+        "body": "Do you pay people fairly and on time — employees, contractors, cleaners, tradespeople, market sellers (v. 4)? Have you ever held back what you owed? Put it right this week."
+      },
+      {
+        "title": "The Grumbling Check",
+        "body": "Who have you been grumbling about or against while you wait for something to change (v. 9)? Would you say those words if you saw the Judge standing at the door?"
+      },
+      {
+        "title": "The Prayer Check",
+        "body": "When you are suffering, is prayer your first response or your last resort (v. 13)? Do you have anyone you can confess to and pray with honestly (v. 16)? Is there someone wandering from the truth you have stopped reaching out to (v. 19)?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Find a Confession and Prayer Partner",
+        "body": "This month, ask one mature believer of the same sex whom you trust to meet with you once a week, or call you, for honest confession and prayer (v. 16). Begin with a short time: share one struggle, one sin and one need each; pray for each other by name. Keep it confidential. Watch what God does when you stop hiding."
+      },
+      {
+        "title": "Go After One Wanderer",
+        "body": "Think of one person who used to walk with God and has drifted away (vv. 19–20). This week, contact them — not to lecture, but to love. Invite them for coffee or a meal, ask how they really are, listen, and if the door opens, gently point them back to Christ. Pray for them daily, like Elijah, until God answers."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord of Armies, You hear the cry of the poor labourer and the suffering widow. Search my heart and my money. Where I have hoarded, make me generous; where I have been unjust, make me put it right; where I have lived in luxury while others lacked, forgive me. Teach me to lay up treasure in heaven, where moth and rust do not destroy. Give me the patience of the farmer, who works and waits for the early and late rain. Establish my heart, because the coming of the Lord is near. Keep me from grumbling against my brothers and sisters, for the Judge stands at the door. When I suffer, let me pray; when I am cheerful, let me sing praise; when I am sick, let me call for prayer and trust You to raise me up. Give me the courage to confess my sins to others and to pray for them, so that we may be healed. Make me a righteous person whose prayers are powerful and effective, like Elijah, a man with a nature like mine. Thank You that You are full of compassion and mercy, as You were to Job. And send me after those who have wandered from the truth, to turn them back and see them saved. Let my faith work until the day I see You face to face. In the mighty name of Jesus, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Elijah Shuts and Opens the Sky",
+      "ref": "1 Kings 17:1; 18:41-45",
+      "relatedVerses": "v. 17-18",
+      "summary": "Elijah stood before the wicked King Ahab and declared, ‘As Yahweh, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word.’ The rain stopped. After three and a half years and the great contest on Mount Carmel, Elijah climbed to the top of the mountain, bowed to the ground and put his face between his knees. Seven times he sent his servant to look towards the sea, until a cloud ‘as small as a man's hand’ appeared, and soon the sky grew black with wind and heavy rain. James says Elijah had a nature like ours — the same man later ran from Jezebel in fear — yet his persistent prayers moved heaven."
+    },
+    {
+      "title": "Job's Endurance and the Lord's Mercy",
+      "ref": "Job 1:1-2:10; 42:1-17",
+      "relatedVerses": "v. 10-11",
+      "summary": "Job was a righteous man who lost his children, his wealth and his health in a few days. His wife told him to curse God and die; his friends blamed him for his suffering. Job wept, argued, questioned and longed for an answer, but he did not let go of God: ‘Though he slay me, yet will I wait for him.’ At the end God spoke to him out of the whirlwind, Job humbled himself, and the Lord restored his fortunes and blessed the latter part of his life more than the beginning. James draws the lesson: we have “seen the Lord in the outcome, and how the Lord is full of compassion and mercy” (v. 11)."
+    },
+    {
+      "title": "Peter Turned Back",
+      "ref": "Luke 22:31-34, 54-62; John 21:15-19",
+      "relatedVerses": "v. 19-20",
+      "summary": "On the night before the cross, Jesus told Peter, “Simon, Simon, behold, Satan asked to have all of you, that he might sift you as wheat” (Luke 22:31), “but I prayed for you, that your faith wouldn’t fail. You, when once you have turned again, establish your brothers” (Luke 22:32). Peter denied Jesus three times that night. But after the resurrection Jesus came to him by the Sea of Galilee and asked him three times, ‘Do you love me?’, restoring him and giving him a mission. Peter was the wanderer whom Jesus turned back. Then Peter became the one who turned others back. James asks every believer to do for others what Jesus did for Peter."
+    }
+  ]
+}
