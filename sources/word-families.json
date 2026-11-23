@@ -368,7 +368,7 @@
       "english": [
         "new"
       ],
-      "intro": "Greek has one word for ‘new in kind’ and another for ‘new in time’.",
+      "intro": "Greek has one word for ‘new in kind’ and another for ‘new in time’. ἀνακαίνωσις, ‘renewal’, is built on καινός: the Spirit makes us new in kind, not merely recent.",
       "members": [
         {
           "strongs": "G2537",
@@ -381,6 +381,12 @@
           "sense": "New in time — recent, young (the new man, freshly come into being).",
           "anchor": "Colossians 3:10",
           "en": "new"
+        },
+        {
+          "strongs": "G342",
+          "sense": "‘Renewal’ — ἀνά (again) + καινός: being made new in quality, renovated from within by the Holy Spirit (Titus 3:5), the renewing of the mind (Romans 12:2).",
+          "anchor": "Romans 12:2",
+          "en": "renewing"
         }
       ]
     },
