@@ -775,6 +775,51 @@
       ]
     },
     {
+      "id": "offering",
+      "name": "Sacrifice, Offering & Gift",
+      "lang": "Greek",
+      "english": [
+        "sacrifice",
+        "offering",
+        "gifts",
+        "burnt offerings",
+        "offer"
+      ],
+      "intro": "Hebrews uses a whole vocabulary of worship. θυσία is a sacrifice, usually an animal slain; προσφορά is an offering, the act of bringing something to God; ὁλοκαύτωμα is a whole burnt offering, entirely consumed; δῶρον is a gift. The verb προσφέρω, to bring near, to offer, is the priest’s work. Hebrews 10:5–8 gathers four of these words to show that all of them are fulfilled and ended in Christ’s one offering of His body.",
+      "members": [
+        {
+          "strongs": "G2378",
+          "sense": "A sacrifice — usually a slain animal, offered to God.",
+          "anchor": "Hebrews 10:5",
+          "en": "Sacrifice"
+        },
+        {
+          "strongs": "G4376",
+          "sense": "An offering — what is brought near to God, the act of offering.",
+          "anchor": "Hebrews 10:5",
+          "en": "offering"
+        },
+        {
+          "strongs": "G3646",
+          "sense": "A whole burnt offering — wholly consumed on the altar.",
+          "anchor": "Hebrews 10:6",
+          "en": "whole burnt offerings"
+        },
+        {
+          "strongs": "G1435",
+          "sense": "A gift — an offering presented to God.",
+          "anchor": "Hebrews 5:1",
+          "en": "gifts"
+        },
+        {
+          "strongs": "G4374",
+          "sense": "To bring near, to offer — the priest’s action.",
+          "anchor": "Hebrews 5:1",
+          "en": "offer"
+        }
+      ]
+    },
+    {
       "id": "godliness",
       "name": "Godliness & Ungodliness",
       "lang": "Greek",
@@ -785,7 +830,7 @@
         "ungodliness",
         "piety"
       ],
-      "intro": "‘Godliness’ is the key word of 1 Timothy. English uses one word for two Greek ones: εὐσέβεια (well-directed reverence, devotion to God lived out in daily life) and the rarer θεοσέβεια (reverence for God). The opposite is ἀσέβεια / ἀσεβής — the absence of reverence, life lived as if God did not matter.",
+      "intro": "‘Godliness’ is the key word of 1 Timothy. English uses one word for two Greek ones: εὐσέβεια (well-directed reverence, devotion to God lived out in daily life) and the rarer θεοσέβεια (reverence for God). The opposite is ἀσέβεια / ἀσεβής — the absence of reverence, life lived as if God did not matter. Hebrews adds εὐλάβεια, reverent awe (‘godly fear’ in 5:7).",
       "members": [
         {
           "strongs": "G2150",
@@ -822,6 +867,12 @@
           "sense": "Ungodliness — irreverence toward God; the noun of ἀσεβής, life without regard for God.",
           "anchor": "2 Timothy 2:16",
           "en": "ungodliness"
+        },
+        {
+          "strongs": "G2124",
+          "sense": "Reverent awe — careful, God-fearing reverence. Jesus was heard ‘for his godly fear’ (Hebrews 5:7); believers serve God ‘with reverence’ (12:28).",
+          "anchor": "Hebrews 5:7",
+          "en": "godly fear"
         }
       ]
     },
@@ -968,6 +1019,30 @@
       ]
     },
     {
+      "id": "author",
+      "name": "Author, Pioneer & Source",
+      "lang": "Greek",
+      "english": [
+        "author",
+        "Prince"
+      ],
+      "intro": "The WEB uses ‘author’ for two different Greek words in Hebrews. ἀρχηγός (2:10; 12:2) is a pioneer or leader who goes first and opens the way, a founder (Peter calls Jesus ‘the Prince of life’ with it). αἴτιος (5:9) is the cause or source: Christ is the One from whom eternal salvation comes.",
+      "members": [
+        {
+          "strongs": "G747",
+          "sense": "Pioneer, trailblazer, leader who goes first and opens the way.",
+          "anchor": "Hebrews 2:10",
+          "en": "author"
+        },
+        {
+          "strongs": "G159",
+          "sense": "Cause, source — the one from whom something comes.",
+          "anchor": "Hebrews 5:9",
+          "en": "author"
+        }
+      ]
+    },
+    {
       "id": "pray",
       "name": "Prayer, Asking & Intercession",
       "lang": "Greek",
@@ -1035,6 +1110,12 @@
           "sense": "To intercede — to meet with someone on another's behalf.",
           "anchor": "Hebrews 7:25",
           "en": "intercession"
+        },
+        {
+          "strongs": "G2428",
+          "sense": "A suppliant’s plea — originally the olive branch held out by someone begging for mercy; earnest entreaty.",
+          "anchor": "Hebrews 5:7",
+          "en": "petitions"
         }
       ]
     },
