@@ -224,7 +224,8 @@
         "affection",
         "affectionate",
         "lovers",
-        "beloved"
+        "beloved",
+        "friend"
       ],
       "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected. Titus adds the bright side of the φιλ- compounds: lover of good, of guests, of husband and children — and God’s own φιλανθρωπία, His love toward mankind.",
       "members": [
@@ -335,6 +336,12 @@
           "sense": "Beloved — one who is loved with ἀγάπη.",
           "anchor": "James 1:16",
           "en": "beloved"
+        },
+        {
+          "strongs": "G5384",
+          "sense": "A friend — one who is loved with φιλία, warm personal affection.",
+          "anchor": "James 2:23",
+          "en": "friend"
         }
       ]
     },
@@ -650,7 +657,8 @@
         "working",
         "busybodies",
         "laborer",
-        "produces"
+        "produces",
+        "worked"
       ],
       "intro": "English ‘work’ and ‘labour’ cover several Greek words. 1 Thessalonians 1:3 sets ἔργον (work) beside κόπος (labour to the point of exhaustion), and 2:9 adds μόχθος (hardship) and ἐργάζομαι (working). Revelation 2:2 praises ‘works’ and ‘toil’ in a church that had left its first love.",
       "members": [
@@ -707,6 +715,12 @@
           "sense": "To work fully, to accomplish, to produce a result.",
           "anchor": "James 1:3",
           "en": "produces"
+        },
+        {
+          "strongs": "G4903",
+          "sense": "To work together with, to co-operate.",
+          "anchor": "James 2:22",
+          "en": "worked"
         }
       ]
     },
@@ -722,7 +736,8 @@
         "trespass",
         "lawlessness",
         "debts",
-        "unrighteousness"
+        "unrighteousness",
+        "transgressors"
       ],
       "intro": "The New Testament describes sin from several angles: missing the mark, a false step, crossing a line, living without law, and owing a debt. Ephesians 2:1 uses two of these words together.",
       "members": [
@@ -785,6 +800,12 @@
           "sense": "Lawless — without law, living as if God’s law did not exist; the adjective of ἀνομία.",
           "anchor": "1 Timothy 1:9",
           "en": "lawless"
+        },
+        {
+          "strongs": "G3848",
+          "sense": "A transgressor — one who steps over a known boundary.",
+          "anchor": "James 2:9",
+          "en": "transgressors"
         }
       ]
     },
@@ -1363,7 +1384,9 @@
         "perfection",
         "perfecter",
         "complete",
-        "full grown"
+        "full grown",
+        "fulfill",
+        "fulfilled"
       ],
       "intro": "English ‘perfect’ usually means flawless, but the Greek τέλειος family means reaching the goal (τέλος): complete, mature, fully grown. Hebrews uses it again and again: Christ was ‘made perfect’ — fully qualified as Saviour — through suffering (2:10), and is the ‘perfecter’ of faith (12:2). The law could not bring τελείωσις (7:11). A different root, καταρτίζω / ἄρτιος, means fitted, equipped, mended; ὁλόκληρος means whole in every part.",
       "members": [
@@ -1414,6 +1437,18 @@
           "sense": "Whole in every part — nothing missing.",
           "anchor": "James 1:4",
           "en": "complete"
+        },
+        {
+          "strongs": "G5055",
+          "sense": "To bring to an end, to carry out fully — to fulfil a command or finish a task.",
+          "anchor": "James 2:8",
+          "en": "fulfill"
+        },
+        {
+          "strongs": "G4137",
+          "sense": "To fill full — to fulfil a word or promise by filling up its meaning.",
+          "anchor": "James 2:23",
+          "en": "fulfilled"
         }
       ]
     },
@@ -1523,7 +1558,8 @@
       "name": "Good",
       "lang": "Greek",
       "english": [
-        "good"
+        "good",
+        "well"
       ],
       "intro": "Greek distinguishes what is good in its effect from what is good and beautiful to look at.",
       "members": [
@@ -1556,6 +1592,12 @@
           "sense": "Doing good — εὖ + ποιέω: practical kindness, beneficence, one of the ‘sacrifices’ that please God (Hebrews 13:16).",
           "anchor": "Hebrews 13:16",
           "en": "doing good"
+        },
+        {
+          "strongs": "G2573",
+          "sense": "Well, rightly — the adverb of καλός: doing what is fine and fitting.",
+          "anchor": "James 2:8",
+          "en": "well"
         }
       ]
     },
