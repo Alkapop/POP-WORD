@@ -1058,6 +1058,54 @@
       ]
     },
     {
+      "id": "discipline",
+      "name": "Discipline, Training & Chastening",
+      "lang": "Greek",
+      "english": [
+        "discipline",
+        "chastening",
+        "chastens",
+        "instructing",
+        "punished",
+        "exercised",
+        "reproved",
+        "scourges"
+      ],
+      "intro": "English varies its words for one Greek family. παιδεία / παιδεύω (from παῖς, a child) is the whole upbringing of a child — teaching, training and correction. The WEB renders it ‘chastening’ (Hebrews 12:5), ‘discipline’ (12:7), ‘punished’ (12:10) and ‘instructing’ (Titus 2:12, where grace is the trainer). γυμνάζω is athletic training (‘exercised’, 5:14; 12:11). ἐλέγχω is reproof that exposes and corrects. μαστιγόω, to scourge, is the hardest form. Hebrews 12 says God’s discipline is the proof of sonship and the path to holiness.",
+      "members": [
+        {
+          "strongs": "G3809",
+          "sense": "Child-training — instruction and correction by a loving father; ‘discipline’.",
+          "anchor": "Hebrews 12:7",
+          "en": "discipline"
+        },
+        {
+          "strongs": "G3811",
+          "sense": "To train a child — to teach, guide, correct; grace itself does this (Titus 2:12).",
+          "anchor": "Hebrews 12:6",
+          "en": "chastens"
+        },
+        {
+          "strongs": "G1128",
+          "sense": "To train like an athlete — exercise by repeated practice.",
+          "anchor": "Hebrews 12:11",
+          "en": "exercised"
+        },
+        {
+          "strongs": "G1651",
+          "sense": "To reprove — expose a fault in order to correct it.",
+          "anchor": "Hebrews 12:5",
+          "en": "reproved"
+        },
+        {
+          "strongs": "G3146",
+          "sense": "To scourge, whip — severe correction.",
+          "anchor": "Hebrews 12:6",
+          "en": "scourges"
+        }
+      ]
+    },
+    {
       "id": "perfect",
       "name": "Perfect, Complete & Mature",
       "lang": "Greek",
@@ -1296,6 +1344,12 @@
           "sense": "To see with the eyes or the mind — to perceive, take in. Hebrews 2:8–9 sets it beside βλέπω: we do not yet ‘see’ (ὁράω) everything subject to Him, but we do ‘see’ (βλέπω) Jesus.",
           "anchor": "Hebrews 2:8",
           "en": "see"
+        },
+        {
+          "strongs": "G872",
+          "sense": "To look away from everything else and fix the eyes on one object — ‘looking to Jesus’ (Hebrews 12:2).",
+          "anchor": "Hebrews 12:2",
+          "en": "looking"
         }
       ]
     },

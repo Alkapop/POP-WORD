@@ -1,0 +1,1700 @@
+{
+  "type": "chapterStudy",
+  "book": "Hebrews",
+  "chapter": 12,
+  "chapterTitle": "Run the Race, Receive the Discipline, Come to Zion",
+  "themeTitle": "“Looking to Jesus, the Author and Perfecter of Faith”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Therefore let us also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let us run with perseverance the race that is set before us,",
+      "understanding": "τοιγαροῦν καὶ ἡμεῖς, “Therefore let us also” — after chapter 11's gallery. τοσοῦτον ἔχοντες περικείμενον ἡμῖν νέφος μαρτύρων, “seeing we are surrounded by so great a cloud of witnesses” — μάρτυς: not spectators in the stands so much as witnesses whose lives testify that faith finishes. ὄγκον ἀποθέμενοι πάντα, “lay aside every weight” — ὄγκος, bulk, extra weight a runner strips off; καὶ τὴν εὐπερίστατον ἁμαρτίαν, “and the sin which so easily entangles us” — like a long robe wrapping round the legs; ἁμαρτία from the sin family. δι᾽ ὑπομονῆς τρέχωμεν τὸν προκείμενον ἡμῖν ἀγῶνα, “and let us run with perseverance the race that is set before us” — ἀγών, the contest (Paul's ‘good fight’ in 2 Timothy 4:7).",
+      "words": [
+        {
+          "strongs": "G5108",
+          "hebrew": "τοιοῦτος",
+          "translit": "toioûtos",
+          "english": "so great"
+        },
+        {
+          "strongs": "G3509",
+          "hebrew": "νέφος",
+          "translit": "néphos",
+          "english": "cloud"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witnesses"
+        },
+        {
+          "strongs": "G4029",
+          "hebrew": "περίκειμαι",
+          "translit": "períkeimai",
+          "english": "surrounded"
+        },
+        {
+          "strongs": "G659",
+          "hebrew": "ἀποτίθημι",
+          "translit": "apotíthēmi",
+          "english": "lay aside"
+        },
+        {
+          "strongs": "G3591",
+          "hebrew": "ὄγκος",
+          "translit": "ónkos",
+          "english": "weight"
+        },
+        {
+          "strongs": "G2139",
+          "hebrew": "εὐπερίστατος",
+          "translit": "euperístatos",
+          "english": "so easily entangles"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "perseverance"
+        },
+        {
+          "strongs": "G5143",
+          "hebrew": "τρέχω",
+          "translit": "tréchō",
+          "english": "run"
+        },
+        {
+          "strongs": "G4295",
+          "hebrew": "πρόκειμαι",
+          "translit": "prókeimai",
+          "english": "set before"
+        },
+        {
+          "strongs": "G73",
+          "hebrew": "ἀγών",
+          "translit": "agṓn",
+          "english": "race"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.",
+      "understanding": "ἀφορῶντες εἰς τὸν τῆς πίστεως ἀρχηγὸν καὶ τελειωτὴν Ἰησοῦν, “looking to Jesus, the author and perfecter of faith.” ἀφοράω, added to the see family: to look away from everything else and fix the eyes on one. Two word families in one title: ἀρχηγός from the author family — the pioneer who started the race and runs ahead (2:10); τελειωτής from the perfect family — the one who brings faith to its finish, the only use of the word in the Bible. He is the first and the last runner. ὃς ἀντὶ τῆς προκειμένης αὐτῷ χαρᾶς ὑπέμεινεν σταυρόν, “who for the joy that was set before him endured the cross” — the joy of His Father's will done and His people saved. αἰσχύνης καταφρονήσας, “despising its shame” — treating the most shameful death as nothing compared with the joy. ἐν δεξιᾷ τε τοῦ θρόνου τοῦ θεοῦ κεκάθικεν, “and has sat down at the right hand of the throne of God.”",
+      "words": [
+        {
+          "strongs": "G872",
+          "hebrew": "ἀφοράω",
+          "translit": "aphoráō",
+          "english": "looking"
+        },
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G747",
+          "hebrew": "ἀρχηγός",
+          "translit": "archēgós",
+          "english": "author"
+        },
+        {
+          "strongs": "G5051",
+          "hebrew": "τελειωτής",
+          "translit": "teleiōtḗs",
+          "english": "perfecter"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joy"
+        },
+        {
+          "strongs": "G5278",
+          "hebrew": "ὑπομένω",
+          "translit": "hypoménō",
+          "english": "endured"
+        },
+        {
+          "strongs": "G4716",
+          "hebrew": "σταυρός",
+          "translit": "staurós",
+          "english": "cross"
+        },
+        {
+          "strongs": "G2706",
+          "hebrew": "καταφρονέω",
+          "translit": "kataphronéō",
+          "english": "despising"
+        },
+        {
+          "strongs": "G152",
+          "hebrew": "αἰσχύνη",
+          "translit": "aischýnē",
+          "english": "shame"
+        },
+        {
+          "strongs": "G2523",
+          "hebrew": "καθίζω",
+          "translit": "kathízō",
+          "english": "sat down"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For consider him who has endured such contradiction of sinners against himself, that you don’t grow weary, fainting in your souls.",
+      "understanding": "ἀναλογίσασθε γὰρ τὸν τοιαύτην ὑπομεμενηκότα ὑπὸ τῶν ἁμαρτωλῶν εἰς ἑαυτὸν ἀντιλογίαν, “For consider him who has endured such contradiction of sinners against himself” — ἀναλογίζομαι, to compare, reckon up carefully. ἵνα μὴ κάμητε ταῖς ψυχαῖς ὑμῶν ἐκλυόμενοι, “that you don’t grow weary, fainting in your souls” — κάμνω, to tire, and ἐκλύω, to come undone, like an exhausted runner collapsing. ψυχή from the life family. The cure for weariness is to compare your race with His.",
+      "words": [
+        {
+          "strongs": "G357",
+          "hebrew": "ἀναλογίζομαι",
+          "translit": "analogízomai",
+          "english": "consider"
+        },
+        {
+          "strongs": "G5278",
+          "hebrew": "ὑπομένω",
+          "translit": "hypoménō",
+          "english": "endured"
+        },
+        {
+          "strongs": "G485",
+          "hebrew": "ἀντιλογία",
+          "translit": "antilogía",
+          "english": "contradiction"
+        },
+        {
+          "strongs": "G268",
+          "hebrew": "ἁμαρτωλός",
+          "translit": "hamartōlós",
+          "english": "sinners"
+        },
+        {
+          "strongs": "G2577",
+          "hebrew": "κάμνω",
+          "translit": "kámnō",
+          "english": "grow weary"
+        },
+        {
+          "strongs": "G1590",
+          "hebrew": "ἐκλύω",
+          "translit": "eklýō",
+          "english": "fainting"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "souls"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "You have not yet resisted to blood, striving against sin;",
+      "understanding": "οὔπω μέχρις αἵματος ἀντικατέστητε, “You have not yet resisted to blood” — they had suffered loss and insult (10:32–34), but none had yet been killed. πρὸς τὴν ἁμαρτίαν ἀνταγωνιζόμενοι, “striving against sin” — ἀγών again: a wrestling match or contest against sin, both temptation within and persecution without.",
+      "words": [
+        {
+          "strongs": "G3768",
+          "hebrew": "οὔπω",
+          "translit": "oúpō",
+          "english": "not yet"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G478",
+          "hebrew": "ἀντικαθίστημι",
+          "translit": "antikathístēmi",
+          "english": "resisted"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sin"
+        },
+        {
+          "strongs": "G464",
+          "hebrew": "ἀνταγωνίζομαι",
+          "translit": "antagōnízomai",
+          "english": "striving"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "and you have forgotten the exhortation which reasons with you as with children, “My son, don’t take lightly the chastening of the Lord, nor faint when you are reproved by him;",
+      "understanding": "καὶ ἐκλέλησθε τῆς παρακλήσεως, “and you have forgotten the exhortation” — Proverbs 3:11–12, which speaks to them ὡς υἱοῖς, ‘as to sons’. “My son, don’t take lightly the chastening of the Lord, nor faint when you are reproved by him.” Two members of the new discipline family: παιδεία, ‘chastening’ — the training of a child; and ἐλέγχω, ‘reproved’ — exposed and corrected. Two wrong reactions: to shrug it off, or to collapse under it.",
+      "words": [
+        {
+          "strongs": "G1585",
+          "hebrew": "ἐκλανθάνομαι",
+          "translit": "eklanthánomai",
+          "english": "forgotten"
+        },
+        {
+          "strongs": "G3874",
+          "hebrew": "παράκλησις",
+          "translit": "paráklēsis",
+          "english": "exhortation"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "son"
+        },
+        {
+          "strongs": "G3643",
+          "hebrew": "ὀλιγωρέω",
+          "translit": "oligōréō",
+          "english": "take lightly"
+        },
+        {
+          "strongs": "G3809",
+          "hebrew": "παιδεία",
+          "translit": "paideía",
+          "english": "chastening"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1590",
+          "hebrew": "ἐκλύω",
+          "translit": "eklýō",
+          "english": "faint"
+        },
+        {
+          "strongs": "G1651",
+          "hebrew": "ἐλέγχω",
+          "translit": "elénchō",
+          "english": "reproved"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "For whom the Lord loves, he chastens, and scourges every son whom he receives.”",
+      "understanding": "“For whom the Lord loves, he chastens, and scourges every son whom he receives.” ἀγαπάω from the love family; παιδεύω and μαστιγόω from the discipline family. Discipline does not mean God has stopped loving you; it is evidence that He does. He trains only those He has received as sons.",
+      "words": [
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loves"
+        },
+        {
+          "strongs": "G3811",
+          "hebrew": "παιδεύω",
+          "translit": "paideúō",
+          "english": "chastens"
+        },
+        {
+          "strongs": "G3146",
+          "hebrew": "μαστιγόω",
+          "translit": "mastigóō",
+          "english": "scourges"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "son"
+        },
+        {
+          "strongs": "G3858",
+          "hebrew": "παραδέχομαι",
+          "translit": "paradéchomai",
+          "english": "receives"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "It is for discipline that you endure. God deals with you as with children, for what son is there whom his father doesn’t discipline?",
+      "understanding": "εἰς παιδείαν ὑπομένετε, “It is for discipline that you endure” — the same word παιδεία, now rendered ‘discipline’: English uses several words for one Greek family. ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός, “God deals with you as with children,” τίς γὰρ υἱὸς ὃν οὐ παιδεύει πατήρ; “for what son is there whom his father doesn’t discipline?” Their sufferings were not signs of God's rejection but of His fatherhood.",
+      "words": [
+        {
+          "strongs": "G3809",
+          "hebrew": "παιδεία",
+          "translit": "paideía",
+          "english": "discipline"
+        },
+        {
+          "strongs": "G5278",
+          "hebrew": "ὑπομένω",
+          "translit": "hypoménō",
+          "english": "endure"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "children"
+        },
+        {
+          "strongs": "G4374",
+          "hebrew": "προσφέρω",
+          "translit": "prosphérō",
+          "english": "deals"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "father"
+        },
+        {
+          "strongs": "G3811",
+          "hebrew": "παιδεύω",
+          "translit": "paideúō",
+          "english": "discipline"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But if you are without discipline, of which all have been made partakers, then are you illegitimate, and not children.",
+      "understanding": "εἰ δὲ χωρίς ἐστε παιδείας, “But if you are without discipline,” ἧς μέτοχοι γεγόνασιν πάντες, “of which all have been made partakers” — every true child shares in it. ἄρα νόθοι καὶ οὐχ υἱοί ἐστε, “then are you illegitimate, and not children” — νόθος, a child born outside marriage, who in that culture often received no father's training or inheritance. Lack of discipline would be the worrying sign.",
+      "words": [
+        {
+          "strongs": "G5565",
+          "hebrew": "χωρίς",
+          "translit": "chōrís",
+          "english": "without"
+        },
+        {
+          "strongs": "G3809",
+          "hebrew": "παιδεία",
+          "translit": "paideía",
+          "english": "discipline"
+        },
+        {
+          "strongs": "G3353",
+          "hebrew": "μέτοχος",
+          "translit": "métochos",
+          "english": "partakers"
+        },
+        {
+          "strongs": "G3541",
+          "hebrew": "νόθος",
+          "translit": "nóthos",
+          "english": "illegitimate"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "children"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Furthermore, we had the fathers of our flesh to chasten us, and we paid them respect. Shall we not much rather be in subjection to the Father of spirits, and live?",
+      "understanding": "εἶτα τοὺς μὲν τῆς σαρκὸς ἡμῶν πατέρας εἴχομεν παιδευτάς, “Furthermore, we had the fathers of our flesh to chasten us” — παιδευτής, trainer. καὶ ἐνετρεπόμεθα, “and we paid them respect.” οὐ πολὺ μᾶλλον ὑποταγησόμεθα τῷ πατρὶ τῶν πνευμάτων, καὶ ζήσομεν; “Shall we not much rather be in subjection to the Father of spirits, and live?” — ζάω from the life family: submitting to His training is the way to life.",
+      "words": [
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "fathers"
+        },
+        {
+          "strongs": "G3810",
+          "hebrew": "παιδευτής",
+          "translit": "paideutḗs",
+          "english": "chasten"
+        },
+        {
+          "strongs": "G1788",
+          "hebrew": "ἐντρέπω",
+          "translit": "entrépō",
+          "english": "paid them respect"
+        },
+        {
+          "strongs": "G5293",
+          "hebrew": "ὑποτάσσω",
+          "translit": "hypotássō",
+          "english": "subjection"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirits"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "live"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "For they indeed, for a few days, punished us as seemed good to them; but he for our profit, that we may be partakers of his holiness.",
+      "understanding": "οἱ μὲν γὰρ πρὸς ὀλίγας ἡμέρας κατὰ τὸ δοκοῦν αὐτοῖς ἐπαίδευον, “For they indeed, for a few days, punished us as seemed good to them” — παιδεύω again, here rendered ‘punished’: human fathers train imperfectly, for a short time, by their best judgement. ὁ δὲ ἐπὶ τὸ συμφέρον, “but he for our profit,” εἰς τὸ μεταλαβεῖν τῆς ἁγιότητος αὐτοῦ, “that we may be partakers of his holiness.” God's discipline is never mistaken and always aims at the highest goal: sharing His own holiness.",
+      "words": [
+        {
+          "strongs": "G3641",
+          "hebrew": "ὀλίγος",
+          "translit": "olígos",
+          "english": "few"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G3811",
+          "hebrew": "παιδεύω",
+          "translit": "paideúō",
+          "english": "punished"
+        },
+        {
+          "strongs": "G1380",
+          "hebrew": "δοκέω",
+          "translit": "dokéō",
+          "english": "seemed good"
+        },
+        {
+          "strongs": "G4851",
+          "hebrew": "συμφέρω",
+          "translit": "symphérō",
+          "english": "profit"
+        },
+        {
+          "strongs": "G3335",
+          "hebrew": "μεταλαμβάνω",
+          "translit": "metalambánō",
+          "english": "partakers"
+        },
+        {
+          "strongs": "G41",
+          "hebrew": "ἁγιότης",
+          "translit": "hagiótēs",
+          "english": "holiness"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby.",
+      "understanding": "πᾶσα δὲ παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, “All chastening seems for the present to be not joyous but grievous” — honest: discipline hurts. ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι᾽ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης, “yet afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby.” γυμνάζω from the discipline family: trained like an athlete (as in 5:14). Pain now, fruit afterward — but only for those who let it train them.",
+      "words": [
+        {
+          "strongs": "G3809",
+          "hebrew": "παιδεία",
+          "translit": "paideía",
+          "english": "chastening"
+        },
+        {
+          "strongs": "G3918",
+          "hebrew": "πάρειμι",
+          "translit": "páreimi",
+          "english": "present"
+        },
+        {
+          "strongs": "G1380",
+          "hebrew": "δοκέω",
+          "translit": "dokéō",
+          "english": "seems"
+        },
+        {
+          "strongs": "G5479",
+          "hebrew": "χαρά",
+          "translit": "chará",
+          "english": "joyous"
+        },
+        {
+          "strongs": "G3077",
+          "hebrew": "λύπη",
+          "translit": "lýpē",
+          "english": "grievous"
+        },
+        {
+          "strongs": "G5305",
+          "hebrew": "ὕστερον",
+          "translit": "hýsteron",
+          "english": "afterward"
+        },
+        {
+          "strongs": "G2590",
+          "hebrew": "καρπός",
+          "translit": "karpós",
+          "english": "fruit"
+        },
+        {
+          "strongs": "G1516",
+          "hebrew": "εἰρηνικός",
+          "translit": "eirēnikós",
+          "english": "peaceful"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G1128",
+          "hebrew": "γυμνάζω",
+          "translit": "gymnázō",
+          "english": "exercised"
+        },
+        {
+          "strongs": "G591",
+          "hebrew": "ἀποδίδωμι",
+          "translit": "apodídōmi",
+          "english": "yields"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Therefore lift up the hands that hang down and the feeble knees,",
+      "understanding": "διὸ τὰς παρειμένας χεῖρας καὶ τὰ παραλελυμένα γόνατα ἀνορθώσατε, “Therefore lift up the hands that hang down and the feeble knees” — words from Isaiah 35 to exhausted runners: straighten up! ἀνορθόω, to set upright again.",
+      "words": [
+        {
+          "strongs": "G461",
+          "hebrew": "ἀνορθόω",
+          "translit": "anorthóō",
+          "english": "lift up"
+        },
+        {
+          "strongs": "G3935",
+          "hebrew": "παρίημι",
+          "translit": "paríēmi",
+          "english": "hang down"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hands"
+        },
+        {
+          "strongs": "G3886",
+          "hebrew": "παραλύω",
+          "translit": "paralýō",
+          "english": "feeble"
+        },
+        {
+          "strongs": "G1119",
+          "hebrew": "γόνυ",
+          "translit": "góny",
+          "english": "knees"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "and make straight paths for your feet, so what is lame may not be dislocated, but rather be healed.",
+      "understanding": "καὶ τροχιὰς ὀρθὰς ποιήσατε τοῖς ποσὶν ὑμῶν, “and make straight paths for your feet” — from Proverbs 4. ἵνα μὴ τὸ χωλὸν ἐκτραπῇ, ἰαθῇ δὲ μᾶλλον, “so what is lame may not be dislocated, but rather be healed” — ἐκτρέπω, the medical word for a joint wrenched out of place (‘turn away’ in 2 Timothy 4:4). The strong must clear the path so that the weak are healed, not further injured.",
+      "words": [
+        {
+          "strongs": "G3717",
+          "hebrew": "ὀρθός",
+          "translit": "orthós",
+          "english": "straight"
+        },
+        {
+          "strongs": "G5163",
+          "hebrew": "τροχιά",
+          "translit": "trochiá",
+          "english": "paths"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        },
+        {
+          "strongs": "G5560",
+          "hebrew": "χωλός",
+          "translit": "chōlós",
+          "english": "lame"
+        },
+        {
+          "strongs": "G1624",
+          "hebrew": "ἐκτρέπω",
+          "translit": "ektrépō",
+          "english": "dislocated"
+        },
+        {
+          "strongs": "G2390",
+          "hebrew": "ἰάομαι",
+          "translit": "iáomai",
+          "english": "healed"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Follow after peace with all men, and the sanctification without which no man will see the Lord,",
+      "understanding": "εἰρήνην διώκετε μετὰ πάντων, “Follow after peace with all men” — διώκω, to pursue, chase. καὶ τὸν ἁγιασμόν, “and the sanctification” — holiness of life. οὗ χωρὶς οὐδεὶς ὄψεται τὸν κύριον, “without which no man will see the Lord” — ὁράω from the see family. Holiness is not the price of seeing God but the necessary mark of those who will; Jesus said the pure in heart will see God.",
+      "words": [
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "peace"
+        },
+        {
+          "strongs": "G1377",
+          "hebrew": "διώκω",
+          "translit": "diṓkō",
+          "english": "Follow after"
+        },
+        {
+          "strongs": "G38",
+          "hebrew": "ἁγιασμός",
+          "translit": "hagiasmós",
+          "english": "sanctification"
+        },
+        {
+          "strongs": "G5565",
+          "hebrew": "χωρίς",
+          "translit": "chōrís",
+          "english": "without"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "see"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "looking carefully lest there be any man who falls short of the grace of God; lest any root of bitterness springing up trouble you, and many be defiled by it;",
+      "understanding": "ἐπισκοποῦντες μή τις ὑστερῶν ἀπὸ τῆς χάριτος τοῦ θεοῦ, “looking carefully lest there be any man who falls short of the grace of God” — ἐπισκοπέω, to oversee (the root of ‘overseer’): every believer is to watch over the others. μή τις ῥίζα πικρίας ἄνω φύουσα ἐνοχλῇ, “lest any root of bitterness springing up trouble you” — from Deuteronomy 29, where it meant a person drawn into idolatry who poisons the community. καὶ δι᾽ αὐτῆς μιανθῶσιν πολλοί, “and many be defiled by it.” One person's unbelief or bitterness can spread.",
+      "words": [
+        {
+          "strongs": "G1983",
+          "hebrew": "ἐπισκοπέω",
+          "translit": "episkopéō",
+          "english": "looking carefully"
+        },
+        {
+          "strongs": "G5302",
+          "hebrew": "ὑστερέω",
+          "translit": "hysteréō",
+          "english": "falls short"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4491",
+          "hebrew": "ῥίζα",
+          "translit": "rhíza",
+          "english": "root"
+        },
+        {
+          "strongs": "G4088",
+          "hebrew": "πικρία",
+          "translit": "pikría",
+          "english": "bitterness"
+        },
+        {
+          "strongs": "G5453",
+          "hebrew": "φύω",
+          "translit": "phýō",
+          "english": "springing up"
+        },
+        {
+          "strongs": "G1776",
+          "hebrew": "ἐνοχλέω",
+          "translit": "enochléō",
+          "english": "trouble"
+        },
+        {
+          "strongs": "G3392",
+          "hebrew": "μιαίνω",
+          "translit": "miaínō",
+          "english": "defiled"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "lest there be any sexually immoral person, or profane person, like Esau, who sold his birthright for one meal.",
+      "understanding": "μή τις πόρνος ἢ βέβηλος ὡς Ἠσαῦ, “lest there be any sexually immoral person, or profane person, like Esau” — βέβηλος, godless, treating sacred things as common. ὃς ἀντὶ βρώσεως μιᾶς ἀπέδοτο τὰ πρωτοτόκια ἑαυτοῦ, “who sold his birthright for one meal.” Esau traded a future blessing for an immediate appetite — exactly the danger facing readers tempted to give up Christ to escape present hardship.",
+      "words": [
+        {
+          "strongs": "G4205",
+          "hebrew": "πόρνος",
+          "translit": "pórnos",
+          "english": "sexually immoral"
+        },
+        {
+          "strongs": "G952",
+          "hebrew": "βέβηλος",
+          "translit": "bébēlos",
+          "english": "profane"
+        },
+        {
+          "strongs": "G2269",
+          "hebrew": "Ἠσαῦ",
+          "translit": "Ēsaû",
+          "english": "Esau"
+        },
+        {
+          "strongs": "G1035",
+          "hebrew": "βρῶσις",
+          "translit": "brōsis",
+          "english": "meal"
+        },
+        {
+          "strongs": "G591",
+          "hebrew": "ἀποδίδωμι",
+          "translit": "apodídōmi",
+          "english": "sold"
+        },
+        {
+          "strongs": "G4415",
+          "hebrew": "πρωτοτόκια",
+          "translit": "prōtotókia",
+          "english": "birthright"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "For you know that even when he afterward desired to inherit the blessing, he was rejected, for he found no place for a change of mind though he sought it diligently with tears.",
+      "understanding": "ἴστε γὰρ ὅτι καὶ μετέπειτα θέλων κληρονομῆσαι τὴν εὐλογίαν ἀπεδοκιμάσθη, “For you know that even when he afterward desired to inherit the blessing, he was rejected” — ἀποδοκιμάζω, rejected after testing. μετανοίας γὰρ τόπον οὐχ εὗρεν, “for he found no place for a change of mind” — μετάνοια; whose mind is unclear: Isaac could not reverse the blessing, or Esau could not find genuine repentance. καίπερ μετὰ δακρύων ἐκζητήσας αὐτήν, “though he sought it diligently with tears” — he wanted the blessing, not God. Some choices have consequences that tears cannot undo.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G3347",
+          "hebrew": "μετέπειτα",
+          "translit": "metépeita",
+          "english": "afterward"
+        },
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "desired"
+        },
+        {
+          "strongs": "G2816",
+          "hebrew": "κληρονομέω",
+          "translit": "klēronoméō",
+          "english": "inherit"
+        },
+        {
+          "strongs": "G2129",
+          "hebrew": "εὐλογία",
+          "translit": "eulogía",
+          "english": "blessing"
+        },
+        {
+          "strongs": "G593",
+          "hebrew": "ἀποδοκιμάζω",
+          "translit": "apodokimázō",
+          "english": "rejected"
+        },
+        {
+          "strongs": "G3341",
+          "hebrew": "μετάνοια",
+          "translit": "metánoia",
+          "english": "change of mind"
+        },
+        {
+          "strongs": "G5117",
+          "hebrew": "τόπος",
+          "translit": "tópos",
+          "english": "place"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        },
+        {
+          "strongs": "G1567",
+          "hebrew": "ἐκζητέω",
+          "translit": "ekzētéō",
+          "english": "sought it diligently"
+        },
+        {
+          "strongs": "G1144",
+          "hebrew": "δάκρυ",
+          "translit": "dákry",
+          "english": "tears"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "For you have not come to a mountain that might be touched, and that burned with fire, and to blackness, darkness, storm,",
+      "understanding": "Now a contrast between two mountains. οὐ γὰρ προσεληλύθατε ψηλαφωμένῳ ὄρει, “For you have not come to a mountain that might be touched” — Sinai, physical and earthly. καὶ κεκαυμένῳ πυρί, “and that burned with fire,” καὶ γνόφῳ καὶ ζόφῳ καὶ θυέλλῃ, “and to blackness, darkness, storm” — the terrifying scene of Exodus 19.",
+      "words": [
+        {
+          "strongs": "G4334",
+          "hebrew": "προσέρχομαι",
+          "translit": "prosérchomai",
+          "english": "come"
+        },
+        {
+          "strongs": "G5584",
+          "hebrew": "ψηλαφάω",
+          "translit": "psēlapháō",
+          "english": "touched"
+        },
+        {
+          "strongs": "G3735",
+          "hebrew": "ὄρος",
+          "translit": "óros",
+          "english": "mountain"
+        },
+        {
+          "strongs": "G2545",
+          "hebrew": "καίω",
+          "translit": "kaíō",
+          "english": "burned"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G1105",
+          "hebrew": "γνόφος",
+          "translit": "gnóphos",
+          "english": "blackness"
+        },
+        {
+          "strongs": "G2217",
+          "hebrew": "ζόφος",
+          "translit": "zóphos",
+          "english": "darkness"
+        },
+        {
+          "strongs": "G2366",
+          "hebrew": "θύελλα",
+          "translit": "thýella",
+          "english": "storm"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "the sound of a trumpet, and the voice of words; which those who heard it begged that not one more word should be spoken to them,",
+      "understanding": "καὶ σάλπιγγος ἤχῳ καὶ φωνῇ ῥημάτων, “the sound of a trumpet, and the voice of words” — ῥῆμα from the word family: God's spoken words from the fire. ἧς οἱ ἀκούσαντες παρῃτήσαντο μὴ προστεθῆναι αὐτοῖς λόγον, “which those who heard it begged that not one more word should be spoken to them” — λόγος, the same family. The people were too terrified to keep listening.",
+      "words": [
+        {
+          "strongs": "G4536",
+          "hebrew": "σάλπιγξ",
+          "translit": "sálpinx",
+          "english": "trumpet"
+        },
+        {
+          "strongs": "G2279",
+          "hebrew": "ἦχος",
+          "translit": "ēchos",
+          "english": "sound"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G4487",
+          "hebrew": "ῥῆμα",
+          "translit": "rhēma",
+          "english": "words"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G3868",
+          "hebrew": "παραιτέομαι",
+          "translit": "paraitéomai",
+          "english": "begged"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "word"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "for they could not stand that which was commanded, “If even an animal touches the mountain, it shall be stoned”;",
+      "understanding": "οὐκ ἔφερον γὰρ τὸ διαστελλόμενον, “for they could not stand that which was commanded,” “If even an animal touches the mountain, it shall be stoned.” Sinai's holiness kept everyone at a distance.",
+      "words": [
+        {
+          "strongs": "G5342",
+          "hebrew": "φέρω",
+          "translit": "phérō",
+          "english": "stand"
+        },
+        {
+          "strongs": "G1291",
+          "hebrew": "διαστέλλομαι",
+          "translit": "diastéllomai",
+          "english": "commanded"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "animal"
+        },
+        {
+          "strongs": "G2345",
+          "hebrew": "θιγγάνω",
+          "translit": "thingánō",
+          "english": "touches"
+        },
+        {
+          "strongs": "G3735",
+          "hebrew": "ὄρος",
+          "translit": "óros",
+          "english": "mountain"
+        },
+        {
+          "strongs": "G3036",
+          "hebrew": "λιθοβολέω",
+          "translit": "lithoboléō",
+          "english": "stoned"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "and so fearful was the appearance that Moses said, “I am terrified and trembling.”",
+      "understanding": "καί, οὕτω φοβερὸν ἦν τὸ φανταζόμενον, “and so fearful was the appearance” — φαντάζω, the spectacle; from the root of φαίνω in the appear family. Even Moses, the mediator, said: “I am terrified and trembling.” If Moses trembled, who could approach?",
+      "words": [
+        {
+          "strongs": "G5398",
+          "hebrew": "φοβερός",
+          "translit": "phoberós",
+          "english": "fearful"
+        },
+        {
+          "strongs": "G5324",
+          "hebrew": "φαντάζω",
+          "translit": "phantázō",
+          "english": "appearance"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G1630",
+          "hebrew": "ἔκφοβος",
+          "translit": "ékphobos",
+          "english": "terrified"
+        },
+        {
+          "strongs": "G1790",
+          "hebrew": "ἔντρομος",
+          "translit": "éntromos",
+          "english": "trembling"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "But you have come to Mount Zion, and to the city of the living God, the heavenly Jerusalem, and to innumerable multitudes of angels,",
+      "understanding": "ἀλλὰ προσεληλύθατε Σιὼν ὄρει, “But you have come to Mount Zion” — perfect tense: you have already arrived. καὶ πόλει θεοῦ ζῶντος, Ἰερουσαλὴμ ἐπουρανίῳ, “and to the city of the living God, the heavenly Jerusalem” — the city Abraham looked for (11:10). καὶ μυριάσιν ἀγγέλων, “and to innumerable multitudes of angels” — tens of thousands.",
+      "words": [
+        {
+          "strongs": "G4334",
+          "hebrew": "προσέρχομαι",
+          "translit": "prosérchomai",
+          "english": "come"
+        },
+        {
+          "strongs": "G4622",
+          "hebrew": "Σιών",
+          "translit": "Siṓn",
+          "english": "Zion"
+        },
+        {
+          "strongs": "G3735",
+          "hebrew": "ὄρος",
+          "translit": "óros",
+          "english": "Mount"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "living"
+        },
+        {
+          "strongs": "G2032",
+          "hebrew": "ἐπουράνιος",
+          "translit": "epouránios",
+          "english": "heavenly"
+        },
+        {
+          "strongs": "G2419",
+          "hebrew": "Ἱερουσαλήμ",
+          "translit": "Hierousalḗm",
+          "english": "Jerusalem"
+        },
+        {
+          "strongs": "G3461",
+          "hebrew": "μυριάς",
+          "translit": "myriás",
+          "english": "innumerable multitudes"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "to the festal gathering and assembly of the firstborn who are enrolled in heaven, to God the Judge of all, to the spirits of just men made perfect,",
+      "understanding": "πανηγύρει, “to the festal gathering” — a joyful festival assembly. καὶ ἐκκλησίᾳ πρωτοτόκων ἀπογεγραμμένων ἐν οὐρανοῖς, “and assembly of the firstborn who are enrolled in heaven” — the church, whose names are registered in heaven. καὶ κριτῇ θεῷ πάντων, “to God the Judge of all.” καὶ πνεύμασι δικαίων τετελειωμένων, “to the spirits of just men made perfect” — τελειόω from the perfect family: the Old Testament saints of chapter 11, now brought to the goal through Christ (fulfilling 11:40).",
+      "words": [
+        {
+          "strongs": "G3831",
+          "hebrew": "πανήγυρις",
+          "translit": "panḗgyris",
+          "english": "festal gathering"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G4416",
+          "hebrew": "πρωτότοκος",
+          "translit": "prōtótokos",
+          "english": "firstborn"
+        },
+        {
+          "strongs": "G583",
+          "hebrew": "ἀπογράφω",
+          "translit": "apográphō",
+          "english": "enrolled"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G2923",
+          "hebrew": "κριτής",
+          "translit": "kritḗs",
+          "english": "Judge"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirits"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "just"
+        },
+        {
+          "strongs": "G5048",
+          "hebrew": "τελειόω",
+          "translit": "teleióō",
+          "english": "made perfect"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "to Jesus, the mediator of a new covenant, and to the blood of sprinkling that speaks better than that of Abel.",
+      "understanding": "καὶ διαθήκης νέας μεσίτῃ Ἰησοῦ, “to Jesus, the mediator of a new covenant” — a word-family point: here ‘new’ is νέος, new in time, freshly given; in 8:8 and 9:15 it was καινός, new in kind. The covenant is both. καὶ αἵματι ῥαντισμοῦ κρεῖττον λαλοῦντι παρὰ τὸν Ἄβελ, “and to the blood of sprinkling that speaks better than that of Abel” — κρείττων, ‘better’, one of its last uses. Abel's blood cried from the ground for justice; Jesus' blood speaks forgiveness.",
+      "words": [
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G3316",
+          "hebrew": "μεσίτης",
+          "translit": "mesítēs",
+          "english": "mediator"
+        },
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "new"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G4473",
+          "hebrew": "ῥαντισμός",
+          "translit": "rhantismós",
+          "english": "sprinkling"
+        },
+        {
+          "strongs": "G2909",
+          "hebrew": "κρείττων",
+          "translit": "kreíttōn",
+          "english": "better"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "speaks"
+        },
+        {
+          "strongs": "G6",
+          "hebrew": "Ἄβελ",
+          "translit": "Ábel",
+          "english": "Abel"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "See that you don’t refuse him who speaks. For if they didn’t escape when they refused him who warned on the earth, how much more will we not escape who turn away from him who warns from heaven,",
+      "understanding": "βλέπετε μὴ παραιτήσησθε τὸν λαλοῦντα, “See that you don’t refuse him who speaks” — βλέπω from the see family, as ‘watch out’ (3:12). The last warning of the letter: the same verb as ‘begged’ in v. 19. εἰ γὰρ ἐκεῖνοι οὐκ ἐξέφυγον ἐπὶ γῆς παραιτησάμενοι τὸν χρηματίζοντα, “For if they didn’t escape when they refused him who warned on the earth,” πολὺ μᾶλλον ἡμεῖς οἱ τὸν ἀπ᾽ οὐρανῶν ἀποστρεφόμενοι, “how much more will we not escape who turn away from him who warns from heaven.”",
+      "words": [
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "See"
+        },
+        {
+          "strongs": "G3868",
+          "hebrew": "παραιτέομαι",
+          "translit": "paraitéomai",
+          "english": "refuse"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "speaks"
+        },
+        {
+          "strongs": "G1628",
+          "hebrew": "ἐκφεύγω",
+          "translit": "ekpheúgō",
+          "english": "escape"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G5537",
+          "hebrew": "χρηματίζω",
+          "translit": "chrēmatízō",
+          "english": "warned"
+        },
+        {
+          "strongs": "G654",
+          "hebrew": "ἀποστρέφω",
+          "translit": "apostréphō",
+          "english": "turn away"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "whose voice shook the earth then, but now he has promised, saying, “Yet once more I will shake not only the earth, but also the heavens.”",
+      "understanding": "οὗ ἡ φωνὴ τὴν γῆν ἐσάλευσεν τότε, “whose voice shook the earth then” — at Sinai. νῦν δὲ ἐπήγγελται λέγων, “but now he has promised, saying,” “Yet once more I will shake not only the earth, but also the heavens.” The quotation is from Haggai 2, which promised a final shaking of all creation.",
+      "words": [
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G4531",
+          "hebrew": "σαλεύω",
+          "translit": "saleúō",
+          "english": "shook"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G1861",
+          "hebrew": "ἐπαγγέλλω",
+          "translit": "epangéllō",
+          "english": "promised"
+        },
+        {
+          "strongs": "G530",
+          "hebrew": "ἅπαξ",
+          "translit": "hápax",
+          "english": "once"
+        },
+        {
+          "strongs": "G4579",
+          "hebrew": "σείω",
+          "translit": "seíō",
+          "english": "shake"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heavens"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "This phrase, “Yet once more”, signifies the removing of those things that are shaken, as of things that have been made, that those things which are not shaken may remain.",
+      "understanding": "τὸ δέ, ‘Ἔτι ἅπαξ,’ δηλοῖ, “This phrase, ‘Yet once more’, signifies” — ἅπαξ, once: one final time. τὴν τῶν σαλευομένων μετάθεσιν ὡς πεποιημένων, “the removing of those things that are shaken, as of things that have been made” — created things that can be removed. ἵνα μείνῃ τὰ μὴ σαλευόμενα, “that those things which are not shaken may remain.” Only what is eternal will survive the final shaking.",
+      "words": [
+        {
+          "strongs": "G530",
+          "hebrew": "ἅπαξ",
+          "translit": "hápax",
+          "english": "once"
+        },
+        {
+          "strongs": "G1213",
+          "hebrew": "δηλόω",
+          "translit": "dēlóō",
+          "english": "signifies"
+        },
+        {
+          "strongs": "G3331",
+          "hebrew": "μετάθεσις",
+          "translit": "metáthesis",
+          "english": "removing"
+        },
+        {
+          "strongs": "G4531",
+          "hebrew": "σαλεύω",
+          "translit": "saleúō",
+          "english": "shaken"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "made"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remain"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "Therefore, receiving a Kingdom that can’t be shaken, let us have grace, through which we serve God acceptably, with reverence and awe,",
+      "understanding": "διὸ βασιλείαν ἀσάλευτον παραλαμβάνοντες, “Therefore, receiving a Kingdom that can’t be shaken” — present tense: we are receiving it now. ἔχωμεν χάριν, “let us have grace” — χάρις can also mean thanks: ‘let us be grateful’. δι᾽ ἧς λατρεύωμεν εὐαρέστως τῷ θεῷ, “through which we serve God acceptably” — λατρεύω from the servant family: worship-service. μετὰ αἰδοῦς καὶ εὐλαβείας, “with reverence and awe” — in the manuscripts the WEB follows: αἰδώς, reverent modesty, and εὐλάβεια from the godliness family (as in 5:7); many older manuscripts read εὐλαβείας καὶ δέους, ‘reverence and fear’. Grace does not make worship casual; it makes it grateful and reverent.",
+      "words": [
+        {
+          "strongs": "G761",
+          "hebrew": "ἀσάλευτος",
+          "translit": "asáleutos",
+          "english": "can’t be shaken"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "Kingdom"
+        },
+        {
+          "strongs": "G3880",
+          "hebrew": "παραλαμβάνω",
+          "translit": "paralambánō",
+          "english": "receiving"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G3000",
+          "hebrew": "λατρεύω",
+          "translit": "latreúō",
+          "english": "serve"
+        },
+        {
+          "strongs": "G2102",
+          "hebrew": "εὐαρέστως",
+          "translit": "euaréstōs",
+          "english": "acceptably"
+        },
+        {
+          "strongs": "G127",
+          "hebrew": "αἰδώς",
+          "translit": "aidṓs",
+          "english": "reverence"
+        },
+        {
+          "strongs": "G2124",
+          "hebrew": "εὐλάβεια",
+          "translit": "eulábeia",
+          "english": "awe"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "for our God is a consuming fire.",
+      "understanding": "καὶ γὰρ ὁ θεὸς ἡμῶν πῦρ καταναλίσκον, “for our God is a consuming fire” — from Deuteronomy 4:24. ‘Our’ God: the same God who is gracious in Christ is holy fire. The God of Sinai has not changed; in Christ we come to Him safely, but never lightly.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G2654",
+          "hebrew": "καταναλίσκω",
+          "translit": "katanalískō",
+          "english": "consuming"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Runner Fixing His Eyes",
+      "verseRef": "v. 1-3",
+      "image": "Picture a long-distance runner in a vast stadium, the stands packed with former champions who once ran the same course. He has thrown off his heavy cloak and the robe that kept wrapping round his legs. His muscles burn; he is tempted to slow down. Then he lifts his eyes to the finish line, where One stands who has already run the whole course — through a cross — and now sits in honour, waiting. The runner fixes his gaze there and keeps going.",
+      "meaning": "“Therefore let us also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let us run with perseverance the race that is set before us” (v. 1), “looking to Jesus, the author and perfecter of faith” (v. 2). Throw off what slows you down. Keep your eyes on Jesus, who began your faith and will finish it."
+    },
+    {
+      "title": "A Father's Training",
+      "verseRef": "v. 5-11",
+      "image": "Picture a father teaching his son to ride a bicycle. He corrects, holds, lets go, watches the boy fall and scrape his knee, picks him up, and sends him off again. The boy cries and thinks his father is hard. Years later, riding freely down a hill, he understands: every fall and correction was love making him strong.",
+      "meaning": "“For whom the Lord loves, he chastens” (v. 6). “All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby” (v. 11). Your hardships may be God's training. Ask the Spirit not only to remove the pain but to teach you through it, so that you share His holiness."
+    },
+    {
+      "title": "Two Mountains",
+      "verseRef": "v. 18-24",
+      "image": "Picture a dark mountain wrapped in smoke and fire, thunder rolling and a trumpet blasting louder and louder. People cower at its foot, begging for the voice to stop. A fence keeps them back. Then picture another mountain bathed in light, where a great city shines. Angels by the thousand are celebrating. A joyful crowd of ordinary believers stands near the throne, and at the centre is Jesus, whose blood speaks mercy.",
+      "meaning": "“For you have not come to a mountain that might be touched, and that burned with fire” (v. 18). “But you have come to Mount Zion, and to the city of the living God, the heavenly Jerusalem” (v. 22), “to Jesus, the mediator of a new covenant, and to the blood of sprinkling that speaks better than that of Abel” (v. 24). In Christ you have come to the mountain of grace. Come with joy — and with reverence, for “our God is a consuming fire” (v. 29)."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Run Looking to Jesus (v. 1-3)",
+        "body": "Surrounded by so great a cloud of witnesses, believers should throw off every weight and entangling sin and run with endurance the race set before them, fixing their eyes on Jesus, the pioneer and perfecter of faith, who endured the cross for the joy set before Him and is seated at God's right hand; considering Him will keep them from growing weary."
+      },
+      {
+        "label": "God's Fatherly Discipline (v. 4-13)",
+        "body": "The readers had not yet resisted to the point of blood, and had forgotten that God disciplines those He loves as sons; all true children receive discipline, and if earthly fathers disciplined for a short time as they saw fit, God disciplines for our good, that we may share His holiness; discipline is painful now but later yields the peaceful fruit of righteousness, so they should strengthen weak hands and knees and make straight paths."
+      },
+      {
+        "label": "Pursue Peace and Holiness; Beware Esau's Choice (v. 14-17)",
+        "body": "Pursue peace with everyone and the holiness without which no one will see the Lord, watching that no one falls short of God's grace, that no bitter root causes trouble, and that no one is sexually immoral or godless like Esau, who sold his birthright for a single meal and later could not undo it, though he sought it with tears."
+      },
+      {
+        "label": "Sinai and Zion (v. 18-24)",
+        "body": "Believers have not come to the terrifying, touchable mountain of Sinai with its fire, darkness, storm, trumpet and voice, which even Moses feared, but to Mount Zion, the city of the living God, the heavenly Jerusalem, to myriads of angels in festal gathering, to the church of the firstborn enrolled in heaven, to God the Judge of all, to the spirits of the righteous made perfect, and to Jesus, mediator of a new covenant, whose sprinkled blood speaks better than Abel's."
+      },
+      {
+        "label": "The Final Warning and the Unshakable Kingdom (v. 25-29)",
+        "body": "Do not refuse Him who speaks: if those who refused the earthly warning did not escape, much less will those who reject the One who warns from heaven; God will shake heaven and earth once more, removing what can be shaken, so that what cannot be shaken remains; therefore, receiving an unshakable kingdom, let us be grateful and worship God acceptably with reverence and awe, for our God is a consuming fire."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Looking to Jesus",
+        "paragraphs": [
+          "Chapter 12 turns from the heroes of faith to the race we must run. “Therefore let us also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let us run with perseverance the race that is set before us” (v. 1). The witnesses of chapter 11 testify that faith can finish. Runners strip off anything that slows them down: not only sins, but ‘weights’ — things that may not be wrong in themselves but hold us back. Paul writes, “Don’t you know that those who run in a race all run, but one receives the prize? Run like that, that you may win” (1 Corinthians 9:24).",
+          "The key is where we look: “looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God” (v. 2). Two word families describe Him: ἀρχηγός (author family) — the pioneer who began the race of faith and ran it first; and τελειωτής (perfect family) — the one who completes it. He is not only our example; He is the source and finisher of our faith.",
+          "When we are tired, we are to compare our struggle with His: “For consider him who has endured such contradiction of sinners against himself, that you don’t grow weary, fainting in your souls” (v. 3). “You have not yet resisted to blood, striving against sin” (v. 4). Jesus resisted to the point of blood. Remembering His endurance renews ours. Paul says, “Let us not be weary in doing good, for we will reap in due season, if we don’t give up” (Galatians 6:9)."
+        ]
+      },
+      {
+        "heading": "Discipline as Proof of Sonship",
+        "paragraphs": [
+          "The readers had forgotten something important: “My son, don’t take lightly the chastening of the Lord, nor faint when you are reproved by him” (v. 5), “For whom the Lord loves, he chastens, and scourges every son whom he receives” (v. 6). The discipline family appears throughout this passage. One Greek word, παιδεία, is rendered ‘chastening’, ‘discipline’ and, as a verb, ‘punished’. It means the whole training of a child — teaching, correction and shaping. Jesus says to the church, “As many as I love, I reprove and chasten” (Revelation 3:19).",
+          "Hardship is not proof that God has abandoned us; it can be proof that He is treating us as children. “It is for discipline that you endure. God deals with you as with children” (v. 7). Earthly fathers trained us imperfectly and briefly, “but he for our profit, that we may be partakers of his holiness” (v. 10). The goal of God's discipline is not punishment but participation in His own holiness.",
+          "The writer is honest: “All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been exercised thereby” (v. 11). The word ‘exercised’ (γυμνάζω) is athletic training. James says, “knowing that the testing of your faith produces endurance” (James 1:3). So, “Therefore lift up the hands that hang down and the feeble knees” (v. 12). Pursue peace and holiness, watch over one another, and do not be like Esau, who traded his future for one meal."
+        ]
+      },
+      {
+        "heading": "Not Sinai, but Zion",
+        "paragraphs": [
+          "The letter's climax contrasts two mountains. Believers have not come to Sinai, “a mountain that might be touched, and that burned with fire, and to blackness, darkness, storm” (v. 18), where the voice was so terrifying that the people begged it to stop and even Moses said, “I am terrified and trembling” (v. 21). “But you have come to Mount Zion, and to the city of the living God, the heavenly Jerusalem, and to innumerable multitudes of angels” (v. 22). Paul calls it “the Jerusalem that is above” (Galatians 4:26).",
+          "At Zion we meet a joyful assembly: angels in festival, “the festal gathering and assembly of the firstborn who are enrolled in heaven, to God the Judge of all, to the spirits of just men made perfect” (v. 23). Jesus told His disciples to “rejoice that your names are written in heaven” (Luke 10:20). The Old Testament believers of chapter 11 are now ‘made perfect’ — the perfect-family word τελειόω fulfilling 11:40. And at the centre is “Jesus, the mediator of a new covenant, and to the blood of sprinkling that speaks better than that of Abel” (v. 24). Abel's blood cried for justice; Jesus' blood speaks mercy.",
+          "Yet grace does not remove awe. “See that you don’t refuse him who speaks” (v. 25). God promised through Haggai to shake heaven and earth once more, removing everything that can be shaken. “Therefore, receiving a Kingdom that can’t be shaken, let us have grace, through which we serve God acceptably, with reverence and awe” (v. 28), “for our God is a consuming fire” (v. 29). Peter asks, “what kind of people ought you to be in holy living and godliness” (2 Peter 3:11)?"
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Race, the Father's Love and the Final Shaking",
+      "paragraphs": [
+        "Paul often uses the image of a race. “I therefore run like that, not aimlessly” (1 Corinthians 9:26). “Forgetting the things which are behind, and stretching forward to the things which are before” (Philippians 3:13), “I press on toward the goal for the prize of the high calling of God in Christ Jesus” (Philippians 3:14). Jesus Himself “intently set his face to go to Jerusalem” (Luke 9:51), enduring the cross for the joy set before Him.",
+        "The writer quotes Haggai's promise of a final shaking. Haggai's own words are, “Yet once, it is a little while, and I will shake the heavens, the earth, the sea, and the dry land” (Haggai 2:6), and “and I will shake all nations” (Haggai 2:7). Jesus said, “Heaven and earth will pass away, but my words will not pass away” (Matthew 24:35). Peter describes the day when “the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat” (2 Peter 3:10).",
+        "The joyful assembly on Mount Zion appears in Revelation: “I saw, and behold, the Lamb standing on Mount Zion” (Revelation 14:1). Those who are holy will see God: “Blessed are the pure in heart, for they shall see God” (Matthew 5:8), and in the end, “They will see his face, and his name will be on their foreheads” (Revelation 22:4). That is why the writer calls us to pursue holiness, run with endurance, and serve God with reverence and awe."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Perfecter / finisher",
+      "hebrew": "τελειωτής",
+      "translit": "teleiōtḗs",
+      "strongs": "G5051",
+      "verses": "v. 2",
+      "insight": "Strong's: “a completer, i.e. consummater.” It appears only here in the entire Bible and may have been coined by the writer. It belongs to the perfect family: the one who brings faith to its τέλος, its goal. Paired with ἀρχηγός, the pioneer, it means Jesus is both the beginning and the end of faith — the first to run the course and the One who carries His people across the finish line."
+    },
+    {
+      "english": "Easily entangling / clinging",
+      "hebrew": "εὐπερίστατος",
+      "translit": "euperístatos",
+      "strongs": "G2139",
+      "verses": "v. 1",
+      "insight": "Strong's: “well standing around, i.e. (a competitor) thwarting (a racer) in every direction (figuratively, of sin in genitive case).” It appears only here. It may describe sin that ‘stands around’ us on every side, or that clings closely like a long garment wrapped round a runner's legs. Either way, the point is the same: sin trips believers in their race and must be deliberately laid aside."
+    },
+    {
+      "english": "Discipline / chastening / training",
+      "hebrew": "παιδεία",
+      "translit": "paideía",
+      "strongs": "G3809",
+      "verses": "v. 5, 7, 8, 11",
+      "insight": "Strong's: “tutorage, i.e. education or training; by implication, disciplinary correction.” It comes from παῖς, a child, and describes the whole process of raising a child. The WEB renders it ‘chastening’ in 12:5 and 12:11 and ‘discipline’ in 12:7–8, and Paul uses it of Scripture's ‘instruction in righteousness’ (2 Timothy 3:16). This study tags it in the new discipline family."
+    },
+    {
+      "english": "Profane / godless",
+      "hebrew": "βέβηλος",
+      "translit": "bébēlos",
+      "strongs": "G952",
+      "verses": "v. 16",
+      "insight": "Strong's: “accessible (as by crossing the door-way), i.e. (by implication, of Jewish notions) heathenish, wicked.” It describes someone who treats holy things as common — whose life has no room for the sacred. Esau is the example: he valued an immediate meal more than the birthright and blessing God had attached to it. Paul warns Timothy to avoid ‘profane babblings’ with the same word."
+    },
+    {
+      "english": "Unshakable / immovable",
+      "hebrew": "ἀσάλευτος",
+      "translit": "asáleutos",
+      "strongs": "G761",
+      "verses": "v. 28",
+      "insight": "Strong's: “unshaken, i.e. (by implication) immovable (figuratively).” Luke uses it of the bow of Paul's ship, ‘stuck fast and remained immovable’ when it ran aground (Acts 27:41). Believers are receiving a Kingdom that cannot be shaken. When God shakes everything created, His Kingdom — and those who belong to it — will remain."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit calls you to keep running, to receive discipline as love, and to worship with joy and awe.",
+    "items": [
+      {
+        "title": "What Is Weighing You Down?",
+        "body": "The Spirit wants you to run freely. Ask Him to show you any ‘weight’ — a habit, relationship, distraction or attachment — and any sin that keeps tripping you. Lay it aside today, and fix your eyes again on Jesus."
+      },
+      {
+        "title": "Discipline Is Not Rejection",
+        "body": "Perhaps you are going through a painful season and wondering whether God has turned against you. The Spirit reminds you: the Lord disciplines those He loves. Ask Him what He is teaching you and how He is making you share His holiness."
+      },
+      {
+        "title": "You Have Come to Zion",
+        "body": "You are not standing at the foot of Sinai in terror. You have come to the joyful city of God, to the church of the firstborn, and to Jesus, whose blood speaks mercy. The Spirit invites you to worship with joy — and with the reverence due to a holy God."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Weight Check",
+        "body": "List three things that slow your spiritual race (v. 1). Choose one to lay aside this week, even if it is not sinful in itself."
+      },
+      {
+        "title": "The Discipline Check",
+        "body": "How are you responding to hardship — taking it lightly, collapsing under it, or letting it train you (vv. 5, 11)? Ask God what fruit He wants to grow."
+      },
+      {
+        "title": "The Esau Check",
+        "body": "Is there any ‘one meal’ — an immediate pleasure or relief — that you are tempted to trade for your spiritual inheritance (v. 16)? Name it and refuse it."
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Look to Jesus Daily",
+        "body": "Each morning for a month, before checking your phone or starting work, spend five minutes ‘looking to Jesus’ (v. 2): read a short Gospel passage about Him, and thank Him that He is the author and perfecter of your faith. Notice how this affects your endurance through the day."
+      },
+      {
+        "title": "Make Straight Paths for the Weak",
+        "body": "Verse 13 calls the strong to make the path easier for the lame. Identify someone in your church who is struggling — weary, wounded or new. This month, walk alongside them: pray with them, help practically, and remove obstacles that could cause them to stumble."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, thank You for the great cloud of witnesses who show that faith can finish. Help me lay aside every weight and the sin that so easily entangles me, and run with endurance the race You have set before me. I fix my eyes on Jesus, the author and perfecter of my faith, who for the joy set before Him endured the cross, despised its shame, and sat down at Your right hand. When I grow weary, help me consider Him. Thank You that You discipline me as Your child, because You love me. Help me not to take Your discipline lightly or to faint under it, but to be trained by it, so that I share Your holiness and bear the peaceful fruit of righteousness. Make me pursue peace with everyone and the holiness without which no one will see You. Keep me from bitterness and from selling my inheritance for a moment's relief. Thank You that I have not come to the terrors of Sinai, but to Mount Zion, to the city of the living God, to the joyful assembly of the firstborn, and to Jesus, whose blood speaks better than Abel's. I am receiving a kingdom that cannot be shaken. Make me grateful, and let me worship You acceptably, with reverence and awe, for You are a consuming fire. In the mighty name of Jesus, Amen!”",
+  "storyConnections": [
+    {
+      "title": "Esau Sells His Birthright",
+      "ref": "Genesis 25:29-34; 27:30-40",
+      "relatedVerses": "v. 16-17",
+      "summary": "One day Esau came in from the field exhausted and hungry, and found his brother Jacob cooking red lentil stew. He begged for some. Jacob asked for his birthright in exchange, and Esau, thinking only of his hunger, swore it over and ate. Genesis says he despised his birthright. Years later, when Isaac gave the firstborn's blessing to Jacob, Esau cried out with a loud and bitter cry and begged for a blessing, but the blessing could not be reversed. Hebrews 12:16–17 uses Esau as a warning against trading eternal things for immediate desires."
+    },
+    {
+      "title": "The Terror of Sinai",
+      "ref": "Exodus 19:10-25; 20:18-21",
+      "relatedVerses": "v. 18-21",
+      "summary": "On the third day after Israel arrived at Sinai, there was thunder and lightning, a thick cloud on the mountain and a very loud trumpet blast. The whole mountain was wrapped in smoke because the LORD descended on it in fire, and it trembled violently. Boundaries were set around it; any person or animal that touched it was to be put to death. When the people heard God's voice and saw the fire, they trembled and stood far off, begging Moses to speak to them instead of God. Hebrews 12 contrasts this terrifying scene with the joyful approach believers now have to God through Jesus."
+    },
+    {
+      "title": "Jesus Endures the Cross",
+      "ref": "Luke 22:39-23:46",
+      "relatedVerses": "v. 2-3",
+      "summary": "In Gethsemane Jesus prayed, “Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done” (Luke 22:42). He was arrested, mocked, beaten and condemned. He carried His cross to the place called The Skull, where He was crucified between two criminals, mocked by rulers and soldiers, and yet prayed for His executioners. Darkness covered the land, and He cried out, ‘Father, into your hands I commit my spirit!’ and breathed His last. Hebrews 12:2 says He endured the cross and despised its shame for the joy set before Him — and now He is seated at the right hand of God's throne."
+    }
+  ]
+}
