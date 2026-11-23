@@ -93,6 +93,12 @@
           "sense": "Strong, mighty — the adjective of ἰσχύς: physical or moral strength (Hebrews 11:34 ‘mighty in war’).",
           "anchor": "Hebrews 11:34",
           "en": "mighty"
+        },
+        {
+          "strongs": "G1410",
+          "sense": "To be able, to have power to — the everyday verb of the δύναμις family.",
+          "anchor": "Hebrews 7:25",
+          "en": "able"
         }
       ]
     },
@@ -139,7 +145,7 @@
         "age",
         "day"
       ],
-      "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2.",
+      "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
         {
           "strongs": "G5550",
@@ -194,6 +200,18 @@
           "sense": "For a season, temporary — πρός + καιρός: lasting only for a time, like the ‘pleasures of sin for a time’ Moses refused (Hebrews 11:25).",
           "anchor": "Hebrews 11:25",
           "en": "time"
+        },
+        {
+          "strongs": "G4594",
+          "sense": "Today — this very day. In Hebrews it is the day of opportunity to hear God’s voice (3:7–4:11), and the ‘today’ of Christ who is the same yesterday, today and forever (13:8).",
+          "anchor": "Hebrews 4:7",
+          "en": "today"
+        },
+        {
+          "strongs": "G5549",
+          "sense": "To take time, delay — from χρόνος: ‘he will not wait’ (Hebrews 10:37).",
+          "anchor": "Hebrews 10:37",
+          "en": "wait"
         }
       ]
     },
@@ -352,6 +370,12 @@
           "sense": "To know well, understand, be acquainted with — Abraham went out ‘not knowing’ where he was going (Hebrews 11:8).",
           "anchor": "Hebrews 11:8",
           "en": "knowing"
+        },
+        {
+          "strongs": "G1921",
+          "sense": "To know fully, recognise — the verb of ἐπίγνωσις: knowledge that grasps and acknowledges.",
+          "anchor": "1 Timothy 4:3",
+          "en": "know"
         }
       ]
     },
@@ -406,6 +430,12 @@
           "sense": "Soul — the individual self, the person's own life (laid down by the Good Shepherd).",
           "anchor": "John 10:11",
           "en": "life"
+        },
+        {
+          "strongs": "G2198",
+          "sense": "To live — the verb of ζωή: to be alive, with the life that comes from God.",
+          "anchor": "Hebrews 12:9",
+          "en": "live"
         }
       ]
     },
@@ -561,6 +591,42 @@
           "sense": "To serve in worship — religious service offered to God (or to what stands in His place). Different from δουλεύω (to serve as a slave) and διακονέω (to serve practically).",
           "anchor": "Hebrews 8:5",
           "en": "serve"
+        },
+        {
+          "strongs": "G1247",
+          "sense": "To serve, wait on, minister to — the verb of διάκονος: practical service of others.",
+          "anchor": "2 Timothy 1:18",
+          "en": "served"
+        },
+        {
+          "strongs": "G1248",
+          "sense": "Service, ministry — the practical help of a διάκονος.",
+          "anchor": "Hebrews 1:14",
+          "en": "service"
+        },
+        {
+          "strongs": "G1398",
+          "sense": "To serve as a slave — the verb of δοῦλος: to be ruled by a master, whether God or desires.",
+          "anchor": "Titus 3:3",
+          "en": "serving"
+        },
+        {
+          "strongs": "G1402",
+          "sense": "To enslave — to be made a δοῦλος, owned by something (Titus 2:3, ‘enslaved to much wine’).",
+          "anchor": "Titus 2:3",
+          "en": "enslaved"
+        },
+        {
+          "strongs": "G1397",
+          "sense": "Slavery, bondage — the condition of a δοῦλος (fear of death as bondage, Hebrews 2:15).",
+          "anchor": "Hebrews 2:15",
+          "en": "bondage"
+        },
+        {
+          "strongs": "G2999",
+          "sense": "Worship-service — the noun of λατρεύω: the ordered service offered to God.",
+          "anchor": "Hebrews 9:1",
+          "en": "divine service"
         }
       ]
     },
@@ -693,6 +759,18 @@
           "sense": "A sin of ignorance — wrongdoing committed without full knowledge; the ‘errors’ the high priest atoned for on the Day of Atonement.",
           "anchor": "Hebrews 9:7",
           "en": "errors"
+        },
+        {
+          "strongs": "G264",
+          "sense": "To sin — the verb of ἁμαρτία: to miss the mark, and to keep on missing it.",
+          "anchor": "Hebrews 3:17",
+          "en": "sinned"
+        },
+        {
+          "strongs": "G459",
+          "sense": "Lawless — without law, living as if God’s law did not exist; the adjective of ἀνομία.",
+          "anchor": "1 Timothy 1:9",
+          "en": "lawless"
         }
       ]
     },
@@ -1424,6 +1502,12 @@
           "sense": "To show oneself, appear openly before someone — Christ now appearing in God’s presence on our behalf (Hebrews 9:24).",
           "anchor": "Hebrews 9:24",
           "en": "appear"
+        },
+        {
+          "strongs": "G5324",
+          "sense": "To make visible, display — from φαίνω: the terrifying ‘appearance’ at Sinai (Hebrews 12:21).",
+          "anchor": "Hebrews 12:21",
+          "en": "appearance"
         }
       ]
     },
