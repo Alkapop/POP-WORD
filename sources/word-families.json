@@ -247,7 +247,9 @@
         "lovers",
         "beloved",
         "friend",
-        "friendship"
+        "friendship",
+        "loving as brothers",
+        "courteous"
       ],
       "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected. Titus adds the bright side of the φιλ- compounds: lover of good, of guests, of husband and children — and God’s own φιλανθρωπία, His love toward mankind.",
       "members": [
@@ -370,6 +372,18 @@
           "sense": "Friendship — warm personal affection and loyalty.",
           "anchor": "James 4:4",
           "en": "friendship"
+        },
+        {
+          "strongs": "G5361",
+          "sense": "Loving as brothers — warm family affection for fellow believers.",
+          "anchor": "1 Peter 3:8",
+          "en": "loving as brothers"
+        },
+        {
+          "strongs": "G5391",
+          "sense": "Friendly-minded, courteous — kindly disposed towards others.",
+          "anchor": "1 Peter 3:8",
+          "en": "courteous"
         }
       ]
     },
@@ -381,7 +395,9 @@
         "mercy",
         "merciful",
         "compassion",
-        "mercies"
+        "mercies",
+        "compassionate",
+        "tender hearted"
       ],
       "intro": "Two Greek families stand behind ‘mercy’ and ‘compassion’. ἔλεος / ἐλεέω is mercy that acts — help given to those in need or misery, pardon to the guilty. οἰκτιρμός / οἰκτίρμων / οἰκτίρω is pity, the tender feeling of compassion. And σπλάγχνα words (σπλαγχνίζομαι, πολύσπλαγχνος) speak of compassion felt in the gut — being moved inside. Romans 9:15 sets ἐλεέω and οἰκτίρω side by side, and James 5:11 calls the Lord πολύσπλαγχνος and οἰκτίρμων, ‘full of compassion and mercy’.",
       "members": [
@@ -426,6 +442,18 @@
           "sense": "To be moved with compassion — to feel it in the gut.",
           "anchor": "Matthew 9:36",
           "en": "compassion"
+        },
+        {
+          "strongs": "G4835",
+          "sense": "Sympathetic — feeling with another, suffering alongside.",
+          "anchor": "1 Peter 3:8",
+          "en": "compassionate"
+        },
+        {
+          "strongs": "G2155",
+          "sense": "Tender-hearted — compassionate from deep within.",
+          "anchor": "1 Peter 3:8",
+          "en": "tender hearted"
         }
       ]
     },
@@ -557,7 +585,8 @@
       "english": [
         "life",
         "live",
-        "soul"
+        "soul",
+        "made alive"
       ],
       "intro": "‘Life’ in English Bibles can stand for three Greek words: life itself, the means of living, and the individual soul. John 10:10–11 uses two of them a sentence apart.",
       "members": [
@@ -584,6 +613,12 @@
           "sense": "To live — the verb of ζωή: to be alive, with the life that comes from God.",
           "anchor": "Hebrews 12:9",
           "en": "live"
+        },
+        {
+          "strongs": "G2227",
+          "sense": "To make alive, to give life.",
+          "anchor": "1 Peter 3:18",
+          "en": "made alive"
         }
       ]
     },
@@ -1144,7 +1179,9 @@
         "malice",
         "wicked",
         "wrong",
-        "evildoers"
+        "evildoers",
+        "harm",
+        "doing evil"
       ],
       "intro": "English ‘evil’ hides several Greek words. κακός describes what is bad in itself — worthless, harmful in nature. πονηρός describes evil that is active and aggressive, actively doing harm; it is used of ‘the evil one’. 1 Thessalonians 5 uses both: do not repay κακός for κακός (5:15), and abstain from every form of πονηρός (5:22). φαῦλος adds a third shade: the worthless, paltry deed.",
       "members": [
@@ -1183,6 +1220,18 @@
           "sense": "An evildoer — one who does what is bad.",
           "anchor": "1 Peter 2:12",
           "en": "evildoers"
+        },
+        {
+          "strongs": "G2559",
+          "sense": "To harm, to do evil to — to injure someone.",
+          "anchor": "1 Peter 3:13",
+          "en": "harm"
+        },
+        {
+          "strongs": "G2554",
+          "sense": "To do evil, to do wrong.",
+          "anchor": "1 Peter 3:17",
+          "en": "doing evil"
         }
       ]
     },
