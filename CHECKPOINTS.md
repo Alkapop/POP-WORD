@@ -237,7 +237,7 @@ words for ‘power’). Tapping a word now shows exactly which one it is and how
 
 | Doc | Size | Verses | G1 Build | G2 Deep | Notes |
 |-----|------|--------|----------|---------|-------|
-| Master Introduction | 13KB | — | ✅ | ✅ (22 quotes) | Bridge from 2 Thessalonians (matches its Road Ahead) |
+| Master Introduction | 11KB | — | ✅ | ✅ (22 quotes) | Bridge from 2 Thessalonians (matches its Road Ahead) |
 | Chapter 1 | 42KB | 20/20 | ✅ | ✅ | New **godliness** family; ἐνδυναμόω (power), ἑτεροδιδασκαλέω (another); 1:10 ἀρσενοκοίτης stated plainly, with 1:15 |
 | Chapter 2 | 36KB | 15/15 | ✅ | ✅ | 2:1 four prayer words (pray family +3); 2:11–15 strongest reading + one honest sentence; 2:15 readings set out. **Verifier fix:** WEB text with parentheses (2:10) no longer flagged; negative test still catches a bracketed misquote |
 | Chapter 3 | 37KB | 16/16 | ✅ | ✅ | ‘one-woman man’; 3:11 wives / women deacons; 3:16 θεός / ὅς variant; διάβολος = devil & slanderers |
