@@ -1793,6 +1793,36 @@
       ]
     },
     {
+      "id": "lamb",
+      "name": "Lamb",
+      "lang": "Greek",
+      "english": [
+        "lamb",
+        "lambs"
+      ],
+      "intro": "English ‘lamb’ hides three Greek words. ἀμνός is the sacrificial lamb of the Old Testament offerings — John the Baptist’s ‘Lamb of God, who takes away the sin of the world’ (John 1:29) and Peter’s ‘lamb without blemish or spot’ (1 Peter 1:19); ἀρήν is a young sheep, used by Jesus for His vulnerable disciples sent out ‘as lambs among wolves’ (Luke 10:3); ἀρνίον, in form a ‘little lamb’, is Revelation’s name for Christ — twenty-eight times, from the Lamb ‘standing, as though it had been slain’ (5:6) to the throne of God and of the Lamb (22:3). The slain Lamb is the conquering Lord.",
+      "members": [
+        {
+          "strongs": "G721",
+          "sense": "A lamb — Revelation’s title for Christ, the slain and risen Lamb on the throne.",
+          "anchor": "Revelation 5:6",
+          "en": "Lamb"
+        },
+        {
+          "strongs": "G286",
+          "sense": "A lamb, especially the sacrificial lamb.",
+          "anchor": "John 1:29",
+          "en": "Lamb"
+        },
+        {
+          "strongs": "G704",
+          "sense": "A lamb, a young sheep — vulnerable among wolves.",
+          "anchor": "Luke 10:3",
+          "en": "lambs"
+        }
+      ]
+    },
+    {
       "id": "godliness",
       "name": "Godliness & Ungodliness",
       "lang": "Greek",
