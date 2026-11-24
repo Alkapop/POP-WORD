@@ -26,7 +26,7 @@ pray, good,
 see, appear / reveal, rise, sleep, sober / self-control, image / form, pattern / shadow, rest,
 perfect / complete, hold fast, offering, author, discipline,
 test / temptation, endurance / patience, gift, wisdom, humble / meek, resist, sick / heal, mercy / compassion,
-born / birth, redeem / ransom, suffer,
+born / birth, redeem / ransom, suffer, darkness, children,
 and Hebrew names of God, sin, love, strength, time. The list is `sources/word-families.json`.
 - Tag the word with its Strong's id and the exact English it renders (`english`).
 - The verse's understanding note names which word it is and how it differs from its siblings.

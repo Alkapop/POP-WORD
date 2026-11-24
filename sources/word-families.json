@@ -495,6 +495,12 @@
           "sense": "Tender-hearted — compassionate from deep within.",
           "anchor": "1 Peter 3:8",
           "en": "tender hearted"
+        },
+        {
+          "strongs": "G4698",
+          "sense": "The inward parts — the heart as the seat of compassion.",
+          "anchor": "1 John 3:17",
+          "en": "compassion"
         }
       ]
     },
@@ -718,6 +724,36 @@
           "sense": "Newly born — a baby just born.",
           "anchor": "1 Peter 2:2",
           "en": "newborn"
+        }
+      ]
+    },
+    {
+      "id": "children",
+      "name": "Children & Little Children",
+      "lang": "Greek",
+      "english": [
+        "little children",
+        "children"
+      ],
+      "intro": "English ‘children’ and ‘little children’ hide three Greek words. τέκνον is a child as one born of a parent — family by birth (1 John 3:1, ‘children of God’). τεκνίον, its diminutive, is ‘little child’, a word of tender affection John uses for his readers (1 John 2:1, 12). παιδίον is a young child, a little one under training (1 John 2:13, 18). John moves between τεκνία and παιδία in 2:12–13 when he addresses the whole church.",
+      "members": [
+        {
+          "strongs": "G5043",
+          "sense": "A child — one born of a parent, family by birth.",
+          "anchor": "1 John 3:1",
+          "en": "children"
+        },
+        {
+          "strongs": "G5040",
+          "sense": "Little child — a term of tender affection.",
+          "anchor": "1 John 2:1",
+          "en": "little children"
+        },
+        {
+          "strongs": "G3813",
+          "sense": "A young child, a little one — a child still being trained.",
+          "anchor": "1 John 2:13",
+          "en": "little children"
         }
       ]
     },
@@ -1304,6 +1340,41 @@
       ]
     },
     {
+      "id": "darkness",
+      "name": "Darkness",
+      "lang": "Greek",
+      "english": [
+        "darkness"
+      ],
+      "intro": "English ‘darkness’ hides several Greek words. σκοτία (John’s favourite) is the state of darkness, the absence of light, often moral and spiritual; σκότος is darkness as a realm or condition, the opposite of φῶς; ζόφος is the thick, murky gloom of the underworld (2 Peter 2:4); σκοτεινός is the adjective, ‘dark, full of darkness’. 1 John 1:5–6 uses σκοτία and σκότος in consecutive verses: in God there is no σκοτία at all, so those who walk in σκότος cannot have fellowship with Him.",
+      "members": [
+        {
+          "strongs": "G4653",
+          "sense": "Darkness as a state — the absence of light, often spiritual blindness.",
+          "anchor": "1 John 1:5",
+          "en": "darkness"
+        },
+        {
+          "strongs": "G4655",
+          "sense": "Darkness as a realm or condition — the opposite of light.",
+          "anchor": "1 John 1:6",
+          "en": "darkness"
+        },
+        {
+          "strongs": "G2217",
+          "sense": "Gloom, murk — the thick darkness of the underworld.",
+          "anchor": "2 Peter 2:4",
+          "en": "darkness"
+        },
+        {
+          "strongs": "G4652",
+          "sense": "Dark, full of darkness.",
+          "anchor": "Matthew 6:23",
+          "en": "darkness"
+        }
+      ]
+    },
+    {
       "id": "image",
       "name": "Image, Form & Likeness",
       "lang": "Greek",
@@ -1481,7 +1552,8 @@
         "offering",
         "gifts",
         "burnt offerings",
-        "offer"
+        "offer",
+        "atoning sacrifice"
       ],
       "intro": "Hebrews uses a whole vocabulary of worship. θυσία is a sacrifice, usually an animal slain; προσφορά is an offering, the act of bringing something to God; ὁλοκαύτωμα is a whole burnt offering, entirely consumed; δῶρον is a gift. The verb προσφέρω, to bring near, to offer, is the priest’s work. Hebrews 10:5–8 gathers four of these words to show that all of them are fulfilled and ended in Christ’s one offering of His body.",
       "members": [
@@ -1520,6 +1592,12 @@
           "sense": "To carry up, to offer up on the altar — used of Christ who ‘offered up himself’ once for all (Hebrews 7:27).",
           "anchor": "Hebrews 7:27",
           "en": "offer up"
+        },
+        {
+          "strongs": "G2434",
+          "sense": "Atoning sacrifice — the offering that turns away wrath and covers sin.",
+          "anchor": "1 John 2:2",
+          "en": "atoning sacrifice"
         }
       ]
     },
@@ -2053,7 +2131,8 @@
         "petition",
         "intercession",
         "intercessions",
-        "thanksgiving"
+        "thanksgiving",
+        "petitions"
       ],
       "intro": "Several Greek words lie behind ‘pray’ and ‘ask’. In John 14:16 the WEB's ‘I will pray to the Father’ is ἐρωτάω — to ask, as one who speaks to the Father as an equal.",
       "members": [
@@ -2128,6 +2207,12 @@
           "sense": "To pray, to wish — to make a request of God.",
           "anchor": "James 5:16",
           "en": "pray"
+        },
+        {
+          "strongs": "G155",
+          "sense": "A petition, a request — the thing asked for.",
+          "anchor": "1 John 5:15",
+          "en": "petitions"
         }
       ]
     },
@@ -2406,6 +2491,12 @@
           "sense": "Revelation, unveiling — the moment something hidden is uncovered.",
           "anchor": "1 Peter 1:7",
           "en": "revelation"
+        },
+        {
+          "strongs": "G5318",
+          "sense": "Visible, evident, plain — out in the open.",
+          "anchor": "1 John 3:10",
+          "en": "revealed"
         }
       ]
     },
