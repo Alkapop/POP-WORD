@@ -633,6 +633,36 @@
       ]
     },
     {
+      "id": "book",
+      "name": "Book & Scroll",
+      "lang": "Greek",
+      "english": [
+        "book",
+        "scroll"
+      ],
+      "intro": "English ‘book’ hides three related Greek words. βίβλος is a written volume, a record — ‘the book of life’ (Revelation 3:5) or ‘the book of the genealogy’ (Matthew 1:1); βιβλίον, its diminutive in form but normal in use, is a scroll or written document — the sealed scroll in the hand of God (Revelation 5:1); βιβλαρίδιον is a truly little scroll, the one John is told to eat (Revelation 10:2, 9–10). In the ancient world ‘books’ were rolls of papyrus or parchment, not bound pages.",
+      "members": [
+        {
+          "strongs": "G976",
+          "sense": "A book, a written volume or record — especially the book of life.",
+          "anchor": "Revelation 3:5",
+          "en": "book"
+        },
+        {
+          "strongs": "G975",
+          "sense": "A scroll, a written document; in Revelation the sealed scroll of God’s purposes.",
+          "anchor": "Revelation 1:11",
+          "en": "book"
+        },
+        {
+          "strongs": "G974",
+          "sense": "A little scroll.",
+          "anchor": "Revelation 10:2",
+          "en": "book"
+        }
+      ]
+    },
+    {
       "id": "witness",
       "name": "Witness & Testimony",
       "lang": "Greek",
