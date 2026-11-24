@@ -1,0 +1,1034 @@
+{
+  "type": "chapterStudy",
+  "book": "1 John",
+  "chapter": 4,
+  "chapterTitle": "Testing the Spirits, and God Who Is Love",
+  "themeTitle": "“God Is Love”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world.",
+      "understanding": "ἀγαπητοί, “Beloved” — from the love family. μὴ παντὶ πνεύματι πιστεύετε, “don’t believe every spirit” — πνεῦμα, here a spirit speaking through a prophet or teacher. ἀλλὰ δοκιμάζετε τὰ πνεύματα εἰ ἐκ τοῦ θεοῦ ἐστιν, “but test the spirits, whether they are of God” — δοκιμάζω, from the test family: to assay like metal, to prove genuine or false. ὅτι πολλοὶ ψευδοπροφῆται ἐξεληλύθασιν εἰς τὸν κόσμον, “because many false prophets have gone out into the world” — ψευδοπροφήτης, the false prophets Peter also warned of in his last letter; κόσμος, from the world family.",
+      "words": [
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "Beloved"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believe"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G1381",
+          "hebrew": "δοκιμάζω",
+          "translit": "dokimázō",
+          "english": "test"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5578",
+          "hebrew": "ψευδοπροφήτης",
+          "translit": "pseudoprophḗtēs",
+          "english": "false prophets"
+        },
+        {
+          "strongs": "G1831",
+          "hebrew": "ἐξέρχομαι",
+          "translit": "exérchomai",
+          "english": "gone out"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God,",
+      "understanding": "ἐν τούτῳ γινώσκετε τὸ πνεῦμα τοῦ θεοῦ, “By this you know the Spirit of God” — γινώσκω, from the know family. πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν, “every spirit who confesses that Jesus Christ has come in the flesh is of God” — ὁμολογέω, to confess, to say the same as God; σάρξ, real human flesh; ἐληλυθότα, perfect tense: came and remains in that incarnate state. The test is Christ's person.",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3670",
+          "hebrew": "ὁμολογέω",
+          "translit": "homologéō",
+          "english": "confesses"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "come"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God, and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already.",
+      "understanding": "καὶ πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν, “and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God” — the WEB follows manuscripts that repeat the full confession. καὶ τοῦτό ἐστιν τὸ τοῦ ἀντιχρίστου, “and this is the spirit of the Antichrist” — ἀντίχριστος, as in 2:18, 22. “of whom you have heard that it comes. Now it is in the world already.” — κόσμος, from the world family.",
+      "words": [
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G3670",
+          "hebrew": "ὁμολογέω",
+          "translit": "homologéō",
+          "english": "confess"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G500",
+          "hebrew": "ἀντίχριστος",
+          "translit": "antíchristos",
+          "english": "Antichrist"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world.",
+      "understanding": "ὑμεῖς ἐκ τοῦ θεοῦ ἐστε, τεκνία, “You are of God, little children” — τεκνίον, from the children family. καὶ νενικήκατε αὐτούς, “and have overcome them” — νικάω, perfect tense: the victory is won and stands. ὅτι μείζων ἐστὶν ὁ ἐν ὑμῖν ἢ ὁ ἐν τῷ κόσμῳ, “because greater is he who is in you than he who is in the world” — the Spirit of God in believers is greater than the spirit of antichrist; κόσμος, from the world family.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5040",
+          "hebrew": "τεκνίον",
+          "translit": "tekníon",
+          "english": "little children"
+        },
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcome"
+        },
+        {
+          "strongs": "G3187",
+          "hebrew": "μείζων",
+          "translit": "meízōn",
+          "english": "greater"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "They are of the world. Therefore they speak of the world, and the world hears them.",
+      "understanding": "αὐτοὶ ἐκ τοῦ κόσμου εἰσίν, “They are of the world” — κόσμος, from the world family, three times. διὰ τοῦτο ἐκ τοῦ κόσμου λαλοῦσιν, “Therefore they speak of the world” — their message comes from the world's way of thinking. καὶ ὁ κόσμος αὐτῶν ἀκούει, “and the world hears them” — popularity is not proof of truth.",
+      "words": [
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "speak"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hears"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "We are of God. He who knows God listens to us. He who is not of God doesn’t listen to us. By this we know the spirit of truth, and the spirit of error.",
+      "understanding": "ἡμεῖς ἐκ τοῦ θεοῦ ἐσμεν, “We are of God” — ‘we’ here are the apostles. ὁ γινώσκων τὸν θεὸν ἀκούει ἡμῶν, “He who knows God listens to us” — γινώσκω, from the know family. The apostolic teaching is the standard. ἐκ τούτου γινώσκομεν τὸ πνεῦμα τῆς ἀληθείας καὶ τὸ πνεῦμα τῆς πλάνης, “By this we know the spirit of truth, and the spirit of error” — πλάνη, deception, the ‘error’ of 2 Peter 3:17.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "knows"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "listens"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G225",
+          "hebrew": "ἀλήθεια",
+          "translit": "alḗtheia",
+          "english": "truth"
+        },
+        {
+          "strongs": "G4106",
+          "hebrew": "πλάνη",
+          "translit": "plánē",
+          "english": "error"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Beloved, let us love one another, for love is of God; and everyone who loves has been born of God, and knows God.",
+      "understanding": "ἀγαπητοί, ἀγαπῶμεν ἀλλήλους, “Beloved, let us love one another” — ἀγαπητός and ἀγαπάω, both from the love family: the beloved must love. ὅτι ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν, “for love is of God” — ἀγάπη, from the love family: love has its source in God. καὶ πᾶς ὁ ἀγαπῶν ἐκ τοῦ θεοῦ γεγέννηται καὶ γινώσκει τὸν θεόν, “and everyone who loves has been born of God, and knows God” — γεννάω, from the birth family; γινώσκω, from the know family. Love is the family likeness of the newborn.",
+      "words": [
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "Beloved"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "love"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1080",
+          "hebrew": "γεννάω",
+          "translit": "gennáō",
+          "english": "born"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "knows"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "He who doesn’t love doesn’t know God, for God is love.",
+      "understanding": "ὁ μὴ ἀγαπῶν οὐκ ἔγνω τὸν θεόν, “He who doesn’t love doesn’t know God” — ἀγαπάω, from the love family; γινώσκω, from the know family. ὅτι ὁ θεὸς ἀγάπη ἐστίν, “for God is love” — ἀγάπη, from the love family. Not ‘love is God’, as if every feeling of love were divine, but ‘God is love’: His whole being is self-giving love, defined by the cross (v. 10). The same Greek construction as ‘God is light’ (1:5) and ‘God is Spirit’ (John 4:24).",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "love"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him.",
+      "understanding": "ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν, “By this God’s love was revealed in us” — φανερόω, from the appear family: made visible; ἀγάπη, from the love family. ὅτι τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον, “that God has sent his one and only Son into the world” — μονογενής, unique, one of a kind; ἀποστέλλω, to send on a mission; κόσμος, from the world family. ἵνα ζήσωμεν δι᾽ αὐτοῦ, “that we might live through him” — ζάω, from the life family. The letter's own version of John 3:16.",
+      "words": [
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G3439",
+          "hebrew": "μονογενής",
+          "translit": "monogenḗs",
+          "english": "one and only"
+        },
+        {
+          "strongs": "G649",
+          "hebrew": "ἀποστέλλω",
+          "translit": "apostéllō",
+          "english": "sent"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "live"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.",
+      "understanding": "ἐν τούτῳ ἐστὶν ἡ ἀγάπη, “In this is love” — ἀγάπη, from the love family: here is its definition. οὐχ ὅτι ἡμεῖς ἠγαπήκαμεν τὸν θεόν, ἀλλ᾽ ὅτι αὐτὸς ἠγάπησεν ἡμᾶς, “not that we loved God, but that he loved us” — ἀγαπάω, also from the love family: love begins with God, not us. καὶ ἀπέστειλεν τὸν υἱὸν αὐτοῦ ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν, “and sent his Son as the atoning sacrifice for our sins” — ἱλασμός, from the offering family, as in 2:2; ἁμαρτία, from the sin family. God's love is not sentimental; it is holy love that pays for sin.",
+      "words": [
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G649",
+          "hebrew": "ἀποστέλλω",
+          "translit": "apostéllō",
+          "english": "sent"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G2434",
+          "hebrew": "ἱλασμός",
+          "translit": "hilasmós",
+          "english": "atoning sacrifice"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "Beloved, if God loved us in this way, we also ought to love one another.",
+      "understanding": "ἀγαπητοί, εἰ οὕτως ὁ θεὸς ἠγάπησεν ἡμᾶς, “Beloved, if God loved us in this way” — ἀγαπητός and ἀγαπάω, from the love family; οὕτως, ‘so’, ‘in this way’ — the way of the cross. καὶ ἡμεῖς ὀφείλομεν ἀλλήλους ἀγαπᾶν, “we also ought to love one another” — ὀφείλω, to owe: we owe others the love God has given us.",
+      "words": [
+        {
+          "strongs": "G27",
+          "hebrew": "ἀγαπητός",
+          "translit": "agapētós",
+          "english": "Beloved"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loved"
+        },
+        {
+          "strongs": "G3784",
+          "hebrew": "ὀφείλω",
+          "translit": "opheílō",
+          "english": "ought"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.",
+      "understanding": "θεὸν οὐδεὶς πώποτε τεθέαται, “No one has seen God at any time” — θεάομαι, from the see family: to gaze upon, as in 1:1; the words of John 1:18. ἐὰν ἀγαπῶμεν ἀλλήλους, ὁ θεὸς ἐν ἡμῖν μένει, “If we love one another, God remains in us” — ἀγαπάω, from the love family; μένω. The invisible God becomes visible in His people's love. καὶ ἡ ἀγάπη αὐτοῦ τετελειωμένη ἐν ἡμῖν ἐστιν, “and his love has been perfected in us” — τελειόω, from the perfect family: brought to its goal.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2300",
+          "hebrew": "θεάομαι",
+          "translit": "theáomai",
+          "english": "seen"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "love"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remains"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G5048",
+          "hebrew": "τελειόω",
+          "translit": "teleióō",
+          "english": "perfected"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "By this we know that we remain in him and he in us, because he has given us of his Spirit.",
+      "understanding": "ἐν τούτῳ γινώσκομεν ὅτι ἐν αὐτῷ μένομεν καὶ αὐτὸς ἐν ἡμῖν, “By this we know that we remain in him and he in us” — γινώσκω, from the know family; μένω. ὅτι ἐκ τοῦ πνεύματος αὐτοῦ δέδωκεν ἡμῖν, “because he has given us of his Spirit” — the Spirit is the inner evidence of union with God, as in 3:24.",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remain"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "given"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "We have seen and testify that the Father has sent the Son as the Savior of the world.",
+      "understanding": "καὶ ἡμεῖς τεθεάμεθα καὶ μαρτυροῦμεν, “We have seen and testify” — θεάομαι again, from the see family: no one has seen God (v. 12), but the apostles gazed upon the Son. μαρτυρέω, to bear witness. ὅτι ὁ πατὴρ ἀπέσταλκεν τὸν υἱὸν σωτῆρα τοῦ κόσμου, “that the Father has sent the Son as the Savior of the world” — σωτήρ; κόσμος, from the world family: the Samaritans' confession (John 4:42).",
+      "words": [
+        {
+          "strongs": "G2300",
+          "hebrew": "θεάομαι",
+          "translit": "theáomai",
+          "english": "seen"
+        },
+        {
+          "strongs": "G3140",
+          "hebrew": "μαρτυρέω",
+          "translit": "martyréō",
+          "english": "testify"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        },
+        {
+          "strongs": "G649",
+          "hebrew": "ἀποστέλλω",
+          "translit": "apostéllō",
+          "english": "sent"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G4990",
+          "hebrew": "σωτήρ",
+          "translit": "sōtḗr",
+          "english": "Savior"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Whoever confesses that Jesus is the Son of God, God remains in him, and he in God.",
+      "understanding": "ὃς ἐὰν ὁμολογήσῃ ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ, “Whoever confesses that Jesus is the Son of God” — ὁμολογέω, to confess: the test of truth (v. 2). ὁ θεὸς ἐν αὐτῷ μένει καὶ αὐτὸς ἐν τῷ θεῷ, “God remains in him, and he in God” — μένω both ways.",
+      "words": [
+        {
+          "strongs": "G3670",
+          "hebrew": "ὁμολογέω",
+          "translit": "homologéō",
+          "english": "confesses"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remains"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.",
+      "understanding": "καὶ ἡμεῖς ἐγνώκαμεν καὶ πεπιστεύκαμεν τὴν ἀγάπην ἣν ἔχει ὁ θεὸς ἐν ἡμῖν, “We know and have believed the love which God has for us” — γινώσκω, from the know family, and πιστεύω: knowing and believing together; ἀγάπη, from the love family. ὁ θεὸς ἀγάπη ἐστίν, “God is love” — the second time (v. 8). καὶ ὁ μένων ἐν τῇ ἀγάπῃ ἐν τῷ θεῷ μένει καὶ ὁ θεὸς ἐν αὐτῷ μένει, “and he who remains in love remains in God, and God remains in him” — μένω three times. To live in love is to live in God's home.",
+      "words": [
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G4100",
+          "hebrew": "πιστεύω",
+          "translit": "pisteúō",
+          "english": "believed"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3306",
+          "hebrew": "μένω",
+          "translit": "ménō",
+          "english": "remains"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "In this love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so are we in this world.",
+      "understanding": "ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ᾽ ἡμῶν, “In this love has been made perfect among us” — τελειόω, from the perfect family; ἀγάπη, from the love family. ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως, “that we may have boldness in the day of judgment” — παρρησία, the confidence of 2:28; ἡμέρα, from the time family. ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ, “because as he is, even so are we in this world” — κόσμος, from the world family: as the Son is loved by the Father, so are we; as He loves, so we love.",
+      "words": [
+        {
+          "strongs": "G5048",
+          "hebrew": "τελειόω",
+          "translit": "teleióō",
+          "english": "made perfect"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G3954",
+          "hebrew": "παῤῥησία",
+          "translit": "parrhēsía",
+          "english": "boldness"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G2920",
+          "hebrew": "κρίσις",
+          "translit": "krísis",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love.",
+      "understanding": "φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, “There is no fear in love” — φόβος, terror, the dread of punishment, not the reverent fear of God (1 Peter 1:17); ἀγάπη, from the love family. ἀλλ᾽ ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον, “but perfect love casts out fear” — τέλειος, from the perfect family: mature, complete; βάλλω ἔξω, to throw out, as one throws out an intruder. ὅτι ὁ φόβος κόλασιν ἔχει, “because fear has punishment” — κόλασις, punishment, the word Jesus used of final judgement (Matthew 25:46). ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ, “He who fears is not made perfect in love” — τελειόω, also from the perfect family: the adjective and the verb side by side.",
+      "words": [
+        {
+          "strongs": "G5401",
+          "hebrew": "φόβος",
+          "translit": "phóbos",
+          "english": "fear"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G5046",
+          "hebrew": "τέλειος",
+          "translit": "téleios",
+          "english": "perfect"
+        },
+        {
+          "strongs": "G906",
+          "hebrew": "βάλλω",
+          "translit": "bállō",
+          "english": "casts out"
+        },
+        {
+          "strongs": "G2851",
+          "hebrew": "κόλασις",
+          "translit": "kólasis",
+          "english": "punishment"
+        },
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "fears"
+        },
+        {
+          "strongs": "G5048",
+          "hebrew": "τελειόω",
+          "translit": "teleióō",
+          "english": "made perfect"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "We love him, because he first loved us.",
+      "understanding": "ἡμεῖς ἀγαπῶμεν, ὅτι αὐτὸς πρῶτος ἠγάπησεν ἡμᾶς, “We love him, because he first loved us” — ἀγαπάω, from the love family, twice. ‘Him’ is not in the earliest manuscripts, which read simply ‘We love, because he first loved us’: all our love — for God and for others — is a response to His. πρῶτος, first: God always takes the initiative.",
+      "words": [
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "love"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "If a man says, “I love God,” and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?",
+      "understanding": "ἐάν τις εἴπῃ ὅτι Ἀγαπῶ τὸν θεόν, καὶ τὸν ἀδελφὸν αὐτοῦ μισῇ, ψεύστης ἐστίν, “If a man says, ‘I love God,’ and hates his brother, he is a liar” — ἀγαπάω, from the love family; μισέω, to hate. ὁ γὰρ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ὃν ἑώρακεν, τὸν θεὸν ὃν οὐχ ἑώρακεν οὐ δύναται ἀγαπᾶν, “for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?” — ὁράω, from the see family, twice: the visible brother is the test of love for the invisible God.",
+      "words": [
+        {
+          "strongs": "G2036",
+          "hebrew": "ἔπω",
+          "translit": "épō",
+          "english": "says"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "love"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3404",
+          "hebrew": "μισέω",
+          "translit": "miséō",
+          "english": "hates"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G5583",
+          "hebrew": "ψεύστης",
+          "translit": "pseústēs",
+          "english": "liar"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "seen"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "This commandment we have from him, that he who loves God should also love his brother.",
+      "understanding": "καὶ ταύτην τὴν ἐντολὴν ἔχομεν ἀπ᾽ αὐτοῦ, “This commandment we have from him” — ἐντολή, the commandment. ἵνα ὁ ἀγαπῶν τὸν θεὸν ἀγαπᾷ καὶ τὸν ἀδελφὸν αὐτοῦ, “that he who loves God should also love his brother” — ἀγαπάω, from the love family: the two great commandments cannot be separated (Matthew 22:37–39).",
+      "words": [
+        {
+          "strongs": "G1785",
+          "hebrew": "ἐντολή",
+          "translit": "entolḗ",
+          "english": "commandment"
+        },
+        {
+          "strongs": "G25",
+          "hebrew": "ἀγαπάω",
+          "translit": "agapáō",
+          "english": "loves"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Assayer's Test",
+      "verseRef": "v. 1-3",
+      "image": "Picture a goldsmith receiving coins from many travellers. Some are real gold; some are lead painted gold. He does not judge by shine or by the confidence of the man handing them over. He scratches each coin on his touchstone and sees what lies beneath.",
+      "meaning": "“Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world” (v. 1). The touchstone is Christ: “every spirit who confesses that Jesus Christ has come in the flesh is of God” (v. 2). Do not judge teachers by their eloquence, popularity or confidence. Scratch them on the truth about Jesus."
+    },
+    {
+      "title": "The Love That Came Down",
+      "verseRef": "v. 9-10",
+      "image": "Picture a father whose only son volunteers to go into a burning building to rescue strangers who have wronged them both. The father watches him go, knowing what it will cost. The strangers are carried out alive. The son does not come back.",
+      "meaning": "“By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him” (v. 9). “In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins” (v. 10). Love is not defined by our feelings for God, but by His gift of His Son for us."
+    },
+    {
+      "title": "The Invisible God Made Visible",
+      "verseRef": "v. 12",
+      "image": "Picture the wind. You cannot see it, but you see the trees bend, the grass ripple, the sails fill. Now picture a church where people forgive one another, care for the sick, welcome strangers and give to the poor — and an unbeliever watching says, ‘There is Someone here.’",
+      "meaning": "“No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us” (v. 12). The world cannot see God directly, but it can see His love in His people. Your love for others is how the invisible God becomes visible in your street."
+    },
+    {
+      "title": "Fear Thrown Out",
+      "verseRef": "v. 17-18",
+      "image": "Picture a child who has broken something precious, hiding in a cupboard, terrified of punishment. Then picture the same child running into the arms of a parent who has already forgiven everything, burying her face in their chest, no longer afraid.",
+      "meaning": "“There is no fear in love; but perfect love casts out fear, because fear has punishment” (v. 18). God's perfected love does not leave His children cowering before judgement; it gives them “boldness in the day of judgment” (v. 17). Not because they are good, but because He is love, and He has dealt with their sin."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Test the Spirits (v. 1-6)",
+        "body": "Do not believe every spirit but test them, for many false prophets have gone out; every spirit that confesses Jesus Christ come in the flesh is from God, and every spirit that does not is the spirit of antichrist; believers have overcome them, because the One in them is greater than the one in the world; the false teachers are from the world and the world listens to them; whoever knows God listens to the apostles."
+      },
+      {
+        "label": "God Is Love (v. 7-12)",
+        "body": "Let us love one another, for love comes from God; whoever loves is born of God and knows Him, whoever does not love does not know God, for God is love; His love was revealed in sending His only Son that we might live, as the atoning sacrifice for our sins; since God so loved us, we ought to love one another; no one has seen God, but if we love one another He remains in us and His love is perfected in us."
+      },
+      {
+        "label": "Remaining in Love (v. 13-16)",
+        "body": "We know we remain in Him because He has given us His Spirit; the apostles have seen and testify that the Father sent the Son as Saviour of the world; whoever confesses Jesus as Son of God remains in God; God is love, and whoever remains in love remains in God."
+      },
+      {
+        "label": "Love Casts Out Fear (v. 17-21)",
+        "body": "Love is perfected among us so that we may have confidence on the day of judgement; there is no fear in love, for perfect love casts out fear; we love because He first loved us; whoever claims to love God but hates his brother is a liar, for whoever does not love the brother he has seen cannot love God whom he has not seen; whoever loves God must also love his brother."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Test the Spirits",
+        "paragraphs": [
+          "The early church valued prophecy — believers speaking under the Spirit's inspiration. But not every voice claiming the Spirit was genuine. “Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world” (v. 1). Paul said the same: “Test all things, and hold firmly that which is good” (1 Thessalonians 5:21). Jesus warned, “Beware of false prophets, who come to you in sheep’s clothing” (Matthew 7:15).",
+          "John gives the test: “every spirit who confesses that Jesus Christ has come in the flesh is of God” (v. 2). The false teachers denied the incarnation — that the eternal Son truly became a man. Any teaching that denies either the full deity or the full humanity of Jesus is not from God. Paul gives a parallel test: “No one can say, ‘Jesus is Lord,’ but by the Holy Spirit” (1 Corinthians 12:3).",
+          "John also gives believers confidence: “You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world” (v. 4). The false teachers had a large audience — “the world hears them” (v. 5) — but popularity is not truth. The test is whether a teaching agrees with the apostles: “He who knows God listens to us” (v. 6). For us, that means agreeing with the apostolic Scriptures."
+        ]
+      },
+      {
+        "heading": "God Is Love — and What That Means",
+        "paragraphs": [
+          "Then John reaches the summit of the letter: “Beloved, let us love one another, for love is of God; and everyone who loves has been born of God, and knows God. He who doesn’t love doesn’t know God, for God is love” (vv. 7–8). This is one of the most quoted sentences in the Bible, and one of the most misused. John does not say ‘love is God’, as if every human feeling of love were divine. He says ‘God is love’ — love is the very nature of God, and all true love comes from Him.",
+          "And John defines that love immediately, so that no one can turn it into mere sentiment: “By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him” (v. 9). “In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins” (v. 10). Love is not first our love for God, but God's love for us — a love that gave its best, at its own cost, for those who did not deserve it. It is holy love: it deals with sin by providing a sacrifice. Jesus said, “For God so loved the world, that he gave his one and only Son” (John 3:16). Paul: “But God commends his own love toward us, in that while we were yet sinners, Christ died for us” (Romans 5:8).",
+          "The application is direct: “Beloved, if God loved us in this way, we also ought to love one another” (v. 11). And the result is remarkable: “No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us” (v. 12). God is invisible, but His love becomes visible when His people love one another. John's Gospel says, “No one has seen God at any time. The one and only Son, who is in the bosom of the Father, he has declared him” (John 1:18). The Son made God visible; now the church is to do the same."
+        ]
+      },
+      {
+        "heading": "Perfect Love Casts Out Fear",
+        "paragraphs": [
+          "The assurance of the believer rests on three witnesses in this chapter: the Spirit God has given (v. 13), the confession that Jesus is the Son of God (v. 15), and the life of love (v. 16). “We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him” (v. 16).",
+          "That assurance reaches all the way to judgement day: “In this love has been made perfect among us, that we may have boldness in the day of judgment” (v. 17). And it drives out terror: “There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love” (v. 18). This is not the reverent awe that believers rightly have towards God, but the dread of a criminal awaiting sentence. Paul says, “For you didn’t receive the spirit of bondage again to fear, but you received the Spirit of adoption, by whom we cry, ‘Abba! Father!’” (Romans 8:15). God's children are not cowering slaves.",
+          "Finally John brings love back to earth one more time: “We love him, because he first loved us” (v. 19). “If a man says, ‘I love God,’ and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?” (v. 20). Love for God is tested by love for the people He made and saved. Jesus joined the two great commandments: “You shall love the Lord your God with all your heart” and “You shall love your neighbor as yourself” (Matthew 22:37–39). They cannot be separated."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Love of God in Christ",
+      "paragraphs": [
+        "Verse 9 is John's letter-form of his most famous Gospel verse: “For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life” (John 3:16), followed by “For God didn’t send his Son into the world to judge the world, but that the world should be saved through him” (John 3:17). The ‘Savior of the world’ of verse 14 is the confession of the Samaritan villagers: “this is indeed the Christ, the Savior of the world” (John 4:42).",
+        "Paul describes how this love reaches us: “God’s love has been poured out into our hearts through the Holy Spirit who was given to us” (Romans 5:5), and prays that believers may “know Christ’s love which surpasses knowledge” (Ephesians 3:19). He makes it personal: “the Son of God, who loved me, and gave himself up for me” (Galatians 2:20). And he describes its shape: “Love is patient and is kind; love doesn’t envy. Love doesn’t brag, is not proud” (1 Corinthians 13:4).",
+        "The casting out of fear (v. 18) is echoed by Paul to Timothy: “For God didn’t give us a spirit of fear, but of power, love, and self-control” (2 Timothy 1:7), and by Hebrews: “Let us therefore draw near with boldness to the throne of grace, that we may receive mercy” (Hebrews 4:16). The prodigal son came home expecting to be a servant; but “while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him” (Luke 15:20). That is perfect love casting out fear."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Test",
+      "hebrew": "δοκιμάζω",
+      "translit": "dokimázō",
+      "strongs": "G1381 (false prophets ψευδοπροφήτης, pseudoprophḗtēs, G5578)",
+      "verses": "v. 1",
+      "insight": "Strong's: “to test (literally or figuratively); by implication, to approve.” δοκιμάζω is from the test family — the assayer's word for proving metal. It is the same word Peter used of faith tested by fire (1 Peter 1:7). John tells believers to assay every spirit — every message claiming divine inspiration. The touchstone is the confession of Jesus Christ come in the flesh. Testing is not cynicism; it is love for the truth and for the church."
+    },
+    {
+      "english": "Love",
+      "hebrew": "ἀγάπη",
+      "translit": "agápē",
+      "strongs": "G26 (love ἀγαπάω, agapáō, G25)",
+      "verses": "v. 7, 8, 9, 10, 12, 16, 17, 18",
+      "insight": "Strong's: “love, i.e. affection or benevolence; specially (plural) a love-feast.” ἀγάπη and ἀγαπάω appear more often in 1 John 4 than in any other chapter of the Bible. In the love family, ἀγάπη is the self-giving love that seeks another's good at its own cost, as distinct from φιλία, warm affection. John defines it not by feeling but by the cross: God sending His Son as an atoning sacrifice (v. 10). ‘God is love’ means that this kind of love is the very nature of God."
+    },
+    {
+      "english": "One and only",
+      "hebrew": "μονογενής",
+      "translit": "monogenḗs",
+      "strongs": "G3439",
+      "verses": "v. 9",
+      "insight": "Strong's: “only-born, i.e. sole.” μονογενής, from μόνος (only) and γένος (kind), means unique, one of a kind. It is used of an only child (Luke 7:12) and of Isaac as Abraham's unique son of promise (Hebrews 11:17). John uses it of Jesus five times. It stresses not His origin in time but His unique relationship with the Father: there is no other Son like Him. That is what makes God's love so great: He gave the one and only."
+    },
+    {
+      "english": "Seen / beheld",
+      "hebrew": "θεάομαι",
+      "translit": "theáomai",
+      "strongs": "G2300 (seen ὁράω, horáō, G3708)",
+      "verses": "v. 12, 14, 20",
+      "insight": "Strong's: “to look closely at, i.e. (by implication) perceive (literally or figuratively); by extension to visit.” θεάομαι, from the see family, is a long, attentive gaze. ‘No one has θεάομαι God’ (v. 12) — but ‘we have θεάομαι’ the Son sent as Saviour (v. 14). In verse 20 John switches to ὁράω, the ordinary word for seeing: the brother you have seen. The invisible God has been seen in the Son, and is seen today in the love of His people."
+    },
+    {
+      "english": "Fear",
+      "hebrew": "φόβος",
+      "translit": "phóbos",
+      "strongs": "G5401 (perfect τέλειος, téleios, G5046; punishment κόλασις, kólasis, G2851)",
+      "verses": "v. 18",
+      "insight": "Strong's: “alarm or fright.” φόβος can mean reverent awe (1 Peter 1:17) or terror. Here it is the terror of punishment — κόλασις, the word Jesus used of final judgement. John says τελεία ἀγάπη, ‘perfect love’ — from the perfect family, love brought to its goal — throws this fear out. A child who knows the Father's love may still tremble with reverence, but no longer cowers in dread."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit wants to protect you from deception and immerse you in the love of the God who is love.",
+    "items": [
+      {
+        "title": "Test What You Hear",
+        "body": "You hear many voices claiming to speak for God — preachers, prophets, books, videos, friends. The Spirit asks you not to believe every spirit but to test them (v. 1). The first test: what do they say about Jesus Christ? Do they confess Him as the eternal Son who truly became man? Ask Him to sharpen your discernment."
+      },
+      {
+        "title": "Receive His Love First",
+        "body": "“In this is love, not that we loved God, but that he loved us” (v. 10). Many believers try hard to love God and others while running on empty. The Spirit invites you to stop and receive. Before you try to love anyone today, sit with the cross and let His love fill you. “We love him, because he first loved us” (v. 19)."
+      },
+      {
+        "title": "What Are You Afraid Of?",
+        "body": "Do you live with a background fear of God's judgement, rejection or punishment? “There is no fear in love; but perfect love casts out fear” (v. 18). The Spirit wants to throw out that fear and replace it with the confidence of a loved child. Name your fear before Him, and hear Him say, ‘I have loved you. I sent My Son for you.’"
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Discernment Check",
+        "body": "Do you test the teaching you hear by what it says about Jesus and by Scripture (vv. 1–6)? Or do you accept whatever sounds spiritual or popular?"
+      },
+      {
+        "title": "The Source Check",
+        "body": "Is your love for others flowing from God's love for you (vv. 10–11, 19), or from duty, guilt or a need to be liked?"
+      },
+      {
+        "title": "The Visible Brother Check",
+        "body": "Is there a brother or sister you can see whom you are not loving (v. 20)? How does that affect your claim to love God?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "A Week in 1 John 4:7–21",
+        "body": "Each morning this week read verses 7–21 slowly. Underline every time the words love, God and remain appear. Then choose one sentence to carry through the day, and pray it over the people you meet. In the evening, thank God specifically for one way His love reached you that day."
+      },
+      {
+        "title": "Make God Visible",
+        "body": "This week, plan one act of love for a fellow believer that no one will see except them and God (v. 12). Then plan one act of love for someone outside the church. Ask God to let His invisible love become visible through you."
+      }
+    ]
+  },
+  "prayerReflection": "“Father, You are love. Thank You that You loved me first, not because I loved You, but because You chose to send Your one and only Son into the world as the atoning sacrifice for my sins, so that I might live through Him. Fill me with that love until it overflows. Give me discernment to test every spirit, and keep me faithful to the confession that Jesus Christ has come in the flesh. Thank You that the One in me is greater than the one in the world. Let me love my brothers and sisters as You have loved me, so that the invisible God is seen in Your people. Perfect Your love in me, and cast out every fear of punishment, so that I may have confidence on the day of judgement — not because of my goodness, but because of Your love. Let me never claim to love You while I refuse to love the brother or sister I can see. I love You, because You first loved me. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Prodigal Son Comes Home",
+      "ref": "Luke 15:11-32",
+      "relatedVerses": "v. 9-10, 18-19",
+      "summary": "A younger son took his inheritance, wasted it in wild living and ended up feeding pigs. He decided to go home and ask to be a hired servant. “But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him” (Luke 15:20). Before the son could finish his speech, the father called for the best robe, a ring and a feast. The son came home afraid; the father's love cast out his fear. That is the love of verses 9–10 and 18–19: the Father loved us first, and runs to meet us."
+    },
+    {
+      "title": "The Samaritans Meet the Saviour of the World",
+      "ref": "John 4:1-42",
+      "relatedVerses": "v. 14",
+      "summary": "Jesus asked a Samaritan woman at a well for a drink — a Jew speaking to a Samaritan, a man to a woman with a broken past. He offered her living water and revealed that He was the Messiah. She ran to tell her town, and many came to Him. After He stayed with them two days, they said, “Now we believe, not because of your speaking; for we have heard for ourselves, and know that this is indeed the Christ, the Savior of the world” (John 4:42). John, who was there, writes that the apostles have seen and testify that the Father sent the Son as the Saviour of the world."
+    },
+    {
+      "title": "Elijah and the False Prophets",
+      "ref": "1 Kings 18:16-40",
+      "relatedVerses": "v. 1-6",
+      "summary": "In Ahab's day, Israel was led astray by hundreds of prophets of Baal, popular and royally supported. Elijah stood alone on Mount Carmel and proposed a test: let each side call on its god, and the god who answers by fire is God. The prophets of Baal cried out all day with no answer. Elijah prayed a simple prayer, and fire fell from heaven. The people fell on their faces and said, ‘Yahweh, he is God!’ John's call to test the spirits is the same principle: popularity and passion are not proof. Truth is proved by God's own testimony — and in the New Covenant that testimony centres on Jesus Christ come in the flesh."
+    }
+  ]
+}
