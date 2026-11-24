@@ -1,0 +1,891 @@
+{
+  "type": "chapterStudy",
+  "book": "1 Peter",
+  "chapter": 5,
+  "chapterTitle": "Shepherds, Humility, and the God of All Grace",
+  "themeTitle": "“Casting All Your Worries on Him, Because He Cares for You”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "Therefore I exhort the elders among you, as a fellow elder, and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed.",
+      "understanding": "πρεσβυτέρους οὖν ἐν ὑμῖν παρακαλῶ, “Therefore I exhort the elders among you” — πρεσβύτερος, an older man, then a recognised leader of a congregation (James 5:14). ὁ συμπρεσβύτερος, “as a fellow elder” — Peter, an apostle, stands beside them, not above them. καὶ μάρτυς τῶν τοῦ Χριστοῦ παθημάτων, “and a witness of the sufferings of Christ” — μάρτυς, an eyewitness and one who testifies; πάθημα, from the suffer family. He saw the arrest, the trial and the cross. ὁ καὶ τῆς μελλούσης ἀποκαλύπτεσθαι δόξης κοινωνός, “and who will also share in the glory that will be revealed” — κοινωνός, a partner; ἀποκαλύπτω, from the appear family: to unveil. Sufferings, then glory — the pattern of 1:11.",
+      "words": [
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhort"
+        },
+        {
+          "strongs": "G4850",
+          "hebrew": "συμπρεσβύτερος",
+          "translit": "sympresbýteros",
+          "english": "fellow elder"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witness"
+        },
+        {
+          "strongs": "G3804",
+          "hebrew": "πάθημα",
+          "translit": "páthēma",
+          "english": "sufferings"
+        },
+        {
+          "strongs": "G2844",
+          "hebrew": "κοινωνός",
+          "translit": "koinōnós",
+          "english": "share"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G601",
+          "hebrew": "ἀποκαλύπτω",
+          "translit": "apokalýptō",
+          "english": "revealed"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily, not for dishonest gain, but willingly;",
+      "understanding": "ποιμάνατε τὸ ἐν ὑμῖν ποίμνιον τοῦ θεοῦ, “Shepherd the flock of God which is among you” — ποιμαίνω, the very word Jesus said to Peter: ‘Tend my sheep’ (John 21:16). The flock belongs to God, not the elders. ἐπισκοποῦντες, “exercising the oversight” — ἐπισκοπέω, to watch over, the verb of ἐπίσκοπος, ‘overseer’ (2:25). Three contrasts follow. μὴ ἀναγκαστῶς ἀλλὰ ἑκουσίως, “not under compulsion, but voluntarily” — not as a reluctant duty. μηδὲ αἰσχροκερδῶς ἀλλὰ προθύμως, “not for dishonest gain, but willingly” — αἰσχροκερδῶς, greedy for shameful profit; προθύμως, eagerly.",
+      "words": [
+        {
+          "strongs": "G4165",
+          "hebrew": "ποιμαίνω",
+          "translit": "poimaínō",
+          "english": "Shepherd"
+        },
+        {
+          "strongs": "G4168",
+          "hebrew": "ποίμνιον",
+          "translit": "poímnion",
+          "english": "flock"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1983",
+          "hebrew": "ἐπισκοπέω",
+          "translit": "episkopéō",
+          "english": "exercising the oversight"
+        },
+        {
+          "strongs": "G317",
+          "hebrew": "ἀναγκαστῶς",
+          "translit": "anankastōs",
+          "english": "under compulsion"
+        },
+        {
+          "strongs": "G1596",
+          "hebrew": "ἑκουσίως",
+          "translit": "hekousíōs",
+          "english": "voluntarily"
+        },
+        {
+          "strongs": "G147",
+          "hebrew": "αἰσχροκερδῶς",
+          "translit": "aischrokerdōs",
+          "english": "for dishonest gain"
+        },
+        {
+          "strongs": "G4290",
+          "hebrew": "προθύμως",
+          "translit": "prothýmōs",
+          "english": "willingly"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "neither as lording it over those entrusted to you, but making yourselves examples to the flock.",
+      "understanding": "μηδ᾽ ὡς κατακυριεύοντες τῶν κλήρων, “neither as lording it over those entrusted to you” — κατακυριεύω, to dominate, the exact verb Jesus used of Gentile rulers: ‘it shall not be so among you’ (Mark 10:42–43). κλῆρος, a lot, a portion assigned: each congregation is God's allotted portion entrusted to the elders. ἀλλὰ τύποι γινόμενοι τοῦ ποιμνίου, “but making yourselves examples to the flock” — τύπος, from the pattern family: the impression left by a die, a model to copy, as distinct from ὑπογραμμός, the tracing-copy of 2:21. Elders lead by example, not by force.",
+      "words": [
+        {
+          "strongs": "G2634",
+          "hebrew": "κατακυριεύω",
+          "translit": "katakyrieúō",
+          "english": "lording it over"
+        },
+        {
+          "strongs": "G2819",
+          "hebrew": "κλῆρος",
+          "translit": "klēros",
+          "english": "those entrusted"
+        },
+        {
+          "strongs": "G5179",
+          "hebrew": "τύπος",
+          "translit": "týpos",
+          "english": "examples"
+        },
+        {
+          "strongs": "G4168",
+          "hebrew": "ποίμνιον",
+          "translit": "poímnion",
+          "english": "flock"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away.",
+      "understanding": "καὶ φανερωθέντος τοῦ ἀρχιποίμενος, “When the chief Shepherd is revealed” — φανερόω, from the appear family: to be made visible, brought into the open, as distinct from ἀποκαλύπτω in verse 1, the unveiling. ἀρχιποίμην, ‘chief shepherd’, a title found only here: the under-shepherds answer to Him. κομιεῖσθε τὸν ἀμαράντινον τῆς δόξης στέφανον, “you will receive the crown of glory that doesn’t fade away” — στέφανος, the victor's wreath; ἀμαράντινος, unfading, a near relative of the ‘unfading’ inheritance of 1:4. Athletes' wreaths of leaves withered in days (1 Corinthians 9:25); this one never will.",
+      "words": [
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "revealed"
+        },
+        {
+          "strongs": "G750",
+          "hebrew": "ἀρχιποίμην",
+          "translit": "archipoímēn",
+          "english": "chief Shepherd"
+        },
+        {
+          "strongs": "G2865",
+          "hebrew": "κομίζω",
+          "translit": "komízō",
+          "english": "receive"
+        },
+        {
+          "strongs": "G262",
+          "hebrew": "ἀμαράντινος",
+          "translit": "amarántinos",
+          "english": "doesn’t fade away"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G4735",
+          "hebrew": "στέφανος",
+          "translit": "stéphanos",
+          "english": "crown"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility, to subject yourselves to one another; for “God resists the proud, but gives grace to the humble.”",
+      "understanding": "ὁμοίως, νεώτεροι, ὑποτάγητε πρεσβυτέροις, “Likewise, you younger ones, be subject to the elder” — νεώτερος, the comparative of νέος, from the new family: young in age, as distinct from καινός, new in kind. πάντες δὲ ἀλλήλοις τὴν ταπεινοφροσύνην ἐγκομβώσασθε, “Yes, all of you clothe yourselves with humility” — ταπεινοφροσύνη, from the humble family: lowliness of mind; ἐγκομβόομαι, to tie on with a knot, like a slave's apron. Peter remembered Jesus tying a towel round His waist to wash their feet (John 13:4). Then Proverbs 3:34, the verse James also quoted: “God resists the proud, but gives grace to the humble” — ἀντιτάσσομαι, from the resist family; ταπεινός, from the humble family.",
+      "words": [
+        {
+          "strongs": "G3668",
+          "hebrew": "ὁμοίως",
+          "translit": "homoíōs",
+          "english": "Likewise"
+        },
+        {
+          "strongs": "G3501",
+          "hebrew": "νέος",
+          "translit": "néos",
+          "english": "younger ones"
+        },
+        {
+          "strongs": "G5293",
+          "hebrew": "ὑποτάσσω",
+          "translit": "hypotássō",
+          "english": "be subject"
+        },
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elder"
+        },
+        {
+          "strongs": "G1463",
+          "hebrew": "ἐγκομβόομαι",
+          "translit": "enkombóomai",
+          "english": "clothe yourselves"
+        },
+        {
+          "strongs": "G5012",
+          "hebrew": "ταπεινοφροσύνη",
+          "translit": "tapeinophrosýnē",
+          "english": "humility"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G498",
+          "hebrew": "ἀντιτάσσομαι",
+          "translit": "antitássomai",
+          "english": "resists"
+        },
+        {
+          "strongs": "G5244",
+          "hebrew": "ὑπερήφανος",
+          "translit": "hyperḗphanos",
+          "english": "proud"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G5011",
+          "hebrew": "ταπεινός",
+          "translit": "tapeinós",
+          "english": "humble"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time;",
+      "understanding": "ταπεινώθητε οὖν ὑπὸ τὴν κραταιὰν χεῖρα τοῦ θεοῦ, “Humble yourselves therefore under the mighty hand of God” — ταπεινόω, from the humble family, as in James 4:10; κραταιός, from the power family: ruling might, the adjective of κράτος (v. 11), the language of the exodus, God's ‘mighty hand’ that brought Israel out of Egypt. The hand that disciplines is the hand that delivers. ἵνα ὑμᾶς ὑψώσῃ ἐν καιρῷ, “that he may exalt you in due time” — ὑψόω, to lift high; καιρός, from the time family: God's appointed moment, not yours.",
+      "words": [
+        {
+          "strongs": "G5013",
+          "hebrew": "ταπεινόω",
+          "translit": "tapeinóō",
+          "english": "Humble yourselves"
+        },
+        {
+          "strongs": "G2900",
+          "hebrew": "κραταιός",
+          "translit": "krataiós",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5312",
+          "hebrew": "ὑψόω",
+          "translit": "hypsóō",
+          "english": "exalt"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "due time"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "casting all your worries on him, because he cares for you.",
+      "understanding": "πᾶσαν τὴν μέριμναν ὑμῶν ἐπιρρίψαντες ἐπ᾽ αὐτόν, “casting all your worries on him” — μέριμνα, anxiety, the care that pulls the mind in different directions (Matthew 6:25); ἐπιρρίπτω, to throw upon, the word used of throwing cloaks on the colt Jesus rode (Luke 19:35). The participle connects it to verse 6: humbling yourself includes handing over your anxieties. ὅτι αὐτῷ μέλει περὶ ὑμῶν, “because he cares for you” — μέλει, it matters to Him, you are His concern.",
+      "words": [
+        {
+          "strongs": "G3956",
+          "hebrew": "πᾶς",
+          "translit": "pâs",
+          "english": "all"
+        },
+        {
+          "strongs": "G3308",
+          "hebrew": "μέριμνα",
+          "translit": "mérimna",
+          "english": "worries"
+        },
+        {
+          "strongs": "G1977",
+          "hebrew": "ἐπιῤῥίπτω",
+          "translit": "epirrhíptō",
+          "english": "casting"
+        },
+        {
+          "strongs": "G3199",
+          "hebrew": "μέλω",
+          "translit": "mélō",
+          "english": "cares"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour.",
+      "understanding": "νήψατε, γρηγορήσατε, “Be sober and self-controlled. Be watchful.” — νήφω, from the self-control family: clear-headed, as in 1:13 and 4:7; γρηγορέω, from the sleep family: to stay awake, the word Jesus used in Gethsemane when Peter slept (Matthew 26:40–41). ὁ ἀντίδικος ὑμῶν διάβολος, “Your adversary, the devil” — ἀντίδικος, an opponent in a lawsuit, the accuser; διάβολος, the slanderer. ὡς λέων ὠρυόμενος περιπατεῖ, “walks around like a roaring lion” — ὠρύομαι, to roar, as a hungry lion does to frighten prey. ζητῶν τινα καταπιεῖν, “seeking whom he may devour” — καταπίνω, to gulp down, swallow whole. The lion looks for the stray, the isolated, the sleepy.",
+      "words": [
+        {
+          "strongs": "G3525",
+          "hebrew": "νήφω",
+          "translit": "nḗphō",
+          "english": "sober"
+        },
+        {
+          "strongs": "G1127",
+          "hebrew": "γρηγορεύω",
+          "translit": "grēgoreúō",
+          "english": "watchful"
+        },
+        {
+          "strongs": "G476",
+          "hebrew": "ἀντίδικος",
+          "translit": "antídikos",
+          "english": "adversary"
+        },
+        {
+          "strongs": "G1228",
+          "hebrew": "διάβολος",
+          "translit": "diábolos",
+          "english": "devil"
+        },
+        {
+          "strongs": "G5612",
+          "hebrew": "ὠρύομαι",
+          "translit": "ōrýomai",
+          "english": "roaring"
+        },
+        {
+          "strongs": "G3023",
+          "hebrew": "λέων",
+          "translit": "léōn",
+          "english": "lion"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walks around"
+        },
+        {
+          "strongs": "G2212",
+          "hebrew": "ζητέω",
+          "translit": "zētéō",
+          "english": "seeking"
+        },
+        {
+          "strongs": "G2666",
+          "hebrew": "καταπίνω",
+          "translit": "katapínō",
+          "english": "devour"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings.",
+      "understanding": "ᾧ ἀντίστητε στερεοὶ τῇ πίστει, “Withstand him steadfast in your faith” — ἀνθίστημι, from the resist family: to stand your ground, the very word of James 4:7, ‘Resist the devil’ and of Ephesians 6:13; στερεός, firm, solid as rock. Faith is the stance. εἰδότες, “knowing” — εἴδω, from the know family (and the see family). τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι, “that your brothers who are in the world are undergoing the same sufferings” — πάθημα, from the suffer family; κόσμος, from the world family; ἐπιτελέω, from the perfect family: to be carried through to completion. You are not alone; your suffering is shared worldwide, and it is being brought to its intended end.",
+      "words": [
+        {
+          "strongs": "G436",
+          "hebrew": "ἀνθίστημι",
+          "translit": "anthístēmi",
+          "english": "Withstand"
+        },
+        {
+          "strongs": "G4731",
+          "hebrew": "στερεός",
+          "translit": "stereós",
+          "english": "steadfast"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "knowing"
+        },
+        {
+          "strongs": "G3804",
+          "hebrew": "πάθημα",
+          "translit": "páthēma",
+          "english": "sufferings"
+        },
+        {
+          "strongs": "G81",
+          "hebrew": "ἀδελφότης",
+          "translit": "adelphótēs",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G2005",
+          "hebrew": "ἐπιτελέω",
+          "translit": "epiteléō",
+          "english": "undergoing"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you.",
+      "understanding": "ὁ δὲ θεὸς πάσης χάριτος, “But may the God of all grace” — grace for every need, the many-coloured grace of 4:10. ὁ καλέσας ὑμᾶς εἰς τὴν αἰώνιον αὐτοῦ δόξαν ἐν Χριστῷ, “who called you to his eternal glory by Christ Jesus” — αἰώνιος, from the time family: belonging to the endless age. ὀλίγον παθόντας, “after you have suffered a little while” — πάσχω, from the suffer family; ὀλίγον, a little, as in 1:6. Then four verbs: καταρτίσει, “perfect” — καταρτίζω, from the perfect family: to mend, to restore, to fit out completely, the word for mending nets (Mark 1:19); στηρίξει, “establish” — make firm, the word Jesus used to Peter: ‘establish your brothers’ (Luke 22:32); σθενώσει, “strengthen” — σθενόω, from the power family; θεμελιώσει, “settle” — set on a foundation.",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G166",
+          "hebrew": "αἰώνιος",
+          "translit": "aiṓnios",
+          "english": "eternal"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G3641",
+          "hebrew": "ὀλίγος",
+          "translit": "olígos",
+          "english": "little while"
+        },
+        {
+          "strongs": "G3958",
+          "hebrew": "πάσχω",
+          "translit": "páschō",
+          "english": "suffered"
+        },
+        {
+          "strongs": "G2675",
+          "hebrew": "καταρτίζω",
+          "translit": "katartízō",
+          "english": "perfect"
+        },
+        {
+          "strongs": "G4741",
+          "hebrew": "στηρίζω",
+          "translit": "stērízō",
+          "english": "establish"
+        },
+        {
+          "strongs": "G4599",
+          "hebrew": "σθενόω",
+          "translit": "sthenóō",
+          "english": "strengthen"
+        },
+        {
+          "strongs": "G2311",
+          "hebrew": "θεμελιόω",
+          "translit": "themelióō",
+          "english": "settle"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "To him be the glory and the power forever and ever. Amen.",
+      "understanding": "αὐτῷ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων, “To him be the glory and the power forever and ever” — κράτος, from the power family: ruling might, the strength that prevails, matching the ‘mighty hand’ of verse 6. αἰών, in the time family and the world family: ‘to the ages of the ages’. The WEB follows manuscripts that include ‘the glory’. The one who allows the lion to roar holds all the power.",
+      "words": [
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2904",
+          "hebrew": "κράτος",
+          "translit": "krátos",
+          "english": "power"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "Through Silvanus, our faithful brother, as I consider him, I have written to you briefly, exhorting, and testifying that this is the true grace of God in which you stand.",
+      "understanding": "διὰ Σιλουανοῦ ὑμῖν τοῦ πιστοῦ ἀδελφοῦ, “Through Silvanus, our faithful brother” — Silvanus is the Latin form of Silas, Paul's companion (Acts 15:40) and co-sender of 1 and 2 Thessalonians. ‘Through’ may mean he carried the letter, helped write it, or both; this may explain the polished Greek of a Galilean fisherman. ὡς λογίζομαι, “as I consider him” — Peter's own judgement. δι᾽ ὀλίγων ἔγραψα, “I have written to you briefly” — ὀλίγος, few words. παρακαλῶν καὶ ἐπιμαρτυρῶν, “exhorting, and testifying” — the two aims of the letter. ταύτην εἶναι ἀληθῆ χάριν τοῦ θεοῦ, εἰς ἣν ἑστήκατε, “that this is the true grace of God in which you stand” — ἵστημι, to stand firm. Suffering does not mean they have fallen out of grace; it is the true grace.",
+      "words": [
+        {
+          "strongs": "G4610",
+          "hebrew": "Σιλουανός",
+          "translit": "Silouanós",
+          "english": "Silvanus"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brother"
+        },
+        {
+          "strongs": "G3049",
+          "hebrew": "λογίζομαι",
+          "translit": "logízomai",
+          "english": "consider"
+        },
+        {
+          "strongs": "G3641",
+          "hebrew": "ὀλίγος",
+          "translit": "olígos",
+          "english": "briefly"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "written"
+        },
+        {
+          "strongs": "G3870",
+          "hebrew": "παρακαλέω",
+          "translit": "parakaléō",
+          "english": "exhorting"
+        },
+        {
+          "strongs": "G1957",
+          "hebrew": "ἐπιμαρτυρέω",
+          "translit": "epimartyréō",
+          "english": "testifying"
+        },
+        {
+          "strongs": "G227",
+          "hebrew": "ἀληθής",
+          "translit": "alēthḗs",
+          "english": "true"
+        },
+        {
+          "strongs": "G5485",
+          "hebrew": "χάρις",
+          "translit": "cháris",
+          "english": "grace"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "stand"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "She who is in Babylon, chosen together with you, greets you; and so does Mark, my son.",
+      "understanding": "ἀσπάζεται ὑμᾶς ἡ ἐν Βαβυλῶνι συνεκλεκτή, “She who is in Babylon, chosen together with you, greets you” — ‘she’ is most naturally the church (ἐκκλησία is feminine), ‘chosen together’ with the elect exiles of 1:1. Babylon is almost certainly a code name for Rome, the capital of the empire that would soon persecute the church, as in Revelation 17–18; early church tradition places Peter in Rome at the end of his life. Literal Babylon in Mesopotamia was largely deserted by then. The exiles in the Dispersion are greeted by the church in the new ‘Babylon’. καὶ Μᾶρκος ὁ υἱός μου, ‘and Mark, my son’ — John Mark (Acts 12:12), Peter's spiritual son, whose Gospel early writers said preserved Peter's preaching.",
+      "words": [
+        {
+          "strongs": "G897",
+          "hebrew": "Βαβυλών",
+          "translit": "Babylṓn",
+          "english": "Babylon"
+        },
+        {
+          "strongs": "G4899",
+          "hebrew": "συνεκλεκτός",
+          "translit": "syneklektós",
+          "english": "chosen together"
+        },
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "greets"
+        },
+        {
+          "strongs": "G3138",
+          "hebrew": "Μάρκος",
+          "translit": "Márkos",
+          "english": "Mark"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "son"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "Greet one another with a kiss of love. Peace be to you all who are in Christ Jesus. Amen.",
+      "understanding": "ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἀγάπης, “Greet one another with a kiss of love” — two words from the love family in one phrase: φίλημα, a kiss, the sign of φιλέω-affection, and ἀγάπη, self-giving love. Paul calls it a ‘holy kiss’ (Romans 16:16). The greeting of family, across every barrier of class and race. εἰρήνη ὑμῖν πᾶσιν τοῖς ἐν Χριστῷ, “Peace be to you all who are in Christ Jesus” — εἰρήνη, the peace of 1:2. The letter that began with ‘grace and peace’ ends with peace — for suffering exiles who are ‘in Christ’.",
+      "words": [
+        {
+          "strongs": "G782",
+          "hebrew": "ἀσπάζομαι",
+          "translit": "aspázomai",
+          "english": "Greet"
+        },
+        {
+          "strongs": "G5370",
+          "hebrew": "φίλημα",
+          "translit": "phílēma",
+          "english": "kiss"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G1515",
+          "hebrew": "εἰρήνη",
+          "translit": "eirḗnē",
+          "english": "Peace"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Shepherd's Apron",
+      "verseRef": "v. 1-5",
+      "image": "Picture an upper room on the night before the cross. The disciples are arguing about who is the greatest. Jesus rises, takes off His outer robe, ties a towel round His waist and kneels with a basin to wash their dusty feet. Peter protests, then gives in. Decades later, an old Peter writes to the elders of the churches: shepherd the flock, do not lord it over them — and tie on humility like an apron.",
+      "meaning": "“Shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily, not for dishonest gain, but willingly” (v. 2), “neither as lording it over those entrusted to you, but making yourselves examples to the flock” (v. 3). “Yes, all of you clothe yourselves with humility” (v. 5). Leadership in Christ's church looks like a servant's towel, not a ruler's sceptre — and it is rewarded with “the crown of glory that doesn’t fade away” (v. 4)."
+    },
+    {
+      "title": "Throwing the Burden",
+      "verseRef": "v. 6-7",
+      "image": "Picture a traveller staggering up a hill under a huge pack, bent double, sweating, stumbling. At the top stands a strong man who says, ‘Give it to me.’ The traveller hesitates, then heaves the pack off his shoulders and throws it into the strong man's arms. He stands up straight for the first time in miles.",
+      "meaning": "“Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time” (v. 6), “casting all your worries on him, because he cares for you” (v. 7). Humility is not only bowing before God; it is admitting you cannot carry your own anxieties. The ‘mighty hand’ that humbles you is the same hand that catches what you throw. And He does it because you matter to Him."
+    },
+    {
+      "title": "The Prowling Lion",
+      "verseRef": "v. 8-9",
+      "image": "Picture a lion at the edge of a herd at dusk, roaring to frighten them. The animals scatter in panic; one young one, separated from the rest, freezes in the tall grass. The lion's eyes fix on it. But a little way off, a group stands close together, alert and unmoving, facing the lion — and the lion turns away.",
+      "meaning": "“Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour” (v. 8). “Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings” (v. 9). The devil's roar is meant to scatter and isolate you. Stay alert, stand firm in faith, and stay close to the flock."
+    },
+    {
+      "title": "The Mended Net",
+      "verseRef": "v. 10",
+      "image": "Picture a fisherman's net after a night of storm, torn in many places, tangled and useless. On the shore an old fisherman sits patiently, mending every hole, knot by knot, until the net is whole again and stronger than before. Then he hangs it on firm posts set deep in the ground to dry.",
+      "meaning": "“But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you” (v. 10). The word ‘perfect’ is the word for mending nets. Peter, the old fisherman, knew it well. Whatever your suffering has torn, the God of all grace will mend, make firm, strengthen and set on a foundation."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Shepherds of God's Flock (v. 1-4)",
+        "body": "As a fellow elder and witness of Christ's sufferings, Peter urges elders to shepherd God's flock willingly, eagerly and as examples, not for gain or by domineering, and promises them the unfading crown of glory when the Chief Shepherd appears."
+      },
+      {
+        "label": "Clothed with Humility (v. 5-7)",
+        "body": "Younger people should submit to elders, and all should clothe themselves with humility, for God opposes the proud and gives grace to the humble; humble yourselves under God's mighty hand, casting every anxiety on Him, because He cares for you."
+      },
+      {
+        "label": "Stand Against the Lion (v. 8-11)",
+        "body": "Be sober and watchful, for the devil prowls like a roaring lion; resist him, firm in faith, knowing believers everywhere suffer the same; after a little suffering, the God of all grace will restore, establish, strengthen and settle you; to Him be the power forever."
+      },
+      {
+        "label": "Final Greetings (v. 12-14)",
+        "body": "Peter has written briefly through Silvanus to testify that this is the true grace of God; the church in Babylon and Mark send greetings; greet one another with a kiss of love; peace to all in Christ."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "A Fellow Elder and a Witness",
+        "paragraphs": [
+          "Peter closes the letter by speaking to the church's leaders. He does not appeal to his rank as the leading apostle. He calls himself “a fellow elder, and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed” (v. 1). That is the pattern of the whole letter in one man: he saw Christ's sufferings, and he will share Christ's glory.",
+          "His command is the one Jesus gave him by the lake: “Shepherd the flock of God which is among you” (v. 2). The flock is God's, not the elders'. Paul told the Ephesian elders the same: “to shepherd the assembly of the Lord and God which he purchased with his own blood” (Acts 20:28). Peter names three temptations of leadership — serving reluctantly, serving for money, and serving by domination — and three cures: willingness, eagerness and example. Jesus had warned the disciples, “You know that they who are recognized as rulers over the nations lord it over them” (Mark 10:42), “But it shall not be so among you, but whoever wants to become great among you shall be your servant” (Mark 10:43).",
+          "The reward is not here: “When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away” (v. 4). Pastors and leaders often serve with little recognition. Peter reminds them that the Chief Shepherd sees, and that His crown, unlike every earthly reward, never withers. Hebrews calls Jesus “the great shepherd of the sheep” (Hebrews 13:20); Peter calls Him the Chief Shepherd, under whom every elder is an under-shepherd."
+        ]
+      },
+      {
+        "heading": "Humility, Anxiety and the Mighty Hand",
+        "paragraphs": [
+          "Humility is not only for leaders. “Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility, to subject yourselves to one another; for ‘God resists the proud, but gives grace to the humble’” (v. 5). The rare verb for ‘clothe yourselves’ described tying on an apron. Peter had watched Jesus do it: He “wrapped a towel around his waist” (John 13:4), “Then he poured water into the basin, and began to wash the disciples’ feet” (John 13:5). Humility is the servant's apron every believer must wear.",
+          "Peter quotes the same Proverb James quoted (James 4:6), and like James he follows it with a command: “Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time” (v. 6). For suffering believers, God's ‘mighty hand’ may feel heavy. But it is the hand that rescued Israel from Egypt, and it will lift them up at the right time — His time, not theirs.",
+          "Then comes one of the most loved verses in Scripture: “casting all your worries on him, because he cares for you” (v. 7). In the Greek it is joined to verse 6: humbling yourself means admitting that you cannot carry your anxieties alone. Pride says, ‘I can handle it.’ Humility throws the load onto God. Jesus said, “Therefore I tell you, don’t be anxious for your life” (Matthew 6:25), and Paul, “In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God” (Philippians 4:6)."
+        ]
+      },
+      {
+        "heading": "The Lion and the God of All Grace",
+        "paragraphs": [
+          "Humility before God goes together with vigilance against the devil — as in James 4:6–7. “Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour” (v. 8). Peter knew this from experience. In Gethsemane Jesus told him to watch and pray, and he slept. That night Satan sifted him, and he fell. Jesus had warned him and prayed for him (Luke 22:31–32). Now the restored Peter warns the church: stay awake.",
+          "The response is not panic but resistance: “Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings” (v. 9). The word is the same as James's ‘Resist the devil’ and Paul's: “Therefore put on the whole armor of God, that you may be able to withstand in the evil day” (Ephesians 6:13). And believers do not stand alone: their suffering is shared by the whole worldwide family of God.",
+          "The final promise gathers up the whole letter: “But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you” (v. 10). Suffering is “a little while”; glory is “eternal”. And the four verbs describe what God does in His people through suffering: He mends what is torn, makes firm what is shaky, strengthens what is weak and sets on a foundation what was unsettled. One of the words, ‘establish’, is exactly what Jesus told Peter to do: “You, when once you have turned again, establish your brothers” (Luke 22:32). In this letter, Peter did it."
+        ]
+      },
+      {
+        "heading": "Silvanus, Babylon and Mark",
+        "paragraphs": [
+          "The letter ends with names. Silvanus, Paul's companion Silas, either carried the letter or helped write it, or both (v. 12). Peter states his purpose plainly: “exhorting, and testifying that this is the true grace of God in which you stand.” Suffering does not mean they have lost God's favour. It is the true grace, and they must stand in it.",
+          "“She who is in Babylon, chosen together with you, greets you” (v. 13). The church in ‘Babylon’ sends greetings. The strongest reading is that Babylon is a code name for Rome, the capital of the world power that would soon persecute the church; Revelation uses the same name for Rome. Early tradition says Peter died in Rome under Nero. A few have taken Babylon literally (the Mesopotamian city) or as a Roman military post in Egypt, but neither fits the evidence as well. The exiles of 1:1 are greeted by fellow exiles in the capital of the world that rejects them.",
+          "And “Mark, my son” sends greetings too. John Mark had once abandoned Paul and Barnabas on a mission (Acts 15:37–39), yet later Paul wrote, “Take Mark, and bring him with you, for he is useful to me for service” (2 Timothy 4:11). Early Christian writers say Mark's Gospel records Peter's preaching. Two men who had both failed — one by denial, one by desertion — stand together at the end of the letter, restored and useful. The God of all grace really does mend nets."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Chief Shepherd and the Restored Fisherman",
+      "paragraphs": [
+        "Peter's charge to the elders is the fruit of Jesus' charge to him by the lake. “He said to him again a second time, ‘Simon, son of Jonah, do you love me?’ He said to him, ‘Yes, Lord; you know that I have affection for you.’ He said to him, ‘Tend my sheep’” (John 21:16). The verb ‘tend’ is ποιμαίνω — the same word Peter uses in verse 2. Jesus is “the great shepherd of the sheep” (Hebrews 13:20); elders must care for the flock as those “who will give account” (Hebrews 13:17).",
+        "The crown of glory that never fades belongs with the other crowns of the New Testament: “they do it to receive a corruptible crown, but we an incorruptible” (1 Corinthians 9:25); “there is stored up for me the crown of righteousness, which the Lord, the righteous judge, will give to me on that day” (2 Timothy 4:8); and James's “crown of life, which the Lord promised to those who love him” (James 1:12).",
+        "And the promise of verse 10 echoes Jesus' prayer for Peter: “but I prayed for you, that your faith wouldn’t fail. You, when once you have turned again, establish your brothers” (Luke 22:32). The man whose faith was kept from failing by Christ's prayer now prays the same over the churches: that the God of all grace will establish them. The kiss of love (v. 14) is the family greeting Paul also commanded: “Greet one another with a holy kiss” (Romans 16:16)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Shepherd",
+      "hebrew": "ποιμαίνω",
+      "translit": "poimaínō",
+      "strongs": "G4165 (chief shepherd ἀρχιποίμην, archipoímēn, G750)",
+      "verses": "v. 2, 4",
+      "insight": "Strong's: “to tend as a shepherd of (figuratively, superviser)”. ποιμαίνω covers everything a shepherd does: feeding, leading, protecting, seeking the lost and tending the wounded. Jesus used it when He restored Peter (John 21:16). Peter now passes the command to every elder, and points them to the ἀρχιποίμην, the Chief Shepherd, a title found nowhere else. Pastors are under-shepherds of a flock that belongs to God and will answer to the Shepherd who owns it."
+    },
+    {
+      "english": "Clothe yourselves",
+      "hebrew": "ἐγκομβόομαι",
+      "translit": "enkombóomai",
+      "strongs": "G1463 (humility ταπεινοφροσύνη, tapeinophrosýnē, G5012)",
+      "verses": "v. 5",
+      "insight": "Strong's: “to engirdle oneself (for labor), i.e. figuratively (the apron as being a badge of servitude) to wear (in token of mutual deference)”. The word comes from κόμβος, a knot: the apron a slave tied on to work. Peter had seen Jesus tie a towel round His waist and wash feet. Every believer, not only leaders, is to put on ταπεινοφροσύνη — lowliness of mind, from the humble family — as a working garment, ready to serve one another."
+    },
+    {
+      "english": "Worries / anxiety",
+      "hebrew": "μέριμνα",
+      "translit": "mérimna",
+      "strongs": "G3308 (casting ἐπιῤῥίπτω, epirrhíptō, G1977; cares μέλω, mélō, G3199)",
+      "verses": "v. 7",
+      "insight": "Strong's: “solicitude.” μέριμνα is from a root meaning to be divided: the anxiety that pulls the mind in many directions at once. Jesus warned that ‘the cares of this age’ choke the word (Mark 4:19). Peter's remedy is decisive: ἐπιρρίπτω, ‘throw upon’, a deliberate act of handing over. And the reason is personal: αὐτῷ μέλει, ‘it matters to Him’. God is not indifferent to what troubles you."
+    },
+    {
+      "english": "Adversary",
+      "hebrew": "ἀντίδικος",
+      "translit": "antídikos",
+      "strongs": "G476 (devil διάβολος, diábolos, G1228)",
+      "verses": "v. 8",
+      "insight": "Strong's: “an opponent (in a lawsuit); specially, Satan (as the arch-enemy).” ἀντίδικος was a legal word: the opposing party in court, the accuser. The name Satan means ‘adversary’ and διάβολος means ‘slanderer’. Peter combines the courtroom and the wilderness: an accuser who prowls like a lion. But believers have an Advocate (1 John 2:1), and the lion can be resisted by those who stand firm in faith."
+    },
+    {
+      "english": "Perfect / restore",
+      "hebrew": "καταρτίζω",
+      "translit": "katartízō",
+      "strongs": "G2675 (establish στηρίζω, stērízō, G4741; strengthen σθενόω, sthenóō, G4599; settle θεμελιόω, themelióō, G2311)",
+      "verses": "v. 10",
+      "insight": "Strong's: “to complete thoroughly, i.e. repair (literally or figuratively) or adjust.” καταρτίζω was used of mending nets (Mark 1:19), setting broken bones, and equipping a ship. It belongs to the perfect family: bringing something to the completeness it was made for. Peter, a fisherman, uses it first among four verbs: mend, establish, strengthen, settle. Suffering tears; God repairs, and leaves His people stronger and more firmly founded than before."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this final chapter the Holy Spirit is calling you to humble service, to hand over your anxieties, and to stand firm against the enemy — trusting the God of all grace to finish what He started.",
+    "items": [
+      {
+        "title": "Whose Flock Is It?",
+        "body": "Whether you lead a church, a ministry, a family or a small group, the Spirit reminds you that the people in your care belong to God. Are you serving willingly, eagerly and as an example — or reluctantly, for what you get out of it, or by controlling others (vv. 2–3)? Ask Him where you need to take off a ruler's robe and tie on a servant's apron."
+      },
+      {
+        "title": "What Are You Still Carrying?",
+        "body": "Name the worries you are carrying today — money, health, family, the future, a relationship. The Spirit invites you to throw them onto God. “casting all your worries on him, because he cares for you” (v. 7). Pride keeps carrying; humility hands over. Which worry will you throw to Him now, and leave there?"
+      },
+      {
+        "title": "Is the Lion Circling?",
+        "body": "The enemy looks for the sleepy and the isolated. Where have you become careless — spiritually drowsy, prayerless, cut off from other believers? “Be sober and self-controlled. Be watchful” (v. 8). The Spirit calls you to wake up, stand firm in faith and stay close to the flock. And He promises that after a little while, the God of all grace will mend and strengthen you."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Servant Check",
+        "body": "In the places where you have any authority, do people experience you as a servant or as a boss (vv. 2–3)? What would ‘clothing yourself with humility’ look like this week (v. 5)?"
+      },
+      {
+        "title": "The Anxiety Check",
+        "body": "What anxieties are you carrying that you have never actually handed to God (v. 7)? How often does worry keep you awake or steal your joy?"
+      },
+      {
+        "title": "The Vigilance Check",
+        "body": "Where are you most vulnerable to the devil's attack — isolation, tiredness, resentment, a secret sin (v. 8)? Who are the brothers and sisters you stand with (v. 9)?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "The Casting List",
+        "body": "Tonight, write down every worry on your mind, however small. Then, one by one, pray over each: ‘Lord, I throw this onto You, because You care for me.’ Cross each one out as you pray. Put the paper in your Bible at 1 Peter 5. When a worry returns, open to that page and throw it again."
+      },
+      {
+        "title": "Stand With the Flock",
+        "body": "This week, reach out to one believer who may be isolated or struggling — a call, a message, a visit. Tell them they are not alone, pray with them, and remind them of verse 10. Then commit to meeting regularly with other believers, so that you are not the one the lion finds alone."
+      }
+    ]
+  },
+  "prayerReflection": "“Chief Shepherd, Lord Jesus, thank You for the elders and leaders You have given me, and for every way You have made me responsible for others. Make me a shepherd who serves willingly, eagerly and as an example, never for gain and never by domination. Clothe me with humility like the apron You wore when You washed Your disciples' feet. You oppose the proud and give grace to the humble, so I humble myself under Your mighty hand, trusting You to lift me up in Your time. I cast all my worries on You now, because You care for me. Keep me sober and watchful, for my adversary prowls like a roaring lion. Help me resist him, firm in faith, and remind me that my brothers and sisters around the world are suffering the same things. God of all grace, You called me to Your eternal glory in Christ. After I have suffered a little while, mend what is torn in me, make me firm, strengthen me and settle me on Your foundation. To You be the power forever and ever. Thank You that this is the true grace of God, and I stand in it. Peace to all who are in Christ. In the mighty name of Jesus, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Peter Asleep in Gethsemane",
+      "ref": "Matthew 26:36-46",
+      "relatedVerses": "v. 8",
+      "summary": "On the night of His arrest, Jesus took Peter, James and John deeper into the garden and asked them to watch with Him while He prayed. Three times He returned and found them sleeping. To Peter He said, ‘What, couldn’t you watch with me for one hour? Watch and pray, that you don’t enter into temptation.’ Within hours Peter, unprepared, denied Him three times. Years later Peter writes, “Be sober and self-controlled. Be watchful” (v. 8). He uses the same word Jesus used in the garden. He had learned what happens when a disciple sleeps while the lion prowls."
+    },
+    {
+      "title": "Jesus Restores the Shepherd",
+      "ref": "John 21:1-19",
+      "relatedVerses": "v. 1-4, 10",
+      "summary": "After the resurrection, Peter went back to fishing. After a night of catching nothing, Jesus called from the shore, filled their net, and cooked breakfast on a charcoal fire. Then He asked Peter three times, ‘Do you love me?’ and three times gave him a charge: “Feed my lambs” (John 21:15), “Tend my sheep” (John 21:16), “Feed my sheep” (John 21:17). He also told Peter how he would die. In chapter 5 the restored fisherman, now an elder and a witness, passes on the same charge — shepherd the flock of God — and promises the same restoration he received: the God of all grace will mend, establish, strengthen and settle."
+    },
+    {
+      "title": "Mark, the Deserter Made Useful",
+      "ref": "Acts 12:12; 13:13; 15:36-41; 2 Timothy 4:11",
+      "relatedVerses": "v. 13",
+      "summary": "John Mark grew up in Jerusalem; when Peter escaped from prison, he went to the house of Mark's mother, where believers were praying. Mark joined Paul and Barnabas on their first missionary journey but turned back home partway through. Later Paul refused to take him again, and the disagreement split Paul and Barnabas. But Mark did not stay a failure. Peter calls him ‘my son’, and Paul, near the end of his life, wrote, “Take Mark, and bring him with you, for he is useful to me for service” (2 Timothy 4:11). The God of all grace had restored him — just as He had restored Peter."
+    }
+  ]
+}

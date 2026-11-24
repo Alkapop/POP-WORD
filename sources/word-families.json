@@ -13,7 +13,9 @@
         "working",
         "dominion",
         "ruler",
-        "powerfully"
+        "powerfully",
+        "mighty",
+        "strengthen"
       ],
       "intro": "English Bibles say ‘power’ for at least six different Greek words. Paul stacks four of them in one breath in Ephesians 1:19 and lists four ranks of spiritual power in Ephesians 1:21. In Colossians 1:13 the WEB's ‘power of darkness’ is not δύναμις at all but ἐξουσία — authority. Knowing which word stands behind ‘power’ tells you what kind of power is meant.",
       "members": [
@@ -106,6 +108,18 @@
           "sense": "To have strength, to prevail — force exercised.",
           "anchor": "James 5:16",
           "en": "powerfully"
+        },
+        {
+          "strongs": "G2900",
+          "sense": "Mighty — strong with ruling might, the adjective of κράτος.",
+          "anchor": "1 Peter 5:6",
+          "en": "mighty"
+        },
+        {
+          "strongs": "G4599",
+          "sense": "To strengthen — to make strong in body and resolve.",
+          "anchor": "1 Peter 5:10",
+          "en": "strengthen"
         }
       ]
     },
@@ -152,7 +166,8 @@
         "age",
         "day",
         "year",
-        "tomorrow"
+        "tomorrow",
+        "eternal"
       ],
       "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
@@ -233,6 +248,12 @@
           "sense": "Tomorrow — the next day, which no one controls.",
           "anchor": "James 4:13",
           "en": "tomorrow"
+        },
+        {
+          "strongs": "G166",
+          "sense": "Eternal — belonging to the age to come, without end.",
+          "anchor": "1 Peter 5:10",
+          "en": "eternal"
         }
       ]
     },
@@ -249,7 +270,8 @@
         "friend",
         "friendship",
         "loving as brothers",
-        "courteous"
+        "courteous",
+        "kiss"
       ],
       "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected. Titus adds the bright side of the φιλ- compounds: lover of good, of guests, of husband and children — and God’s own φιλανθρωπία, His love toward mankind.",
       "members": [
@@ -384,6 +406,12 @@
           "sense": "Friendly-minded, courteous — kindly disposed towards others.",
           "anchor": "1 Peter 3:8",
           "en": "courteous"
+        },
+        {
+          "strongs": "G5370",
+          "sense": "A kiss — the sign of affection (from φιλέω).",
+          "anchor": "1 Peter 5:14",
+          "en": "kiss"
         }
       ]
     },
@@ -1935,6 +1963,12 @@
           "sense": "Fully, completely — the adverb of τέλειος.",
           "anchor": "1 Peter 1:13",
           "en": "fully"
+        },
+        {
+          "strongs": "G2005",
+          "sense": "To carry through to the end, to complete, to accomplish.",
+          "anchor": "1 Peter 5:9",
+          "en": "undergoing"
         }
       ]
     },
