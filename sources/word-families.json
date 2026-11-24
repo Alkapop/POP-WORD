@@ -120,6 +120,12 @@
           "sense": "To strengthen — to make strong in body and resolve.",
           "anchor": "1 Peter 5:10",
           "en": "strengthen"
+        },
+        {
+          "strongs": "G2963",
+          "sense": "Lordship, dominion — the authority of a lord.",
+          "anchor": "2 Peter 2:10",
+          "en": "authority"
         }
       ]
     },
@@ -167,7 +173,8 @@
         "day",
         "year",
         "tomorrow",
-        "eternal"
+        "eternal",
+        "years"
       ],
       "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
@@ -254,6 +261,12 @@
           "sense": "Eternal — belonging to the age to come, without end.",
           "anchor": "1 Peter 5:10",
           "en": "eternal"
+        },
+        {
+          "strongs": "G2094",
+          "sense": "A year — a count of years.",
+          "anchor": "2 Peter 3:8",
+          "en": "years"
         }
       ]
     },
@@ -1000,7 +1013,8 @@
         "debts",
         "unrighteousness",
         "transgressors",
-        "sinners"
+        "sinners",
+        "disobedience"
       ],
       "intro": "The New Testament describes sin from several angles: missing the mark, a false step, crossing a line, living without law, and owing a debt. Ephesians 2:1 uses two of these words together.",
       "members": [
@@ -1075,6 +1089,12 @@
           "sense": "A sinner — one marked by sin.",
           "anchor": "James 4:8",
           "en": "sinners"
+        },
+        {
+          "strongs": "G3892",
+          "sense": "Lawbreaking — acting against the law.",
+          "anchor": "2 Peter 2:16",
+          "en": "disobedience"
         }
       ]
     },
@@ -1509,7 +1529,8 @@
       "lang": "Greek",
       "english": [
         "gift",
-        "free gift"
+        "free gift",
+        "granted"
       ],
       "intro": "Several Greek words lie behind ‘gift’. δῶρον is a gift or offering presented; δωρεά is a free gift, given without payment; δώρημα is the thing bestowed; δόσις is the act of giving; χάρισμα is a gift of grace. James 1:17 puts two side by side — “every good gift (δόσις) and every perfect gift (δώρημα)” — the giving and the thing given both come from the Father.",
       "members": [
@@ -1542,6 +1563,12 @@
           "sense": "A gift, an offering presented.",
           "anchor": "Ephesians 2:8",
           "en": "gift"
+        },
+        {
+          "strongs": "G1433",
+          "sense": "To grant as a gift, to bestow freely.",
+          "anchor": "2 Peter 1:3",
+          "en": "granted"
         }
       ]
     },
@@ -1663,6 +1690,18 @@
           "sense": "Religion — worship and its outward observance.",
           "anchor": "James 1:27",
           "en": "religion"
+        },
+        {
+          "strongs": "G764",
+          "sense": "To act ungodly — to live without reverence for God.",
+          "anchor": "2 Peter 2:6",
+          "en": "ungodly"
+        },
+        {
+          "strongs": "G2152",
+          "sense": "Godly, devout — reverent towards God.",
+          "anchor": "2 Peter 2:9",
+          "en": "godly"
         }
       ]
     },
@@ -1839,7 +1878,8 @@
         "punished",
         "exercised",
         "reproved",
-        "scourges"
+        "scourges",
+        "rebuked"
       ],
       "intro": "English varies its words for one Greek family. παιδεία / παιδεύω (from παῖς, a child) is the whole upbringing of a child — teaching, training and correction. The WEB renders it ‘chastening’ (Hebrews 12:5), ‘discipline’ (12:7), ‘punished’ (12:10) and ‘instructing’ (Titus 2:12, where grace is the trainer). γυμνάζω is athletic training (‘exercised’, 5:14; 12:11). ἐλέγχω is reproof that exposes and corrects. μαστιγόω, to scourge, is the hardest form. Hebrews 12 says God’s discipline is the proof of sonship and the path to holiness.",
       "members": [
@@ -1872,6 +1912,12 @@
           "sense": "To scourge, whip — severe correction.",
           "anchor": "Hebrews 12:6",
           "en": "scourges"
+        },
+        {
+          "strongs": "G1649",
+          "sense": "A rebuke, a conviction — being exposed and corrected.",
+          "anchor": "2 Peter 2:16",
+          "en": "rebuked"
         }
       ]
     },
@@ -2213,7 +2259,9 @@
         "saw",
         "look",
         "looking",
-        "looks"
+        "looks",
+        "eyewitnesses",
+        "seeing"
       ],
       "intro": "John 20:5–8 uses three different verbs that the WEB translates ‘saw’: a glance, a careful gaze, and seeing that leads to understanding — ‘he saw and believed’. Hebrews 2:8–9 puts ὁράω and βλέπω side by side.",
       "members": [
@@ -2270,6 +2318,18 @@
           "sense": "To watch closely, to observe as an eyewitness.",
           "anchor": "1 Peter 2:12",
           "en": "see"
+        },
+        {
+          "strongs": "G2030",
+          "sense": "An eyewitness — one who has seen for himself.",
+          "anchor": "2 Peter 1:16",
+          "en": "eyewitnesses"
+        },
+        {
+          "strongs": "G990",
+          "sense": "A look, sight — what one sees.",
+          "anchor": "2 Peter 2:8",
+          "en": "seeing"
         }
       ]
     },
@@ -2391,7 +2451,8 @@
         "asleep",
         "sleeping",
         "watch",
-        "wake"
+        "wake",
+        "slumber"
       ],
       "intro": "The New Testament uses two words for ‘sleep’. κοιμάω is the gentle word for believers who have died — they will wake. καθεύδω is ordinary sleep, and in 1 Thessalonians 5 the spiritual drowsiness of those who are not ready. Its opposite is γρηγορέω, to stay awake and watch. In 5:10 Paul uses ‘wake or sleep’ to mean living or having died.",
       "members": [
@@ -2418,6 +2479,12 @@
           "sense": "To be sleepless, keep awake — to stay alert and watchful, as leaders ‘watch on behalf of your souls’ (Hebrews 13:17).",
           "anchor": "Hebrews 13:17",
           "en": "watch"
+        },
+        {
+          "strongs": "G3573",
+          "sense": "To nod, to doze — to grow drowsy.",
+          "anchor": "2 Peter 2:3",
+          "en": "slumber"
         }
       ]
     },
