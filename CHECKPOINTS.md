@@ -457,3 +457,33 @@ once bible-api.com can be reached for the standard edition), so the queue moves 
 | 57 | Philemon (1 ch.) | waiting for the standard WEB text (bible-api.com) |
 | 61 | 2 Peter | ✅ built & verified |
 | 62 | 1 John (5 ch.) | next — bridge from 2 Peter; Road Ahead → 2 John, 3 John (both on the npm stand-in) |
+
+## 2026-11-24 — 1 John
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 9KB | — | ✅ | ✅ | Bridge from 2 Peter (its Road Ahead): eyewitness → eyewitness, false teachers foretold → gone out, knowledge → fellowship; authorship (unnamed; church reading of John) stated honestly |
+| Chapter 1 | 36KB | 10/10 | ✅ | ✅ | ὁράω / θεάομαι (see) and ψηλαφάω; new **darkness** family (σκοτία 1:5 vs σκότος 1:6); κοινωνία; ὁμολογέω; ἀφίημι + καθαρίζω; 1:8 vs 3:9 explained by the present tense |
+| Chapter 2 | 68KB | 29/29 | ✅ | ✅ | New **children** family (τεκνίον 2:1 vs παιδίον 2:18); παράκλητος; ἱλασμός added to **offering**; γινώσκω vs οἶδα (know); ὥρα ‘final hour’ (time); κόσμος (world); χρῖσμα; antichrists who ‘went out’; ‘for the whole world’ (2:2) read honestly. Caught & fixed: Strong's definition of χρῖσμα word for word |
+| Chapter 3 | 61KB | 24/24 | ✅ | ✅ | τέκνον (children); φανερός / φανερόω (appear); ἀνομία + ἁμαρτία (sin); σπέρμα; ζωή / ψυχή / βίος (life); σπλάγχνον added to **mercy**. Caught & fixed: Strong's definitions of ποταπός, ἀνομία and σπέρμα quoted word for word |
+| Chapter 4 | 53KB | 21/21 | ✅ | ✅ | δοκιμάζω (test the spirits); ἀγάπη / ἀγαπάω (love); μονογενής; τέλειος / τελειόω (perfect) and φόβος; ‘God is love’ (4:8, 16) |
+| Chapter 5 | 55KB | 21/21 | ✅ | ✅ | γεννάω (birth); νίκη / νικάω; water and blood (5:6) and the late addition at 5:7 (absent from the WEB) stated honestly; αἰτέω / αἴτημα / ἐρωτάω (pray, αἴτημα new); sin leading to death (5:16) read in context with the alternatives; τηρέω 5:18 vs φυλάσσω 5:21 (hold); the 5:18 ‘himself / him’ reading; ‘This is the true God’ (5:20) |
+| Final Masterclass Review | 14KB | — | ✅ | ✅ | Road Ahead → 2 John, 3 John (both quoted from the npm WEB stand-in now on disk) |
+
+- **Book total:** 5 chapters, 105/105 verses, 581 tagged words, 25 lexicon entries, 279 referenced quotations checked (exit 0).
+  Every lexicon Strong's quote checked word for word against `strongs_def` / `derivation` (0 mismatches).
+- **Word families:** 46 → 48 families, 340 → 351 words: new **darkness** (σκοτία, σκότος, ζόφος, σκοτεινός) and **children**
+  (τέκνον, τεκνίον, παιδίον); offering +ἱλασμός; appear +φανερός; mercy +σπλάγχνον; pray +αἴτημα.
+- **Family-claim audit:** 1 John 0 / 0.
+- **G2 all books `--strict`:** exit 0, 4559 referenced quotations. **G3** ✅ all 7 documents; word-panel spot checks 19/19.
+  Word-study regression 21/21. Cyrillic scan: 0.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 57 | Philemon (1 ch.) | waiting for the standard WEB text (bible-api.com) |
+| 62 | 1 John | ✅ built & verified |
+| 63 | 2 John (1 ch.) | waiting for the standard WEB text (npm stand-in on disk); bridge from 1 John |
+| 64 | 3 John (1 ch.) | waiting for the standard WEB text (npm stand-in on disk) |
+| 65 | Jude (1 ch.) | waiting for the standard WEB text (npm stand-in on disk) |
+| 66 | Revelation (22 ch.) | next on disk — its introduction would normally bridge from Jude's Road Ahead; owner to choose: write it now (bridging from 1 John) or wait for the one-chapter books |
