@@ -1581,6 +1581,37 @@
       ]
     },
     {
+      "id": "crown",
+      "name": "Crown",
+      "lang": "Greek",
+      "english": [
+        "crown",
+        "crowns",
+        "crowned"
+      ],
+      "intro": "English ‘crown’ hides two different Greek objects. στέφανος is a wreath or garland — the victor’s prize at the games, the festive garland, the honour given to one who has won or served faithfully; διάδημα (our ‘diadem’) is the band of royal authority, the crown of a king. Believers are promised στέφανοι, victory wreaths (2:10; James 1:12); the dragon and the beast claim διαδήματα (12:3; 13:1) — but on the head of the Rider called Faithful and True are ‘many’ διαδήματα (19:12). στεφανόω is the verb, to crown with a wreath.",
+      "members": [
+        {
+          "strongs": "G4735",
+          "sense": "A wreath or garland — the victor’s prize, a mark of honour and reward.",
+          "anchor": "Revelation 2:10",
+          "en": "crown"
+        },
+        {
+          "strongs": "G1238",
+          "sense": "A diadem — the royal band, the crown of a ruler’s authority.",
+          "anchor": "Revelation 19:12",
+          "en": "crowns"
+        },
+        {
+          "strongs": "G4737",
+          "sense": "To crown with a wreath of honour or victory.",
+          "anchor": "Hebrews 2:9",
+          "en": "crowned"
+        }
+      ]
+    },
+    {
       "id": "offering",
       "name": "Sacrifice, Offering & Gift",
       "lang": "Greek",
