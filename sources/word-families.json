@@ -633,6 +633,43 @@
       ]
     },
     {
+      "id": "witness",
+      "name": "Witness & Testimony",
+      "lang": "Greek",
+      "english": [
+        "witness",
+        "testimony",
+        "testify"
+      ],
+      "intro": "English ‘witness’ and ‘testimony’ hide four Greek words from one root. μάρτυς is the person who bears witness — and because so many witnesses for Jesus died for it, the word became our ‘martyr’ (Revelation 2:13; 17:6); μαρτυρία is the testimony given, the content of the witness; μαρτύριον is testimony as evidence or proof, as in ‘the tabernacle of the testimony’; and μαρτυρέω is the verb, to testify. Revelation 1:2 and 1:5 put three of them together: John testified to the testimony of Jesus Christ, the faithful witness.",
+      "members": [
+        {
+          "strongs": "G3144",
+          "sense": "A witness — the person who testifies; by extension one who dies for the testimony, a martyr.",
+          "anchor": "Revelation 1:5",
+          "en": "witness"
+        },
+        {
+          "strongs": "G3141",
+          "sense": "Testimony — the evidence or witness that is given.",
+          "anchor": "Revelation 1:2",
+          "en": "testimony"
+        },
+        {
+          "strongs": "G3142",
+          "sense": "Testimony as evidence or proof; used of the Law kept in the tabernacle.",
+          "anchor": "Revelation 15:5",
+          "en": "testimony"
+        },
+        {
+          "strongs": "G3140",
+          "sense": "To testify, to bear witness.",
+          "anchor": "Revelation 1:2",
+          "en": "testified"
+        }
+      ]
+    },
+    {
       "id": "life",
       "name": "Life & Soul",
       "lang": "Greek",
