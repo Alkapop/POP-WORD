@@ -432,3 +432,28 @@ once bible-api.com can be reached for the standard edition), so the queue moves 
 | 57 | Philemon (1 ch.) | waiting for the standard WEB text (bible-api.com) |
 | 60 | 1 Peter | ✅ built & verified |
 | 61 | 2 Peter (3 ch.) | next — bridge from 1 Peter; Road Ahead → 1 John, 2 John |
+
+## 2026-11-24 — 2 Peter
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 11KB | — | ✅ | ✅ | Bridge from 1 Peter (its Road Ahead): persecution → deception, new birth → divine nature, witness of the sufferings → eyewitnesses of the majesty, Noah. Authorship debate stated honestly |
+| Chapter 1 | 46KB | 21/21 | ✅ | ✅ | ἐπίγνωσις vs γνῶσις (know); the ladder of 1:5–7 with ἐγκράτεια (self-control), ὑπομονή (endurance), εὐσέβεια (godliness), φιλαδελφία + ἀγάπη (love); δωρέομαι (gift); ἐπιχορηγέω (1:5, 11); ἀρετή rendered ‘virtue’ and ‘moral excellence’; ἔξοδος (Luke 9:31); ἐπόπτης (see); φέρω ×4 (1:17–21). Caught & fixed: a ‘(James 2:10)’ pairing; Strong's definition of φέρω word for word |
+| Chapter 2 | 52KB | 22/22 | ✅ | ✅ | ἀγοράζω (redeem) and the ‘Master who bought them’ debate; Tartarus; τηρέω vs φυλάσσω (hold); ἰσχύς + δύναμις (2:11); γυμνάζω (discipline); δοῦλος + δουλόω; Jude parallel noted; 2:13 ἀπάταις / ἀγάπαις reading. Caught & fixed: four quotes paired with nearby references (a failed patch had let one commit through; fixed in the next commit) |
+| Chapter 3 | 48KB | 18/18 | ✅ | ✅ | ῥῆμα (3:2) vs λόγος (3:5, 7); γῆ vs κόσμος (3:5–6); ἡμέρα + ἔτος (3:8); μακροθυμέω / μακροθυμία (endurance); 3:9 honestly; 3:10 κατακαήσεται / εὑρεθήσεται; σπεύδω; καινός (new); Paul's letters as Scripture. Caught & fixed: καινός definition quoted from the derivation field |
+| Final Masterclass Review | 14KB | — | ✅ | ✅ | Road Ahead → 1 John, 2 John (2 John quoted from the npm WEB stand-in now on disk) |
+
+- **Book total:** 3 chapters, 61/61 verses, 500 tagged words, 15 lexicon entries, 177 referenced quotations checked (exit 0).
+- **Word families:** 46 families, 330 → 340 words: gift +δωρέομαι; see +ἐπόπτης +βλέμμα; sleep +νυστάζω; godliness +ἀσεβέω +εὐσεβής;
+  power +κυριότης; discipline +ἔλεγξις; sin +παρανομία; time +ἔτος.
+- **Family-claim audit:** 2 Peter 0 / 0; James and 1 Peter re-checked 0 / 0.
+- **G2 all books `--strict`:** exit 0, 4280 referenced quotations. **G3** ✅ all 5 documents; word-panel spot checks 17/17.
+  Word-study regression 21/21. Cyrillic scan: 0.
+- Process note: the stop-on-fail pattern (`set -e`, and G2 failure exits before commit) is now used for every patch-and-commit step.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 57 | Philemon (1 ch.) | waiting for the standard WEB text (bible-api.com) |
+| 61 | 2 Peter | ✅ built & verified |
+| 62 | 1 John (5 ch.) | next — bridge from 2 Peter; Road Ahead → 2 John, 3 John (both on the npm stand-in) |
