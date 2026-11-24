@@ -402,3 +402,33 @@ once bible-api.com can be reached for the standard edition), so the queue moves 
 | 57 | Philemon (1 ch.) | waiting for the standard WEB text (bible-api.com) — text on disk is the npm stand-in |
 | 59 | James | ✅ built & verified |
 | 60 | 1 Peter (5 ch.) | next — bridge from James; Road Ahead → 2 Peter, 1 John |
+
+## 2026-11-24 — 1 Peter
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 10KB | — | ✅ | ✅ | Bridge from James (its Road Ahead): διασπορά in both openings, faith tested by fire (James 1:3 → 1 Peter 1:7), Proverbs 3:34 in both, good works the world sees; Silvanus and ‘Babylon’ introduced |
+| Chapter 1 | 52KB | 25/25 | ✅ | ✅ | ἀναγεννάω (new **birth** family); τηρέω (1:4) vs φρουρέω (1:5) in hold; καιρός (1:5, 11) vs χρόνος (1:17, 20); λυτρόω (new **redeem** family); φιλαδελφία + ἀγαπάω (1:22); λόγος (1:23) vs ῥῆμα (1:25); ἀποκαλύπτω vs φανερόω; 1:8 εἰδότες / ἰδόντες reading. Caught & fixed: a combined vv. 18–19 quote split |
+| Chapter 2 | 52KB | 25/25 | ✅ | ✅ | Living stones and πέτρα; χρηστός (good); ἀποδοκιμάζω (test); ὑπογραμμός vs τύπος (pattern); πάσχω (new **suffer** family); οἰκέτης vs δοῦλος (servant); ἰάομαι (heal); slavery addressed honestly. Caught & fixed: a quote paired with James 5:19; two Strong's definitions quoted word for word |
+| Chapter 3 | 51KB | 22/22 | ✅ | ✅ | κόσμος as ‘adorning’; λόγος / ἄνευ λόγου; συμπαθής + εὔσπλαγχνος (mercy), φιλάδελφος + φιλόφρων (love); 3:8, 3:13, 3:15, 3:18 readings; the spirits in prison (3:19) — strongest reading plus the alternatives; baptism and ἐπερώτημα; ἐξουσία + δύναμις (3:22) |
+| Chapter 4 | 43KB | 19/19 | ✅ | ✅ | βιόω vs ζάω (life); χρόνος (4:2–3) vs καιρός (4:17); 4:6 ‘preached to the dead’ read honestly; χάρισμα + οἰκονόμος; λόγιον (word); ἰσχύς + κράτος (4:11); παρατίθημι = Luke 23:46. Caught & fixed: a ‘(James 5:12)’ pairing |
+| Chapter 5 | 39KB | 14/14 | ✅ | ✅ | ποιμαίνω (John 21:16); κατακυριεύω (Mark 10:42); ἐγκομβόομαι (John 13:4); ταπεινοφροσύνη / ταπεινός; ἀνθίστημι (James 4:7); καταρτίζω, στηρίζω (Luke 22:32); Babylon = Rome stated with alternatives; φίλημα + ἀγάπη. Caught & fixed: two Strong's definitions; a quote paired with Acts 12:12 |
+| Final Masterclass Review | 14KB | — | ✅ | ✅ | Road Ahead → 2 Peter, 1 John |
+
+- **Book total:** 5 chapters, 105/105 verses, 737 tagged words, 25 lexicon entries, 263 referenced quotations checked (exit 0).
+  Every quoted Strong's definition compared with the dictionary text.
+- **Word families:** 43 → 46 families, 288 → 330 words. New: **birth**, **redeem**, **suffer**. Added members include hold
+  +φρουρέω; appear +ἀποκάλυψις; perfect +τελείως +ἐπιτελέω; image +συσχηματίζω; good +χρηστός +ἀγαθοποιέω +ἀγαθοποιός
+  +ἀγαθοποιΐα; test +ἀποδοκιμάζω; see +ἐποπτεύω; pattern +ὑπογραμμός; evil +κακοποιός +κακόω +κακοποιέω; love +φιλάδελφος
+  +φιλόφρων +φίλημα; mercy +συμπαθής +εὔσπλαγχνος; life +ζωοποιέω +βιόω; servant +οἰκονόμος; word +λόγιον; power +κραταιός
+  +σθενόω; time +αἰώνιος. James notes updated to name the birth and suffer families. `CLAUDE.md` list updated.
+- **Family-claim audit:** 1 Peter 0 / 0; James re-checked 0 / 0.
+- **G2 all books `--strict`:** exit 0, 4103 referenced quotations. **G3** ✅ all 7 documents (James re-checked); word-panel
+  spot checks 20/20. Word-study regression 21/21. Cyrillic scan: 0.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 57 | Philemon (1 ch.) | waiting for the standard WEB text (bible-api.com) |
+| 60 | 1 Peter | ✅ built & verified |
+| 61 | 2 Peter (3 ch.) | next — bridge from 1 Peter; Road Ahead → 1 John, 2 John |

@@ -13,7 +13,9 @@
         "working",
         "dominion",
         "ruler",
-        "powerfully"
+        "powerfully",
+        "mighty",
+        "strengthen"
       ],
       "intro": "English Bibles say ‘power’ for at least six different Greek words. Paul stacks four of them in one breath in Ephesians 1:19 and lists four ranks of spiritual power in Ephesians 1:21. In Colossians 1:13 the WEB's ‘power of darkness’ is not δύναμις at all but ἐξουσία — authority. Knowing which word stands behind ‘power’ tells you what kind of power is meant.",
       "members": [
@@ -106,6 +108,18 @@
           "sense": "To have strength, to prevail — force exercised.",
           "anchor": "James 5:16",
           "en": "powerfully"
+        },
+        {
+          "strongs": "G2900",
+          "sense": "Mighty — strong with ruling might, the adjective of κράτος.",
+          "anchor": "1 Peter 5:6",
+          "en": "mighty"
+        },
+        {
+          "strongs": "G4599",
+          "sense": "To strengthen — to make strong in body and resolve.",
+          "anchor": "1 Peter 5:10",
+          "en": "strengthen"
         }
       ]
     },
@@ -152,7 +166,8 @@
         "age",
         "day",
         "year",
-        "tomorrow"
+        "tomorrow",
+        "eternal"
       ],
       "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
@@ -233,6 +248,12 @@
           "sense": "Tomorrow — the next day, which no one controls.",
           "anchor": "James 4:13",
           "en": "tomorrow"
+        },
+        {
+          "strongs": "G166",
+          "sense": "Eternal — belonging to the age to come, without end.",
+          "anchor": "1 Peter 5:10",
+          "en": "eternal"
         }
       ]
     },
@@ -247,7 +268,10 @@
         "lovers",
         "beloved",
         "friend",
-        "friendship"
+        "friendship",
+        "loving as brothers",
+        "courteous",
+        "kiss"
       ],
       "intro": "In John 21:15 Jesus asks with ἀγαπάω and Peter answers with φιλέω; the WEB marks the difference as ‘love’ and ‘affection’. The common Greek word ἔρως (romantic desire) never appears in the New Testament. 2 Timothy 3:2–4 adds a row of φιλ- compounds — lovers of self, of money, of pleasure, rather than lovers of God: love itself misdirected. Titus adds the bright side of the φιλ- compounds: lover of good, of guests, of husband and children — and God’s own φιλανθρωπία, His love toward mankind.",
       "members": [
@@ -370,6 +394,24 @@
           "sense": "Friendship — warm personal affection and loyalty.",
           "anchor": "James 4:4",
           "en": "friendship"
+        },
+        {
+          "strongs": "G5361",
+          "sense": "Loving as brothers — warm family affection for fellow believers.",
+          "anchor": "1 Peter 3:8",
+          "en": "loving as brothers"
+        },
+        {
+          "strongs": "G5391",
+          "sense": "Friendly-minded, courteous — kindly disposed towards others.",
+          "anchor": "1 Peter 3:8",
+          "en": "courteous"
+        },
+        {
+          "strongs": "G5370",
+          "sense": "A kiss — the sign of affection (from φιλέω).",
+          "anchor": "1 Peter 5:14",
+          "en": "kiss"
         }
       ]
     },
@@ -381,7 +423,9 @@
         "mercy",
         "merciful",
         "compassion",
-        "mercies"
+        "mercies",
+        "compassionate",
+        "tender hearted"
       ],
       "intro": "Two Greek families stand behind ‘mercy’ and ‘compassion’. ἔλεος / ἐλεέω is mercy that acts — help given to those in need or misery, pardon to the guilty. οἰκτιρμός / οἰκτίρμων / οἰκτίρω is pity, the tender feeling of compassion. And σπλάγχνα words (σπλαγχνίζομαι, πολύσπλαγχνος) speak of compassion felt in the gut — being moved inside. Romans 9:15 sets ἐλεέω and οἰκτίρω side by side, and James 5:11 calls the Lord πολύσπλαγχνος and οἰκτίρμων, ‘full of compassion and mercy’.",
       "members": [
@@ -426,6 +470,18 @@
           "sense": "To be moved with compassion — to feel it in the gut.",
           "anchor": "Matthew 9:36",
           "en": "compassion"
+        },
+        {
+          "strongs": "G4835",
+          "sense": "Sympathetic — feeling with another, suffering alongside.",
+          "anchor": "1 Peter 3:8",
+          "en": "compassionate"
+        },
+        {
+          "strongs": "G2155",
+          "sense": "Tender-hearted — compassionate from deep within.",
+          "anchor": "1 Peter 3:8",
+          "en": "tender hearted"
         }
       ]
     },
@@ -532,7 +588,8 @@
       "name": "Word & Utterance",
       "lang": "Greek",
       "english": [
-        "word"
+        "word",
+        "words"
       ],
       "intro": "Both λόγος and ῥῆμα are translated ‘word’. The sword of the Spirit in Ephesians 6:17 is the ῥῆμα of God — the word spoken.",
       "members": [
@@ -547,6 +604,12 @@
           "sense": "A spoken word, an utterance — a particular saying that proceeds out of a mouth.",
           "anchor": "Ephesians 6:17",
           "en": "word"
+        },
+        {
+          "strongs": "G3051",
+          "sense": "An oracle — an utterance of God.",
+          "anchor": "1 Peter 4:11",
+          "en": "words"
         }
       ]
     },
@@ -557,7 +620,8 @@
       "english": [
         "life",
         "live",
-        "soul"
+        "soul",
+        "made alive"
       ],
       "intro": "‘Life’ in English Bibles can stand for three Greek words: life itself, the means of living, and the individual soul. John 10:10–11 uses two of them a sentence apart.",
       "members": [
@@ -584,6 +648,63 @@
           "sense": "To live — the verb of ζωή: to be alive, with the life that comes from God.",
           "anchor": "Hebrews 12:9",
           "en": "live"
+        },
+        {
+          "strongs": "G2227",
+          "sense": "To make alive, to give life.",
+          "anchor": "1 Peter 3:18",
+          "en": "made alive"
+        },
+        {
+          "strongs": "G980",
+          "sense": "To live out one’s life — the course of earthly life (βίος), as distinct from ζάω, to be alive.",
+          "anchor": "1 Peter 4:2",
+          "en": "live"
+        }
+      ]
+    },
+    {
+      "id": "birth",
+      "name": "Birth & New Birth",
+      "lang": "Greek",
+      "english": [
+        "born",
+        "born again",
+        "born anew",
+        "gave birth",
+        "bears"
+      ],
+      "intro": "Several Greek words lie behind ‘born’ and ‘birth’. γεννάω is the ordinary word for fathering or being born; Jesus says one must be born ἄνωθεν, ‘anew’ or ‘from above’ (John 3:3). ἀναγεννάω, ‘to beget again’, is Peter’s word for new birth (1 Peter 1:3, 23). ἀποκυέω is to bring forth from the womb — James uses it both for sin giving birth to death and for God giving birth to us by the word of truth (James 1:15, 18). τίκτω is to bear, to give birth.",
+      "members": [
+        {
+          "strongs": "G1080",
+          "sense": "To father, to be born — the ordinary word for birth.",
+          "anchor": "John 3:3",
+          "en": "born"
+        },
+        {
+          "strongs": "G313",
+          "sense": "To beget again, to cause to be born again.",
+          "anchor": "1 Peter 1:3",
+          "en": "born again"
+        },
+        {
+          "strongs": "G616",
+          "sense": "To bring forth from the womb — of sin giving birth to death, and of God giving birth to His children.",
+          "anchor": "James 1:18",
+          "en": "gave birth"
+        },
+        {
+          "strongs": "G5088",
+          "sense": "To bear, to give birth to.",
+          "anchor": "James 1:15",
+          "en": "bears"
+        },
+        {
+          "strongs": "G738",
+          "sense": "Newly born — a baby just born.",
+          "anchor": "1 Peter 2:2",
+          "en": "newborn"
         }
       ]
     },
@@ -694,7 +815,8 @@
       "lang": "Greek",
       "english": [
         "servant",
-        "servants"
+        "servants",
+        "managers"
       ],
       "intro": "‘Servant’ can translate five Greek words, each describing a different relationship of service.",
       "members": [
@@ -775,6 +897,12 @@
           "sense": "Worship-service — the noun of λατρεύω: the ordered service offered to God.",
           "anchor": "Hebrews 9:1",
           "en": "divine service"
+        },
+        {
+          "strongs": "G3623",
+          "sense": "A household manager, a steward — trusted with the master’s goods.",
+          "anchor": "1 Peter 4:10",
+          "en": "managers"
         }
       ]
     },
@@ -959,7 +1087,8 @@
         "testing",
         "tempted",
         "tested",
-        "approved"
+        "approved",
+        "rejected"
       ],
       "intro": "English splits one Greek idea into ‘trial’ and ‘temptation’, and joins two different Greek ideas under ‘test’. πειρασμός / πειράζω is a putting to the test — it can be an outward trial God allows to strengthen faith, or an inner pull towards sin that never comes from God; context decides which. δοκίμιον / δοκιμάζω / δόκιμος is the assayer’s word: testing metal by fire to prove it genuine, and the approval that follows. James 1:2–15 uses both families side by side: the same πειρασμός can make you δόκιμος (approved) or, if your own desire takes hold of it, lead to sin.",
       "members": [
@@ -998,6 +1127,12 @@
           "sense": "Approved after testing — proven genuine, like coin that has passed the assay.",
           "anchor": "James 1:12",
           "en": "approved"
+        },
+        {
+          "strongs": "G593",
+          "sense": "To reject after testing — to examine and declare unfit.",
+          "anchor": "1 Peter 2:7",
+          "en": "rejected"
         }
       ]
     },
@@ -1040,6 +1175,50 @@
       ]
     },
     {
+      "id": "suffer",
+      "name": "Suffer & Suffering",
+      "lang": "Greek",
+      "english": [
+        "suffered",
+        "sufferings",
+        "suffering",
+        "suffer"
+      ],
+      "intro": "English ‘suffer’ and ‘suffering’ cover several Greek words. πάσχω / πάθημα is to undergo, to experience something painful done to you — Peter’s great word, used of Christ’s sufferings and the believer’s (1 Peter 1:11; 2:21). συμπάσχω is to suffer together with Christ (Romans 8:17). κακοπαθέω / κακοπάθεια is to endure hardship, to put up with what is bad (James 5:10, 13). First Peter uses this vocabulary more than any other letter.",
+      "members": [
+        {
+          "strongs": "G3958",
+          "sense": "To undergo, to suffer — to experience pain done to you.",
+          "anchor": "1 Peter 2:21",
+          "en": "suffered"
+        },
+        {
+          "strongs": "G3804",
+          "sense": "A suffering — what one undergoes, especially the sufferings of Christ.",
+          "anchor": "1 Peter 1:11",
+          "en": "sufferings"
+        },
+        {
+          "strongs": "G4841",
+          "sense": "To suffer together with — to share in Christ’s sufferings.",
+          "anchor": "Romans 8:17",
+          "en": "suffer"
+        },
+        {
+          "strongs": "G2553",
+          "sense": "To endure hardship, to suffer evil.",
+          "anchor": "James 5:13",
+          "en": "suffering"
+        },
+        {
+          "strongs": "G2552",
+          "sense": "Hardship endured — suffering borne patiently.",
+          "anchor": "James 5:10",
+          "en": "suffering"
+        }
+      ]
+    },
+    {
       "id": "evil",
       "name": "Evil & Malice",
       "lang": "Greek",
@@ -1047,7 +1226,10 @@
         "evil",
         "malice",
         "wicked",
-        "wrong"
+        "wrong",
+        "evildoers",
+        "harm",
+        "doing evil"
       ],
       "intro": "English ‘evil’ hides several Greek words. κακός describes what is bad in itself — worthless, harmful in nature. πονηρός describes evil that is active and aggressive, actively doing harm; it is used of ‘the evil one’. 1 Thessalonians 5 uses both: do not repay κακός for κακός (5:15), and abstain from every form of πονηρός (5:22). φαῦλος adds a third shade: the worthless, paltry deed.",
       "members": [
@@ -1080,6 +1262,24 @@
           "sense": "Badly, wrongly — the adverb of κακός.",
           "anchor": "James 4:3",
           "en": "wrong"
+        },
+        {
+          "strongs": "G2555",
+          "sense": "An evildoer — one who does what is bad.",
+          "anchor": "1 Peter 2:12",
+          "en": "evildoers"
+        },
+        {
+          "strongs": "G2559",
+          "sense": "To harm, to do evil to — to injure someone.",
+          "anchor": "1 Peter 3:13",
+          "en": "harm"
+        },
+        {
+          "strongs": "G2554",
+          "sense": "To do evil, to do wrong.",
+          "anchor": "1 Peter 3:17",
+          "en": "doing evil"
         }
       ]
     },
@@ -1090,7 +1290,8 @@
       "english": [
         "image",
         "form",
-        "likeness"
+        "likeness",
+        "conforming"
       ],
       "intro": "English ‘image’ and ‘form’ hide several Greek words. εἰκών is a true image or portrait that shares in what it shows (Colossians 1:15); χαρακτήρ is the exact imprint a seal or die leaves (Hebrews 1:3). μορφή is the form that expresses what a thing really is (Philippians 2:6), while σχῆμα is outward appearance and ὁμοίωμα likeness. μόρφωσις can be a mere outward shape without the reality (2 Timothy 3:5).",
       "members": [
@@ -1135,6 +1336,12 @@
           "sense": "Likeness, resemblance — the word of Genesis 1:26 in the Greek Old Testament.",
           "anchor": "James 3:9",
           "en": "image"
+        },
+        {
+          "strongs": "G4964",
+          "sense": "To shape oneself after a pattern, to be conformed to an outward mould.",
+          "anchor": "1 Peter 1:14",
+          "en": "conforming"
         }
       ]
     },
@@ -1183,6 +1390,12 @@
           "sense": "Symbol, comparison — something set alongside to illustrate.",
           "anchor": "Hebrews 9:9",
           "en": "symbol"
+        },
+        {
+          "strongs": "G5261",
+          "sense": "A writing-copy — the letters a teacher writes for a child to trace.",
+          "anchor": "1 Peter 2:21",
+          "en": "example"
         }
       ]
     },
@@ -1196,7 +1409,8 @@
         "keep",
         "kept",
         "guard",
-        "holding"
+        "holding",
+        "guarded"
       ],
       "intro": "English ‘hold fast’ and ‘keep’ hide several Greek words. κατέχω is to hold down, keep a firm grip so nothing slips (Hebrews 3:14; 10:23). κρατέω, from κράτος (strength), is to seize and hold with force (Hebrews 4:14). τηρέω is to keep watch over, preserve (2 Timothy 4:7 ‘I have kept the faith’). φυλάσσω is to guard like a sentry (1 Timothy 6:20). ἀντέχομαι is to cling to, hold on against opposition (Titus 1:9).",
       "members": [
@@ -1229,6 +1443,12 @@
           "sense": "To cling to, hold on firmly against pressure.",
           "anchor": "Titus 1:9",
           "en": "holding"
+        },
+        {
+          "strongs": "G5432",
+          "sense": "To guard as a garrison guards a city — to keep under protection.",
+          "anchor": "1 Peter 1:5",
+          "en": "guarded"
         }
       ]
     },
@@ -1322,6 +1542,50 @@
           "sense": "A gift, an offering presented.",
           "anchor": "Ephesians 2:8",
           "en": "gift"
+        }
+      ]
+    },
+    {
+      "id": "redeem",
+      "name": "Redeem, Ransom & Buy",
+      "lang": "Greek",
+      "english": [
+        "redeemed",
+        "bought",
+        "redemption",
+        "ransom"
+      ],
+      "intro": "English ‘redeem’ and ‘ransom’ cover several Greek words from two roots. λύτρον / λυτρόω / ἀπολύτρωσις come from λύω, to loose: a ransom is the price that sets a captive or slave free (Matthew 20:28; 1 Peter 1:18). ἀγοράζω / ἐξαγοράζω come from the ἀγορά, the market-place: to buy, and to buy out of — purchased so as to belong to a new owner (1 Corinthians 6:20; Galatians 3:13). Peter says the price was not silver or gold but “precious blood” (1 Peter 1:19).",
+      "members": [
+        {
+          "strongs": "G3084",
+          "sense": "To ransom, to set free by paying a price.",
+          "anchor": "1 Peter 1:18",
+          "en": "redeemed"
+        },
+        {
+          "strongs": "G3083",
+          "sense": "A ransom — the price paid to free a captive.",
+          "anchor": "Matthew 20:28",
+          "en": "ransom"
+        },
+        {
+          "strongs": "G629",
+          "sense": "Redemption — release secured by a ransom.",
+          "anchor": "Ephesians 1:7",
+          "en": "redemption"
+        },
+        {
+          "strongs": "G59",
+          "sense": "To buy in the market-place — purchased to belong to a new owner.",
+          "anchor": "1 Corinthians 6:20",
+          "en": "bought"
+        },
+        {
+          "strongs": "G1805",
+          "sense": "To buy out of, to buy back — redeemed from slavery to the law’s curse.",
+          "anchor": "Galatians 3:13",
+          "en": "redeemed"
         }
       ]
     },
@@ -1623,7 +1887,8 @@
         "full grown",
         "fulfill",
         "fulfilled",
-        "outcome"
+        "outcome",
+        "fully"
       ],
       "intro": "English ‘perfect’ usually means flawless, but the Greek τέλειος family means reaching the goal (τέλος): complete, mature, fully grown. Hebrews uses it again and again: Christ was ‘made perfect’ — fully qualified as Saviour — through suffering (2:10), and is the ‘perfecter’ of faith (12:2). The law could not bring τελείωσις (7:11). A different root, καταρτίζω / ἄρτιος, means fitted, equipped, mended; ὁλόκληρος means whole in every part.",
       "members": [
@@ -1692,6 +1957,18 @@
           "sense": "The end, the goal — the point God is working towards.",
           "anchor": "James 5:11",
           "en": "outcome"
+        },
+        {
+          "strongs": "G5049",
+          "sense": "Fully, completely — the adverb of τέλειος.",
+          "anchor": "1 Peter 1:13",
+          "en": "fully"
+        },
+        {
+          "strongs": "G2005",
+          "sense": "To carry through to the end, to complete, to accomplish.",
+          "anchor": "1 Peter 5:9",
+          "en": "undergoing"
         }
       ]
     },
@@ -1858,7 +2135,10 @@
       "lang": "Greek",
       "english": [
         "good",
-        "well"
+        "well",
+        "gracious",
+        "do well",
+        "doing good"
       ],
       "intro": "Greek distinguishes what is good in its effect from what is good and beautiful to look at.",
       "members": [
@@ -1897,6 +2177,30 @@
           "sense": "Well, rightly — the adverb of καλός: doing what is fine and fitting.",
           "anchor": "James 2:8",
           "en": "well"
+        },
+        {
+          "strongs": "G5543",
+          "sense": "Kind, gracious — good in its kindness, easy and pleasant.",
+          "anchor": "1 Peter 2:3",
+          "en": "gracious"
+        },
+        {
+          "strongs": "G15",
+          "sense": "To do good, to do what is right.",
+          "anchor": "1 Peter 2:20",
+          "en": "do well"
+        },
+        {
+          "strongs": "G17",
+          "sense": "A well-doer — one who does what is good.",
+          "anchor": "1 Peter 2:14",
+          "en": "do well"
+        },
+        {
+          "strongs": "G16",
+          "sense": "Well-doing — the practice of doing good.",
+          "anchor": "1 Peter 4:19",
+          "en": "doing good"
         }
       ]
     },
@@ -1960,6 +2264,12 @@
           "sense": "To stoop and peer in — to bend over to look closely.",
           "anchor": "James 1:25",
           "en": "looks"
+        },
+        {
+          "strongs": "G2029",
+          "sense": "To watch closely, to observe as an eyewitness.",
+          "anchor": "1 Peter 2:12",
+          "en": "see"
         }
       ]
     },
@@ -1972,7 +2282,8 @@
         "appeared",
         "appearing",
         "revealed",
-        "vanishes"
+        "vanishes",
+        "revelation"
       ],
       "intro": "English ‘appear’ and ‘reveal’ cover several Greek words. ἐπιφαίνω / ἐπιφάνεια is a shining-forth, like dawn breaking or a king’s arrival: Titus uses it for both comings of Christ (2:11, 13; 3:4). φανερόω is to make visible what was hidden; φαίνω, to shine or be seen; ὤφθη (from ὁράω / ὀπτάνομαι), ‘was seen’, is used of the risen Lord’s appearances; ἀποκαλύπτω is to unveil, to take the cover off. Hebrews 9:24–28 uses three of them for Christ’s three appearings: φανερόω (He ‘has been revealed’ once, v. 26), ἐμφανίζω (He now appears before God for us, v. 24) and ὤφθη/ὁράω (He ‘will appear’ a second time, v. 28).",
       "members": [
@@ -2029,6 +2340,12 @@
           "sense": "To make unseen, to vanish — the opposite of φαίνω, to appear.",
           "anchor": "James 4:14",
           "en": "vanishes"
+        },
+        {
+          "strongs": "G602",
+          "sense": "Revelation, unveiling — the moment something hidden is uncovered.",
+          "anchor": "1 Peter 1:7",
+          "en": "revelation"
         }
       ]
     },
