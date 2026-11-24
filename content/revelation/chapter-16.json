@@ -1,0 +1,1524 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 16,
+  "chapterTitle": "The Seven Bowls of God's Wrath",
+  "themeTitle": "“True and Righteous Are Your Judgments”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I heard a loud voice out of the temple, saying to the seven angels, “Go and pour out the seven bowls of the wrath of God on the earth!”",
+      "understanding": "Καὶ ἤκουσα μεγάλης φωνῆς ἐκ τοῦ ναοῦ, “I heard a loud voice out of the temple” — from the temple no one could enter (15:8): the voice of God Himself. Ὑπάγετε καὶ ἐκχέετε τὰς ἑπτὰ φιάλας τοῦ θυμοῦ τοῦ θεοῦ εἰς τὴν γῆν, “Go and pour out the seven bowls of the wrath of God on the earth!” — ἐκχέω, to pour out: the word for pouring out drink offerings and blood; θυμός, from the wrath family; γῆ, from the world family. Where the trumpets struck a third, the bowls strike everything.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "loud"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G2033",
+          "hebrew": "ἑπτά",
+          "translit": "heptá",
+          "english": "seven"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G5217",
+          "hebrew": "ὑπάγω",
+          "translit": "hypágō",
+          "english": "Go"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "pour out"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowls"
+        },
+        {
+          "strongs": "G2372",
+          "hebrew": "θυμός",
+          "translit": "thymós",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "The first went, and poured out his bowl into the earth, and it became a harmful and evil sore on the people who had the mark of the beast, and who worshiped his image.",
+      "understanding": "Καὶ ἀπῆλθεν ὁ πρῶτος καὶ ἐξέχεεν τὴν φιάλην αὐτοῦ εἰς τὴν γῆν, “The first went, and poured out his bowl into the earth” — ἐκχέω; γῆ, from the world family. καὶ ἐγένετο ἕλκος κακὸν καὶ πονηρόν, “and it became a harmful and evil sore” — ἕλκος, an ulcer, like the boils of the sixth plague of Egypt. Two members of the evil family: κακός, bad, harmful in itself, and πονηρός, actively malignant, causing pain. ἐπὶ τοὺς ἀνθρώπους τοὺς ἔχοντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ, “on the people who had the mark of the beast, and who worshiped his image” — χάραγμα; εἰκών, from the image family: the mark they accepted becomes a sore.",
+      "words": [
+        {
+          "strongs": "G565",
+          "hebrew": "ἀπέρχομαι",
+          "translit": "apérchomai",
+          "english": "went"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "poured out"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowl"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G1668",
+          "hebrew": "ἕλκος",
+          "translit": "hélkos",
+          "english": "sore"
+        },
+        {
+          "strongs": "G2556",
+          "hebrew": "κακός",
+          "translit": "kakós",
+          "english": "harmful"
+        },
+        {
+          "strongs": "G4190",
+          "hebrew": "πονηρός",
+          "translit": "ponērós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "people"
+        },
+        {
+          "strongs": "G5480",
+          "hebrew": "χάραγμα",
+          "translit": "cháragma",
+          "english": "mark"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "beast"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worshiped"
+        },
+        {
+          "strongs": "G1504",
+          "hebrew": "εἰκών",
+          "translit": "eikṓn",
+          "english": "image"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "The second angel poured out his bowl into the sea, and it became blood as of a dead man. Every living thing in the sea died.",
+      "understanding": "Καὶ ὁ δεύτερος ἐξέχεεν τὴν φιάλην αὐτοῦ εἰς τὴν θάλασσαν, “The second angel poured out his bowl into the sea” — ἐκχέω. καὶ ἐγένετο αἷμα ὡς νεκροῦ, “and it became blood as of a dead man” — not a third (8:8) but all: thick, clotted, stinking. καὶ πᾶσα ψυχὴ ζωῆς ἀπέθανεν, τὰ ἐν τῇ θαλάσσῃ, “Every living thing in the sea died” — ψυχή and ζωή, two members of the life family together: literally ‘every soul of life’; ψυχή is a living being, ζωή the principle of life itself.",
+      "words": [
+        {
+          "strongs": "G1208",
+          "hebrew": "δεύτερος",
+          "translit": "deúteros",
+          "english": "second"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "poured out"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowl"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "living thing"
+        },
+        {
+          "strongs": "G599",
+          "hebrew": "ἀποθνήσκω",
+          "translit": "apothnḗskō",
+          "english": "died"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "The third poured out his bowl into the rivers and springs of water, and they became blood.",
+      "understanding": "Καὶ ὁ τρίτος ἐξέχεεν τὴν φιάλην αὐτοῦ εἰς τοὺς ποταμοὺς καὶ τὰς πηγὰς τῶν ὑδάτων, “The third poured out his bowl into the rivers and springs of water” — ἐκχέω. καὶ ἐγένετο αἷμα, “and they became blood” — the first plague of Egypt in full. Fresh water, essential to life, is gone.",
+      "words": [
+        {
+          "strongs": "G5154",
+          "hebrew": "τρίτος",
+          "translit": "trítos",
+          "english": "third"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "poured out"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowl"
+        },
+        {
+          "strongs": "G4215",
+          "hebrew": "ποταμός",
+          "translit": "potamós",
+          "english": "rivers"
+        },
+        {
+          "strongs": "G4077",
+          "hebrew": "πηγή",
+          "translit": "pēgḗ",
+          "english": "springs"
+        },
+        {
+          "strongs": "G5204",
+          "hebrew": "ὕδωρ",
+          "translit": "hýdōr",
+          "english": "water"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "I heard the angel of the waters saying, “You are righteous, who are and who were, O Holy One, because you have judged these things.",
+      "understanding": "Καὶ ἤκουσα τοῦ ἀγγέλου τῶν ὑδάτων λέγοντος, “I heard the angel of the waters saying” — Jewish tradition spoke of angels set over the elements. Δίκαιος εἶ, ὁ ὢν καὶ ὁ ἦν, ὁ ὅσιος, “You are righteous, who are and who were, O Holy One” — ὅσιος, from the holy family: holy as perfectly true and right, as distinct from ἅγιος, set apart (15:4). As in 11:17, ‘who is to come’ is missing: He has come. ὅτι ταῦτα ἔκρινας, “because you have judged these things” — κρίνω, from the judge family. Even the angel over the waters affirms the justice of the plague on them.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G5204",
+          "hebrew": "ὕδωρ",
+          "translit": "hýdōr",
+          "english": "waters"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous"
+        },
+        {
+          "strongs": "G3741",
+          "hebrew": "ὅσιος",
+          "translit": "hósios",
+          "english": "Holy One"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "For they poured out the blood of the saints and prophets, and you have given them blood to drink. They deserve this.”",
+      "understanding": "ὅτι αἷμα ἁγίων καὶ προφητῶν ἐξέχεαν, “For they poured out the blood of the saints and prophets” — ἐκχέω: the same verb as the angels' pouring. They poured out blood; now God pours out His bowls; ἅγιος, from the holy family: the saints, God's holy ones. καὶ αἷμα αὐτοῖς δέδωκας πιεῖν, “and you have given them blood to drink” — the punishment fits the crime exactly. ἄξιοί εἰσιν, “They deserve this” — ἄξιος, worthy: the same word used of the Lamb (5:9) and of the faithful in Sardis (3:4). Each receives what they are ‘worthy’ of.",
+      "words": [
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "poured out"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "given"
+        },
+        {
+          "strongs": "G4095",
+          "hebrew": "πίνω",
+          "translit": "pínō",
+          "english": "drink"
+        },
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "áxios",
+          "english": "deserve"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "I heard the altar saying, “Yes, Lord God, the Almighty, true and righteous are your judgments.”",
+      "understanding": "καὶ ἤκουσα τοῦ θυσιαστηρίου λέγοντος, “I heard the altar saying” — the altar under which the martyrs cried ‘How long?’ (6:9–10), and from which the saints' prayers rose (8:3). Now it answers. Ναί, κύριε ὁ θεὸς ὁ παντοκράτωρ, ἀληθιναὶ καὶ δίκαιαι αἱ κρίσεις σου, “Yes, Lord God, the Almighty, true and righteous are your judgments” — κρίσις, from the judge family: judgement as an act of justice, as distinct from κρίμα, the sentence. The martyrs' prayer has been answered.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G2379",
+          "hebrew": "θυσιαστήριον",
+          "translit": "thysiastḗrion",
+          "english": "altar"
+        },
+        {
+          "strongs": "G3483",
+          "hebrew": "ναί",
+          "translit": "naí",
+          "english": "Yes"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3841",
+          "hebrew": "παντοκράτωρ",
+          "translit": "pantokrátōr",
+          "english": "Almighty"
+        },
+        {
+          "strongs": "G228",
+          "hebrew": "ἀληθινός",
+          "translit": "alēthinós",
+          "english": "true"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous"
+        },
+        {
+          "strongs": "G2920",
+          "hebrew": "κρίσις",
+          "translit": "krísis",
+          "english": "judgments"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "The fourth poured out his bowl on the sun, and it was given to him to scorch men with fire.",
+      "understanding": "Καὶ ὁ τέταρτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ἥλιον, “The fourth poured out his bowl on the sun” — ἐκχέω. Where the fourth trumpet darkened the sun (8:12), the fourth bowl intensifies it. καὶ ἐδόθη αὐτῷ καυματίσαι τοὺς ἀνθρώπους ἐν πυρί, “and it was given to him to scorch men with fire” — καυματίζω. The sun that God promised would not strike His people (7:16) strikes those who refused Him.",
+      "words": [
+        {
+          "strongs": "G5067",
+          "hebrew": "τέταρτος",
+          "translit": "tétartos",
+          "english": "fourth"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "poured out"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowl"
+        },
+        {
+          "strongs": "G2246",
+          "hebrew": "ἥλιος",
+          "translit": "hḗlios",
+          "english": "sun"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "given"
+        },
+        {
+          "strongs": "G2739",
+          "hebrew": "καυματίζω",
+          "translit": "kaumatízō",
+          "english": "scorch"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "men"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "People were scorched with great heat, and people blasphemed the name of God who has the power over these plagues. They didn’t repent and give him glory.",
+      "understanding": "καὶ ἐκαυματίσθησαν οἱ ἄνθρωποι καῦμα μέγα, “People were scorched with great heat” — καὶ ἐβλασφήμησαν τὸ ὄνομα τοῦ θεοῦ τοῦ ἔχοντος τὴν ἐξουσίαν ἐπὶ τὰς πληγὰς ταύτας, “and people blasphemed the name of God who has the power over these plagues” — βλασφημέω: the beast's sin (13:6) has become theirs; ἐξουσία, from the power family: they know God controls the plagues, and they curse Him for it. καὶ οὐ μετενόησαν δοῦναι αὐτῷ δόξαν, “They didn’t repent and give him glory” — μετανοέω: contrast 11:13, where witness led people to give God glory.",
+      "words": [
+        {
+          "strongs": "G2739",
+          "hebrew": "καυματίζω",
+          "translit": "kaumatízō",
+          "english": "scorched"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "People"
+        },
+        {
+          "strongs": "G2738",
+          "hebrew": "καῦμα",
+          "translit": "kaûma",
+          "english": "heat"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G987",
+          "hebrew": "βλασφημέω",
+          "translit": "blasphēméō",
+          "english": "blasphemed"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "power"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plagues"
+        },
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoéō",
+          "english": "repent"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "The fifth poured out his bowl on the throne of the beast, and his kingdom was darkened. They gnawed their tongues because of the pain,",
+      "understanding": "Καὶ ὁ πέμπτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν θρόνον τοῦ θηρίου, “The fifth poured out his bowl on the throne of the beast” — the throne the dragon gave him (13:2). Judgement strikes the centre of the beast's power. καὶ ἐγένετο ἡ βασιλεία αὐτοῦ ἐσκοτωμένη, “and his kingdom was darkened” — σκοτόω, from the darkness family: like the ninth plague of Egypt, darkness that could be felt. καὶ ἐμασῶντο τὰς γλώσσας αὐτῶν ἐκ τοῦ πόνου, “They gnawed their tongues because of the pain” — πόνος, anguish.",
+      "words": [
+        {
+          "strongs": "G3991",
+          "hebrew": "πέμπτος",
+          "translit": "pémptos",
+          "english": "fifth"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "poured out"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowl"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "beast"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "kingdom"
+        },
+        {
+          "strongs": "G4656",
+          "hebrew": "σκοτόω",
+          "translit": "skotóō",
+          "english": "darkened"
+        },
+        {
+          "strongs": "G3145",
+          "hebrew": "μασσάομαι",
+          "translit": "massáomai",
+          "english": "gnawed"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "tongues"
+        },
+        {
+          "strongs": "G4192",
+          "hebrew": "πόνος",
+          "translit": "pónos",
+          "english": "pain"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "and they blasphemed the God of heaven because of their pains and their sores. They didn’t repent of their works.",
+      "understanding": "καὶ ἐβλασφήμησαν τὸν θεὸν τοῦ οὐρανοῦ ἐκ τῶν πόνων αὐτῶν καὶ ἐκ τῶν ἑλκῶν αὐτῶν, “and they blasphemed the God of heaven because of their pains and their sores” — βλασφημέω; the sores of the first bowl still torment them: the bowls accumulate. καὶ οὐ μετενόησαν ἐκ τῶν ἔργων αὐτῶν, “They didn’t repent of their works” — μετανοέω; ἔργον, from the work family. The third time Revelation records this refusal (9:20–21; 16:9). Suffering does not soften a heart set against God; it hardens it.",
+      "words": [
+        {
+          "strongs": "G987",
+          "hebrew": "βλασφημέω",
+          "translit": "blasphēméō",
+          "english": "blasphemed"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G4192",
+          "hebrew": "πόνος",
+          "translit": "pónos",
+          "english": "pains"
+        },
+        {
+          "strongs": "G1668",
+          "hebrew": "ἕλκος",
+          "translit": "hélkos",
+          "english": "sores"
+        },
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoéō",
+          "english": "repent"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "The sixth poured out his bowl on the great river, the Euphrates. Its water was dried up, that the way might be prepared for the kings that come from the sunrise.",
+      "understanding": "Καὶ ὁ ἕκτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ποταμὸν τὸν μέγαν τὸν Εὐφράτην, “The sixth poured out his bowl on the great river, the Euphrates” — the eastern frontier (9:14). καὶ ἐξηράνθη τὸ ὕδωρ αὐτοῦ, “Its water was dried up” — as the Red Sea and Jordan dried up for Israel, and as Cyrus diverted the Euphrates to take ancient Babylon. ἵνα ἑτοιμασθῇ ἡ ὁδὸς τῶν βασιλέων τῶν ἀπὸ ἀνατολῆς ἡλίου, “that the way might be prepared for the kings that come from the sunrise” — to John's readers, the feared Parthian kings; in the vision, the gathering of the world's rulers for the final battle.",
+      "words": [
+        {
+          "strongs": "G1623",
+          "hebrew": "ἕκτος",
+          "translit": "héktos",
+          "english": "sixth"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "poured out"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowl"
+        },
+        {
+          "strongs": "G4215",
+          "hebrew": "ποταμός",
+          "translit": "potamós",
+          "english": "river"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G2166",
+          "hebrew": "Εὐφράτης",
+          "translit": "Euphrátēs",
+          "english": "Euphrates"
+        },
+        {
+          "strongs": "G5204",
+          "hebrew": "ὕδωρ",
+          "translit": "hýdōr",
+          "english": "water"
+        },
+        {
+          "strongs": "G3583",
+          "hebrew": "ξηραίνω",
+          "translit": "xēraínō",
+          "english": "dried up"
+        },
+        {
+          "strongs": "G3598",
+          "hebrew": "ὁδός",
+          "translit": "hodós",
+          "english": "way"
+        },
+        {
+          "strongs": "G2090",
+          "hebrew": "ἑτοιμάζω",
+          "translit": "hetoimázō",
+          "english": "prepared"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G395",
+          "hebrew": "ἀνατολή",
+          "translit": "anatolḗ",
+          "english": "sunrise"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "I saw coming out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet, three unclean spirits, something like frogs;",
+      "understanding": "Καὶ εἶδον ἐκ τοῦ στόματος τοῦ δράκοντος καὶ ἐκ τοῦ στόματος τοῦ θηρίου καὶ ἐκ τοῦ στόματος τοῦ ψευδοπροφήτου, “I saw coming out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet” — εἴδω, from the see family (and the know family). The unholy trinity together for the first time; the second beast (13:11) is now named ‘the false prophet’. πνεύματα τρία ἀκάθαρτα ὡς βάτραχοι, “three unclean spirits, something like frogs” — the second plague of Egypt; frogs were unclean under the Law. What comes from their mouths is propaganda — the opposite of the sword from Christ's mouth.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G1404",
+          "hebrew": "δράκων",
+          "translit": "drákōn",
+          "english": "dragon"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "beast"
+        },
+        {
+          "strongs": "G5578",
+          "hebrew": "ψευδοπροφήτης",
+          "translit": "pseudoprophḗtēs",
+          "english": "false prophet"
+        },
+        {
+          "strongs": "G5140",
+          "hebrew": "τρεῖς",
+          "translit": "treîs",
+          "english": "three"
+        },
+        {
+          "strongs": "G169",
+          "hebrew": "ἀκάθαρτος",
+          "translit": "akáthartos",
+          "english": "unclean"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirits"
+        },
+        {
+          "strongs": "G944",
+          "hebrew": "βάτραχος",
+          "translit": "bátrachos",
+          "english": "frogs"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "for they are spirits of demons, performing signs; which go out to the kings of the whole inhabited earth, to gather them together for the war of that great day of God, the Almighty.",
+      "understanding": "εἰσὶν γὰρ πνεύματα δαιμονίων ποιοῦντα σημεῖα, “for they are spirits of demons, performing signs” — δαιμόνιον; σημεῖον, from the signs family: deceptive miracles, as in 13:13. ἃ ἐκπορεύεται ἐπὶ τοὺς βασιλεῖς τῆς οἰκουμένης ὅλης, “which go out to the kings of the whole inhabited earth” — οἰκουμένη, from the world family. συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον τῆς ἡμέρας τῆς μεγάλης τοῦ θεοῦ τοῦ παντοκράτορος, “to gather them together for the war of that great day of God, the Almighty” — ἡμέρα, from the time family: the day of the LORD. They think they gather for their battle; it is God's day.",
+      "words": [
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirits"
+        },
+        {
+          "strongs": "G1140",
+          "hebrew": "δαιμόνιον",
+          "translit": "daimónion",
+          "english": "demons"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "performing"
+        },
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeîon",
+          "english": "signs"
+        },
+        {
+          "strongs": "G1607",
+          "hebrew": "ἐκπορεύομαι",
+          "translit": "ekporeúomai",
+          "english": "go out"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G3625",
+          "hebrew": "οἰκουμένη",
+          "translit": "oikouménē",
+          "english": "inhabited earth"
+        },
+        {
+          "strongs": "G3650",
+          "hebrew": "ὅλος",
+          "translit": "hólos",
+          "english": "whole"
+        },
+        {
+          "strongs": "G4863",
+          "hebrew": "συνάγω",
+          "translit": "synágō",
+          "english": "gather"
+        },
+        {
+          "strongs": "G4171",
+          "hebrew": "πόλεμος",
+          "translit": "pólemos",
+          "english": "war"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3841",
+          "hebrew": "παντοκράτωρ",
+          "translit": "pantokrátōr",
+          "english": "Almighty"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "“Behold, I come like a thief. Blessed is he who watches, and keeps his clothes, so that he doesn’t walk naked, and they see his shame.”",
+      "understanding": "Ἰδοὺ ἔρχομαι ὡς κλέπτης, “Behold, I come like a thief” — Jesus breaks into the vision with a personal warning, the words He spoke to Sardis (3:3). μακάριος ὁ γρηγορῶν καὶ τηρῶν τὰ ἱμάτια αὐτοῦ, “Blessed is he who watches, and keeps his clothes” — the third blessing of the book. γρηγορεύω, from the sleep family: to stay awake; τηρέω, from the hold family. ἵνα μὴ γυμνὸς περιπατῇ καὶ βλέπωσιν τὴν ἀσχημοσύνην αὐτοῦ, “so that he doesn’t walk naked, and they see his shame” — βλέπω, from the see family. Temple guards caught asleep at their posts had their clothes set on fire; Laodicea was told to buy white garments to cover its shame (3:18). In the middle of the battle-gathering, the call is to faithful readiness.",
+      "words": [
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "come"
+        },
+        {
+          "strongs": "G2812",
+          "hebrew": "κλέπτης",
+          "translit": "kléptēs",
+          "english": "thief"
+        },
+        {
+          "strongs": "G3107",
+          "hebrew": "μακάριος",
+          "translit": "makários",
+          "english": "Blessed"
+        },
+        {
+          "strongs": "G1127",
+          "hebrew": "γρηγορεύω",
+          "translit": "grēgoreúō",
+          "english": "watches"
+        },
+        {
+          "strongs": "G5083",
+          "hebrew": "τηρέω",
+          "translit": "tēréō",
+          "english": "keeps"
+        },
+        {
+          "strongs": "G2440",
+          "hebrew": "ἱμάτιον",
+          "translit": "himátion",
+          "english": "clothes"
+        },
+        {
+          "strongs": "G1131",
+          "hebrew": "γυμνός",
+          "translit": "gymnós",
+          "english": "naked"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "see"
+        },
+        {
+          "strongs": "G808",
+          "hebrew": "ἀσχημοσύνη",
+          "translit": "aschēmosýnē",
+          "english": "shame"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "He gathered them together into the place which is called in Hebrew, Megiddo.",
+      "understanding": "Καὶ συνήγαγεν αὐτοὺς εἰς τὸν τόπον τὸν καλούμενον Ἑβραϊστὶ Ἁρμαγεδών, “He gathered them together into the place which is called in Hebrew, Megiddo” — the WEB translates Ἁρμαγεδών as ‘Megiddo’; the Greek is literally ‘Har-Magedon’, ‘the mountain of Megiddo’ (hence ‘Armageddon’). Megiddo, in the plain of Jezreel, saw many famous battles: Deborah's victory, Josiah's death, and the mourning Zechariah foresaw ‘in the valley of Megiddon’ (Zechariah 12:11). There is a city and a plain at Megiddo, but no mountain; so many read it symbolically, as the place where the world's armies gather against God. Others expect a literal battle there. Either way, the battle itself is never described: when it comes (19:19–21), it is over in a moment.",
+      "words": [
+        {
+          "strongs": "G4863",
+          "hebrew": "συνάγω",
+          "translit": "synágō",
+          "english": "gathered"
+        },
+        {
+          "strongs": "G5117",
+          "hebrew": "τόπος",
+          "translit": "tópos",
+          "english": "place"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G1447",
+          "hebrew": "Ἑβραϊστί",
+          "translit": "Hebraïstí",
+          "english": "Hebrew"
+        },
+        {
+          "strongs": "G717",
+          "hebrew": "Ἀρμαγεδδών",
+          "translit": "Armageddṓn",
+          "english": "Megiddo"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "The seventh poured out his bowl into the air. A loud voice came out of the temple of heaven, from the throne, saying, “It is done!”",
+      "understanding": "Καὶ ὁ ἕβδομος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ἀέρα, “The seventh poured out his bowl into the air” — ἐκχέω; ἀήρ, the realm of ‘the prince of the power of the air’ (Ephesians 2:2). καὶ ἐξῆλθεν φωνὴ μεγάλη ἐκ τοῦ ναοῦ ἀπὸ τοῦ θρόνου λέγουσα· Γέγονεν, “A loud voice came out of the temple of heaven, from the throne, saying, ‘It is done!’” — γίνομαι, perfect tense: it has come to pass. On the cross Jesus said ‘It is finished’ (τετέλεσται); from the throne God says ‘It is done’. The cross accomplished salvation; the seventh bowl completes judgement. The same word is spoken at the new creation (21:6).",
+      "words": [
+        {
+          "strongs": "G1442",
+          "hebrew": "ἕβδομος",
+          "translit": "hébdomos",
+          "english": "seventh"
+        },
+        {
+          "strongs": "G1632",
+          "hebrew": "ἐκχέω",
+          "translit": "ekchéō",
+          "english": "poured out"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowl"
+        },
+        {
+          "strongs": "G109",
+          "hebrew": "ἀήρ",
+          "translit": "aḗr",
+          "english": "air"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "loud"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G1096",
+          "hebrew": "γίνομαι",
+          "translit": "gínomai",
+          "english": "done"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "There were lightnings, sounds, and thunders; and there was a great earthquake, such as was not since there were men on the earth, so great an earthquake, so mighty.",
+      "understanding": "καὶ ἐγένοντο ἀστραπαὶ καὶ φωναὶ καὶ βρονταί, “There were lightnings, sounds, and thunders” — the throne-storm (4:5; 8:5; 11:19), now at its height. καὶ σεισμὸς ἐγένετο μέγας, οἷος οὐκ ἐγένετο ἀφ᾽ οὗ ἄνθρωπος ἐγένετο ἐπὶ τῆς γῆς, “and there was a great earthquake, such as was not since there were men on the earth” — γῆ, from the world family. τηλικοῦτος σεισμὸς οὕτω μέγας, “so great an earthquake, so mighty” — Haggai foretold that God would ‘shake the heavens and the earth’; Hebrews says what can be shaken will be removed, so that what cannot be shaken may remain.",
+      "words": [
+        {
+          "strongs": "G796",
+          "hebrew": "ἀστραπή",
+          "translit": "astrapḗ",
+          "english": "lightnings"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "sounds"
+        },
+        {
+          "strongs": "G1027",
+          "hebrew": "βροντή",
+          "translit": "brontḗ",
+          "english": "thunders"
+        },
+        {
+          "strongs": "G4578",
+          "hebrew": "σεισμός",
+          "translit": "seismós",
+          "english": "earthquake"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "men"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G5082",
+          "hebrew": "τηλικοῦτος",
+          "translit": "tēlikoûtos",
+          "english": "so great"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "The great city was divided into three parts, and the cities of the nations fell. Babylon the great was remembered in the sight of God, to give to her the cup of the wine of the fierceness of his wrath.",
+      "understanding": "καὶ ἐγένετο ἡ πόλις ἡ μεγάλη εἰς τρία μέρη, “The great city was divided into three parts” — the great city of 11:8, Babylon. καὶ αἱ πόλεις τῶν ἐθνῶν ἔπεσαν, “and the cities of the nations fell” — every human city built without God. καὶ Βαβυλὼν ἡ μεγάλη ἐμνήσθη ἐνώπιον τοῦ θεοῦ, “Babylon the great was remembered in the sight of God” — μιμνῄσκω: God has not forgotten her crimes (18:5). δοῦναι αὐτῇ τὸ ποτήριον τοῦ οἴνου τοῦ θυμοῦ τῆς ὀργῆς αὐτοῦ, “to give to her the cup of the wine of the fierceness of his wrath” — θυμός and ὀργή, both from the wrath family, joined: ‘the passion of his settled anger’ — God's just wrath in its full force. Chapters 17–18 now show Babylon's fall in detail.",
+      "words": [
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G5140",
+          "hebrew": "τρεῖς",
+          "translit": "treîs",
+          "english": "three"
+        },
+        {
+          "strongs": "G3313",
+          "hebrew": "μέρος",
+          "translit": "méros",
+          "english": "parts"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell"
+        },
+        {
+          "strongs": "G897",
+          "hebrew": "Βαβυλών",
+          "translit": "Babylṓn",
+          "english": "Babylon"
+        },
+        {
+          "strongs": "G3415",
+          "hebrew": "μνάομαι",
+          "translit": "mnáomai",
+          "english": "remembered"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G4221",
+          "hebrew": "ποτήριον",
+          "translit": "potḗrion",
+          "english": "cup"
+        },
+        {
+          "strongs": "G3631",
+          "hebrew": "οἶνος",
+          "translit": "oînos",
+          "english": "wine"
+        },
+        {
+          "strongs": "G2372",
+          "hebrew": "θυμός",
+          "translit": "thymós",
+          "english": "fierceness"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "wrath"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "Every island fled away, and the mountains were not found.",
+      "understanding": "καὶ πᾶσα νῆσος ἔφυγεν, “Every island fled away” — as at the sixth seal (6:14), creation itself flees before God. καὶ ὄρη οὐχ εὑρέθησαν, “and the mountains were not found” — the most solid things in the world vanish. Only God and His kingdom remain.",
+      "words": [
+        {
+          "strongs": "G3520",
+          "hebrew": "νῆσος",
+          "translit": "nēsos",
+          "english": "island"
+        },
+        {
+          "strongs": "G5343",
+          "hebrew": "φεύγω",
+          "translit": "pheúgō",
+          "english": "fled away"
+        },
+        {
+          "strongs": "G3735",
+          "hebrew": "ὄρος",
+          "translit": "óros",
+          "english": "mountains"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "Great hailstones, about the weight of a talent, came down out of the sky on people. People blasphemed God because of the plague of the hail, for this plague is exceedingly severe.",
+      "understanding": "καὶ χάλαζα μεγάλη ὡς ταλαντιαία καταβαίνει ἐκ τοῦ οὐρανοῦ ἐπὶ τοὺς ἀνθρώπους, “Great hailstones, about the weight of a talent, came down out of the sky on people” — a talent weighed about thirty-five kilos: the hail of the seventh plague of Egypt and of Joshua's battle, beyond imagining. καὶ ἐβλασφήμησαν οἱ ἄνθρωποι τὸν θεὸν ἐκ τῆς πληγῆς τῆς χαλάζης, “People blasphemed God because of the plague of the hail” — βλασφημέω, again. Not repentance, but cursing, to the very end. ὅτι μεγάλη ἐστὶν ἡ πληγὴ αὐτῆς σφόδρα, “for this plague is exceedingly severe.”",
+      "words": [
+        {
+          "strongs": "G5464",
+          "hebrew": "χάλαζα",
+          "translit": "chálaza",
+          "english": "hailstones"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "Great"
+        },
+        {
+          "strongs": "G5006",
+          "hebrew": "ταλαντιαῖος",
+          "translit": "talantiaîos",
+          "english": "weight of a talent"
+        },
+        {
+          "strongs": "G2597",
+          "hebrew": "καταβαίνω",
+          "translit": "katabaínō",
+          "english": "came down"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "people"
+        },
+        {
+          "strongs": "G987",
+          "hebrew": "βλασφημέω",
+          "translit": "blasphēméō",
+          "english": "blasphemed"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plague"
+        },
+        {
+          "strongs": "G4970",
+          "hebrew": "σφόδρα",
+          "translit": "sphódra",
+          "english": "exceedingly"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Bowls Poured Out",
+      "verseRef": "v. 1-11",
+      "image": "Picture seven angels leaving the smoke-filled temple and tipping out seven golden bowls, one after another — on the land, the sea, the rivers, the sun, the beast's throne. Sores break out, waters turn to blood, the sun burns, darkness swallows the beast's kingdom. And through it all, the people under judgement curse God.",
+      "meaning": "“They didn’t repent and give him glory” (v. 9). “They didn’t repent of their works” (v. 11). God's judgements are just, but they do not change hearts that have chosen against Him. Only grace does that, and it is offered now."
+    },
+    {
+      "title": "The Altar Speaks",
+      "verseRef": "v. 5-7",
+      "image": "Picture the golden altar of heaven, under which the martyrs once cried, ‘How long?’ Now, as the bowls are poured out, the altar itself speaks: ‘Yes, Lord God, the Almighty, true and righteous are your judgments.’",
+      "meaning": "“They poured out the blood of the saints and prophets, and you have given them blood to drink” (v. 6). “True and righteous are your judgments” (v. 7). The prayers of the persecuted are answered. God's justice is exact."
+    },
+    {
+      "title": "Frogs from Three Mouths",
+      "verseRef": "v. 13-16",
+      "image": "Picture the dragon, the beast and the false prophet side by side, and out of each mouth hops an unclean, frog-like spirit, croaking lies, working signs, hopping off to every palace in the world to gather kings for war against God — at a place called Har-Magedon.",
+      "meaning": "“For they are spirits of demons, performing signs; which go out to the kings of the whole inhabited earth, to gather them together for the war of that great day of God, the Almighty” (v. 14). The voices that lead the world into rebellion against God come from the pit."
+    },
+    {
+      "title": "Stay Awake, Stay Clothed",
+      "verseRef": "v. 15",
+      "image": "Picture a night watchman on the walls, dozing at his post. Suddenly his commander arrives without warning. The watchman wakes too late; his clothes are snatched and burned, and he stands exposed and ashamed. Another guard, awake and ready, salutes with joy.",
+      "meaning": "“Behold, I come like a thief. Blessed is he who watches, and keeps his clothes, so that he doesn’t walk naked, and they see his shame” (v. 15). In the middle of all the world's turmoil, Jesus' word to you is simple: be ready."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The First Four Bowls (v. 1-9)",
+        "body": "A voice from the temple sends the angels out; the first bowl brings painful sores on those with the beast's mark; the second turns the sea to blood and kills everything in it; the third turns rivers and springs to blood, and the angel of the waters and the altar declare God's judgements just; the fourth makes the sun scorch people, who curse God and do not repent."
+      },
+      {
+        "label": "The Fifth and Sixth Bowls (v. 10-16)",
+        "body": "The fifth plunges the beast's kingdom into darkness and pain, and people curse God and do not repent; the sixth dries up the Euphrates for the kings of the east; three frog-like unclean spirits from the mouths of the dragon, beast and false prophet gather the kings of the world for the battle of the great day of God; Jesus warns, ‘I come like a thief’; the kings are gathered at Har-Magedon."
+      },
+      {
+        "label": "The Seventh Bowl (v. 17-21)",
+        "body": "The seventh bowl is poured into the air, and a voice from the throne says, ‘It is done!’; lightning, thunder and the greatest earthquake ever split the great city in three and bring down the cities of the nations; Babylon is given the cup of God's wrath; islands and mountains vanish; huge hailstones fall, and people curse God."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Bowls and the Plagues of Egypt",
+        "paragraphs": [
+          "The seven bowls are the last and fullest judgements. They follow the same order as the first four trumpets — land, sea, rivers, sun — but now nothing is spared: not a third, but all. And like the trumpets, they echo the plagues of Egypt: sores (the sixth plague), water turned to blood (the first), darkness (the ninth), frogs (the second), hail (the seventh). As God judged Egypt to free Israel, He judges the beast's world to free His people.",
+          "The first bowl falls specifically “on the people who had the mark of the beast, and who worshiped his image” (v. 2). Those who sealed themselves to the beast share his judgement. Those sealed by God are not the target (7:3; 9:4). The sore is ‘harmful and evil’ — κακός and πονηρός, two words for evil side by side.",
+          "The sea and rivers become blood (vv. 3–4). Then two voices speak. The angel of the waters says, “You are righteous, who are and who were, O Holy One, because you have judged these things. For they poured out the blood of the saints and prophets, and you have given them blood to drink. They deserve this” (vv. 5–6). And the altar answers, “Yes, Lord God, the Almighty, true and righteous are your judgments” (v. 7). These are not the cries of vindictiveness but the confession that God's justice is exact. Those who poured out blood drink blood."
+        ]
+      },
+      {
+        "heading": "Hardened Hearts",
+        "paragraphs": [
+          "The fourth bowl turns the sun into a scorching fire (vv. 8–9), and the fifth plunges the beast's kingdom into darkness and pain (vv. 10–11). The terrible refrain repeats: “people blasphemed the name of God who has the power over these plagues. They didn’t repent and give him glory” (v. 9); “they blasphemed the God of heaven because of their pains and their sores. They didn’t repent of their works” (v. 11). Even at the end, they know God is in control, and they curse Him for it.",
+          "This is one of the most sobering truths in Revelation. Suffering does not automatically produce repentance. Pharaoh hardened his heart through ten plagues. Jesus told of a rich man who asked that someone be sent from the dead to warn his brothers, and was told, “If they don’t listen to Moses and the prophets, neither will they be persuaded if one rises from the dead” (Luke 16:31). Paul warned, “according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath” (Romans 2:5).",
+          "The fifth bowl strikes “the throne of the beast” (v. 10): the very centre of the power the dragon gave him (13:2). The beast's kingdom, which seemed unstoppable, is plunged into darkness. No earthly empire can withstand the judgement of God."
+        ]
+      },
+      {
+        "heading": "Armageddon",
+        "paragraphs": [
+          "The sixth bowl dries up the Euphrates “that the way might be prepared for the kings that come from the sunrise” (v. 12). Then three unclean spirits like frogs come from the mouths of the dragon, the beast and the false prophet — the unholy trinity (v. 13). They are demonic spirits working signs, and they go out to the kings of the whole world “to gather them together for the war of that great day of God, the Almighty” (v. 14). The kings think they are gathering for their own war; they are actually being gathered for God's day of judgement.",
+          "“He gathered them together into the place which is called in Hebrew, Megiddo” (v. 16). The Greek name is Ἁρμαγεδών — ‘Har-Magedon’, the mountain of Megiddo — familiar to us as ‘Armageddon’. Megiddo guarded a pass into the plain of Jezreel, where many decisive battles were fought, and where King Josiah died. Zechariah spoke of mourning ‘in the valley of Megiddon’ (Zechariah 12:11). Some expect a literal final battle in that region. Many others note that there is no mountain at Megiddo, and read Har-Magedon as a symbolic name for the final gathering of the world's powers against God, wherever it occurs. Either way, the battle is never fought as a contest: when it comes (19:19–21; 20:8–9), the enemies are destroyed in a moment.",
+          "In the middle of this scene, Jesus speaks directly: “Behold, I come like a thief. Blessed is he who watches, and keeps his clothes, so that he doesn’t walk naked, and they see his shame” (v. 15). The point of all this prophecy is not to satisfy curiosity but to make believers ready."
+        ]
+      },
+      {
+        "heading": "It Is Done",
+        "paragraphs": [
+          "The seventh bowl is poured into the air, and a voice from the throne says, “It is done!” (v. 17). On the cross Jesus cried, “It is finished” (John 19:30): the work of salvation was complete. From the throne God now declares the work of judgement complete. And when He makes all things new, He will say it again: ‘It is done’ (21:6).",
+          "An earthquake greater than any in history splits “the great city” into three parts, and “the cities of the nations fell” (v. 19). All humanity's cities built in rebellion against God fall. “Babylon the great was remembered in the sight of God, to give to her the cup of the wine of the fierceness of his wrath” (v. 19). God has not forgotten a single injustice.",
+          "Islands flee, mountains vanish, and enormous hailstones fall (vv. 20–21). And still, “People blasphemed God because of the plague of the hail” (v. 21). The chapter ends with judgement complete and hearts still hard. The next two chapters slow down to show, in detail, the fall of Babylon."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Like a Thief in the Night",
+      "paragraphs": [
+        "Jesus warned, “Therefore also be ready, for in an hour that you don’t expect, the Son of Man will come” (Matthew 24:44). Paul wrote, “For you yourselves know well that the day of the Lord comes like a thief in the night. For when they are saying, ‘Peace and safety,’ then sudden destruction will come on them” (1 Thessalonians 5:2–3) — and added, “But you, brothers, aren’t in darkness, that the day should overtake you like a thief” (1 Thessalonians 5:4).",
+        "The refusal to repent echoes Paul's warning to the self-righteous: “But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgment of God” (Romans 2:5).",
+        "And ‘It is done’ answers Jesus' cry from the cross: “When Jesus therefore had received the vinegar, he said, ‘It is finished.’ He bowed his head, and gave up his spirit” (John 19:30). What He finished there, the Father completes from the throne."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Megiddo (Armageddon)",
+      "hebrew": "Ἀρμαγεδδών",
+      "translit": "Armageddṓn",
+      "strongs": "G717 (gathered συνάγω, synágō, G4863)",
+      "verses": "v. 16",
+      "insight": "Strong's: “Armageddon (or Har-Meggiddon), a symbolic name.” Ἁρμαγεδών appears only here in the Bible. It is from the Hebrew har (mountain) and Megiddo, the fortress city overlooking the plain of Jezreel, scene of many battles. The WEB simply translates ‘Megiddo’. Even Strong's dictionary calls it ‘a symbolic name’: the place where the world's rulers, deceived by demonic spirits, gather against God — and where God ends their rebellion."
+    },
+    {
+      "english": "Pour out",
+      "hebrew": "ἐκχέω",
+      "translit": "ekchéō",
+      "strongs": "G1632 (bowls φιάλη, phiálē, G5357)",
+      "verses": "v. 1-4, 6, 8, 10, 12, 17",
+      "insight": "Strong's: “to pour forth; figuratively, to bestow.” ἐκχέω is used of pouring drink offerings, of shedding blood, and of God pouring out His Spirit at Pentecost (Acts 2:17). In chapter 16 the angels pour out God's wrath — and in verse 6 the same verb describes the persecutors who ‘poured out the blood of the saints’. God's judgement mirrors their crime: they poured out blood, and God pours out His bowls."
+    },
+    {
+      "english": "Frogs",
+      "hebrew": "βάτραχος",
+      "translit": "bátrachos",
+      "strongs": "G944 (unclean ἀκάθαρτος, akáthartos, G169)",
+      "verses": "v. 13",
+      "insight": "Strong's: “a frog.” βάτραχος appears only here in the New Testament. Frogs were the second plague of Egypt, filling Pharaoh's palace and bedrooms; they were unclean under the Law of Moses. The demonic spirits from the mouths of the dragon, beast and false prophet are ‘like frogs’ — noisy, unclean, everywhere. Lying propaganda is loud and croaking; God's word is a sharp sword."
+    },
+    {
+      "english": "Sore",
+      "hebrew": "ἕλκος",
+      "translit": "hélkos",
+      "strongs": "G1668 (evil πονηρός, ponērós, G4190)",
+      "verses": "v. 2, 11",
+      "insight": "Strong's: “an ulcer (as if drawn together).” ἕλκος is a festering wound or ulcer — the word used of the sores of Lazarus at the rich man's gate (Luke 16:21). The first bowl brings ‘a harmful and evil sore’ on those who took the beast's mark: the mark they accepted on their skin becomes an ulcer. It echoes the sixth plague of Egypt, when boils broke out on the Egyptians and even their magicians could not stand before Moses."
+    },
+    {
+      "english": "It is done",
+      "hebrew": "γίνομαι",
+      "translit": "gínomai",
+      "strongs": "G1096 (throne θρόνος, thrónos, G2362)",
+      "verses": "v. 17; 21:6",
+      "insight": "Strong's: “to cause to be (\"gen\"-erate), i.e. (reflexively) to become (come into being), used with great latitude (literal, figurative, intensive, etc.).” γίνομαι is one of the commonest verbs in Greek. Here, in the perfect tense γέγονεν, it is a single-word declaration from the throne: ‘It has come to pass.’ God's purposes of judgement are complete. In 21:6 the same word introduces the new creation: ‘It is done! I am the Alpha and the Omega.’ The God who finishes judgement also finishes making all things new."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit shows you the end of rebellion — and calls you to stay awake.",
+    "items": [
+      {
+        "title": "God's Judgements Are True and Righteous",
+        "body": "Heaven declares, “Yes, Lord God, the Almighty, true and righteous are your judgments” (v. 7). The Spirit wants you to trust God's justice, even when you cannot understand it. He sees every wrong, and He will put every wrong right."
+      },
+      {
+        "title": "Don't Harden Your Heart",
+        "body": "Three times the people “didn’t repent” (vv. 9, 11, 21). The Spirit asks: is there anything you are refusing to turn from? Every hardship is an invitation to soften your heart toward God. Do not wait for the next bowl."
+      },
+      {
+        "title": "Stay Awake and Clothed",
+        "body": "“Blessed is he who watches, and keeps his clothes” (v. 15). The Spirit calls you to be ready for Jesus every day — alert in prayer, clothed in His righteousness, living as though He may come today."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Readiness Check",
+        "body": "If Jesus came today, would He find you awake and clothed, or asleep and exposed (v. 15)?"
+      },
+      {
+        "title": "The Propaganda Check",
+        "body": "Which ‘frog voices’ — media, politics, ideology, advertising — have the loudest influence on your thinking (v. 13)?"
+      },
+      {
+        "title": "The Response Check",
+        "body": "When suffering comes, do you turn toward God or blame Him (vv. 9, 11, 21)?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "A Watchman's Prayer",
+        "body": "Each night this week, before you sleep, pray Revelation 16:15: ‘Lord, keep me awake to You. Keep me clothed in Your righteousness.’ Review the day honestly and confess anything that left you ‘exposed’."
+      },
+      {
+        "title": "Fast from the Frogs",
+        "body": "Choose one source of loud, constant voices — news, social media, a podcast — and fast from it for three days. Use the time to read Revelation 15–16 and pray for the nations and their leaders."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord God Almighty, You are righteous, You who are and who were, the Holy One. True and righteous are Your judgements. Thank You that You hear the cry of the blood of Your saints and prophets, and that You will judge every wrong. Keep my heart soft. When hardship comes, let me turn to You and give You glory, not curse You. Protect me from the unclean voices that come from the dragon, the beast and the false prophet, and from every lying sign. Lord Jesus, You are coming like a thief. Keep me awake. Keep me clothed in Your righteousness, so that I will not be ashamed at Your coming. Thank You that from the throne You will one day say, ‘It is done.’ And thank You that on the cross You said, ‘It is finished,’ so that I need not drink the cup of Your wrath. Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Plagues of Egypt",
+      "ref": "Exodus 7:14–10:29",
+      "relatedVerses": "v. 2-4, 10, 13, 21",
+      "summary": "God sent plague after plague on Egypt: water turned to blood, frogs everywhere, boils on people and animals, hail mixed with fire, darkness that could be felt. Each time Pharaoh hardened his heart and refused to let God's people go. The bowls of Revelation 16 repeat these plagues on the whole world: sores, blood, darkness, frogs and hail. And like Pharaoh, those who are struck harden their hearts and curse God. The pattern of the Exodus is the pattern of the end: judgement on the oppressor, freedom for God's people."
+    },
+    {
+      "title": "Josiah at Megiddo",
+      "ref": "2 Kings 23:28-30; 2 Chronicles 35:20-25",
+      "relatedVerses": "v. 16",
+      "summary": "Josiah, the godly king who restored the temple and renewed the covenant, went out to fight Pharaoh Necho at Megiddo, though Necho warned him that God had not sent him. Josiah was shot by archers and died. All Judah mourned for him, and Jeremiah wrote laments; the mourning at Megiddo became proverbial (Zechariah 12:11). Megiddo became a byword for decisive, tragic battle. Revelation's ‘Har-Magedon’ draws on that memory: the final gathering of the world's armies — but this time God's enemies, not His king, fall."
+    },
+    {
+      "title": "The Rich Man and Lazarus",
+      "ref": "Luke 16:19-31",
+      "relatedVerses": "v. 9-11",
+      "summary": "A rich man feasted every day while Lazarus, covered with sores, lay at his gate. Both died; Lazarus was carried to Abraham's side, and the rich man found himself in torment. He begged Abraham to send Lazarus to warn his brothers. Abraham answered, “If they don’t listen to Moses and the prophets, neither will they be persuaded if one rises from the dead” (Luke 16:31). Revelation 16 shows the same truth: those who refuse God's word are not persuaded even by the most terrible signs."
+    }
+  ]
+}
