@@ -1420,7 +1420,8 @@
       "english": [
         "wrath",
         "anger",
-        "fierceness"
+        "fierceness",
+        "angry"
       ],
       "intro": "English ‘wrath’ and ‘anger’ hide two Greek words. ὀργή is settled, purposeful anger — God’s steady, just opposition to evil, which ends in judgement (‘the wrath of the Lamb’, Revelation 6:16); θυμός is anger as passion, a boiling up, a hot outburst — the devil’s ‘great wrath’ (12:12) and the ‘wine of the wrath of God’ (14:10). Revelation 14:10, 16:19 and 19:15 put the two side by side: ‘the wine of the fierceness (θυμός) of his wrath (ὀργή)’ — God’s settled judgement poured out in full intensity.",
       "members": [
@@ -1435,6 +1436,12 @@
           "sense": "Wrath as passion — anger that boils up and bursts out.",
           "anchor": "Revelation 12:12",
           "en": "wrath"
+        },
+        {
+          "strongs": "G3710",
+          "sense": "To be angry, to become enraged.",
+          "anchor": "Revelation 11:18",
+          "en": "angry"
         }
       ]
     },
