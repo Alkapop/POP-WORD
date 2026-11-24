@@ -2018,6 +2018,37 @@
       ]
     },
     {
+      "id": "holy",
+      "name": "Holy",
+      "lang": "Greek",
+      "english": [
+        "holy",
+        "Holy One",
+        "saints"
+      ],
+      "intro": "English ‘holy’ hides two Greek words. ἅγιος is ‘set apart’ — belonging to God, separate from the common and the unclean; it is the word for God’s holiness (‘Holy, holy, holy’, Revelation 4:8) and for His people, the ‘saints’ (holy ones); ἁγιάζω is its verb, to make or treat as holy. ὅσιος is holiness as devout, pious faithfulness — what is right and pleasing before God, fully true to His covenant; it is used of God in Revelation 15:4 and 16:5 (‘you only are holy’, ‘O Holy One’) and of the Messiah in Acts 2:27. ἅγιος stresses separation; ὅσιος stresses faithful rightness.",
+      "members": [
+        {
+          "strongs": "G40",
+          "sense": "Holy, set apart for God; as a noun, the saints — God’s holy people.",
+          "anchor": "Revelation 4:8",
+          "en": "Holy"
+        },
+        {
+          "strongs": "G3741",
+          "sense": "Holy in the sense of devout, faithful, pleasing to God; used of God Himself.",
+          "anchor": "Revelation 15:4",
+          "en": "holy"
+        },
+        {
+          "strongs": "G37",
+          "sense": "To make holy, to set apart for God, to treat as holy.",
+          "anchor": "Revelation 22:11",
+          "en": "holy"
+        }
+      ]
+    },
+    {
       "id": "humble",
       "name": "Humble, Lowly & Meek",
       "lang": "Greek",
