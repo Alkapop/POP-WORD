@@ -173,7 +173,8 @@
         "day",
         "year",
         "tomorrow",
-        "eternal"
+        "eternal",
+        "years"
       ],
       "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
@@ -260,6 +261,12 @@
           "sense": "Eternal — belonging to the age to come, without end.",
           "anchor": "1 Peter 5:10",
           "en": "eternal"
+        },
+        {
+          "strongs": "G2094",
+          "sense": "A year — a count of years.",
+          "anchor": "2 Peter 3:8",
+          "en": "years"
         }
       ]
     },
