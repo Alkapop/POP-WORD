@@ -1,0 +1,1849 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 18,
+  "chapterTitle": "The Fall of Babylon",
+  "themeTitle": "“Come Out of Her, My People”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "After these things, I saw another angel coming down out of the sky, having great authority. The earth was illuminated with his glory.",
+      "understanding": "Μετὰ ταῦτα εἶδον ἄλλον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ, “After these things, I saw another angel coming down out of the sky” — εἴδω, from the see family (and the know family); ἄλλος, from the another family. ἔχοντα ἐξουσίαν μεγάλην, “having great authority” — ἐξουσία, from the power family. καὶ ἡ γῆ ἐφωτίσθη ἐκ τῆς δόξης αὐτοῦ, “The earth was illuminated with his glory” — γῆ, from the world family; φωτίζω, to give light: as Ezekiel saw the earth shine with God's glory. Babylon's lamps are about to go out (v. 23); heaven's light fills the earth.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G243",
+          "hebrew": "ἄλλος",
+          "translit": "állos",
+          "english": "another"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G2597",
+          "hebrew": "καταβαίνω",
+          "translit": "katabaínō",
+          "english": "coming down"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G5461",
+          "hebrew": "φωτίζω",
+          "translit": "phōtízō",
+          "english": "illuminated"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "He cried with a mighty voice, saying, “Fallen, fallen is Babylon the great, and she has become a habitation of demons, a prison of every unclean spirit, and a prison of every unclean and hateful bird!",
+      "understanding": "καὶ ἔκραξεν ἐν ἰσχυρᾷ φωνῇ λέγων, “He cried with a mighty voice, saying” — ἰσχυρός, from the power family: forceful strength. Ἔπεσεν ἔπεσεν Βαβυλὼν ἡ μεγάλη, “Fallen, fallen is Babylon the great” — Isaiah's cry over ancient Babylon (14:8). καὶ ἐγένετο κατοικητήριον δαιμονίων, “and she has become a habitation of demons” — the prophets pictured ruined Babylon, Edom and Nineveh as haunts of wild animals and evil spirits. καὶ φυλακὴ παντὸς πνεύματος ἀκαθάρτου καὶ φυλακὴ παντὸς ὀρνέου ἀκαθάρτου καὶ μεμισημένου, “a prison of every unclean spirit, and a prison of every unclean and hateful bird!” — φυλακή, a prison or a haunt. The glittering city becomes a ghost town.",
+      "words": [
+        {
+          "strongs": "G2896",
+          "hebrew": "κράζω",
+          "translit": "krázō",
+          "english": "cried"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "Fallen"
+        },
+        {
+          "strongs": "G897",
+          "hebrew": "Βαβυλών",
+          "translit": "Babylṓn",
+          "english": "Babylon"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G2732",
+          "hebrew": "κατοικητήριον",
+          "translit": "katoikētḗrion",
+          "english": "habitation"
+        },
+        {
+          "strongs": "G1140",
+          "hebrew": "δαιμόνιον",
+          "translit": "daimónion",
+          "english": "demons"
+        },
+        {
+          "strongs": "G5438",
+          "hebrew": "φυλακή",
+          "translit": "phylakḗ",
+          "english": "prison"
+        },
+        {
+          "strongs": "G169",
+          "hebrew": "ἀκάθαρτος",
+          "translit": "akáthartos",
+          "english": "unclean"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "spirit"
+        },
+        {
+          "strongs": "G3732",
+          "hebrew": "ὄρνεον",
+          "translit": "órneon",
+          "english": "bird"
+        },
+        {
+          "strongs": "G3404",
+          "hebrew": "μισέω",
+          "translit": "miséō",
+          "english": "hateful"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "For all the nations have drunk of the wine of the wrath of her sexual immorality, the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the abundance of her luxury.”",
+      "understanding": "ὅτι ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς πέπωκαν πάντα τὰ ἔθνη, “For all the nations have drunk of the wine of the wrath of her sexual immorality” — θυμός, from the wrath family: the passion of her immorality, which brings God's wrath (14:8). καὶ οἱ βασιλεῖς τῆς γῆς μετ᾽ αὐτῆς ἐπόρνευσαν, “the kings of the earth committed sexual immorality with her” — γῆ, from the world family. καὶ οἱ ἔμποροι τῆς γῆς ἐκ τῆς δυνάμεως τοῦ στρήνους αὐτῆς ἐπλούτησαν, “and the merchants of the earth grew rich from the abundance of her luxury” — ἔμπορος, a wholesale merchant; δύναμις, from the power family: here rendered ‘abundance’ — literally ‘the power of her luxury’, the economic might of her extravagance; στρῆνος, arrogant luxury.",
+      "words": [
+        {
+          "strongs": "G3631",
+          "hebrew": "οἶνος",
+          "translit": "oînos",
+          "english": "wine"
+        },
+        {
+          "strongs": "G2372",
+          "hebrew": "θυμός",
+          "translit": "thymós",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G4202",
+          "hebrew": "πορνεία",
+          "translit": "porneía",
+          "english": "sexual immorality"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G4095",
+          "hebrew": "πίνω",
+          "translit": "pínō",
+          "english": "drunk"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G4203",
+          "hebrew": "πορνεύω",
+          "translit": "porneúō",
+          "english": "committed sexual immorality"
+        },
+        {
+          "strongs": "G1713",
+          "hebrew": "ἔμπορος",
+          "translit": "émporos",
+          "english": "merchants"
+        },
+        {
+          "strongs": "G4147",
+          "hebrew": "πλουτέω",
+          "translit": "ploutéō",
+          "english": "grew rich"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "abundance"
+        },
+        {
+          "strongs": "G4764",
+          "hebrew": "στρῆνος",
+          "translit": "strēnos",
+          "english": "luxury"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "I heard another voice from heaven, saying, “Come out of her, my people, that you have no participation in her sins, and that you don’t receive of her plagues,",
+      "understanding": "Καὶ ἤκουσα ἄλλην φωνὴν ἐκ τοῦ οὐρανοῦ λέγουσαν, “I heard another voice from heaven, saying” — ἄλλος, from the another family. Ἐξέλθατε ὁ λαός μου ἐξ αὐτῆς, “Come out of her, my people” — the call of Isaiah and Jeremiah to the exiles in Babylon: ‘Go out from her, my people.’ Not necessarily to leave a place, but to refuse its values, idols and compromises. ἵνα μὴ συγκοινωνήσητε ταῖς ἁμαρτίαις αὐτῆς, “that you have no participation in her sins” — συγκοινωνέω, to share as partners; ἁμαρτία, from the sin family. καὶ ἐκ τῶν πληγῶν αὐτῆς ἵνα μὴ λάβητε, “and that you don’t receive of her plagues” — those who share her sins will share her judgement.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G243",
+          "hebrew": "ἄλλος",
+          "translit": "állos",
+          "english": "another"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G1831",
+          "hebrew": "ἐξέρχομαι",
+          "translit": "exérchomai",
+          "english": "Come out"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        },
+        {
+          "strongs": "G4790",
+          "hebrew": "συγκοινωνέω",
+          "translit": "synkoinōnéō",
+          "english": "participation"
+        },
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "receive"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plagues"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "for her sins have reached to the sky, and God has remembered her iniquities.",
+      "understanding": "ὅτι ἐκολλήθησαν αὐτῆς αἱ ἁμαρτίαι ἄχρι τοῦ οὐρανοῦ, “for her sins have reached to the sky” — κολλάω, to glue together: her sins are piled up and stuck together into a tower reaching heaven — like Babel's tower (Genesis 11:4); ἁμαρτία, from the sin family. καὶ ἐμνημόνευσεν ὁ θεὸς τὰ ἀδικήματα αὐτῆς, “and God has remembered her iniquities” — ἀδίκημα, a wrong done, a crime: God forgets the sins of the forgiven, but not those of the unrepentant.",
+      "words": [
+        {
+          "strongs": "G266",
+          "hebrew": "ἁμαρτία",
+          "translit": "hamartía",
+          "english": "sins"
+        },
+        {
+          "strongs": "G2853",
+          "hebrew": "κολλάω",
+          "translit": "kolláō",
+          "english": "reached"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3421",
+          "hebrew": "μνημονεύω",
+          "translit": "mnēmoneúō",
+          "english": "remembered"
+        },
+        {
+          "strongs": "G92",
+          "hebrew": "ἀδίκημα",
+          "translit": "adíkēma",
+          "english": "iniquities"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "Return to her just as she returned, and repay her double as she did, and according to her works. In the cup which she mixed, mix to her double.",
+      "understanding": "ἀπόδοτε αὐτῇ ὡς καὶ αὐτὴ ἀπέδωκεν, “Return to her just as she returned” — ἀποδίδωμι, to pay back: addressed to the agents of God's judgement, not to believers taking revenge (Romans 12:19). καὶ διπλώσατε τὰ διπλᾶ κατὰ τὰ ἔργα αὐτῆς, “and repay her double as she did, and according to her works” — διπλόω; ἔργον, from the work family. ‘Double’ is a Hebrew way of saying ‘full measure’, the exact equivalent (Jeremiah 16:18). ἐν τῷ ποτηρίῳ ᾧ ἐκέρασεν κεράσατε αὐτῇ διπλοῦν, “In the cup which she mixed, mix to her double” — her golden cup (17:4) is filled for her to drink.",
+      "words": [
+        {
+          "strongs": "G591",
+          "hebrew": "ἀποδίδωμι",
+          "translit": "apodídōmi",
+          "english": "Return"
+        },
+        {
+          "strongs": "G1363",
+          "hebrew": "διπλόω",
+          "translit": "diplóō",
+          "english": "repay double"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G4221",
+          "hebrew": "ποτήριον",
+          "translit": "potḗrion",
+          "english": "cup"
+        },
+        {
+          "strongs": "G2767",
+          "hebrew": "κεράννυμι",
+          "translit": "keránnymi",
+          "english": "mixed"
+        },
+        {
+          "strongs": "G1362",
+          "hebrew": "διπλοῦς",
+          "translit": "diploûs",
+          "english": "double"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "However much she glorified herself, and grew wanton, so much give her of torment and mourning. For she says in her heart, ‘I sit a queen, and am no widow, and will in no way see mourning.’",
+      "understanding": "ὅσα ἐδόξασεν αὐτὴν καὶ ἐστρηνίασεν, τοσοῦτον δότε αὐτῇ βασανισμὸν καὶ πένθος, “However much she glorified herself, and grew wanton, so much give her of torment and mourning” — δοξάζω: she took the glory that belongs to God; στρηνιάω, to live in arrogant luxury. ὅτι ἐν τῇ καρδίᾳ αὐτῆς λέγει ὅτι Κάθημαι βασίλισσα καὶ χήρα οὐκ εἰμὶ καὶ πένθος οὐ μὴ ἴδω, “For she says in her heart, ‘I sit a queen, and am no widow, and will in no way see mourning’” — εἴδω, from the see family (and the know family). The boast of ancient Babylon in Isaiah 47: pride and false security.",
+      "words": [
+        {
+          "strongs": "G1392",
+          "hebrew": "δοξάζω",
+          "translit": "doxázō",
+          "english": "glorified"
+        },
+        {
+          "strongs": "G4763",
+          "hebrew": "στρηνιάω",
+          "translit": "strēniáō",
+          "english": "grew wanton"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G929",
+          "hebrew": "βασανισμός",
+          "translit": "basanismós",
+          "english": "torment"
+        },
+        {
+          "strongs": "G3997",
+          "hebrew": "πένθος",
+          "translit": "pénthos",
+          "english": "mourning"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "heart"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sit"
+        },
+        {
+          "strongs": "G938",
+          "hebrew": "βασίλισσα",
+          "translit": "basílissa",
+          "english": "queen"
+        },
+        {
+          "strongs": "G5503",
+          "hebrew": "χήρα",
+          "translit": "chḗra",
+          "english": "widow"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "see"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Therefore in one day her plagues will come: death, mourning, and famine; and she will be utterly burned with fire; for the Lord God who has judged her is strong.",
+      "understanding": "διὰ τοῦτο ἐν μιᾷ ἡμέρᾳ ἥξουσιν αἱ πληγαὶ αὐτῆς, “Therefore in one day her plagues will come” — ἡμέρα, from the time family: suddenly, as Isaiah said of Babylon: ‘in a moment, in one day’. θάνατος καὶ πένθος καὶ λιμός, “death, mourning, and famine” — the opposite of her boast. καὶ ἐν πυρὶ κατακαυθήσεται, “and she will be utterly burned with fire” — ὅτι ἰσχυρὸς κύριος ὁ θεὸς ὁ κρίνας αὐτήν, “for the Lord God who has judged her is strong” — ἰσχυρός, from the power family: Babylon called herself ‘the strong city’ (v. 10), but God is stronger; κρίνω, from the judge family.",
+      "words": [
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plagues"
+        },
+        {
+          "strongs": "G2240",
+          "hebrew": "ἥκω",
+          "translit": "hḗkō",
+          "english": "come"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G3997",
+          "hebrew": "πένθος",
+          "translit": "pénthos",
+          "english": "mourning"
+        },
+        {
+          "strongs": "G3042",
+          "hebrew": "λιμός",
+          "translit": "limós",
+          "english": "famine"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G2618",
+          "hebrew": "κατακαίω",
+          "translit": "katakaíō",
+          "english": "burned"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "strong"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "The kings of the earth, who committed sexual immorality and lived wantonly with her, will weep and wail over her, when they look at the smoke of her burning,",
+      "understanding": "Καὶ κλαύσουσιν καὶ κόψονται ἐπ᾽ αὐτὴν οἱ βασιλεῖς τῆς γῆς, “The kings of the earth... will weep and wail over her” — κλαίω; κόπτω, to beat the breast; γῆ, from the world family. The first of three laments: kings, merchants, sailors. οἱ μετ᾽ αὐτῆς πορνεύσαντες καὶ στρηνιάσαντες, “who committed sexual immorality and lived wantonly with her” — ὅταν βλέπωσιν τὸν καπνὸν τῆς πυρώσεως αὐτῆς, “when they look at the smoke of her burning” — βλέπω, from the see family. They mourn their lost profits, not her sins.",
+      "words": [
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "weep"
+        },
+        {
+          "strongs": "G2875",
+          "hebrew": "κόπτω",
+          "translit": "kóptō",
+          "english": "wail"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G4203",
+          "hebrew": "πορνεύω",
+          "translit": "porneúō",
+          "english": "committed sexual immorality"
+        },
+        {
+          "strongs": "G4763",
+          "hebrew": "στρηνιάω",
+          "translit": "strēniáō",
+          "english": "lived wantonly"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "look"
+        },
+        {
+          "strongs": "G2586",
+          "hebrew": "καπνός",
+          "translit": "kapnós",
+          "english": "smoke"
+        },
+        {
+          "strongs": "G4451",
+          "hebrew": "πύρωσις",
+          "translit": "pýrōsis",
+          "english": "burning"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "standing far away for the fear of her torment, saying, ‘Woe, woe, the great city, Babylon, the strong city! For your judgment has come in one hour.’",
+      "understanding": "ἀπὸ μακρόθεν ἑστηκότες διὰ τὸν φόβον τοῦ βασανισμοῦ αὐτῆς, “standing far away for the fear of her torment” — they keep their distance: no loyalty, only fear for themselves. λέγοντες· Οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, Βαβυλὼν ἡ πόλις ἡ ἰσχυρά, “saying, ‘Woe, woe, the great city, Babylon, the strong city!’” — οὐαί; ἰσχυρός, from the power family: her strength could not save her. ὅτι μιᾷ ὥρᾳ ἦλθεν ἡ κρίσις σου, “For your judgment has come in one hour” — ὥρα, from the time family; κρίσις, from the judge family: the act of judgement, sudden and complete.",
+      "words": [
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "standing"
+        },
+        {
+          "strongs": "G3113",
+          "hebrew": "μακρόθεν",
+          "translit": "makróthen",
+          "english": "far away"
+        },
+        {
+          "strongs": "G5401",
+          "hebrew": "φόβος",
+          "translit": "phóbos",
+          "english": "fear"
+        },
+        {
+          "strongs": "G929",
+          "hebrew": "βασανισμός",
+          "translit": "basanismós",
+          "english": "torment"
+        },
+        {
+          "strongs": "G3759",
+          "hebrew": "οὐαί",
+          "translit": "ouaí",
+          "english": "Woe"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G897",
+          "hebrew": "Βαβυλών",
+          "translit": "Babylṓn",
+          "english": "Babylon"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "strong"
+        },
+        {
+          "strongs": "G5610",
+          "hebrew": "ὥρα",
+          "translit": "hṓra",
+          "english": "hour"
+        },
+        {
+          "strongs": "G2920",
+          "hebrew": "κρίσις",
+          "translit": "krísis",
+          "english": "judgment"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "come"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "The merchants of the earth weep and mourn over her, for no one buys their merchandise any more;",
+      "understanding": "Καὶ οἱ ἔμποροι τῆς γῆς κλαίουσιν καὶ πενθοῦσιν ἐπ᾽ αὐτήν, “The merchants of the earth weep and mourn over her” — ἔμπορος; γῆ, from the world family. ὅτι τὸν γόμον αὐτῶν οὐδεὶς ἀγοράζει οὐκέτι, “for no one buys their merchandise any more” — γόμος, cargo; ἀγοράζω, from the redeem family: the beast controlled who could buy (13:17); now there is no one left to buy. The Lamb ‘bought’ people for God (5:9); Babylon only buys and sells.",
+      "words": [
+        {
+          "strongs": "G1713",
+          "hebrew": "ἔμπορος",
+          "translit": "émporos",
+          "english": "merchants"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "weep"
+        },
+        {
+          "strongs": "G3996",
+          "hebrew": "πενθέω",
+          "translit": "penthéō",
+          "english": "mourn"
+        },
+        {
+          "strongs": "G59",
+          "hebrew": "ἀγοράζω",
+          "translit": "agorázō",
+          "english": "buys"
+        },
+        {
+          "strongs": "G1117",
+          "hebrew": "γόμος",
+          "translit": "gómos",
+          "english": "merchandise"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "merchandise of gold, silver, precious stones, pearls, fine linen, purple, silk, scarlet, all expensive wood, every vessel of ivory, every vessel made of most precious wood, and of brass, and iron, and marble;",
+      "understanding": "γόμον χρυσοῦ καὶ ἀργύρου καὶ λίθου τιμίου καὶ μαργαριτῶν, “merchandise of gold, silver, precious stones, pearls” — the cargo list (vv. 12–13) is a catalogue of Rome's luxury imports from across the empire and beyond, like Ezekiel's list of Tyre's trade. καὶ βυσσίνου καὶ πορφύρας καὶ σηρικοῦ καὶ κοκκίνου, “fine linen, purple, silk, scarlet” — silk came by caravan from China. καὶ πᾶν ξύλον θύϊνον καὶ πᾶν σκεῦος ἐλεφάντινον, “all expensive wood, every vessel of ivory” — citron wood tables cost a fortune. καὶ χαλκοῦ καὶ σιδήρου καὶ μαρμάρου, “and of brass, and iron, and marble.”",
+      "words": [
+        {
+          "strongs": "G1117",
+          "hebrew": "γόμος",
+          "translit": "gómos",
+          "english": "merchandise"
+        },
+        {
+          "strongs": "G5557",
+          "hebrew": "χρυσός",
+          "translit": "chrysós",
+          "english": "gold"
+        },
+        {
+          "strongs": "G696",
+          "hebrew": "ἄργυρος",
+          "translit": "árgyros",
+          "english": "silver"
+        },
+        {
+          "strongs": "G3037",
+          "hebrew": "λίθος",
+          "translit": "líthos",
+          "english": "stones"
+        },
+        {
+          "strongs": "G5093",
+          "hebrew": "τίμιος",
+          "translit": "tímios",
+          "english": "precious"
+        },
+        {
+          "strongs": "G3135",
+          "hebrew": "μαργαρίτης",
+          "translit": "margarítēs",
+          "english": "pearls"
+        },
+        {
+          "strongs": "G1039",
+          "hebrew": "βύσσινος",
+          "translit": "býssinos",
+          "english": "fine linen"
+        },
+        {
+          "strongs": "G4209",
+          "hebrew": "πορφύρα",
+          "translit": "porphýra",
+          "english": "purple"
+        },
+        {
+          "strongs": "G4596",
+          "hebrew": "σηρικός",
+          "translit": "sērikós",
+          "english": "silk"
+        },
+        {
+          "strongs": "G2847",
+          "hebrew": "κόκκινος",
+          "translit": "kókkinos",
+          "english": "scarlet"
+        },
+        {
+          "strongs": "G3586",
+          "hebrew": "ξύλον",
+          "translit": "xýlon",
+          "english": "wood"
+        },
+        {
+          "strongs": "G2367",
+          "hebrew": "θύϊνος",
+          "translit": "thýïnos",
+          "english": "expensive"
+        },
+        {
+          "strongs": "G4632",
+          "hebrew": "σκεῦος",
+          "translit": "skeûos",
+          "english": "vessel"
+        },
+        {
+          "strongs": "G1661",
+          "hebrew": "ἐλεφάντινος",
+          "translit": "elephántinos",
+          "english": "ivory"
+        },
+        {
+          "strongs": "G5475",
+          "hebrew": "χαλκός",
+          "translit": "chalkós",
+          "english": "brass"
+        },
+        {
+          "strongs": "G4604",
+          "hebrew": "σίδηρος",
+          "translit": "sídēros",
+          "english": "iron"
+        },
+        {
+          "strongs": "G3139",
+          "hebrew": "μάρμαρος",
+          "translit": "mármaros",
+          "english": "marble"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "and cinnamon, incense, perfume, frankincense, wine, olive oil, fine flour, wheat, sheep, horses, chariots, and people’s bodies and souls.",
+      "understanding": "καὶ κιννάμωμον... καὶ θυμιάματα καὶ μύρον καὶ λίβανον, “and cinnamon, incense, perfume, frankincense” — καὶ οἶνον καὶ ἔλαιον καὶ σεμίδαλιν καὶ σῖτον, “wine, olive oil, fine flour, wheat” — καὶ κτήνη καὶ πρόβατα καὶ ἵππων καὶ ῥεδῶν, “sheep, horses, chariots” — καὶ σωμάτων, καὶ ψυχὰς ἀνθρώπων, “and people’s bodies and souls” — the list ends with slaves. σῶμα, ‘bodies’, was the trade term for slaves; John adds ψυχή, from the life family: these are human lives, persons, not merchandise. The climax of the list exposes the evil at the heart of Babylon's economy.",
+      "words": [
+        {
+          "strongs": "G2792",
+          "hebrew": "κινάμωμον",
+          "translit": "kinámōmon",
+          "english": "cinnamon"
+        },
+        {
+          "strongs": "G2368",
+          "hebrew": "θυμίαμα",
+          "translit": "thymíama",
+          "english": "incense"
+        },
+        {
+          "strongs": "G3464",
+          "hebrew": "μύρον",
+          "translit": "mýron",
+          "english": "perfume"
+        },
+        {
+          "strongs": "G3030",
+          "hebrew": "λίβανος",
+          "translit": "líbanos",
+          "english": "frankincense"
+        },
+        {
+          "strongs": "G3631",
+          "hebrew": "οἶνος",
+          "translit": "oînos",
+          "english": "wine"
+        },
+        {
+          "strongs": "G1637",
+          "hebrew": "ἔλαιον",
+          "translit": "élaion",
+          "english": "olive oil"
+        },
+        {
+          "strongs": "G4585",
+          "hebrew": "σεμίδαλις",
+          "translit": "semídalis",
+          "english": "fine flour"
+        },
+        {
+          "strongs": "G4621",
+          "hebrew": "σῖτος",
+          "translit": "sîtos",
+          "english": "wheat"
+        },
+        {
+          "strongs": "G4263",
+          "hebrew": "πρόβατον",
+          "translit": "próbaton",
+          "english": "sheep"
+        },
+        {
+          "strongs": "G2462",
+          "hebrew": "ἵππος",
+          "translit": "híppos",
+          "english": "horses"
+        },
+        {
+          "strongs": "G4480",
+          "hebrew": "ῥέδα",
+          "translit": "rhéda",
+          "english": "chariots"
+        },
+        {
+          "strongs": "G4983",
+          "hebrew": "σῶμα",
+          "translit": "sōma",
+          "english": "bodies"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "souls"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "people’s"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "The fruits which your soul lusted after have been lost to you, and all things that were dainty and sumptuous have perished from you, and you will find them no more at all.",
+      "understanding": "καὶ ἡ ὀπώρα σου τῆς ἐπιθυμίας τῆς ψυχῆς ἀπῆλθεν ἀπὸ σοῦ, “The fruits which your soul lusted after have been lost to you” — ὀπώρα, ripe late-summer fruit; ἐπιθυμία, craving; ψυχή, from the life family: her very life was bound up in what she craved. καὶ πάντα τὰ λιπαρὰ καὶ τὰ λαμπρὰ ἀπώλετο ἀπὸ σοῦ, “and all things that were dainty and sumptuous have perished from you” — ἀπόλλυμι, to perish. καὶ οὐκέτι οὐ μὴ αὐτὰ εὑρήσουσιν, “and you will find them no more at all” — a double negative: never again.",
+      "words": [
+        {
+          "strongs": "G3703",
+          "hebrew": "ὀπώρα",
+          "translit": "opṓra",
+          "english": "fruits"
+        },
+        {
+          "strongs": "G5590",
+          "hebrew": "ψυχή",
+          "translit": "psychḗ",
+          "english": "soul"
+        },
+        {
+          "strongs": "G1939",
+          "hebrew": "ἐπιθυμία",
+          "translit": "epithymía",
+          "english": "lusted after"
+        },
+        {
+          "strongs": "G565",
+          "hebrew": "ἀπέρχομαι",
+          "translit": "apérchomai",
+          "english": "lost"
+        },
+        {
+          "strongs": "G3045",
+          "hebrew": "λιπαρός",
+          "translit": "liparós",
+          "english": "dainty"
+        },
+        {
+          "strongs": "G2986",
+          "hebrew": "λαμπρός",
+          "translit": "lamprós",
+          "english": "sumptuous"
+        },
+        {
+          "strongs": "G622",
+          "hebrew": "ἀπόλλυμι",
+          "translit": "apóllymi",
+          "english": "perished"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "find"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "The merchants of these things, who were made rich by her, will stand far away for the fear of her torment, weeping and mourning;",
+      "understanding": "οἱ ἔμποροι τούτων οἱ πλουτήσαντες ἀπ᾽ αὐτῆς, “The merchants of these things, who were made rich by her” — ἔμπορος; πλουτέω. ἀπὸ μακρόθεν στήσονται διὰ τὸν φόβον τοῦ βασανισμοῦ αὐτῆς, “will stand far away for the fear of her torment” — κλαίοντες καὶ πενθοῦντες, “weeping and mourning” — the same distance and the same self-pity as the kings.",
+      "words": [
+        {
+          "strongs": "G1713",
+          "hebrew": "ἔμπορος",
+          "translit": "émporos",
+          "english": "merchants"
+        },
+        {
+          "strongs": "G4147",
+          "hebrew": "πλουτέω",
+          "translit": "ploutéō",
+          "english": "made rich"
+        },
+        {
+          "strongs": "G3113",
+          "hebrew": "μακρόθεν",
+          "translit": "makróthen",
+          "english": "far away"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "stand"
+        },
+        {
+          "strongs": "G5401",
+          "hebrew": "φόβος",
+          "translit": "phóbos",
+          "english": "fear"
+        },
+        {
+          "strongs": "G929",
+          "hebrew": "βασανισμός",
+          "translit": "basanismós",
+          "english": "torment"
+        },
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "weeping"
+        },
+        {
+          "strongs": "G3996",
+          "hebrew": "πενθέω",
+          "translit": "penthéō",
+          "english": "mourning"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "saying, ‘Woe, woe, the great city, she who was dressed in fine linen, purple, and scarlet, and decked with gold and precious stones and pearls!",
+      "understanding": "λέγοντες· Οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, “saying, ‘Woe, woe, the great city’” — οὐαί. ἡ περιβεβλημένη βύσσινον καὶ πορφυροῦν καὶ κόκκινον, καὶ κεχρυσωμένη ἐν χρυσίῳ καὶ λίθῳ τιμίῳ καὶ μαργαρίτῃ, “she who was dressed in fine linen, purple, and scarlet, and decked with gold and precious stones and pearls!” — the description of the prostitute (17:4), now in the merchants' mouths: they grieve for her appearance, her trade, her glamour.",
+      "words": [
+        {
+          "strongs": "G3759",
+          "hebrew": "οὐαί",
+          "translit": "ouaí",
+          "english": "Woe"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G4016",
+          "hebrew": "περιβάλλω",
+          "translit": "peribállō",
+          "english": "dressed"
+        },
+        {
+          "strongs": "G1039",
+          "hebrew": "βύσσινος",
+          "translit": "býssinos",
+          "english": "fine linen"
+        },
+        {
+          "strongs": "G4210",
+          "hebrew": "πορφυροῦς",
+          "translit": "porphyroûs",
+          "english": "purple"
+        },
+        {
+          "strongs": "G2847",
+          "hebrew": "κόκκινος",
+          "translit": "kókkinos",
+          "english": "scarlet"
+        },
+        {
+          "strongs": "G5558",
+          "hebrew": "χρυσόω",
+          "translit": "chrysóō",
+          "english": "decked"
+        },
+        {
+          "strongs": "G5553",
+          "hebrew": "χρυσίον",
+          "translit": "chrysíon",
+          "english": "gold"
+        },
+        {
+          "strongs": "G3037",
+          "hebrew": "λίθος",
+          "translit": "líthos",
+          "english": "stones"
+        },
+        {
+          "strongs": "G5093",
+          "hebrew": "τίμιος",
+          "translit": "tímios",
+          "english": "precious"
+        },
+        {
+          "strongs": "G3135",
+          "hebrew": "μαργαρίτης",
+          "translit": "margarítēs",
+          "english": "pearls"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "For in an hour such great riches are made desolate.’ Every ship master, and everyone who sails anywhere, and mariners, and as many as gain their living by sea, stood far away,",
+      "understanding": "ὅτι μιᾷ ὥρᾳ ἠρημώθη ὁ τοσοῦτος πλοῦτος, “For in an hour such great riches are made desolate” — ὥρα, from the time family; ἐρημόω: the city that put God's people into the wilderness becomes a wilderness. Καὶ πᾶς κυβερνήτης καὶ πᾶς ὁ ἐπὶ τόπον πλέων καὶ ναῦται καὶ ὅσοι τὴν θάλασσαν ἐργάζονται, “Every ship master, and everyone who sails anywhere, and mariners, and as many as gain their living by sea” — ἐργάζομαι, from the work family: to work, to make a living. ἀπὸ μακρόθεν ἔστησαν, “stood far away.”",
+      "words": [
+        {
+          "strongs": "G5610",
+          "hebrew": "ὥρα",
+          "translit": "hṓra",
+          "english": "hour"
+        },
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "riches"
+        },
+        {
+          "strongs": "G2049",
+          "hebrew": "ἐρημόω",
+          "translit": "erēmóō",
+          "english": "made desolate"
+        },
+        {
+          "strongs": "G2942",
+          "hebrew": "κυβερνήτης",
+          "translit": "kybernḗtēs",
+          "english": "ship master"
+        },
+        {
+          "strongs": "G4126",
+          "hebrew": "πλέω",
+          "translit": "pléō",
+          "english": "sails"
+        },
+        {
+          "strongs": "G3492",
+          "hebrew": "ναύτης",
+          "translit": "naútēs",
+          "english": "mariners"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G2038",
+          "hebrew": "ἐργάζομαι",
+          "translit": "ergázomai",
+          "english": "gain their living"
+        },
+        {
+          "strongs": "G3113",
+          "hebrew": "μακρόθεν",
+          "translit": "makróthen",
+          "english": "far away"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "stood"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "and cried out as they looked at the smoke of her burning, saying, ‘What is like the great city?’",
+      "understanding": "καὶ ἔκραζον βλέποντες τὸν καπνὸν τῆς πυρώσεως αὐτῆς, “and cried out as they looked at the smoke of her burning” — βλέπω, from the see family. λέγοντες· Τίς ὁμοία τῇ πόλει τῇ μεγάλῃ; “saying, ‘What is like the great city?’” — the same question the world asked of the beast (13:4). Their worship of the city outlives her.",
+      "words": [
+        {
+          "strongs": "G2896",
+          "hebrew": "κράζω",
+          "translit": "krázō",
+          "english": "cried out"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "looked"
+        },
+        {
+          "strongs": "G2586",
+          "hebrew": "καπνός",
+          "translit": "kapnós",
+          "english": "smoke"
+        },
+        {
+          "strongs": "G4451",
+          "hebrew": "πύρωσις",
+          "translit": "pýrōsis",
+          "english": "burning"
+        },
+        {
+          "strongs": "G3664",
+          "hebrew": "ὅμοιος",
+          "translit": "hómoios",
+          "english": "like"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "They cast dust on their heads, and cried, weeping and mourning, saying, ‘Woe, woe, the great city, in which all who had their ships in the sea were made rich by reason of her great wealth!’ For she is made desolate in one hour.",
+      "understanding": "καὶ ἔβαλον χοῦν ἐπὶ τὰς κεφαλὰς αὐτῶν, “They cast dust on their heads” — the sign of mourning, as Ezekiel's sailors did over Tyre. καὶ ἔκραζον κλαίοντες καὶ πενθοῦντες, λέγοντες· Οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, “and cried, weeping and mourning, saying, ‘Woe, woe, the great city’” — οὐαί. ἐν ᾗ ἐπλούτησαν πάντες οἱ ἔχοντες τὰ πλοῖα ἐν τῇ θαλάσσῃ ἐκ τῆς τιμιότητος αὐτῆς, “in which all who had their ships in the sea were made rich by reason of her great wealth!” — τιμιότης, costliness. ὅτι μιᾷ ὥρᾳ ἠρημώθη, “For she is made desolate in one hour” — ὥρα, from the time family: the third time, ‘one hour’.",
+      "words": [
+        {
+          "strongs": "G906",
+          "hebrew": "βάλλω",
+          "translit": "bállō",
+          "english": "cast"
+        },
+        {
+          "strongs": "G5522",
+          "hebrew": "χόος",
+          "translit": "chóos",
+          "english": "dust"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "heads"
+        },
+        {
+          "strongs": "G2896",
+          "hebrew": "κράζω",
+          "translit": "krázō",
+          "english": "cried"
+        },
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "weeping"
+        },
+        {
+          "strongs": "G3996",
+          "hebrew": "πενθέω",
+          "translit": "penthéō",
+          "english": "mourning"
+        },
+        {
+          "strongs": "G3759",
+          "hebrew": "οὐαί",
+          "translit": "ouaí",
+          "english": "Woe"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G4147",
+          "hebrew": "πλουτέω",
+          "translit": "ploutéō",
+          "english": "made rich"
+        },
+        {
+          "strongs": "G4143",
+          "hebrew": "πλοῖον",
+          "translit": "ploîon",
+          "english": "ships"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G5094",
+          "hebrew": "τιμιότης",
+          "translit": "timiótēs",
+          "english": "wealth"
+        },
+        {
+          "strongs": "G5610",
+          "hebrew": "ὥρα",
+          "translit": "hṓra",
+          "english": "hour"
+        },
+        {
+          "strongs": "G2049",
+          "hebrew": "ἐρημόω",
+          "translit": "erēmóō",
+          "english": "made desolate"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "“Rejoice over her, O heaven, you saints, apostles, and prophets; for God has judged your judgment on her.”",
+      "understanding": "Εὐφραίνου ἐπ᾽ αὐτῇ, οὐρανέ, καὶ οἱ ἅγιοι καὶ οἱ ἀπόστολοι καὶ οἱ προφῆται, “Rejoice over her, O heaven, you saints, apostles, and prophets” — εὐφραίνω; ἅγιος, from the holy family. Earth mourns; heaven rejoices — not at suffering, but at justice for the oppressed. ὅτι ἔκρινεν ὁ θεὸς τὸ κρίμα ὑμῶν ἐξ αὐτῆς, “for God has judged your judgment on her” — κρίνω and κρίμα, two members of the judge family: God has passed the verdict in your case against her. The martyrs' prayer of 6:10 is fully answered.",
+      "words": [
+        {
+          "strongs": "G2165",
+          "hebrew": "εὐφραίνω",
+          "translit": "euphraínō",
+          "english": "Rejoice"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostles"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        },
+        {
+          "strongs": "G2917",
+          "hebrew": "κρίμα",
+          "translit": "kríma",
+          "english": "judgment"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "A mighty angel took up a stone like a great millstone and cast it into the sea, saying, “Thus with violence will Babylon, the great city, be thrown down, and will be found no more at all.",
+      "understanding": "Καὶ ἦρεν εἷς ἄγγελος ἰσχυρὸς λίθον ὡς μύλινον μέγαν, “A mighty angel took up a stone like a great millstone” — ἰσχυρός, from the power family; μύλος, a millstone so large it needed a donkey to turn it. καὶ ἔβαλεν εἰς τὴν θάλασσαν, “and cast it into the sea” — as Jeremiah's scroll against Babylon was tied to a stone and sunk in the Euphrates: ‘Thus Babylon will sink, and will not rise again.’ Οὕτως ὁρμήματι βληθήσεται Βαβυλὼν ἡ μεγάλη πόλις, καὶ οὐ μὴ εὑρεθῇ ἔτι, “Thus with violence will Babylon, the great city, be thrown down, and will be found no more at all” — ὅρμημα, a violent rush. Jesus said it would be better for one who harms His little ones to be drowned with a millstone.",
+      "words": [
+        {
+          "strongs": "G142",
+          "hebrew": "αἴρω",
+          "translit": "aírō",
+          "english": "took up"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G3037",
+          "hebrew": "λίθος",
+          "translit": "líthos",
+          "english": "stone"
+        },
+        {
+          "strongs": "G3458",
+          "hebrew": "μύλος",
+          "translit": "mýlos",
+          "english": "millstone"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G906",
+          "hebrew": "βάλλω",
+          "translit": "bállō",
+          "english": "cast"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G3731",
+          "hebrew": "ὅρμημα",
+          "translit": "hórmēma",
+          "english": "violence"
+        },
+        {
+          "strongs": "G897",
+          "hebrew": "Βαβυλών",
+          "translit": "Babylṓn",
+          "english": "Babylon"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "The voice of harpists, minstrels, flute players, and trumpeters will be heard no more at all in you. No craftsman, of whatever craft, will be found any more at all in you. The sound of a mill will be heard no more at all in you.",
+      "understanding": "καὶ φωνὴ κιθαρῳδῶν καὶ μουσικῶν καὶ αὐλητῶν καὶ σαλπιστῶν οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι, “The voice of harpists, minstrels, flute players, and trumpeters will be heard no more at all in you” — the music stops. καὶ πᾶς τεχνίτης πάσης τέχνης οὐ μὴ εὑρεθῇ ἐν σοὶ ἔτι, “No craftsman, of whatever craft, will be found any more at all in you” — the workshops fall silent. καὶ φωνὴ μύλου οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι, “The sound of a mill will be heard no more at all in you” — the most ordinary sound of daily life — grinding grain — ceases. ‘No more’ (οὐ μή) six times in verses 21–23: total, final silence.",
+      "words": [
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G2790",
+          "hebrew": "κιθαρῳδός",
+          "translit": "kitharōidós",
+          "english": "harpists"
+        },
+        {
+          "strongs": "G3451",
+          "hebrew": "μουσικός",
+          "translit": "mousikós",
+          "english": "minstrels"
+        },
+        {
+          "strongs": "G834",
+          "hebrew": "αὐλητής",
+          "translit": "aulētḗs",
+          "english": "flute players"
+        },
+        {
+          "strongs": "G4538",
+          "hebrew": "σαλπιστής",
+          "translit": "salpistḗs",
+          "english": "trumpeters"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G5079",
+          "hebrew": "τεχνίτης",
+          "translit": "technítēs",
+          "english": "craftsman"
+        },
+        {
+          "strongs": "G5078",
+          "hebrew": "τέχνη",
+          "translit": "téchnē",
+          "english": "craft"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        },
+        {
+          "strongs": "G3458",
+          "hebrew": "μύλος",
+          "translit": "mýlos",
+          "english": "mill"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "The light of a lamp will shine no more at all in you. The voice of the bridegroom and of the bride will be heard no more at all in you; for your merchants were the princes of the earth; for with your sorcery all the nations were deceived.",
+      "understanding": "καὶ φῶς λύχνου οὐ μὴ φάνῃ ἐν σοὶ ἔτι, “The light of a lamp will shine no more at all in you” — φαίνω, from the appear family: to give light. Jeremiah warned Judah that God would take away ‘the sound of the millstones and the light of the lamp’. καὶ φωνὴ νυμφίου καὶ νύμφης οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι, “The voice of the bridegroom and of the bride will be heard no more at all in you” — νυμφίος, νύμφη: Babylon has no wedding; the true bride and Bridegroom are coming (19:7). ὅτι οἱ ἔμποροί σου ἦσαν οἱ μεγιστᾶνες τῆς γῆς, “for your merchants were the princes of the earth” — γῆ, from the world family: wealth was her god. ὅτι ἐν τῇ φαρμακείᾳ σου ἐπλανήθησαν πάντα τὰ ἔθνη, “for with your sorcery all the nations were deceived” — φαρμακεία, sorcery: the spell of her seduction; πλανάω.",
+      "words": [
+        {
+          "strongs": "G5457",
+          "hebrew": "φῶς",
+          "translit": "phōs",
+          "english": "light"
+        },
+        {
+          "strongs": "G3088",
+          "hebrew": "λύχνος",
+          "translit": "lýchnos",
+          "english": "lamp"
+        },
+        {
+          "strongs": "G5316",
+          "hebrew": "φαίνω",
+          "translit": "phaínō",
+          "english": "shine"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3566",
+          "hebrew": "νυμφίος",
+          "translit": "nymphíos",
+          "english": "bridegroom"
+        },
+        {
+          "strongs": "G3565",
+          "hebrew": "νύμφη",
+          "translit": "nýmphē",
+          "english": "bride"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G1713",
+          "hebrew": "ἔμπορος",
+          "translit": "émporos",
+          "english": "merchants"
+        },
+        {
+          "strongs": "G3175",
+          "hebrew": "μεγιστᾶνες",
+          "translit": "megistânes",
+          "english": "princes"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G5331",
+          "hebrew": "φαρμακεία",
+          "translit": "pharmakeía",
+          "english": "sorcery"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "deceived"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "In her was found the blood of prophets and of saints, and of all who have been slain on the earth.”",
+      "understanding": "καὶ ἐν αὐτῇ αἷμα προφητῶν καὶ ἁγίων εὑρέθη, “In her was found the blood of prophets and of saints” — ἅγιος, from the holy family. The final reason for her judgement. καὶ πάντων τῶν ἐσφαγμένων ἐπὶ τῆς γῆς, “and of all who have been slain on the earth” — σφάζω, the word used of the Lamb (5:6); γῆ, from the world family. Babylon is responsible for all the innocent blood shed by the world-system through history — as Jesus said of Jerusalem's leaders.",
+      "words": [
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        },
+        {
+          "strongs": "G4969",
+          "hebrew": "σφάζω",
+          "translit": "spházō",
+          "english": "slain"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Come Out of Her",
+      "verseRef": "v. 4-5",
+      "image": "Picture a dazzling city at night, lit up with wealth and pleasure, music spilling from every window. Then hear a voice from heaven, gentle but urgent, speaking to the believers who live there: ‘Come out. Don't share her sins. Don't share her plagues.’",
+      "meaning": "“Come out of her, my people, that you have no participation in her sins, and that you don’t receive of her plagues, for her sins have reached to the sky” (vv. 4–5). Leaving Babylon is not about geography but about the heart: refusing her idols, her greed and her compromises."
+    },
+    {
+      "title": "Three Laments from a Distance",
+      "verseRef": "v. 9-19",
+      "image": "Picture smoke rising from a burning city on the horizon. Kings stand on a distant hill, merchants on another, sailors on the decks of their ships far out at sea — all weeping, all keeping their distance, all mourning not for the people but for their lost profits.",
+      "meaning": "“Woe, woe, the great city... For in an hour such great riches are made desolate” (vv. 16–17). Those who love Babylon love what she gives them. When she falls, no one is loyal to her. The world's friendships are only transactions."
+    },
+    {
+      "title": "Bodies and Souls",
+      "verseRef": "v. 11-13",
+      "image": "Picture a merchant's cargo manifest: gold, silver, pearls, silk, ivory, spices, wine, wheat, horses, chariots... and at the very end, ‘bodies — and souls of men’.",
+      "meaning": "“And people’s bodies and souls” (v. 13). The final item reveals what Babylon's luxury rests on. Every economy that treats human beings as merchandise stands under God's judgement."
+    },
+    {
+      "title": "The Millstone and the Silence",
+      "verseRef": "v. 21-23",
+      "image": "Picture a mighty angel heaving a huge millstone and hurling it into the sea. It plunges and is gone. Then silence falls over the city: no music, no craftsmen, no mill, no lamp, no wedding song.",
+      "meaning": "“Thus with violence will Babylon, the great city, be thrown down, and will be found no more at all” (v. 21). Everything Babylon offered — music, work, light, love — was a gift of God she twisted. In the new creation it will be restored; in Babylon it ends forever."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Babylon's Fall Announced (v. 1-3)",
+        "body": "An angel with great authority, lighting the earth with his glory, cries that Babylon the great has fallen and become a haunt of demons and unclean spirits, because the nations drank her wine and the kings and merchants grew rich from her."
+      },
+      {
+        "label": "Come Out of Her (v. 4-8)",
+        "body": "Another voice calls God's people to come out of her so as not to share her sins and plagues; her sins are piled to heaven; she is to be repaid in full; because she boasted she would never know mourning, her plagues will come in one day, and she will be burned, for the Lord God who judges her is mighty."
+      },
+      {
+        "label": "The Laments (v. 9-19)",
+        "body": "The kings of the earth weep and mourn from a distance; the merchants mourn because no one buys their cargo — gold, silks, spices, livestock and human beings; the sea captains and sailors throw dust on their heads; all cry ‘Woe, woe, the great city’, for in one hour she has been laid waste."
+      },
+      {
+        "label": "Heaven Rejoices; the Millstone (v. 20-24)",
+        "body": "Heaven, saints, apostles and prophets are called to rejoice, for God has judged her for them; a mighty angel throws a millstone into the sea as a sign that Babylon will be thrown down and never found again; her music, craft, mill, lamp and weddings will cease, for her merchants were the great ones of the earth, her sorcery deceived the nations, and in her was found the blood of prophets, saints and all the slain."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Fallen, Fallen",
+        "paragraphs": [
+          "Chapter 18 is a funeral song for Babylon, full of the language of the Old Testament prophecies against Babylon and Tyre. A glorious angel announces: “Fallen, fallen is Babylon the great, and she has become a habitation of demons, a prison of every unclean spirit, and a prison of every unclean and hateful bird!” (v. 2). The city that seemed to sparkle with life is exposed as a ruin haunted by evil.",
+          "The reasons are given: “For all the nations have drunk of the wine of the wrath of her sexual immorality, the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the abundance of her luxury” (v. 3). Babylon's sin is not only religious idolatry but economic and political: luxury bought at the price of others' suffering, power sold in exchange for compromise.",
+          "Rome in John's day was the hub of a vast trading empire. Its wealth flowed from every corner of the known world, and its elites lived in staggering luxury while much of the population lived in slavery or poverty. But Babylon is wherever wealth and power become gods."
+        ]
+      },
+      {
+        "heading": "Come Out of Her, My People",
+        "paragraphs": [
+          "In the middle of the judgement comes a call to believers: “Come out of her, my people, that you have no participation in her sins, and that you don’t receive of her plagues” (v. 4). The words come from Isaiah and Jeremiah, who called the exiles to leave Babylon when God judged it. For Christians in Asia, it meant refusing to take part in idolatrous trade guilds, emperor worship and the immoral pleasures of the city — even at great cost.",
+          "‘Coming out’ does not usually mean moving to a desert. Jesus prayed not that His disciples would be taken out of the world, but that they would be kept from the evil one. It means living in Babylon without belonging to Babylon. Paul wrote, “‘Come out from among them, and be separate,’ says the Lord. ‘Touch no unclean thing. I will receive you’” (2 Corinthians 6:17).",
+          "The sin at Babylon's heart is pride: “For she says in her heart, ‘I sit a queen, and am no widow, and will in no way see mourning’” (v. 7). She believes she is untouchable. But “in one day her plagues will come: death, mourning, and famine; and she will be utterly burned with fire; for the Lord God who has judged her is strong” (v. 8). Jesus told of a rich man who said, ‘Soul, you have many goods laid up for many years’ — and God said, “You foolish one, tonight your soul is required of you” (Luke 12:20)."
+        ]
+      },
+      {
+        "heading": "The World Mourns Its Idol",
+        "paragraphs": [
+          "Three groups lament Babylon's fall: kings (vv. 9–10), merchants (vv. 11–17) and seafarers (vv. 17–19). All of them stand “far away” (vv. 10, 15, 17). They do not try to help her; they mourn what they have lost. The kings lose their pleasures, the merchants their market, the sailors their trade. Three times they cry that her judgement came “in one hour” (vv. 10, 17, 19).",
+          "The merchants' cargo list (vv. 12–13) reads like an inventory of Rome's luxury trade: gold, silver, jewels, pearls, fine linen, purple, silk, scarlet, rare wood, ivory, bronze, iron, marble, spices, perfumes, wine, oil, flour, wheat, cattle, sheep, horses, chariots — and finally, “people’s bodies and souls” (v. 13). ‘Bodies’ was the ordinary commercial term for slaves. John adds ‘souls’: these are human beings. The list builds to its shocking end: Babylon's luxury is built on trafficking people.",
+          "James warned the rich of his day: “Come now, you rich, weep and howl for your miseries that are coming on you. Your riches are corrupted and your garments are moth-eaten” (James 5:1–2). Jesus asked, “For what will it profit a man, if he gains the whole world, and forfeits his life?” (Matthew 16:26)."
+        ]
+      },
+      {
+        "heading": "Heaven Rejoices; Babylon Falls Silent",
+        "paragraphs": [
+          "While earth mourns, heaven is called to rejoice: “Rejoice over her, O heaven, you saints, apostles, and prophets; for God has judged your judgment on her” (v. 20). This is not delight in suffering. It is joy that justice has finally been done for those she persecuted. The question of the martyrs, ‘How long?’ (6:10), has been answered.",
+          "A mighty angel throws a huge millstone into the sea: “Thus with violence will Babylon, the great city, be thrown down, and will be found no more at all” (v. 21). Then comes a haunting litany of things that will never be heard or seen in her again: music, craftsmen, the sound of the mill, the light of a lamp, the voice of bridegroom and bride (vv. 22–23). All the good gifts of human culture — art, work, food, light, marriage — had been twisted in Babylon to serve pride and greed. In the new Jerusalem they will be restored to their true purpose.",
+          "The final verdict: “for your merchants were the princes of the earth; for with your sorcery all the nations were deceived. In her was found the blood of prophets and of saints, and of all who have been slain on the earth” (vv. 23–24). Babylon's three great crimes are idolising wealth, deceiving the nations, and shedding innocent blood. Jesus said the blood of all the righteous, “from the blood of righteous Abel to the blood of Zachariah” (Matthew 23:35), would be required. God forgets nothing."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Treasure on Earth and in Heaven",
+      "paragraphs": [
+        "Jesus told the parable of a rich fool who planned bigger barns and said, “Soul, you have many goods laid up for many years. Take your ease, eat, drink, be merry” (Luke 12:19). But God said, “You foolish one, tonight your soul is required of you. The things which you have prepared—whose will they be?” (Luke 12:20). Babylon is that rich fool on a world scale.",
+        "James describes the same judgement on wealth built on injustice: “Your gold and your silver are corroded, and their corrosion will be for a testimony against you, and will eat your flesh like fire. You have laid up your treasure in the last days” (James 5:3).",
+        "And Jesus warned that harming His people brings judgement like a millstone: “but whoever causes one of these little ones who believe in me to stumble, it would be better for him that a huge millstone should be hung around his neck, and that he should be sunk in the depths of the sea” (Matthew 18:6)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Merchants",
+      "hebrew": "ἔμπορος",
+      "translit": "émporos",
+      "strongs": "G1713 (merchandise γόμος, gómos, G1117)",
+      "verses": "v. 3, 11, 15, 23",
+      "insight": "Strong's: “a (wholesale) tradesman.” ἔμπορος is a wholesale merchant, a trader who travels to buy and sell — our ‘emporium’ comes from it. Revelation does not condemn trade itself, but Babylon's merchants ‘were the princes of the earth’ (v. 23): wealth had become the ruling power. They grew rich from her luxury and mourn her fall only because ‘no one buys their merchandise any more’. Their cargo ends with human beings."
+    },
+    {
+      "english": "Luxury",
+      "hebrew": "στρῆνος",
+      "translit": "strēnos",
+      "strongs": "G4764 (grew wanton στρηνιάω, strēniáō, G4763)",
+      "verses": "v. 3, 7, 9",
+      "insight": "Strong's: “a \"straining\", \"strenuousness\" or \"strength\", i.e. (figuratively) luxury (voluptuousness).” στρῆνος is arrogant, excessive luxury — self-indulgence that overflows into pride and insolence. The verb στρηνιάω (vv. 7, 9) means to live in such luxury. Babylon's wealth was not merely enjoyed but flaunted; it became her strength and her boast: ‘I sit a queen.’ The merchants grew rich from ‘the power (δύναμις) of her luxury’ (v. 3)."
+    },
+    {
+      "english": "Participation",
+      "hebrew": "συγκοινωνέω",
+      "translit": "synkoinōnéō",
+      "strongs": "G4790 (sins ἁμαρτία, hamartía, G266)",
+      "verses": "v. 4",
+      "insight": "Strong's: “to share in company with, i.e. co-participate in.” συγκοινωνέω, from σύν (together) and κοινωνέω (to share), means to be partners in something. The fellowship (κοινωνία) of believers is with God and one another (1 John 1:3); the danger is to become partners in Babylon's sins instead. Paul uses the same word: ‘Have no fellowship with the unfruitful deeds of darkness’ (Ephesians 5:11). Coming out of Babylon means ending the partnership."
+    },
+    {
+      "english": "Millstone / mill",
+      "hebrew": "μύλος",
+      "translit": "mýlos",
+      "strongs": "G3458 (stone λίθος, líthos, G3037)",
+      "verses": "v. 21, 22",
+      "insight": "Strong's: “a \"mill\", i.e. (by implication), a grinder (millstone).” μύλος is both the mill and its heavy grinding stone. In verse 21 an angel hurls a great millstone into the sea: Babylon will sink like a stone. In verse 22 ‘the sound of a mill’ — the everyday noise of grinding grain for bread — falls silent. Jesus used the millstone as a picture of judgement on anyone who causes His little ones to stumble (Matthew 18:6)."
+    },
+    {
+      "english": "Bride",
+      "hebrew": "νύμφη",
+      "translit": "nýmphē",
+      "strongs": "G3565 (bridegroom νυμφίος, nymphíos, G3566)",
+      "verses": "v. 23; 21:2, 9; 22:17",
+      "insight": "Strong's: “compare Latin \"nupto,\" to marry); a young married woman (as veiled), including a betrothed girl; by implication, a son's wife.” νύμφη is a bride. In Babylon, ‘the voice of the bridegroom and of the bride will be heard no more’ (v. 23) — Jeremiah's words of desolation. But the very next chapter announces ‘the marriage of the Lamb’ (19:7), and the new Jerusalem comes down ‘prepared like a bride adorned for her husband’ (21:2). The prostitute's city falls silent; the bride's city rings with joy."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit calls you out of Babylon — and shows you why.",
+    "items": [
+      {
+        "title": "Come Out of Her",
+        "body": "“Come out of her, my people” (v. 4). The Spirit asks you to examine where Babylon's values have taken hold in your life: love of luxury, trust in money, compromise for success, indifference to the exploited. Come out — not by running away, but by refusing to share her sins."
+      },
+      {
+        "title": "Don't Say, ‘I Sit a Queen’",
+        "body": "Babylon's pride said she would never mourn (v. 7). The Spirit warns against the false security of wealth, health and success. Everything Babylon trusted vanished in one hour. Put your security in God alone."
+      },
+      {
+        "title": "See the People Behind the Products",
+        "body": "Babylon's cargo ended with “people’s bodies and souls” (v. 13). The Spirit wants to open your eyes to the human cost of what we buy and consume. Love your neighbour also in how you spend."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Babylon Check",
+        "body": "Where are you sharing in Babylon's sins — through greed, compromise, exploitation, or simple indifference (v. 4)?"
+      },
+      {
+        "title": "The Security Check",
+        "body": "What would you lose if your wealth, job or comforts disappeared ‘in one hour’ (v. 17)? Would your faith still stand?"
+      },
+      {
+        "title": "The Justice Check",
+        "body": "Do you know anything about how the things you buy are made, and whether people are exploited in making them (v. 13)?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Come Out in One Area",
+        "body": "Choose one area where Babylon's values have a grip on you — spending, entertainment, ambition, comfort. Take one concrete step this week to ‘come out’: cut back, give away, refuse, or simplify."
+      },
+      {
+        "title": "Pray for the Exploited",
+        "body": "Learn about one form of modern slavery or exploitation (forced labour, trafficking, child labour). Pray daily this week for its victims and for those working to free them, and look for one practical way to help."
+      }
+    ]
+  },
+  "prayerReflection": "“Mighty Lord God, You have judged Babylon, and Your judgements are true. Thank You that no empire of greed, pride and cruelty will stand forever. Thank You that You remember the blood of Your prophets and saints and of all who have been slain on the earth. Lord, I hear Your call: come out of her, my people. Show me where I share in Babylon's sins — in my love of luxury, my trust in wealth, my indifference to those who suffer for my comfort. Give me grace to come out, and to live in this world without belonging to it. Keep me from the pride that says, ‘I sit a queen, I will never mourn.’ Let my treasure be in heaven. And as Babylon falls silent, let me look forward to the city where the voice of the Bridegroom and the bride will be heard forever. Amen.”",
+  "storyConnections": [
+    {
+      "title": "Jeremiah's Scroll Sunk in the Euphrates",
+      "ref": "Jeremiah 51:59-64",
+      "relatedVerses": "v. 21",
+      "summary": "Jeremiah wrote on a scroll all the disasters that would come on Babylon and gave it to Seraiah, who was travelling there. He told him to read it aloud in Babylon, then tie a stone to it and throw it into the Euphrates, saying, ‘Thus will Babylon sink, and will not rise again because of the evil that I will bring on her.’ In Revelation 18 a mighty angel does the same with a great millstone: Babylon will be thrown down and never found again."
+    },
+    {
+      "title": "The Lament over Tyre",
+      "ref": "Ezekiel 27–28",
+      "relatedVerses": "v. 9-19",
+      "summary": "Ezekiel sang a lament over Tyre, the great trading city of the ancient world, pictured as a magnificent ship. He listed her trading partners and their goods — silver, iron, tin, horses, ivory, purple, linen, spices, wine, wool and slaves. Then the ship sank, and the sailors and merchants threw dust on their heads and wailed. Her king had said, ‘I am a god.’ Revelation 18's laments for Babylon draw heavily on Ezekiel's: the pattern of proud commercial power is the same."
+    },
+    {
+      "title": "Lot Leaves Sodom",
+      "ref": "Genesis 19:12-29",
+      "relatedVerses": "v. 4",
+      "summary": "Angels warned Lot to take his family out of Sodom before God destroyed it. Lot hesitated; the angels took him, his wife and daughters by the hand and led them out, saying, ‘Escape for your life! Don’t look behind you.’ But Lot's wife looked back and became a pillar of salt. ‘Come out of her, my people’ (v. 4) is the same urgent call: leave the doomed city in heart and life, and do not look back with longing."
+    }
+  ]
+}
