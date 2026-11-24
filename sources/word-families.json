@@ -2131,7 +2131,8 @@
         "petition",
         "intercession",
         "intercessions",
-        "thanksgiving"
+        "thanksgiving",
+        "petitions"
       ],
       "intro": "Several Greek words lie behind ‘pray’ and ‘ask’. In John 14:16 the WEB's ‘I will pray to the Father’ is ἐρωτάω — to ask, as one who speaks to the Father as an equal.",
       "members": [
@@ -2206,6 +2207,12 @@
           "sense": "To pray, to wish — to make a request of God.",
           "anchor": "James 5:16",
           "en": "pray"
+        },
+        {
+          "strongs": "G155",
+          "sense": "A petition, a request — the thing asked for.",
+          "anchor": "1 John 5:15",
+          "en": "petitions"
         }
       ]
     },
