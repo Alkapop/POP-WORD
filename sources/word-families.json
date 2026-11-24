@@ -1407,6 +1407,85 @@
       ]
     },
     {
+      "id": "wrath",
+      "name": "Wrath & Anger",
+      "lang": "Greek",
+      "english": [
+        "wrath",
+        "anger",
+        "fierceness"
+      ],
+      "intro": "English ‘wrath’ and ‘anger’ hide two Greek words. ὀργή is settled, purposeful anger — God’s steady, just opposition to evil, which ends in judgement (‘the wrath of the Lamb’, Revelation 6:16); θυμός is anger as passion, a boiling up, a hot outburst — the devil’s ‘great wrath’ (12:12) and the ‘wine of the wrath of God’ (14:10). Revelation 14:10, 16:19 and 19:15 put the two side by side: ‘the wine of the fierceness (θυμός) of his wrath (ὀργή)’ — God’s settled judgement poured out in full intensity.",
+      "members": [
+        {
+          "strongs": "G3709",
+          "sense": "Wrath — settled, purposeful anger against evil that leads to judgement.",
+          "anchor": "Revelation 6:16",
+          "en": "wrath"
+        },
+        {
+          "strongs": "G2372",
+          "sense": "Wrath as passion — anger that boils up and bursts out.",
+          "anchor": "Revelation 12:12",
+          "en": "wrath"
+        }
+      ]
+    },
+    {
+      "id": "sword",
+      "name": "Sword",
+      "lang": "Greek",
+      "english": [
+        "sword"
+      ],
+      "intro": "English ‘sword’ hides two Greek weapons. μάχαιρα is the short sword or dagger, the soldier’s everyday weapon, and a picture of war and of the state’s power to punish (Romans 13:4; Revelation 6:4; 13:10); ῥομφαία is the long, broad sword, used in Revelation for the word that comes out of Christ’s mouth (1:16; 2:12; 19:15) and for death’s judgement (6:8). Hebrews 4:12 calls God’s word sharper than any two-edged μάχαιρα; Revelation shows it as Christ’s ῥομφαία.",
+      "members": [
+        {
+          "strongs": "G4501",
+          "sense": "A long, broad sword — in Revelation the sword of Christ’s mouth.",
+          "anchor": "Revelation 1:16",
+          "en": "sword"
+        },
+        {
+          "strongs": "G3162",
+          "sense": "A short sword or dagger — a picture of war and of judicial punishment.",
+          "anchor": "Revelation 6:4",
+          "en": "sword"
+        }
+      ]
+    },
+    {
+      "id": "judge",
+      "name": "Judge & Judgement",
+      "lang": "Greek",
+      "english": [
+        "judge",
+        "judgment",
+        "judged"
+      ],
+      "intro": "English ‘judgment’ hides two Greek nouns from one verb. κρίνω is to judge — to decide, try, condemn or vindicate; κρίσις is judgement as the act or process of judging, the trial (‘the hour of his judgment has come’, Revelation 14:7); κρίμα is judgement as the verdict or sentence passed (‘the judgment of the great prostitute’, 17:1). The martyrs cry for God to judge (6:10); in the end judgement is given to them (20:4).",
+      "members": [
+        {
+          "strongs": "G2919",
+          "sense": "To judge — to decide, try, condemn or vindicate.",
+          "anchor": "Revelation 6:10",
+          "en": "judge"
+        },
+        {
+          "strongs": "G2920",
+          "sense": "Judgement as an act or process — the trial, the hour of judging.",
+          "anchor": "Revelation 14:7",
+          "en": "judgment"
+        },
+        {
+          "strongs": "G2917",
+          "sense": "Judgement as the verdict or sentence passed.",
+          "anchor": "Revelation 17:1",
+          "en": "judgment"
+        }
+      ]
+    },
+    {
       "id": "darkness",
       "name": "Darkness",
       "lang": "Greek",
