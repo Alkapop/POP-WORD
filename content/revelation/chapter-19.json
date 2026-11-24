@@ -1,0 +1,1642 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 19,
+  "chapterTitle": "Hallelujah, the Marriage of the Lamb, and the Rider on the White Horse",
+  "themeTitle": "“Hallelujah! For the Lord Our God, the Almighty, Reigns!”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "After these things I heard something like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God:",
+      "understanding": "Μετὰ ταῦτα ἤκουσα ὡς φωνὴν μεγάλην ὄχλου πολλοῦ ἐν τῷ οὐρανῷ λεγόντων, “After these things I heard something like a loud voice of a great multitude in heaven, saying” — heaven's response to Babylon's fall (18:20). Ἁλληλουϊά, “Hallelujah!” — Hebrew, ‘Praise Yah!’: the only place in the New Testament this word appears, four times in verses 1–6. ἡ σωτηρία καὶ ἡ δόξα καὶ ἡ δύναμις τοῦ θεοῦ ἡμῶν, “Salvation, power, and glory belong to our God” — δύναμις, from the power family: inherent might.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "loud"
+        },
+        {
+          "strongs": "G3793",
+          "hebrew": "ὄχλος",
+          "translit": "óchlos",
+          "english": "multitude"
+        },
+        {
+          "strongs": "G4183",
+          "hebrew": "πολύς",
+          "translit": "polýs",
+          "english": "great"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G239",
+          "hebrew": "ἀλληλουϊα",
+          "translit": "allēlouïa",
+          "english": "Hallelujah"
+        },
+        {
+          "strongs": "G4991",
+          "hebrew": "σωτηρία",
+          "translit": "sōtēría",
+          "english": "Salvation"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "for true and righteous are his judgments. For he has judged the great prostitute, who corrupted the earth with her sexual immorality, and he has avenged the blood of his servants at her hand.”",
+      "understanding": "ὅτι ἀληθιναὶ καὶ δίκαιαι αἱ κρίσεις αὐτοῦ, “for true and righteous are his judgments” — κρίσις, from the judge family, as the altar said (16:7). ὅτι ἔκρινεν τὴν πόρνην τὴν μεγάλην ἥτις ἔφθειρεν τὴν γῆν ἐν τῇ πορνείᾳ αὐτῆς, “For he has judged the great prostitute, who corrupted the earth with her sexual immorality” — κρίνω, also from the judge family; φθείρω, to ruin, corrupt; γῆ, from the world family. καὶ ἐξεδίκησεν τὸ αἷμα τῶν δούλων αὐτοῦ ἐκ χειρὸς αὐτῆς, “and he has avenged the blood of his servants at her hand” — ἐκδικέω, the martyrs' word (6:10), now fulfilled; δοῦλος, from the servant family.",
+      "words": [
+        {
+          "strongs": "G228",
+          "hebrew": "ἀληθινός",
+          "translit": "alēthinós",
+          "english": "true"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "righteous"
+        },
+        {
+          "strongs": "G2920",
+          "hebrew": "κρίσις",
+          "translit": "krísis",
+          "english": "judgments"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        },
+        {
+          "strongs": "G4204",
+          "hebrew": "πόρνη",
+          "translit": "pórnē",
+          "english": "prostitute"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G5351",
+          "hebrew": "φθείρω",
+          "translit": "phtheírō",
+          "english": "corrupted"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G4202",
+          "hebrew": "πορνεία",
+          "translit": "porneía",
+          "english": "sexual immorality"
+        },
+        {
+          "strongs": "G1556",
+          "hebrew": "ἐκδικέω",
+          "translit": "ekdikéō",
+          "english": "avenged"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "A second said, “Hallelujah! Her smoke goes up forever and ever.”",
+      "understanding": "καὶ δεύτερον εἴρηκαν· Ἁλληλουϊά, “A second said, ‘Hallelujah!’” — καὶ ὁ καπνὸς αὐτῆς ἀναβαίνει εἰς τοὺς αἰῶνας τῶν αἰώνων, “Her smoke goes up forever and ever” — αἰών, from the time family and the world family: like Isaiah's picture of Edom's smoke rising forever. Her destruction is permanent; she will never rise again.",
+      "words": [
+        {
+          "strongs": "G1208",
+          "hebrew": "δεύτερος",
+          "translit": "deúteros",
+          "english": "second"
+        },
+        {
+          "strongs": "G239",
+          "hebrew": "ἀλληλουϊα",
+          "translit": "allēlouïa",
+          "english": "Hallelujah"
+        },
+        {
+          "strongs": "G2586",
+          "hebrew": "καπνός",
+          "translit": "kapnós",
+          "english": "smoke"
+        },
+        {
+          "strongs": "G305",
+          "hebrew": "ἀναβαίνω",
+          "translit": "anabaínō",
+          "english": "goes up"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "The twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne, saying, “Amen! Hallelujah!”",
+      "understanding": "καὶ ἔπεσαν οἱ πρεσβύτεροι οἱ εἴκοσι τέσσαρες καὶ τὰ τέσσαρα ζῷα, “The twenty-four elders and the four living creatures fell down” — the throne room of chapters 4–5 once more. καὶ προσεκύνησαν τῷ θεῷ τῷ καθημένῳ ἐπὶ τῷ θρόνῳ, λέγοντες· Ἀμήν, Ἁλληλουϊά, “and worshiped God who sits on the throne, saying, ‘Amen! Hallelujah!’” — the words of Psalm 106:48: the elders seal heaven's praise.",
+      "words": [
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G2226",
+          "hebrew": "ζῶον",
+          "translit": "zōon",
+          "english": "living creatures"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell down"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worshiped"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sits"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G281",
+          "hebrew": "ἀμήν",
+          "translit": "amḗn",
+          "english": "Amen"
+        },
+        {
+          "strongs": "G239",
+          "hebrew": "ἀλληλουϊα",
+          "translit": "allēlouïa",
+          "english": "Hallelujah"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "A voice came from the throne, saying, “Give praise to our God, all you his servants, you who fear him, the small and the great!”",
+      "understanding": "Καὶ φωνὴ ἀπὸ τοῦ θρόνου ἐξῆλθεν λέγουσα, “A voice came from the throne, saying” — Αἰνεῖτε τῷ θεῷ ἡμῶν, πάντες οἱ δοῦλοι αὐτοῦ, “Give praise to our God, all you his servants” — αἰνέω, to praise: the Greek of ‘Hallelujah’; δοῦλος, from the servant family. οἱ φοβούμενοι αὐτόν, οἱ μικροὶ καὶ οἱ μεγάλοι, “you who fear him, the small and the great!” — everyone, from the least to the greatest, is called to praise.",
+      "words": [
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G134",
+          "hebrew": "αἰνέω",
+          "translit": "ainéō",
+          "english": "Give praise"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "fear"
+        },
+        {
+          "strongs": "G3398",
+          "hebrew": "μικρός",
+          "translit": "mikrós",
+          "english": "small"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders, saying, “Hallelujah! For the Lord our God, the Almighty, reigns!",
+      "understanding": "Καὶ ἤκουσα ὡς φωνὴν ὄχλου πολλοῦ καὶ ὡς φωνὴν ὑδάτων πολλῶν καὶ ὡς φωνὴν βροντῶν ἰσχυρῶν, “I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders” — ἰσχυρός, from the power family. λεγόντων· Ἁλληλουϊά, ὅτι ἐβασίλευσεν κύριος ὁ θεὸς ἡμῶν ὁ παντοκράτωρ, “saying, ‘Hallelujah! For the Lord our God, the Almighty, reigns!’” — βασιλεύω, aorist: He has begun to reign, openly and finally. παντοκράτωρ, the All-Ruler. The great climax of heaven's praise.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3793",
+          "hebrew": "ὄχλος",
+          "translit": "óchlos",
+          "english": "multitude"
+        },
+        {
+          "strongs": "G4183",
+          "hebrew": "πολύς",
+          "translit": "polýs",
+          "english": "great"
+        },
+        {
+          "strongs": "G5204",
+          "hebrew": "ὕδωρ",
+          "translit": "hýdōr",
+          "english": "waters"
+        },
+        {
+          "strongs": "G1027",
+          "hebrew": "βροντή",
+          "translit": "brontḗ",
+          "english": "thunders"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G239",
+          "hebrew": "ἀλληλουϊα",
+          "translit": "allēlouïa",
+          "english": "Hallelujah"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3841",
+          "hebrew": "παντοκράτωρ",
+          "translit": "pantokrátōr",
+          "english": "Almighty"
+        },
+        {
+          "strongs": "G936",
+          "hebrew": "βασιλεύω",
+          "translit": "basileúō",
+          "english": "reigns"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Let us rejoice and be exceedingly glad, and let us give the glory to him. For the marriage of the Lamb has come, and his wife has made herself ready.”",
+      "understanding": "χαίρωμεν καὶ ἀγαλλιῶμεν, καὶ δώσομεν τὴν δόξαν αὐτῷ, “Let us rejoice and be exceedingly glad, and let us give the glory to him” — ἀγαλλιάω, to leap for joy. ὅτι ἦλθεν ὁ γάμος τοῦ ἀρνίου, “For the marriage of the Lamb has come” — γάμος, the wedding feast; ἀρνίον, from the lamb family. The prostitute is judged; now the true bride appears. καὶ ἡ γυνὴ αὐτοῦ ἡτοίμασεν ἑαυτήν, “and his wife has made herself ready” — ἑτοιμάζω: the church has prepared through faithfulness, as a bride prepares for her wedding.",
+      "words": [
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoice"
+        },
+        {
+          "strongs": "G21",
+          "hebrew": "ἀγαλλιάω",
+          "translit": "agalliáō",
+          "english": "exceedingly glad"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G1062",
+          "hebrew": "γάμος",
+          "translit": "gámos",
+          "english": "marriage"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "come"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wife"
+        },
+        {
+          "strongs": "G2090",
+          "hebrew": "ἑτοιμάζω",
+          "translit": "hetoimázō",
+          "english": "made herself ready"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "It was given to her that she would array herself in bright, pure, fine linen: for the fine linen is the righteous acts of the saints.",
+      "understanding": "καὶ ἐδόθη αὐτῇ ἵνα περιβάληται βύσσινον λαμπρὸν καθαρόν, “It was given to her that she would array herself in bright, pure, fine linen” — ‘given’: grace. Contrast the prostitute's purple and scarlet (17:4). τὸ γὰρ βύσσινον τὰ δικαιώματα τῶν ἁγίων ἐστίν, “for the fine linen is the righteous acts of the saints” — δικαίωμα, righteous deeds; ἅγιος, from the holy family. Both sides of salvation: the dress is God's gift, and it is woven from the lives of His people (Ephesians 2:10).",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "given"
+        },
+        {
+          "strongs": "G4016",
+          "hebrew": "περιβάλλω",
+          "translit": "peribállō",
+          "english": "array"
+        },
+        {
+          "strongs": "G1039",
+          "hebrew": "βύσσινος",
+          "translit": "býssinos",
+          "english": "fine linen"
+        },
+        {
+          "strongs": "G2986",
+          "hebrew": "λαμπρός",
+          "translit": "lamprós",
+          "english": "bright"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G1345",
+          "hebrew": "δικαίωμα",
+          "translit": "dikaíōma",
+          "english": "righteous acts"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "He said to me, “Write, ‘Blessed are those who are invited to the marriage supper of the Lamb.’” He said to me, “These are true words of God.”",
+      "understanding": "Καὶ λέγει μοι· Γράψον· Μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου κεκλημένοι, “He said to me, ‘Write, “Blessed are those who are invited to the marriage supper of the Lamb”’” — the fourth blessing of the book. δεῖπνον, the evening banquet; γάμος; καλέω, to invite; ἀρνίον, from the lamb family. The church is both the bride and the guests: two pictures of the same joy. καὶ λέγει μοι· Οὗτοι οἱ λόγοι ἀληθινοὶ τοῦ θεοῦ εἰσιν, “He said to me, ‘These are true words of God’” — λόγος, from the word family.",
+      "words": [
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "Write"
+        },
+        {
+          "strongs": "G3107",
+          "hebrew": "μακάριος",
+          "translit": "makários",
+          "english": "Blessed"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "invited"
+        },
+        {
+          "strongs": "G1062",
+          "hebrew": "γάμος",
+          "translit": "gámos",
+          "english": "marriage"
+        },
+        {
+          "strongs": "G1173",
+          "hebrew": "δεῖπνον",
+          "translit": "deîpnon",
+          "english": "supper"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "words"
+        },
+        {
+          "strongs": "G228",
+          "hebrew": "ἀληθινός",
+          "translit": "alēthinós",
+          "english": "true"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "I fell down before his feet to worship him. He said to me, “Look! Don’t do it! I am a fellow bondservant with you and with your brothers who hold the testimony of Jesus. Worship God, for the testimony of Jesus is the Spirit of Prophecy.”",
+      "understanding": "καὶ ἔπεσα ἔμπροσθεν τῶν ποδῶν αὐτοῦ προσκυνῆσαι αὐτῷ, “I fell down before his feet to worship him” — even an apostle can be overwhelmed into wrong worship. καὶ λέγει μοι· Ὅρα μή, “He said to me, ‘Look! Don’t do it!’” — ὁράω, from the see family: ‘see that you don't!’ σύνδουλός σού εἰμι καὶ τῶν ἀδελφῶν σου τῶν ἐχόντων τὴν μαρτυρίαν Ἰησοῦ, “I am a fellow bondservant with you and with your brothers who hold the testimony of Jesus” — μαρτυρία, from the witness family. τῷ θεῷ προσκύνησον, “Worship God” — the message of the whole book in two words. ἡ γὰρ μαρτυρία Ἰησοῦ ἐστιν τὸ πνεῦμα τῆς προφητείας, “for the testimony of Jesus is the Spirit of Prophecy” — μαρτυρία again: all true prophecy bears witness to Jesus, and those who witness to Him share the Spirit of prophecy.",
+      "words": [
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell down"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worship"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "Look"
+        },
+        {
+          "strongs": "G4889",
+          "hebrew": "σύνδουλος",
+          "translit": "sýndoulos",
+          "english": "fellow bondservant"
+        },
+        {
+          "strongs": "G80",
+          "hebrew": "ἀδελφός",
+          "translit": "adelphós",
+          "english": "brothers"
+        },
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "hold"
+        },
+        {
+          "strongs": "G3141",
+          "hebrew": "μαρτυρία",
+          "translit": "martyría",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G2424",
+          "hebrew": "Ἰησοῦς",
+          "translit": "Iēsoûs",
+          "english": "Jesus"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G4394",
+          "hebrew": "προφητεία",
+          "translit": "prophēteía",
+          "english": "Prophecy"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "I saw the heaven opened, and behold, a white horse, and he who sat on it is called Faithful and True. In righteousness he judges and makes war.",
+      "understanding": "Καὶ εἶδον τὸν οὐρανὸν ἠνεῳγμένον, “I saw the heaven opened” — εἴδω, from the see family (and the know family). In 4:1 a door was opened; now heaven itself opens for the King's return. καὶ ἰδοὺ ἵππος λευκός, “and behold, a white horse” — a conqueror's steed; the true Rider whom the first horseman imitated (6:2). καὶ ὁ καθήμενος ἐπ᾽ αὐτὸν καλούμενος πιστὸς καὶ ἀληθινός, “and he who sat on it is called Faithful and True” — Christ's titles to Laodicea (3:14). καὶ ἐν δικαιοσύνῃ κρίνει καὶ πολεμεῖ, “In righteousness he judges and makes war” — κρίνω, from the judge family: His war is just judgement, not conquest for its own sake.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "opened"
+        },
+        {
+          "strongs": "G2462",
+          "hebrew": "ἵππος",
+          "translit": "híppos",
+          "english": "horse"
+        },
+        {
+          "strongs": "G3022",
+          "hebrew": "λευκός",
+          "translit": "leukós",
+          "english": "white"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sat"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "Faithful"
+        },
+        {
+          "strongs": "G228",
+          "hebrew": "ἀληθινός",
+          "translit": "alēthinós",
+          "english": "True"
+        },
+        {
+          "strongs": "G1343",
+          "hebrew": "δικαιοσύνη",
+          "translit": "dikaiosýnē",
+          "english": "righteousness"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judges"
+        },
+        {
+          "strongs": "G4170",
+          "hebrew": "πολεμέω",
+          "translit": "poleméō",
+          "english": "makes war"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "His eyes are a flame of fire, and on his head are many crowns. He has names written and a name written which no one knows but he himself.",
+      "understanding": "οἱ δὲ ὀφθαλμοὶ αὐτοῦ φλὸξ πυρός, “His eyes are a flame of fire” — as in 1:14 and 2:18: nothing is hidden from Him. καὶ ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα πολλά, “and on his head are many crowns” — διάδημα, from the crown family: the royal diadem. The dragon had seven, the beast ten (12:3; 13:1); Christ has ‘many’: all authority belongs to Him. ἔχων ὄνομα γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ μὴ αὐτός, “He has names written and a name written which no one knows but he himself” — οἶδα, from the know family and the see family: however much is revealed, Christ remains beyond our full grasp.",
+      "words": [
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eyes"
+        },
+        {
+          "strongs": "G5395",
+          "hebrew": "φλόξ",
+          "translit": "phlóx",
+          "english": "flame"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "head"
+        },
+        {
+          "strongs": "G1238",
+          "hebrew": "διάδημα",
+          "translit": "diádēma",
+          "english": "crowns"
+        },
+        {
+          "strongs": "G4183",
+          "hebrew": "πολύς",
+          "translit": "polýs",
+          "english": "many"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "written"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "knows"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "He is clothed in a garment sprinkled with blood. His name is called “The Word of God.”",
+      "understanding": "καὶ περιβεβλημένος ἱμάτιον βεβαμμένον αἵματι, “He is clothed in a garment sprinkled with blood” — the WEB follows manuscripts reading ‘sprinkled’ (ῥαντίζω); many read ‘dipped’ (βάπτω). Whose blood? Isaiah 63 pictures God's garments stained from treading His enemies in the winepress (v. 15). But His robe is bloodied before the battle begins; many see His own blood, the Lamb's (5:6, 9). Both may be meant: the One who shed His blood for His people now judges those who refuse it. καὶ κέκληται τὸ ὄνομα αὐτοῦ ὁ λόγος τοῦ θεοῦ, “His name is called ‘The Word of God’” — λόγος, from the word family: John's title for Christ in his Gospel (‘In the beginning was the Word’). He conquers by His word.",
+      "words": [
+        {
+          "strongs": "G4016",
+          "hebrew": "περιβάλλω",
+          "translit": "peribállō",
+          "english": "clothed"
+        },
+        {
+          "strongs": "G2440",
+          "hebrew": "ἱμάτιον",
+          "translit": "himátion",
+          "english": "garment"
+        },
+        {
+          "strongs": "G4472",
+          "hebrew": "ῥαντίζω",
+          "translit": "rhantízō",
+          "english": "sprinkled"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G2564",
+          "hebrew": "καλέω",
+          "translit": "kaléō",
+          "english": "called"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "Word"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "The armies which are in heaven followed him on white horses, clothed in white, pure, fine linen.",
+      "understanding": "καὶ τὰ στρατεύματα τὰ ἐν τῷ οὐρανῷ ἠκολούθει αὐτῷ ἐφ᾽ ἵπποις λευκοῖς, “The armies which are in heaven followed him on white horses” — στράτευμα: angels, and also the saints (17:14: ‘those who are with him are called chosen and faithful’). ἐνδεδυμένοι βύσσινον λευκὸν καθαρόν, “clothed in white, pure, fine linen” — the bride's dress (v. 8): they wear no armour and carry no weapons. The victory is His alone.",
+      "words": [
+        {
+          "strongs": "G4753",
+          "hebrew": "στράτευμα",
+          "translit": "stráteuma",
+          "english": "armies"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G190",
+          "hebrew": "ἀκολουθέω",
+          "translit": "akolouthéō",
+          "english": "followed"
+        },
+        {
+          "strongs": "G2462",
+          "hebrew": "ἵππος",
+          "translit": "híppos",
+          "english": "horses"
+        },
+        {
+          "strongs": "G3022",
+          "hebrew": "λευκός",
+          "translit": "leukós",
+          "english": "white"
+        },
+        {
+          "strongs": "G1746",
+          "hebrew": "ἐνδύω",
+          "translit": "endýō",
+          "english": "clothed"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G1039",
+          "hebrew": "βύσσινος",
+          "translit": "býssinos",
+          "english": "fine linen"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "Out of his mouth proceeds a sharp, double-edged sword, that with it he should strike the nations. He will rule them with an iron rod. He treads the wine press of the fierceness of the wrath of God, the Almighty.",
+      "understanding": "καὶ ἐκ τοῦ στόματος αὐτοῦ ἐκπορεύεται ῥομφαία ὀξεῖα, “Out of his mouth proceeds a sharp, double-edged sword” — ῥομφαία, from the sword family: the long sword of 1:16, His word. ἵνα ἐν αὐτῇ πατάξῃ τὰ ἔθνη, “that with it he should strike the nations” — as Isaiah said the Messiah would strike the earth with the rod of His mouth. καὶ αὐτὸς ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ, “He will rule them with an iron rod” — Psalm 2 (2:27; 12:5). καὶ αὐτὸς πατεῖ τὴν ληνὸν τοῦ οἴνου τοῦ θυμοῦ τῆς ὀργῆς τοῦ θεοῦ τοῦ παντοκράτορος, “He treads the wine press of the fierceness of the wrath of God, the Almighty” — θυμός and ὀργή, both from the wrath family, as in 16:19: the full force of God's settled wrath. The winepress of 14:19–20 is trodden by Christ Himself.",
+      "words": [
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G1607",
+          "hebrew": "ἐκπορεύομαι",
+          "translit": "ekporeúomai",
+          "english": "proceeds"
+        },
+        {
+          "strongs": "G4501",
+          "hebrew": "ῥομφαία",
+          "translit": "rhomphaía",
+          "english": "sword"
+        },
+        {
+          "strongs": "G3691",
+          "hebrew": "ὀξύς",
+          "translit": "oxýs",
+          "english": "sharp"
+        },
+        {
+          "strongs": "G3960",
+          "hebrew": "πατάσσω",
+          "translit": "patássō",
+          "english": "strike"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G4165",
+          "hebrew": "ποιμαίνω",
+          "translit": "poimaínō",
+          "english": "rule"
+        },
+        {
+          "strongs": "G4464",
+          "hebrew": "ῥάβδος",
+          "translit": "rhábdos",
+          "english": "rod"
+        },
+        {
+          "strongs": "G4603",
+          "hebrew": "σιδήρεος",
+          "translit": "sidḗreos",
+          "english": "iron"
+        },
+        {
+          "strongs": "G3961",
+          "hebrew": "πατέω",
+          "translit": "patéō",
+          "english": "treads"
+        },
+        {
+          "strongs": "G3025",
+          "hebrew": "ληνός",
+          "translit": "lēnós",
+          "english": "wine press"
+        },
+        {
+          "strongs": "G3631",
+          "hebrew": "οἶνος",
+          "translit": "oînos",
+          "english": "wine"
+        },
+        {
+          "strongs": "G2372",
+          "hebrew": "θυμός",
+          "translit": "thymós",
+          "english": "fierceness"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3841",
+          "hebrew": "παντοκράτωρ",
+          "translit": "pantokrátōr",
+          "english": "Almighty"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "He has on his garment and on his thigh a name written, “KING OF KINGS, AND LORD OF LORDS.”",
+      "understanding": "καὶ ἔχει ἐπὶ τὸ ἱμάτιον καὶ ἐπὶ τὸν μηρὸν αὐτοῦ ὄνομα γεγραμμένον, “He has on his garment and on his thigh a name written” — μηρός, thigh: where a horseman's sword hung, or on the part of the robe over the thigh, visible to all. Βασιλεὺς βασιλέων καὶ κύριος κυρίων, “KING OF KINGS, AND LORD OF LORDS” — as in 17:14, in reverse order. The beast's heads bore blasphemous names; Christ's name is the truth.",
+      "words": [
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "has"
+        },
+        {
+          "strongs": "G2440",
+          "hebrew": "ἱμάτιον",
+          "translit": "himátion",
+          "english": "garment"
+        },
+        {
+          "strongs": "G3382",
+          "hebrew": "μηρός",
+          "translit": "mērós",
+          "english": "thigh"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "written"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "KING"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "LORD"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "I saw an angel standing in the sun. He cried with a loud voice, saying to all the birds that fly in the sky, “Come! Be gathered together to the great supper of God,",
+      "understanding": "Καὶ εἶδον ἕνα ἄγγελον ἑστῶτα ἐν τῷ ἡλίῳ, “I saw an angel standing in the sun” — εἴδω, from the see family (and the know family). καὶ ἔκραξεν φωνῇ μεγάλῃ λέγων πᾶσι τοῖς ὀρνέοις τοῖς πετομένοις ἐν μεσουρανήματι, “He cried with a loud voice, saying to all the birds that fly in the sky” — Δεῦτε συνάχθητε εἰς τὸ δεῖπνον τὸ μέγα τοῦ θεοῦ, “Come! Be gathered together to the great supper of God” — δεῖπνον: a terrible contrast with the marriage supper of the Lamb (v. 9). There are two suppers: one where you are the guest, one where you are the meal. From Ezekiel 39, where birds are summoned to feast on the armies of Gog.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "standing"
+        },
+        {
+          "strongs": "G2246",
+          "hebrew": "ἥλιος",
+          "translit": "hḗlios",
+          "english": "sun"
+        },
+        {
+          "strongs": "G2896",
+          "hebrew": "κράζω",
+          "translit": "krázō",
+          "english": "cried"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "loud"
+        },
+        {
+          "strongs": "G3732",
+          "hebrew": "ὄρνεον",
+          "translit": "órneon",
+          "english": "birds"
+        },
+        {
+          "strongs": "G4072",
+          "hebrew": "πέτομαι",
+          "translit": "pétomai",
+          "english": "fly"
+        },
+        {
+          "strongs": "G3321",
+          "hebrew": "μεσουράνημα",
+          "translit": "mesouránēma",
+          "english": "sky"
+        },
+        {
+          "strongs": "G4863",
+          "hebrew": "συνάγω",
+          "translit": "synágō",
+          "english": "gathered together"
+        },
+        {
+          "strongs": "G1173",
+          "hebrew": "δεῖπνον",
+          "translit": "deîpnon",
+          "english": "supper"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "that you may eat the flesh of kings, the flesh of captains, the flesh of mighty men, and the flesh of horses and of those who sit on them, and the flesh of all men, both free and slave, small and great.”",
+      "understanding": "ἵνα φάγητε σάρκας βασιλέων καὶ σάρκας χιλιάρχων καὶ σάρκας ἰσχυρῶν, “that you may eat the flesh of kings, the flesh of captains, the flesh of mighty men” — ἰσχυρός, from the power family: the strong of 6:15, who hid in the caves. καὶ σάρκας ἵππων καὶ τῶν καθημένων ἐπ᾽ αὐτῶν, καὶ σάρκας πάντων ἐλευθέρων τε καὶ δούλων καὶ μικρῶν καὶ μεγάλων, “and the flesh of horses and of those who sit on them, and the flesh of all men, both free and slave, small and great” — δοῦλος, from the servant family: the same categories who received the beast's mark (13:16) now share its fate.",
+      "words": [
+        {
+          "strongs": "G5315",
+          "hebrew": "φάγω",
+          "translit": "phágō",
+          "english": "eat"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G5506",
+          "hebrew": "χιλίαρχος",
+          "translit": "chilíarchos",
+          "english": "captains"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "mighty men"
+        },
+        {
+          "strongs": "G2462",
+          "hebrew": "ἵππος",
+          "translit": "híppos",
+          "english": "horses"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sit"
+        },
+        {
+          "strongs": "G1658",
+          "hebrew": "ἐλεύθερος",
+          "translit": "eleútheros",
+          "english": "free"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "slave"
+        },
+        {
+          "strongs": "G3398",
+          "hebrew": "μικρός",
+          "translit": "mikrós",
+          "english": "small"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him who sat on the horse, and against his army.",
+      "understanding": "Καὶ εἶδον τὸ θηρίον καὶ τοὺς βασιλεῖς τῆς γῆς καὶ τὰ στρατεύματα αὐτῶν συνηγμένα, “I saw the beast, and the kings of the earth, and their armies, gathered together” — εἴδω, from the see family (and the know family); γῆ, from the world family. The armies gathered at Har-Magedon (16:14, 16). ποιῆσαι τὸν πόλεμον μετὰ τοῦ καθημένου ἐπὶ τοῦ ἵππου καὶ μετὰ τοῦ στρατεύματος αὐτοῦ, “to make war against him who sat on the horse, and against his army” — the war is announced; but no battle is described.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "beast"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G4753",
+          "hebrew": "στράτευμα",
+          "translit": "stráteuma",
+          "english": "armies"
+        },
+        {
+          "strongs": "G4863",
+          "hebrew": "συνάγω",
+          "translit": "synágō",
+          "english": "gathered together"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "make"
+        },
+        {
+          "strongs": "G4171",
+          "hebrew": "πόλεμος",
+          "translit": "pólemos",
+          "english": "war"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sat"
+        },
+        {
+          "strongs": "G2462",
+          "hebrew": "ἵππος",
+          "translit": "híppos",
+          "english": "horse"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "The beast was taken, and with him the false prophet who worked the signs in his sight, with which he deceived those who had received the mark of the beast and those who worshiped his image. These two were thrown alive into the lake of fire that burns with sulfur.",
+      "understanding": "καὶ ἐπιάσθη τὸ θηρίον καὶ μετ᾽ αὐτοῦ ὁ ψευδοπροφήτης, “The beast was taken, and with him the false prophet” — πιάζω, to seize, arrest. No fighting: simply captured. ὁ ποιήσας τὰ σημεῖα ἐνώπιον αὐτοῦ, ἐν οἷς ἐπλάνησεν τοὺς λαβόντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ, “who worked the signs in his sight, with which he deceived those who had received the mark of the beast and those who worshiped his image” — σημεῖον, from the signs family; εἰκών, from the image family. ζῶντες ἐβλήθησαν οἱ δύο εἰς τὴν λίμνην τοῦ πυρὸς τῆς καιομένης ἐν θείῳ, “These two were thrown alive into the lake of fire that burns with sulfur” — ζάω, from the life family; λίμνη, a lake: the place of final punishment, first mentioned here (20:10, 14–15).",
+      "words": [
+        {
+          "strongs": "G4084",
+          "hebrew": "πιάζω",
+          "translit": "piázō",
+          "english": "taken"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "beast"
+        },
+        {
+          "strongs": "G5578",
+          "hebrew": "ψευδοπροφήτης",
+          "translit": "pseudoprophḗtēs",
+          "english": "false prophet"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "worked"
+        },
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeîon",
+          "english": "signs"
+        },
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "deceived"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G5480",
+          "hebrew": "χάραγμα",
+          "translit": "cháragma",
+          "english": "mark"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worshiped"
+        },
+        {
+          "strongs": "G1504",
+          "hebrew": "εἰκών",
+          "translit": "eikṓn",
+          "english": "image"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "alive"
+        },
+        {
+          "strongs": "G906",
+          "hebrew": "βάλλω",
+          "translit": "bállō",
+          "english": "thrown"
+        },
+        {
+          "strongs": "G3041",
+          "hebrew": "λίμνη",
+          "translit": "límnē",
+          "english": "lake"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G2545",
+          "hebrew": "καίω",
+          "translit": "kaíō",
+          "english": "burns"
+        },
+        {
+          "strongs": "G2303",
+          "hebrew": "θεῖον",
+          "translit": "theîon",
+          "english": "sulfur"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "The rest were killed with the sword of him who sat on the horse, the sword which came out of his mouth. All the birds were filled with their flesh.",
+      "understanding": "καὶ οἱ λοιποὶ ἀπεκτάνθησαν ἐν τῇ ῥομφαίᾳ τοῦ καθημένου ἐπὶ τοῦ ἵππου, “The rest were killed with the sword of him who sat on the horse” — ῥομφαία, from the sword family. τῇ ἐξελθούσῃ ἐκ τοῦ στόματος αὐτοῦ, “the sword which came out of his mouth” — Christ wins by His word alone, as Paul said: the Lord will destroy the lawless one ‘with the breath of his mouth’. καὶ πάντα τὰ ὄρνεα ἐχορτάσθησαν ἐκ τῶν σαρκῶν αὐτῶν, “All the birds were filled with their flesh.”",
+      "words": [
+        {
+          "strongs": "G3062",
+          "hebrew": "λοιποί",
+          "translit": "loipoí",
+          "english": "rest"
+        },
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "killed"
+        },
+        {
+          "strongs": "G4501",
+          "hebrew": "ῥομφαία",
+          "translit": "rhomphaía",
+          "english": "sword"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sat"
+        },
+        {
+          "strongs": "G2462",
+          "hebrew": "ἵππος",
+          "translit": "híppos",
+          "english": "horse"
+        },
+        {
+          "strongs": "G1831",
+          "hebrew": "ἐξέρχομαι",
+          "translit": "exérchomai",
+          "english": "came out"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G3732",
+          "hebrew": "ὄρνεον",
+          "translit": "órneon",
+          "english": "birds"
+        },
+        {
+          "strongs": "G5526",
+          "hebrew": "χορτάζω",
+          "translit": "chortázō",
+          "english": "filled"
+        },
+        {
+          "strongs": "G4561",
+          "hebrew": "σάρξ",
+          "translit": "sárx",
+          "english": "flesh"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Hallelujah Chorus",
+      "verseRef": "v. 1-6",
+      "image": "Picture a roar rising from heaven — a crowd beyond counting, like a waterfall, like rolling thunder — shouting one word again and again: ‘Hallelujah!’ The elders and living creatures fall on their faces: ‘Amen! Hallelujah!’ And a voice from the throne calls every servant of God, small and great, to join in.",
+      "meaning": "“Hallelujah! For the Lord our God, the Almighty, reigns!” (v. 6). Every injustice has been answered, every tear seen, every martyr vindicated. The only fitting response is praise."
+    },
+    {
+      "title": "The Bride Made Ready",
+      "verseRef": "v. 7-9",
+      "image": "Picture a bride on her wedding day, in a dress of brilliant white linen, shining and pure. Look closer at the fabric: it is woven from countless acts of faithfulness — prayers, kindnesses, sacrifices, quiet obedience — all of them gifts of grace.",
+      "meaning": "“For the marriage of the Lamb has come, and his wife has made herself ready. It was given to her that she would array herself in bright, pure, fine linen: for the fine linen is the righteous acts of the saints” (vv. 7–8). “Blessed are those who are invited to the marriage supper of the Lamb” (v. 9)."
+    },
+    {
+      "title": "Faithful and True",
+      "verseRef": "v. 11-16",
+      "image": "Picture heaven torn open, and a white horse charging out. Its Rider's eyes blaze like fire; many crowns sit on His head; His robe is soaked in blood; a sharp sword comes from His mouth; and across His thigh is written, ‘KING OF KINGS, AND LORD OF LORDS.’ Behind Him ride the armies of heaven in spotless white.",
+      "meaning": "“He who sat on it is called Faithful and True. In righteousness he judges and makes war” (v. 11). “His name is called ‘The Word of God’” (v. 13). The Lamb who was slain returns as the conquering King."
+    },
+    {
+      "title": "Two Suppers",
+      "verseRef": "v. 9, 17-18",
+      "image": "Picture two invitations. One, sealed with gold, invites you to the marriage supper of the Lamb. The other is called out by an angel standing in the sun to the vultures of the sky: ‘Come to the great supper of God’ — to feed on the armies of the beast.",
+      "meaning": "“Blessed are those who are invited to the marriage supper of the Lamb” (v. 9). “Come! Be gathered together to the great supper of God, that you may eat the flesh of kings” (vv. 17–18). Everyone will be at one supper or the other. Accept the Lamb's invitation."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Hallelujah over Babylon (v. 1-5)",
+        "body": "A great multitude in heaven cries ‘Hallelujah!’ because God's judgements are true and just: He has judged the great prostitute and avenged the blood of His servants; her smoke rises forever; the elders and creatures worship; a voice from the throne calls all God's servants to praise."
+      },
+      {
+        "label": "The Marriage of the Lamb (v. 6-10)",
+        "body": "A multitude like many waters and mighty thunder cries ‘Hallelujah! The Lord our God Almighty reigns’; the marriage of the Lamb has come and His bride has made herself ready in fine linen, the righteous deeds of the saints; blessed are those invited to the marriage supper; John falls to worship the angel and is told, ‘Worship God, for the testimony of Jesus is the spirit of prophecy.’"
+      },
+      {
+        "label": "The Rider on the White Horse (v. 11-16)",
+        "body": "Heaven opens and a Rider on a white horse appears, called Faithful and True, who judges and makes war in righteousness; His eyes are like fire, He wears many crowns, His robe is dipped in blood, His name is the Word of God; the armies of heaven follow Him; a sharp sword comes from His mouth to strike the nations; He treads the winepress of God's wrath; His name is King of kings and Lord of lords."
+      },
+      {
+        "label": "The Defeat of the Beast (v. 17-21)",
+        "body": "An angel standing in the sun summons the birds to the great supper of God; the beast and the kings of the earth gather to fight the Rider; the beast and the false prophet are captured and thrown alive into the lake of fire; the rest are killed by the sword from the Rider's mouth, and the birds gorge on their flesh."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Hallelujah!",
+        "paragraphs": [
+          "Earth mourned Babylon (ch. 18); heaven rejoices. Four times in verses 1–6 the multitude cries “Hallelujah!” — the only place this Hebrew word of praise appears in the New Testament. They praise God because “true and righteous are his judgments. For he has judged the great prostitute, who corrupted the earth with her sexual immorality, and he has avenged the blood of his servants at her hand” (v. 2). The prayer of the martyrs under the altar (6:10) is answered in full.",
+          "This is not a celebration of suffering. It is joy that God has finally put right what was wrong, and that evil will never again corrupt the earth. The elders and living creatures add their ‘Amen! Hallelujah!’ (v. 4), and a voice from the throne calls “all you his servants, you who fear him, the small and the great” (v. 5) to praise.",
+          "The climax comes with a sound “like the voice of many waters, and like the voice of mighty thunders, saying, ‘Hallelujah! For the Lord our God, the Almighty, reigns!’” (v. 6). The kingdom announced at the seventh trumpet (11:15) has arrived."
+        ]
+      },
+      {
+        "heading": "The Marriage of the Lamb",
+        "paragraphs": [
+          "Now the true bride appears. “Let us rejoice and be exceedingly glad, and let us give the glory to him. For the marriage of the Lamb has come, and his wife has made herself ready” (v. 7). Throughout the Bible God's people are His bride: Israel in the prophets, the church in Paul. Paul wrote, “Husbands, love your wives, even as Christ also loved the assembly, and gave himself up for it... that he might present the assembly to himself gloriously, not having spot or wrinkle or any such thing” (Ephesians 5:25, 27).",
+          "The bride's dress is a gift and a work at the same time: “It was given to her that she would array herself in bright, pure, fine linen: for the fine linen is the righteous acts of the saints” (v. 8). It is ‘given’: no one earns a place at the wedding. Yet it consists of ‘the righteous acts of the saints’: the faithful lives of believers, which God Himself produces in them. The prostitute wore purple and scarlet and gold; the bride wears simple, shining linen.",
+          "“Blessed are those who are invited to the marriage supper of the Lamb” (v. 9). Jesus told parables of a wedding feast for a king's son, and at the Last Supper promised, “I will not drink of this fruit of the vine from now on, until that day when I drink it anew with you in my Father’s Kingdom” (Matthew 26:29). Overwhelmed, John falls at the angel's feet, and is told, “Look! Don’t do it! I am a fellow bondservant with you... Worship God, for the testimony of Jesus is the Spirit of Prophecy” (v. 10). Even angels must not be worshipped; all true prophecy points to Jesus."
+        ]
+      },
+      {
+        "heading": "The Rider Called Faithful and True",
+        "paragraphs": [
+          "Then heaven opens, and Christ returns: “behold, a white horse, and he who sat on it is called Faithful and True. In righteousness he judges and makes war” (v. 11). Every detail recalls what we have already seen of Him: eyes like a flame of fire (1:14), a sharp sword from His mouth (1:16), the rod of iron (2:27; 12:5), the title ‘Faithful and True’ (3:14). He wears “many crowns” (v. 12) — more than the dragon or the beast.",
+          "“He is clothed in a garment sprinkled with blood” (v. 13). Some see the blood of His enemies, as in Isaiah 63, where God's garments are stained from the winepress. But His robe is bloodied before any battle is fought, and in Revelation the Lamb conquers by His own blood (5:9; 12:11). Many therefore see His own blood — the sign of the cross. Both truths stand together: the One who shed His blood for sinners is the One who judges those who reject it. “His name is called ‘The Word of God’” (v. 13), the title John gave Him in his Gospel: “In the beginning was the Word, and the Word was with God, and the Word was God” (John 1:1).",
+          "The armies of heaven follow Him, “clothed in white, pure, fine linen” (v. 14) — the bride's dress. They carry no weapons and do no fighting. The only weapon is “a sharp, double-edged sword” from His mouth (v. 15). And on His robe and thigh is His name: “KING OF KINGS, AND LORD OF LORDS” (v. 16)."
+        ]
+      },
+      {
+        "heading": "The End of the Beast",
+        "paragraphs": [
+          "An angel standing in the sun calls the birds to “the great supper of God” (v. 17) — a grim counterpart to the marriage supper of the Lamb. Ezekiel used the same picture for the defeat of Gog's armies. There are two suppers in this chapter; every person will be at one of them.",
+          "“I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him who sat on the horse, and against his army” (v. 19). This is the battle of Har-Magedon (16:16). But no battle is described. “The beast was taken, and with him the false prophet” (v. 20). They are simply seized, and “thrown alive into the lake of fire that burns with sulfur” (v. 20). The rest are killed “with the sword of him who sat on the horse, the sword which came out of his mouth” (v. 21).",
+          "Christ's victory is total and effortless. He speaks, and it is done. Paul said the same of the lawless one: “whom the Lord will kill with the breath of his mouth, and destroy by the manifestation of his coming” (2 Thessalonians 2:8). Whatever the details of the end, the outcome is certain: every power that has opposed God and oppressed His people will be overthrown by the word of the returning King."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Bridegroom and the Word",
+      "paragraphs": [
+        "John the Baptist said of Jesus, “He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice” (John 3:29). Jesus told of a king “who made a marriage feast for his son” (Matthew 22:2). Revelation 19 is that feast.",
+        "John's warning against worshipping the angel echoes Peter in Cornelius' house: when Cornelius “fell down at his feet, and worshiped him”, Peter raised him up, saying, “Stand up! I myself am also a man” (Acts 10:25–26).",
+        "And the Rider's victory by the word of His mouth fulfils Paul's description of Christ's coming: “Then the lawless one will be revealed, whom the Lord will kill with the breath of his mouth, and destroy by the manifestation of his coming” (2 Thessalonians 2:8)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Hallelujah",
+      "hebrew": "ἀλληλουϊα",
+      "translit": "allēlouïa",
+      "strongs": "G239 (Give praise αἰνέω, ainéō, G134)",
+      "verses": "v. 1, 3, 4, 6",
+      "insight": "Strong's: “praise ye Jah!, an adoring exclamation.” ἁλληλουϊά is a Hebrew word carried over into Greek: hallelu (praise!) and Yah (the short form of God's name, Yahweh). It opens and closes many psalms, especially Psalms 146–150, and the Jewish Hallel psalms sung at Passover. In the New Testament it appears only here, four times, as heaven celebrates the fall of Babylon and the reign of God. Jesus sang the Hallel with His disciples before going to the cross; here the redeemed sing it at His victory."
+    },
+    {
+      "english": "Marriage",
+      "hebrew": "γάμος",
+      "translit": "gámos",
+      "strongs": "G1062 (supper δεῖπνον, deîpnon, G1173)",
+      "verses": "v. 7, 9",
+      "insight": "Strong's: “nuptials.” γάμος is a wedding and its celebration, which in the ancient world could last a week. Jesus' first sign was at a wedding in Cana; He called Himself the Bridegroom and told parables of wedding feasts. Paul called marriage a picture of ‘Christ and the assembly’. The whole of history ends in a wedding: the union of Christ and His people, with joy and feasting forever."
+    },
+    {
+      "english": "The Word of God",
+      "hebrew": "λόγος",
+      "translit": "lógos",
+      "strongs": "G3056 (sword ῥομφαία, rhomphaía, G4501)",
+      "verses": "v. 9, 13",
+      "insight": "Strong's: “something said (including the thought); by implication, a topic (subject of discourse), also reasoning (the mental faculty) or motive; by extension, a computation; specially, (with the article in John) the Divine Expression (i.e. Christ).” λόγος, from the word family, is used by John alone as a name for Christ: the Word who was with God and was God (John 1:1), the Word of life (1 John 1:1), and here ‘The Word of God’ riding to victory. He who spoke creation into being speaks the final word of judgement; the sword from His mouth is His word."
+    },
+    {
+      "english": "Lake",
+      "hebrew": "λίμνη",
+      "translit": "límnē",
+      "strongs": "G3041 (sulfur θεῖον, theîon, G2303)",
+      "verses": "v. 20; 20:10, 14, 15; 21:8",
+      "insight": "Strong's: “a pond (large or small).” λίμνη is an ordinary word for a lake — Luke uses it of the Sea of Galilee. Revelation uses it five times for ‘the lake of fire’: the final destiny of the beast, the false prophet, the devil, Death and Hades, and all whose names are not in the book of life. It is ‘the second death’ (20:14). Its imagery of fire and sulfur recalls Sodom; its meaning is final separation from God."
+    },
+    {
+      "english": "Supper",
+      "hebrew": "δεῖπνον",
+      "translit": "deîpnon",
+      "strongs": "G1173 (marriage γάμος, gámos, G1062)",
+      "verses": "v. 9, 17",
+      "insight": "Strong's: “dinner, i.e. the chief meal (usually in the evening).” That is why δεῖπνον was used for the Lord's Supper (1 Corinthians 11:20) and for great banquets. Chapter 19 sets two suppers side by side: ‘the marriage supper of the Lamb’ (v. 9), where the redeemed are guests, and ‘the great supper of God’ (v. 17), where the birds feast on the enemies of God. Jesus spread His table for sinners; those who refuse it face the other."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit fills your mouth with praise and your heart with hope.",
+    "items": [
+      {
+        "title": "Learn the Hallelujah",
+        "body": "Heaven's response to God's justice is “Hallelujah!” (vv. 1, 3, 4, 6). The Spirit invites you to practise that song now — in your trials as well as your blessings — because the Lord our God the Almighty reigns."
+      },
+      {
+        "title": "Get Ready for the Wedding",
+        "body": "“His wife has made herself ready” (v. 7). The Spirit is preparing you for the marriage of the Lamb. Every act of faithful love and obedience is a thread in the bride's dress. What is He asking you to do today to get ready?"
+      },
+      {
+        "title": "Worship Only God",
+        "body": "Even John was tempted to worship the angel (v. 10). The Spirit warns you against giving any creature — leader, preacher, celebrity, experience — the worship that belongs only to God. Let everything point you to Jesus."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Praise Check",
+        "body": "How often does ‘Hallelujah’ rise from your heart? What would help you praise God more freely (vv. 1–6)?"
+      },
+      {
+        "title": "The Readiness Check",
+        "body": "If the marriage of the Lamb were tomorrow, what would you want to change about how you live today (vv. 7–8)?"
+      },
+      {
+        "title": "The Worship Check",
+        "body": "Is there anyone or anything you admire so much that it borders on worship (v. 10)?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "A Hallelujah Walk",
+        "body": "Take a walk this week and, at every turn or landmark, say ‘Hallelujah!’ and name one reason to praise God — His justice, His salvation, His reign, His love. End by reading Revelation 19:6–7 aloud."
+      },
+      {
+        "title": "Weave the Linen",
+        "body": "Each day this week, do one ‘righteous act’ (v. 8) quietly for someone else — a kindness, a gift, a word of encouragement, a prayer. Offer each one to Christ as a thread in the bride's dress."
+      }
+    ]
+  },
+  "prayerReflection": "“Hallelujah! Salvation and glory and power belong to our God, for His judgements are true and just. Hallelujah! The Lord our God the Almighty reigns! Thank You that You have judged the great prostitute and avenged the blood of Your servants. Let me rejoice and be glad and give You glory, for the marriage of the Lamb is coming. Lord Jesus, prepare me for that day. Clothe me in the fine linen of Your grace, and work in me the righteous deeds that please You. Thank You for inviting me to the marriage supper of the Lamb. Keep me from worshipping anyone but You. Faithful and True, Word of God, King of kings and Lord of lords, I worship You. Your eyes see everything; Your robe bears the blood You shed for me; Your word will conquer every enemy. Come, Lord Jesus, and reign. Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Wedding at Cana",
+      "ref": "John 2:1-11",
+      "relatedVerses": "v. 7-9",
+      "summary": "At a wedding in Cana of Galilee the wine ran out. At His mother's request, Jesus told the servants to fill six stone water jars and take some to the master of the feast. The water had become wine — the best wine, saved until last. John calls it the first of His signs, revealing His glory. Jesus began His ministry at a wedding feast, and Revelation shows history ending at one: the marriage supper of the Lamb, where the best wine has been kept until last."
+    },
+    {
+      "title": "Gog's Armies and the Birds",
+      "ref": "Ezekiel 38–39",
+      "relatedVerses": "v. 17-21",
+      "summary": "Ezekiel prophesied that Gog, a great ruler from the north, would gather many nations to attack God's restored people. But God Himself would destroy them with fire and hail. Then He called the birds and wild animals to a great sacrificial feast: ‘You shall eat the flesh of the mighty and drink the blood of the princes of the earth.’ Revelation 19 uses Ezekiel's picture for the defeat of the beast's armies; chapter 20 names Gog and Magog directly."
+    },
+    {
+      "title": "The Triumphal Entry Reversed",
+      "ref": "Zechariah 9:9-10; Matthew 21:1-11",
+      "relatedVerses": "v. 11-16",
+      "summary": "Zechariah prophesied that Zion's King would come: “He is righteous, and having salvation; lowly, and riding on a donkey” (Zechariah 9:9), and would speak peace to the nations. Jesus fulfilled this when He rode into Jerusalem on a donkey, on His way to the cross. In Revelation 19 the same King comes again — not on a donkey in humility, but on a white horse in glory, to judge and to reign. The One who came the first time to die comes the second time to rule."
+    }
+  ]
+}

@@ -1,0 +1,1548 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 2,
+  "chapterTitle": "Letters to Ephesus, Smyrna, Pergamum and Thyatira",
+  "themeTitle": "“To Him Who Overcomes”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "“To the angel of the assembly in Ephesus write: “He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things:",
+      "understanding": "Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας γράψον, “To the angel of the assembly in Ephesus write” — Ephesus was the greatest city of Asia, a port and home of the vast temple of Artemis; Paul spent three years there (Acts 20:31), and tradition places John there in old age. Τάδε λέγει ὁ κρατῶν τοὺς ἑπτὰ ἀστέρας ἐν τῇ δεξιᾷ αὐτοῦ, “He who holds the seven stars in his right hand” — κρατέω, from the hold family: to grip firmly, to hold with strength. ὁ περιπατῶν ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν, “he who walks among the seven golden lamp stands” — each letter begins with a detail from the vision of chapter 1.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assembly"
+        },
+        {
+          "strongs": "G2181",
+          "hebrew": "Ἔφεσος",
+          "translit": "Éphesos",
+          "english": "Ephesus"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "write"
+        },
+        {
+          "strongs": "G2902",
+          "hebrew": "κρατέω",
+          "translit": "kratéō",
+          "english": "holds"
+        },
+        {
+          "strongs": "G792",
+          "hebrew": "ἀστήρ",
+          "translit": "astḗr",
+          "english": "stars"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walks"
+        },
+        {
+          "strongs": "G3087",
+          "hebrew": "λυχνία",
+          "translit": "lychnía",
+          "english": "lamp stands"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "“I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false.",
+      "understanding": "Οἶδα τὰ ἔργα σου καὶ τὸν κόπον καὶ τὴν ὑπομονήν σου, “I know your works, and your toil and perseverance” — οἶδα, from the know family and the see family: Christ's full knowledge, which opens five of the seven letters. ἔργον and κόπος, both from the work family: ἔργον is the deed done, κόπος the exhausting labour behind it. ὑπομονή, from the endurance family. καὶ ὅτι οὐ δύνῃ βαστάσαι κακούς, “and that you can’t tolerate evil men” — κακός, from the evil family: bad, worthless. καὶ ἐπείρασας τοὺς λέγοντας ἑαυτοὺς ἀποστόλους, “and have tested those who call themselves apostles” — πειράζω, from the test family: they examined claims to authority. καὶ εὗρες αὐτοὺς ψευδεῖς, “and found them false.”",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G2873",
+          "hebrew": "κόπος",
+          "translit": "kópos",
+          "english": "toil"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "perseverance"
+        },
+        {
+          "strongs": "G941",
+          "hebrew": "βαστάζω",
+          "translit": "bastázō",
+          "english": "tolerate"
+        },
+        {
+          "strongs": "G2556",
+          "hebrew": "κακός",
+          "translit": "kakós",
+          "english": "evil"
+        },
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tested"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "apostles"
+        },
+        {
+          "strongs": "G5571",
+          "hebrew": "ψευδής",
+          "translit": "pseudḗs",
+          "english": "false"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "You have perseverance and have endured for my name’s sake, and have not grown weary.",
+      "understanding": "καὶ ὑπομονὴν ἔχεις, “You have perseverance” — ὑπομονή, from the endurance family, again. καὶ ἐβάστασας διὰ τὸ ὄνομά μου, “and have endured for my name’s sake” — βαστάζω, to carry a burden: the same word as ‘tolerate’ in verse 2. They could not carry evil men, but they carried suffering for Christ. καὶ οὐ κεκοπίακες, “and have not grown weary” — κοπιάω, from the work family: the verb of κόπος in verse 2. A play on words: they toiled, but did not tire.",
+      "words": [
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "perseverance"
+        },
+        {
+          "strongs": "G941",
+          "hebrew": "βαστάζω",
+          "translit": "bastázō",
+          "english": "endured"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name’s"
+        },
+        {
+          "strongs": "G2872",
+          "hebrew": "κοπιάω",
+          "translit": "kopiáō",
+          "english": "grown weary"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "But I have this against you, that you left your first love.",
+      "understanding": "ἀλλ᾽ ἔχω κατὰ σοῦ ὅτι τὴν ἀγάπην σου τὴν πρώτην ἀφῆκες, “But I have this against you, that you left your first love” — ἀγάπη, from the love family; πρῶτος, first in time and in rank. ἀφίημι, to let go, abandon. Their doctrine was sound and their work tireless, but the love that once burned — for Christ and for one another — had cooled. Orthodoxy without love is not enough.",
+      "words": [
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "left"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "Remember therefore from where you have fallen, and repent and do the first works; or else I am coming to you swiftly, and will move your lamp stand out of its place, unless you repent.",
+      "understanding": "μνημόνευε οὖν πόθεν πέπτωκας, “Remember therefore from where you have fallen” — μνημονεύω, to call to mind. καὶ μετανόησον καὶ τὰ πρῶτα ἔργα ποίησον, “and repent and do the first works” — μετανοέω, to change one's mind; ἔργον, from the work family. Three steps: remember, repent, return. εἰ δὲ μή, ἔρχομαί σοι καὶ κινήσω τὴν λυχνίαν σου ἐκ τοῦ τόπου αὐτῆς, “or else I am coming to you swiftly, and will move your lamp stand out of its place” — a church that loses its love loses its light.",
+      "words": [
+        {
+          "strongs": "G3421",
+          "hebrew": "μνημονεύω",
+          "translit": "mnēmoneúō",
+          "english": "Remember"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fallen"
+        },
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoéō",
+          "english": "repent"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "coming"
+        },
+        {
+          "strongs": "G2795",
+          "hebrew": "κινέω",
+          "translit": "kinéō",
+          "english": "move"
+        },
+        {
+          "strongs": "G3087",
+          "hebrew": "λυχνία",
+          "translit": "lychnía",
+          "english": "lamp stand"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "But this you have, that you hate the works of the Nicolaitans, which I also hate.",
+      "understanding": "ἀλλὰ τοῦτο ἔχεις, ὅτι μισεῖς τὰ ἔργα τῶν Νικολαϊτῶν, “But this you have, that you hate the works of the Nicolaitans” — ἔργον, from the work family. The Nicolaitans are unknown outside Revelation; from 2:14–15 they seem to have taught that Christians could join in idol feasts and sexual immorality. ἃ κἀγὼ μισῶ, “which I also hate” — Jesus hates the works, not the people.",
+      "words": [
+        {
+          "strongs": "G3404",
+          "hebrew": "μισέω",
+          "translit": "miséō",
+          "english": "hate"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G3531",
+          "hebrew": "Νικολαΐτης",
+          "translit": "Nikolaḯtēs",
+          "english": "Nicolaitans"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God.",
+      "understanding": "Ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις, “He who has an ear, let him hear what the Spirit says to the assemblies” — plural: every letter is for every church. Τῷ νικῶντι δώσω αὐτῷ φαγεῖν ἐκ τοῦ ξύλου τῆς ζωῆς, “To him who overcomes I will give to eat from the tree of life” — νικάω, to conquer; ζωή, from the life family. ξύλον, a tree (also used of the cross). The tree of Eden, barred after the fall, is opened again (22:2). ὅ ἐστιν ἐν τῷ παραδείσῳ τοῦ θεοῦ, “which is in the Paradise of my God” — παράδεισος, a Persian word for a royal garden.",
+      "words": [
+        {
+          "strongs": "G3775",
+          "hebrew": "οὖς",
+          "translit": "oûs",
+          "english": "ear"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assemblies"
+        },
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcomes"
+        },
+        {
+          "strongs": "G3586",
+          "hebrew": "ξύλον",
+          "translit": "xýlon",
+          "english": "tree"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G3857",
+          "hebrew": "παράδεισος",
+          "translit": "parádeisos",
+          "english": "Paradise"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "“To the angel of the assembly in Smyrna write: “The first and the last, who was dead, and has come to life says these things:",
+      "understanding": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας γράψον, “To the angel of the assembly in Smyrna write” — Smyrna (modern İzmir) was proud, beautiful and fiercely loyal to Rome. Its name means ‘myrrh’, a perfume used in burial. Τάδε λέγει ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς καὶ ἔζησεν, “The first and the last, who was dead, and has come to life” — ζάω, from the life family. To a church facing death, He speaks as the One who has been through death and out the other side.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G4667",
+          "hebrew": "Σμύρνα",
+          "translit": "Smýrna",
+          "english": "Smyrna"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G2078",
+          "hebrew": "ἔσχατος",
+          "translit": "éschatos",
+          "english": "last"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "come to life"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "“I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan.",
+      "understanding": "Οἶδά σου τὴν θλῖψιν καὶ τὴν πτωχείαν, ἀλλὰ πλούσιος εἶ, “I know your works, oppression, and your poverty (but you are rich)” — οἶδα, from the know family and the see family (most early manuscripts lack ‘your works’ here). θλῖψις, crushing pressure; πτωχεία, beggarly poverty, perhaps from plundered property. Poor in the world's eyes, rich in God's. καὶ τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς, “and the blasphemy of those who say they are Jews” — βλασφημία, slander. Some in the local synagogue were denouncing Christians to the authorities; Jesus says they had become ‘a synagogue of Satan’ — the accuser's assembly. This is not a statement about Jewish people in general, but about those who had turned informer.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "oppression"
+        },
+        {
+          "strongs": "G4432",
+          "hebrew": "πτωχεία",
+          "translit": "ptōcheía",
+          "english": "poverty"
+        },
+        {
+          "strongs": "G4145",
+          "hebrew": "πλούσιος",
+          "translit": "ploúsios",
+          "english": "rich"
+        },
+        {
+          "strongs": "G988",
+          "hebrew": "βλασφημία",
+          "translit": "blasphēmía",
+          "english": "blasphemy"
+        },
+        {
+          "strongs": "G2453",
+          "hebrew": "Ἰουδαῖος",
+          "translit": "Ioudaîos",
+          "english": "Jews"
+        },
+        {
+          "strongs": "G4864",
+          "hebrew": "συναγωγή",
+          "translit": "synagōgḗ",
+          "english": "synagogue"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.",
+      "understanding": "μηδὲν φοβοῦ ἃ μέλλεις πάσχειν, “Don’t be afraid of the things which you are about to suffer” — πάσχω, from the suffer family. Jesus does not promise escape. ἰδοὺ μέλλει βάλλειν ὁ διάβολος ἐξ ὑμῶν εἰς φυλακὴν ἵνα πειρασθῆτε, “Behold, the devil is about to throw some of you into prison, that you may be tested” — πειράζω, from the test family: the devil means it to break them; God uses it to prove them. καὶ ἕξετε θλῖψιν ἡμερῶν δέκα, “and you will have oppression for ten days” — a short, limited time. γίνου πιστὸς ἄχρι θανάτου, καὶ δώσω σοι τὸν στέφανον τῆς ζωῆς, “Be faithful to death, and I will give you the crown of life” — στέφανος, from the crown family: the victor's wreath, not the king's διάδημα; ζωή, from the life family. Smyrna was famous for its ‘crown’ of buildings on the hill. About sixty years later Polycarp, bishop of Smyrna, was burned for refusing to call Caesar lord.",
+      "words": [
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "afraid"
+        },
+        {
+          "strongs": "G3958",
+          "hebrew": "πάσχω",
+          "translit": "páschō",
+          "english": "suffer"
+        },
+        {
+          "strongs": "G1228",
+          "hebrew": "διάβολος",
+          "translit": "diábolos",
+          "english": "devil"
+        },
+        {
+          "strongs": "G5438",
+          "hebrew": "φυλακή",
+          "translit": "phylakḗ",
+          "english": "prison"
+        },
+        {
+          "strongs": "G3985",
+          "hebrew": "πειράζω",
+          "translit": "peirázō",
+          "english": "tested"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "oppression"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        },
+        {
+          "strongs": "G4735",
+          "hebrew": "στέφανος",
+          "translit": "stéphanos",
+          "english": "crown"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death.",
+      "understanding": "Ὁ νικῶν οὐ μὴ ἀδικηθῇ ἐκ τοῦ θανάτου τοῦ δευτέρου, “He who overcomes won’t be harmed by the second death” — νικάω, to conquer; ἀδικέω, to harm. The double negative οὐ μή means ‘never, not at all’. The first death may come by a Roman sword; the second death, the lake of fire (20:14), can never touch Christ's faithful ones.",
+      "words": [
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcomes"
+        },
+        {
+          "strongs": "G91",
+          "hebrew": "ἀδικέω",
+          "translit": "adikéō",
+          "english": "harmed"
+        },
+        {
+          "strongs": "G1208",
+          "hebrew": "δεύτερος",
+          "translit": "deúteros",
+          "english": "second"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "“To the angel of the assembly in Pergamum write: “He who has the sharp two-edged sword says these things:",
+      "understanding": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας γράψον, “To the angel of the assembly in Pergamum write” — Pergamum was the old capital of the province, home of the Roman governor who held ‘the right of the sword’, the power of execution. Τάδε λέγει ὁ ἔχων τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν, “He who has the sharp two-edged sword” — ῥομφαία, from the sword family: the long, broad sword. The governor's sword can kill the body; Christ's sword is the final word.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G4010",
+          "hebrew": "Πέργαμος",
+          "translit": "Pérgamos",
+          "english": "Pergamum"
+        },
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "has"
+        },
+        {
+          "strongs": "G4501",
+          "hebrew": "ῥομφαία",
+          "translit": "rhomphaía",
+          "english": "sword"
+        },
+        {
+          "strongs": "G3691",
+          "hebrew": "ὀξύς",
+          "translit": "oxýs",
+          "english": "sharp"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "“I know your works and where you dwell, where Satan’s throne is. You hold firmly to my name, and didn’t deny my faith in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwells.",
+      "understanding": "Οἶδα ποῦ κατοικεῖς· ὅπου ὁ θρόνος τοῦ Σατανᾶ, “I know your works and where you dwell, where Satan’s throne is” — οἶδα, from the know family and the see family. Pergamum had a great altar of Zeus on its acropolis, a temple of Asclepius (whose symbol was a serpent), and the first temple of emperor worship in Asia. Any or all of these made it ‘Satan's throne’. καὶ κρατεῖς τὸ ὄνομά μου, “You hold firmly to my name” — κρατέω, from the hold family. ἐν ταῖς ἡμέραις Ἀντιπᾶς ὁ μάρτυς μου ὁ πιστός μου, “in the days of Antipas my witness, my faithful one” — μάρτυς, from the witness family: the same title as Jesus in 1:5. ὃς ἀπεκτάνθη, “who was killed among you” — here μάρτυς is very close to our ‘martyr’.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2730",
+          "hebrew": "κατοικέω",
+          "translit": "katoikéō",
+          "english": "dwell"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan’s"
+        },
+        {
+          "strongs": "G2902",
+          "hebrew": "κρατέω",
+          "translit": "kratéō",
+          "english": "hold"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G720",
+          "hebrew": "ἀρνέομαι",
+          "translit": "arnéomai",
+          "english": "deny"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G493",
+          "hebrew": "Ἀντίπας",
+          "translit": "Antípas",
+          "english": "Antipas"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witness"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "killed"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "But I have a few things against you, because you have there some who hold the teaching of Balaam, who taught Balak to throw a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality.",
+      "understanding": "ἀλλ᾽ ἔχω κατὰ σοῦ ὀλίγα, ὅτι ἔχεις ἐκεῖ κρατοῦντας τὴν διδαχὴν Βαλαάμ, “But I have a few things against you, because you have there some who hold the teaching of Balaam” — κρατέω, from the hold family: the same verb as verse 13. Some held firmly to Christ's name; others held firmly to Balaam's teaching. Balaam could not curse Israel, so he advised Balak to lure them into idolatry and immorality (Numbers 25; 31:16). ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν σκάνδαλον, “who taught Balak to throw a stumbling block” — σκάνδαλον, the trigger of a trap. φαγεῖν εἰδωλόθυτα καὶ πορνεῦσαι, “to eat things sacrificed to idols, and to commit sexual immorality” — trade-guild feasts in pagan temples often involved both.",
+      "words": [
+        {
+          "strongs": "G2902",
+          "hebrew": "κρατέω",
+          "translit": "kratéō",
+          "english": "hold"
+        },
+        {
+          "strongs": "G1322",
+          "hebrew": "διδαχή",
+          "translit": "didachḗ",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G903",
+          "hebrew": "Βαλαάμ",
+          "translit": "Balaám",
+          "english": "Balaam"
+        },
+        {
+          "strongs": "G4625",
+          "hebrew": "σκάνδαλον",
+          "translit": "skándalon",
+          "english": "stumbling block"
+        },
+        {
+          "strongs": "G1494",
+          "hebrew": "εἰδωλόθυτον",
+          "translit": "eidōlóthyton",
+          "english": "things sacrificed to idols"
+        },
+        {
+          "strongs": "G4203",
+          "hebrew": "πορνεύω",
+          "translit": "porneúō",
+          "english": "commit sexual immorality"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "So you also have some who hold to the teaching of the Nicolaitans likewise.",
+      "understanding": "οὕτως ἔχεις καὶ σὺ κρατοῦντας τὴν διδαχὴν τῶν Νικολαϊτῶν ὁμοίως, “So you also have some who hold to the teaching of the Nicolaitans likewise” — κρατέω, from the hold family, a third time. Ephesus hated the Nicolaitans' works (v. 6); Pergamum tolerated their teaching. The Nicolaitans seem to have been a Christian version of Balaam's compromise.",
+      "words": [
+        {
+          "strongs": "G2902",
+          "hebrew": "κρατέω",
+          "translit": "kratéō",
+          "english": "hold"
+        },
+        {
+          "strongs": "G1322",
+          "hebrew": "διδαχή",
+          "translit": "didachḗ",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G3531",
+          "hebrew": "Νικολαΐτης",
+          "translit": "Nikolaḯtēs",
+          "english": "Nicolaitans"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "Repent therefore, or else I am coming to you quickly, and I will make war against them with the sword of my mouth.",
+      "understanding": "μετανόησον οὖν, “Repent therefore” — μετανοέω, addressed to the whole church, not only to the false teachers: tolerating them is itself a sin. εἰ δὲ μή, ἔρχομαί σοι ταχύ, “or else I am coming to you quickly” — a coming in judgement on this church, before the final coming. καὶ πολεμήσω μετ᾽ αὐτῶν ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου, “and I will make war against them with the sword of my mouth” — πολεμέω; ῥομφαία, from the sword family: Balaam himself died by the sword (Numbers 31:8); now the sword is Christ's word.",
+      "words": [
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoéō",
+          "english": "Repent"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "coming"
+        },
+        {
+          "strongs": "G5035",
+          "hebrew": "ταχύ",
+          "translit": "tachý",
+          "english": "quickly"
+        },
+        {
+          "strongs": "G4170",
+          "hebrew": "πολεμέω",
+          "translit": "poleméō",
+          "english": "make war"
+        },
+        {
+          "strongs": "G4501",
+          "hebrew": "ῥομφαία",
+          "translit": "rhomphaía",
+          "english": "sword"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna, and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it.",
+      "understanding": "Τῷ νικῶντι δώσω αὐτῷ τοῦ μάννα τοῦ κεκρυμμένου, “To him who overcomes, to him I will give of the hidden manna” — νικάω; μάννα, the bread from heaven (John 6:31–35). Those who refuse the idol feasts will eat Christ's food. καὶ δώσω αὐτῷ ψῆφον λευκήν, “and I will give him a white stone” — ψῆφος, a pebble: used as a vote of acquittal, a token of admission to a feast, or an amulet. καὶ ἐπὶ τὴν ψῆφον ὄνομα καινὸν γεγραμμένον, “and on the stone a new name written” — καινός, from the new family: new in kind, not merely recent. ὃ οὐδεὶς οἶδεν εἰ μὴ ὁ λαμβάνων, “which no one knows but he who receives it” — οἶδα, from the know family and the see family: an intimate identity given by Christ.",
+      "words": [
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcomes"
+        },
+        {
+          "strongs": "G3131",
+          "hebrew": "μάννα",
+          "translit": "mánna",
+          "english": "manna"
+        },
+        {
+          "strongs": "G2928",
+          "hebrew": "κρύπτω",
+          "translit": "krýptō",
+          "english": "hidden"
+        },
+        {
+          "strongs": "G5586",
+          "hebrew": "ψῆφος",
+          "translit": "psēphos",
+          "english": "stone"
+        },
+        {
+          "strongs": "G3022",
+          "hebrew": "λευκός",
+          "translit": "leukós",
+          "english": "white"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "knows"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "receives"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "“To the angel of the assembly in Thyatira write: “The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass, says these things:",
+      "understanding": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Θυατείροις ἐκκλησίας γράψον, “To the angel of the assembly in Thyatira write” — the smallest of the seven cities, but the longest letter; a city of trade guilds — dyers, potters, bronze-workers. Lydia, the seller of purple, came from here (Acts 16:14). Τάδε λέγει ὁ υἱὸς τοῦ θεοῦ, “The Son of God” — the only time this title appears in Revelation; Thyatira's local god was a son of Zeus. ὁ ἔχων τοὺς ὀφθαλμοὺς αὐτοῦ ὡς φλόγα πυρός, “who has his eyes like a flame of fire” — He sees through every pretence (v. 23).",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G2363",
+          "hebrew": "Θυάτειρα",
+          "translit": "Thyáteira",
+          "english": "Thyatira"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "Son"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eyes"
+        },
+        {
+          "strongs": "G5395",
+          "hebrew": "φλόξ",
+          "translit": "phlóx",
+          "english": "flame"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        },
+        {
+          "strongs": "G5474",
+          "hebrew": "χαλκολίβανον",
+          "translit": "chalkolíbanon",
+          "english": "burnished brass"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "“I know your works, your love, faith, service, patient endurance, and that your last works are more than the first.",
+      "understanding": "Οἶδά σου τὰ ἔργα καὶ τὴν ἀγάπην καὶ τὴν πίστιν καὶ τὴν διακονίαν καὶ τὴν ὑπομονήν σου, “I know your works, your love, faith, service, patient endurance” — οἶδα, from the know family and the see family; ἔργον, from the work family; ἀγάπη, from the love family; διακονία, from the servant family: practical service; ὑπομονή, from the endurance family. Where Ephesus had lost its first love, Thyatira's love was growing: καὶ τὰ ἔργα σου τὰ ἔσχατα πλείονα τῶν πρώτων, “and that your last works are more than the first.”",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G26",
+          "hebrew": "ἀγάπη",
+          "translit": "agápē",
+          "english": "love"
+        },
+        {
+          "strongs": "G4102",
+          "hebrew": "πίστις",
+          "translit": "pístis",
+          "english": "faith"
+        },
+        {
+          "strongs": "G1248",
+          "hebrew": "διακονία",
+          "translit": "diakonía",
+          "english": "service"
+        },
+        {
+          "strongs": "G5281",
+          "hebrew": "ὑπομονή",
+          "translit": "hypomonḗ",
+          "english": "patient endurance"
+        },
+        {
+          "strongs": "G2078",
+          "hebrew": "ἔσχατος",
+          "translit": "éschatos",
+          "english": "last"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "But I have this against you, that you tolerate your woman, Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality, and to eat things sacrificed to idols.",
+      "understanding": "ἀλλὰ ἔχω κατὰ σοῦ ὅτι ἀφεῖς τὴν γυναῖκα Ἰεζάβελ, “But I have this against you, that you tolerate your woman, Jezebel” — the nickname of a real woman in the church, recalling Ahab's queen who led Israel into Baal worship. ἡ λέγουσα ἑαυτὴν προφῆτιν, “who calls herself a prophetess” — she claimed prophetic authority. καὶ διδάσκει καὶ πλανᾷ τοὺς ἐμοὺς δούλους, “She teaches and seduces my servants” — πλανάω, to lead astray; δοῦλος, from the servant family. πορνεῦσαι καὶ φαγεῖν εἰδωλόθυτα, “to commit sexual immorality, and to eat things sacrificed to idols” — the same compromise as Pergamum. Love that tolerates false teaching is not love.",
+      "words": [
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "tolerate"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "woman"
+        },
+        {
+          "strongs": "G2403",
+          "hebrew": "Ἰεζαβήλ",
+          "translit": "Iezabḗl",
+          "english": "Jezebel"
+        },
+        {
+          "strongs": "G4398",
+          "hebrew": "προφῆτις",
+          "translit": "prophētis",
+          "english": "prophetess"
+        },
+        {
+          "strongs": "G1321",
+          "hebrew": "διδάσκω",
+          "translit": "didáskō",
+          "english": "teaches"
+        },
+        {
+          "strongs": "G4105",
+          "hebrew": "πλανάω",
+          "translit": "planáō",
+          "english": "seduces"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G4203",
+          "hebrew": "πορνεύω",
+          "translit": "porneúō",
+          "english": "commit sexual immorality"
+        },
+        {
+          "strongs": "G1494",
+          "hebrew": "εἰδωλόθυτον",
+          "translit": "eidōlóthyton",
+          "english": "things sacrificed to idols"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "I gave her time to repent, but she refuses to repent of her sexual immorality.",
+      "understanding": "καὶ ἔδωκα αὐτῇ χρόνον ἵνα μετανοήσῃ, “I gave her time to repent” — χρόνος, from the time family: a span of time, as distinct from καιρός, the decisive moment (1:3). God's patience gives room to turn. καὶ οὐ θέλει μετανοῆσαι ἐκ τῆς πορνείας αὐτῆς, “but she refuses to repent of her sexual immorality” — θέλω, to will: the problem is not ignorance but refusal.",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "gave"
+        },
+        {
+          "strongs": "G5550",
+          "hebrew": "χρόνος",
+          "translit": "chrónos",
+          "english": "time"
+        },
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoéō",
+          "english": "repent"
+        },
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "refuses"
+        },
+        {
+          "strongs": "G4202",
+          "hebrew": "πορνεία",
+          "translit": "porneía",
+          "english": "sexual immorality"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "Behold, I will throw her into a bed, and those who commit adultery with her into great oppression, unless they repent of her works.",
+      "understanding": "ἰδοὺ βάλλω αὐτὴν εἰς κλίνην, “Behold, I will throw her into a bed” — the bed of her sin becomes a bed of sickness: a grim irony. καὶ τοὺς μοιχεύοντας μετ᾽ αὐτῆς εἰς θλῖψιν μεγάλην, “and those who commit adultery with her into great oppression” — μοιχεύω, adultery, often a picture of spiritual unfaithfulness. ἐὰν μὴ μετανοήσωσιν ἐκ τῶν ἔργων αὐτῆς, “unless they repent of her works” — ἔργον, from the work family. Even now the door of repentance is open.",
+      "words": [
+        {
+          "strongs": "G906",
+          "hebrew": "βάλλω",
+          "translit": "bállō",
+          "english": "throw"
+        },
+        {
+          "strongs": "G2825",
+          "hebrew": "κλίνη",
+          "translit": "klínē",
+          "english": "bed"
+        },
+        {
+          "strongs": "G3431",
+          "hebrew": "μοιχεύω",
+          "translit": "moicheúō",
+          "english": "commit adultery"
+        },
+        {
+          "strongs": "G2347",
+          "hebrew": "θλῖψις",
+          "translit": "thlîpsis",
+          "english": "oppression"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G3340",
+          "hebrew": "μετανοέω",
+          "translit": "metanoéō",
+          "english": "repent"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "I will kill her children with Death, and all the assemblies will know that I am he who searches the minds and hearts. I will give to each one of you according to your deeds.",
+      "understanding": "καὶ τὰ τέκνα αὐτῆς ἀποκτενῶ ἐν θανάτῳ, “I will kill her children with Death” — τέκνον, from the children family: her followers, her spiritual offspring. καὶ γνώσονται πᾶσαι αἱ ἐκκλησίαι, “and all the assemblies will know” — γινώσκω, from the know family: learn by experience. ὅτι ἐγώ εἰμι ὁ ἐραυνῶν νεφροὺς καὶ καρδίας, “that I am he who searches the minds and hearts” — νεφρός, literally the kidneys, seat of the emotions; καρδία, the heart, seat of the will — a phrase used of God in Jeremiah. καὶ δώσω ὑμῖν ἑκάστῳ κατὰ τὰ ἔργα ὑμῶν, “I will give to each one of you according to your deeds” — ἔργον, from the work family.",
+      "words": [
+        {
+          "strongs": "G5043",
+          "hebrew": "τέκνον",
+          "translit": "téknon",
+          "english": "children"
+        },
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "kill"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "Death"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assemblies"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G2045",
+          "hebrew": "ἐρευνάω",
+          "translit": "ereunáō",
+          "english": "searches"
+        },
+        {
+          "strongs": "G3510",
+          "hebrew": "νεφρός",
+          "translit": "nephrós",
+          "english": "minds"
+        },
+        {
+          "strongs": "G2588",
+          "hebrew": "καρδία",
+          "translit": "kardía",
+          "english": "hearts"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "deeds"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "But to you I say, to the rest who are in Thyatira, as many as don’t have this teaching, who don’t know what some call ‘the deep things of Satan,’ to you I say, I am not putting any other burden on you.",
+      "understanding": "ὑμῖν δὲ λέγω τοῖς λοιποῖς τοῖς ἐν Θυατείροις, “But to you I say, to the rest who are in Thyatira” — the faithful remnant. οἵτινες οὐκ ἔγνωσαν τὰ βαθέα τοῦ Σατανᾶ, “who don’t know what some call ‘the deep things of Satan’” — γινώσκω, from the know family. The false teachers apparently claimed that the spiritually advanced could explore evil without harm — ‘the deep things’. Jesus calls them what they are. οὐ βάλλω ἐφ᾽ ὑμᾶς ἄλλο βάρος, “I am not putting any other burden on you” — βάρος, weight: no new rules, just faithfulness.",
+      "words": [
+        {
+          "strongs": "G3062",
+          "hebrew": "λοιποί",
+          "translit": "loipoí",
+          "english": "rest"
+        },
+        {
+          "strongs": "G2363",
+          "hebrew": "Θυάτειρα",
+          "translit": "Thyáteira",
+          "english": "Thyatira"
+        },
+        {
+          "strongs": "G1322",
+          "hebrew": "διδαχή",
+          "translit": "didachḗ",
+          "english": "teaching"
+        },
+        {
+          "strongs": "G1097",
+          "hebrew": "γινώσκω",
+          "translit": "ginṓskō",
+          "english": "know"
+        },
+        {
+          "strongs": "G899",
+          "hebrew": "βάθος",
+          "translit": "báthos",
+          "english": "deep things"
+        },
+        {
+          "strongs": "G4567",
+          "hebrew": "Σατανᾶς",
+          "translit": "Satanâs",
+          "english": "Satan"
+        },
+        {
+          "strongs": "G922",
+          "hebrew": "βάρος",
+          "translit": "báros",
+          "english": "burden"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Nevertheless, hold that which you have firmly until I come.",
+      "understanding": "πλὴν ὃ ἔχετε κρατήσατε ἄχρι οὗ ἂν ἥξω, “Nevertheless, hold that which you have firmly until I come” — κρατέω, from the hold family: grip it hard; ἥκω, to arrive and be present. The command for the faithful is simple: keep holding on.",
+      "words": [
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "have"
+        },
+        {
+          "strongs": "G2902",
+          "hebrew": "κρατέω",
+          "translit": "kratéō",
+          "english": "hold"
+        },
+        {
+          "strongs": "G2240",
+          "hebrew": "ἥκω",
+          "translit": "hḗkō",
+          "english": "come"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "He who overcomes, and he who keeps my works to the end, to him I will give authority over the nations.",
+      "understanding": "Καὶ ὁ νικῶν καὶ ὁ τηρῶν ἄχρι τέλους τὰ ἔργα μου, “He who overcomes, and he who keeps my works to the end” — νικάω; τηρέω, from the hold family, guarding and obeying, as distinct from κρατέω in verse 25, gripping; ἔργον, from the work family: not Jezebel's works (v. 22) but Christ's. ἄχρι τέλους, ‘to the end’ — τέλος, from the perfect family: the goal, the finish line. δώσω αὐτῷ ἐξουσίαν ἐπὶ τῶν ἐθνῶν, “to him I will give authority over the nations” — ἐξουσία, from the power family: delegated authority, the right to act, as distinct from δύναμις, ability.",
+      "words": [
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcomes"
+        },
+        {
+          "strongs": "G5083",
+          "hebrew": "τηρέω",
+          "translit": "tēréō",
+          "english": "keeps"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "télos",
+          "english": "end"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "authority"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "He will rule them with a rod of iron, shattering them like clay pots; as I also have received of my Father:",
+      "understanding": "καὶ ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ, “He will rule them with a rod of iron” — ποιμαίνω, to shepherd: from Psalm 2, where God promises His anointed King that He will rule the nations ‘with a rod of iron’. ὡς τὰ σκεύη τὰ κεραμικὰ συντρίβεται, “shattering them like clay pots” — Thyatira's potters would understand. ὡς κἀγὼ εἴληφα παρὰ τοῦ πατρός μου, “as I also have received of my Father” — the Messiah's reign is shared with His faithful people.",
+      "words": [
+        {
+          "strongs": "G4165",
+          "hebrew": "ποιμαίνω",
+          "translit": "poimaínō",
+          "english": "rule"
+        },
+        {
+          "strongs": "G4464",
+          "hebrew": "ῥάβδος",
+          "translit": "rhábdos",
+          "english": "rod"
+        },
+        {
+          "strongs": "G4603",
+          "hebrew": "σιδήρεος",
+          "translit": "sidḗreos",
+          "english": "iron"
+        },
+        {
+          "strongs": "G2764",
+          "hebrew": "κεραμικός",
+          "translit": "keramikós",
+          "english": "clay"
+        },
+        {
+          "strongs": "G4632",
+          "hebrew": "σκεῦος",
+          "translit": "skeûos",
+          "english": "pots"
+        },
+        {
+          "strongs": "G4937",
+          "hebrew": "συντρίβω",
+          "translit": "syntríbō",
+          "english": "shattering"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "received"
+        },
+        {
+          "strongs": "G3962",
+          "hebrew": "πατήρ",
+          "translit": "patḗr",
+          "english": "Father"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "text": "and I will give him the morning star.",
+      "understanding": "καὶ δώσω αὐτῷ τὸν ἀστέρα τὸν πρωϊνόν, “and I will give him the morning star” — ἀστήρ; πρωϊνός, of the early morning. Jesus later says, “I am the root and the offspring of David; the Bright and Morning Star” (Revelation 22:16). The greatest reward is Christ Himself.",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G792",
+          "hebrew": "ἀστήρ",
+          "translit": "astḗr",
+          "english": "star"
+        },
+        {
+          "strongs": "G4407",
+          "hebrew": "πρωϊνός",
+          "translit": "prōïnós",
+          "english": "morning"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "text": "He who has an ear, let him hear what the Spirit says to the assemblies.",
+      "understanding": "Ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις, “He who has an ear, let him hear what the Spirit says to the assemblies” — from the fourth letter onward this call comes after the promise to the overcomer, not before it. The words of Jesus to one church are the words of the Spirit to every church.",
+      "words": [
+        {
+          "strongs": "G3775",
+          "hebrew": "οὖς",
+          "translit": "oûs",
+          "english": "ear"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "hear"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G1577",
+          "hebrew": "ἐκκλησία",
+          "translit": "ekklēsía",
+          "english": "assemblies"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Fading Flame",
+      "verseRef": "v. 2-5",
+      "image": "Picture a busy church in a great city. The doors are always open, the programmes are full, the doctrine is sharp, false teachers are spotted at once. But look closely at the lampstand at the front: the flame is burning low, flickering, nearly out.",
+      "meaning": "“I know your works, and your toil and perseverance” (v. 2). “But I have this against you, that you left your first love” (v. 4). “Remember therefore from where you have fallen, and repent and do the first works” (v. 5). Activity is not the same as love. Jesus wants the flame, not just the stand."
+    },
+    {
+      "title": "Ten Days and a Crown",
+      "verseRef": "v. 9-10",
+      "image": "Picture a prison cell in Smyrna, damp and dark. A handful of believers sit chained together; their property has been seized and their neighbours have informed on them. Through the bars they can see the hill of their city, crowned with temples. And they hear a voice say, ‘Be faithful.’",
+      "meaning": "“Don’t be afraid of the things which you are about to suffer” (v. 10). “Be faithful to death, and I will give you the crown of life” (v. 10). Their suffering has a limit — ‘ten days’ — and an end beyond it that no prison can take away."
+    },
+    {
+      "title": "Two Kinds of Holding",
+      "verseRef": "v. 13-16",
+      "image": "Picture two hands in the same congregation in Pergamum. One grips a name — the name of Jesus — and will not let go though the sword is raised. The other grips a different teaching: a little compromise at the temple feast, a little freedom in the body.",
+      "meaning": "“You hold firmly to my name, and didn’t deny my faith” (v. 13). “But I have a few things against you, because you have there some who hold the teaching of Balaam” (v. 14). The same word, κρατέω, describes both grips. What are you holding on to?"
+    },
+    {
+      "title": "Eyes Like Fire",
+      "verseRef": "v. 18-23",
+      "image": "Picture a church meeting where everyone looks devoted, loving and busy. A confident woman stands up and speaks smooth words about freedom and ‘deep things’. Then picture eyes like a flame of fire looking past every face, into every heart.",
+      "meaning": "“I am he who searches the minds and hearts. I will give to each one of you according to your deeds” (v. 23). Christ sees through every pretence. To the faithful He says, “hold that which you have firmly until I come” (v. 25)."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "Ephesus: Lost Love (v. 1-7)",
+        "body": "Christ, who holds the stars and walks among the lampstands, praises Ephesus for its labour, endurance and testing of false apostles, but rebukes it for leaving its first love; it must remember, repent and do the first works or lose its lampstand; the overcomer will eat from the tree of life."
+      },
+      {
+        "label": "Smyrna: Faithful in Suffering (v. 8-11)",
+        "body": "The First and Last, who died and lives, knows Smyrna's affliction, poverty and slander; He warns of prison and ten days of affliction and calls them to be faithful to death for the crown of life; the overcomer will not be harmed by the second death."
+      },
+      {
+        "label": "Pergamum: Compromise (v. 12-17)",
+        "body": "The One with the sharp sword knows that Pergamum lives where Satan's throne is and has held fast His name even when Antipas was killed, but rebukes it for tolerating the teaching of Balaam and the Nicolaitans; it must repent; the overcomer will receive hidden manna and a white stone with a new name."
+      },
+      {
+        "label": "Thyatira: Tolerated Corruption (v. 18-29)",
+        "body": "The Son of God with eyes of fire praises Thyatira's growing love, faith, service and endurance, but rebukes it for tolerating ‘Jezebel’, who leads His servants into immorality and idolatry; she will be judged and all the churches will know He searches hearts; the faithful must hold fast until He comes; the overcomer will share His authority and receive the morning star."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Shape of the Seven Letters",
+        "paragraphs": [
+          "The seven letters of chapters 2–3 follow a pattern: an address to the church's angel; a title of Christ taken from the vision of chapter 1; ‘I know’ — His assessment of the church; praise, rebuke, or both; a call to repent or hold fast; the refrain “He who has an ear, let him hear what the Spirit says to the assemblies” (v. 7); and a promise “To him who overcomes” (v. 7). The promises point forward to the new creation of chapters 21–22: the tree of life, escape from the second death, a new name, authority with Christ, the morning star.",
+          "The letters were written to seven real churches, and they fit what we know of those cities remarkably well. But the refrain is plural — ‘the assemblies’ — so every church is meant to hear every letter. Some have read the seven churches as seven ages of church history; there is no sign of this in the text itself, and the more natural reading is that they show the kinds of strength and weakness found in churches in every age.",
+          "Every letter calls for ‘overcoming’. The verb νικάω does not mean winning a political or military victory; it means staying faithful to Jesus to the end, whatever the cost. The model is the Lamb Himself, who “has overcome” (5:5) by being slain. The first letter of John said the same: “This is the victory that has overcome the world: your faith” (1 John 5:4)."
+        ]
+      },
+      {
+        "heading": "Ephesus and Smyrna: Love and Faithfulness",
+        "paragraphs": [
+          "Ephesus was doing almost everything right. Jesus says, “I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false” (v. 2). Paul had warned the Ephesian elders that ‘vicious wolves’ would come in (Acts 20:29), and they had guarded the flock well. But something essential had gone: “But I have this against you, that you left your first love” (v. 4). Whether this is love for Christ, love for one another, or both, the result was a church busy and correct but cold.",
+          "The cure is in three verbs: “Remember therefore from where you have fallen, and repent and do the first works” (v. 5). Love is not restored by feelings alone but by returning to the ‘first works’ — the prayer, worship, care and witness that once flowed from a heart full of Christ. If not, Jesus will remove their lampstand: the church will cease to be a church.",
+          "Smyrna receives no rebuke at all. It is poor, slandered and about to be imprisoned. Jesus speaks to it as “The first and the last, who was dead, and has come to life” (v. 8). He does not promise escape but faithfulness: “Be faithful to death, and I will give you the crown of life” (v. 10). The ‘ten days’ suggests a limited time under God's control. The second death cannot touch those who are faithful through the first."
+        ]
+      },
+      {
+        "heading": "Pergamum and Thyatira: Compromise from Within",
+        "paragraphs": [
+          "Pergamum lived where Satan's throne was — perhaps the great altar of Zeus, perhaps the temple of the emperor. Yet it held firm under persecution: “You hold firmly to my name, and didn’t deny my faith in the days of Antipas my witness, my faithful one, who was killed among you” (v. 13). Antipas is called by the same title as Jesus: ‘faithful witness’. The church that survived the sword from outside was being weakened by compromise inside.",
+          "That compromise is called “the teaching of Balaam” (v. 14). In Numbers, Balaam could not curse Israel, but he could advise Balak to seduce them into idolatry and immorality. In first-century cities, trade guilds held feasts in pagan temples with food offered to idols, often followed by immorality. To refuse could cost a Christian his job and his place in society. The Nicolaitans apparently taught that it did not matter. Jesus says it does.",
+          "Thyatira's love and service were growing (v. 19), but it tolerated a woman Jesus calls ‘Jezebel’, who claimed to be a prophetess and taught His servants the same compromise (v. 20). She and her followers boasted of knowing ‘the deep things’; Jesus calls them “the deep things of Satan” (v. 24). Her judgement will show all the churches that Christ “searches the minds and hearts” (v. 23). To the faithful remnant He gives no new burden, only this: “hold that which you have firmly until I come” (v. 25)."
+        ]
+      },
+      {
+        "heading": "The Promises to the Overcomer",
+        "paragraphs": [
+          "Each promise answers the church's situation. Ephesus, which has lost its first love, is offered a return to the beginning: the tree of life in God's paradise (v. 7). Smyrna, facing death, is promised the crown of life and safety from the second death (vv. 10–11). Pergamum, tempted by idol feasts, is promised hidden manna — the true bread from heaven — and a white stone with a new name (v. 17). Thyatira, under pressure from a seductive teacher, is promised a share in Christ's own rule over the nations, and the morning star (vv. 26–28).",
+          "The ‘crown of life’ (v. 10) is a στέφανος, a victor's wreath, not a king's διάδημα. It is the prize given to the athlete who finishes the race, as James promised: “Blessed is the man who endures temptation, for when he has been approved, he will receive the crown of life, which the Lord promised to those who love him” (James 1:12).",
+          "And the final promise is Christ Himself: “I will give him the morning star” (v. 28). At the end of the book Jesus says, “I, Jesus, have sent my angel to testify these things to you for the assemblies. I am the root and the offspring of David; the Bright and Morning Star” (Revelation 22:16). Every reward points to the Rewarder."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "From Paul's Ephesus to John's",
+      "paragraphs": [
+        "Paul spent three years in Ephesus, and when he said goodbye to its elders he warned them: “I know that after my departure, vicious wolves will enter in among you, not sparing the flock” (Acts 20:29). Forty years later, Jesus praises them for testing false apostles (v. 2). But Paul had also prayed that the Ephesians would “know Christ’s love which surpasses knowledge” (Ephesians 3:19), and he closed his letter to them, “Grace be with all those who love our Lord Jesus Christ with incorruptible love” (Ephesians 6:24). That love is what they had lost.",
+        "Paul faced the question of idol food in Corinth. He taught that idols are nothing, but warned, “But I say that the things which the Gentiles sacrifice, they sacrifice to demons, and not to God, and I don’t desire that you would have fellowship with demons” (1 Corinthians 10:20), and “Therefore, my beloved, flee from idolatry” (1 Corinthians 10:14). The Nicolaitans and ‘Jezebel’ taught the opposite.",
+        "Jesus Himself promised His suffering followers, “In the world you have oppression; but cheer up! I have overcome the world” (John 16:33). And He said of the bread from heaven, “I am the bread of life. He who comes to me will not be hungry” (John 6:35) — the true ‘hidden manna’ of verse 17."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Overcome / conquer",
+      "hebrew": "νικάω",
+      "translit": "nikáō",
+      "strongs": "G3528 (victory νίκη, níkē, G3529)",
+      "verses": "v. 7, 11, 17, 26; 3:5, 12, 21; 5:5; 12:11; 21:7",
+      "insight": "Strong's: “to subdue (literally or figuratively).” νικάω, from νίκη (victory), is the key verb of Revelation — every one of the seven letters ends with a promise to ‘him who overcomes’. But the victory is of a surprising kind. The Lamb ‘has overcome’ by being slain (5:5–6); the saints overcome the dragon ‘because of the Lamb’s blood, and because of the word of their testimony’ (12:11). Even the beast is said to ‘overcome’ the saints by killing them (13:7) — yet in God's eyes they are the conquerors. To overcome is to remain faithful to Jesus to the end."
+    },
+    {
+      "english": "Crown",
+      "hebrew": "στέφανος",
+      "translit": "stéphanos",
+      "strongs": "G4735 (crowns διάδημα, diádēma, G1238)",
+      "verses": "v. 10; 3:11; 4:4, 10",
+      "insight": "Strong's: “a chaplet (as a badge of royalty, a prize in the public games or a symbol of honor generally; but more conspicuous and elaborate than the simple fillet, G1238 (διάδημα)), literally or figuratively.” στέφανος, from the crown family, is the victor's wreath of olive or laurel, the prize of the games and the honour of the faithful. Smyrna is promised ‘the crown of life’ — the wreath that consists of life itself. The twenty-four elders cast their στέφανοι before the throne (4:10). In contrast the dragon and the beast wear διαδήματα (12:3; 13:1), royal crowns — but Christ wears ‘many’ (19:12)."
+    },
+    {
+      "english": "Repent",
+      "hebrew": "μετανοέω",
+      "translit": "metanoéō",
+      "strongs": "G3340 (works ἔργον, érgon, G2041)",
+      "verses": "v. 5, 16, 21, 22; 3:3, 19",
+      "insight": "Strong's: “to think differently or afterwards, i.e. reconsider (morally, feel compunction).” μετανοέω appears eight times in chapters 2–3 — five of the seven churches are told to repent. It is not just regret but a change of mind that leads to a change of direction: Ephesus must ‘do the first works’. Repentance is offered even to ‘Jezebel’ (v. 21), but she ‘refuses’. The tragedy of judgement in Revelation is not that God refuses mercy, but that people refuse to repent (9:20–21; 16:9, 11)."
+    },
+    {
+      "english": "White stone",
+      "hebrew": "ψῆφος",
+      "translit": "psēphos",
+      "strongs": "G5586 (manna μάννα, mánna, G3131)",
+      "verses": "v. 17",
+      "insight": "Strong's: “a pebble (as worn smooth by handling), i.e. (by implication, of use as a counter or ballot) a verdict (of acquittal) or ticket (of admission); a vote.” ψῆφος had many uses in the ancient world. A white stone was cast by a juror to vote ‘not guilty’; a stone token could serve as a ticket of admission to a banquet. Both fit: the overcomer is acquitted, and invited to the feast of the hidden manna. And on the stone is a new name, known only to the one who receives it — a personal identity given by Christ Himself."
+    },
+    {
+      "english": "Time",
+      "hebrew": "χρόνος",
+      "translit": "chrónos",
+      "strongs": "G5550 (time καιρός, kairós, G2540)",
+      "verses": "v. 21; 6:11; 10:6; 20:3",
+      "insight": "Strong's: “a space of time (in general, and thus properly distinguished from G2540 (καιρός), which designates a fixed or special occasion; and from G165 (αἰών), which denotes a particular period) or interval; by extension, an individual opportunity; by implication, delay.” χρόνος, from the time family, is a span of time; καιρός is the decisive season. In 1:3 ‘the time (καιρός) is at hand’ — the moment of decision is near. In 2:21 God ‘gave her time (χρόνος) to repent’ — a span of patience. And in 10:6 the angel swears that ‘there will no longer be delay’ (χρόνος): God's patience is long, but not endless."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In these four letters the Holy Spirit is speaking to your church — and to you.",
+    "items": [
+      {
+        "title": "Return to Your First Love",
+        "body": "Jesus' words to Ephesus may be the hardest to hear because they come to the busy and the faithful: “you left your first love” (v. 4). The Spirit asks you to remember when Jesus was your joy, not just your duty. What did you do then that you no longer do? Go back and do it."
+      },
+      {
+        "title": "Fear Not What You Are About to Suffer",
+        "body": "To Smyrna Jesus says, “Don’t be afraid of the things which you are about to suffer” (v. 10). The Spirit does not promise you an easy road, but He promises that your suffering is limited, seen and rewarded. If you are facing loss for Christ today, hear Him: be faithful, and the crown of life is yours."
+      },
+      {
+        "title": "What Are You Tolerating?",
+        "body": "Pergamum and Thyatira were strong in many ways but tolerated teaching that made sin acceptable. The Spirit asks gently but clearly: is there a compromise in your life that you have called freedom? Is there a teaching you have accepted because it was comfortable? He searches the heart — so let Him."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Love Check",
+        "body": "Is your love for Jesus warmer, the same, or colder than when you first believed (v. 4)? What evidence do you see?"
+      },
+      {
+        "title": "The Courage Check",
+        "body": "Where are you under pressure to deny Christ's name — at work, in your family, online (v. 13)? Are you holding firmly?"
+      },
+      {
+        "title": "The Compromise Check",
+        "body": "Is there a ‘feast’ you join — a habit, a group, a form of entertainment — that draws you into what Christ hates (vv. 14, 20)?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Do the First Works",
+        "body": "Write down three things you did when your faith was fresh — perhaps early-morning prayer, telling others about Jesus, serving someone in need. Choose one and do it every day this week (v. 5)."
+      },
+      {
+        "title": "Hold Fast with a Friend",
+        "body": "Find one believer who is under pressure for their faith — at home, in your church, or in the persecuted church overseas. Pray for them by name daily this week, and send them a word of encouragement from verse 10."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, You hold the stars in Your right hand and walk among the lampstands. You know my works. Where my love has cooled, call me back; help me remember, repent and do the first works, so that my lampstand keeps shining. You are the First and the Last, who was dead and came to life. When I suffer, keep me from fear; make me faithful to death, and I will trust You for the crown of life. You hold the sharp two-edged sword. Keep me holding firmly to Your name, and cut away every compromise in me. You are the Son of God with eyes like fire. Search my mind and heart, and expose every ‘deep thing’ that is not of You. Help me hold fast what I have until You come. Let me overcome, by Your grace, and give me the tree of life, the hidden manna, a new name, and Yourself, the Bright Morning Star. I have an ear; let me hear what the Spirit says to the churches. Amen.”",
+  "storyConnections": [
+    {
+      "title": "Paul's Farewell to the Ephesian Elders",
+      "ref": "Acts 20:17-38",
+      "relatedVerses": "v. 1-7",
+      "summary": "On his way to Jerusalem, Paul called the elders of Ephesus to Miletus. He reminded them how he had served among them with tears and taught them publicly and from house to house. He warned that wolves would come in and that some from among them would distort the truth: “Therefore watch, remembering that for a period of three years I didn’t cease to admonish everyone night and day with tears” (Acts 20:31). They wept and kissed him, knowing they would not see his face again. A generation later, Jesus praises the same church for guarding the truth — and calls them back to the love that once filled those tears."
+    },
+    {
+      "title": "Balaam and Balak",
+      "ref": "Numbers 22–25; 31:16",
+      "relatedVerses": "v. 14-16",
+      "summary": "Balak, king of Moab, hired the prophet Balaam to curse Israel. Each time Balaam opened his mouth, God turned the curse into a blessing. But Balaam found another way: he advised Balak to invite Israel to the feasts of Baal of Peor, where they ate sacrifices to idols and committed immorality with the women of Moab. A plague followed, and Balaam later died by the sword. Pergamum's false teachers used the same strategy: if the church cannot be destroyed from outside, seduce it from within."
+    },
+    {
+      "title": "Ahab and Jezebel",
+      "ref": "1 Kings 16:29-33; 18; 21",
+      "relatedVerses": "v. 20-23",
+      "summary": "Jezebel, daughter of the king of Sidon, married Ahab king of Israel and brought the worship of Baal into the heart of the nation. She fed hundreds of prophets of Baal, killed the prophets of the Lord, and arranged the murder of Naboth for his vineyard. Elijah stood against her on Mount Carmel. Her name became a byword for a powerful, seductive leader who leads God's people into idolatry. Jesus uses it for the false prophetess of Thyatira — and promises the same certain judgement unless she repents."
+    }
+  ]
+}

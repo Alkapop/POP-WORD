@@ -1,0 +1,1089 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 5,
+  "chapterTitle": "The Scroll and the Lamb",
+  "themeTitle": "“Worthy Is the Lamb Who Has Been Killed”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I saw, in the right hand of him who sat on the throne, a book written inside and outside, sealed shut with seven seals.",
+      "understanding": "Καὶ εἶδον ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου βιβλίον, “I saw, in the right hand of him who sat on the throne, a book” — εἴδω, from the see family (and the know family); βιβλίον, from the book family: a scroll, as distinct from βίβλος (3:5). It holds God's plan for history and its completion. γεγραμμένον ἔσωθεν καὶ ὄπισθεν, “written inside and outside” — full, with nothing to add, like Ezekiel's scroll of lament. κατεσφραγισμένον σφραγῖσιν ἑπτά, “sealed shut with seven seals” — κατασφραγίζω, to seal up completely; σφραγίς, a seal: a Roman will was sealed with seven seals by seven witnesses and could only be opened by the rightful heir.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sat"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "written"
+        },
+        {
+          "strongs": "G2696",
+          "hebrew": "κατασφραγίζω",
+          "translit": "katasphragízō",
+          "english": "sealed shut"
+        },
+        {
+          "strongs": "G2033",
+          "hebrew": "ἑπτά",
+          "translit": "heptá",
+          "english": "seven"
+        },
+        {
+          "strongs": "G4973",
+          "hebrew": "σφραγίς",
+          "translit": "sphragís",
+          "english": "seals"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the book, and to break its seals?”",
+      "understanding": "καὶ εἶδον ἄγγελον ἰσχυρὸν κηρύσσοντα ἐν φωνῇ μεγάλῃ, “I saw a mighty angel proclaiming with a loud voice” — εἴδω, from the see family (and the know family); ἰσχυρός, from the power family: strong in physical force, as distinct from δυνατός, able. Even a mighty angel cannot open the scroll. Τίς ἄξιος ἀνοῖξαι τὸ βιβλίον καὶ λῦσαι τὰς σφραγῖδας αὐτοῦ; “Who is worthy to open the book, and to break its seals?” — ἄξιος, worthy; βιβλίον, from the book family. The question is not who is strong enough, but who is worthy.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G2784",
+          "hebrew": "κηρύσσω",
+          "translit": "kērýssō",
+          "english": "proclaiming"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "áxios",
+          "english": "worthy"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "open"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G3089",
+          "hebrew": "λύω",
+          "translit": "lýō",
+          "english": "break"
+        },
+        {
+          "strongs": "G4973",
+          "hebrew": "σφραγίς",
+          "translit": "sphragís",
+          "english": "seals"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "No one in heaven above, or on the earth, or under the earth, was able to open the book, or to look in it.",
+      "understanding": "καὶ οὐδεὶς ἐδύνατο ἐν τῷ οὐρανῷ οὐδὲ ἐπὶ τῆς γῆς οὐδὲ ὑποκάτω τῆς γῆς, “No one in heaven above, or on the earth, or under the earth, was able” — δύναμαι, from the power family: to have the ability; γῆ, from the world family. The three-storey universe: angels, the living, the dead — none can do it. ἀνοῖξαι τὸ βιβλίον οὔτε βλέπειν αὐτό, “to open the book, or to look in it” — βιβλίον, from the book family; βλέπω, from the see family.",
+      "words": [
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "able"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "open"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "look"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "And I wept much, because no one was found worthy to open the book, or to look in it.",
+      "understanding": "καὶ ἔκλαιον πολύ, “And I wept much” — κλαίω, to weep aloud, imperfect tense: he kept on weeping. If the scroll stays sealed, God's purposes for history — justice for the martyrs, the end of evil, the renewal of creation — will never be carried out. ὅτι οὐδεὶς ἄξιος εὑρέθη ἀνοῖξαι τὸ βιβλίον οὔτε βλέπειν αὐτό, “because no one was found worthy to open the book, or to look in it” — ἄξιος; βιβλίον, from the book family; βλέπω, from the see family.",
+      "words": [
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "wept"
+        },
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "áxios",
+          "english": "worthy"
+        },
+        {
+          "strongs": "G2147",
+          "hebrew": "εὑρίσκω",
+          "translit": "heurískō",
+          "english": "found"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "open"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "look"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "One of the elders said to me, “Don’t weep. Behold, the Lion who is of the tribe of Judah, the Root of David, has overcome; he who opens the book and its seven seals.”",
+      "understanding": "καὶ εἷς ἐκ τῶν πρεσβυτέρων λέγει μοι· Μὴ κλαῖε, “One of the elders said to me, ‘Don’t weep’” — κλαίω. ἰδοὺ ἐνίκησεν ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ, “Behold, the Lion who is of the tribe of Judah, the Root of David, has overcome” — two Messianic titles: Jacob blessed Judah as a lion's cub from whom the sceptre would not depart; Isaiah spoke of a shoot from the root of Jesse. νικάω, aorist: the victory is already won. ὁ ἀνοίγων τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ, “he who opens the book and its seven seals” — βιβλίον, from the book family.",
+      "words": [
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G2799",
+          "hebrew": "κλαίω",
+          "translit": "klaíō",
+          "english": "weep"
+        },
+        {
+          "strongs": "G3023",
+          "hebrew": "λέων",
+          "translit": "léōn",
+          "english": "Lion"
+        },
+        {
+          "strongs": "G5443",
+          "hebrew": "φυλή",
+          "translit": "phylḗ",
+          "english": "tribe"
+        },
+        {
+          "strongs": "G2455",
+          "hebrew": "Ἰούδας",
+          "translit": "Ioúdas",
+          "english": "Judah"
+        },
+        {
+          "strongs": "G4491",
+          "hebrew": "ῥίζα",
+          "translit": "rhíza",
+          "english": "Root"
+        },
+        {
+          "strongs": "G1138",
+          "hebrew": "Δαβίδ",
+          "translit": "Dabíd",
+          "english": "David"
+        },
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcome"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "opens"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G4973",
+          "hebrew": "σφραγίς",
+          "translit": "sphragís",
+          "english": "seals"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "I saw in the middle of the throne and of the four living creatures, and in the middle of the elders, a Lamb standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent out into all the earth.",
+      "understanding": "Καὶ εἶδον ἐν μέσῳ τοῦ θρόνου... ἀρνίον ἑστηκὸς ὡς ἐσφαγμένον, “I saw in the middle of the throne... a Lamb standing, as though it had been slain” — εἴδω, from the see family (and the know family); ἀρνίον, from the lamb family: Revelation's word for Christ, as distinct from ἀμνός, the sacrificial lamb of John 1:29. John hears ‘Lion’ and turns to see a Lamb: the Lion conquers by being the slain Lamb. ἑστηκός, standing — risen; ἐσφαγμένον, slaughtered — still bearing the marks. ἔχων κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά, “having seven horns, and seven eyes” — horns are power, eyes are knowledge: seven means fullness — all-powerful, all-seeing. ἀπεσταλμένοι εἰς πᾶσαν τὴν γῆν, “sent out into all the earth” — γῆ, from the world family: the Spirit goes out into the whole world.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G3319",
+          "hebrew": "μέσος",
+          "translit": "mésos",
+          "english": "middle"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G2226",
+          "hebrew": "ζῶον",
+          "translit": "zōon",
+          "english": "living creatures"
+        },
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "standing"
+        },
+        {
+          "strongs": "G4969",
+          "hebrew": "σφάζω",
+          "translit": "spházō",
+          "english": "slain"
+        },
+        {
+          "strongs": "G2768",
+          "hebrew": "κέρας",
+          "translit": "kéras",
+          "english": "horns"
+        },
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eyes"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirits"
+        },
+        {
+          "strongs": "G649",
+          "hebrew": "ἀποστέλλω",
+          "translit": "apostéllō",
+          "english": "sent out"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "Then he came, and he took it out of the right hand of him who sat on the throne.",
+      "understanding": "καὶ ἦλθεν καὶ εἴληφεν ἐκ τῆς δεξιᾶς τοῦ καθημένου ἐπὶ τοῦ θρόνου, “Then he came, and he took it out of the right hand of him who sat on the throne” — εἴληφεν, perfect tense: He has taken it and holds it. This is Daniel's vision fulfilled: the son of man comes to the Ancient of Days and receives dominion. The ascended Christ receives authority over all history.",
+      "words": [
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "came"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "took"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right hand"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sat"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Now when he had taken the book, the four living creatures and the twenty-four elders fell down before the Lamb, each one having a harp, and golden bowls full of incense, which are the prayers of the saints.",
+      "understanding": "καὶ ὅτε ἔλαβεν τὸ βιβλίον, “Now when he had taken the book” — βιβλίον, from the book family. τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι ἔπεσαν ἐνώπιον τοῦ ἀρνίου, “the four living creatures and the twenty-four elders fell down before the Lamb” — ἀρνίον, from the lamb family: the worship given to God in 4:10 is now given to the Lamb. ἔχοντες ἕκαστος κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, “each one having a harp, and golden bowls full of incense” — κιθάρα, a lyre; φιάλη, a wide bowl. αἵ εἰσιν αἱ προσευχαὶ τῶν ἁγίων, “which are the prayers of the saints” — προσευχή, from the pray family: prayer to God. The prayers of suffering believers are not lost; they are kept in golden bowls before the throne, and they will be answered (8:3–5). ἅγιος is from the holy family — holy, set apart for God; as a noun, the saints — God’s holy people.",
+      "words": [
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "taken"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G2226",
+          "hebrew": "ζῶον",
+          "translit": "zōon",
+          "english": "living creatures"
+        },
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell down"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        },
+        {
+          "strongs": "G2788",
+          "hebrew": "κιθάρα",
+          "translit": "kithára",
+          "english": "harp"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowls"
+        },
+        {
+          "strongs": "G2368",
+          "hebrew": "θυμίαμα",
+          "translit": "thymíama",
+          "english": "incense"
+        },
+        {
+          "strongs": "G4335",
+          "hebrew": "προσευχή",
+          "translit": "proseuchḗ",
+          "english": "prayers"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "They sang a new song, saying, “You are worthy to take the book, and to open its seals: for you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation,",
+      "understanding": "καὶ ᾄδουσιν ᾠδὴν καινήν, “They sang a new song” — καινός, from the new family: new in kind, a song that could not be sung before the cross. ᾠδή, any song. Ἄξιος εἶ λαβεῖν τὸ βιβλίον, “You are worthy to take the book” — ἄξιος; βιβλίον, from the book family. ὅτι ἐσφάγης, “for you were killed” — σφάζω, to slaughter as a sacrifice. καὶ ἠγόρασας τῷ θεῷ ἐν τῷ αἵματί σου, “and bought us for God with your blood” — ἀγοράζω, from the redeem family: to buy in the market, as slaves were bought. ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους, “out of every tribe, language, people, and nation” — the fourfold formula of Revelation for all humanity.",
+      "words": [
+        {
+          "strongs": "G103",
+          "hebrew": "ᾄδω",
+          "translit": "áidō",
+          "english": "sang"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G5603",
+          "hebrew": "ᾠδή",
+          "translit": "ōidḗ",
+          "english": "song"
+        },
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "áxios",
+          "english": "worthy"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "open"
+        },
+        {
+          "strongs": "G4973",
+          "hebrew": "σφραγίς",
+          "translit": "sphragís",
+          "english": "seals"
+        },
+        {
+          "strongs": "G4969",
+          "hebrew": "σφάζω",
+          "translit": "spházō",
+          "english": "killed"
+        },
+        {
+          "strongs": "G59",
+          "hebrew": "ἀγοράζω",
+          "translit": "agorázō",
+          "english": "bought"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G5443",
+          "hebrew": "φυλή",
+          "translit": "phylḗ",
+          "english": "tribe"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "language"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nation"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "and made us kings and priests to our God, and we will reign on the earth.”",
+      "understanding": "καὶ ἐποίησας αὐτοὺς τῷ θεῷ ἡμῶν βασιλείαν καὶ ἱερεῖς, “and made us kings and priests to our God” — the WEB follows manuscripts reading ‘kings’; the oldest read βασιλείαν, ‘a kingdom’ (as in 1:6). καὶ βασιλεύσουσιν ἐπὶ τῆς γῆς, “and we will reign on the earth” — βασιλεύω, to reign; γῆ, from the world family. Many manuscripts read ‘they will reign’. The despised believers of Asia will share Christ's rule over a renewed earth (22:5).",
+      "words": [
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "made"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G2409",
+          "hebrew": "ἱερεύς",
+          "translit": "hiereús",
+          "english": "priests"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G936",
+          "hebrew": "βασιλεύω",
+          "translit": "basileúō",
+          "english": "reign"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "I saw, and I heard something like a voice of many angels around the throne, the living creatures, and the elders; and the number of them was ten thousands of ten thousands, and thousands of thousands;",
+      "understanding": "Καὶ εἶδον, καὶ ἤκουσα φωνὴν ἀγγέλων πολλῶν κύκλῳ τοῦ θρόνου, “I saw, and I heard something like a voice of many angels around the throne” — εἴδω, from the see family (and the know family). The circle of worship widens. καὶ ἦν ὁ ἀριθμὸς αὐτῶν μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων, “and the number of them was ten thousands of ten thousands, and thousands of thousands” — μυριάς, ten thousand, the largest Greek number word: an uncountable host, as in Daniel's vision of the Ancient of Days.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G2226",
+          "hebrew": "ζῶον",
+          "translit": "zōon",
+          "english": "living creatures"
+        },
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G706",
+          "hebrew": "ἀριθμός",
+          "translit": "arithmós",
+          "english": "number"
+        },
+        {
+          "strongs": "G3461",
+          "hebrew": "μυριάς",
+          "translit": "myriás",
+          "english": "ten thousands"
+        },
+        {
+          "strongs": "G5505",
+          "hebrew": "χιλιάς",
+          "translit": "chiliás",
+          "english": "thousands"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "saying with a loud voice, “Worthy is the Lamb who has been killed to receive the power, wealth, wisdom, strength, honor, glory, and blessing!”",
+      "understanding": "λέγοντες φωνῇ μεγάλῃ· Ἄξιόν ἐστιν τὸ ἀρνίον τὸ ἐσφαγμένον, “saying with a loud voice, ‘Worthy is the Lamb who has been killed’” — ἀρνίον, from the lamb family; σφάζω. λαβεῖν τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν, “to receive the power, wealth, wisdom, strength, honor, glory, and blessing!” — seven gifts, joined by one article: a complete offering. δύναμις and ἰσχύς both come from the power family: δύναμις is inherent ability, ἰσχύς forceful strength. σοφία, from the wisdom family. The Lamb who was weak, poor and shamed on the cross receives all power, wealth and honour.",
+      "words": [
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G514",
+          "hebrew": "ἄξιος",
+          "translit": "áxios",
+          "english": "Worthy"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        },
+        {
+          "strongs": "G4969",
+          "hebrew": "σφάζω",
+          "translit": "spházō",
+          "english": "killed"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "receive"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G4149",
+          "hebrew": "πλοῦτος",
+          "translit": "ploûtos",
+          "english": "wealth"
+        },
+        {
+          "strongs": "G4678",
+          "hebrew": "σοφία",
+          "translit": "sophía",
+          "english": "wisdom"
+        },
+        {
+          "strongs": "G2479",
+          "hebrew": "ἰσχύς",
+          "translit": "ischýs",
+          "english": "strength"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2129",
+          "hebrew": "εὐλογία",
+          "translit": "eulogía",
+          "english": "blessing"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "I heard every created thing which is in heaven, on the earth, under the earth, on the sea, and everything in them, saying, “To him who sits on the throne, and to the Lamb be the blessing, the honor, the glory, and the dominion, forever and ever! Amen!”",
+      "understanding": "καὶ πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης, “I heard every created thing which is in heaven, on the earth, under the earth, on the sea” — κτίσμα, a created thing; γῆ, from the world family. The circle widens to all creation: the whole universe that no one could open the scroll for (v. 3) now worships. Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ, “To him who sits on the throne, and to the Lamb” — ἀρνίον, from the lamb family: God and the Lamb receive the same worship. ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων, “be the blessing, the honor, the glory, and the dominion, forever and ever!” — κράτος, from the power family: ruling might; αἰών, from the time family and the world family.",
+      "words": [
+        {
+          "strongs": "G2938",
+          "hebrew": "κτίσμα",
+          "translit": "ktísma",
+          "english": "created thing"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sits"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        },
+        {
+          "strongs": "G2129",
+          "hebrew": "εὐλογία",
+          "translit": "eulogía",
+          "english": "blessing"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2904",
+          "hebrew": "κράτος",
+          "translit": "krátos",
+          "english": "dominion"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "The four living creatures said, “Amen!” Then the elders fell down and worshiped.",
+      "understanding": "καὶ τὰ τέσσαρα ζῷα ἔλεγον· Ἀμήν, “The four living creatures said, ‘Amen!’” — ἀμήν, let it be so. καὶ οἱ πρεσβύτεροι ἔπεσαν καὶ προσεκύνησαν, “Then the elders fell down and worshiped” — προσκυνέω. Chapters 4 and 5 end where all history will end: in worship of God and the Lamb.",
+      "words": [
+        {
+          "strongs": "G2226",
+          "hebrew": "ζῶον",
+          "translit": "zōon",
+          "english": "living creatures"
+        },
+        {
+          "strongs": "G281",
+          "hebrew": "ἀμήν",
+          "translit": "amḗn",
+          "english": "Amen"
+        },
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell down"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worshiped"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Sealed Scroll",
+      "verseRef": "v. 1-4",
+      "image": "Picture a great scroll in the right hand of God, written on both sides, bound with seven wax seals. A mighty angel's voice booms through heaven, earth and the world of the dead: ‘Who is worthy to open it?’ Silence. And an old man begins to weep.",
+      "meaning": "“Who is worthy to open the book, and to break its seals?” (v. 2). “And I wept much, because no one was found worthy to open the book” (v. 4). Without a worthy one, God's purposes of justice and renewal would stay sealed forever. Every human hope falls silent here."
+    },
+    {
+      "title": "Lion and Lamb",
+      "verseRef": "v. 5-6",
+      "image": "Picture John lifting his tear-stained face because an elder has told him to look for a Lion. He turns — and sees, in the very centre of the throne, a small Lamb, standing, with the wounds of slaughter still on it.",
+      "meaning": "“Behold, the Lion who is of the tribe of Judah, the Root of David, has overcome” (v. 5). “I saw... a Lamb standing, as though it had been slain” (v. 6). God's power is revealed in self-giving love. The cross is not Christ's defeat; it is His victory."
+    },
+    {
+      "title": "Golden Bowls of Prayer",
+      "verseRef": "v. 8",
+      "image": "Picture the elders before the Lamb, each holding a golden bowl filled with incense. The fragrant smoke rises before the throne — and you realise that it is made of prayers: the whispered prayers of persecuted believers, prayers you prayed and thought were forgotten.",
+      "meaning": "“Golden bowls full of incense, which are the prayers of the saints” (v. 8). No prayer prayed in faith is wasted. Each one is kept in heaven, precious to God, waiting for its answer."
+    },
+    {
+      "title": "The Widening Circle",
+      "verseRef": "v. 9-14",
+      "image": "Picture concentric circles of worship around the Lamb: first the four living creatures and twenty-four elders singing a new song; then millions upon millions of angels; then every creature in heaven, on earth, under the earth and in the sea — all one roaring song. At the end the four creatures say, ‘Amen,’ and the elders fall on their faces.",
+      "meaning": "“Worthy is the Lamb who has been killed to receive the power, wealth, wisdom, strength, honor, glory, and blessing!” (v. 12). “To him who sits on the throne, and to the Lamb be the blessing, the honor, the glory, and the dominion, forever and ever!” (v. 13). This is where history is going: the whole universe at the feet of the Lamb."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Sealed Scroll and the Search (v. 1-4)",
+        "body": "In the right hand of God is a scroll sealed with seven seals; a mighty angel asks who is worthy to open it; no one in heaven, on earth or under the earth is able, and John weeps."
+      },
+      {
+        "label": "The Lion Who Is a Lamb (v. 5-7)",
+        "body": "An elder tells John that the Lion of Judah, the Root of David, has conquered and can open the scroll; John sees a Lamb standing as though slain, with seven horns and seven eyes, who takes the scroll from the right hand of God."
+      },
+      {
+        "label": "The New Song (v. 8-10)",
+        "body": "The living creatures and elders fall before the Lamb with harps and bowls of incense, the prayers of the saints, and sing a new song: He is worthy because He was slain and purchased people for God from every nation, and made them a kingdom and priests who will reign on the earth."
+      },
+      {
+        "label": "The Universal Doxology (v. 11-14)",
+        "body": "Countless angels proclaim the Lamb worthy of power, wealth, wisdom, might, honour, glory and blessing; then every creature in all creation gives blessing, honour, glory and dominion to the One on the throne and to the Lamb; the creatures say ‘Amen’ and the elders worship."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Who Is Worthy?",
+        "paragraphs": [
+          "In God's right hand is a scroll, “written inside and outside, sealed shut with seven seals” (v. 1). As the following chapters show, it contains God's plan to judge evil, vindicate His people and bring in His kingdom. As long as it is sealed, that plan cannot go forward. So the angel's question is the question of history: “Who is worthy to open the book, and to break its seals?” (v. 2).",
+          "The answer is silence: “No one in heaven above, or on the earth, or under the earth, was able to open the book, or to look in it” (v. 3). No angel, no king, no prophet, no philosopher, no emperor. John weeps (v. 4). His tears are not self-pity; they are the grief of one who longs to see God's justice done and His world put right, and sees no one able to do it.",
+          "Notice the question is not ‘who is strong enough?’ — a mighty angel asks it — but ‘who is worthy?’ The opening of history's final chapter requires not just power but moral right: one who has paid the price and earned the authority."
+        ]
+      },
+      {
+        "heading": "The Lion Who Is a Lamb",
+        "paragraphs": [
+          "An elder tells John to stop weeping: “Behold, the Lion who is of the tribe of Judah, the Root of David, has overcome; he who opens the book and its seven seals” (v. 5). These are the great Messianic titles: the lion of Judah from Jacob's blessing, the Root of David from Isaiah. John hears of a conquering Lion. Then he turns to look — and sees “a Lamb standing, as though it had been slain” (v. 6).",
+          "This may be the most important moment in the book. Everything Israel hoped for in a conquering Messiah is fulfilled — but by a slain Lamb. The Lion conquers by being the Lamb. God's power is shown not in crushing His enemies but in dying for them. The Lamb stands (He is risen), yet still bears the marks of slaughter (His death is eternally effective). He has seven horns (all power) and seven eyes (all knowledge, the Spirit sent into all the earth).",
+          "The Lamb takes the scroll from the hand of the One on the throne (v. 7). This is Daniel's vision of the son of man coming to the Ancient of Days to receive an everlasting kingdom, fulfilled in the ascension of Christ. From this moment, all history is in His hands."
+        ]
+      },
+      {
+        "heading": "The New Song",
+        "paragraphs": [
+          "Heaven responds with worship. The creatures and elders fall before the Lamb as they fell before God (4:10; 5:8): the Lamb receives divine worship. They hold harps and “golden bowls full of incense, which are the prayers of the saints” (v. 8). The prayers of persecuted believers on earth are treasured in heaven; in chapter 8 they will be poured out on the earth in answer.",
+          "Their song is new because its subject is new: “You are worthy to take the book, and to open its seals: for you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation” (v. 9). The Lamb's worthiness rests on the cross. His blood was the purchase price, and the people He bought come from everywhere. The church is not one nation or race but a people gathered from all of them.",
+          "And they are given a destiny: “and made us kings and priests to our God, and we will reign on the earth” (v. 10). The small, persecuted churches of Asia are told who they really are: a royal priesthood with a future on a renewed earth."
+        ]
+      },
+      {
+        "heading": "Every Creature Worships",
+        "paragraphs": [
+          "The worship spreads outward. First the creatures and elders, then “ten thousands of ten thousands, and thousands of thousands” of angels (v. 11), crying, “Worthy is the Lamb who has been killed to receive the power, wealth, wisdom, strength, honor, glory, and blessing!” (v. 12). The seven gifts form one complete offering. The Lamb who on earth was weak, poor, mocked as foolish, shamed and cursed receives power, wealth, wisdom, strength, honour, glory and blessing.",
+          "Then the whole universe joins: “every created thing which is in heaven, on the earth, under the earth, on the sea” (v. 13). The same regions where no one was found worthy (v. 3) now praise the One who is. And the praise is given equally “To him who sits on the throne, and to the Lamb” (v. 13). The Lamb shares the honour of God. In a book that forbids the worship of anyone but God (19:10; 22:9), this is a clear declaration that Jesus is God.",
+          "Chapter 5 ends with ‘Amen’ and worship (v. 14). Whatever terrors the following chapters describe, this is the end of the story: the universe in worship before God and the Lamb."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Behold, the Lamb of God",
+      "paragraphs": [
+        "John the Baptist first pointed to Jesus with the words, “Behold, the Lamb of God, who takes away the sin of the world!” (John 1:29). Paul wrote, “For indeed Christ, our Passover, has been sacrificed in our place” (1 Corinthians 5:7). And Peter: “knowing that you were redeemed, not with corruptible things, with silver or gold, from the useless way of life handed down from your fathers, but with precious blood, as of a lamb without blemish or spot, the blood of Christ” (1 Peter 1:18–19). Revelation shows that same Lamb on the throne.",
+        "The new song's ‘kings and priests’ (v. 10) echoes Peter's words: “But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession” (1 Peter 2:9).",
+        "And the universal worship of verse 13 fulfils Paul's hymn: “that at the name of Jesus every knee should bow, of those in heaven, those on earth, and those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father” (Philippians 2:10–11)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Lamb",
+      "hebrew": "ἀρνίον",
+      "translit": "arníon",
+      "strongs": "G721 (slain σφάζω, spházō, G4969)",
+      "verses": "v. 6, 8, 12, 13; 7:9-17; 14:1-4; 22:1-3",
+      "insight": "Strong's: “a lambkin.” ἀρνίον, from the lamb family, is Revelation's title for Christ — twenty-eight times, and almost nowhere else in the New Testament. Its form is a diminutive, ‘little lamb’, the most defenceless of creatures. Yet this Lamb has seven horns (v. 6), unleashes the seals (6:1), is the object of the wrath that the kings of the earth fear (6:16), conquers the beast's armies (17:14), marries His bride (19:7), and shares the throne of God (22:1). The weakest of animals is the Lord of all."
+    },
+    {
+      "english": "Seal",
+      "hebrew": "σφραγίς",
+      "translit": "sphragís",
+      "strongs": "G4973 (sealed shut κατασφραγίζω, katasphragízō, G2696)",
+      "verses": "v. 1, 2, 5, 9; 6:1-12; 7:2-8",
+      "insight": "Strong's: “a signet (as fencing in or protecting from misappropriation); by implication, the stamp impressed (as a mark of privacy, or genuineness), literally or figuratively.” σφραγίς is both the wax seal that closes a document and the signet ring that makes the impression. The scroll's seven seals keep its contents secret until the rightful one breaks them. In chapter 7 God's servants are ‘sealed’ on their foreheads — marked as His, protected, genuine. The same word that hides God's plan also protects God's people."
+    },
+    {
+      "english": "Slain / killed",
+      "hebrew": "σφάζω",
+      "translit": "spházō",
+      "strongs": "G4969 (Lamb ἀρνίον, arníon, G721)",
+      "verses": "v. 6, 9, 12; 6:9; 13:3, 8",
+      "insight": "Strong's: “to butcher (especially an animal for food or in sacrifice) or (generally) to slaughter, or (specially), to maim (violently).” σφάζω is the word for a sacrificial slaughter. The Lamb is ‘slain’ (v. 6), the martyrs under the altar were ‘killed’ (6:9) — and the beast mimics Christ with a head ‘as if wounded to death’ (13:3), the same word. Revelation's counterfeit trinity copies even the cross. But only one was truly slain and truly lives forever."
+    },
+    {
+      "english": "Strength",
+      "hebrew": "ἰσχύς",
+      "translit": "ischýs",
+      "strongs": "G2479 (power δύναμις, dýnamis, G1411)",
+      "verses": "v. 12; 7:12; 18:2",
+      "insight": "Strong's: “compare , a form of G2192 (ἔχω)); forcefulness (literally or figuratively).” ἰσχύς, from the power family, is forceful strength, might in action — as distinct from δύναμις, which is inherent ability or capacity, also in verse 12. The seven-fold praise gives the Lamb both: every kind of power belongs to Him. The ‘mighty’ angel of verse 2 (ἰσχυρός, from the same root) could not open the scroll; only the Lamb, who laid His strength down, receives all strength."
+    },
+    {
+      "english": "Song",
+      "hebrew": "ᾠδή",
+      "translit": "ōidḗ",
+      "strongs": "G5603 (new καινός, kainós, G2537)",
+      "verses": "v. 9; 14:3; 15:3",
+      "insight": "Strong's: “a chant or \"ode\" (the general term for any words sung; while G5215 (ὕμνος) denotes especially a religious metrical composition, and G5568 (ψαλμός) still more specially, a Hebrew cantillation).” ᾠδή is any song. The Psalms call for ‘a new song’ when God does a new act of salvation. The ‘new song’ of verse 9 is καινή, from the new family — new in kind, not just recent: it is the song of redemption by the blood of the Lamb, which no one could sing before the cross. In 14:3 only the redeemed can learn it."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit shows you the slain Lamb at the centre of the throne — and the centre of history.",
+    "items": [
+      {
+        "title": "Stop Weeping",
+        "body": "John wept because no one was worthy, until he heard, “Don’t weep. Behold, the Lion who is of the tribe of Judah... has overcome” (v. 5). The Spirit speaks the same to you. Whatever seems hopelessly sealed — injustice, grief, a broken world, a broken life — the Lamb holds the scroll. He has already overcome."
+      },
+      {
+        "title": "Your Prayers Are Kept",
+        "body": "The prayers of the saints fill golden bowls before the throne (v. 8). The Spirit wants you to know that not one of your faithful prayers has been lost. They rise like incense, and God will answer them in His time."
+      },
+      {
+        "title": "Join the New Song",
+        "body": "You were bought for God with the Lamb's blood, from your tribe and language and people and nation (v. 9). The Spirit invites you to take your place in the widening circle of worship — now, in your home and church, and one day before the throne."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Power Check",
+        "body": "Do you expect God to work mainly through strength and success, or through the way of the Lamb — sacrifice, faithfulness and love (vv. 5–6)?"
+      },
+      {
+        "title": "The Prayer Check",
+        "body": "Have you stopped praying about something because it seemed unanswered? Remember the golden bowls (v. 8)."
+      },
+      {
+        "title": "The Nations Check",
+        "body": "Does your picture of the church include every tribe, language, people and nation (v. 9)? How does that shape the way you treat people unlike you?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Sing the Song",
+        "body": "Read verses 9–14 aloud each day this week, then sing or say a song of worship to Jesus. On one day, pray verse 12 slowly, thanking the Lamb for each of the seven gifts He deserves and asking how you can give Him each one."
+      },
+      {
+        "title": "Pray for Every Nation",
+        "body": "Choose one people group or nation where Christians are few or suffering. Learn something about it this week, and pray daily that the Lamb would gather worshippers from it (v. 9)."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord Jesus, Lion of the tribe of Judah, Root of David — You have overcome. When no one in heaven or on earth or under the earth could open the scroll, You stepped forward, the Lamb standing as though slain. You took the scroll from the right hand of the Father, and all history is in Your hands. You are worthy, for You were slain, and with Your blood You bought me for God, and people from every tribe and language and people and nation. You have made us a kingdom and priests to our God, and we will reign on the earth. Thank You that my prayers rise before You like incense in golden bowls. With the living creatures, the elders and countless angels I cry: Worthy is the Lamb who was slain, to receive power and wealth and wisdom and strength and honour and glory and blessing! To Him who sits on the throne and to the Lamb be blessing and honour and glory and dominion forever and ever. Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Passover Lamb",
+      "ref": "Exodus 12:1-13",
+      "relatedVerses": "v. 6, 9",
+      "summary": "On the night God judged Egypt, each Israelite household took a lamb without defect, killed it at twilight, and put its blood on the doorposts. God said, ‘When I see the blood, I will pass over you.’ That night the firstborn of Egypt died, but the people under the blood were spared and walked out of slavery. The Lamb of Revelation 5 was slain like the Passover lamb, and by His blood He ‘bought’ a people for God out of every nation — a greater exodus. The plagues that follow in Revelation echo the plagues of Egypt."
+    },
+    {
+      "title": "Jacob Blesses Judah",
+      "ref": "Genesis 49:8-12",
+      "relatedVerses": "v. 5",
+      "summary": "On his deathbed, Jacob blessed his sons. To Judah he said, ‘Judah is a lion’s cub... The sceptre will not depart from Judah, nor the ruler’s staff from between his feet, until he comes to whom it belongs. To him will the obedience of the peoples be.’ From Judah came David, and from David's line came Jesus. The elder's words, ‘the Lion who is of the tribe of Judah’, announce that the one to whom the sceptre belongs has come — though He conquers as a Lamb."
+    },
+    {
+      "title": "The Son of Man Before the Ancient of Days",
+      "ref": "Daniel 7:9-14",
+      "relatedVerses": "v. 7, 11",
+      "summary": "Daniel saw thrones set in place and the Ancient of Days take His seat; thousands of thousands served Him, and ten thousand times ten thousand stood before Him. Then ‘one like a son of man’ came with the clouds of heaven to the Ancient of Days and was given dominion, glory and a kingdom, that all peoples, nations and languages should serve Him; His dominion would never pass away. Revelation 5 is the fulfilment: the Lamb comes to the throne, takes the scroll, and receives the worship of all creation."
+    }
+  ]
+}

@@ -1,0 +1,1520 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 11,
+  "chapterTitle": "The Two Witnesses and the Seventh Trumpet",
+  "themeTitle": "“The Kingdom of the World Has Become the Kingdom of Our Lord”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "A reed like a rod was given to me. Someone said, “Rise, and measure God’s temple, and the altar, and those who worship in it.",
+      "understanding": "Καὶ ἐδόθη μοι κάλαμος ὅμοιος ῥάβδῳ, “A reed like a rod was given to me” — κάλαμος, a measuring reed. λέγων· Ἔγειρε καὶ μέτρησον τὸν ναὸν τοῦ θεοῦ, “Someone said, ‘Rise, and measure God’s temple’” — ἐγείρω, from the rise family: get up; μετρέω, to measure. In Ezekiel and Zechariah, measuring a temple or a city marks it out for protection and restoration. ναός is the inner sanctuary. καὶ τὸ θυσιαστήριον καὶ τοὺς προσκυνοῦντας ἐν αὐτῷ, “and the altar, and those who worship in it” — people are measured, not just stones. The strongest reading is that the temple is God's people, protected by Him (1 Corinthians 3:16); some read it as a literal temple rebuilt in Jerusalem at the end.",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "given"
+        },
+        {
+          "strongs": "G2563",
+          "hebrew": "κάλαμος",
+          "translit": "kálamos",
+          "english": "reed"
+        },
+        {
+          "strongs": "G4464",
+          "hebrew": "ῥάβδος",
+          "translit": "rhábdos",
+          "english": "rod"
+        },
+        {
+          "strongs": "G1453",
+          "hebrew": "ἐγείρω",
+          "translit": "egeírō",
+          "english": "Rise"
+        },
+        {
+          "strongs": "G3354",
+          "hebrew": "μετρέω",
+          "translit": "metréō",
+          "english": "measure"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God’s"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G2379",
+          "hebrew": "θυσιαστήριον",
+          "translit": "thysiastḗrion",
+          "english": "altar"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worship"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "Leave out the court which is outside of the temple, and don’t measure it, for it has been given to the nations. They will tread the holy city under foot for forty-two months.",
+      "understanding": "καὶ τὴν αὐλὴν τὴν ἔξωθεν τοῦ ναοῦ ἔκβαλε ἔξωθεν καὶ μὴ αὐτὴν μετρήσῃς, “Leave out the court which is outside of the temple, and don’t measure it” — αὐλή, the outer court. ὅτι ἐδόθη τοῖς ἔθνεσιν, “for it has been given to the nations” — given, again: by God's permission. καὶ τὴν πόλιν τὴν ἁγίαν πατήσουσιν μῆνας τεσσεράκοντα δύο, “They will tread the holy city under foot for forty-two months” — πατέω, to trample; μήν, from the time family. Forty-two months is three and a half years — Daniel's ‘time, times, and half a time’, the period of the persecution of God's people. Jesus said, “Jerusalem will be trampled down by the Gentiles, until the times of the Gentiles are fulfilled” (Luke 21:24). Inner sanctuary protected, outer court trampled: God's people are spiritually safe but physically exposed. ἅγιος is from the holy family — holy, set apart for God; as a noun, the saints — God’s holy people.",
+      "words": [
+        {
+          "strongs": "G833",
+          "hebrew": "αὐλή",
+          "translit": "aulḗ",
+          "english": "court"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G1544",
+          "hebrew": "ἐκβάλλω",
+          "translit": "ekbállō",
+          "english": "Leave out"
+        },
+        {
+          "strongs": "G3354",
+          "hebrew": "μετρέω",
+          "translit": "metréō",
+          "english": "measure"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "given"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G3961",
+          "hebrew": "πατέω",
+          "translit": "patéō",
+          "english": "tread"
+        },
+        {
+          "strongs": "G3376",
+          "hebrew": "μήν",
+          "translit": "mḗn",
+          "english": "months"
+        },
+        {
+          "strongs": "G5062",
+          "hebrew": "τεσσαράκοντα",
+          "translit": "tessarákonta",
+          "english": "forty"
+        },
+        {
+          "strongs": "G1417",
+          "hebrew": "δύο",
+          "translit": "dýo",
+          "english": "two"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "I will give power to my two witnesses, and they will prophesy one thousand two hundred sixty days, clothed in sackcloth.”",
+      "understanding": "καὶ δώσω τοῖς δυσὶν μάρτυσίν μου, “I will give power to my two witnesses” — μάρτυς, from the witness family. Two, because the Law required two witnesses for valid testimony; and Jesus sent His disciples out two by two. καὶ προφητεύσουσιν ἡμέρας χιλίας διακοσίας ἑξήκοντα, “and they will prophesy one thousand two hundred sixty days” — ἡμέρα, from the time family: 1,260 days is again three and a half years — the same period as the trampling (v. 2). The church's witness and the world's oppression run side by side. περιβεβλημένοι σάκκους, “clothed in sackcloth” — the clothing of mourning and repentance, the dress of prophets like Elijah.",
+      "words": [
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G1417",
+          "hebrew": "δύο",
+          "translit": "dýo",
+          "english": "two"
+        },
+        {
+          "strongs": "G3144",
+          "hebrew": "μάρτυς",
+          "translit": "mártys",
+          "english": "witnesses"
+        },
+        {
+          "strongs": "G4395",
+          "hebrew": "προφητεύω",
+          "translit": "prophēteúō",
+          "english": "prophesy"
+        },
+        {
+          "strongs": "G5507",
+          "hebrew": "χίλιοι",
+          "translit": "chílioi",
+          "english": "one thousand"
+        },
+        {
+          "strongs": "G1250",
+          "hebrew": "διακόσιοι",
+          "translit": "diakósioi",
+          "english": "two hundred"
+        },
+        {
+          "strongs": "G1835",
+          "hebrew": "ἑξήκοντα",
+          "translit": "hexḗkonta",
+          "english": "sixty"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G4016",
+          "hebrew": "περιβάλλω",
+          "translit": "peribállō",
+          "english": "clothed"
+        },
+        {
+          "strongs": "G4526",
+          "hebrew": "σάκκος",
+          "translit": "sákkos",
+          "english": "sackcloth"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "These are the two olive trees and the two lamp stands, standing before the Lord of the earth.",
+      "understanding": "Οὗτοί εἰσιν αἱ δύο ἐλαῖαι καὶ αἱ δύο λυχνίαι, “These are the two olive trees and the two lamp stands” — from Zechariah 4, where two olive trees supply oil to the lampstand: “These are the two anointed ones who stand by the Lord of the whole earth” (Zechariah 4:14). There they were Zerubbabel the governor and Joshua the priest — king and priest. In Revelation lampstands are churches (1:20). The strongest reading is that the two witnesses represent the witnessing church — a kingdom of priests (1:6) — empowered by the Spirit. αἱ ἐνώπιον τοῦ κυρίου τῆς γῆς ἑστῶτες, “standing before the Lord of the earth” — γῆ, from the world family.",
+      "words": [
+        {
+          "strongs": "G1417",
+          "hebrew": "δύο",
+          "translit": "dýo",
+          "english": "two"
+        },
+        {
+          "strongs": "G1636",
+          "hebrew": "ἐλαία",
+          "translit": "elaía",
+          "english": "olive trees"
+        },
+        {
+          "strongs": "G3087",
+          "hebrew": "λυχνία",
+          "translit": "lychnía",
+          "english": "lamp stands"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "standing"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "If anyone desires to harm them, fire proceeds out of their mouth and devours their enemies. If anyone desires to harm them, he must be killed in this way.",
+      "understanding": "καὶ εἴ τις αὐτοὺς θέλει ἀδικῆσαι, πῦρ ἐκπορεύεται ἐκ τοῦ στόματος αὐτῶν καὶ κατεσθίει τοὺς ἐχθροὺς αὐτῶν, “If anyone desires to harm them, fire proceeds out of their mouth and devours their enemies” — like Elijah, who called down fire on the soldiers sent to arrest him; and like Jeremiah, to whom God said, ‘I will make my words in your mouth fire.’ Their weapon is their word. καὶ εἴ τις θελήσῃ αὐτοὺς ἀδικῆσαι, οὕτως δεῖ αὐτὸν ἀποκτανθῆναι, “If anyone desires to harm them, he must be killed in this way” — until their testimony is finished (v. 7), they cannot be stopped.",
+      "words": [
+        {
+          "strongs": "G2309",
+          "hebrew": "θέλω",
+          "translit": "thélō",
+          "english": "desires"
+        },
+        {
+          "strongs": "G91",
+          "hebrew": "ἀδικέω",
+          "translit": "adikéō",
+          "english": "harm"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G1607",
+          "hebrew": "ἐκπορεύομαι",
+          "translit": "ekporeúomai",
+          "english": "proceeds"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G2719",
+          "hebrew": "κατεσθίω",
+          "translit": "katesthíō",
+          "english": "devours"
+        },
+        {
+          "strongs": "G2190",
+          "hebrew": "ἐχθρός",
+          "translit": "echthrós",
+          "english": "enemies"
+        },
+        {
+          "strongs": "G1163",
+          "hebrew": "δεῖ",
+          "translit": "deî",
+          "english": "must"
+        },
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "killed"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "These have the power to shut up the sky, that it may not rain during the days of their prophecy. They have power over the waters, to turn them into blood, and to strike the earth with every plague, as often as they desire.",
+      "understanding": "οὗτοι ἔχουσιν τὴν ἐξουσίαν κλεῖσαι τὸν οὐρανόν, ἵνα μὴ ὑετὸς βρέχῃ τὰς ἡμέρας τῆς προφητείας αὐτῶν, “These have the power to shut up the sky, that it may not rain during the days of their prophecy” — ἐξουσία, from the power family: delegated authority; ἡμέρα, from the time family. Elijah shut the sky for three and a half years (Luke 4:25; James 5:17). καὶ ἐξουσίαν ἔχουσιν ἐπὶ τῶν ὑδάτων στρέφειν αὐτὰ εἰς αἷμα, “They have power over the waters, to turn them into blood” — ἐξουσία again; Moses turned the Nile to blood. καὶ πατάξαι τὴν γῆν ἐν πάσῃ πληγῇ, “and to strike the earth with every plague” — γῆ, from the world family. The witnesses minister in the power of Moses and Elijah, the Law and the Prophets, who appeared with Jesus on the mountain.",
+      "words": [
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "have"
+        },
+        {
+          "strongs": "G1849",
+          "hebrew": "ἐξουσία",
+          "translit": "exousía",
+          "english": "power"
+        },
+        {
+          "strongs": "G2808",
+          "hebrew": "κλείω",
+          "translit": "kleíō",
+          "english": "shut up"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        },
+        {
+          "strongs": "G1026",
+          "hebrew": "βρέχω",
+          "translit": "bréchō",
+          "english": "rain"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G4394",
+          "hebrew": "προφητεία",
+          "translit": "prophēteía",
+          "english": "prophecy"
+        },
+        {
+          "strongs": "G5204",
+          "hebrew": "ὕδωρ",
+          "translit": "hýdōr",
+          "english": "waters"
+        },
+        {
+          "strongs": "G4762",
+          "hebrew": "στρέφω",
+          "translit": "stréphō",
+          "english": "turn"
+        },
+        {
+          "strongs": "G129",
+          "hebrew": "αἷμα",
+          "translit": "haîma",
+          "english": "blood"
+        },
+        {
+          "strongs": "G3960",
+          "hebrew": "πατάσσω",
+          "translit": "patássō",
+          "english": "strike"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plague"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "When they have finished their testimony, the beast that comes up out of the abyss will make war with them, and overcome them, and kill them.",
+      "understanding": "καὶ ὅταν τελέσωσιν τὴν μαρτυρίαν αὐτῶν, “When they have finished their testimony” — τελέω, from the perfect family: to complete; μαρτυρία, from the witness family. They cannot be killed until their task is done. τὸ θηρίον τὸ ἀναβαῖνον ἐκ τῆς ἀβύσσου, “the beast that comes up out of the abyss” — the first mention of θηρίον, the wild beast, introduced as if already known (ch. 13; Daniel 7). ποιήσει μετ᾽ αὐτῶν πόλεμον καὶ νικήσει αὐτοὺς καὶ ἀποκτενεῖ αὐτούς, “will make war with them, and overcome them, and kill them” — νικάω: the beast ‘overcomes’ them as the world overcame Jesus at the cross — and like Him, they will rise.",
+      "words": [
+        {
+          "strongs": "G5055",
+          "hebrew": "τελέω",
+          "translit": "teléō",
+          "english": "finished"
+        },
+        {
+          "strongs": "G3141",
+          "hebrew": "μαρτυρία",
+          "translit": "martyría",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "beast"
+        },
+        {
+          "strongs": "G305",
+          "hebrew": "ἀναβαίνω",
+          "translit": "anabaínō",
+          "english": "comes up"
+        },
+        {
+          "strongs": "G12",
+          "hebrew": "ἄβυσσος",
+          "translit": "ábyssos",
+          "english": "abyss"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "make"
+        },
+        {
+          "strongs": "G4171",
+          "hebrew": "πόλεμος",
+          "translit": "pólemos",
+          "english": "war"
+        },
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcome"
+        },
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "kill"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "Their dead bodies will be in the street of the great city, which spiritually is called Sodom and Egypt, where also their Lord was crucified.",
+      "understanding": "καὶ τὸ πτῶμα αὐτῶν ἐπὶ τῆς πλατείας τῆς πόλεως τῆς μεγάλης, “Their dead bodies will be in the street of the great city” — πτῶμα, a corpse: left unburied, the worst dishonour. In Revelation ‘the great city’ is Babylon (16:19; 17:18). ἥτις καλεῖται πνευματικῶς Σόδομα καὶ Αἴγυπτος, “which spiritually is called Sodom and Egypt” — πνευματικῶς: not literally, but by its spiritual character — immoral like Sodom, oppressive like Egypt. ὅπου καὶ ὁ κύριος αὐτῶν ἐσταυρώθη, “where also their Lord was crucified” — Jerusalem, which killed the prophets (Luke 13:34). The great city is every city of man that sets itself against God: Jerusalem, Rome, and every Babylon since.",
+      "words": [
+        {
+          "strongs": "G4430",
+          "hebrew": "πτῶμα",
+          "translit": "ptōma",
+          "english": "dead bodies"
+        },
+        {
+          "strongs": "G4113",
+          "hebrew": "πλατεῖα",
+          "translit": "plateîa",
+          "english": "street"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G4153",
+          "hebrew": "πνευματικῶς",
+          "translit": "pneumatikōs",
+          "english": "spiritually"
+        },
+        {
+          "strongs": "G4670",
+          "hebrew": "Σόδομα",
+          "translit": "Sódoma",
+          "english": "Sodom"
+        },
+        {
+          "strongs": "G125",
+          "hebrew": "Αἴγυπτος",
+          "translit": "Aígyptos",
+          "english": "Egypt"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G4717",
+          "hebrew": "σταυρόω",
+          "translit": "stauróō",
+          "english": "crucified"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "From among the peoples, tribes, languages, and nations people will look at their dead bodies for three and a half days, and will not allow their dead bodies to be laid in a tomb.",
+      "understanding": "καὶ βλέπουσιν ἐκ τῶν λαῶν καὶ φυλῶν καὶ γλωσσῶν καὶ ἐθνῶν τὸ πτῶμα αὐτῶν, “From among the peoples, tribes, languages, and nations people will look at their dead bodies” — βλέπω, from the see family: the whole world stares. ἡμέρας τρεῖς καὶ ἥμισυ, “for three and a half days” — ἡμέρα, from the time family: a short time, compared with the three and a half years of their witness. καὶ τὰ πτώματα αὐτῶν οὐκ ἀφίουσιν τεθῆναι εἰς μνῆμα, “and will not allow their dead bodies to be laid in a tomb” — contempt even in death.",
+      "words": [
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "peoples"
+        },
+        {
+          "strongs": "G5443",
+          "hebrew": "φυλή",
+          "translit": "phylḗ",
+          "english": "tribes"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "languages"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G991",
+          "hebrew": "βλέπω",
+          "translit": "blépō",
+          "english": "look"
+        },
+        {
+          "strongs": "G4430",
+          "hebrew": "πτῶμα",
+          "translit": "ptōma",
+          "english": "dead bodies"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G5140",
+          "hebrew": "τρεῖς",
+          "translit": "treîs",
+          "english": "three"
+        },
+        {
+          "strongs": "G2255",
+          "hebrew": "ἥμισυ",
+          "translit": "hḗmisy",
+          "english": "half"
+        },
+        {
+          "strongs": "G863",
+          "hebrew": "ἀφίημι",
+          "translit": "aphíēmi",
+          "english": "allow"
+        },
+        {
+          "strongs": "G3418",
+          "hebrew": "μνῆμα",
+          "translit": "mnēma",
+          "english": "tomb"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "Those who dwell on the earth rejoice over them, and they will be glad. They will give gifts to one another, because these two prophets tormented those who dwell on the earth.",
+      "understanding": "καὶ οἱ κατοικοῦντες ἐπὶ τῆς γῆς χαίρουσιν ἐπ᾽ αὐτοῖς καὶ εὐφραίνονται, “Those who dwell on the earth rejoice over them, and they will be glad” — γῆ, from the world family: the earth-dwellers. A grim parody of Christmas: καὶ δῶρα πέμψουσιν ἀλλήλοις, “They will give gifts to one another” — δῶρον, from the gift family and the offering family: a present, and in worship an offering. ὅτι οὗτοι οἱ δύο προφῆται ἐβασάνισαν τοὺς κατοικοῦντας ἐπὶ τῆς γῆς, “because these two prophets tormented those who dwell on the earth” — βασανίζω: the truth torments those who refuse it.",
+      "words": [
+        {
+          "strongs": "G2730",
+          "hebrew": "κατοικέω",
+          "translit": "katoikéō",
+          "english": "dwell"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G5463",
+          "hebrew": "χαίρω",
+          "translit": "chaírō",
+          "english": "rejoice"
+        },
+        {
+          "strongs": "G2165",
+          "hebrew": "εὐφραίνω",
+          "translit": "euphraínō",
+          "english": "glad"
+        },
+        {
+          "strongs": "G1435",
+          "hebrew": "δῶρον",
+          "translit": "dōron",
+          "english": "gifts"
+        },
+        {
+          "strongs": "G3992",
+          "hebrew": "πέμπω",
+          "translit": "pémpō",
+          "english": "give"
+        },
+        {
+          "strongs": "G1417",
+          "hebrew": "δύο",
+          "translit": "dýo",
+          "english": "two"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G928",
+          "hebrew": "βασανίζω",
+          "translit": "basanízō",
+          "english": "tormented"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "After the three and a half days, the breath of life from God entered into them, and they stood on their feet. Great fear fell on those who saw them.",
+      "understanding": "καὶ μετὰ τὰς τρεῖς ἡμέρας καὶ ἥμισυ, “After the three and a half days” — ἡμέρα, from the time family. πνεῦμα ζωῆς ἐκ τοῦ θεοῦ εἰσῆλθεν ἐν αὐτοῖς, “the breath of life from God entered into them” — ζωή, from the life family; πνεῦμα, breath or spirit: Ezekiel's valley of dry bones, where God's breath came into the dead and they stood up. καὶ ἔστησαν ἐπὶ τοὺς πόδας αὐτῶν, “and they stood on their feet” — καὶ φόβος μέγας ἐπέπεσεν ἐπὶ τοὺς θεωροῦντας αὐτούς, “Great fear fell on those who saw them” — θεωρέω, from the see family: to gaze, to watch intently, as a spectator.",
+      "words": [
+        {
+          "strongs": "G5140",
+          "hebrew": "τρεῖς",
+          "translit": "treîs",
+          "english": "three"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G2255",
+          "hebrew": "ἥμισυ",
+          "translit": "hḗmisy",
+          "english": "half"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "breath"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "entered"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "stood"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        },
+        {
+          "strongs": "G5401",
+          "hebrew": "φόβος",
+          "translit": "phóbos",
+          "english": "fear"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "Great"
+        },
+        {
+          "strongs": "G1968",
+          "hebrew": "ἐπιπίπτω",
+          "translit": "epipíptō",
+          "english": "fell"
+        },
+        {
+          "strongs": "G2334",
+          "hebrew": "θεωρέω",
+          "translit": "theōréō",
+          "english": "saw"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "I heard a loud voice from heaven saying to them, “Come up here!” They went up into heaven in the cloud, and their enemies saw them.",
+      "understanding": "καὶ ἤκουσαν φωνῆς μεγάλης ἐκ τοῦ οὐρανοῦ λεγούσης αὐτοῖς· Ἀνάβατε ὧδε, “I heard a loud voice from heaven saying to them, ‘Come up here!’” — the words spoken to John (4:1). καὶ ἀνέβησαν εἰς τὸν οὐρανὸν ἐν τῇ νεφέλῃ, “They went up into heaven in the cloud” — like Elijah in the whirlwind, and like Jesus at His ascension (Acts 1:9). καὶ ἐθεώρησαν αὐτοὺς οἱ ἐχθροὶ αὐτῶν, “and their enemies saw them” — θεωρέω, from the see family: the witnesses are publicly vindicated. The path of the witnessing church is the path of its Lord: witness, death, resurrection, ascension.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "loud"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G305",
+          "hebrew": "ἀναβαίνω",
+          "translit": "anabaínō",
+          "english": "Come up"
+        },
+        {
+          "strongs": "G3507",
+          "hebrew": "νεφέλη",
+          "translit": "nephélē",
+          "english": "cloud"
+        },
+        {
+          "strongs": "G2190",
+          "hebrew": "ἐχθρός",
+          "translit": "echthrós",
+          "english": "enemies"
+        },
+        {
+          "strongs": "G2334",
+          "hebrew": "θεωρέω",
+          "translit": "theōréō",
+          "english": "saw"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "In that day there was a great earthquake, and a tenth of the city fell. Seven thousand people were killed in the earthquake, and the rest were terrified, and gave glory to the God of heaven.",
+      "understanding": "Καὶ ἐν ἐκείνῃ τῇ ὥρᾳ ἐγένετο σεισμὸς μέγας, “In that day there was a great earthquake” — ὥρα, from the time family: literally ‘in that hour’, though the WEB renders it ‘day’. καὶ τὸ δέκατον τῆς πόλεως ἔπεσεν, καὶ ἀπεκτάνθησαν ἐν τῷ σεισμῷ ὀνόματα ἀνθρώπων χιλιάδες ἑπτά, “and a tenth of the city fell. Seven thousand people were killed in the earthquake” — a tenth and seven thousand: limited judgement. καὶ οἱ λοιποὶ ἔμφοβοι ἐγένοντο καὶ ἔδωκαν δόξαν τῷ θεῷ τοῦ οὐρανοῦ, “and the rest were terrified, and gave glory to the God of heaven” — the reverse of 9:20: the plagues brought no repentance, but the witness, death and resurrection of the prophets does. In Elijah's day God kept seven thousand faithful; here nine-tenths turn to give God glory.",
+      "words": [
+        {
+          "strongs": "G5610",
+          "hebrew": "ὥρα",
+          "translit": "hṓra",
+          "english": "day"
+        },
+        {
+          "strongs": "G4578",
+          "hebrew": "σεισμός",
+          "translit": "seismós",
+          "english": "earthquake"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G1182",
+          "hebrew": "δέκατος",
+          "translit": "dékatos",
+          "english": "tenth"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell"
+        },
+        {
+          "strongs": "G2033",
+          "hebrew": "ἑπτά",
+          "translit": "heptá",
+          "english": "Seven"
+        },
+        {
+          "strongs": "G5505",
+          "hebrew": "χιλιάς",
+          "translit": "chiliás",
+          "english": "thousand"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "people"
+        },
+        {
+          "strongs": "G615",
+          "hebrew": "ἀποκτείνω",
+          "translit": "apokteínō",
+          "english": "killed"
+        },
+        {
+          "strongs": "G3062",
+          "hebrew": "λοιποί",
+          "translit": "loipoí",
+          "english": "rest"
+        },
+        {
+          "strongs": "G1719",
+          "hebrew": "ἔμφοβος",
+          "translit": "émphobos",
+          "english": "terrified"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "The second woe is past. Behold, the third woe comes quickly.",
+      "understanding": "Ἡ οὐαὶ ἡ δευτέρα ἀπῆλθεν, “The second woe is past” — οὐαί: the sixth trumpet (9:13–11:13). ἰδοὺ ἡ οὐαὶ ἡ τρίτη ἔρχεται ταχύ, “Behold, the third woe comes quickly” — ταχύ: the seventh trumpet, which brings the end.",
+      "words": [
+        {
+          "strongs": "G1208",
+          "hebrew": "δεύτερος",
+          "translit": "deúteros",
+          "english": "second"
+        },
+        {
+          "strongs": "G3759",
+          "hebrew": "οὐαί",
+          "translit": "ouaí",
+          "english": "woe"
+        },
+        {
+          "strongs": "G565",
+          "hebrew": "ἀπέρχομαι",
+          "translit": "apérchomai",
+          "english": "past"
+        },
+        {
+          "strongs": "G5154",
+          "hebrew": "τρίτος",
+          "translit": "trítos",
+          "english": "third"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "comes"
+        },
+        {
+          "strongs": "G5035",
+          "hebrew": "ταχύ",
+          "translit": "tachý",
+          "english": "quickly"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "The seventh angel sounded, and great voices in heaven followed, saying, “The kingdom of the world has become the Kingdom of our Lord, and of his Christ. He will reign forever and ever!”",
+      "understanding": "Καὶ ὁ ἕβδομος ἄγγελος ἐσάλπισεν, “The seventh angel sounded” — σαλπίζω: the last trumpet (1 Corinthians 15:52). καὶ ἐγένοντο φωναὶ μεγάλαι ἐν τῷ οὐρανῷ, “and great voices in heaven followed” — not a new plague but a song. Ἐγένετο ἡ βασιλεία τοῦ κόσμου τοῦ κυρίου ἡμῶν καὶ τοῦ χριστοῦ αὐτοῦ, “The kingdom of the world has become the Kingdom of our Lord, and of his Christ” — κόσμος, from the world family: the whole ordered system of human life, now under new ownership; βασιλεία, singular: one kingdom. Psalm 2's ‘the LORD and his Anointed’. καὶ βασιλεύσει εἰς τοὺς αἰῶνας τῶν αἰώνων, “He will reign forever and ever!” — βασιλεύω, to rule; αἰών, from the time family and the world family. Handel set this verse in the Hallelujah Chorus.",
+      "words": [
+        {
+          "strongs": "G1442",
+          "hebrew": "ἕβδομος",
+          "translit": "hébdomos",
+          "english": "seventh"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G4537",
+          "hebrew": "σαλπίζω",
+          "translit": "salpízō",
+          "english": "sounded"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voices"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G932",
+          "hebrew": "βασιλεία",
+          "translit": "basileía",
+          "english": "kingdom"
+        },
+        {
+          "strongs": "G2889",
+          "hebrew": "κόσμος",
+          "translit": "kósmos",
+          "english": "world"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G5547",
+          "hebrew": "Χριστός",
+          "translit": "Christós",
+          "english": "Christ"
+        },
+        {
+          "strongs": "G936",
+          "hebrew": "βασιλεύω",
+          "translit": "basileúō",
+          "english": "reign"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "The twenty-four elders, who sit on their thrones before God’s throne, fell on their faces and worshiped God,",
+      "understanding": "καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι οἱ ἐνώπιον τοῦ θεοῦ καθήμενοι ἐπὶ τοὺς θρόνους αὐτῶν, “The twenty-four elders, who sit on their thrones before God’s throne” — πρεσβύτερος. ἔπεσαν ἐπὶ τὰ πρόσωπα αὐτῶν καὶ προσεκύνησαν τῷ θεῷ, “fell on their faces and worshiped God” — προσκυνέω: the response to God's reign is worship.",
+      "words": [
+        {
+          "strongs": "G4245",
+          "hebrew": "πρεσβύτερος",
+          "translit": "presbýteros",
+          "english": "elders"
+        },
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sit"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "thrones"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God’s"
+        },
+        {
+          "strongs": "G4098",
+          "hebrew": "πίπτω",
+          "translit": "píptō",
+          "english": "fell"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "faces"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worshiped"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "saying: “We give you thanks, Lord God, the Almighty, the one who is and who was; because you have taken your great power, and reigned.",
+      "understanding": "λέγοντες· Εὐχαριστοῦμέν σοι, κύριε ὁ θεὸς ὁ παντοκράτωρ, “saying: ‘We give you thanks, Lord God, the Almighty’” — εὐχαριστέω, from the pray family: to give thanks. ὁ ὢν καὶ ὁ ἦν, “the one who is and who was” — the title of 1:4 and 4:8, but now without ‘and who is to come’: He has come. ὅτι εἴληφας τὴν δύναμίν σου τὴν μεγάλην καὶ ἐβασίλευσας, “because you have taken your great power, and reigned” — δύναμις, from the power family: inherent might; βασιλεύω, aorist: You have begun to reign.",
+      "words": [
+        {
+          "strongs": "G2168",
+          "hebrew": "εὐχαριστέω",
+          "translit": "eucharistéō",
+          "english": "give thanks"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3841",
+          "hebrew": "παντοκράτωρ",
+          "translit": "pantokrátōr",
+          "english": "Almighty"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "taken"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G936",
+          "hebrew": "βασιλεύω",
+          "translit": "basileúō",
+          "english": "reigned"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "The nations were angry, and your wrath came, as did the time for the dead to be judged, and to give your bondservants the prophets, their reward, as well as to the saints, and those who fear your name, to the small and the great; and to destroy those who destroy the earth.”",
+      "understanding": "καὶ τὰ ἔθνη ὠργίσθησαν, καὶ ἦλθεν ἡ ὀργή σου, “The nations were angry, and your wrath came” — ὀργίζω and ὀργή, two members of the wrath family set side by side: the nations' rage (Psalm 2) met by God's settled, just wrath. καὶ ὁ καιρὸς τῶν νεκρῶν κριθῆναι, “as did the time for the dead to be judged” — καιρός, from the time family: the decisive appointed season; κρίνω, from the judge family. καὶ δοῦναι τὸν μισθὸν τοῖς δούλοις σου τοῖς προφήταις καὶ τοῖς ἁγίοις καὶ τοῖς φοβουμένοις τὸ ὄνομά σου, “and to give your bondservants the prophets, their reward, as well as to the saints, and those who fear your name” — δοῦλος, from the servant family; μισθός, wages, reward. καὶ διαφθεῖραι τοὺς διαφθείροντας τὴν γῆν, “and to destroy those who destroy the earth” — διαφθείρω twice: God's judgement fits the crime; γῆ, from the world family. God cares for His creation. ἅγιος is from the holy family — holy, set apart for God; as a noun, the saints — God’s holy people.",
+      "words": [
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G3710",
+          "hebrew": "ὀργίζω",
+          "translit": "orgízō",
+          "english": "angry"
+        },
+        {
+          "strongs": "G3709",
+          "hebrew": "ὀργή",
+          "translit": "orgḗ",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "came"
+        },
+        {
+          "strongs": "G2540",
+          "hebrew": "καιρός",
+          "translit": "kairós",
+          "english": "time"
+        },
+        {
+          "strongs": "G3498",
+          "hebrew": "νεκρός",
+          "translit": "nekrós",
+          "english": "dead"
+        },
+        {
+          "strongs": "G2919",
+          "hebrew": "κρίνω",
+          "translit": "krínō",
+          "english": "judged"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "bondservants"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        },
+        {
+          "strongs": "G3408",
+          "hebrew": "μισθός",
+          "translit": "misthós",
+          "english": "reward"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "saints"
+        },
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "fear"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G3398",
+          "hebrew": "μικρός",
+          "translit": "mikrós",
+          "english": "small"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G1311",
+          "hebrew": "διαφθείρω",
+          "translit": "diaphtheírō",
+          "english": "destroy"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "God’s temple that is in heaven was opened, and the ark of the Lord’s covenant was seen in his temple. Lightnings, sounds, thunders, an earthquake, and great hail followed.",
+      "understanding": "καὶ ἠνοίγη ὁ ναὸς τοῦ θεοῦ ὁ ἐν τῷ οὐρανῷ, “God’s temple that is in heaven was opened” — ναός: the inner sanctuary, once closed to all but the high priest once a year, is opened. καὶ ὤφθη ἡ κιβωτὸς τῆς διαθήκης αὐτοῦ ἐν τῷ ναῷ αὐτοῦ, “and the ark of the Lord’s covenant was seen in his temple” — ὁράω, from the see family; κιβωτός, the ark, lost when Babylon destroyed Jerusalem; διαθήκη, covenant. God's covenant faithfulness is on display. καὶ ἐγένοντο ἀστραπαὶ καὶ φωναὶ καὶ βρονταὶ καὶ σεισμὸς καὶ χάλαζα μεγάλη, “Lightnings, sounds, thunders, an earthquake, and great hail followed” — the throne-storm of 4:5, growing again (8:5; 16:18–21).",
+      "words": [
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God’s"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "opened"
+        },
+        {
+          "strongs": "G2787",
+          "hebrew": "κιβωτός",
+          "translit": "kibōtós",
+          "english": "ark"
+        },
+        {
+          "strongs": "G1242",
+          "hebrew": "διαθήκη",
+          "translit": "diathḗkē",
+          "english": "covenant"
+        },
+        {
+          "strongs": "G3708",
+          "hebrew": "ὁράω",
+          "translit": "horáō",
+          "english": "seen"
+        },
+        {
+          "strongs": "G796",
+          "hebrew": "ἀστραπή",
+          "translit": "astrapḗ",
+          "english": "Lightnings"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "sounds"
+        },
+        {
+          "strongs": "G1027",
+          "hebrew": "βροντή",
+          "translit": "brontḗ",
+          "english": "thunders"
+        },
+        {
+          "strongs": "G4578",
+          "hebrew": "σεισμός",
+          "translit": "seismós",
+          "english": "earthquake"
+        },
+        {
+          "strongs": "G5464",
+          "hebrew": "χάλαζα",
+          "translit": "chálaza",
+          "english": "hail"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Measured and Protected",
+      "verseRef": "v. 1-2",
+      "image": "Picture John walking through a temple with a long measuring reed, carefully measuring the sanctuary, the altar and each worshipper. Outside, in the open court, crowds of soldiers trample through. But the measured ones inside are marked and kept.",
+      "meaning": "“Rise, and measure God’s temple, and the altar, and those who worship in it. Leave out the court which is outside of the temple... They will tread the holy city under foot for forty-two months” (vv. 1–2). God's people may be trampled outwardly, but He knows and protects every true worshipper."
+    },
+    {
+      "title": "Two Lampstands in Sackcloth",
+      "verseRef": "v. 3-6",
+      "image": "Picture two prophets in rough black sackcloth standing in the streets of a hostile city, speaking God's word day after day. Fire comes from their mouths when enemies attack; the sky locks shut at their word; but they keep speaking, like two lamps burning in the night.",
+      "meaning": "“I will give power to my two witnesses, and they will prophesy one thousand two hundred sixty days, clothed in sackcloth” (v. 3). “These are the two olive trees and the two lamp stands” (v. 4). The church's calling is to bear witness, humbly and powerfully, until its task is done."
+    },
+    {
+      "title": "Three and a Half Days",
+      "verseRef": "v. 7-12",
+      "image": "Picture the two witnesses lying dead in the street, the world gathered round on screens and in crowds, celebrating, sending each other presents. Then on the fourth morning the bodies stir — breath enters them — they stand up — and a voice from heaven calls, ‘Come up here!’ and they rise into the cloud as their enemies watch.",
+      "meaning": "“After the three and a half days, the breath of life from God entered into them, and they stood on their feet” (v. 11). The world's apparent victory over God's witnesses is brief. Like their Lord, they die, rise and ascend."
+    },
+    {
+      "title": "The Last Trumpet",
+      "verseRef": "v. 15-19",
+      "image": "Picture the seventh angel lifting the trumpet to his lips. The whole universe waits for the final blast of judgement — and instead, heaven bursts into song: the kingdom of the world has become the kingdom of our Lord. The temple in heaven swings open, and there is the ark of His covenant.",
+      "meaning": "“The kingdom of the world has become the Kingdom of our Lord, and of his Christ. He will reign forever and ever!” (v. 15). The end of history is not chaos but coronation. God keeps His covenant."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Temple Measured (v. 1-2)",
+        "body": "John is given a measuring rod and told to measure the temple of God, the altar and the worshippers, but to leave out the outer court, which is given to the nations, who will trample the holy city for forty-two months."
+      },
+      {
+        "label": "The Two Witnesses (v. 3-6)",
+        "body": "God's two witnesses, clothed in sackcloth, will prophesy for 1,260 days; they are the two olive trees and two lampstands before the Lord; fire from their mouths consumes their enemies; they can shut the sky, turn water to blood and strike the earth with plagues."
+      },
+      {
+        "label": "Death, Resurrection and Ascension (v. 7-14)",
+        "body": "When their testimony is finished, the beast from the abyss kills them, and their bodies lie in the street of the great city, spiritually called Sodom and Egypt, where their Lord was crucified; the world gloats for three and a half days; then God's breath enters them, they stand up and ascend to heaven in a cloud; a great earthquake strikes the city, and the survivors give glory to God; the second woe is past."
+      },
+      {
+        "label": "The Seventh Trumpet (v. 15-19)",
+        "body": "The seventh trumpet sounds, and heaven proclaims that the kingdom of the world has become the kingdom of our Lord and His Christ; the elders give thanks that God has taken His power and begun to reign, that the time has come to judge the dead and reward His servants; God's temple in heaven is opened, the ark of the covenant is seen, and the storm of the throne breaks out."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Measuring the Temple",
+        "paragraphs": [
+          "Chapter 11 continues the interlude between the sixth and seventh trumpets. John is given a reed and told, “Rise, and measure God’s temple, and the altar, and those who worship in it” (v. 1). In Ezekiel 40–48 and Zechariah 2, measuring a temple or city marks it as belonging to God and under His protection. Here the worshippers themselves are measured.",
+          "But the outer court is not to be measured, “for it has been given to the nations. They will tread the holy city under foot for forty-two months” (v. 2). Some read this literally, of a temple rebuilt in Jerusalem in the last days. The strongest reading, in a book where the temple is God's people (3:12) and in a New Testament that calls the church God's temple (“Don’t you know that you are a temple of God, and that God’s Spirit lives in you?” 1 Corinthians 3:16), is that God's people are spiritually protected (the inner sanctuary) while outwardly exposed to persecution (the outer court).",
+          "The period — forty-two months, or 1,260 days (v. 3), or ‘a time, and times, and half a time’ (12:14) — comes from Daniel, where it is the time of the oppressor's power over God's people. All three expressions equal three and a half years: a broken seven, a limited time of trouble. Many readers see it as a literal final period; many others as a picture of the whole time between Christ's ascension and return, when the church bears witness under pressure."
+        ]
+      },
+      {
+        "heading": "The Two Witnesses",
+        "paragraphs": [
+          "God says, “I will give power to my two witnesses, and they will prophesy one thousand two hundred sixty days, clothed in sackcloth” (v. 3). Who are they? Some think they are two individual prophets who will appear before Christ's return — perhaps Moses and Elijah (whose miracles they repeat, v. 6), or Enoch and Elijah (who never died). Others think they represent the witnessing church.",
+          "Several things point to the second reading. They are called “the two olive trees and the two lamp stands” (v. 4), and Revelation has already told us that lampstands are churches (1:20). There are two because the Law required two witnesses for valid testimony. They minister for exactly the same period as the trampling of the holy city — the time of the church's existence in a hostile world. The whole world sees their bodies (v. 9). And they follow the exact path of Jesus: witness, rejection, death in the great city, resurrection after three days, ascension in a cloud. The church is the body of Christ, and its story mirrors His.",
+          "Their power is the power of Moses and Elijah: fire from their mouths (God's word), the sky shut, water turned to blood (vv. 5–6). They are invincible until “they have finished their testimony” (v. 7). God's witnesses cannot be silenced until God's purpose for them is complete."
+        ]
+      },
+      {
+        "heading": "Killed, Raised, Vindicated",
+        "paragraphs": [
+          "When their testimony is finished, “the beast that comes up out of the abyss will make war with them, and overcome them, and kill them” (v. 7). Their bodies lie unburied “in the street of the great city, which spiritually is called Sodom and Egypt, where also their Lord was crucified” (v. 8). The great city is Jerusalem, which killed the prophets and crucified its Lord; but it is also Sodom (immorality) and Egypt (oppression), and later Babylon (17:18). It is the city of man in rebellion against God, wherever it is found.",
+          "The world celebrates: “Those who dwell on the earth rejoice over them, and they will be glad. They will give gifts to one another, because these two prophets tormented those who dwell on the earth” (v. 10). The truth they spoke was torment to those who would not repent. Their death seems to prove the world right.",
+          "But “After the three and a half days, the breath of life from God entered into them, and they stood on their feet” (v. 11). They hear a voice, “Come up here!”, and ascend in a cloud while their enemies watch (v. 12). Then an earthquake strikes, and “the rest were terrified, and gave glory to the God of heaven” (v. 13). This is the turning point: where judgements alone produced no repentance (9:20–21), the costly witness and vindication of God's people does. The church's faithful suffering is God's way of winning the nations."
+        ]
+      },
+      {
+        "heading": "The Kingdom of Our Lord",
+        "paragraphs": [
+          "Then the seventh trumpet sounds — the last trumpet. We expect a final catastrophe; instead we hear a song: “The kingdom of the world has become the Kingdom of our Lord, and of his Christ. He will reign forever and ever!” (v. 15). The whole sweep of history is summed up in one sentence. The kingdom does not become God's by gradual improvement, but by His decisive act. Paul wrote, “For he must reign until he has put all his enemies under his feet” (1 Corinthians 15:25).",
+          "The elders give thanks to God “the one who is and who was” (v. 17) — the phrase ‘who is to come’ is gone, because He has come. They celebrate the end: “The nations were angry, and your wrath came, as did the time for the dead to be judged, and to give your bondservants the prophets, their reward, as well as to the saints, and those who fear your name, to the small and the great; and to destroy those who destroy the earth” (v. 18). Judgement and reward together; and God's care for the earth He made.",
+          "Finally God's temple in heaven is opened, and “the ark of the Lord’s covenant was seen in his temple” (v. 19). The ark, lost since the Babylonian conquest, symbolised God's presence and His covenant promises. Now it is seen: God has kept every promise. The seventh trumpet brings us to the end; the following chapters go back to show, from new angles, the conflict that leads there."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Witnesses to the Ends of the Earth",
+      "paragraphs": [
+        "Before His ascension, Jesus told His disciples, “But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth” (Acts 1:8). The two witnesses are that commission carried out in the face of opposition, empowered by the Spirit (the oil of the olive trees).",
+        "He warned, “Yes, and you will be brought before governors and kings for my sake, for a testimony to them and to the nations” (Matthew 10:18), and lamented, “Jerusalem, Jerusalem, that kills the prophets, and stones those who are sent to her!” (Luke 13:34) — the great city where their Lord was crucified.",
+        "He spoke of the trampling of Jerusalem “until the times of the Gentiles are fulfilled” (Luke 21:24), and of Elijah's ministry “when the sky was shut up three years and six months” (Luke 4:25). And Paul describes the end the seventh trumpet announces: “Then the end comes, when he will deliver up the Kingdom to God, even the Father; when he will have abolished all rule and all authority and power” (1 Corinthians 15:24)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Measure",
+      "hebrew": "μετρέω",
+      "translit": "metréō",
+      "strongs": "G3354 (reed κάλαμος, kálamos, G2563)",
+      "verses": "v. 1, 2; 21:15-17",
+      "insight": "Strong's: “to measure (i.e. ascertain in size by a fixed standard); by implication, to admeasure (i.e. allot by rule).” μετρέω means both to take measurements and to allot a portion. To measure something in the prophets is to claim it, mark its boundaries and set it apart. John measures the temple and its worshippers (11:1); at the end an angel measures the new Jerusalem with a golden reed (21:15–17). What God measures, He keeps."
+    },
+    {
+      "english": "Spiritually",
+      "hebrew": "πνευματικῶς",
+      "translit": "pneumatikōs",
+      "strongs": "G4153 (Sodom Σόδομα, Sódoma, G4670)",
+      "verses": "v. 8",
+      "insight": "Strong's: “non-physically, i.e. divinely, figuratively.” πνευματικῶς tells us how to read ‘the great city’: not by its map but by its character. It is ‘Sodom’ in its immorality and ‘Egypt’ in its oppression of God's people, and it is the place ‘where also their Lord was crucified’. This one word is a key to reading Revelation: its cities, beasts and numbers are to be understood spiritually — by what they reveal — not necessarily by literal geography."
+    },
+    {
+      "english": "Dead bodies",
+      "hebrew": "πτῶμα",
+      "translit": "ptōma",
+      "strongs": "G4430 (tomb μνῆμα, mnēma, G3418)",
+      "verses": "v. 8, 9",
+      "insight": "Strong's: “a ruin, i.e. (specially), lifeless body (corpse, carrion).” πτῶμα, from πίπτω (to fall), is a fallen body, a carcass. To leave a body unburied was the ultimate disgrace in the ancient world. The witnesses' enemies refuse them burial and gloat over them. Yet God's breath enters those corpses, and they stand. What the world treats as carrion, God raises to glory."
+    },
+    {
+      "english": "Reign",
+      "hebrew": "βασιλεύω",
+      "translit": "basileúō",
+      "strongs": "G936 (kingdom βασιλεία, basileía, G932)",
+      "verses": "v. 15, 17; 5:10; 20:4, 6; 22:5",
+      "insight": "Strong's: “to rule (literally or figuratively).” βασιλεύω, from βασιλεύς (king), is the verb of kingship. At the seventh trumpet, God ‘has taken his great power, and reigned’ (v. 17) — the aorist marks the moment His reign is openly established. And the promise of the book is that His people will reign with Him: ‘we will reign on the earth’ (5:10); ‘they will reign forever and ever’ (22:5). Those who suffer with the Lamb will reign with Him."
+    },
+    {
+      "english": "Ark",
+      "hebrew": "κιβωτός",
+      "translit": "kibōtós",
+      "strongs": "G2787 (covenant διαθήκη, diathḗkē, G1242)",
+      "verses": "v. 19",
+      "insight": "Strong's: “a box, i.e. the sacred ark and that of Noah.” κιβωτός is used of Noah's ark and of the ark of the covenant — both places of God's saving presence. The ark of the covenant held the tablets of the Law and was covered by the mercy seat, where blood was sprinkled on the Day of Atonement. It disappeared when Babylon destroyed the temple. Its appearance in heaven at the seventh trumpet declares that God's covenant faithfulness has never been lost."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit shows you the calling and destiny of the witnessing church.",
+    "items": [
+      {
+        "title": "You Are Measured",
+        "body": "John measures the temple and “those who worship in it” (v. 1). The Spirit wants you to know that God knows you by name and keeps you, even when the world tramples the outer court. Your outward circumstances may be hard, but your life is hidden with Christ in God."
+      },
+      {
+        "title": "Witness Until It Is Finished",
+        "body": "The two witnesses cannot be stopped until their work is done; only “When they have finished their testimony” (v. 7) can the beast touch them. The Spirit calls you to faithful witness, clothed in humility, empowered by His oil. You are immortal until your work is done. Do not be afraid."
+      },
+      {
+        "title": "The Kingdom Is Coming",
+        "body": "“The kingdom of the world has become the Kingdom of our Lord, and of his Christ” (v. 15). The Spirit lifts your eyes to the end of the story. Whatever kingdom seems to rule now — politics, money, culture, evil — it will become the kingdom of Christ. Live now as a citizen of that kingdom."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Witness Check",
+        "body": "Who in your life has heard your testimony about Jesus this year (v. 3)? Who has not?"
+      },
+      {
+        "title": "The Sackcloth Check",
+        "body": "Is your witness marked by humility and grief over sin, or by pride and anger (v. 3)?"
+      },
+      {
+        "title": "The Kingdom Check",
+        "body": "Which ‘kingdom of the world’ do you most look to for security — government, money, success, a person (v. 15)?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Two by Two",
+        "body": "Find one other believer and agree to be ‘two witnesses’ this month: pray together weekly for people you know who do not follow Jesus, and look for one opportunity each to share your faith."
+      },
+      {
+        "title": "Sing the Last Trumpet",
+        "body": "Listen to or sing a setting of Revelation 11:15 (such as the Hallelujah Chorus) this week. As you do, name three things in the world that make you anxious, and declare over each: ‘This will become the kingdom of our Lord and of His Christ.’"
+      }
+    ]
+  },
+  "prayerReflection": "“Lord God Almighty, You are, and You were, and You have come. Thank You that You measure and keep Your people, even when the world tramples the outer court. Make me a faithful witness, clothed in humility, filled with Your Spirit like an olive tree full of oil, shining like a lampstand. Let Your word be fire in my mouth. Give me courage to keep testifying until my work is done, and to trust You even if the world rejoices over my defeat. Thank You that the breath of life from You raised the witnesses, as it raised Jesus, and that it will raise me. I give You thanks that the kingdom of the world will become the kingdom of our Lord and of His Christ, and He will reign forever and ever. Reign in me now. Thank You that You keep Your covenant, and that You will judge the dead, reward Your servants, and destroy those who destroy Your earth. Amen.”",
+  "storyConnections": [
+    {
+      "title": "Elijah Shuts the Sky",
+      "ref": "1 Kings 17:1; 18:1-46",
+      "relatedVerses": "v. 5-6",
+      "summary": "Elijah stood before King Ahab and declared that there would be no dew or rain except at his word. For three and a half years the sky was shut. Then on Mount Carmel Elijah challenged the prophets of Baal; fire fell from heaven and consumed his sacrifice, and the people cried, ‘The LORD, he is God!’ Then he prayed, and rain came. The two witnesses minister in Elijah's power — shutting the sky, calling down fire — and like Elijah, they are finally taken up into heaven."
+    },
+    {
+      "title": "The Valley of Dry Bones",
+      "ref": "Ezekiel 37:1-14",
+      "relatedVerses": "v. 11",
+      "summary": "The Spirit set Ezekiel down in a valley full of dry bones and asked, ‘Can these bones live?’ At God's command Ezekiel prophesied, and the bones came together, covered with sinews and flesh. Then he prophesied to the breath, and breath came into them, and they stood on their feet, a vast army. God said this was the whole house of Israel, which He would raise from its graves. In Revelation 11 the same breath of life from God enters the dead witnesses, and they stand on their feet."
+    },
+    {
+      "title": "The Ascension of Jesus",
+      "ref": "Acts 1:6-11",
+      "relatedVerses": "v. 12",
+      "summary": "Forty days after His resurrection, Jesus told His disciples they would be His witnesses to the ends of the earth. Then He was taken up before their eyes, and a cloud received Him out of their sight. Two men in white said, “This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky” (Acts 1:11). The two witnesses follow the same path: after their witness, death and resurrection, they hear ‘Come up here!’ and go up in a cloud."
+    }
+  ]
+}

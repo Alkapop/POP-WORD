@@ -174,7 +174,8 @@
         "year",
         "tomorrow",
         "eternal",
-        "years"
+        "years",
+        "month"
       ],
       "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
@@ -267,6 +268,12 @@
           "sense": "A year — a count of years.",
           "anchor": "2 Peter 3:8",
           "en": "years"
+        },
+        {
+          "strongs": "G3376",
+          "sense": "A month.",
+          "anchor": "Revelation 9:15",
+          "en": "month"
         }
       ]
     },
@@ -629,6 +636,73 @@
           "sense": "An oracle — an utterance of God.",
           "anchor": "1 Peter 4:11",
           "en": "words"
+        }
+      ]
+    },
+    {
+      "id": "book",
+      "name": "Book & Scroll",
+      "lang": "Greek",
+      "english": [
+        "book",
+        "scroll"
+      ],
+      "intro": "English ‘book’ hides three related Greek words. βίβλος is a written volume, a record — ‘the book of life’ (Revelation 3:5) or ‘the book of the genealogy’ (Matthew 1:1); βιβλίον, its diminutive in form but normal in use, is a scroll or written document — the sealed scroll in the hand of God (Revelation 5:1); βιβλαρίδιον is a truly little scroll, the one John is told to eat (Revelation 10:2, 9–10). In the ancient world ‘books’ were rolls of papyrus or parchment, not bound pages.",
+      "members": [
+        {
+          "strongs": "G976",
+          "sense": "A book, a written volume or record — especially the book of life.",
+          "anchor": "Revelation 3:5",
+          "en": "book"
+        },
+        {
+          "strongs": "G975",
+          "sense": "A scroll, a written document; in Revelation the sealed scroll of God’s purposes.",
+          "anchor": "Revelation 1:11",
+          "en": "book"
+        },
+        {
+          "strongs": "G974",
+          "sense": "A little scroll.",
+          "anchor": "Revelation 10:2",
+          "en": "book"
+        }
+      ]
+    },
+    {
+      "id": "witness",
+      "name": "Witness & Testimony",
+      "lang": "Greek",
+      "english": [
+        "witness",
+        "testimony",
+        "testify"
+      ],
+      "intro": "English ‘witness’ and ‘testimony’ hide four Greek words from one root. μάρτυς is the person who bears witness — and because so many witnesses for Jesus died for it, the word became our ‘martyr’ (Revelation 2:13; 17:6); μαρτυρία is the testimony given, the content of the witness; μαρτύριον is testimony as evidence or proof, as in ‘the tabernacle of the testimony’; and μαρτυρέω is the verb, to testify. Revelation 1:2 and 1:5 put three of them together: John testified to the testimony of Jesus Christ, the faithful witness.",
+      "members": [
+        {
+          "strongs": "G3144",
+          "sense": "A witness — the person who testifies; by extension one who dies for the testimony, a martyr.",
+          "anchor": "Revelation 1:5",
+          "en": "witness"
+        },
+        {
+          "strongs": "G3141",
+          "sense": "Testimony — the evidence or witness that is given.",
+          "anchor": "Revelation 1:2",
+          "en": "testimony"
+        },
+        {
+          "strongs": "G3142",
+          "sense": "Testimony as evidence or proof; used of the Law kept in the tabernacle.",
+          "anchor": "Revelation 15:5",
+          "en": "testimony"
+        },
+        {
+          "strongs": "G3140",
+          "sense": "To testify, to bear witness.",
+          "anchor": "Revelation 1:2",
+          "en": "testified"
         }
       ]
     },
@@ -1340,11 +1414,98 @@
       ]
     },
     {
+      "id": "wrath",
+      "name": "Wrath & Anger",
+      "lang": "Greek",
+      "english": [
+        "wrath",
+        "anger",
+        "fierceness",
+        "angry"
+      ],
+      "intro": "English ‘wrath’ and ‘anger’ hide two Greek words. ὀργή is settled, purposeful anger — God’s steady, just opposition to evil, which ends in judgement (‘the wrath of the Lamb’, Revelation 6:16); θυμός is anger as passion, a boiling up, a hot outburst — the devil’s ‘great wrath’ (12:12) and the ‘wine of the wrath of God’ (14:10). Revelation 14:10, 16:19 and 19:15 put the two side by side: ‘the wine of the fierceness (θυμός) of his wrath (ὀργή)’ — God’s settled judgement poured out in full intensity.",
+      "members": [
+        {
+          "strongs": "G3709",
+          "sense": "Wrath — settled, purposeful anger against evil that leads to judgement.",
+          "anchor": "Revelation 6:16",
+          "en": "wrath"
+        },
+        {
+          "strongs": "G2372",
+          "sense": "Wrath as passion — anger that boils up and bursts out.",
+          "anchor": "Revelation 12:12",
+          "en": "wrath"
+        },
+        {
+          "strongs": "G3710",
+          "sense": "To be angry, to become enraged.",
+          "anchor": "Revelation 11:18",
+          "en": "angry"
+        }
+      ]
+    },
+    {
+      "id": "sword",
+      "name": "Sword",
+      "lang": "Greek",
+      "english": [
+        "sword"
+      ],
+      "intro": "English ‘sword’ hides two Greek weapons. μάχαιρα is the short sword or dagger, the soldier’s everyday weapon, and a picture of war and of the state’s power to punish (Romans 13:4; Revelation 6:4; 13:10); ῥομφαία is the long, broad sword, used in Revelation for the word that comes out of Christ’s mouth (1:16; 2:12; 19:15) and for death’s judgement (6:8). Hebrews 4:12 calls God’s word sharper than any two-edged μάχαιρα; Revelation shows it as Christ’s ῥομφαία.",
+      "members": [
+        {
+          "strongs": "G4501",
+          "sense": "A long, broad sword — in Revelation the sword of Christ’s mouth.",
+          "anchor": "Revelation 1:16",
+          "en": "sword"
+        },
+        {
+          "strongs": "G3162",
+          "sense": "A short sword or dagger — a picture of war and of judicial punishment.",
+          "anchor": "Revelation 6:4",
+          "en": "sword"
+        }
+      ]
+    },
+    {
+      "id": "judge",
+      "name": "Judge & Judgement",
+      "lang": "Greek",
+      "english": [
+        "judge",
+        "judgment",
+        "judged"
+      ],
+      "intro": "English ‘judgment’ hides two Greek nouns from one verb. κρίνω is to judge — to decide, try, condemn or vindicate; κρίσις is judgement as the act or process of judging, the trial (‘the hour of his judgment has come’, Revelation 14:7); κρίμα is judgement as the verdict or sentence passed (‘the judgment of the great prostitute’, 17:1). The martyrs cry for God to judge (6:10); in the end judgement is given to them (20:4).",
+      "members": [
+        {
+          "strongs": "G2919",
+          "sense": "To judge — to decide, try, condemn or vindicate.",
+          "anchor": "Revelation 6:10",
+          "en": "judge"
+        },
+        {
+          "strongs": "G2920",
+          "sense": "Judgement as an act or process — the trial, the hour of judging.",
+          "anchor": "Revelation 14:7",
+          "en": "judgment"
+        },
+        {
+          "strongs": "G2917",
+          "sense": "Judgement as the verdict or sentence passed.",
+          "anchor": "Revelation 17:1",
+          "en": "judgment"
+        }
+      ]
+    },
+    {
       "id": "darkness",
       "name": "Darkness",
       "lang": "Greek",
       "english": [
-        "darkness"
+        "darkness",
+        "darkened"
       ],
       "intro": "English ‘darkness’ hides several Greek words. σκοτία (John’s favourite) is the state of darkness, the absence of light, often moral and spiritual; σκότος is darkness as a realm or condition, the opposite of φῶς; ζόφος is the thick, murky gloom of the underworld (2 Peter 2:4); σκοτεινός is the adjective, ‘dark, full of darkness’. 1 John 1:5–6 uses σκοτία and σκότος in consecutive verses: in God there is no σκοτία at all, so those who walk in σκότος cannot have fellowship with Him.",
       "members": [
@@ -1371,6 +1532,18 @@
           "sense": "Dark, full of darkness.",
           "anchor": "Matthew 6:23",
           "en": "darkness"
+        },
+        {
+          "strongs": "G4654",
+          "sense": "To darken — to make or become dark.",
+          "anchor": "Revelation 8:12",
+          "en": "darkened"
+        },
+        {
+          "strongs": "G4656",
+          "sense": "To darken, to obscure — darkness spreading over something.",
+          "anchor": "Revelation 9:2",
+          "en": "darkened"
         }
       ]
     },
@@ -1544,6 +1717,37 @@
       ]
     },
     {
+      "id": "crown",
+      "name": "Crown",
+      "lang": "Greek",
+      "english": [
+        "crown",
+        "crowns",
+        "crowned"
+      ],
+      "intro": "English ‘crown’ hides two different Greek objects. στέφανος is a wreath or garland — the victor’s prize at the games, the festive garland, the honour given to one who has won or served faithfully; διάδημα (our ‘diadem’) is the band of royal authority, the crown of a king. Believers are promised στέφανοι, victory wreaths (2:10; James 1:12); the dragon and the beast claim διαδήματα (12:3; 13:1) — but on the head of the Rider called Faithful and True are ‘many’ διαδήματα (19:12). στεφανόω is the verb, to crown with a wreath.",
+      "members": [
+        {
+          "strongs": "G4735",
+          "sense": "A wreath or garland — the victor’s prize, a mark of honour and reward.",
+          "anchor": "Revelation 2:10",
+          "en": "crown"
+        },
+        {
+          "strongs": "G1238",
+          "sense": "A diadem — the royal band, the crown of a ruler’s authority.",
+          "anchor": "Revelation 19:12",
+          "en": "crowns"
+        },
+        {
+          "strongs": "G4737",
+          "sense": "To crown with a wreath of honour or victory.",
+          "anchor": "Hebrews 2:9",
+          "en": "crowned"
+        }
+      ]
+    },
+    {
       "id": "offering",
       "name": "Sacrifice, Offering & Gift",
       "lang": "Greek",
@@ -1695,6 +1899,36 @@
       ]
     },
     {
+      "id": "lamb",
+      "name": "Lamb",
+      "lang": "Greek",
+      "english": [
+        "lamb",
+        "lambs"
+      ],
+      "intro": "English ‘lamb’ hides three Greek words. ἀμνός is the sacrificial lamb of the Old Testament offerings — John the Baptist’s ‘Lamb of God, who takes away the sin of the world’ (John 1:29) and Peter’s ‘lamb without blemish or spot’ (1 Peter 1:19); ἀρήν is a young sheep, used by Jesus for His vulnerable disciples sent out ‘as lambs among wolves’ (Luke 10:3); ἀρνίον, in form a ‘little lamb’, is Revelation’s name for Christ — twenty-eight times, from the Lamb ‘standing, as though it had been slain’ (5:6) to the throne of God and of the Lamb (22:3). The slain Lamb is the conquering Lord.",
+      "members": [
+        {
+          "strongs": "G721",
+          "sense": "A lamb — Revelation’s title for Christ, the slain and risen Lamb on the throne.",
+          "anchor": "Revelation 5:6",
+          "en": "Lamb"
+        },
+        {
+          "strongs": "G286",
+          "sense": "A lamb, especially the sacrificial lamb.",
+          "anchor": "John 1:29",
+          "en": "Lamb"
+        },
+        {
+          "strongs": "G704",
+          "sense": "A lamb, a young sheep — vulnerable among wolves.",
+          "anchor": "Luke 10:3",
+          "en": "lambs"
+        }
+      ]
+    },
+    {
       "id": "godliness",
       "name": "Godliness & Ungodliness",
       "lang": "Greek",
@@ -1780,6 +2014,37 @@
           "sense": "Godly, devout — reverent towards God.",
           "anchor": "2 Peter 2:9",
           "en": "godly"
+        }
+      ]
+    },
+    {
+      "id": "holy",
+      "name": "Holy",
+      "lang": "Greek",
+      "english": [
+        "holy",
+        "Holy One",
+        "saints"
+      ],
+      "intro": "English ‘holy’ hides two Greek words. ἅγιος is ‘set apart’ — belonging to God, separate from the common and the unclean; it is the word for God’s holiness (‘Holy, holy, holy’, Revelation 4:8) and for His people, the ‘saints’ (holy ones); ἁγιάζω is its verb, to make or treat as holy. ὅσιος is holiness as devout, pious faithfulness — what is right and pleasing before God, fully true to His covenant; it is used of God in Revelation 15:4 and 16:5 (‘you only are holy’, ‘O Holy One’) and of the Messiah in Acts 2:27. ἅγιος stresses separation; ὅσιος stresses faithful rightness.",
+      "members": [
+        {
+          "strongs": "G40",
+          "sense": "Holy, set apart for God; as a noun, the saints — God’s holy people.",
+          "anchor": "Revelation 4:8",
+          "en": "Holy"
+        },
+        {
+          "strongs": "G3741",
+          "sense": "Holy in the sense of devout, faithful, pleasing to God; used of God Himself.",
+          "anchor": "Revelation 15:4",
+          "en": "holy"
+        },
+        {
+          "strongs": "G37",
+          "sense": "To make holy, to set apart for God, to treat as holy.",
+          "anchor": "Revelation 22:11",
+          "en": "holy"
         }
       ]
     },
@@ -2213,6 +2478,12 @@
           "sense": "A petition, a request — the thing asked for.",
           "anchor": "1 John 5:15",
           "en": "petitions"
+        },
+        {
+          "strongs": "G2168",
+          "sense": "To give thanks.",
+          "anchor": "Revelation 11:17",
+          "en": "thanks"
         }
       ]
     },

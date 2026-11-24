@@ -1,0 +1,924 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 10,
+  "chapterTitle": "The Mighty Angel and the Little Scroll",
+  "themeTitle": "“Sweet as Honey in My Mouth… My Stomach Was Made Bitter”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I saw a mighty angel coming down out of the sky, clothed with a cloud. A rainbow was on his head. His face was like the sun, and his feet like pillars of fire.",
+      "understanding": "Καὶ εἶδον ἄλλον ἄγγελον ἰσχυρὸν καταβαίνοντα ἐκ τοῦ οὐρανοῦ, “I saw a mighty angel coming down out of the sky” — εἴδω, from the see family (and the know family); ἰσχυρός, from the power family: strong, forceful. Another pause, like chapter 7, before the seventh trumpet. περιβεβλημένον νεφέλην, καὶ ἡ ἶρις ἐπὶ τὴν κεφαλὴν αὐτοῦ, “clothed with a cloud. A rainbow was on his head” — the cloud of God's presence and the rainbow of His throne (4:3). καὶ τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος, καὶ οἱ πόδες αὐτοῦ ὡς στῦλοι πυρός, “His face was like the sun, and his feet like pillars of fire” — his appearance reflects Christ's glory (1:15–16), and his feet recall the pillar of fire in the wilderness. Some think this angel is Christ Himself; but Revelation never calls Christ an angel, and he swears by God (v. 6). He is a mighty messenger who carries Christ's glory.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2478",
+          "hebrew": "ἰσχυρός",
+          "translit": "ischyrós",
+          "english": "mighty"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G2597",
+          "hebrew": "καταβαίνω",
+          "translit": "katabaínō",
+          "english": "coming down"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        },
+        {
+          "strongs": "G4016",
+          "hebrew": "περιβάλλω",
+          "translit": "peribállō",
+          "english": "clothed"
+        },
+        {
+          "strongs": "G3507",
+          "hebrew": "νεφέλη",
+          "translit": "nephélē",
+          "english": "cloud"
+        },
+        {
+          "strongs": "G2463",
+          "hebrew": "ἶρις",
+          "translit": "îris",
+          "english": "rainbow"
+        },
+        {
+          "strongs": "G2776",
+          "hebrew": "κεφαλή",
+          "translit": "kephalḗ",
+          "english": "head"
+        },
+        {
+          "strongs": "G4383",
+          "hebrew": "πρόσωπον",
+          "translit": "prósōpon",
+          "english": "face"
+        },
+        {
+          "strongs": "G2246",
+          "hebrew": "ἥλιος",
+          "translit": "hḗlios",
+          "english": "sun"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "feet"
+        },
+        {
+          "strongs": "G4769",
+          "hebrew": "στῦλος",
+          "translit": "stŷlos",
+          "english": "pillars"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "He had in his hand a little open book. He set his right foot on the sea, and his left on the land.",
+      "understanding": "καὶ ἔχων ἐν τῇ χειρὶ αὐτοῦ βιβλαρίδιον ἠνεῳγμένον, “He had in his hand a little open book” — βιβλαρίδιον, from the book family: a little scroll, as distinct from the great βιβλίον of chapter 5. It is open: its message is to be revealed and proclaimed. καὶ ἔθηκεν τὸν πόδα αὐτοῦ τὸν δεξιὸν ἐπὶ τῆς θαλάσσης, τὸν δὲ εὐώνυμον ἐπὶ τῆς γῆς, “He set his right foot on the sea, and his left on the land” — γῆ, from the world family: the whole world is claimed for God, and his message is for all.",
+      "words": [
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G974",
+          "hebrew": "βιβλιαρίδιον",
+          "translit": "bibliarídion",
+          "english": "book"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "open"
+        },
+        {
+          "strongs": "G5087",
+          "hebrew": "τίθημι",
+          "translit": "títhēmi",
+          "english": "set"
+        },
+        {
+          "strongs": "G4228",
+          "hebrew": "πούς",
+          "translit": "poús",
+          "english": "foot"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G2176",
+          "hebrew": "εὐώνυμος",
+          "translit": "euṓnymos",
+          "english": "left"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "land"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "He cried with a loud voice, as a lion roars. When he cried, the seven thunders uttered their voices.",
+      "understanding": "καὶ ἔκραξεν φωνῇ μεγάλῃ ὥσπερ λέων μυκᾶται, “He cried with a loud voice, as a lion roars” — μυκάομαι, to roar; Amos and Hosea speak of the LORD roaring like a lion. καὶ ὅτε ἔκραξεν, ἐλάλησαν αἱ ἑπτὰ βρονταὶ τὰς ἑαυτῶν φωνάς, “When he cried, the seven thunders uttered their voices” — βροντή: Psalm 29 speaks of ‘the voice of the LORD’ seven times, as thunder.",
+      "words": [
+        {
+          "strongs": "G2896",
+          "hebrew": "κράζω",
+          "translit": "krázō",
+          "english": "cried"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "loud"
+        },
+        {
+          "strongs": "G3023",
+          "hebrew": "λέων",
+          "translit": "léōn",
+          "english": "lion"
+        },
+        {
+          "strongs": "G3455",
+          "hebrew": "μυκάομαι",
+          "translit": "mykáomai",
+          "english": "roars"
+        },
+        {
+          "strongs": "G2033",
+          "hebrew": "ἑπτά",
+          "translit": "heptá",
+          "english": "seven"
+        },
+        {
+          "strongs": "G1027",
+          "hebrew": "βροντή",
+          "translit": "brontḗ",
+          "english": "thunders"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "uttered"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "When the seven thunders sounded, I was about to write; but I heard a voice from the sky saying, “Seal up the things which the seven thunders said, and don’t write them.”",
+      "understanding": "καὶ ὅτε ἐλάλησαν αἱ ἑπτὰ βρονταί, ἤμελλον γράφειν, “When the seven thunders sounded, I was about to write” — γράφω. καὶ ἤκουσα φωνὴν ἐκ τοῦ οὐρανοῦ λέγουσαν· Σφράγισον ἃ ἐλάλησαν αἱ ἑπτὰ βρονταί, καὶ μὴ αὐτὰ γράψῃς, “but I heard a voice from the sky saying, ‘Seal up the things which the seven thunders said, and don’t write them’” — σφραγίζω, to seal, to keep secret. Revelation does not tell us everything. Some things God keeps to Himself; our task is to obey what He has revealed.",
+      "words": [
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "sounded"
+        },
+        {
+          "strongs": "G1027",
+          "hebrew": "βροντή",
+          "translit": "brontḗ",
+          "english": "thunders"
+        },
+        {
+          "strongs": "G3195",
+          "hebrew": "μέλλω",
+          "translit": "méllō",
+          "english": "about"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "write"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        },
+        {
+          "strongs": "G4972",
+          "hebrew": "σφραγίζω",
+          "translit": "sphragízō",
+          "english": "Seal up"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "The angel whom I saw standing on the sea and on the land lifted up his right hand to the sky,",
+      "understanding": "Καὶ ὁ ἄγγελος ὃν εἶδον ἑστῶτα ἐπὶ τῆς θαλάσσης καὶ ἐπὶ τῆς γῆς, “The angel whom I saw standing on the sea and on the land” — εἴδω, from the see family (and the know family); γῆ, from the world family. ἦρεν τὴν χεῖρα αὐτοῦ τὴν δεξιὰν εἰς τὸν οὐρανόν, “lifted up his right hand to the sky” — the gesture of a solemn oath, as in Daniel 12:7, where an angel lifts both hands to heaven and swears by Him who lives forever.",
+      "words": [
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "standing"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "land"
+        },
+        {
+          "strongs": "G142",
+          "hebrew": "αἴρω",
+          "translit": "aírō",
+          "english": "lifted up"
+        },
+        {
+          "strongs": "G1188",
+          "hebrew": "δεξιός",
+          "translit": "dexiós",
+          "english": "right"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "and swore by him who lives forever and ever, who created heaven and the things that are in it, the earth and the things that are in it, and the sea and the things that are in it, that there will no longer be delay,",
+      "understanding": "καὶ ὤμοσεν ἐν τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων, “and swore by him who lives forever and ever” — ὀμνύω, to swear an oath; ζάω, from the life family; αἰών, from the time family and the world family. ὃς ἔκτισεν τὸν οὐρανὸν... καὶ τὴν γῆν... καὶ τὴν θάλασσαν, “who created heaven... the earth... and the sea” — κτίζω; γῆ, from the world family: the Creator of all has the right to bring all to its end. ὅτι χρόνος οὐκέτι ἔσται, “that there will no longer be delay” — χρόνος, from the time family: a span of time. The older ‘time shall be no more’ misses the point: not that time will cease, but that God's patient delay (6:11) is ending.",
+      "words": [
+        {
+          "strongs": "G3660",
+          "hebrew": "ὀμνύω",
+          "translit": "omnýō",
+          "english": "swore"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "lives"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        },
+        {
+          "strongs": "G2936",
+          "hebrew": "κτίζω",
+          "translit": "ktízō",
+          "english": "created"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G5550",
+          "hebrew": "χρόνος",
+          "translit": "chrónos",
+          "english": "delay"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as he declared to his servants, the prophets.",
+      "understanding": "ἀλλ᾽ ἐν ταῖς ἡμέραις τῆς φωνῆς τοῦ ἑβδόμου ἀγγέλου, ὅταν μέλλῃ σαλπίζειν, “but in the days of the voice of the seventh angel, when he is about to sound” — ἡμέρα, from the time family; σαλπίζω. καὶ ἐτελέσθη τὸ μυστήριον τοῦ θεοῦ, “then the mystery of God is finished” — τελέω, from the perfect family: to bring to its goal, to complete; μυστήριον, God's hidden plan now revealed. ὡς εὐηγγέλισεν τοὺς ἑαυτοῦ δούλους τοὺς προφήτας, “as he declared to his servants, the prophets” — εὐαγγελίζω, to announce good news; δοῦλος, from the servant family. The end of history is good news, long promised.",
+      "words": [
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "days"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G1442",
+          "hebrew": "ἕβδομος",
+          "translit": "hébdomos",
+          "english": "seventh"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G4537",
+          "hebrew": "σαλπίζω",
+          "translit": "salpízō",
+          "english": "sound"
+        },
+        {
+          "strongs": "G5055",
+          "hebrew": "τελέω",
+          "translit": "teléō",
+          "english": "finished"
+        },
+        {
+          "strongs": "G3466",
+          "hebrew": "μυστήριον",
+          "translit": "mystḗrion",
+          "english": "mystery"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2097",
+          "hebrew": "εὐαγγελίζω",
+          "translit": "euangelízō",
+          "english": "declared"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servants"
+        },
+        {
+          "strongs": "G4396",
+          "hebrew": "προφήτης",
+          "translit": "prophḗtēs",
+          "english": "prophets"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "The voice which I heard from heaven, again speaking with me, said, “Go, take the book which is open in the hand of the angel who stands on the sea and on the land.”",
+      "understanding": "Καὶ ἡ φωνὴ ἣν ἤκουσα ἐκ τοῦ οὐρανοῦ, “The voice which I heard from heaven” — the voice of verse 4. Ὕπαγε λάβε τὸ βιβλίον τὸ ἠνεῳγμένον ἐν τῇ χειρὶ τοῦ ἀγγέλου, “Go, take the book which is open in the hand of the angel” — βιβλίον, from the book family (here the ordinary word for the little scroll of v. 2). The angel ‘stands on the sea and on the land’ — γῆ, from the world family. John is no longer only a spectator; he must receive the message himself.",
+      "words": [
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "speaking"
+        },
+        {
+          "strongs": "G5217",
+          "hebrew": "ὑπάγω",
+          "translit": "hypágō",
+          "english": "Go"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "take"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "open"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "stands"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "land"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "I went to the angel, telling him to give me the little book. He said to me, “Take it, and eat it up. It will make your stomach bitter, but in your mouth it will be as sweet as honey.”",
+      "understanding": "καὶ ἀπῆλθα πρὸς τὸν ἄγγελον, λέγων αὐτῷ δοῦναί μοι τὸ βιβλαρίδιον, “I went to the angel, telling him to give me the little book” — βιβλαρίδιον, from the book family. Λάβε καὶ κατάφαγε αὐτό, “Take it, and eat it up” — κατεσθίω, to devour: Ezekiel was told to eat the scroll before he spoke. The prophet must digest God's word before he can deliver it. καὶ πικρανεῖ σου τὴν κοιλίαν, ἀλλ᾽ ἐν τῷ στόματί σου ἔσται γλυκὺ ὡς μέλι, “It will make your stomach bitter, but in your mouth it will be as sweet as honey” — πικραίνω, as in the wormwood of 8:11; γλυκύς, sweet; μέλι, honey.",
+      "words": [
+        {
+          "strongs": "G565",
+          "hebrew": "ἀπέρχομαι",
+          "translit": "apérchomai",
+          "english": "went"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G974",
+          "hebrew": "βιβλιαρίδιον",
+          "translit": "bibliarídion",
+          "english": "little book"
+        },
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "Take"
+        },
+        {
+          "strongs": "G2719",
+          "hebrew": "κατεσθίω",
+          "translit": "katesthíō",
+          "english": "eat it up"
+        },
+        {
+          "strongs": "G4087",
+          "hebrew": "πικραίνω",
+          "translit": "pikraínō",
+          "english": "bitter"
+        },
+        {
+          "strongs": "G2836",
+          "hebrew": "κοιλία",
+          "translit": "koilía",
+          "english": "stomach"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G1099",
+          "hebrew": "γλυκύς",
+          "translit": "glykýs",
+          "english": "sweet"
+        },
+        {
+          "strongs": "G3192",
+          "hebrew": "μέλι",
+          "translit": "méli",
+          "english": "honey"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "I took the little book out of the angel’s hand, and ate it up. It was as sweet as honey in my mouth. When I had eaten it, my stomach was made bitter.",
+      "understanding": "καὶ ἔλαβον τὸ βιβλαρίδιον ἐκ τῆς χειρὸς τοῦ ἀγγέλου καὶ κατέφαγον αὐτό, “I took the little book out of the angel’s hand, and ate it up” — βιβλαρίδιον, from the book family. καὶ ἦν ἐν τῷ στόματί μου ὡς μέλι γλυκύ, “It was as sweet as honey in my mouth” — God's word is sweet: His promises, His victory, His coming kingdom. καὶ ὅτε ἔφαγον αὐτό, ἐπικράνθη ἡ κοιλία μου, “When I had eaten it, my stomach was made bitter” — πικραίνω. But the message includes suffering for God's witnesses and judgement for the world (ch. 11). The true prophet tastes both.",
+      "words": [
+        {
+          "strongs": "G2983",
+          "hebrew": "λαμβάνω",
+          "translit": "lambánō",
+          "english": "took"
+        },
+        {
+          "strongs": "G974",
+          "hebrew": "βιβλιαρίδιον",
+          "translit": "bibliarídion",
+          "english": "little book"
+        },
+        {
+          "strongs": "G5495",
+          "hebrew": "χείρ",
+          "translit": "cheír",
+          "english": "hand"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel’s"
+        },
+        {
+          "strongs": "G2719",
+          "hebrew": "κατεσθίω",
+          "translit": "katesthíō",
+          "english": "ate it up"
+        },
+        {
+          "strongs": "G4750",
+          "hebrew": "στόμα",
+          "translit": "stóma",
+          "english": "mouth"
+        },
+        {
+          "strongs": "G1099",
+          "hebrew": "γλυκύς",
+          "translit": "glykýs",
+          "english": "sweet"
+        },
+        {
+          "strongs": "G3192",
+          "hebrew": "μέλι",
+          "translit": "méli",
+          "english": "honey"
+        },
+        {
+          "strongs": "G5315",
+          "hebrew": "φάγω",
+          "translit": "phágō",
+          "english": "eaten"
+        },
+        {
+          "strongs": "G2836",
+          "hebrew": "κοιλία",
+          "translit": "koilía",
+          "english": "stomach"
+        },
+        {
+          "strongs": "G4087",
+          "hebrew": "πικραίνω",
+          "translit": "pikraínō",
+          "english": "made bitter"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "They told me, “You must prophesy again over many peoples, nations, languages, and kings.”",
+      "understanding": "καὶ λέγουσίν μοι· Δεῖ σε πάλιν προφητεῦσαι, “They told me, ‘You must prophesy again’” — δεῖ, it is necessary; προφητεύω, to speak God's word. John's commission is renewed. ἐπὶ λαοῖς καὶ ἔθνεσιν καὶ γλώσσαις καὶ βασιλεῦσιν πολλοῖς, “over many peoples, nations, languages, and kings” — the formula of 5:9 and 7:9, with ‘kings’ in place of ‘tribes’: the message is for the whole world and its rulers.",
+      "words": [
+        {
+          "strongs": "G1163",
+          "hebrew": "δεῖ",
+          "translit": "deî",
+          "english": "must"
+        },
+        {
+          "strongs": "G4395",
+          "hebrew": "προφητεύω",
+          "translit": "prophēteúō",
+          "english": "prophesy"
+        },
+        {
+          "strongs": "G3825",
+          "hebrew": "πάλιν",
+          "translit": "pálin",
+          "english": "again"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "peoples"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G1100",
+          "hebrew": "γλῶσσα",
+          "translit": "glōssa",
+          "english": "languages"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "The Colossus of Light",
+      "verseRef": "v. 1-3",
+      "image": "Picture a giant angel stepping down out of the sky, wrapped in cloud, a rainbow around his head, his face blazing like the sun, his legs like columns of fire. He plants one foot on the sea and the other on the land, holds up a small open scroll, and roars like a lion — and seven thunders answer.",
+      "meaning": "“He set his right foot on the sea, and his left on the land. He cried with a loud voice, as a lion roars” (vv. 2–3). The whole world — land and sea — belongs to God, and His message is for all of it."
+    },
+    {
+      "title": "Thunders Sealed",
+      "verseRef": "v. 4",
+      "image": "Picture John with his pen raised, ready to write down what the seven thunders have said — and a voice from heaven stopping him: ‘Seal it up. Don't write it.’",
+      "meaning": "“Seal up the things which the seven thunders said, and don’t write them” (v. 4). God has not told us everything. There are things we will not know until the end. Our task is to trust Him with the unknown and obey what He has made known."
+    },
+    {
+      "title": "No More Delay",
+      "verseRef": "v. 5-7",
+      "image": "Picture the mighty angel raising his right hand to heaven like a witness in court, swearing by the eternal Creator: the waiting is over; God's plan is about to be completed.",
+      "meaning": "“That there will no longer be delay, but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished” (vv. 6–7). God's patience is long, but it has an end. His purposes will be completed exactly as He promised."
+    },
+    {
+      "title": "The Sweet and Bitter Scroll",
+      "verseRef": "v. 9-10",
+      "image": "Picture John taking the little scroll and eating it. In his mouth it tastes like honey — rich, sweet, delightful. But as he swallows, it turns bitter inside him, and he grips his stomach.",
+      "meaning": "“It was as sweet as honey in my mouth. When I had eaten it, my stomach was made bitter” (v. 10). God's word is sweet: it is His truth and His victory. But taking it in fully means sharing in the suffering of His witnesses and grieving over a world under judgement."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Mighty Angel (v. 1-4)",
+        "body": "A mighty angel comes down from heaven, robed in a cloud, with a rainbow, a face like the sun and legs like pillars of fire, holding a little open scroll; he stands on sea and land and shouts like a lion; seven thunders speak, but John is told to seal up what they said and not write it."
+      },
+      {
+        "label": "The Oath (v. 5-7)",
+        "body": "The angel raises his hand and swears by the eternal Creator that there will be no more delay: when the seventh angel sounds, the mystery of God will be completed, as He announced to His servants the prophets."
+      },
+      {
+        "label": "The Little Scroll Eaten (v. 8-11)",
+        "body": "The heavenly voice tells John to take the open scroll; the angel tells him to eat it, and it is sweet as honey in his mouth but bitter in his stomach; John is told he must prophesy again about many peoples, nations, languages and kings."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "An Interlude Before the Last Trumpet",
+        "paragraphs": [
+          "As chapter 7 came between the sixth and seventh seals, so chapters 10:1–11:14 come between the sixth and seventh trumpets. After the terrible judgements of chapter 9 and the refusal of people to repent (9:20–21), the focus turns to God's word and God's witnesses. Judgement alone did not bring repentance; now we see the message the church must carry.",
+          "A mighty angel descends, clothed with a cloud, crowned with a rainbow, with a face like the sun and feet like pillars of fire (v. 1). Many of these features reflect the glory of Christ (1:15–16) and of God's throne (4:3). Some have thought the angel is Christ; but he is called ‘another angel’, and he swears by God rather than as God (v. 6). He is a messenger carrying the glory of the One who sent him.",
+          "He stands with one foot on the sea and one on the land (v. 2), claiming the whole world. Later the beast will rise from the sea and another from the land (13:1, 11); this angel shows that both realms belong to God."
+        ]
+      },
+      {
+        "heading": "The Sealed Thunders and the Oath",
+        "paragraphs": [
+          "When the angel shouts, seven thunders speak, and John prepares to write. But he is told, “Seal up the things which the seven thunders said, and don’t write them” (v. 4). This is the only time in Revelation that John is told not to write. It reminds us that the book does not reveal everything about the future. Those who construct detailed timetables of the end should notice: some things God has deliberately left sealed.",
+          "Then the angel swears by the eternal Creator “that there will no longer be delay” (v. 6). This answers the martyrs' cry, ‘How long?’ (6:10), and their instruction to wait ‘yet for a while’ (6:11). The word is χρόνος: not that time itself will cease, but that the period of waiting is over.",
+          "“But in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as he declared to his servants, the prophets” (v. 7). The ‘mystery’ in the New Testament is God's plan, once hidden and now revealed in Christ, to bring all things together in Him and to include the nations in His people. When the last trumpet sounds, it will be completed. And it is ‘good news’: the word ‘declared’ is εὐαγγελίζω, to announce the gospel."
+        ]
+      },
+      {
+        "heading": "Sweet and Bitter",
+        "paragraphs": [
+          "John is told to take the open scroll and eat it (vv. 8–9). This recalls Ezekiel, who was given a scroll written with ‘lamentations, mourning, and woe’ and told to eat it; it was sweet as honey in his mouth, and then he was sent to speak to a rebellious people. A prophet must first take God's word into himself before he can speak it to others.",
+          "The scroll is “as sweet as honey in my mouth” (v. 10). God's word is sweet: it reveals His glory, His love, His victory and His kingdom. The psalmist said God's words are sweeter than honey. But “When I had eaten it, my stomach was made bitter” (v. 10). The message includes suffering for God's witnesses (11:7–10) and judgement on the world. Anyone who truly takes in God's word will taste both its sweetness and its bitterness.",
+          "Then John is told, “You must prophesy again over many peoples, nations, languages, and kings” (v. 11). The rest of the book is the content of that renewed prophecy. And it is a model for the church: we too must take God's word into ourselves, and then speak it to the nations, whatever it costs."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The Mystery Revealed",
+      "paragraphs": [
+        "Paul often speaks of God's ‘mystery’ — His long-hidden plan now revealed. It “in other generations was not made known to the children of men, as it has now been revealed to his holy apostles and prophets in the Spirit; that the Gentiles are fellow heirs, and fellow members of the body, and fellow partakers of his promise in Christ Jesus through the Good News” (Ephesians 3:5–6). It is “the mystery which has been hidden for ages and generations. But now it has been revealed to his saints” (Colossians 1:26) — “Christ in you, the hope of glory” (Colossians 1:27).",
+        "Revelation 10:7 says this mystery will be ‘finished’ at the seventh trumpet. Paul speaks of “the last trumpet. For the trumpet will sound, and the dead will be raised incorruptible, and we will be changed” (1 Corinthians 15:52).",
+        "Jesus Himself fed on God's word. Tempted to make bread, He answered from Deuteronomy that a person does not live by bread alone, ‘but by every word that proceeds out of the mouth of God’ (Matthew 4:4). John's eating of the scroll pictures what every disciple must do."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Little book",
+      "hebrew": "βιβλιαρίδιον",
+      "translit": "bibliarídion",
+      "strongs": "G974 (book βιβλίον, biblíon, G975)",
+      "verses": "v. 2, 9, 10",
+      "insight": "Strong's: “a booklet.” βιβλαρίδιον, from the book family, is a ‘little scroll’ — a double diminutive of βίβλος. It is distinct from the great sealed βιβλίον of chapter 5, which only the Lamb could open. This little scroll is already open, and John is to eat it and proclaim it. Many see in it the message of chapter 11: the witness and suffering of the church, and God's final triumph."
+    },
+    {
+      "english": "Swore",
+      "hebrew": "ὀμνύω",
+      "translit": "omnýō",
+      "strongs": "G3660 (delay χρόνος, chrónos, G5550)",
+      "verses": "v. 6",
+      "insight": "Strong's: “to swear, i.e. take (or declare on) oath.” ὀμνύω means to declare something under oath, calling on a higher power as witness. The angel lifts his hand to heaven and swears ‘by him who lives forever and ever’ — the highest oath possible. Hebrews says that God, wanting to show the certainty of His promise, confirmed it with an oath. The end of God's patient delay is as certain as His own eternal life."
+    },
+    {
+      "english": "Mystery",
+      "hebrew": "μυστήριον",
+      "translit": "mystḗrion",
+      "strongs": "G3466 (finished τελέω, teléō, G5055)",
+      "verses": "v. 7; 1:20; 17:5, 7",
+      "insight": "Strong's: “a secret or \"mystery\" (through the idea of silence imposed by initiation into religious rites).” μυστήριον in pagan religion was a secret rite known only to initiates. In the New Testament it is the opposite: God's once-hidden plan, now openly revealed in Christ to all who believe. ‘The mystery of God’ (v. 7) is His plan for history, centred on Christ and including the nations. At the seventh trumpet it is ‘finished’ — τελέω, from the perfect family: brought to its goal."
+    },
+    {
+      "english": "Sweet",
+      "hebrew": "γλυκύς",
+      "translit": "glykýs",
+      "strongs": "G1099 (honey μέλι, méli, G3192)",
+      "verses": "v. 9, 10",
+      "insight": "Strong's: “sweet (i.e. not bitter nor salt).” γλυκύς is the opposite of πικρός (bitter). James asks whether a spring can pour out both sweet and bitter water (James 3:11). Here one scroll is both sweet and bitter. God's word is sweet because it is His, true and full of hope; it is bitter because it tells of suffering and judgement. The faithful prophet never offers only the sweet."
+    },
+    {
+      "english": "Prophesy",
+      "hebrew": "προφητεύω",
+      "translit": "prophēteúō",
+      "strongs": "G4395 (prophets προφήτης, prophḗtēs, G4396)",
+      "verses": "v. 11; 11:3",
+      "insight": "Strong's: “to foretell events, divine, speak under inspiration, exercise the prophetic office.” προφητεύω means more than predicting the future; it is speaking God's word under the Spirit's inspiration. John must ‘prophesy again’ to the nations (10:11), and the two witnesses ‘prophesy’ for 1,260 days (11:3). Revelation calls itself ‘the prophecy’ (1:3; 22:7), and says that ‘the testimony of Jesus is the Spirit of Prophecy’ (19:10): the whole church is a prophetic community, bearing witness to Jesus."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit calls you to take God's word into yourself — all of it.",
+    "items": [
+      {
+        "title": "Trust What Is Sealed",
+        "body": "John was told not to write what the thunders said (v. 4). The Spirit wants you to be at peace with not knowing everything. You do not need every detail of the future; you need to know the One who holds it. Rest in what He has revealed."
+      },
+      {
+        "title": "God Keeps His Word on Time",
+        "body": "The angel swears “that there will no longer be delay” (v. 6). God's waiting is not forgetting. The Spirit reminds you that every promise of God will be fulfilled at exactly the right moment. Wait for Him with hope."
+      },
+      {
+        "title": "Eat the Whole Scroll",
+        "body": "John's scroll was sweet in his mouth and bitter in his stomach (v. 10). The Spirit invites you not to pick only the sweet parts of the Bible, but to take in all of it — the promises and the warnings, the comfort and the cost. Then speak it to others."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Curiosity Check",
+        "body": "Are you more interested in decoding the future than in obeying what God has clearly told you (v. 4)?"
+      },
+      {
+        "title": "The Digestion Check",
+        "body": "Do you take God's word deeply into your life, or only taste it (vv. 9–10)? When did a passage last change how you live?"
+      },
+      {
+        "title": "The Bitterness Check",
+        "body": "Do you avoid parts of Scripture because they are hard or uncomfortable? Which ones?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Eat a Scroll",
+        "body": "Choose one short chapter of the Bible this week and ‘eat’ it: read it every day, memorise one verse, write down how it is sweet to you and how it is hard for you. At the end of the week, tell someone what God said to you through it."
+      },
+      {
+        "title": "Prophesy to Someone",
+        "body": "Ask God for one person to whom you can speak His word this week — a promise, an encouragement or a gentle warning (v. 11). Pray first, then speak with love."
+      }
+    ]
+  },
+  "prayerReflection": "“Lord God, Creator of heaven and earth and sea, You live forever and ever, and Your purposes cannot fail. Thank You that there will be no more delay when Your time comes, and that the mystery of Your plan in Christ will be completed, just as You promised Your servants the prophets. Thank You for the things You have revealed, and help me trust You with the things You have sealed. Give me a hunger for Your word. Let me take it in deeply, all of it — the sweetness of Your promises and the bitterness of its cost. Make Your word sweeter to me than honey. And then send me to speak it, with love and courage, to the people around me and to the nations. In Jesus' name, Amen.”",
+  "storyConnections": [
+    {
+      "title": "Ezekiel Eats the Scroll",
+      "ref": "Ezekiel 2:8–3:4",
+      "relatedVerses": "v. 8-11",
+      "summary": "When God called Ezekiel to be a prophet to the exiles, a hand reached out to him holding a scroll, written on the front and back with lamentations, mourning and woe. God said, ‘Son of man, eat this scroll, and go, speak to the house of Israel.’ Ezekiel ate it, and it was as sweet as honey in his mouth. Then God sent him to a people with hard foreheads and stubborn hearts. John's experience follows Ezekiel's exactly — but with the added bitterness: the prophet who speaks God's word to a rebellious world will share in its cost."
+    },
+    {
+      "title": "Daniel's Sealed Book",
+      "ref": "Daniel 12:4-9",
+      "relatedVerses": "v. 4-7",
+      "summary": "At the end of his visions, Daniel was told to ‘shut up the words, and seal the book, even to the time of the end.’ He saw a man clothed in linen above the river, who lifted both hands to heaven and swore by Him who lives forever that it would be for ‘a time, times, and a half’. Daniel asked what the outcome would be, and was told, ‘Go your way, Daniel; for the words are shut up and sealed until the time of the end.’ Revelation 10 draws on this scene — but where Daniel's book was sealed, John is told that the delay is now over."
+    },
+    {
+      "title": "Jesus in the Wilderness",
+      "ref": "Matthew 4:1-4",
+      "relatedVerses": "v. 9-10",
+      "summary": "After fasting forty days in the wilderness, Jesus was hungry, and the devil tempted Him to turn stones into bread. Jesus answered, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds out of the mouth of God’” (Matthew 4:4). He lived on God's word, even when it led Him into hunger and, at the end, to the cross. John's eating of the scroll is a picture of the same way of life: God's word is food that sustains, even when it is bitter."
+    }
+  ]
+}
