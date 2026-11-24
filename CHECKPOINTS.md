@@ -487,3 +487,54 @@ once bible-api.com can be reached for the standard edition), so the queue moves 
 | 64 | 3 John (1 ch.) | waiting for the standard WEB text (npm stand-in on disk) |
 | 65 | Jude (1 ch.) | waiting for the standard WEB text (npm stand-in on disk) |
 | 66 | Revelation (22 ch.) | next on disk — its introduction would normally bridge from Jude's Road Ahead; owner to choose: write it now (bridging from 1 John) or wait for the one-chapter books |
+
+## 2026-11-24 — Revelation
+
+The owner asked to write Revelation next and then pause. 2 John, 3 John and Jude are still waiting for the standard WEB text, so the
+introduction carries on from the 1 John Road Ahead instead.
+
+| Doc | Size | Verses | G1 Build | G2 Deep | Notes |
+|-----|------|--------|----------|---------|-------|
+| Master Introduction | 10KB | — | ✅ | ✅ | Bridge from 1 John (overcome, antichrists → beast, ‘keep yourselves from idols’ → ‘Worship God’, ‘we will see him’ → ‘they will see his face’). Authorship, date and the four ways of reading stated honestly |
+| Chapter 1 | 61KB | 20/20 | ✅ | ✅ | ἀποκάλυψις (appear); new **witness** family (μάρτυς, μαρτυρία, μαρτύριον, μαρτυρέω); καιρός; κράτος / δύναμις (‘brightest’ = δύναμις); Zechariah 12:10 quoted directly. Caught & fixed: Matthew 17:2 and Hebrews 7:25 quoted word for word |
+| Chapter 2 | 74KB | 29/29 | ✅ | ✅ | New **crown** family (στέφανος vs διάδημα); κρατέω vs τηρέω (hold); ἔργον / κόπος / κοπιάω (work); χρόνος vs καιρός (2:21). Caught & fixed: James 1:12 wording |
+| Chapter 3 | 64KB | 22/22 | ✅ | ✅ | New **book** family (βίβλος, βιβλίον, βιβλαρίδιον); φιλέω (3:19) vs ἀγαπάω (3:9); ἀρχή ‘Beginning’ (power); ἐλέγχω + παιδεύω (discipline); γρηγορεύω (sleep); 3:10 ‘keep you from’ stated honestly |
+| Chapter 4 | 41KB | 11/11 | ✅ | ✅ | Throne; ζῷον vs θηρίον; ἀνάπαυσις (rest); ‘our Lord and God’ (Domitian) |
+| Chapter 5 | 51KB | 14/14 | ✅ | ✅ | New **lamb** family (ἀρνίον, ἀμνός, ἀρήν); δύναμις + ἰσχύς (5:12); ᾠδὴ καινή; ἀγοράζω (redeem) |
+| Chapter 6 | 59KB | 17/17 | ✅ | ✅ | New **wrath** (ὀργή vs θυμός), **sword** (ῥομφαία vs μάχαιρα) and **judge** (κρίνω, κρίσις, κρίμα) families; the white rider read honestly |
+| Chapter 7 | 55KB | 17/17 | ✅ | ✅ | 144,000 and the great multitude (heard vs seen) stated with the alternatives; λατρεύω (servant); σκηνόω |
+| Chapter 8 | 47KB | 13/13 | ✅ | ✅ | Silence; prayers and the censer; darkness +σκοτίζω; Zephaniah 1:7 and Zechariah 2:13 quoted directly |
+| Chapter 9 | 64KB | 21/21 | ✅ | ✅ | Darkness +σκοτόω; time +μήν (9:15: ὥρα, ἡμέρα, μήν, ἐνιαυτός in one phrase); ὁμοίωμα (image); Apollyon |
+| Chapter 10 | 42KB | 11/11 | ✅ | ✅ | βιβλαρίδιον; χρόνος ‘delay’; τελέω (perfect); wrath +ὀργίζω. Caught & fixed: Matthew 4:4 nested quote |
+| Chapter 11 | 68KB | 19/19 | ✅ | ✅ | Two witnesses (church vs two prophets) stated honestly; WEB ‘day’ = ὥρα (11:13); ὀργίζω + ὀργή (11:18); pray +εὐχαριστέω |
+| Chapter 12 | 62KB | 17/17 | ✅ | ✅ | Woman (people of God / Mary); δύναμις + ἐξουσία (12:10); θυμός (12:12); ἄλλος (another) |
+| Chapter 13 | 64KB | 18/18 | ✅ | ✅ | Beasts; εἰκών (image); 666 (Nero gematria, 616 variant, and the symbolic reading) stated honestly; mark read honestly |
+| Chapter 14 | 72KB | 20/20 | ✅ | ✅ | θυμός + ὀργή (14:10); κρίσις; κόπος + ἔργον (14:13); two harvests |
+| Chapter 15 | 37KB | 8/8 | ✅ | ✅ | New **holy** family (ἅγιος, ὅσιος, ἁγιάζω), named in James–Revelation 14 notes; song of Moses and the Lamb |
+| Chapter 16 | 67KB | 21/21 | ✅ | ✅ | κακός + πονηρός (16:2); ψυχή ζωῆς; WEB ‘Megiddo’ = Ἁρμαγεδών, read honestly; θυμός + ὀργή (16:19) |
+| Chapter 17 | 62KB | 18/18 | ✅ | ✅ | Babylon = Rome and every Babylon; seven kings stated honestly; κρίμα; δύναμις + ἐξουσία (17:13) |
+| Chapter 18 | 78KB | 24/24 | ✅ | ✅ | WEB ‘abundance’ = δύναμις (18:3); σῶμα + ψυχή (slaves, 18:13); κρίνω + κρίμα (18:20) |
+| Chapter 19 | 71KB | 21/21 | ✅ | ✅ | Hallelujah; λόγος ‘The Word of God’; θυμός + ὀργή (19:15); 19:13 blood read both ways |
+| Chapter 20 | 59KB | 15/15 | ✅ | ✅ | The millennium: premillennial, amillennial and postmillennial readings set out without forcing one; ἔτος (time); ἀνάστασις (rise) |
+| Chapter 21 | 80KB | 27/27 | ✅ | ✅ | καινός vs νέος (new); σκηνή / σκηνόω; ἀρχή + τέλος. Caught & fixed: 21:6 quoted as the WEB reads it |
+| Chapter 22 | 64KB | 21/21 | ✅ | ✅ | δοῦλος + λατρεύω (22:3); ἅγιος + ἁγιάζω (22:11); φιλέω (22:15); ταχύ |
+| Final Masterclass Review | 16KB | — | ✅ | ✅ | Road Ahead → Genesis and Exodus, described in our own words since neither is on disk; the owner may change this later |
+
+- **Book total:** 22 chapters, 404/404 verses, 3723 tagged words, 110 lexicon entries, 707 referenced quotations checked (exit 0).
+  Every lexicon Strong's quote checked word for word against `strongs_def` / `derivation` (0 mismatches).
+- **Word families:** 48 → 56 families, 351 → 379 words. New: **witness**, **crown**, **book**, **lamb**, **wrath**, **sword**, **judge**,
+  **holy**. New members: darkness +σκοτίζω +σκοτόω; time +μήν; wrath +ὀργίζω; pray +εὐχαριστέω.
+  Each new family is named in the notes of every verse that tags a member, in James, 1 Peter, 2 Peter, 1 John and Revelation.
+- **Family-claim audit:** James, 1 Peter, 2 Peter, 1 John and Revelation all 0 / 0.
+- **G2 all books `--strict`:** exit 0, 5266 referenced quotations. **G3** ✅ all 24 Revelation documents, and James, 1 Peter, 2 Peter and
+  1 John re-rendered after their notes changed. Word-panel spot checks 24/24. Word-study regression 21/21. Cyrillic scan: 0.
+
+### Book queue
+| # | Book | Status |
+|---|------|--------|
+| 57 | Philemon (1 ch.) | waiting for the standard WEB text (bible-api.com) |
+| 63 | 2 John (1 ch.) | waiting for the standard WEB text (npm stand-in on disk) |
+| 64 | 3 John (1 ch.) | waiting for the standard WEB text (npm stand-in on disk) |
+| 65 | Jude (1 ch.) | waiting for the standard WEB text (npm stand-in on disk) |
+| 66 | Revelation | ✅ built & verified |
+| — | — | **Paused by the owner after Revelation.** Changes to come later (e.g. the Revelation Road Ahead, the bridges around the one-chapter books) |
