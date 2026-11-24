@@ -174,7 +174,8 @@
         "year",
         "tomorrow",
         "eternal",
-        "years"
+        "years",
+        "month"
       ],
       "intro": "Greek separates kinds of time that English blurs together. Acts 1:7 sets ‘times’ (χρόνος) beside ‘seasons’ (καιρός): length of time and the right moment. In John 17:1 the WEB's ‘the time has come’ is ὥρα, the appointed hour. Two adverbs built on καιρός, εὐκαίρως and ἀκαίρως, set the favourable moment against the unfavourable one in 2 Timothy 4:2. Hebrews adds σήμερον, ‘today’: the present day of opportunity.",
       "members": [
@@ -267,6 +268,12 @@
           "sense": "A year — a count of years.",
           "anchor": "2 Peter 3:8",
           "en": "years"
+        },
+        {
+          "strongs": "G3376",
+          "sense": "A month.",
+          "anchor": "Revelation 9:15",
+          "en": "month"
         }
       ]
     },
@@ -1490,7 +1497,8 @@
       "name": "Darkness",
       "lang": "Greek",
       "english": [
-        "darkness"
+        "darkness",
+        "darkened"
       ],
       "intro": "English ‘darkness’ hides several Greek words. σκοτία (John’s favourite) is the state of darkness, the absence of light, often moral and spiritual; σκότος is darkness as a realm or condition, the opposite of φῶς; ζόφος is the thick, murky gloom of the underworld (2 Peter 2:4); σκοτεινός is the adjective, ‘dark, full of darkness’. 1 John 1:5–6 uses σκοτία and σκότος in consecutive verses: in God there is no σκοτία at all, so those who walk in σκότος cannot have fellowship with Him.",
       "members": [
@@ -1517,6 +1525,18 @@
           "sense": "Dark, full of darkness.",
           "anchor": "Matthew 6:23",
           "en": "darkness"
+        },
+        {
+          "strongs": "G4654",
+          "sense": "To darken — to make or become dark.",
+          "anchor": "Revelation 8:12",
+          "en": "darkened"
+        },
+        {
+          "strongs": "G4656",
+          "sense": "To darken, to obscure — darkness spreading over something.",
+          "anchor": "Revelation 9:2",
+          "en": "darkened"
         }
       ]
     },
