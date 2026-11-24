@@ -560,7 +560,8 @@
       "name": "Word & Utterance",
       "lang": "Greek",
       "english": [
-        "word"
+        "word",
+        "words"
       ],
       "intro": "Both λόγος and ῥῆμα are translated ‘word’. The sword of the Spirit in Ephesians 6:17 is the ῥῆμα of God — the word spoken.",
       "members": [
@@ -575,6 +576,12 @@
           "sense": "A spoken word, an utterance — a particular saying that proceeds out of a mouth.",
           "anchor": "Ephesians 6:17",
           "en": "word"
+        },
+        {
+          "strongs": "G3051",
+          "sense": "An oracle — an utterance of God.",
+          "anchor": "1 Peter 4:11",
+          "en": "words"
         }
       ]
     },
@@ -619,6 +626,12 @@
           "sense": "To make alive, to give life.",
           "anchor": "1 Peter 3:18",
           "en": "made alive"
+        },
+        {
+          "strongs": "G980",
+          "sense": "To live out one’s life — the course of earthly life (βίος), as distinct from ζάω, to be alive.",
+          "anchor": "1 Peter 4:2",
+          "en": "live"
         }
       ]
     },
@@ -774,7 +787,8 @@
       "lang": "Greek",
       "english": [
         "servant",
-        "servants"
+        "servants",
+        "managers"
       ],
       "intro": "‘Servant’ can translate five Greek words, each describing a different relationship of service.",
       "members": [
@@ -855,6 +869,12 @@
           "sense": "Worship-service — the noun of λατρεύω: the ordered service offered to God.",
           "anchor": "Hebrews 9:1",
           "en": "divine service"
+        },
+        {
+          "strongs": "G3623",
+          "sense": "A household manager, a steward — trusted with the master’s goods.",
+          "anchor": "1 Peter 4:10",
+          "en": "managers"
         }
       ]
     },
@@ -2083,7 +2103,8 @@
         "good",
         "well",
         "gracious",
-        "do well"
+        "do well",
+        "doing good"
       ],
       "intro": "Greek distinguishes what is good in its effect from what is good and beautiful to look at.",
       "members": [
@@ -2140,6 +2161,12 @@
           "sense": "A well-doer — one who does what is good.",
           "anchor": "1 Peter 2:14",
           "en": "do well"
+        },
+        {
+          "strongs": "G16",
+          "sense": "Well-doing — the practice of doing good.",
+          "anchor": "1 Peter 4:19",
+          "en": "doing good"
         }
       ]
     },
