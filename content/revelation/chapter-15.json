@@ -1,0 +1,794 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 15,
+  "chapterTitle": "The Song of Moses and the Lamb",
+  "themeTitle": "“Great and Marvelous Are Your Works, Lord God, the Almighty!”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I saw another great and marvelous sign in the sky: seven angels having the seven last plagues, for in them God’s wrath is finished.",
+      "understanding": "Καὶ εἶδον ἄλλο σημεῖον ἐν τῷ οὐρανῷ μέγα καὶ θαυμαστόν, “I saw another great and marvelous sign in the sky” — εἴδω, from the see family (and the know family); ἄλλος, from the another family: another of the same kind, after the woman and the dragon (12:1, 3); σημεῖον, from the signs family; θαυμαστός, wonderful. ἀγγέλους ἑπτὰ ἔχοντας πληγὰς ἑπτὰ τὰς ἐσχάτας, “seven angels having the seven last plagues” — πληγή; ἔσχατος, last: the final series. ὅτι ἐν αὐταῖς ἐτελέσθη ὁ θυμὸς τοῦ θεοῦ, “for in them God’s wrath is finished” — τελέω, from the perfect family: brought to its end, completed; θυμός, from the wrath family. The bowls are not endless; they complete God's judgement.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G243",
+          "hebrew": "ἄλλος",
+          "translit": "állos",
+          "english": "another"
+        },
+        {
+          "strongs": "G4592",
+          "hebrew": "σημεῖον",
+          "translit": "sēmeîon",
+          "english": "sign"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G2298",
+          "hebrew": "θαυμαστός",
+          "translit": "thaumastós",
+          "english": "marvelous"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "sky"
+        },
+        {
+          "strongs": "G2033",
+          "hebrew": "ἑπτά",
+          "translit": "heptá",
+          "english": "seven"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plagues"
+        },
+        {
+          "strongs": "G2078",
+          "hebrew": "ἔσχατος",
+          "translit": "éschatos",
+          "english": "last"
+        },
+        {
+          "strongs": "G2372",
+          "hebrew": "θυμός",
+          "translit": "thymós",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God’s"
+        },
+        {
+          "strongs": "G5055",
+          "hebrew": "τελέω",
+          "translit": "teléō",
+          "english": "finished"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "I saw something like a sea of glass mixed with fire, and those who overcame the beast, his image, and the number of his name, standing on the sea of glass, having harps of God.",
+      "understanding": "Καὶ εἶδον ὡς θάλασσαν ὑαλίνην μεμιγμένην πυρί, “I saw something like a sea of glass mixed with fire” — εἴδω, from the see family (and the know family); the crystal sea before the throne (4:6), now glowing with the fire of judgement — or like the Red Sea at the Exodus. καὶ τοὺς νικῶντας ἐκ τοῦ θηρίου καὶ ἐκ τῆς εἰκόνος αὐτοῦ καὶ ἐκ τοῦ ἀριθμοῦ τοῦ ὀνόματος αὐτοῦ, “and those who overcame the beast, his image, and the number of his name” — νικάω: the beast ‘overcame’ them by killing them (13:7); in truth they overcame him by refusing him; εἰκών, from the image family. ἑστῶτας ἐπὶ τὴν θάλασσαν τὴν ὑαλίνην, ἔχοντας κιθάρας τοῦ θεοῦ, “standing on the sea of glass, having harps of God” — like Israel on the far shore of the Red Sea.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        },
+        {
+          "strongs": "G5193",
+          "hebrew": "ὑάλινος",
+          "translit": "hyálinos",
+          "english": "glass"
+        },
+        {
+          "strongs": "G3396",
+          "hebrew": "μίγνυμι",
+          "translit": "mígnymi",
+          "english": "mixed"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcame"
+        },
+        {
+          "strongs": "G2342",
+          "hebrew": "θηρίον",
+          "translit": "thēríon",
+          "english": "beast"
+        },
+        {
+          "strongs": "G1504",
+          "hebrew": "εἰκών",
+          "translit": "eikṓn",
+          "english": "image"
+        },
+        {
+          "strongs": "G706",
+          "hebrew": "ἀριθμός",
+          "translit": "arithmós",
+          "english": "number"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G2476",
+          "hebrew": "ἵστημι",
+          "translit": "hístēmi",
+          "english": "standing"
+        },
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "having"
+        },
+        {
+          "strongs": "G2788",
+          "hebrew": "κιθάρα",
+          "translit": "kithára",
+          "english": "harps"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "They sang the song of Moses, the servant of God, and the song of the Lamb, saying, “Great and marvelous are your works, Lord God, the Almighty! Righteous and true are your ways, you King of the nations.",
+      "understanding": "καὶ ᾄδουσιν τὴν ᾠδὴν Μωϋσέως τοῦ δούλου τοῦ θεοῦ καὶ τὴν ᾠδὴν τοῦ ἀρνίου, “They sang the song of Moses, the servant of God, and the song of the Lamb” — δοῦλος, from the servant family; ἀρνίον, from the lamb family. One song, two names: the first exodus from Egypt and the greater exodus won by the Lamb. Μεγάλα καὶ θαυμαστὰ τὰ ἔργα σου, κύριε ὁ θεὸς ὁ παντοκράτωρ, “Great and marvelous are your works, Lord God, the Almighty!” — ἔργον, from the work family; θαυμαστός, the same word as in verse 1. δίκαιαι καὶ ἀληθιναὶ αἱ ὁδοί σου, ὁ βασιλεὺς τῶν ἐθνῶν, “Righteous and true are your ways, you King of the nations” — δίκαιος, ἀληθινός. Many manuscripts read ‘King of the ages’. The song does not praise the singers; it is all about God.",
+      "words": [
+        {
+          "strongs": "G103",
+          "hebrew": "ᾄδω",
+          "translit": "áidō",
+          "english": "sang"
+        },
+        {
+          "strongs": "G5603",
+          "hebrew": "ᾠδή",
+          "translit": "ōidḗ",
+          "english": "song"
+        },
+        {
+          "strongs": "G3475",
+          "hebrew": "Μωσεύς",
+          "translit": "Mōseús",
+          "english": "Moses"
+        },
+        {
+          "strongs": "G1401",
+          "hebrew": "δοῦλος",
+          "translit": "doûlos",
+          "english": "servant"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "Great"
+        },
+        {
+          "strongs": "G2298",
+          "hebrew": "θαυμαστός",
+          "translit": "thaumastós",
+          "english": "marvelous"
+        },
+        {
+          "strongs": "G2041",
+          "hebrew": "ἔργον",
+          "translit": "érgon",
+          "english": "works"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G3841",
+          "hebrew": "παντοκράτωρ",
+          "translit": "pantokrátōr",
+          "english": "Almighty"
+        },
+        {
+          "strongs": "G1342",
+          "hebrew": "δίκαιος",
+          "translit": "díkaios",
+          "english": "Righteous"
+        },
+        {
+          "strongs": "G228",
+          "hebrew": "ἀληθινός",
+          "translit": "alēthinós",
+          "english": "true"
+        },
+        {
+          "strongs": "G3598",
+          "hebrew": "ὁδός",
+          "translit": "hodós",
+          "english": "ways"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "King"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "Who wouldn’t fear you, Lord, and glorify your name? For you only are holy. For all the nations will come and worship before you. For your righteous acts have been revealed.”",
+      "understanding": "τίς οὐ μὴ φοβηθῇ, κύριε, καὶ δοξάσει τὸ ὄνομά σου; “Who wouldn’t fear you, Lord, and glorify your name?” — φοβέομαι; δοξάζω: the answer to the beast's ‘Who is like the beast?’ (13:4). ὅτι μόνος ὅσιος, “For you only are holy” — ὅσιος, from the holy family: holy as faithful and right, pure and true to Himself, as distinct from ἅγιος, set apart. ὅτι πάντα τὰ ἔθνη ἥξουσιν καὶ προσκυνήσουσιν ἐνώπιόν σου, “For all the nations will come and worship before you” — from Psalm 86: a promise of the nations' conversion. ὅτι τὰ δικαιώματά σου ἐφανερώθησαν, “For your righteous acts have been revealed” — δικαίωμα, a righteous decree or act; φανερόω, from the appear family: made visible, brought into the open.",
+      "words": [
+        {
+          "strongs": "G5399",
+          "hebrew": "φοβέω",
+          "translit": "phobéō",
+          "english": "fear"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G1392",
+          "hebrew": "δοξάζω",
+          "translit": "doxázō",
+          "english": "glorify"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "name"
+        },
+        {
+          "strongs": "G3441",
+          "hebrew": "μόνος",
+          "translit": "mónos",
+          "english": "only"
+        },
+        {
+          "strongs": "G3741",
+          "hebrew": "ὅσιος",
+          "translit": "hósios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G2240",
+          "hebrew": "ἥκω",
+          "translit": "hḗkō",
+          "english": "come"
+        },
+        {
+          "strongs": "G4352",
+          "hebrew": "προσκυνέω",
+          "translit": "proskynéō",
+          "english": "worship"
+        },
+        {
+          "strongs": "G1345",
+          "hebrew": "δικαίωμα",
+          "translit": "dikaíōma",
+          "english": "righteous acts"
+        },
+        {
+          "strongs": "G5319",
+          "hebrew": "φανερόω",
+          "translit": "phaneróō",
+          "english": "revealed"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "After these things I looked, and the temple of the tabernacle of the testimony in heaven was opened.",
+      "understanding": "Καὶ μετὰ ταῦτα εἶδον, καὶ ἠνοίγη ὁ ναὸς τῆς σκηνῆς τοῦ μαρτυρίου ἐν τῷ οὐρανῷ, “After these things I looked, and the temple of the tabernacle of the testimony in heaven was opened” — εἴδω, from the see family (and the know family); σκηνή, tent; μαρτύριον, from the witness family: testimony as evidence — the tablets of the Law kept in the ark (Exodus 25:16). The judgements come from the place where God's covenant Law is kept: they are just.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "looked"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G4633",
+          "hebrew": "σκηνή",
+          "translit": "skēnḗ",
+          "english": "tabernacle"
+        },
+        {
+          "strongs": "G3142",
+          "hebrew": "μαρτύριον",
+          "translit": "martýrion",
+          "english": "testimony"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G455",
+          "hebrew": "ἀνοίγω",
+          "translit": "anoígō",
+          "english": "opened"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "The seven angels who had the seven plagues came out, clothed with pure, bright linen, and wearing golden sashes around their breasts.",
+      "understanding": "καὶ ἐξῆλθον οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ πληγὰς ἐκ τοῦ ναοῦ, “The seven angels who had the seven plagues came out” — from God's presence. ἐνδεδυμένοι λίνον καθαρὸν λαμπρόν, “clothed with pure, bright linen” — the dress of priests. καὶ περιεζωσμένοι περὶ τὰ στήθη ζώνας χρυσᾶς, “and wearing golden sashes around their breasts” — like the Son of Man (1:13): they act as His priestly servants. Judgement is holy work.",
+      "words": [
+        {
+          "strongs": "G2033",
+          "hebrew": "ἑπτά",
+          "translit": "heptá",
+          "english": "seven"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plagues"
+        },
+        {
+          "strongs": "G1831",
+          "hebrew": "ἐξέρχομαι",
+          "translit": "exérchomai",
+          "english": "came out"
+        },
+        {
+          "strongs": "G1746",
+          "hebrew": "ἐνδύω",
+          "translit": "endýō",
+          "english": "clothed"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G2986",
+          "hebrew": "λαμπρός",
+          "translit": "lamprós",
+          "english": "bright"
+        },
+        {
+          "strongs": "G3043",
+          "hebrew": "λίνον",
+          "translit": "línon",
+          "english": "linen"
+        },
+        {
+          "strongs": "G4024",
+          "hebrew": "περιζώννυμι",
+          "translit": "perizṓnnymi",
+          "english": "wearing"
+        },
+        {
+          "strongs": "G5552",
+          "hebrew": "χρύσεος",
+          "translit": "chrýseos",
+          "english": "golden"
+        },
+        {
+          "strongs": "G2223",
+          "hebrew": "ζώνη",
+          "translit": "zṓnē",
+          "english": "sashes"
+        },
+        {
+          "strongs": "G4738",
+          "hebrew": "στῆθος",
+          "translit": "stēthos",
+          "english": "breasts"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "One of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.",
+      "understanding": "καὶ ἓν ἐκ τῶν τεσσάρων ζῴων ἔδωκεν τοῖς ἑπτὰ ἀγγέλοις ἑπτὰ φιάλας χρυσᾶς, “One of the four living creatures gave to the seven angels seven golden bowls” — φιάλη, a broad, shallow bowl: the same golden bowls that held the prayers of the saints (5:8). γεμούσας τοῦ θυμοῦ τοῦ θεοῦ τοῦ ζῶντος εἰς τοὺς αἰῶνας τῶν αἰώνων, “full of the wrath of God, who lives forever and ever” — θυμός, from the wrath family; ζάω, from the life family; αἰών, from the time family and the world family. The prayers come back as justice.",
+      "words": [
+        {
+          "strongs": "G2226",
+          "hebrew": "ζῶον",
+          "translit": "zōon",
+          "english": "living creatures"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "gave"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G5552",
+          "hebrew": "χρύσεος",
+          "translit": "chrýseos",
+          "english": "golden"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowls"
+        },
+        {
+          "strongs": "G1073",
+          "hebrew": "γέμω",
+          "translit": "gémō",
+          "english": "full"
+        },
+        {
+          "strongs": "G2372",
+          "hebrew": "θυμός",
+          "translit": "thymós",
+          "english": "wrath"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2198",
+          "hebrew": "ζάω",
+          "translit": "záō",
+          "english": "lives"
+        },
+        {
+          "strongs": "G165",
+          "hebrew": "αἰών",
+          "translit": "aiṓn",
+          "english": "forever"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "The temple was filled with smoke from the glory of God, and from his power. No one was able to enter into the temple, until the seven plagues of the seven angels would be finished.",
+      "understanding": "καὶ ἐγεμίσθη ὁ ναὸς καπνοῦ ἐκ τῆς δόξης τοῦ θεοῦ καὶ ἐκ τῆς δυνάμεως αὐτοῦ, “The temple was filled with smoke from the glory of God, and from his power” — δύναμις, from the power family. As at Sinai, and when the glory filled the tabernacle and Solomon's temple. καὶ οὐδεὶς ἐδύνατο εἰσελθεῖν εἰς τὸν ναόν, “No one was able to enter into the temple” — δύναμαι, from the power family: even Moses could not enter the tent when the glory filled it. ἄχρι τελεσθῶσιν αἱ ἑπτὰ πληγαὶ τῶν ἑπτὰ ἀγγέλων, “until the seven plagues of the seven angels would be finished” — τελέω, from the perfect family. The time for intercession is over; judgement must run its course.",
+      "words": [
+        {
+          "strongs": "G1072",
+          "hebrew": "γεμίζω",
+          "translit": "gemízō",
+          "english": "filled"
+        },
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G2586",
+          "hebrew": "καπνός",
+          "translit": "kapnós",
+          "english": "smoke"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G1411",
+          "hebrew": "δύναμις",
+          "translit": "dýnamis",
+          "english": "power"
+        },
+        {
+          "strongs": "G1410",
+          "hebrew": "δύναμαι",
+          "translit": "dýnamai",
+          "english": "able"
+        },
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G5055",
+          "hebrew": "τελέω",
+          "translit": "teléō",
+          "english": "finished"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plagues"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "Standing on the Sea of Fire and Glass",
+      "verseRef": "v. 2-3",
+      "image": "Picture a vast sea like glass, glowing with fire, and standing on it a great company holding harps. They have come through the beast's persecution, as Israel came through the Red Sea, and now on the far shore they sing.",
+      "meaning": "“Those who overcame the beast, his image, and the number of his name, standing on the sea of glass, having harps of God. They sang the song of Moses, the servant of God, and the song of the Lamb” (vv. 2–3). God's people are not swallowed by the sea of trouble; they stand on it."
+    },
+    {
+      "title": "A Song Without ‘Me’",
+      "verseRef": "v. 3-4",
+      "image": "Picture the singers on the shore — martyrs, survivors, the faithful of every age. You might expect them to sing of their courage and suffering. Instead every line is about God: His works, His ways, His name, His holiness.",
+      "meaning": "“Great and marvelous are your works, Lord God, the Almighty! Righteous and true are your ways, you King of the nations” (v. 3). “For you only are holy” (v. 4). True worship forgets itself in the wonder of God."
+    },
+    {
+      "title": "The Temple Filled with Smoke",
+      "verseRef": "v. 5-8",
+      "image": "Picture the doors of heaven's sanctuary swinging open. Seven angels in shining linen come out, and a living creature hands each one a golden bowl brimming with God's wrath. Behind them the temple fills with billowing smoke of glory, so thick that no one can go in.",
+      "meaning": "“The temple was filled with smoke from the glory of God, and from his power. No one was able to enter into the temple, until the seven plagues of the seven angels would be finished” (v. 8). There comes a time when the door of intercession closes. Now is the time to seek God."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The Seven Last Plagues Announced (v. 1)",
+        "body": "John sees another great sign in heaven: seven angels with the seven last plagues, which complete the wrath of God."
+      },
+      {
+        "label": "The Song of the Victors (v. 2-4)",
+        "body": "Those who have conquered the beast stand on a sea of glass mixed with fire, holding harps, and sing the song of Moses and of the Lamb: God's works are great and marvellous, His ways righteous and true; all will fear and glorify Him, for He alone is holy, and all nations will worship Him."
+      },
+      {
+        "label": "The Bowls Given (v. 5-8)",
+        "body": "The sanctuary of the tent of testimony in heaven is opened; the seven angels come out clothed in pure linen with golden sashes; a living creature gives them seven golden bowls full of God's wrath; the temple fills with smoke from God's glory and power, and no one can enter until the plagues are finished."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Last Series",
+        "paragraphs": [
+          "Chapter 15 is the shortest chapter in Revelation, but it introduces the last and most severe series of judgements: “seven angels having the seven last plagues, for in them God’s wrath is finished” (v. 1). The seals affected a quarter of the earth, the trumpets a third; the bowls affect all. They are ‘last’ because they bring God's judgement to completion. After them comes the fall of Babylon, the return of Christ and the new creation.",
+          "Yet before any bowl is poured, we see the people of God safe and singing. This is Revelation's constant pattern: before judgement falls, God shows His people secure (7:1–17; 11:1; 14:1–5). The fire of judgement does not consume those who belong to the Lamb."
+        ]
+      },
+      {
+        "heading": "The Song of Moses and of the Lamb",
+        "paragraphs": [
+          "John sees “something like a sea of glass mixed with fire, and those who overcame the beast, his image, and the number of his name, standing on the sea of glass, having harps of God” (v. 2). The scene recalls the Exodus. Israel passed through the Red Sea while Pharaoh's army drowned; on the far shore Moses and the people sang, ‘I will sing to the LORD, for he has triumphed gloriously.’ Now the people of God have come through the beast's persecution, and they sing “the song of Moses, the servant of God, and the song of the Lamb” (v. 3).",
+          "It is one song, not two. The Exodus from Egypt was a picture; the Lamb's victory over sin, death and Satan is the reality. The Passover lamb's blood saved Israel; the Lamb's blood has saved a people from every nation.",
+          "And the song is entirely about God: “Great and marvelous are your works, Lord God, the Almighty! Righteous and true are your ways, you King of the nations. Who wouldn’t fear you, Lord, and glorify your name? For you only are holy. For all the nations will come and worship before you. For your righteous acts have been revealed” (vv. 3–4). The victors do not mention their own suffering or courage. They praise God's works, His justice and His holiness — and they look forward to the nations coming to worship Him. Even at the threshold of the final judgement, heaven's song expects the nations' conversion."
+        ]
+      },
+      {
+        "heading": "The Temple Filled with Glory",
+        "paragraphs": [
+          "Then “the temple of the tabernacle of the testimony in heaven was opened” (v. 5). The ‘tabernacle of the testimony’ was the tent in the wilderness where the tablets of the Law were kept in the ark. The judgements that follow come from the place of God's covenant Law: they are not arbitrary but just.",
+          "Seven angels come out dressed like priests (v. 6), and one of the living creatures gives them “seven golden bowls full of the wrath of God, who lives forever and ever” (v. 7). These are the same kind of golden bowls that held the prayers of the saints (5:8). The prayers of God's people for justice return as the bowls of God's judgement.",
+          "Finally, “The temple was filled with smoke from the glory of God, and from his power. No one was able to enter into the temple, until the seven plagues of the seven angels would be finished” (v. 8). When the tabernacle and Solomon's temple were completed, the glory of God filled them so that no one could enter. Here the glory fills heaven's temple, and the time for intercession has ended. The sobering lesson is that there is a time to seek the Lord while He may be found."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "Every Knee Shall Bow",
+      "paragraphs": [
+        "The song's hope that “all the nations will come and worship before you” (v. 4) matches Paul's: “that at the name of Jesus every knee should bow, of those in heaven, those on earth, and those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father” (Philippians 2:10–11).",
+        "Paul calls Christ our Passover: “For indeed Christ, our Passover, has been sacrificed in our place” (1 Corinthians 5:7). The song of Moses and the Lamb celebrates the exodus He accomplished — the word Luke uses when Moses and Elijah spoke with Jesus on the mountain ‘about his departure (ἔξοδος), which he was about to accomplish at Jerusalem’ (Luke 9:31).",
+        "Paul also bursts into praise at the end of his account of God's ways with Jews and Gentiles: “Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments, and his ways past tracing out!” (Romans 11:33)."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "Holy",
+      "hebrew": "ὅσιος",
+      "translit": "hósios",
+      "strongs": "G3741 (holy ἅγιος, hágios, G40)",
+      "verses": "v. 4; 16:5",
+      "insight": "Strong's: “hallowed (pious, sacred, sure).” ὅσιος, from the holy family, is holiness as faithful rightness — being fully true, devout and right before God. It differs from ἅγιος, which stresses being set apart from the common and the unclean. ὅσιος is rare in the New Testament; Revelation uses it only of God (15:4; 16:5). ‘You only are ὅσιος’: God alone is perfectly true to Himself and His covenant. Peter applies it to the Messiah raised from the dead: God would not let His ‘Holy One’ see decay (Acts 2:27)."
+    },
+    {
+      "english": "Bowl",
+      "hebrew": "φιάλη",
+      "translit": "phiálē",
+      "strongs": "G5357 (wrath θυμός, thymós, G2372)",
+      "verses": "v. 7; 5:8; 16:1-17; 17:1; 21:9",
+      "insight": "Strong's: “a broad shallow cup (\"phial\").” φιάλη was a wide, shallow bowl used in temple worship for offerings, incense and libations. In 5:8 the golden bowls are full of the prayers of the saints; in 15:7 they are full of the wrath of God. The connection is deliberate: God's judgement is His answer to His people's cry for justice. A shallow bowl empties all at once — the bowls are poured out swiftly and completely."
+    },
+    {
+      "english": "Marvelous",
+      "hebrew": "θαυμαστός",
+      "translit": "thaumastós",
+      "strongs": "G2298 (works ἔργον, érgon, G2041)",
+      "verses": "v. 1, 3",
+      "insight": "Strong's: “wondered at, i.e. (by implication) wonderful.” θαυμαστός describes what fills people with wonder. The world ‘marveled’ (θαυμάζω) at the beast (13:3) — impressed by power and a counterfeit resurrection. The redeemed marvel at God's works: ‘Great and marvelous are your works’ (15:3). What a person marvels at shows what they will worship."
+    },
+    {
+      "english": "Testimony",
+      "hebrew": "μαρτύριον",
+      "translit": "martýrion",
+      "strongs": "G3142 (tabernacle σκηνή, skēnḗ, G4633)",
+      "verses": "v. 5",
+      "insight": "Strong's: “something evidential, i.e. (genitive case) evidence given or (specially), the Decalogue (in the sacred Tabernacle).” μαρτύριον, from the witness family, is testimony as evidence — and especially the two tablets of the Ten Commandments kept in the ark, the ‘testimony’ of God's covenant. The ‘tabernacle of the testimony’ is the dwelling that housed them. The bowls of wrath come from there: God's judgements are the faithful enforcement of His own revealed Law."
+    },
+    {
+      "english": "Righteous acts",
+      "hebrew": "δικαίωμα",
+      "translit": "dikaíōma",
+      "strongs": "G1345 (Righteous δίκαιος, díkaios, G1342)",
+      "verses": "v. 4; 19:8",
+      "insight": "Strong's: “an equitable deed; by implication, a statute or decision.” δικαίωμα has two uses in Revelation: God's ‘righteous acts have been revealed’ (15:4) in His judgements, and the bride's fine linen is ‘the righteous acts of the saints’ (19:8). God's justice is made visible in what He does; His people's righteousness is made visible in what they do."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit invites you to join the song of the victors.",
+    "items": [
+      {
+        "title": "You Will Stand on the Sea",
+        "body": "Those who overcame the beast stand on the sea of glass and fire (v. 2). The Spirit wants you to know that whatever sea of trouble you are passing through, God will bring you out on the other side, and you will sing."
+      },
+      {
+        "title": "Make Your Worship About Him",
+        "body": "The victors' song is all about God's works, ways, name and holiness (vv. 3–4). The Spirit invites you to worship today without talking about yourself — just marvelling at who God is and what He has done."
+      },
+      {
+        "title": "Seek Him While the Door Is Open",
+        "body": "In the end, “No one was able to enter into the temple” (v. 8). The Spirit reminds you that now is the day of salvation. Pray for those you love while the door of mercy is open."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Marvel Check",
+        "body": "What are you most impressed by — power, wealth, celebrity — or God's works (vv. 1, 3)?"
+      },
+      {
+        "title": "The Song Check",
+        "body": "Do you have a ‘song of Moses’ — a testimony of how God has brought you through deep waters? When did you last sing it?"
+      },
+      {
+        "title": "The Nations Check",
+        "body": "Do you share heaven's confidence that “all the nations will come and worship” (v. 4)? How does it shape your prayers?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Write Your Exodus Song",
+        "body": "Read Exodus 15:1–18 and Revelation 15:3–4. Then write a short song or psalm of your own about how God has delivered you. Read it aloud to God this week, and share it with someone."
+      },
+      {
+        "title": "A God-Only Prayer",
+        "body": "Spend ten minutes praying only about who God is — His works, ways, holiness and glory — without asking for anything or mentioning yourself (vv. 3–4)."
+      }
+    ]
+  },
+  "prayerReflection": "“Great and marvellous are Your works, Lord God Almighty! Righteous and true are Your ways, King of the nations. Who will not fear You, Lord, and glorify Your name? For You alone are holy. All the nations will come and worship before You, for Your righteous acts have been revealed. Thank You for bringing Your people through the sea, as You brought Israel out of Egypt, and for the greater exodus won by the Lamb. Let me stand with those who overcome the beast, with a harp in my hands and Your song in my mouth. Thank You that Your judgements are just, coming from the place where Your covenant is kept. Fill me with awe at Your glory and power. And while the door of mercy is open, help me pray for those who do not yet know You. In the name of the Lamb, Amen.”",
+  "storyConnections": [
+    {
+      "title": "The Song at the Red Sea",
+      "ref": "Exodus 14:21–15:21",
+      "relatedVerses": "v. 2-4",
+      "summary": "Trapped between Pharaoh's army and the sea, Israel watched as God drove the waters back with a strong east wind. They walked through on dry ground; the Egyptians followed and the waters returned and covered them. On the far shore Moses and the people sang: ‘I will sing to the LORD, for he has triumphed gloriously; the horse and his rider he has thrown into the sea... Who is like you, LORD, among the gods? Who is like you, glorious in holiness?’ Miriam took a tambourine and the women danced. The victors in Revelation 15 sing the same song — now the song of the Lamb."
+    },
+    {
+      "title": "The Glory Fills the Tabernacle",
+      "ref": "Exodus 40:34-38",
+      "relatedVerses": "v. 5-8",
+      "summary": "When Moses finished building the tabernacle exactly as God commanded, the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle. Moses was not able to enter the tent, because the cloud rested on it and the glory filled it. Revelation 15 shows the heavenly reality: the temple of the tent of testimony filled with smoke from God's glory, so that no one can enter until His purposes are complete."
+    },
+    {
+      "title": "Solomon Dedicates the Temple",
+      "ref": "1 Kings 8:1-11",
+      "relatedVerses": "v. 8",
+      "summary": "When the ark of the covenant was brought into Solomon's new temple and the priests came out of the holy place, a cloud filled the house of the LORD, ‘so that the priests could not stand to minister by reason of the cloud; for the glory of the LORD filled the house’. At the dedication of God's dwelling, His presence was so overwhelming that the priests could not do their work. In Revelation 15 that same glory fills heaven's temple as God's final purposes unfold."
+    }
+  ]
+}
