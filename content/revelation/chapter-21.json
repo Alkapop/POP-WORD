@@ -1,0 +1,1914 @@
+{
+  "type": "chapterStudy",
+  "book": "Revelation",
+  "chapter": 21,
+  "chapterTitle": "A New Heaven, a New Earth and the New Jerusalem",
+  "themeTitle": "“Behold, I Am Making All Things New”",
+  "scripture": [
+    {
+      "v": 1,
+      "text": "I saw a new heaven and a new earth: for the first heaven and the first earth have passed away, and the sea is no more.",
+      "understanding": "Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν, “I saw a new heaven and a new earth” — εἴδω, from the see family (and the know family); καινός, from the new family: new in kind and quality, as distinct from νέος, new in time or recently made. Not a different universe, but this one renewed and transformed, as Isaiah promised. γῆ, from the world family. ὁ γὰρ πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ ἀπῆλθαν, “for the first heaven and the first earth have passed away” — ἀπέρχομαι: the old order, scarred by sin and death, is gone. καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι, “and the sea is no more” — the sea was the source of the beast (13:1), the place of chaos, and the barrier that kept John on Patmos. Nothing will separate God's people again.",
+      "words": [
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G565",
+          "hebrew": "ἀπέρχομαι",
+          "translit": "apérchomai",
+          "english": "passed away"
+        },
+        {
+          "strongs": "G2281",
+          "hebrew": "θάλασσα",
+          "translit": "thálassa",
+          "english": "sea"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "text": "I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband.",
+      "understanding": "καὶ τὴν πόλιν τὴν ἁγίαν Ἰερουσαλὴμ καινὴν εἶδον καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ, “I saw the holy city, New Jerusalem, coming down out of heaven from God” — εἴδω, from the see family (and the know family); ἅγιος, from the holy family; καινός, from the new family. It comes down: it is God's gift, not humanity's achievement (contrast Babel, Genesis 11). ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς, “prepared like a bride adorned for her husband” — νύμφη, κοσμέω (from which ‘cosmetic’): the bride of 19:7 is also the city. The prostitute-city falls; the bride-city descends.",
+      "words": [
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G2419",
+          "hebrew": "Ἱερουσαλήμ",
+          "translit": "Hierousalḗm",
+          "english": "Jerusalem"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "New"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2597",
+          "hebrew": "καταβαίνω",
+          "translit": "katabaínō",
+          "english": "coming down"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G2090",
+          "hebrew": "ἑτοιμάζω",
+          "translit": "hetoimázō",
+          "english": "prepared"
+        },
+        {
+          "strongs": "G3565",
+          "hebrew": "νύμφη",
+          "translit": "nýmphē",
+          "english": "bride"
+        },
+        {
+          "strongs": "G2885",
+          "hebrew": "κοσμέω",
+          "translit": "kosméō",
+          "english": "adorned"
+        },
+        {
+          "strongs": "G435",
+          "hebrew": "ἀνήρ",
+          "translit": "anḗr",
+          "english": "husband"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "text": "I heard a loud voice out of heaven saying, “Behold, God’s dwelling is with people, and he will dwell with them, and they will be his people, and God himself will be with them as their God.",
+      "understanding": "καὶ ἤκουσα φωνῆς μεγάλης ἐκ τοῦ θρόνου λεγούσης, “I heard a loud voice out of heaven saying” — many manuscripts read ‘out of the throne’. Ἰδοὺ ἡ σκηνὴ τοῦ θεοῦ μετὰ τῶν ἀνθρώπων, “Behold, God’s dwelling is with people” — σκηνή, a tent: the tabernacle where God lived among Israel. καὶ σκηνώσει μετ᾽ αὐτῶν, “and he will dwell with them” — σκηνόω, the verb John used of the Word who ‘lived among us’. καὶ αὐτοὶ λαοὶ αὐτοῦ ἔσονται, καὶ αὐτὸς ὁ θεὸς μετ᾽ αὐτῶν ἔσται αὐτῶν θεός, “and they will be his people, and God himself will be with them as their God” — the covenant promise repeated through the whole Bible, from Leviticus to Ezekiel, here fulfilled. ‘Peoples’ (plural) in many manuscripts: every nation.",
+      "words": [
+        {
+          "strongs": "G191",
+          "hebrew": "ἀκούω",
+          "translit": "akoúō",
+          "english": "heard"
+        },
+        {
+          "strongs": "G5456",
+          "hebrew": "φωνή",
+          "translit": "phōnḗ",
+          "english": "voice"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "loud"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G4633",
+          "hebrew": "σκηνή",
+          "translit": "skēnḗ",
+          "english": "dwelling"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God’s"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "people"
+        },
+        {
+          "strongs": "G4637",
+          "hebrew": "σκηνόω",
+          "translit": "skēnóō",
+          "english": "dwell"
+        },
+        {
+          "strongs": "G2992",
+          "hebrew": "λαός",
+          "translit": "laós",
+          "english": "people"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "text": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.”",
+      "understanding": "καὶ ἐξαλείψει πᾶν δάκρυον ἐκ τῶν ὀφθαλμῶν αὐτῶν, “He will wipe away every tear from their eyes” — the promise of 7:17 and Isaiah 25:8. God Himself does it. καὶ ὁ θάνατος οὐκ ἔσται ἔτι, οὔτε πένθος οὔτε κραυγὴ οὔτε πόνος οὐκ ἔσται ἔτι, “Death will be no more; neither will there be mourning, nor crying, nor pain, any more” — five things gone forever. Babylon was promised mourning (18:7–8); the new Jerusalem will never know it. ὅτι τὰ πρῶτα ἀπῆλθαν, “The first things have passed away” — πρῶτος: the old order of a fallen world.",
+      "words": [
+        {
+          "strongs": "G1813",
+          "hebrew": "ἐξαλείφω",
+          "translit": "exaleíphō",
+          "english": "wipe away"
+        },
+        {
+          "strongs": "G1144",
+          "hebrew": "δάκρυ",
+          "translit": "dákry",
+          "english": "tear"
+        },
+        {
+          "strongs": "G3788",
+          "hebrew": "ὀφθαλμός",
+          "translit": "ophthalmós",
+          "english": "eyes"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "Death"
+        },
+        {
+          "strongs": "G3997",
+          "hebrew": "πένθος",
+          "translit": "pénthos",
+          "english": "mourning"
+        },
+        {
+          "strongs": "G2906",
+          "hebrew": "κραυγή",
+          "translit": "kraugḗ",
+          "english": "crying"
+        },
+        {
+          "strongs": "G4192",
+          "hebrew": "πόνος",
+          "translit": "pónos",
+          "english": "pain"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G565",
+          "hebrew": "ἀπέρχομαι",
+          "translit": "apérchomai",
+          "english": "passed away"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "text": "He who sits on the throne said, “Behold, I am making all things new.” He said, “Write, for these words of God are faithful and true.”",
+      "understanding": "Καὶ εἶπεν ὁ καθήμενος ἐπὶ τῷ θρόνῳ, “He who sits on the throne said” — God speaks directly, for only the second time in the book (1:8). Ἰδοὺ καινὰ ποιῶ πάντα, “Behold, I am making all things new” — καινός, from the new family: not ‘all new things’ but ‘all things new’ — renewal, not replacement; present tense: He is already doing it (2 Corinthians 5:17). καὶ λέγει· Γράψον, ὅτι οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί εἰσιν, “He said, ‘Write, for these words of God are faithful and true’” — λόγος, from the word family: the titles of Christ (19:11) given to His words.",
+      "words": [
+        {
+          "strongs": "G2521",
+          "hebrew": "κάθημαι",
+          "translit": "káthēmai",
+          "english": "sits"
+        },
+        {
+          "strongs": "G2362",
+          "hebrew": "θρόνος",
+          "translit": "thrónos",
+          "english": "throne"
+        },
+        {
+          "strongs": "G2537",
+          "hebrew": "καινός",
+          "translit": "kainós",
+          "english": "new"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "making"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "Write"
+        },
+        {
+          "strongs": "G3056",
+          "hebrew": "λόγος",
+          "translit": "lógos",
+          "english": "words"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G4103",
+          "hebrew": "πιστός",
+          "translit": "pistós",
+          "english": "faithful"
+        },
+        {
+          "strongs": "G228",
+          "hebrew": "ἀληθινός",
+          "translit": "alēthinós",
+          "english": "true"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "text": "He said to me, “I have become the Alpha and the Omega, the Beginning and the End. I will give freely to him who is thirsty from the spring of the water of life.",
+      "understanding": "καὶ εἶπέν μοι· Γέγοναν, “He said to me, ‘It is done!’” — γίνομαι, perfect tense, as at the seventh bowl (16:17); the WEB here reads ‘I have become’, following some manuscripts. Ἐγώ εἰμι τὸ Ἄλφα καὶ τὸ Ὦ, ἡ ἀρχὴ καὶ τὸ τέλος, “the Alpha and the Omega, the Beginning and the End” — ἀρχή, from the power family: the source and ruler; τέλος, from the perfect family: the goal and completion. God is where everything comes from and where everything is going. ἐγὼ τῷ διψῶντι δώσω ἐκ τῆς πηγῆς τοῦ ὕδατος τῆς ζωῆς δωρεάν, “I will give freely to him who is thirsty from the spring of the water of life” — ζωή, from the life family; δωρεάν, as a free gift, without cost (Isaiah 55:1).",
+      "words": [
+        {
+          "strongs": "G1096",
+          "hebrew": "γίνομαι",
+          "translit": "gínomai",
+          "english": "become"
+        },
+        {
+          "strongs": "G1",
+          "hebrew": "Α",
+          "translit": "A",
+          "english": "Alpha"
+        },
+        {
+          "strongs": "G5598",
+          "hebrew": "Ω",
+          "translit": "Ō",
+          "english": "Omega"
+        },
+        {
+          "strongs": "G746",
+          "hebrew": "ἀρχή",
+          "translit": "archḗ",
+          "english": "Beginning"
+        },
+        {
+          "strongs": "G5056",
+          "hebrew": "τέλος",
+          "translit": "télos",
+          "english": "End"
+        },
+        {
+          "strongs": "G1372",
+          "hebrew": "διψάω",
+          "translit": "dipsáō",
+          "english": "thirsty"
+        },
+        {
+          "strongs": "G1325",
+          "hebrew": "δίδωμι",
+          "translit": "dídōmi",
+          "english": "give"
+        },
+        {
+          "strongs": "G4077",
+          "hebrew": "πηγή",
+          "translit": "pēgḗ",
+          "english": "spring"
+        },
+        {
+          "strongs": "G5204",
+          "hebrew": "ὕδωρ",
+          "translit": "hýdōr",
+          "english": "water"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G1432",
+          "hebrew": "δωρεάν",
+          "translit": "dōreán",
+          "english": "freely"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "text": "He who overcomes, I will give him these things. I will be his God, and he will be my son.",
+      "understanding": "ὁ νικῶν κληρονομήσει ταῦτα, “He who overcomes, I will give him these things” — νικάω: the last of Revelation's promises to the overcomer (2:7–3:21), and the sum of them all; κληρονομέω, to inherit: the WEB renders it ‘I will give him’. καὶ ἔσομαι αὐτῷ θεὸς καὶ αὐτὸς ἔσται μοι υἱός, “I will be his God, and he will be my son” — the promise to David's son (2 Samuel 7:14), now given to every believer: they share the Son's place.",
+      "words": [
+        {
+          "strongs": "G3528",
+          "hebrew": "νικάω",
+          "translit": "nikáō",
+          "english": "overcomes"
+        },
+        {
+          "strongs": "G2816",
+          "hebrew": "κληρονομέω",
+          "translit": "klēronoméō",
+          "english": "give"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "son"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "text": "But for the cowardly, unbelieving, sinners, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars, their part is in the lake that burns with fire and sulfur, which is the second death.”",
+      "understanding": "τοῖς δὲ δειλοῖς καὶ ἀπίστοις καὶ ἁμαρτωλοῖς, “But for the cowardly, unbelieving, sinners” — δειλός, the coward who denies Christ under pressure; ἄπιστος, the unbelieving or unfaithful; ἁμαρτωλός, from the sin family (found in some manuscripts). καὶ ἐβδελυγμένοις καὶ φονεῦσιν καὶ πόρνοις καὶ φαρμάκοις καὶ εἰδωλολάτραις καὶ πᾶσιν τοῖς ψευδέσιν, “abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars” — the marks of Babylon and the beast's followers (9:21; 17:4; 22:15). τὸ μέρος αὐτῶν ἐν τῇ λίμνῃ τῇ καιομένῃ πυρὶ καὶ θείῳ, ὅ ἐστιν ὁ θάνατος ὁ δεύτερος, “their part is in the lake that burns with fire and sulfur, which is the second death” — λίμνη. A warning to the churches: those who persist in these, refusing grace, have no place in the city.",
+      "words": [
+        {
+          "strongs": "G1169",
+          "hebrew": "δειλός",
+          "translit": "deilós",
+          "english": "cowardly"
+        },
+        {
+          "strongs": "G571",
+          "hebrew": "ἄπιστος",
+          "translit": "ápistos",
+          "english": "unbelieving"
+        },
+        {
+          "strongs": "G268",
+          "hebrew": "ἁμαρτωλός",
+          "translit": "hamartōlós",
+          "english": "sinners"
+        },
+        {
+          "strongs": "G948",
+          "hebrew": "βδελύσσω",
+          "translit": "bdelýssō",
+          "english": "abominable"
+        },
+        {
+          "strongs": "G5406",
+          "hebrew": "φονεύς",
+          "translit": "phoneús",
+          "english": "murderers"
+        },
+        {
+          "strongs": "G4205",
+          "hebrew": "πόρνος",
+          "translit": "pórnos",
+          "english": "sexually immoral"
+        },
+        {
+          "strongs": "G5332",
+          "hebrew": "φαρμακεύς",
+          "translit": "pharmakeús",
+          "english": "sorcerers"
+        },
+        {
+          "strongs": "G1496",
+          "hebrew": "εἰδωλολάτρης",
+          "translit": "eidōlolátrēs",
+          "english": "idolaters"
+        },
+        {
+          "strongs": "G5571",
+          "hebrew": "ψευδής",
+          "translit": "pseudḗs",
+          "english": "liars"
+        },
+        {
+          "strongs": "G3313",
+          "hebrew": "μέρος",
+          "translit": "méros",
+          "english": "part"
+        },
+        {
+          "strongs": "G3041",
+          "hebrew": "λίμνη",
+          "translit": "límnē",
+          "english": "lake"
+        },
+        {
+          "strongs": "G2545",
+          "hebrew": "καίω",
+          "translit": "kaíō",
+          "english": "burns"
+        },
+        {
+          "strongs": "G4442",
+          "hebrew": "πῦρ",
+          "translit": "pŷr",
+          "english": "fire"
+        },
+        {
+          "strongs": "G2303",
+          "hebrew": "θεῖον",
+          "translit": "theîon",
+          "english": "sulfur"
+        },
+        {
+          "strongs": "G1208",
+          "hebrew": "δεύτερος",
+          "translit": "deúteros",
+          "english": "second"
+        },
+        {
+          "strongs": "G2288",
+          "hebrew": "θάνατος",
+          "translit": "thánatos",
+          "english": "death"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "text": "One of the seven angels who had the seven bowls, who were loaded with the seven last plagues came, and he spoke with me, saying, “Come here. I will show you the wife, the Lamb’s bride.”",
+      "understanding": "Καὶ ἦλθεν εἷς ἐκ τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας, “One of the seven angels who had the seven bowls... came” — the same kind of angel that showed John the prostitute (17:1): a deliberate contrast. Δεῦρο, δείξω σοι τὴν νύμφην τὴν γυναῖκα τοῦ ἀρνίου, “Come here. I will show you the wife, the Lamb’s bride” — νύμφη; ἀρνίον, from the lamb family.",
+      "words": [
+        {
+          "strongs": "G2033",
+          "hebrew": "ἑπτά",
+          "translit": "heptá",
+          "english": "seven"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G5357",
+          "hebrew": "φιάλη",
+          "translit": "phiálē",
+          "english": "bowls"
+        },
+        {
+          "strongs": "G1073",
+          "hebrew": "γέμω",
+          "translit": "gémō",
+          "english": "loaded"
+        },
+        {
+          "strongs": "G4127",
+          "hebrew": "πληγή",
+          "translit": "plēgḗ",
+          "english": "plagues"
+        },
+        {
+          "strongs": "G2078",
+          "hebrew": "ἔσχατος",
+          "translit": "éschatos",
+          "english": "last"
+        },
+        {
+          "strongs": "G2064",
+          "hebrew": "ἔρχομαι",
+          "translit": "érchomai",
+          "english": "came"
+        },
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoke"
+        },
+        {
+          "strongs": "G1166",
+          "hebrew": "δεικνύω",
+          "translit": "deiknýō",
+          "english": "show"
+        },
+        {
+          "strongs": "G1135",
+          "hebrew": "γυνή",
+          "translit": "gynḗ",
+          "english": "wife"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb’s"
+        },
+        {
+          "strongs": "G3565",
+          "hebrew": "νύμφη",
+          "translit": "nýmphē",
+          "english": "bride"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "text": "He carried me away in the Spirit to a great and high mountain, and showed me the holy city, Jerusalem, coming down out of heaven from God,",
+      "understanding": "καὶ ἀπήνεγκέν με ἐν πνεύματι ἐπὶ ὄρος μέγα καὶ ὑψηλόν, “He carried me away in the Spirit to a great and high mountain” — Babylon was seen from a wilderness (17:3); the bride from a mountain, like Ezekiel's vision of the new temple. καὶ ἔδειξέν μοι τὴν πόλιν τὴν ἁγίαν Ἰερουσαλὴμ καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ, “and showed me the holy city, Jerusalem, coming down out of heaven from God” — ἅγιος, from the holy family. The bride is a city: God's people living together in His presence.",
+      "words": [
+        {
+          "strongs": "G667",
+          "hebrew": "ἀποφέρω",
+          "translit": "apophérō",
+          "english": "carried"
+        },
+        {
+          "strongs": "G4151",
+          "hebrew": "πνεῦμα",
+          "translit": "pneûma",
+          "english": "Spirit"
+        },
+        {
+          "strongs": "G3735",
+          "hebrew": "ὄρος",
+          "translit": "óros",
+          "english": "mountain"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G5308",
+          "hebrew": "ὑψηλός",
+          "translit": "hypsēlós",
+          "english": "high"
+        },
+        {
+          "strongs": "G1166",
+          "hebrew": "δεικνύω",
+          "translit": "deiknýō",
+          "english": "showed"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G40",
+          "hebrew": "ἅγιος",
+          "translit": "hágios",
+          "english": "holy"
+        },
+        {
+          "strongs": "G2419",
+          "hebrew": "Ἱερουσαλήμ",
+          "translit": "Hierousalḗm",
+          "english": "Jerusalem"
+        },
+        {
+          "strongs": "G2597",
+          "hebrew": "καταβαίνω",
+          "translit": "katabaínō",
+          "english": "coming down"
+        },
+        {
+          "strongs": "G3772",
+          "hebrew": "οὐρανός",
+          "translit": "ouranós",
+          "english": "heaven"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "text": "having the glory of God. Her light was like a most precious stone, as if it were a jasper stone, clear as crystal;",
+      "understanding": "ἔχουσαν τὴν δόξαν τοῦ θεοῦ, “having the glory of God” — the glory that filled the tabernacle and the temple now fills the whole city. ὁ φωστὴρ αὐτῆς ὅμοιος λίθῳ τιμιωτάτῳ, ὡς λίθῳ ἰάσπιδι κρυσταλλίζοντι, “Her light was like a most precious stone, as if it were a jasper stone, clear as crystal” — φωστήρ, a radiance; ἴασπις: the One on the throne looked like jasper (4:3). The city shines with God's own appearance.",
+      "words": [
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "having"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5458",
+          "hebrew": "φωστήρ",
+          "translit": "phōstḗr",
+          "english": "light"
+        },
+        {
+          "strongs": "G3664",
+          "hebrew": "ὅμοιος",
+          "translit": "hómoios",
+          "english": "like"
+        },
+        {
+          "strongs": "G3037",
+          "hebrew": "λίθος",
+          "translit": "líthos",
+          "english": "stone"
+        },
+        {
+          "strongs": "G5093",
+          "hebrew": "τίμιος",
+          "translit": "tímios",
+          "english": "precious"
+        },
+        {
+          "strongs": "G2393",
+          "hebrew": "ἴασπις",
+          "translit": "íaspis",
+          "english": "jasper"
+        },
+        {
+          "strongs": "G2929",
+          "hebrew": "κρυσταλλίζω",
+          "translit": "krystallízō",
+          "english": "clear as crystal"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "text": "having a great and high wall; having twelve gates, and at the gates twelve angels; and names written on them, which are the names of the twelve tribes of the children of Israel.",
+      "understanding": "ἔχουσα τεῖχος μέγα καὶ ὑψηλόν, “having a great and high wall” — τεῖχος: security; nothing unclean can enter (v. 27). ἔχουσα πυλῶνας δώδεκα, καὶ ἐπὶ τοῖς πυλῶσιν ἀγγέλους δώδεκα, “having twelve gates, and at the gates twelve angels” — πυλών, a gateway. καὶ ὀνόματα ἐπιγεγραμμένα, ἅ ἐστιν τῶν δώδεκα φυλῶν υἱῶν Ἰσραήλ, “and names written on them, which are the names of the twelve tribes of the children of Israel” — as in Ezekiel's city (Ezekiel 48:31–34). The people of God of the Old Testament are its gates.",
+      "words": [
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "having"
+        },
+        {
+          "strongs": "G5038",
+          "hebrew": "τεῖχος",
+          "translit": "teîchos",
+          "english": "wall"
+        },
+        {
+          "strongs": "G3173",
+          "hebrew": "μέγας",
+          "translit": "mégas",
+          "english": "great"
+        },
+        {
+          "strongs": "G5308",
+          "hebrew": "ὑψηλός",
+          "translit": "hypsēlós",
+          "english": "high"
+        },
+        {
+          "strongs": "G1427",
+          "hebrew": "δώδεκα",
+          "translit": "dṓdeka",
+          "english": "twelve"
+        },
+        {
+          "strongs": "G4440",
+          "hebrew": "πυλών",
+          "translit": "pylṓn",
+          "english": "gates"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angels"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "names"
+        },
+        {
+          "strongs": "G1924",
+          "hebrew": "ἐπιγράφω",
+          "translit": "epigráphō",
+          "english": "written"
+        },
+        {
+          "strongs": "G5443",
+          "hebrew": "φυλή",
+          "translit": "phylḗ",
+          "english": "tribes"
+        },
+        {
+          "strongs": "G5207",
+          "hebrew": "υἱός",
+          "translit": "huiós",
+          "english": "children"
+        },
+        {
+          "strongs": "G2474",
+          "hebrew": "Ἰσραήλ",
+          "translit": "Israḗl",
+          "english": "Israel"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "text": "On the east were three gates; and on the north three gates; and on the south three gates; and on the west three gates.",
+      "understanding": "ἀπὸ ἀνατολῆς πυλῶνες τρεῖς καὶ ἀπὸ βορρᾶ πυλῶνες τρεῖς καὶ ἀπὸ νότου πυλῶνες τρεῖς καὶ ἀπὸ δυσμῶν πυλῶνες τρεῖς, “On the east were three gates; and on the north three gates; and on the south three gates; and on the west three gates” — πυλών. Gates on every side: people come from every direction of the earth (Luke 13:29).",
+      "words": [
+        {
+          "strongs": "G395",
+          "hebrew": "ἀνατολή",
+          "translit": "anatolḗ",
+          "english": "east"
+        },
+        {
+          "strongs": "G5140",
+          "hebrew": "τρεῖς",
+          "translit": "treîs",
+          "english": "three"
+        },
+        {
+          "strongs": "G4440",
+          "hebrew": "πυλών",
+          "translit": "pylṓn",
+          "english": "gates"
+        },
+        {
+          "strongs": "G1005",
+          "hebrew": "βοῤῥᾶς",
+          "translit": "borrhâs",
+          "english": "north"
+        },
+        {
+          "strongs": "G3558",
+          "hebrew": "νότος",
+          "translit": "nótos",
+          "english": "south"
+        },
+        {
+          "strongs": "G1424",
+          "hebrew": "δυσμή",
+          "translit": "dysmḗ",
+          "english": "west"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "text": "The wall of the city had twelve foundations, and on them twelve names of the twelve Apostles of the Lamb.",
+      "understanding": "καὶ τὸ τεῖχος τῆς πόλεως ἔχων θεμελίους δώδεκα, “The wall of the city had twelve foundations” — θεμέλιος: Abraham ‘looked for the city which has the foundations’ (Hebrews 11:10). καὶ ἐπ᾽ αὐτῶν δώδεκα ὀνόματα τῶν δώδεκα ἀποστόλων τοῦ ἀρνίου, “and on them twelve names of the twelve Apostles of the Lamb” — ἀρνίον, from the lamb family. Twelve tribes on the gates, twelve apostles on the foundations: one people of God, Old and New Testament together (Ephesians 2:20).",
+      "words": [
+        {
+          "strongs": "G5038",
+          "hebrew": "τεῖχος",
+          "translit": "teîchos",
+          "english": "wall"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "had"
+        },
+        {
+          "strongs": "G1427",
+          "hebrew": "δώδεκα",
+          "translit": "dṓdeka",
+          "english": "twelve"
+        },
+        {
+          "strongs": "G2310",
+          "hebrew": "θεμέλιος",
+          "translit": "themélios",
+          "english": "foundations"
+        },
+        {
+          "strongs": "G3686",
+          "hebrew": "ὄνομα",
+          "translit": "ónoma",
+          "english": "names"
+        },
+        {
+          "strongs": "G652",
+          "hebrew": "ἀπόστολος",
+          "translit": "apóstolos",
+          "english": "Apostles"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "text": "He who spoke with me had for a measure a golden reed to measure the city, its gates, and its walls.",
+      "understanding": "Καὶ ὁ λαλῶν μετ᾽ ἐμοῦ εἶχεν μέτρον κάλαμον χρυσοῦν, “He who spoke with me had for a measure a golden reed” — κάλαμος, as in 11:1. ἵνα μετρήσῃ τὴν πόλιν καὶ τοὺς πυλῶνας αὐτῆς καὶ τὸ τεῖχος αὐτῆς, “to measure the city, its gates, and its walls” — μετρέω: measuring marks it as God's, protected and perfect, as in Ezekiel 40.",
+      "words": [
+        {
+          "strongs": "G2980",
+          "hebrew": "λαλέω",
+          "translit": "laléō",
+          "english": "spoke"
+        },
+        {
+          "strongs": "G2192",
+          "hebrew": "ἔχω",
+          "translit": "échō",
+          "english": "had"
+        },
+        {
+          "strongs": "G3358",
+          "hebrew": "μέτρον",
+          "translit": "métron",
+          "english": "measure"
+        },
+        {
+          "strongs": "G2563",
+          "hebrew": "κάλαμος",
+          "translit": "kálamos",
+          "english": "reed"
+        },
+        {
+          "strongs": "G5552",
+          "hebrew": "χρύσεος",
+          "translit": "chrýseos",
+          "english": "golden"
+        },
+        {
+          "strongs": "G3354",
+          "hebrew": "μετρέω",
+          "translit": "metréō",
+          "english": "measure"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G4440",
+          "hebrew": "πυλών",
+          "translit": "pylṓn",
+          "english": "gates"
+        },
+        {
+          "strongs": "G5038",
+          "hebrew": "τεῖχος",
+          "translit": "teîchos",
+          "english": "walls"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "text": "The city is square, and its length is as great as its width. He measured the city with the reed, twelve thousand twelve stadia. Its length, width, and height are equal.",
+      "understanding": "καὶ ἡ πόλις τετράγωνος κεῖται, “The city is square” — τετράγωνος. καὶ ἐμέτρησεν τὴν πόλιν τῷ καλάμῳ ἐπὶ σταδίων δώδεκα χιλιάδων, “He measured the city with the reed, twelve thousand twelve stadia” — about 2,200 kilometres: the size of the known world from Spain to India. τὸ μῆκος καὶ τὸ πλάτος καὶ τὸ ὕψος αὐτῆς ἴσα ἐστίν, “Its length, width, and height are equal” — a perfect cube, like the Most Holy Place in Solomon's temple (1 Kings 6:20). The whole city is the Holy of Holies: God's people live in His immediate presence.",
+      "words": [
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G5068",
+          "hebrew": "τετράγωνος",
+          "translit": "tetrágōnos",
+          "english": "square"
+        },
+        {
+          "strongs": "G2749",
+          "hebrew": "κεῖμαι",
+          "translit": "keîmai",
+          "english": "is"
+        },
+        {
+          "strongs": "G3372",
+          "hebrew": "μῆκος",
+          "translit": "mēkos",
+          "english": "length"
+        },
+        {
+          "strongs": "G4114",
+          "hebrew": "πλάτος",
+          "translit": "plátos",
+          "english": "width"
+        },
+        {
+          "strongs": "G3354",
+          "hebrew": "μετρέω",
+          "translit": "metréō",
+          "english": "measured"
+        },
+        {
+          "strongs": "G2563",
+          "hebrew": "κάλαμος",
+          "translit": "kálamos",
+          "english": "reed"
+        },
+        {
+          "strongs": "G1427",
+          "hebrew": "δώδεκα",
+          "translit": "dṓdeka",
+          "english": "twelve"
+        },
+        {
+          "strongs": "G5505",
+          "hebrew": "χιλιάς",
+          "translit": "chiliás",
+          "english": "thousand"
+        },
+        {
+          "strongs": "G4712",
+          "hebrew": "στάδιον",
+          "translit": "stádion",
+          "english": "stadia"
+        },
+        {
+          "strongs": "G5311",
+          "hebrew": "ὕψος",
+          "translit": "hýpsos",
+          "english": "height"
+        },
+        {
+          "strongs": "G2470",
+          "hebrew": "ἴσος",
+          "translit": "ísos",
+          "english": "equal"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "text": "Its wall is one hundred forty-four cubits, by the measure of a man, that is, of an angel.",
+      "understanding": "καὶ ἐμέτρησεν τὸ τεῖχος αὐτῆς ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν, “Its wall is one hundred forty-four cubits” — 12 × 12: the number of God's people (7:4). μέτρον ἀνθρώπου, ὅ ἐστιν ἀγγέλου, “by the measure of a man, that is, of an angel” — ordinary human measurements, used by the angel: the city is real, though beyond imagining.",
+      "words": [
+        {
+          "strongs": "G3354",
+          "hebrew": "μετρέω",
+          "translit": "metréō",
+          "english": "measured"
+        },
+        {
+          "strongs": "G5038",
+          "hebrew": "τεῖχος",
+          "translit": "teîchos",
+          "english": "wall"
+        },
+        {
+          "strongs": "G1540",
+          "hebrew": "ἑκατόν",
+          "translit": "hekatón",
+          "english": "one hundred"
+        },
+        {
+          "strongs": "G5062",
+          "hebrew": "τεσσαράκοντα",
+          "translit": "tessarákonta",
+          "english": "forty"
+        },
+        {
+          "strongs": "G5064",
+          "hebrew": "τέσσαρες",
+          "translit": "téssares",
+          "english": "four"
+        },
+        {
+          "strongs": "G4083",
+          "hebrew": "πῆχυς",
+          "translit": "pēchys",
+          "english": "cubits"
+        },
+        {
+          "strongs": "G3358",
+          "hebrew": "μέτρον",
+          "translit": "métron",
+          "english": "measure"
+        },
+        {
+          "strongs": "G444",
+          "hebrew": "ἄνθρωπος",
+          "translit": "ánthrōpos",
+          "english": "man"
+        },
+        {
+          "strongs": "G32",
+          "hebrew": "ἄγγελος",
+          "translit": "ángelos",
+          "english": "angel"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "text": "The construction of its wall was jasper. The city was pure gold, like pure glass.",
+      "understanding": "καὶ ἡ ἐνδώμησις τοῦ τείχους αὐτῆς ἴασπις, “The construction of its wall was jasper” — the stone of God's appearance (4:3). καὶ ἡ πόλις χρυσίον καθαρὸν ὅμοιον ὑάλῳ καθαρῷ, “The city was pure gold, like pure glass” — the inside of the Most Holy Place was overlaid with pure gold. Gold so pure it is transparent. What Babylon wore on the outside (17:4), the new Jerusalem is all the way through.",
+      "words": [
+        {
+          "strongs": "G1739",
+          "hebrew": "ἐνδόμησις",
+          "translit": "endómēsis",
+          "english": "construction"
+        },
+        {
+          "strongs": "G5038",
+          "hebrew": "τεῖχος",
+          "translit": "teîchos",
+          "english": "wall"
+        },
+        {
+          "strongs": "G2393",
+          "hebrew": "ἴασπις",
+          "translit": "íaspis",
+          "english": "jasper"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G5553",
+          "hebrew": "χρυσίον",
+          "translit": "chrysíon",
+          "english": "gold"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G3664",
+          "hebrew": "ὅμοιος",
+          "translit": "hómoios",
+          "english": "like"
+        },
+        {
+          "strongs": "G5194",
+          "hebrew": "ὕαλος",
+          "translit": "hýalos",
+          "english": "glass"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "text": "The foundations of the city’s wall were adorned with all kinds of precious stones. The first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald;",
+      "understanding": "οἱ θεμέλιοι τοῦ τείχους τῆς πόλεως παντὶ λίθῳ τιμίῳ κεκοσμημένοι, “The foundations of the city’s wall were adorned with all kinds of precious stones” — κοσμέω, as the bride was adorned (v. 2). The twelve stones recall the twelve stones on the high priest's breastplate, each engraved with a tribe's name. ὁ θεμέλιος ὁ πρῶτος ἴασπις, ὁ δεύτερος σάπφειρος, ὁ τρίτος χαλκηδών, ὁ τέταρτος σμάραγδος, “The first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald” — the whole people of God, carried on the heart of their great High Priest.",
+      "words": [
+        {
+          "strongs": "G2310",
+          "hebrew": "θεμέλιος",
+          "translit": "themélios",
+          "english": "foundations"
+        },
+        {
+          "strongs": "G5038",
+          "hebrew": "τεῖχος",
+          "translit": "teîchos",
+          "english": "wall"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G2885",
+          "hebrew": "κοσμέω",
+          "translit": "kosméō",
+          "english": "adorned"
+        },
+        {
+          "strongs": "G3037",
+          "hebrew": "λίθος",
+          "translit": "líthos",
+          "english": "stones"
+        },
+        {
+          "strongs": "G5093",
+          "hebrew": "τίμιος",
+          "translit": "tímios",
+          "english": "precious"
+        },
+        {
+          "strongs": "G4413",
+          "hebrew": "πρῶτος",
+          "translit": "prōtos",
+          "english": "first"
+        },
+        {
+          "strongs": "G2393",
+          "hebrew": "ἴασπις",
+          "translit": "íaspis",
+          "english": "jasper"
+        },
+        {
+          "strongs": "G1208",
+          "hebrew": "δεύτερος",
+          "translit": "deúteros",
+          "english": "second"
+        },
+        {
+          "strongs": "G4552",
+          "hebrew": "σάπφειρος",
+          "translit": "sáppheiros",
+          "english": "sapphire"
+        },
+        {
+          "strongs": "G5154",
+          "hebrew": "τρίτος",
+          "translit": "trítos",
+          "english": "third"
+        },
+        {
+          "strongs": "G5472",
+          "hebrew": "χαλκηδών",
+          "translit": "chalkēdṓn",
+          "english": "chalcedony"
+        },
+        {
+          "strongs": "G5067",
+          "hebrew": "τέταρτος",
+          "translit": "tétartos",
+          "english": "fourth"
+        },
+        {
+          "strongs": "G4665",
+          "hebrew": "σμάραγδος",
+          "translit": "smáragdos",
+          "english": "emerald"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "text": "the fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, topaz; the tenth, chrysoprasus; the eleventh, jacinth; and the twelfth, amethyst.",
+      "understanding": "ὁ πέμπτος σαρδόνυξ, ὁ ἕκτος σάρδιον, ὁ ἕβδομος χρυσόλιθος, ὁ ὄγδοος βήρυλλος, “the fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl” — ὁ ἔνατος τοπάζιον, ὁ δέκατος χρυσόπρασος, ὁ ἑνδέκατος ὑάκινθος, ὁ δωδέκατος ἀμέθυστος, “the ninth, topaz; the tenth, chrysoprasus; the eleventh, jacinth; and the twelfth, amethyst” — the exact identity of some ancient stones is uncertain; the point is dazzling variety and beauty, every colour of light.",
+      "words": [
+        {
+          "strongs": "G3991",
+          "hebrew": "πέμπτος",
+          "translit": "pémptos",
+          "english": "fifth"
+        },
+        {
+          "strongs": "G4557",
+          "hebrew": "σαρδόνυξ",
+          "translit": "sardónyx",
+          "english": "sardonyx"
+        },
+        {
+          "strongs": "G1623",
+          "hebrew": "ἕκτος",
+          "translit": "héktos",
+          "english": "sixth"
+        },
+        {
+          "strongs": "G4556",
+          "hebrew": "σάρδιος",
+          "translit": "sárdios",
+          "english": "sardius"
+        },
+        {
+          "strongs": "G1442",
+          "hebrew": "ἕβδομος",
+          "translit": "hébdomos",
+          "english": "seventh"
+        },
+        {
+          "strongs": "G5555",
+          "hebrew": "χρυσόλιθος",
+          "translit": "chrysólithos",
+          "english": "chrysolite"
+        },
+        {
+          "strongs": "G3590",
+          "hebrew": "ὄγδοος",
+          "translit": "ógdoos",
+          "english": "eighth"
+        },
+        {
+          "strongs": "G969",
+          "hebrew": "βήρυλλος",
+          "translit": "bḗryllos",
+          "english": "beryl"
+        },
+        {
+          "strongs": "G1766",
+          "hebrew": "ἔννατος",
+          "translit": "énnatos",
+          "english": "ninth"
+        },
+        {
+          "strongs": "G5116",
+          "hebrew": "τοπάζιον",
+          "translit": "topázion",
+          "english": "topaz"
+        },
+        {
+          "strongs": "G1182",
+          "hebrew": "δέκατος",
+          "translit": "dékatos",
+          "english": "tenth"
+        },
+        {
+          "strongs": "G5556",
+          "hebrew": "χρυσόπρασος",
+          "translit": "chrysóprasos",
+          "english": "chrysoprasus"
+        },
+        {
+          "strongs": "G1734",
+          "hebrew": "ἑνδέκατος",
+          "translit": "hendékatos",
+          "english": "eleventh"
+        },
+        {
+          "strongs": "G5192",
+          "hebrew": "ὑάκινθος",
+          "translit": "hyákinthos",
+          "english": "jacinth"
+        },
+        {
+          "strongs": "G1428",
+          "hebrew": "δωδέκατος",
+          "translit": "dōdékatos",
+          "english": "twelfth"
+        },
+        {
+          "strongs": "G271",
+          "hebrew": "ἀμέθυστος",
+          "translit": "améthystos",
+          "english": "amethyst"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "text": "The twelve gates were twelve pearls. Each one of the gates was made of one pearl. The street of the city was pure gold, like transparent glass.",
+      "understanding": "καὶ οἱ δώδεκα πυλῶνες δώδεκα μαργαρῖται, “The twelve gates were twelve pearls” — μαργαρίτης: a pearl is formed through the oyster's suffering; Jesus told of a merchant who sold all for one pearl of great price. The prostitute wore pearls (17:4); the bride is entered through them. ἀνὰ εἷς ἕκαστος τῶν πυλώνων ἦν ἐξ ἑνὸς μαργαρίτου, “Each one of the gates was made of one pearl” — καὶ ἡ πλατεῖα τῆς πόλεως χρυσίον καθαρὸν ὡς ὕαλος διαυγής, “The street of the city was pure gold, like transparent glass” — what people most prize on earth, God's people walk on.",
+      "words": [
+        {
+          "strongs": "G1427",
+          "hebrew": "δώδεκα",
+          "translit": "dṓdeka",
+          "english": "twelve"
+        },
+        {
+          "strongs": "G4440",
+          "hebrew": "πυλών",
+          "translit": "pylṓn",
+          "english": "gates"
+        },
+        {
+          "strongs": "G3135",
+          "hebrew": "μαργαρίτης",
+          "translit": "margarítēs",
+          "english": "pearls"
+        },
+        {
+          "strongs": "G4113",
+          "hebrew": "πλατεῖα",
+          "translit": "plateîa",
+          "english": "street"
+        },
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G5553",
+          "hebrew": "χρυσίον",
+          "translit": "chrysíon",
+          "english": "gold"
+        },
+        {
+          "strongs": "G2513",
+          "hebrew": "καθαρός",
+          "translit": "katharós",
+          "english": "pure"
+        },
+        {
+          "strongs": "G5194",
+          "hebrew": "ὕαλος",
+          "translit": "hýalos",
+          "english": "glass"
+        },
+        {
+          "strongs": "G1307",
+          "hebrew": "διαφανής",
+          "translit": "diaphanḗs",
+          "english": "transparent"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "text": "I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple.",
+      "understanding": "Καὶ ναὸν οὐκ εἶδον ἐν αὐτῇ, “I saw no temple in it” — εἴδω, from the see family (and the know family); ναός. Startling to a Jewish reader: the city of God without a temple. ὁ γὰρ κύριος ὁ θεὸς ὁ παντοκράτωρ ναὸς αὐτῆς ἐστιν, καὶ τὸ ἀρνίον, “for the Lord God, the Almighty, and the Lamb, are its temple” — ἀρνίον, from the lamb family. No building is needed when God is present everywhere and directly. Jesus spoke of His body as the temple (John 2:19–21).",
+      "words": [
+        {
+          "strongs": "G3485",
+          "hebrew": "ναός",
+          "translit": "naós",
+          "english": "temple"
+        },
+        {
+          "strongs": "G1492",
+          "hebrew": "εἴδω",
+          "translit": "eídō",
+          "english": "saw"
+        },
+        {
+          "strongs": "G2962",
+          "hebrew": "κύριος",
+          "translit": "kýrios",
+          "english": "Lord"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G3841",
+          "hebrew": "παντοκράτωρ",
+          "translit": "pantokrátōr",
+          "english": "Almighty"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "text": "The city has no need for the sun, neither of the moon, to shine, for the very glory of God illuminated it, and its lamp is the Lamb.",
+      "understanding": "καὶ ἡ πόλις οὐ χρείαν ἔχει τοῦ ἡλίου οὐδὲ τῆς σελήνης ἵνα φαίνωσιν αὐτῇ, “The city has no need for the sun, neither of the moon, to shine” — φαίνω, from the appear family: to give light. Isaiah: ‘The sun will be no more your light by day... but the LORD will be your everlasting light.’ ἡ γὰρ δόξα τοῦ θεοῦ ἐφώτισεν αὐτήν, καὶ ὁ λύχνος αὐτῆς τὸ ἀρνίον, “for the very glory of God illuminated it, and its lamp is the Lamb” — λύχνος, lamp; ἀρνίον, from the lamb family. The light that went out in Babylon (18:23) shines forever here.",
+      "words": [
+        {
+          "strongs": "G4172",
+          "hebrew": "πόλις",
+          "translit": "pólis",
+          "english": "city"
+        },
+        {
+          "strongs": "G5532",
+          "hebrew": "χρεία",
+          "translit": "chreía",
+          "english": "need"
+        },
+        {
+          "strongs": "G2246",
+          "hebrew": "ἥλιος",
+          "translit": "hḗlios",
+          "english": "sun"
+        },
+        {
+          "strongs": "G4582",
+          "hebrew": "σελήνη",
+          "translit": "selḗnē",
+          "english": "moon"
+        },
+        {
+          "strongs": "G5316",
+          "hebrew": "φαίνω",
+          "translit": "phaínō",
+          "english": "shine"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G2316",
+          "hebrew": "θεός",
+          "translit": "theós",
+          "english": "God"
+        },
+        {
+          "strongs": "G5461",
+          "hebrew": "φωτίζω",
+          "translit": "phōtízō",
+          "english": "illuminated"
+        },
+        {
+          "strongs": "G3088",
+          "hebrew": "λύχνος",
+          "translit": "lýchnos",
+          "english": "lamp"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "text": "The nations will walk in its light. The kings of the earth bring the glory and honor of the nations into it.",
+      "understanding": "καὶ περιπατήσουσιν τὰ ἔθνη διὰ τοῦ φωτὸς αὐτῆς, “The nations will walk in its light” — Isaiah 60: ‘Nations will come to your light, and kings to the brightness of your rising.’ καὶ οἱ βασιλεῖς τῆς γῆς φέρουσιν τὴν δόξαν αὐτῶν εἰς αὐτήν, “The kings of the earth bring the glory and honor of the nations into it” — γῆ, from the world family. The kings who once committed immorality with Babylon (17:2) now bring their glory to God's city. All that is good in the world's cultures is purified and brought into the new creation.",
+      "words": [
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        },
+        {
+          "strongs": "G4043",
+          "hebrew": "περιπατέω",
+          "translit": "peripatéō",
+          "english": "walk"
+        },
+        {
+          "strongs": "G5457",
+          "hebrew": "φῶς",
+          "translit": "phōs",
+          "english": "light"
+        },
+        {
+          "strongs": "G935",
+          "hebrew": "βασιλεύς",
+          "translit": "basileús",
+          "english": "kings"
+        },
+        {
+          "strongs": "G1093",
+          "hebrew": "γῆ",
+          "translit": "gē",
+          "english": "earth"
+        },
+        {
+          "strongs": "G5342",
+          "hebrew": "φέρω",
+          "translit": "phérō",
+          "english": "bring"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "text": "Its gates will in no way be shut by day (for there will be no night there),",
+      "understanding": "καὶ οἱ πυλῶνες αὐτῆς οὐ μὴ κλεισθῶσιν ἡμέρας, “Its gates will in no way be shut by day” — πυλών; κλείω; ἡμέρα, from the time family. City gates were shut at night for safety; here there is no danger. νὺξ γὰρ οὐκ ἔσται ἐκεῖ, “(for there will be no night there)” — no darkness, no fear, no evil. The open gates proclaim welcome.",
+      "words": [
+        {
+          "strongs": "G4440",
+          "hebrew": "πυλών",
+          "translit": "pylṓn",
+          "english": "gates"
+        },
+        {
+          "strongs": "G2808",
+          "hebrew": "κλείω",
+          "translit": "kleíō",
+          "english": "shut"
+        },
+        {
+          "strongs": "G2250",
+          "hebrew": "ἡμέρα",
+          "translit": "hēméra",
+          "english": "day"
+        },
+        {
+          "strongs": "G3571",
+          "hebrew": "νύξ",
+          "translit": "nýx",
+          "english": "night"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "text": "and they shall bring the glory and the honor of the nations into it so that they may enter.",
+      "understanding": "καὶ οἴσουσιν τὴν δόξαν καὶ τὴν τιμὴν τῶν ἐθνῶν εἰς αὐτήν, “and they shall bring the glory and the honor of the nations into it” — φέρω: the riches of every culture — art, music, learning, beauty — redeemed and offered to God. Nothing good is lost.",
+      "words": [
+        {
+          "strongs": "G5342",
+          "hebrew": "φέρω",
+          "translit": "phérō",
+          "english": "bring"
+        },
+        {
+          "strongs": "G1391",
+          "hebrew": "δόξα",
+          "translit": "dóxa",
+          "english": "glory"
+        },
+        {
+          "strongs": "G5092",
+          "hebrew": "τιμή",
+          "translit": "timḗ",
+          "english": "honor"
+        },
+        {
+          "strongs": "G1484",
+          "hebrew": "ἔθνος",
+          "translit": "éthnos",
+          "english": "nations"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "text": "There will in no way enter into it anything profane, or one who causes an abomination or a lie, but only those who are written in the Lamb’s book of life.",
+      "understanding": "καὶ οὐ μὴ εἰσέλθῃ εἰς αὐτὴν πᾶν κοινὸν καὶ ὁ ποιῶν βδέλυγμα καὶ ψεῦδος, “There will in no way enter into it anything profane, or one who causes an abomination or a lie” — κοινός, common, unclean; βδέλυγμα, the abominations of Babylon's cup (17:4); ψεῦδος, the lie of the beast. εἰ μὴ οἱ γεγραμμένοι ἐν τῷ βιβλίῳ τῆς ζωῆς τοῦ ἀρνίου, “but only those who are written in the Lamb’s book of life” — βιβλίον, from the book family; ζωή, from the life family; ἀρνίον, from the lamb family. The gates are always open, but only those who belong to the Lamb will enter.",
+      "words": [
+        {
+          "strongs": "G1525",
+          "hebrew": "εἰσέρχομαι",
+          "translit": "eisérchomai",
+          "english": "enter"
+        },
+        {
+          "strongs": "G2839",
+          "hebrew": "κοινός",
+          "translit": "koinós",
+          "english": "profane"
+        },
+        {
+          "strongs": "G4160",
+          "hebrew": "ποιέω",
+          "translit": "poiéō",
+          "english": "causes"
+        },
+        {
+          "strongs": "G946",
+          "hebrew": "βδέλυγμα",
+          "translit": "bdélygma",
+          "english": "abomination"
+        },
+        {
+          "strongs": "G5579",
+          "hebrew": "ψεῦδος",
+          "translit": "pseûdos",
+          "english": "lie"
+        },
+        {
+          "strongs": "G1125",
+          "hebrew": "γράφω",
+          "translit": "gráphō",
+          "english": "written"
+        },
+        {
+          "strongs": "G975",
+          "hebrew": "βιβλίον",
+          "translit": "biblíon",
+          "english": "book"
+        },
+        {
+          "strongs": "G2222",
+          "hebrew": "ζωή",
+          "translit": "zōḗ",
+          "english": "life"
+        },
+        {
+          "strongs": "G721",
+          "hebrew": "ἀρνίον",
+          "translit": "arníon",
+          "english": "Lamb’s"
+        }
+      ]
+    }
+  ],
+  "visualMeditations": [
+    {
+      "title": "All Things New",
+      "verseRef": "v. 1-5",
+      "image": "Picture the old world — scarred by war, sickness, grief and death — dissolving like a morning mist. In its place, the same world made new: no sea to separate, no hospital, no cemetery. And from heaven a city descends, shining like a bride walking down the aisle toward her husband.",
+      "meaning": "“I saw a new heaven and a new earth” (v. 1). “Behold, God’s dwelling is with people, and he will dwell with them” (v. 3). “He who sits on the throne said, ‘Behold, I am making all things new’” (v. 5). The end of the story is not escape from the world but its renewal, with God at home among His people."
+    },
+    {
+      "title": "Every Tear",
+      "verseRef": "v. 4",
+      "image": "Picture every grief you have ever carried: every funeral, every betrayal, every diagnosis, every tear shed alone at night. Then picture God Himself kneeling before you, taking your face in His hands, and gently wiping each tear away — for the last time.",
+      "meaning": "“He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away” (v. 4)."
+    },
+    {
+      "title": "The City of Gold and Glass",
+      "verseRef": "v. 10-21",
+      "image": "Picture a city like a vast cube of light, its walls of jasper, its foundations glittering with twelve kinds of jewel, its streets of gold so pure you can see through them, its twelve gates each carved from a single pearl — and the names of Israel's tribes and the Lamb's apostles written on gates and foundations.",
+      "meaning": "“He... showed me the holy city, Jerusalem, coming down out of heaven from God, having the glory of God” (vv. 10–11). Everything Babylon wore as a costume, the new Jerusalem is in reality. God's people, Old and New, are built together into a dwelling for Him."
+    },
+    {
+      "title": "No Temple, No Sun",
+      "verseRef": "v. 22-25",
+      "image": "Picture a city without a single church building, yet everyone in it worshipping; without sun or moon, yet blazing with light; its gates standing open day and night because there is no night and nothing to fear — and the nations streaming in with their treasures.",
+      "meaning": "“I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple” (v. 22). “For the very glory of God illuminated it, and its lamp is the Lamb” (v. 23). Heaven is not a place with God in it; it is God's presence filling everything."
+    }
+  ],
+  "commentary": {
+    "structure": [
+      {
+        "label": "The New Creation (v. 1-8)",
+        "body": "John sees a new heaven and a new earth, the first having passed away and the sea gone; he sees the holy city, the new Jerusalem, coming down from God like a bride; a voice announces that God's dwelling is with people; He will wipe away every tear, and death, mourning, crying and pain will be gone; God declares, ‘I am making all things new’, promises the water of life freely to the thirsty and the inheritance to the overcomer, and warns that the cowardly, unbelieving and wicked will have their part in the lake of fire."
+      },
+      {
+        "label": "The Bride, the City (v. 9-21)",
+        "body": "One of the bowl angels shows John the bride of the Lamb: the holy city Jerusalem coming down from heaven, shining with God's glory; it has a great high wall with twelve gates named for the twelve tribes and twelve foundations named for the twelve apostles; the angel measures it with a golden rod — a perfect cube, about 12,000 stadia each way; its wall is jasper, the city pure gold like glass, the foundations adorned with twelve precious stones, the gates twelve pearls, the street pure gold."
+      },
+      {
+        "label": "God's Presence Is Everything (v. 22-27)",
+        "body": "There is no temple in the city, for God and the Lamb are its temple; it needs no sun or moon, for God's glory is its light and the Lamb its lamp; the nations walk by its light, and kings bring their glory into it; its gates are never shut, for there is no night; nothing unclean enters, but only those written in the Lamb's book of life."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "A New Heaven and a New Earth",
+        "paragraphs": [
+          "After the last judgement, John sees the goal of all history: “I saw a new heaven and a new earth: for the first heaven and the first earth have passed away, and the sea is no more” (v. 1). The word for ‘new’ is καινός, new in kind and quality. God does not throw away His creation and start again; He renews it, as He renews a person in Christ: “Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new” (2 Corinthians 5:17). Paul says creation itself “will be delivered from the bondage of decay into the liberty of the glory of the children of God” (Romans 8:21).",
+          "‘The sea is no more.’ In Revelation the sea is where the beast arose (13:1), the place of chaos and danger. For John on Patmos, it was also what separated him from the churches he loved. In the new creation nothing threatening, and nothing that separates, remains.",
+          "And at the centre is the great promise of the whole Bible: “Behold, God’s dwelling is with people, and he will dwell with them, and they will be his people, and God himself will be with them as their God” (v. 3). From the garden of Eden, through the tabernacle and temple, to the Word made flesh who ‘tabernacled’ among us, God has been moving toward this: living with His people, face to face, forever. Peter wrote, “we look for new heavens and a new earth, in which righteousness dwells” (2 Peter 3:13)."
+        ]
+      },
+      {
+        "heading": "No More Tears",
+        "paragraphs": [
+          "“He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away” (v. 4). These are some of the most loved words in the Bible, and rightly so. Everything that has made life in this world painful — death, grief, cries of anguish, suffering — will be gone forever. And it is God Himself who wipes the tears away.",
+          "Then God speaks from the throne: “Behold, I am making all things new” (v. 5). It is not ‘all new things’ but ‘all things new’. And He adds, “I have become the Alpha and the Omega, the Beginning and the End. I will give freely to him who is thirsty from the spring of the water of life” (v. 6) — many manuscripts begin, ‘It is done!’ The God who began everything finishes everything; and the invitation is still open and still free. Jesus cried, “If anyone is thirsty, let him come to me and drink!” (John 7:37).",
+          "The promise to the overcomer sums up all seven letters: “He who overcomes, I will give him these things. I will be his God, and he will be my son” (v. 7). But there is also a warning, addressed above all to the churches: the cowardly who deny Christ under pressure, the unbelieving, the abominable, murderers, the immoral, sorcerers, idolaters and liars will have their part in the lake of fire (v. 8). The list describes those who persist in these things without repentance. Paul gives a similar list, and then adds the gospel: “Such were some of you, but you were washed. But you were sanctified. But you were justified in the name of the Lord Jesus” (1 Corinthians 6:11)."
+        ]
+      },
+      {
+        "heading": "The Bride, the Lamb's Wife",
+        "paragraphs": [
+          "One of the bowl angels — the same kind who showed John the prostitute (17:1) — now says, “Come here. I will show you the wife, the Lamb’s bride” (v. 9). The contrast is deliberate. Babylon was seen from a wilderness; the bride from a great high mountain. Babylon sat on the beast; the bride comes down from God. Babylon wore gold, jewels and pearls as a costume; the new Jerusalem is built of them.",
+          "The city has “a great and high wall; having twelve gates... and names written on them, which are the names of the twelve tribes of the children of Israel” (v. 12), and “twelve foundations, and on them twelve names of the twelve Apostles of the Lamb” (v. 14). The people of God of both Testaments are built into one city. Paul wrote that believers are “being built on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone; in whom the whole building, fitted together, grows into a holy temple in the Lord” (Ephesians 2:20–21).",
+          "The angel measures the city: it is a perfect cube, about 12,000 stadia in each direction (v. 16) — roughly 2,200 kilometres, the size of the known world. The only perfect cube in the Old Testament was the Most Holy Place, where God's presence dwelt. The whole city is now the Holy of Holies: God's people live where only the high priest once entered, once a year. The numbers are all twelves and multiples of twelve — the number of God's people — and the jewels of the foundations recall the twelve stones on the high priest's breastplate."
+        ]
+      },
+      {
+        "heading": "God and the Lamb Are Its Temple",
+        "paragraphs": [
+          "Then the most surprising feature: “I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple” (v. 22). The temple was always a sign of God's presence and a barrier to it — a place where only some could go, only at certain times. In the new Jerusalem the sign is replaced by the reality. God's presence fills everything, directly and openly.",
+          "“The city has no need for the sun, neither of the moon, to shine, for the very glory of God illuminated it, and its lamp is the Lamb” (v. 23). The light that went out in Babylon (18:23) shines forever here. And “The nations will walk in its light. The kings of the earth bring the glory and honor of the nations into it” (v. 24). The kings who once committed immorality with Babylon now bring their treasures to God. Whatever is good in human culture — beauty, skill, wisdom, art — will be purified and brought in.",
+          "“Its gates will in no way be shut by day (for there will be no night there)” (v. 25). The open gates speak of perfect safety and endless welcome. Yet “There will in no way enter into it anything profane, or one who causes an abomination or a lie, but only those who are written in the Lamb’s book of life” (v. 27). The door is wide open; the only way in is to belong to the Lamb. Abraham “looked for the city which has the foundations, whose builder and maker is God” (Hebrews 11:10). This is that city."
+        ]
+      }
+    ],
+    "ntConnection": {
+      "heading": "The City God Has Prepared",
+      "paragraphs": [
+        "Hebrews says of the faithful who died without receiving the promises: “But now they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them” (Hebrews 11:16). Paul calls it “the Jerusalem that is above is free, which is the mother of us all” (Galatians 4:26).",
+        "Jesus promised, “He who believes in me, as the Scripture has said, from within him will flow rivers of living water” (John 7:38) — a foretaste now of the spring of the water of life given freely in the new creation (v. 6).",
+        "And Paul describes the church as God's dwelling under construction: “in whom you also are built together for a habitation of God in the Spirit” (Ephesians 2:22). The new Jerusalem is that building complete."
+      ]
+    }
+  },
+  "lexicon": [
+    {
+      "english": "New",
+      "hebrew": "καινός",
+      "translit": "kainós",
+      "strongs": "G2537 (End τέλος, télos, G5056)",
+      "verses": "v. 1, 2, 5; 2:17; 3:12; 5:9; 14:3",
+      "insight": "Strong's: “new (especially in freshness; while G3501 (νέος) is properly so with respect to age.” καινός, from the new family, means new in kind or quality — fresh, renewed — while νέος means new in time, young, recent. Revelation always uses καινός: a new name, a new song, the new Jerusalem, a new heaven and a new earth, ‘all things new’. God does not discard His creation; He makes it new in quality, as He makes a sinner a new creation in Christ."
+    },
+    {
+      "english": "Dwelling / tabernacle",
+      "hebrew": "σκηνή",
+      "translit": "skēnḗ",
+      "strongs": "G4633 (dwell σκηνόω, skēnóō, G4637)",
+      "verses": "v. 3; 13:6; 15:5",
+      "insight": "Strong's: “a tent or cloth hut (literally or figuratively).” σκηνή is a tent — the word used for the tabernacle in the wilderness, where God's presence dwelt among Israel. Its verb σκηνόω is used when ‘the Word became flesh, and lived (tabernacled) among us’ (John 1:14). Revelation 21:3 is the climax of this whole story: ‘God’s dwelling (σκηνή) is with people, and he will dwell (σκηνόω) with them.’ The tent of meeting becomes the eternal home."
+    },
+    {
+      "english": "Foundations",
+      "hebrew": "θεμέλιος",
+      "translit": "themélios",
+      "strongs": "G2310 (Apostles ἀπόστολος, apóstolos, G652)",
+      "verses": "v. 14, 19",
+      "insight": "Strong's: “something put down, i.e. a substruction (of a building, etc.), (literally or figuratively).” θεμέλιος is the foundation that everything else rests on. The new Jerusalem has twelve foundations bearing the names of the twelve apostles of the Lamb, each adorned with a precious stone. Paul says the church is built ‘on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone’, and that ‘no one can lay any other foundation than that which has been laid, which is Jesus Christ’."
+    },
+    {
+      "english": "Freely",
+      "hebrew": "δωρεάν",
+      "translit": "dōreán",
+      "strongs": "G1432 (spring πηγή, pēgḗ, G4077)",
+      "verses": "v. 6; 22:17",
+      "insight": "Strong's: “gratuitously (literally or figuratively).” δωρεάν, from δωρεά (a gift), means ‘as a gift, without payment’. Paul uses it of justification: ‘being justified freely by his grace’ (Romans 3:24). The water of life is given δωρεάν (21:6), and the book's last invitation repeats it: ‘He who desires, let him take the water of life freely’ (22:17). Babylon sold everything, even human souls; God gives the best thing of all for nothing."
+    },
+    {
+      "english": "Profane",
+      "hebrew": "κοινός",
+      "translit": "koinós",
+      "strongs": "G2839 (abomination βδέλυγμα, bdélygma, G946)",
+      "verses": "v. 27",
+      "insight": "Strong's: “common, i.e. (literally) shared by all or several, or (ceremonially) profane.” κοινός means ‘common’ — shared by all, as in the early church holding all things ‘in common’ — but also ritually unclean, unfit for God's presence. Peter was told, ‘What God has cleansed, you must not call unclean (κοινός).’ Nothing unclean enters the new Jerusalem; but the Lamb has cleansed all whose names are in His book."
+    }
+  ],
+  "holySpiritRevelation": {
+    "intro": "In this chapter the Holy Spirit shows you your true home and your future.",
+    "items": [
+      {
+        "title": "Your Tears Will End",
+        "body": "“He will wipe away every tear from their eyes” (v. 4). The Spirit wants you to carry this promise into every grief. Your sorrow is real, but it is temporary. God Himself will wipe your eyes, and death and pain will be gone forever."
+      },
+      {
+        "title": "God Wants to Live with You",
+        "body": "“Behold, God’s dwelling is with people” (v. 3). The whole Bible has been moving toward this: God at home with His people. The Spirit invites you to begin living in that presence now — to know God not as a distant ruler, but as the One who dwells with you."
+      },
+      {
+        "title": "Come and Drink Freely",
+        "body": "“I will give freely to him who is thirsty from the spring of the water of life” (v. 6). The Spirit offers you, today, the water of life — free. Whatever you are thirsty for, come to Jesus and drink."
+      }
+    ]
+  },
+  "lifeApplication": {
+    "auditIntro": "Ask yourself deeply and honestly:",
+    "audit": [
+      {
+        "title": "The Hope Check",
+        "body": "Do you think of your future mainly as ‘going to heaven’ or as living with God in a renewed creation (vv. 1–3)? How does that change how you treat the world now?"
+      },
+      {
+        "title": "The Thirst Check",
+        "body": "What are you thirsty for? Are you trying to satisfy it in Babylon, or at the spring of the water of life (v. 6)?"
+      },
+      {
+        "title": "The Book Check",
+        "body": "Is your name written in the Lamb's book of life (v. 27)? How do you know?"
+      }
+    ],
+    "practicesIntro": "Live this chapter by:",
+    "practices": [
+      {
+        "title": "Write a Letter from the New Creation",
+        "body": "Write a short letter to yourself as if from the new Jerusalem, describing what is gone (tears, pain, death) and what is there (God, the Lamb, the nations, light). Read it on a hard day this week."
+      },
+      {
+        "title": "Bring Your Glory",
+        "body": "The kings bring their glory into the city (v. 24). Choose one gift or skill you have — music, cooking, craft, learning, hospitality — and use it this week as an offering of worship to God and a blessing to others."
+      }
+    ]
+  },
+  "prayerReflection": "“God on the throne, thank You that You are making all things new. Thank You for the promise of a new heaven and a new earth, where the sea of chaos is no more. Thank You for the holy city coming down from heaven like a bride. Thank You that Your dwelling will be with Your people, and that You will be our God and we Your people. Lord, wipe away every tear. I long for the day when death, mourning, crying and pain are gone forever. You are the Alpha and the Omega, the Beginning and the End; You finish what You start. I am thirsty: give me the water of life freely. Help me overcome, and let me be Your child forever. Thank You that there will be no temple, because You and the Lamb are its temple, and no sun, because Your glory is its light. Thank You that my name is written in the Lamb's book of life. Bring the nations into Your light. Amen.”",
+  "storyConnections": [
+    {
+      "title": "Abraham Looking for a City",
+      "ref": "Genesis 12:1-9; Hebrews 11:8-16",
+      "relatedVerses": "v. 2, 14",
+      "summary": "God called Abraham to leave his home in Ur and go to a land he did not know. He lived in tents in the land of promise, as a stranger, with Isaac and Jacob. Hebrews explains why: “For he looked for the city which has the foundations, whose builder and maker is God” (Hebrews 11:10). Abraham never saw that city in his lifetime. Revelation 21 shows it at last: the city with foundations, built by God, where Abraham and all his true children will live."
+    },
+    {
+      "title": "Solomon's Most Holy Place",
+      "ref": "1 Kings 6:19-22",
+      "relatedVerses": "v. 16, 18",
+      "summary": "In the temple Solomon built, the inner sanctuary — the Most Holy Place, where the ark of the covenant stood — was a perfect cube, twenty cubits long, wide and high, and entirely overlaid with pure gold. Only the high priest could enter it, once a year, with blood. The new Jerusalem is a perfect cube of pure gold: the whole city is the Most Holy Place, and all God's people live there in His presence, forever."
+    },
+    {
+      "title": "Ezekiel's City: ‘The LORD Is There’",
+      "ref": "Ezekiel 40–48",
+      "relatedVerses": "v. 10-16",
+      "summary": "In exile, Ezekiel was taken in a vision to a very high mountain and shown a new temple and city, measured by a man with a measuring reed. A river flowed from the temple, giving life wherever it went. The city had twelve gates named for the twelve tribes of Israel, and its name was ‘The LORD Is There’. Revelation 21–22 fulfils Ezekiel's vision — the high mountain, the measuring reed, the twelve gates, the river of life — and its name is still true: the Lord is there."
+    }
+  ]
+}
